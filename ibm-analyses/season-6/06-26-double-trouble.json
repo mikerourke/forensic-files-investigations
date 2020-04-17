@@ -1,0 +1,6471 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 14035,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Melissa",
+      "relevance": 0.958096,
+      "confidence": 1,
+      "count": 18
+    },
+    {
+      "type": "Person",
+      "text": "Melissa Padilla",
+      "relevance": 0.807651,
+      "confidence": 1,
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Vicki Gardner",
+      "relevance": 0.501997,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Location",
+      "text": "New Jersey",
+      "relevance": 0.352864,
+      "confidence": 1,
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Stephen Fortin",
+      "relevance": 0.293143,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "three hundred years",
+      "relevance": 0.244618,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Maine",
+      "relevance": 0.215494,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Location",
+      "text": "Avenel",
+      "relevance": 0.20958,
+      "confidence": 0.995163,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty one years",
+      "relevance": 0.197589,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Woodbridge police department",
+      "relevance": 0.166984,
+      "confidence": 0.672962,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Hazelwood",
+      "relevance": 0.160494,
+      "confidence": 0.999915,
+      "count": 6
+    },
+    {
+      "type": "Location",
+      "text": "Perth Amboy",
+      "relevance": 0.158304,
+      "confidence": 0.741275,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Eight months",
+      "relevance": 0.153473,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "eleven year",
+      "relevance": 0.151544,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Amboy",
+      "relevance": 0.140822,
+      "confidence": 0.582306,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Lieutenant Lancaster",
+      "relevance": 0.135181,
+      "confidence": 0.485679,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Fortin",
+      "relevance": 0.134211,
+      "confidence": 0.999939,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Stephen Ford",
+      "relevance": 0.130867,
+      "confidence": 0.999922,
+      "count": 2,
+      "disambiguation": {
+        "name": "Stephen_Ford",
+        "dbpedia_resource": "http://dbpedia.org/resource/Stephen_Ford"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Vicky",
+      "relevance": 0.130291,
+      "confidence": 0.999999,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Mullis",
+      "relevance": 0.123274,
+      "confidence": 0.997384,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "townships Carter",
+      "relevance": 0.118539,
+      "confidence": 0.378885,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Puerto Rico",
+      "relevance": 0.112072,
+      "confidence": 0.989545,
+      "count": 1,
+      "disambiguation": {
+        "name": "Puerto_Rico",
+        "dbpedia_resource": "http://dbpedia.org/resource/Puerto_Rico",
+        "subtype": [
+          "GeographicFeature",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "Island",
+          "USTerritory"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "dawn archer",
+      "relevance": 0.10556,
+      "confidence": 0.57312,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Perth",
+      "relevance": 0.104265,
+      "confidence": 0.995157,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "New York City",
+      "relevance": 0.093788,
+      "confidence": 0.954734,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Melissa Patillas",
+      "relevance": 0.092089,
+      "confidence": 0.99481,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Plasterk",
+      "relevance": 0.091704,
+      "confidence": 0.977307,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mister Ford",
+      "relevance": 0.087465,
+      "confidence": 0.851344,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "chan",
+      "relevance": 0.08301,
+      "confidence": 0.965896,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "New Jersey state police",
+      "relevance": 0.079771,
+      "confidence": 0.155358,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Gardiner",
+      "relevance": 0.078641,
+      "confidence": 0.999847,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Alyssa Padilla",
+      "relevance": 0.072921,
+      "confidence": 0.993993,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "America",
+      "relevance": 0.071095,
+      "confidence": 0.998697,
+      "count": 1,
+      "disambiguation": {
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Tom",
+      "relevance": 0.067413,
+      "confidence": 0.983699,
+      "count": 1
+    },
+    {
+      "type": "Broadcaster",
+      "text": "fox news",
+      "relevance": 0.051978,
+      "confidence": 0.384344,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "seven years",
+      "relevance": 0.051749,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Steve",
+      "relevance": 0.03899,
+      "confidence": 0.994844,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Levin",
+      "relevance": 0.037739,
+      "confidence": 0.989891,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Scott",
+      "relevance": 0.036754,
+      "confidence": 0.992485,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Levin",
+      "relevance": 0.036033,
+      "confidence": 0.990423,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Maine state",
+      "relevance": 0.032923,
+      "confidence": 0.544335,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Levine",
+      "relevance": 0.032045,
+      "confidence": 0.99891,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Raleigh",
+      "relevance": 0.031187,
+      "confidence": 0.444688,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "FBI",
+      "relevance": 0.029363,
+      "confidence": 0.996696,
+      "count": 1,
+      "disambiguation": {
+        "name": "FBi_Radio",
+        "dbpedia_resource": "http://dbpedia.org/resource/FBi_Radio",
+        "subtype": [
+          "Broadcast",
+          "RadioStation"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "New York",
+      "relevance": 0.024679,
+      "confidence": 0.863024,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Stephen port",
+      "relevance": 0.023996,
+      "confidence": 0.779725,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Gardner",
+      "relevance": 0.021905,
+      "confidence": 0.184068,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Stephen",
+      "relevance": 0.020433,
+      "confidence": 0.999836,
+      "count": 1,
+      "disambiguation": {
+        "name": "Sheamus",
+        "dbpedia_resource": "http://dbpedia.org/resource/Sheamus"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Steve Martin",
+      "relevance": 0.017369,
+      "confidence": 0.999232,
+      "count": 1,
+      "disambiguation": {
+        "name": "Steve_Martin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Steve_Martin",
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Comedian",
+          "FilmProducer",
+          "MusicalGroupMember",
+          "TVDirector",
+          "TVProducer",
+          "FilmActor",
+          "FilmWriter",
+          "Lyricist",
+          "TVActor"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Roy Hazelwood",
+      "relevance": 0.01135,
+      "confidence": 0.997624,
+      "count": 1,
+      "disambiguation": {
+        "name": "Roy_Hazelwood",
+        "dbpedia_resource": "http://dbpedia.org/resource/Roy_Hazelwood"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Lowell Levine",
+      "relevance": 0.011019,
+      "confidence": 0.931811,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two days",
+      "relevance": 0.009159,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Trenton state prison",
+      "relevance": 0.002883,
+      "confidence": 0.185102,
+      "count": 1,
+      "disambiguation": {
+        "name": "New_Jersey_State_Prison",
+        "dbpedia_resource": "http://dbpedia.org/resource/New_Jersey_State_Prison",
+        "subtype": [
+          "Location",
+          "School"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Melissa Diest",
+      "relevance": 0.002148,
+      "confidence": 0.999497,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Ford",
+      "relevance": 0.001188,
+      "confidence": 0.929782,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.979744
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.799314
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.790279
+    },
+    {
+      "label": "/society/crime/sexual offence/rape",
+      "score": 0.742443
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.713267
+    },
+    {
+      "label": "/law, govt and politics/law enforcement",
+      "score": 0.69339
+    },
+    {
+      "label": "/society/crime/property crime/robbery",
+      "score": 0.561154
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.302559,
+      "sentence": "This is the story of two crimes committed in different states five hundred miles apart.",
+      "type": "populationOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "five",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            62,
+            66
+          ],
+          "text": "five"
+        },
+        {
+          "entities": [
+            {
+              "text": "states",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            55,
+            61
+          ],
+          "text": "states"
+        }
+      ]
+    },
+    {
+      "score": 0.396923,
+      "sentence": "Melissa attended high school in Perth Amboy but quit in her junior year and later became pregnant.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            805,
+            812
+          ],
+          "text": "Melissa"
+        },
+        {
+          "entities": [
+            {
+              "text": "Perth Amboy",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            837,
+            848
+          ],
+          "text": "Perth Amboy"
+        }
+      ]
+    },
+    {
+      "score": 0.404672,
+      "sentence": "And on the very night in question he assaulted her in the parking lot of a restaurant and she called the police and he ran.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            8212,
+            8221
+          ],
+          "text": "assaulted"
+        },
+        {
+          "entities": [
+            {
+              "text": "parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8233,
+            8244
+          ],
+          "text": "parking lot"
+        }
+      ]
+    },
+    {
+      "score": 0.831987,
+      "sentence": "And on the very night in question he assaulted her in the parking lot of a restaurant and she called the police and he ran.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8222,
+            8225
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8233,
+            8244
+          ],
+          "text": "parking lot"
+        }
+      ]
+    },
+    {
+      "score": 0.362269,
+      "sentence": "And on the very night in question he assaulted her in the parking lot of a restaurant and she called the police and he ran.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8222,
+            8225
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "restaurant",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8250,
+            8260
+          ],
+          "text": "restaurant"
+        }
+      ]
+    },
+    {
+      "score": 0.98852,
+      "sentence": "And on the very night in question he assaulted her in the parking lot of a restaurant and she called the police and he ran.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8265,
+            8268
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8269,
+            8275
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.956559,
+      "sentence": "And on the very night in question he assaulted her in the parking lot of a restaurant and she called the police and he ran.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8280,
+            8286
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8269,
+            8275
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.502406,
+      "sentence": "That restaurant but Scott was a short walk from the jam motel where Melissa was living.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Scott",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8319,
+            8324
+          ],
+          "text": "Scott"
+        },
+        {
+          "entities": [
+            {
+              "text": "motel",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8355,
+            8360
+          ],
+          "text": "motel"
+        }
+      ]
+    },
+    {
+      "score": 0.23125,
+      "sentence": "That restaurant but Scott was a short walk from the jam motel where Melissa was living.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8367,
+            8374
+          ],
+          "text": "Melissa"
+        },
+        {
+          "entities": [
+            {
+              "text": "motel",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8361,
+            8366
+          ],
+          "text": "where"
+        }
+      ]
+    },
+    {
+      "score": 0.414989,
+      "sentence": "The police report listed the time of the assault on dawn archer as ten thirty PM an hour before Melissa was murdered at last authorities have a suspect Melissa's brother got the word a day after his birthday.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "an hour",
+              "type": "Duration"
+            }
+          ],
+          "location": [
+            8468,
+            8475
+          ],
+          "text": "an hour"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            8428,
+            8435
+          ],
+          "text": "assault"
+        }
+      ]
+    },
+    {
+      "score": 0.412262,
+      "sentence": "The police report listed the time of the assault on dawn archer as ten thirty PM an hour before Melissa was murdered at last authorities have a suspect Melissa's brother got the word a day after his birthday.",
+      "type": "siblingOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8539,
+            8546
+          ],
+          "text": "Melissa"
+        },
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8549,
+            8556
+          ],
+          "text": "brother"
+        }
+      ]
+    },
+    {
+      "score": 0.381111,
+      "sentence": "Pression along with photographs of the bite marks were sent to doctor low living a respected forensic odontology just who worked for the New York state police.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9376,
+            9379
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "New York City",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9395,
+            9403
+          ],
+          "text": "New York"
+        }
+      ]
+    },
+    {
+      "score": 0.396875,
+      "sentence": "Melissa attended high school in Perth Amboy but quit in her junior year and later became pregnant.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "high school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            822,
+            833
+          ],
+          "text": "high school"
+        },
+        {
+          "entities": [
+            {
+              "text": "Perth Amboy",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            837,
+            848
+          ],
+          "text": "Perth Amboy"
+        }
+      ]
+    },
+    {
+      "score": 0.338748,
+      "sentence": "Pression along with photographs of the bite marks were sent to doctor low living a respected forensic odontology just who worked for the New York state police.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Woodbridge",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9404,
+            9409
+          ],
+          "text": "state"
+        },
+        {
+          "entities": [
+            {
+              "text": "New York City",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9395,
+            9403
+          ],
+          "text": "New York"
+        }
+      ]
+    },
+    {
+      "score": 0.798676,
+      "sentence": "Pression along with photographs of the bite marks were sent to doctor low living a respected forensic odontology just who worked for the New York state police.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9410,
+            9416
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "New York City",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9395,
+            9403
+          ],
+          "text": "New York"
+        }
+      ]
+    },
+    {
+      "score": 0.637462,
+      "sentence": "These are Mister Ford's team to actually models of them and they're made the same way as the orthodontist would take models or the dentist takes models to do prosthetic devices if you take a look at the upper teeth he's got a space between those two middle front ones on the one on the right is bigger than the one on the left because to cap and in fact the biting surface is slightly wider also from front to back if you look at the models of lower teeth the very very straight across the bottom of them he's got almost no where on the insides alleges so they leave a linear markings rather than rectangles and they're very very straight across he's got the slightly pointed canines so he doesn't have a whole lot of where.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "team",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9442,
+            9446
+          ],
+          "text": "team"
+        },
+        {
+          "entities": [
+            {
+              "text": "Mister Ford",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9428,
+            9439
+          ],
+          "text": "Mister Ford"
+        }
+      ]
+    },
+    {
+      "score": 0.487991,
+      "sentence": "He found them to be a match.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Fortin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10228,
+            10230
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "models",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10237,
+            10241
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.918741,
+      "sentence": "Leaving nothing to chance prosecutors also brought in Raleigh Hazelwood a former FBI profiler and an expert on criminal behavior.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "profiler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10342,
+            10350
+          ],
+          "text": "profiler"
+        },
+        {
+          "entities": [
+            {
+              "text": "FBI",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10338,
+            10341
+          ],
+          "text": "FBI"
+        }
+      ]
+    },
+    {
+      "score": 0.499323,
+      "sentence": "Hazelwood concluded that the same man had indeed committed both crimes.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Raleigh Hazelwood",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10665,
+            10674
+          ],
+          "text": "Hazelwood"
+        },
+        {
+          "entities": [
+            {
+              "text": "concluded",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10675,
+            10684
+          ],
+          "text": "concluded"
+        }
+      ]
+    },
+    {
+      "score": 0.843867,
+      "sentence": "The prosecutor's case rested almost entirely on the opinions of two forensic experts.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10895,
+            10905
+          ],
+          "text": "prosecutor"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10908,
+            10912
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.358042,
+      "sentence": "The murder of Melissa Padilla and the assault of a Maine state trooper were so strikingly similar this became a critical part of the prosecution's case.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Maine",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11028,
+            11033
+          ],
+          "text": "Maine"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11015,
+            11022
+          ],
+          "text": "assault"
+        }
+      ]
+    },
+    {
+      "score": 0.623257,
+      "sentence": "The murder of Melissa Padilla and the assault of a Maine state trooper were so strikingly similar this became a critical part of the prosecution's case.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Woodbridge",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11034,
+            11039
+          ],
+          "text": "state"
+        },
+        {
+          "entities": [
+            {
+              "text": "Maine",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11028,
+            11033
+          ],
+          "text": "Maine"
+        }
+      ]
+    },
+    {
+      "score": 0.593642,
+      "sentence": "Stephen fortunes trial Maine state trooper Vicki Gardner took the stand to describe how fourteen had beaten and sexually assaulted.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Woodbridge",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11159,
+            11164
+          ],
+          "text": "state"
+        },
+        {
+          "entities": [
+            {
+              "text": "Maine",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11153,
+            11158
+          ],
+          "text": "Maine"
+        }
+      ]
+    },
+    {
+      "score": 0.526421,
+      "sentence": "The murder of Melissa Padilla and the assault of a Maine state trooper were so strikingly similar this became a critical part of the prosecution's case.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "perpetrator",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11040,
+            11047
+          ],
+          "text": "trooper"
+        },
+        {
+          "entities": [
+            {
+              "text": "Maine",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11028,
+            11033
+          ],
+          "text": "Maine"
+        }
+      ]
+    },
+    {
+      "score": 0.242392,
+      "sentence": "Melissa attended high school in Perth Amboy but quit in her junior year and later became pregnant.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            861,
+            864
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "junior",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            865,
+            871
+          ],
+          "text": "junior"
+        }
+      ]
+    },
+    {
+      "score": 0.730332,
+      "sentence": "Stephen fortunes trial Maine state trooper Vicki Gardner took the stand to describe how fourteen had beaten and sexually assaulted.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Vicki Gardner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11165,
+            11172
+          ],
+          "text": "trooper"
+        },
+        {
+          "entities": [
+            {
+              "text": "Woodbridge",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11159,
+            11164
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.866698,
+      "sentence": "Stephen fortunes trial Maine state trooper Vicki Gardner took the stand to describe how fourteen had beaten and sexually assaulted.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Fourteen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11218,
+            11226
+          ],
+          "text": "fourteen"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11231,
+            11237
+          ],
+          "text": "beaten"
+        }
+      ]
+    },
+    {
+      "score": 0.54493,
+      "sentence": "Then we had to bring in witnesses and that brought the two crimes together and they were Hazelwood and living.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11341,
+            11345
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "Raleigh Hazelwood",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11351,
+            11360
+          ],
+          "text": "Hazelwood"
+        }
+      ]
+    },
+    {
+      "score": 0.541941,
+      "sentence": "Addressing the jury Hazelwood explained that some crimes like the murder of Melissa Padilla and the assault of trooper Gardner have unique patterns of behavior which he called rituals the ritual are those acts which are unnecessary to the commission of the crime and are carried out to meet the emotional needs of the offense.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "jury",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11388,
+            11392
+          ],
+          "text": "jury"
+        },
+        {
+          "entities": [
+            {
+              "text": "Raleigh Hazelwood",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11393,
+            11402
+          ],
+          "text": "Hazelwood"
+        }
+      ]
+    },
+    {
+      "score": 0.49788,
+      "sentence": "Addressing the jury Hazelwood explained that some crimes like the murder of Melissa Padilla and the assault of trooper Gardner have unique patterns of behavior which he called rituals the ritual are those acts which are unnecessary to the commission of the crime and are carried out to meet the emotional needs of the offense.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Vicki Gardner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11484,
+            11491
+          ],
+          "text": "trooper"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11473,
+            11480
+          ],
+          "text": "assault"
+        }
+      ]
+    },
+    {
+      "score": 0.35716,
+      "sentence": "Addressing the jury Hazelwood explained that some crimes like the murder of Melissa Padilla and the assault of trooper Gardner have unique patterns of behavior which he called rituals the ritual are those acts which are unnecessary to the commission of the crime and are carried out to meet the emotional needs of the offense.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Vicki Gardner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11492,
+            11499
+          ],
+          "text": "Gardner"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11473,
+            11480
+          ],
+          "text": "assault"
+        }
+      ]
+    },
+    {
+      "score": 0.686292,
+      "sentence": "Hazelwood identified five examples of ritualistic behavior that were common to both cases.",
+      "type": "populationOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "five",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            11776,
+            11780
+          ],
+          "text": "five"
+        },
+        {
+          "entities": [
+            {
+              "text": "Raleigh Hazelwood",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11755,
+            11764
+          ],
+          "text": "Hazelwood"
+        }
+      ]
+    },
+    {
+      "score": 0.99454,
+      "sentence": "Then Dr Levin explained to the jury that no two people have teeth patterns that are exactly the same.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Levine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12084,
+            12089
+          ],
+          "text": "Levin"
+        },
+        {
+          "entities": [
+            {
+              "text": "explained",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12090,
+            12099
+          ],
+          "text": "explained"
+        }
+      ]
+    },
+    {
+      "score": 0.799002,
+      "sentence": "What I basically did was to show the jurors that people leave bite marks that looked different we used to the prosecutor's myself and one of the investigators.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            12312,
+            12315
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "Investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12323,
+            12336
+          ],
+          "text": "investigators"
+        }
+      ]
+    },
+    {
+      "score": 0.477339,
+      "sentence": "Dr Levine showed the jury overlays of Steve Martin's T. were able to show the jury how the overlays over the life size photographs of the bite mark on the victim we did it by animating the overlay so that it moves across the stream and stops exactly on the bite mark and it was it was very effective and it was very dramatic and I think it worked very well.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "perpetrator",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12533,
+            12539
+          ],
+          "text": "victim"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12540,
+            12542
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.666892,
+      "sentence": "Melissa was able to scrape by for a while but then she fell behind on her rent and lost to report.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1241,
+            1244
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1262,
+            1268
+          ],
+          "text": "report"
+        }
+      ]
+    },
+    {
+      "score": 0.347666,
+      "sentence": "New Jersey authorities are coming for the jury deliberated Stephen port and stayed for two days before reaching their verdict.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen port",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12795,
+            12807
+          ],
+          "text": "Stephen port"
+        },
+        {
+          "entities": [
+            {
+              "text": "jury",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12778,
+            12782
+          ],
+          "text": "jury"
+        }
+      ]
+    },
+    {
+      "score": 0.948849,
+      "sentence": "Prosecutors ask for the death sentence and concluded by explaining to the jury why fourteen had bitten his victims on the chance.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12885,
+            12896
+          ],
+          "text": "Prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "ask",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12897,
+            12900
+          ],
+          "text": "ask"
+        }
+      ]
+    },
+    {
+      "score": 0.504548,
+      "sentence": "Prosecutors ask for the death sentence and concluded by explaining to the jury why fourteen had bitten his victims on the chance.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12885,
+            12896
+          ],
+          "text": "Prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "concluded",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12928,
+            12937
+          ],
+          "text": "concluded"
+        }
+      ]
+    },
+    {
+      "score": 0.44054,
+      "sentence": "Prosecutors ask for the death sentence and concluded by explaining to the jury why fourteen had bitten his victims on the chance.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Fourteen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12968,
+            12976
+          ],
+          "text": "fourteen"
+        },
+        {
+          "entities": [
+            {
+              "text": "explaining",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12941,
+            12951
+          ],
+          "text": "explaining"
+        }
+      ]
+    },
+    {
+      "score": 0.316143,
+      "sentence": "Prosecutors ask for the death sentence and concluded by explaining to the jury why fourteen had bitten his victims on the chance.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Fourteen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12968,
+            12976
+          ],
+          "text": "fourteen"
+        },
+        {
+          "entities": [
+            {
+              "text": "jury",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12959,
+            12963
+          ],
+          "text": "jury"
+        }
+      ]
+    },
+    {
+      "score": 0.584616,
+      "sentence": "Prosecutors ask for the death sentence and concluded by explaining to the jury why fourteen had bitten his victims on the chance.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Fortin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12988,
+            12991
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "victims",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12992,
+            12999
+          ],
+          "text": "victims"
+        }
+      ]
+    },
+    {
+      "score": 0.876025,
+      "sentence": "What we finally decided regarding the bite mark to the chin was that Stephen Ford was biting the victim on the chin while he was looking in her eyes and mutilating her genitals and that he was getting a perverse pleasure out of that.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Ford",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13084,
+            13096
+          ],
+          "text": "Stephen Ford"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13101,
+            13107
+          ],
+          "text": "biting"
+        }
+      ]
+    },
+    {
+      "score": 0.54756,
+      "sentence": "What we finally decided regarding the bite mark to the chin was that Stephen Ford was biting the victim on the chin while he was looking in her eyes and mutilating her genitals and that he was getting a perverse pleasure out of that.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Ford",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13137,
+            13139
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13168,
+            13178
+          ],
+          "text": "mutilating"
+        }
+      ]
+    },
+    {
+      "score": 0.452016,
+      "sentence": "Fourteen was sentenced to die by lethal injection.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Fourteen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13290,
+            13298
+          ],
+          "text": "Fourteen"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13303,
+            13312
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.628572,
+      "sentence": "I was I was grateful Roy Hazelwood in Lowell Levine were absolutely critical to the case this case like most murder cases depended on circumstantial evidence on forensic evidence on expert testimony.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roy Hazelwood",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13447,
+            13460
+          ],
+          "text": "Roy Hazelwood"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lowell Levine",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13464,
+            13477
+          ],
+          "text": "Lowell Levine"
+        }
+      ]
+    },
+    {
+      "score": 0.578673,
+      "sentence": "I was I was grateful Roy Hazelwood in Lowell Levine were absolutely critical to the case this case like most murder cases depended on circumstantial evidence on forensic evidence on expert testimony.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "profiler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13608,
+            13614
+          ],
+          "text": "expert"
+        },
+        {
+          "entities": [
+            {
+              "text": "testimony",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13615,
+            13624
+          ],
+          "text": "testimony"
+        }
+      ]
+    },
+    {
+      "score": 0.39481,
+      "sentence": "Melissa and her children then moved into the Jan motel.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1282,
+            1285
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1286,
+            1294
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.513729,
+      "sentence": "You'Re not supposed to bury your children's.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1890,
+            1894
+          ],
+          "text": "your"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1895,
+            1903
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.483082,
+      "sentence": "Melissa'S boyfriend who had stayed with her children was also eliminated sensually things started to appear that we have an unsolved homicide them with no suspect a to percent.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5098,
+            5101
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5102,
+            5110
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.617765,
+      "sentence": "And the tools those experts have to draw on says Hazelwood are growing more and more sophisticated every year I'm continuously amazed at the strides we've made in investigating crimes and solving crimes and prosecuting crimes.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "experts",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13646,
+            13653
+          ],
+          "text": "experts"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13670,
+            13674
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.767109,
+      "sentence": "And the tools those experts have to draw on says Hazelwood are growing more and more sophisticated every year I'm continuously amazed at the strides we've made in investigating crimes and solving crimes and prosecuting crimes.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roy Hazelwood",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13675,
+            13684
+          ],
+          "text": "Hazelwood"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13775,
+            13777
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.516399,
+      "sentence": "And the tools those experts have to draw on says Hazelwood are growing more and more sophisticated every year I'm continuously amazed at the strides we've made in investigating crimes and solving crimes and prosecuting crimes.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "perpetrator",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13736,
+            13737
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13775,
+            13777
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.443089,
+      "sentence": "Even Ford and is now in Trenton state prison awaiting execution.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mister Ford",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13858,
+            13862
+          ],
+          "text": "Ford"
+        },
+        {
+          "entities": [
+            {
+              "text": "execution",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13907,
+            13916
+          ],
+          "text": "execution"
+        }
+      ]
+    },
+    {
+      "score": 0.973391,
+      "sentence": "Even Ford and is now in Trenton state prison awaiting execution.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13891,
+            13897
+          ],
+          "text": "prison"
+        },
+        {
+          "entities": [
+            {
+              "text": "Trenton state",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13877,
+            13890
+          ],
+          "text": "Trenton state"
+        }
+      ]
+    },
+    {
+      "score": 0.237271,
+      "sentence": "Melissa Diest sons are living with their father her daughters are being raised by Melissa's mom.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13918,
+            13931
+          ],
+          "text": "Melissa Diest"
+        },
+        {
+          "entities": [
+            {
+              "text": "sons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13932,
+            13936
+          ],
+          "text": "sons"
+        }
+      ]
+    },
+    {
+      "score": 0.648975,
+      "sentence": "Melissa Diest sons are living with their father her daughters are being raised by Melissa's mom.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13959,
+            13965
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "sons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13953,
+            13958
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.46419,
+      "sentence": "Melissa Diest sons are living with their father her daughters are being raised by Melissa's mom.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13966,
+            13969
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "daughters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13970,
+            13979
+          ],
+          "text": "daughters"
+        }
+      ]
+    },
+    {
+      "score": 0.639781,
+      "sentence": "Melissa Diest sons are living with their father her daughters are being raised by Melissa's mom.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mom",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14010,
+            14013
+          ],
+          "text": "mom"
+        },
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14000,
+            14007
+          ],
+          "text": "Melissa"
+        }
+      ]
+    },
+    {
+      "score": 0.885894,
+      "sentence": "One of several cheap motels located along route one a main north south artery in Avenel New Jersey.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "artery",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1397,
+            1403
+          ],
+          "text": "artery"
+        },
+        {
+          "entities": [
+            {
+              "text": "north south",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1385,
+            1396
+          ],
+          "text": "north south"
+        }
+      ]
+    },
+    {
+      "score": 0.677886,
+      "sentence": "One of several cheap motels located along route one a main north south artery in Avenel New Jersey.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "north south",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1385,
+            1396
+          ],
+          "text": "north south"
+        },
+        {
+          "entities": [
+            {
+              "text": "Avenel New Jersey",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1407,
+            1424
+          ],
+          "text": "Avenel New Jersey"
+        }
+      ]
+    },
+    {
+      "score": 0.959881,
+      "sentence": "One of several cheap motels located along route one a main north south artery in Avenel New Jersey.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "artery",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1397,
+            1403
+          ],
+          "text": "artery"
+        },
+        {
+          "entities": [
+            {
+              "text": "Avenel New Jersey",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1407,
+            1424
+          ],
+          "text": "Avenel New Jersey"
+        }
+      ]
+    },
+    {
+      "score": 0.385094,
+      "sentence": "On the night of August eleventh nineteen ninety four Melissa left the children with her boyfriend and walked to a nearby convenience store for some groceries.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "boyfriend",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1514,
+            1523
+          ],
+          "text": "boyfriend"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1496,
+            1504
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.981969,
+      "sentence": "Her boyfriend told police he found her half naked body later that night along the highway.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "boyfriend",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1706,
+            1715
+          ],
+          "text": "boyfriend"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1716,
+            1720
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.872527,
+      "sentence": "In each case a woman was assaulted late at night.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "perpetrator",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            103,
+            108
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            113,
+            122
+          ],
+          "text": "assaulted"
+        }
+      ]
+    },
+    {
+      "score": 0.534357,
+      "sentence": "But the most telling evidence came from Melissa's body itself our eyes were battered indicating that she had received punches from someone who was so strong and who was subdued her in that way the fact that she was naked and and that her general area was mutilated obviously indicated that there was a sexual assault.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "perpetrator",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2892,
+            2895
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            2967,
+            2974
+          ],
+          "text": "assault"
+        }
+      ]
+    },
+    {
+      "score": 0.408357,
+      "sentence": "Months after the murder of Melissa Padilla police still didn't have a suspect.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "perpetrator",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5538,
+            5545
+          ],
+          "text": "suspect"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5485,
+            5491
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.328699,
+      "sentence": "The murder of Melissa Padilla and the assault of a Maine state trooper were so strikingly similar this became a critical part of the prosecution's case.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "perpetrator",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11040,
+            11047
+          ],
+          "text": "trooper"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11015,
+            11022
+          ],
+          "text": "assault"
+        }
+      ]
+    },
+    {
+      "score": 0.965181,
+      "sentence": "Her boyfriend told police he found her half naked body later that night along the highway.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1721,
+            1727
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1716,
+            1720
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.95515,
+      "sentence": "Her boyfriend told police he found her body in a sewer pipe near the highway she was naked from the waist down the autopsy revealed she died as a result of the manual fixation and the soul.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2339,
+            2345
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2334,
+            2338
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.632831,
+      "sentence": "Her boyfriend told police he found her half naked body later that night along the highway.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "boyfriend",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1728,
+            1730
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "highway",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1784,
+            1791
+          ],
+          "text": "highway"
+        }
+      ]
+    },
+    {
+      "score": 0.511586,
+      "sentence": "Are you going to die before them.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1911,
+            1914
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1935,
+            1939
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.481093,
+      "sentence": "No parents want their children.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1957,
+            1962
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1963,
+            1971
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.664132,
+      "sentence": "When Melissa Padilla left her hotel room to buy food for her young children her group took along a well traveled highway to a nearby convenience store Melissa never returned.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2150,
+            2165
+          ],
+          "text": "Melissa Padilla"
+        },
+        {
+          "entities": [
+            {
+              "text": "room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2181,
+            2185
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.396528,
+      "sentence": "When Melissa Padilla left her hotel room to buy food for her young children her group took along a well traveled highway to a nearby convenience store Melissa never returned.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2171,
+            2174
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "hotel",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2175,
+            2180
+          ],
+          "text": "hotel"
+        }
+      ]
+    },
+    {
+      "score": 0.420076,
+      "sentence": "When Melissa Padilla left her hotel room to buy food for her young children her group took along a well traveled highway to a nearby convenience store Melissa never returned.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2171,
+            2174
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2181,
+            2185
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.449157,
+      "sentence": "When Melissa Padilla left her hotel room to buy food for her young children her group took along a well traveled highway to a nearby convenience store Melissa never returned.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2181,
+            2185
+          ],
+          "text": "room"
+        },
+        {
+          "entities": [
+            {
+              "text": "hotel",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2175,
+            2180
+          ],
+          "text": "hotel"
+        }
+      ]
+    },
+    {
+      "score": 0.566676,
+      "sentence": "When Melissa Padilla left her hotel room to buy food for her young children her group took along a well traveled highway to a nearby convenience store Melissa never returned.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "highway",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2258,
+            2265
+          ],
+          "text": "highway"
+        },
+        {
+          "entities": [
+            {
+              "text": "convenience store",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2278,
+            2295
+          ],
+          "text": "convenience store"
+        }
+      ]
+    },
+    {
+      "score": 0.186739,
+      "sentence": "Her boyfriend told police he found her body in a sewer pipe near the highway she was naked from the waist down the autopsy revealed she died as a result of the manual fixation and the soul.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2320,
+            2323
+          ],
+          "text": "Her"
+        },
+        {
+          "entities": [
+            {
+              "text": "boyfriend",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2324,
+            2333
+          ],
+          "text": "boyfriend"
+        }
+      ]
+    },
+    {
+      "score": 0.969268,
+      "sentence": "In each case a woman was assaulted late at night.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "late at night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            123,
+            136
+          ],
+          "text": "late at night"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            113,
+            122
+          ],
+          "text": "assaulted"
+        }
+      ]
+    },
+    {
+      "score": 0.953322,
+      "sentence": "Her boyfriend told police he found her body in a sewer pipe near the highway she was naked from the waist down the autopsy revealed she died as a result of the manual fixation and the soul.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "boyfriend",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2324,
+            2333
+          ],
+          "text": "boyfriend"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2334,
+            2338
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.771861,
+      "sentence": "Scrapings from under her fingernails revealed DNA that authorities hope would bring a conviction if they could only find the suspect.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2997,
+            3000
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3076,
+            3080
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.55549,
+      "sentence": "Scrapings from under her fingernails revealed DNA that authorities hope would bring a conviction if they could only find the suspect.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3076,
+            3080
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "conviction",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            3062,
+            3072
+          ],
+          "text": "conviction"
+        }
+      ]
+    },
+    {
+      "score": 0.905778,
+      "sentence": "Melissa'S autopsy revealed one other detail something Tom caps I could never seen in his thirty one years of prosecuting homicides.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tom",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3195,
+            3198
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "thirty",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            3199,
+            3205
+          ],
+          "text": "thirty"
+        }
+      ]
+    },
+    {
+      "score": 0.933529,
+      "sentence": "Was particularly unusual I've done a lot of research and I've talked to a lot of people by March usually occurred to the general general areas to the breast to the stomach but I have never heard of one that occurred to the chin before.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3437,
+            3438
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "talked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3442,
+            3448
+          ],
+          "text": "talked"
+        }
+      ]
+    },
+    {
+      "score": 0.682927,
+      "sentence": "Was particularly unusual I've done a lot of research and I've talked to a lot of people by March usually occurred to the general general areas to the breast to the stomach but I have never heard of one that occurred to the chin before.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "March",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            3471,
+            3476
+          ],
+          "text": "March"
+        },
+        {
+          "entities": [
+            {
+              "text": "talked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3442,
+            3448
+          ],
+          "text": "talked"
+        }
+      ]
+    },
+    {
+      "score": 0.519431,
+      "sentence": "Was particularly unusual I've done a lot of research and I've talked to a lot of people by March usually occurred to the general general areas to the breast to the stomach but I have never heard of one that occurred to the chin before.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3461,
+            3467
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "areas",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            3517,
+            3522
+          ],
+          "text": "areas"
+        }
+      ]
+    },
+    {
+      "score": 0.724216,
+      "sentence": "Armed with this evidence New Jersey police began their search for Mullis's killer.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3652,
+            3658
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "Avenel New Jersey",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3641,
+            3651
+          ],
+          "text": "New Jersey"
+        }
+      ]
+    },
+    {
+      "score": 0.790428,
+      "sentence": "When the New Jersey state police heard the news of Steve for tons of salt in Maine they naturally wanted to find out if fourteen was in New Jersey on the night Melissa Padilla was killed.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7794,
+            7800
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "Avenel New Jersey",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7777,
+            7787
+          ],
+          "text": "New Jersey"
+        }
+      ]
+    },
+    {
+      "score": 0.675643,
+      "sentence": "New Jersey authorities are coming for the jury deliberated Stephen port and stayed for two days before reaching their verdict.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12747,
+            12758
+          ],
+          "text": "authorities"
+        },
+        {
+          "entities": [
+            {
+              "text": "Avenel New Jersey",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12736,
+            12746
+          ],
+          "text": "New Jersey"
+        }
+      ]
+    },
+    {
+      "score": 0.756688,
+      "sentence": "Armed with this evidence New Jersey police began their search for Mullis's killer.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3665,
+            3670
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            3691,
+            3697
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.786098,
+      "sentence": "Armed with this evidence New Jersey police began their search for Mullis's killer.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mullis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3682,
+            3688
+          ],
+          "text": "Mullis"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            3691,
+            3697
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.432735,
+      "sentence": "For three hundred years this riverfront town has been a haven for immigrants seeking a better life in America.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "immigrants",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            444,
+            454
+          ],
+          "text": "immigrants"
+        },
+        {
+          "entities": [
+            {
+              "text": "riverfront",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            407,
+            417
+          ],
+          "text": "riverfront"
+        }
+      ]
+    },
+    {
+      "score": 0.205886,
+      "sentence": "The security video from the quick check store where Melissa had bought groceries helped establish the time of the merger shortly before midnight.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3751,
+            3758
+          ],
+          "text": "Melissa"
+        },
+        {
+          "entities": [
+            {
+              "text": "roadway",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3745,
+            3750
+          ],
+          "text": "where"
+        }
+      ]
+    },
+    {
+      "score": 0.479152,
+      "sentence": "Police also began canvassing the area looking for eyewitnesses there was a witness that was identified that was interviewed who indicated they were traveling past the roadway and saw what appeared to be two individuals and some sort of struggle standing up near the concrete pipes.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witness",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4048,
+            4055
+          ],
+          "text": "witness"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4111,
+            4115
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.511467,
+      "sentence": "Police also began canvassing the area looking for eyewitnesses there was a witness that was identified that was interviewed who indicated they were traveling past the roadway and saw what appeared to be two individuals and some sort of struggle standing up near the concrete pipes.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witness",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4097,
+            4100
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4111,
+            4115
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.505056,
+      "sentence": "Police also began canvassing the area looking for eyewitnesses there was a witness that was identified that was interviewed who indicated they were traveling past the roadway and saw what appeared to be two individuals and some sort of struggle standing up near the concrete pipes.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witness",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4097,
+            4100
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "roadway",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4140,
+            4147
+          ],
+          "text": "roadway"
+        }
+      ]
+    },
+    {
+      "score": 0.522484,
+      "sentence": "Police also began canvassing the area looking for eyewitnesses there was a witness that was identified that was interviewed who indicated they were traveling past the roadway and saw what appeared to be two individuals and some sort of struggle standing up near the concrete pipes.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4111,
+            4115
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "roadway",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4140,
+            4147
+          ],
+          "text": "roadway"
+        }
+      ]
+    },
+    {
+      "score": 0.490612,
+      "sentence": "The battering about Melissa's face and the bite marks on her breasts and chan led police to theorize that her killer got a perverse pleasure out of assaulting women and might have struck before.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4365,
+            4368
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "theorize",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4400,
+            4408
+          ],
+          "text": "theorize"
+        }
+      ]
+    },
+    {
+      "score": 0.442298,
+      "sentence": "Just a mile from the murder scene was a prison for convicted sex offenders.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "roadway",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4531,
+            4536
+          ],
+          "text": "scene"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4524,
+            4530
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.388476,
+      "sentence": "Just a mile from the murder scene was a prison for convicted sex offenders.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "roadway",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4531,
+            4536
+          ],
+          "text": "scene"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4543,
+            4549
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.819398,
+      "sentence": "Just a mile from the murder scene was a prison for convicted sex offenders.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "offenders",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4568,
+            4577
+          ],
+          "text": "offenders"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            4554,
+            4563
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.830081,
+      "sentence": "The prison record showed a number of released prisoners living in the area.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prisoners",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4625,
+            4634
+          ],
+          "text": "prisoners"
+        },
+        {
+          "entities": [
+            {
+              "text": "north south",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4649,
+            4653
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.52932,
+      "sentence": "was and whether they were involved in any kind of ritual when they committed their breast sex crimes they complied with requests for DNA samples they complied with example request for hairs they also submitted to a polygraph examinations that are conducted by the Woodbridge police department and they all were eliminated as suspects in the crime.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prisoners",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4772,
+            4776
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "crimes",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4804,
+            4810
+          ],
+          "text": "crimes"
+        }
+      ]
+    },
+    {
+      "score": 0.904487,
+      "sentence": "was and whether they were involved in any kind of ritual when they committed their breast sex crimes they complied with requests for DNA samples they complied with example request for hairs they also submitted to a polygraph examinations that are conducted by the Woodbridge police department and they all were eliminated as suspects in the crime.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prisoners",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4787,
+            4792
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "crimes",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4804,
+            4810
+          ],
+          "text": "crimes"
+        }
+      ]
+    },
+    {
+      "score": 0.615662,
+      "sentence": "For three hundred years this riverfront town has been a haven for immigrants seeking a better life in America.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "immigrants",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            444,
+            454
+          ],
+          "text": "immigrants"
+        },
+        {
+          "entities": [
+            {
+              "text": "America",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            480,
+            487
+          ],
+          "text": "America"
+        }
+      ]
+    },
+    {
+      "score": 0.998214,
+      "sentence": "was and whether they were involved in any kind of ritual when they committed their breast sex crimes they complied with requests for DNA samples they complied with example request for hairs they also submitted to a polygraph examinations that are conducted by the Woodbridge police department and they all were eliminated as suspects in the crime.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4985,
+            5002
+          ],
+          "text": "police department"
+        },
+        {
+          "entities": [
+            {
+              "text": "Woodbridge",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4974,
+            4984
+          ],
+          "text": "Woodbridge"
+        }
+      ]
+    },
+    {
+      "score": 0.98868,
+      "sentence": "When the New Jersey state police heard the news of Steve for tons of salt in Maine they naturally wanted to find out if fourteen was in New Jersey on the night Melissa Padilla was killed.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7794,
+            7800
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "Woodbridge",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7788,
+            7793
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.981874,
+      "sentence": "Pression along with photographs of the bite marks were sent to doctor low living a respected forensic odontology just who worked for the New York state police.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9410,
+            9416
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "Woodbridge",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9404,
+            9409
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.571597,
+      "sentence": "was and whether they were involved in any kind of ritual when they committed their breast sex crimes they complied with requests for DNA samples they complied with example request for hairs they also submitted to a polygraph examinations that are conducted by the Woodbridge police department and they all were eliminated as suspects in the crime.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prisoners",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5007,
+            5011
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "eliminated",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            5021,
+            5031
+          ],
+          "text": "eliminated"
+        }
+      ]
+    },
+    {
+      "score": 0.609952,
+      "sentence": "was and whether they were involved in any kind of ritual when they committed their breast sex crimes they complied with requests for DNA samples they complied with example request for hairs they also submitted to a polygraph examinations that are conducted by the Woodbridge police department and they all were eliminated as suspects in the crime.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspects",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5035,
+            5043
+          ],
+          "text": "suspects"
+        },
+        {
+          "entities": [
+            {
+              "text": "eliminated",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            5021,
+            5031
+          ],
+          "text": "eliminated"
+        }
+      ]
+    },
+    {
+      "score": 0.398314,
+      "sentence": "Melissa'S boyfriend who had stayed with her children was also eliminated sensually things started to appear that we have an unsolved homicide them with no suspect a to percent.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5058,
+            5065
+          ],
+          "text": "Melissa"
+        },
+        {
+          "entities": [
+            {
+              "text": "boyfriend",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5068,
+            5077
+          ],
+          "text": "boyfriend"
+        }
+      ]
+    },
+    {
+      "score": 0.420292,
+      "sentence": "Melissa'S boyfriend who had stayed with her children was also eliminated sensually things started to appear that we have an unsolved homicide them with no suspect a to percent.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "boyfriend",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5078,
+            5081
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5098,
+            5101
+          ],
+          "text": "her"
+        }
+      ]
+    },
+    {
+      "score": 0.525757,
+      "sentence": "Melissa'S boyfriend who had stayed with her children was also eliminated sensually things started to appear that we have an unsolved homicide them with no suspect a to percent.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "boyfriend",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5078,
+            5081
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5102,
+            5110
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.529825,
+      "sentence": "Melissa'S boyfriend who had stayed with her children was also eliminated sensually things started to appear that we have an unsolved homicide them with no suspect a to percent.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5102,
+            5110
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "eliminated",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            5120,
+            5130
+          ],
+          "text": "eliminated"
+        }
+      ]
+    },
+    {
+      "score": 0.591463,
+      "sentence": "There was another assault strikingly similar to Melissa Padilla.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5336,
+            5351
+          ],
+          "text": "Melissa Padilla"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5306,
+            5313
+          ],
+          "text": "assault"
+        }
+      ]
+    },
+    {
+      "score": 0.646696,
+      "sentence": "The brutality of the assault led police to believe her killer took pleasure in attacking women and might strike again.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5602,
+            5608
+          ],
+          "text": "killer"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5626,
+            5635
+          ],
+          "text": "attacking"
+        }
+      ]
+    },
+    {
+      "score": 0.887316,
+      "sentence": "The police report listed the time of the assault on dawn archer as ten thirty PM an hour before Melissa was murdered at last authorities have a suspect Melissa's brother got the word a day after his birthday.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8483,
+            8490
+          ],
+          "text": "Melissa"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            8495,
+            8503
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.717246,
+      "sentence": "With the DNA results inconclusive the bite marks on the two victims seem to be prosecutors best chance of linking pardon to Melissa Patillas murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9174,
+            9190
+          ],
+          "text": "Melissa Patillas"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9191,
+            9197
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.469406,
+      "sentence": "The murder of Melissa Padilla and the assault of a Maine state trooper were so strikingly similar this became a critical part of the prosecution's case.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10991,
+            11006
+          ],
+          "text": "Melissa Padilla"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11015,
+            11022
+          ],
+          "text": "assault"
+        }
+      ]
+    },
+    {
+      "score": 0.553901,
+      "sentence": "Addressing the jury Hazelwood explained that some crimes like the murder of Melissa Padilla and the assault of trooper Gardner have unique patterns of behavior which he called rituals the ritual are those acts which are unnecessary to the commission of the crime and are carried out to meet the emotional needs of the offense.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11449,
+            11464
+          ],
+          "text": "Melissa Padilla"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11473,
+            11480
+          ],
+          "text": "assault"
+        }
+      ]
+    },
+    {
+      "score": 0.80896,
+      "sentence": "She was a state trooper.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "perpetrator",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5459,
+            5466
+          ],
+          "text": "trooper"
+        },
+        {
+          "entities": [
+            {
+              "text": "Woodbridge",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5453,
+            5458
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.898435,
+      "sentence": "The murder of Melissa Padilla and the assault of a Maine state trooper were so strikingly similar this became a critical part of the prosecution's case.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "perpetrator",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11040,
+            11047
+          ],
+          "text": "trooper"
+        },
+        {
+          "entities": [
+            {
+              "text": "Woodbridge",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11034,
+            11039
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.420098,
+      "sentence": "Months after the murder of Melissa Padilla police still didn't have a suspect.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5495,
+            5510
+          ],
+          "text": "Melissa Padilla"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5485,
+            5491
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.401666,
+      "sentence": "The murder of Melissa Padilla and the assault of a Maine state trooper were so strikingly similar this became a critical part of the prosecution's case.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10991,
+            11006
+          ],
+          "text": "Melissa Padilla"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10981,
+            10987
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.482937,
+      "sentence": "Addressing the jury Hazelwood explained that some crimes like the murder of Melissa Padilla and the assault of trooper Gardner have unique patterns of behavior which he called rituals the ritual are those acts which are unnecessary to the commission of the crime and are carried out to meet the emotional needs of the offense.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11449,
+            11464
+          ],
+          "text": "Melissa Padilla"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11439,
+            11445
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.406829,
+      "sentence": "Melissa Padilla's parents came from Puerto Rico she and her four brothers grew up here yeah she was my right hand.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            507,
+            514
+          ],
+          "text": "parents"
+        },
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            489,
+            504
+          ],
+          "text": "Melissa Padilla"
+        }
+      ]
+    },
+    {
+      "score": 0.329497,
+      "sentence": "Months after the murder of Melissa Padilla police still didn't have a suspect.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5511,
+            5517
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5485,
+            5491
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.398719,
+      "sentence": "Months after the murder of Melissa Padilla police still didn't have a suspect.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5495,
+            5510
+          ],
+          "text": "Melissa Padilla"
+        },
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5511,
+            5517
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.869775,
+      "sentence": "The brutality of the assault led police to believe her killer took pleasure in attacking women and might strike again.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "women",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5636,
+            5641
+          ],
+          "text": "women"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5626,
+            5635
+          ],
+          "text": "attacking"
+        }
+      ]
+    },
+    {
+      "score": 0.790668,
+      "sentence": "Eight months later state troopers in Maine reported a brazen assault on one of their own.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "troopers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5691,
+            5699
+          ],
+          "text": "troopers"
+        },
+        {
+          "entities": [
+            {
+              "text": "Woodbridge",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5685,
+            5690
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.391215,
+      "sentence": "Eight months later state troopers in Maine reported a brazen assault on one of their own.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "troopers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5691,
+            5699
+          ],
+          "text": "troopers"
+        },
+        {
+          "entities": [
+            {
+              "text": "Maine",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5703,
+            5708
+          ],
+          "text": "Maine"
+        }
+      ]
+    },
+    {
+      "score": 0.686611,
+      "sentence": "Eight months later state troopers in Maine reported a brazen assault on one of their own.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "troopers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5691,
+            5699
+          ],
+          "text": "troopers"
+        },
+        {
+          "entities": [
+            {
+              "text": "reported",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5709,
+            5717
+          ],
+          "text": "reported"
+        }
+      ]
+    },
+    {
+      "score": 0.766056,
+      "sentence": "Eight months later state troopers in Maine reported a brazen assault on one of their own.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            5738,
+            5741
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "troopers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5745,
+            5750
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.802544,
+      "sentence": "The assault took place on April third nineteen ninety five at about eight thirty PM trooper Vicki Gardner and eleven year veteran was off duty and driving her police cruiser south on interstate ninety five.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "April third nineteen ninety five",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            5782,
+            5814
+          ],
+          "text": "April third nineteen ninety five"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            5760,
+            5767
+          ],
+          "text": "assault"
+        }
+      ]
+    },
+    {
+      "score": 0.48889,
+      "sentence": "The assault took place on April third nineteen ninety five at about eight thirty PM trooper Vicki Gardner and eleven year veteran was off duty and driving her police cruiser south on interstate ninety five.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5915,
+            5921
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "cruiser",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            5922,
+            5929
+          ],
+          "text": "cruiser"
+        }
+      ]
+    },
+    {
+      "score": 0.718475,
+      "sentence": "Since she was off duty she called for another police vehicle to take fourteen into custody the sense of one fourteen heard this he exploded.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6210,
+            6216
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "cruiser",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            6217,
+            6224
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.744573,
+      "sentence": "She came across a vehicle facing the wrong way on the interstate.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "perpetrator",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5963,
+            5966
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "cruiser",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            5981,
+            5988
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.504198,
+      "sentence": "Would you please get out of the car.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "perpetrator",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6133,
+            6136
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "cruiser",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            6159,
+            6162
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.58104,
+      "sentence": "Vicki Gardner was unconscious still in the vehicle when she regained consciousness she opened the passenger door and tried to jump out.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "perpetrator",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6361,
+            6364
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "cruiser",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            6348,
+            6355
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.408725,
+      "sentence": "Melissa Padilla's parents came from Puerto Rico she and her four brothers grew up here yeah she was my right hand.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brothers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            554,
+            562
+          ],
+          "text": "brothers"
+        },
+        {
+          "entities": [
+            {
+              "text": "riverfront",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            571,
+            575
+          ],
+          "text": "here"
+        }
+      ]
+    },
+    {
+      "score": 0.993223,
+      "sentence": "Since she was off duty she called for another police vehicle to take fourteen into custody the sense of one fourteen heard this he exploded.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "perpetrator",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6187,
+            6190
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "called for",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6191,
+            6201
+          ],
+          "text": "called for"
+        }
+      ]
+    },
+    {
+      "score": 0.922395,
+      "sentence": "Since she was off duty she called for another police vehicle to take fourteen into custody the sense of one fourteen heard this he exploded.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Fortin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6292,
+            6294
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6295,
+            6303
+          ],
+          "text": "exploded"
+        }
+      ]
+    },
+    {
+      "score": 0.840925,
+      "sentence": "Fortin had not only punched and assaulted her he also left a bizarre calling card.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Fortin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7103,
+            7109
+          ],
+          "text": "Fortin"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7135,
+            7144
+          ],
+          "text": "assaulted"
+        }
+      ]
+    },
+    {
+      "score": 0.583218,
+      "sentence": "Fourteens name was well known to prosecutor caps that he had sent him to prison for seven years on a manslaughter charge fourteen got out after only two and a half years he had stabbed his brother in the throat in nineteen eighty three in the townships Carter at and was the project is that.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Fortin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7542,
+            7545
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7577,
+            7589
+          ],
+          "text": "manslaughter"
+        }
+      ]
+    },
+    {
+      "score": 0.972557,
+      "sentence": "And on the very night in question he assaulted her in the parking lot of a restaurant and she called the police and he ran.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Fortin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8209,
+            8211
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            8212,
+            8221
+          ],
+          "text": "assaulted"
+        }
+      ]
+    },
+    {
+      "score": 0.941533,
+      "sentence": "Vicki Gardner was unconscious still in the vehicle when she regained consciousness she opened the passenger door and tried to jump out.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Vicki Gardner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6305,
+            6318
+          ],
+          "text": "Vicki Gardner"
+        },
+        {
+          "entities": [
+            {
+              "text": "cruiser",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            6348,
+            6355
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.862454,
+      "sentence": "Vicki Gardner was lucky to be alive I have never seen a woman attacked that way damage that badly.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "perpetrator",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6607,
+            6612
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            6613,
+            6621
+          ],
+          "text": "attacked"
+        }
+      ]
+    },
+    {
+      "score": 0.616233,
+      "sentence": "Who live to talk about it.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Who",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6650,
+            6653
+          ],
+          "text": "Who"
+        },
+        {
+          "entities": [
+            {
+              "text": "talk",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6662,
+            6666
+          ],
+          "text": "talk"
+        }
+      ]
+    },
+    {
+      "score": 0.345622,
+      "sentence": "After Vicky jumped out of the vehicle fourteen lost control of the car and crashed.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Vicky",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6683,
+            6688
+          ],
+          "text": "Vicky"
+        },
+        {
+          "entities": [
+            {
+              "text": "crashed",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            6752,
+            6759
+          ],
+          "text": "crashed"
+        }
+      ]
+    },
+    {
+      "score": 0.587659,
+      "sentence": "After Vicky jumped out of the vehicle fourteen lost control of the car and crashed.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "cruiser",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            6744,
+            6747
+          ],
+          "text": "car"
+        },
+        {
+          "entities": [
+            {
+              "text": "crashed",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            6752,
+            6759
+          ],
+          "text": "crashed"
+        }
+      ]
+    },
+    {
+      "score": 0.941273,
+      "sentence": "Lieutenant Lancaster interviewed him in prison.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lancaster",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6798,
+            6807
+          ],
+          "text": "Lancaster"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            6808,
+            6819
+          ],
+          "text": "interviewed"
+        }
+      ]
+    },
+    {
+      "score": 0.814293,
+      "sentence": "Lieutenant Lancaster interviewed him in prison.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lancaster",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6798,
+            6807
+          ],
+          "text": "Lancaster"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6827,
+            6833
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.91879,
+      "sentence": "Lieutenant Lancaster interviewed him in prison.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Fortin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6820,
+            6823
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            6808,
+            6819
+          ],
+          "text": "interviewed"
+        }
+      ]
+    },
+    {
+      "score": 0.783568,
+      "sentence": "Melissa attended high school in Perth Amboy but quit in her junior year and later became pregnant.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            805,
+            812
+          ],
+          "text": "Melissa"
+        },
+        {
+          "entities": [
+            {
+              "text": "attended",
+              "type": "EventEducation"
+            }
+          ],
+          "location": [
+            813,
+            821
+          ],
+          "text": "attended"
+        }
+      ]
+    },
+    {
+      "score": 0.408689,
+      "sentence": "Lieutenant Lancaster interviewed him in prison.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            6808,
+            6819
+          ],
+          "text": "interviewed"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6827,
+            6833
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.725744,
+      "sentence": "Lieutenant Lancaster interviewed him in prison.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Fortin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6820,
+            6823
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6827,
+            6833
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.920963,
+      "sentence": "Fourteens name was well known to prosecutor caps that he had sent him to prison for seven years on a manslaughter charge fourteen got out after only two and a half years he had stabbed his brother in the throat in nineteen eighty three in the townships Carter at and was the project is that.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Fortin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7542,
+            7545
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7549,
+            7555
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.958152,
+      "sentence": "He took no responsibility he was it was while we spoke although we spoke of the incident it was always somebody else's fault he I I knew that I was dealing with someone that was able.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6881,
+            6883
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6884,
+            6889
+          ],
+          "text": "spoke"
+        }
+      ]
+    },
+    {
+      "score": 0.978391,
+      "sentence": "He took no responsibility he was it was while we spoke although we spoke of the incident it was always somebody else's fault he I I knew that I was dealing with someone that was able.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6899,
+            6901
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6902,
+            6907
+          ],
+          "text": "spoke"
+        }
+      ]
+    },
+    {
+      "score": 0.613242,
+      "sentence": "In fact check the police records importance home state of New Jersey revealed that he had a history of violence.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7381,
+            7387
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "revealed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7432,
+            7440
+          ],
+          "text": "revealed"
+        }
+      ]
+    },
+    {
+      "score": 0.499608,
+      "sentence": "Fourteens name was well known to prosecutor caps that he had sent him to prison for seven years on a manslaughter charge fourteen got out after only two and a half years he had stabbed his brother in the throat in nineteen eighty three in the townships Carter at and was the project is that.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Fortin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7542,
+            7545
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "charge",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            7590,
+            7596
+          ],
+          "text": "charge"
+        }
+      ]
+    },
+    {
+      "score": 0.84994,
+      "sentence": "Fourteens name was well known to prosecutor caps that he had sent him to prison for seven years on a manslaughter charge fourteen got out after only two and a half years he had stabbed his brother in the throat in nineteen eighty three in the townships Carter at and was the project is that.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Fortin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7646,
+            7648
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "crimes",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7653,
+            7660
+          ],
+          "text": "stabbed"
+        }
+      ]
+    },
+    {
+      "score": 0.665823,
+      "sentence": "He was interested in my study in the crimes to determine whether or not I could do a linkage analysis in the two crimes a linkage analysis is an in depth study of two or more crimes with the idea of attempting to determine whether or not they were committed by the same person.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Fortin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10408,
+            10410
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "crimes",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10424,
+            10430
+          ],
+          "text": "crimes"
+        }
+      ]
+    },
+    {
+      "score": 0.817696,
+      "sentence": "He was interested in my study in the crimes to determine whether or not I could do a linkage analysis in the two crimes a linkage analysis is an in depth study of two or more crimes with the idea of attempting to determine whether or not they were committed by the same person.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Fortin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10459,
+            10460
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "crimes",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10500,
+            10506
+          ],
+          "text": "crimes"
+        }
+      ]
+    },
+    {
+      "score": 0.925244,
+      "sentence": "Hazelwood concluded that the same man had indeed committed both crimes.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Fortin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10699,
+            10702
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "crimes",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10729,
+            10735
+          ],
+          "text": "crimes"
+        }
+      ]
+    },
+    {
+      "score": 0.380972,
+      "sentence": "Fourteens name was well known to prosecutor caps that he had sent him to prison for seven years on a manslaughter charge fourteen got out after only two and a half years he had stabbed his brother in the throat in nineteen eighty three in the townships Carter at and was the project is that.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Martin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7665,
+            7672
+          ],
+          "text": "brother"
+        },
+        {
+          "entities": [
+            {
+              "text": "crimes",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7653,
+            7660
+          ],
+          "text": "stabbed"
+        }
+      ]
+    },
+    {
+      "score": 0.37003,
+      "sentence": "Fourteens name was well known to prosecutor caps that he had sent him to prison for seven years on a manslaughter charge fourteen got out after only two and a half years he had stabbed his brother in the throat in nineteen eighty three in the townships Carter at and was the project is that.",
+      "type": "siblingOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Fortin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7661,
+            7664
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Steve Martin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7665,
+            7672
+          ],
+          "text": "brother"
+        }
+      ]
+    },
+    {
+      "score": 0.290783,
+      "sentence": "Fourteens name was well known to prosecutor caps that he had sent him to prison for seven years on a manslaughter charge fourteen got out after only two and a half years he had stabbed his brother in the throat in nineteen eighty three in the townships Carter at and was the project is that.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7729,
+            7735
+          ],
+          "text": "Carter"
+        },
+        {
+          "entities": [
+            {
+              "text": "riverfront",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7719,
+            7728
+          ],
+          "text": "townships"
+        }
+      ]
+    },
+    {
+      "score": 0.39281,
+      "sentence": "When the New Jersey state police heard the news of Steve for tons of salt in Maine they naturally wanted to find out if fourteen was in New Jersey on the night Melissa Padilla was killed.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Woodbridge",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7788,
+            7793
+          ],
+          "text": "state"
+        },
+        {
+          "entities": [
+            {
+              "text": "Avenel New Jersey",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7777,
+            7787
+          ],
+          "text": "New Jersey"
+        }
+      ]
+    },
+    {
+      "score": 0.500384,
+      "sentence": "Melissa attended high school in Perth Amboy but quit in her junior year and later became pregnant.",
+      "type": "educatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            805,
+            812
+          ],
+          "text": "Melissa"
+        },
+        {
+          "entities": [
+            {
+              "text": "high school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            822,
+            833
+          ],
+          "text": "high school"
+        }
+      ]
+    },
+    {
+      "score": 0.503047,
+      "sentence": "When the New Jersey state police heard the news of Steve for tons of salt in Maine they naturally wanted to find out if fourteen was in New Jersey on the night Melissa Padilla was killed.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Martin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7819,
+            7824
+          ],
+          "text": "Steve"
+        },
+        {
+          "entities": [
+            {
+              "text": "tons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7829,
+            7833
+          ],
+          "text": "tons"
+        }
+      ]
+    },
+    {
+      "score": 0.804973,
+      "sentence": "An interview with fox news former girlfriend provided the answer.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7990,
+            8000
+          ],
+          "text": "girlfriend"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            7959,
+            7968
+          ],
+          "text": "interview"
+        }
+      ]
+    },
+    {
+      "score": 0.97249,
+      "sentence": "An interview with fox news former girlfriend provided the answer.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7990,
+            8000
+          ],
+          "text": "girlfriend"
+        },
+        {
+          "entities": [
+            {
+              "text": "revealed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8001,
+            8009
+          ],
+          "text": "provided"
+        }
+      ]
+    },
+    {
+      "score": 0.990771,
+      "sentence": "And she told us that in August of nineteen ninety four Stephen Ford and did in fact live in Avenel New Jersey in fact he lived in an apartment with her.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8026,
+            8029
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8030,
+            8034
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.953307,
+      "sentence": "And she told us that in August of nineteen ninety four Stephen Ford and did in fact live in Avenel New Jersey in fact he lived in an apartment with her.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8035,
+            8037
+          ],
+          "text": "us"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8030,
+            8034
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.697821,
+      "sentence": "And she told us that in August of nineteen ninety four Stephen Ford and did in fact live in Avenel New Jersey in fact he lived in an apartment with her.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Fortin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8140,
+            8142
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8155,
+            8164
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.328891,
+      "sentence": "And she told us that in August of nineteen ninety four Stephen Ford and did in fact live in Avenel New Jersey in fact he lived in an apartment with her.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8170,
+            8173
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8155,
+            8164
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.691931,
+      "sentence": "And on the very night in question he assaulted her in the parking lot of a restaurant and she called the police and he ran.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            8191,
+            8196
+          ],
+          "text": "night"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            8212,
+            8221
+          ],
+          "text": "assaulted"
+        }
+      ]
+    },
+    {
+      "score": 0.497157,
+      "sentence": "And on the very night in question he assaulted her in the parking lot of a restaurant and she called the police and he ran.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            8191,
+            8196
+          ],
+          "text": "night"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8269,
+            8275
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.569552,
+      "sentence": "And on the very night in question he assaulted her in the parking lot of a restaurant and she called the police and he ran.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa Patillas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8222,
+            8225
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "manslaughter",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            8212,
+            8221
+          ],
+          "text": "assaulted"
+        }
+      ]
+    }
+  ]
+}

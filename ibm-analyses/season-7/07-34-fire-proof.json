@@ -1,0 +1,4437 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 14144,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Seattle",
+      "relevance": 0.952545,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Quantity",
+      "text": "six month",
+      "relevance": 0.849709,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Trinity Lutheran",
+      "relevance": 0.822062,
+      "confidence": 0.727601,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Washington",
+      "relevance": 0.763875,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "rouse",
+      "relevance": 0.482489,
+      "confidence": 0.805907,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty second",
+      "relevance": 0.405621,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Hines",
+      "relevance": 0.363246,
+      "confidence": 1,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Paul",
+      "relevance": 0.348003,
+      "confidence": 1,
+      "count": 6
+    },
+    {
+      "type": "Quantity",
+      "text": "Two months",
+      "relevance": 0.285791,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "George Keller",
+      "relevance": 0.279226,
+      "confidence": 0.945309,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "John Heinz",
+      "relevance": 0.275375,
+      "confidence": 0.936374,
+      "count": 1,
+      "disambiguation": {
+        "name": "H._John_Heinz_III",
+        "dbpedia_resource": "http://dbpedia.org/resource/H._John_Heinz_III",
+        "subtype": [
+          "Politician",
+          "Senator"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Jesus",
+      "relevance": 0.254322,
+      "confidence": 0.964924,
+      "count": 1,
+      "disambiguation": {
+        "name": "Jesus",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jesus",
+        "subtype": [
+          "Deity",
+          "FoundingFigure",
+          "OperaCharacter"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "Two weeks",
+      "relevance": 0.253195,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Florida",
+      "relevance": 0.2373,
+      "confidence": 0.99873,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "ality trader",
+      "relevance": 0.231909,
+      "confidence": 0.393337,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty seven years",
+      "relevance": 0.221311,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Keller",
+      "relevance": 0.182996,
+      "confidence": 0.999999,
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "FBI",
+      "relevance": 0.160928,
+      "confidence": 0.999033,
+      "count": 1,
+      "disambiguation": {
+        "name": "FBi_Radio",
+        "dbpedia_resource": "http://dbpedia.org/resource/FBi_Radio",
+        "subtype": [
+          "Broadcast",
+          "RadioStation"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "five months",
+      "relevance": 0.156514,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "the Herald",
+      "relevance": 0.154448,
+      "confidence": 0.381334,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two hours",
+      "relevance": 0.142784,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Paul Keller",
+      "relevance": 0.14026,
+      "confidence": 0.999999,
+      "count": 2,
+      "disambiguation": {
+        "name": "Paul_Kenneth_Keller",
+        "dbpedia_resource": "http://dbpedia.org/resource/Paul_Kenneth_Keller"
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "nine years",
+      "relevance": 0.084673,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ten days",
+      "relevance": 0.069217,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "fifteen minutes",
+      "relevance": 0.054892,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ninety nine years",
+      "relevance": 0.049493,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one hundred thirteen years",
+      "relevance": 0.043124,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twelve years",
+      "relevance": 0.027641,
+      "confidence": 0.8,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/law, govt and politics",
+      "score": 0.843776
+    },
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.815019
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.758741
+    },
+    {
+      "label": "/society/crime/property crime/arson",
+      "score": 0.703313
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.691218
+    },
+    {
+      "label": "/family and parenting/babies and toddlers/baby clothes",
+      "score": 0.630967
+    },
+    {
+      "label": "/society/unrest and war",
+      "score": 0.621519
+    },
+    {
+      "label": "/business and industrial/business operations/business plans",
+      "score": 0.61662
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.581325
+    },
+    {
+      "label": "/society/dating",
+      "score": 0.568603
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.802557,
+      "sentence": "In nineteen ninety two there were more than seventy five suspicious fires set in Seattle Washington during a six month period of time.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Seattle Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            81,
+            99
+          ],
+          "text": "Seattle Washington"
+        },
+        {
+          "entities": [
+            {
+              "text": "fires",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            68,
+            73
+          ],
+          "text": "fires"
+        }
+      ]
+    },
+    {
+      "score": 0.398938,
+      "sentence": "In one night alone they were twelve different arson fires.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            1673,
+            1678
+          ],
+          "text": "night"
+        },
+        {
+          "entities": [
+            {
+              "text": "fires",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            1718,
+            1723
+          ],
+          "text": "fires"
+        }
+      ]
+    },
+    {
+      "score": 0.675656,
+      "sentence": "All of the fires were set at night without the use of accelerates the watch people burned in the middle of the night other homes losing all their possessions standing literally the night clothes with nothing but their life left with their children sobbing we heard stories about people jumping out of windows are being lowered out of windows a lot of stories about just devastating financial impacts one victim was inside her home when the fire started I was just getting out of the tub when I start to hear strange crashing noises outside my house like glass breaking open the bathroom and it was the front door and I just the wall to the left was entirely explains this up in flames.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            1754,
+            1759
+          ],
+          "text": "night"
+        },
+        {
+          "entities": [
+            {
+              "text": "fires",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            1736,
+            1741
+          ],
+          "text": "fires"
+        }
+      ]
+    },
+    {
+      "score": 0.508898,
+      "sentence": "All of the fires were set at night in the same way by someone igniting buildings at chest level without the use of excellence I called arsonist a guerrilla fighter because he under generally cover of night would go out proud around be unseen hit his target and be gone basically before his target becomes known anybody as fire he was very very quick he was extremely covert.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            3367,
+            3372
+          ],
+          "text": "night"
+        },
+        {
+          "entities": [
+            {
+              "text": "fires",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            3349,
+            3354
+          ],
+          "text": "fires"
+        }
+      ]
+    },
+    {
+      "score": 0.97637,
+      "sentence": "What had been rejected and that he had set a fire when he was nine years old.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Keller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11854,
+            11856
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "nine years old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            11861,
+            11875
+          ],
+          "text": "nine years old"
+        }
+      ]
+    },
+    {
+      "score": 0.538975,
+      "sentence": "Eventually they decided to take him into custody.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12581,
+            12585
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "custody",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            12611,
+            12618
+          ],
+          "text": "custody"
+        }
+      ]
+    },
+    {
+      "score": 0.857216,
+      "sentence": "Eventually they decided to take him into custody.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Keller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12602,
+            12605
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "custody",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            12611,
+            12618
+          ],
+          "text": "custody"
+        }
+      ]
+    },
+    {
+      "score": 0.878056,
+      "sentence": "When Keller arrived to task force headquarters his father was waiting for.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George Keller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12625,
+            12631
+          ],
+          "text": "Keller"
+        },
+        {
+          "entities": [
+            {
+              "text": "headquarters",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12654,
+            12666
+          ],
+          "text": "headquarters"
+        }
+      ]
+    },
+    {
+      "score": 0.612205,
+      "sentence": "Love probably fifteen minutes into the interview the task force agents complimented him saying he was the best arsonist they'd ever seen.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "fifteen minutes",
+              "type": "Duration"
+            }
+          ],
+          "location": [
+            12743,
+            12758
+          ],
+          "text": "fifteen minutes"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            12768,
+            12777
+          ],
+          "text": "interview"
+        }
+      ]
+    },
+    {
+      "score": 0.643875,
+      "sentence": "Love probably fifteen minutes into the interview the task force agents complimented him saying he was the best arsonist they'd ever seen.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "agents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12793,
+            12799
+          ],
+          "text": "agents"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            12768,
+            12777
+          ],
+          "text": "interview"
+        }
+      ]
+    },
+    {
+      "score": 0.980855,
+      "sentence": "Love probably fifteen minutes into the interview the task force agents complimented him saying he was the best arsonist they'd ever seen.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Keller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12813,
+            12816
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "saying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12817,
+            12823
+          ],
+          "text": "saying"
+        }
+      ]
+    },
+    {
+      "score": 0.573453,
+      "sentence": "Love probably fifteen minutes into the interview the task force agents complimented him saying he was the best arsonist they'd ever seen.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "guerrilla fighter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12840,
+            12848
+          ],
+          "text": "arsonist"
+        },
+        {
+          "entities": [
+            {
+              "text": "agents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12849,
+            12853
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.445801,
+      "sentence": "And with that killer confessed to sending seventy five buyers including the fatal fire at the retirement home.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "buyers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12922,
+            12928
+          ],
+          "text": "buyers"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            12881,
+            12887
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.700278,
+      "sentence": "And with that killer confessed to sending seventy five buyers including the fatal fire at the retirement home.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "buyers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12922,
+            12928
+          ],
+          "text": "buyers"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            12949,
+            12953
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.612651,
+      "sentence": "In one night alone they were twelve different arson fires.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1685,
+            1689
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "fires",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            1718,
+            1723
+          ],
+          "text": "fires"
+        }
+      ]
+    },
+    {
+      "score": 0.631809,
+      "sentence": "And with that killer confessed to sending seventy five buyers including the fatal fire at the retirement home.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "buyers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12922,
+            12928
+          ],
+          "text": "buyers"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12972,
+            12976
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.681162,
+      "sentence": "And with that killer confessed to sending seventy five buyers including the fatal fire at the retirement home.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12972,
+            12976
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            12949,
+            12953
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.903915,
+      "sentence": "Keller also said he was sexually molested by a volunteer fireman when he was twelve years old.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George Keller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13372,
+            13378
+          ],
+          "text": "Keller"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13384,
+            13388
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.416614,
+      "sentence": "Keller also said he was sexually molested by a volunteer fireman when he was twelve years old.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George Keller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13389,
+            13391
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13384,
+            13388
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.969271,
+      "sentence": "Keller also said he was sexually molested by a volunteer fireman when he was twelve years old.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George Keller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13442,
+            13444
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "twelve years old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            13449,
+            13465
+          ],
+          "text": "twelve years old"
+        }
+      ]
+    },
+    {
+      "score": 0.601815,
+      "sentence": "Paul Keller was convicted of arson and murder and was sentenced to ninety nine years in prison.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Keller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13467,
+            13478
+          ],
+          "text": "Paul Keller"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13483,
+            13492
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.784714,
+      "sentence": "Paul Keller was convicted of arson and murder and was sentenced to ninety nine years in prison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Keller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13467,
+            13478
+          ],
+          "text": "Paul Keller"
+        },
+        {
+          "entities": [
+            {
+              "text": "crimes",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13496,
+            13501
+          ],
+          "text": "arson"
+        }
+      ]
+    },
+    {
+      "score": 0.535412,
+      "sentence": "Paul Keller was convicted of arson and murder and was sentenced to ninety nine years in prison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Keller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13467,
+            13478
+          ],
+          "text": "Paul Keller"
+        },
+        {
+          "entities": [
+            {
+              "text": "crimes",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13506,
+            13512
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.6149,
+      "sentence": "Paul Keller was convicted of arson and murder and was sentenced to ninety nine years in prison.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Keller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13467,
+            13478
+          ],
+          "text": "Paul Keller"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13521,
+            13530
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.991882,
+      "sentence": "And investigators say he may not have been caught if not for the forensic hypnosis and the composite drawing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14039,
+            14052
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14053,
+            14056
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.541726,
+      "sentence": "All of the fires were set at night without the use of accelerates the watch people burned in the middle of the night other homes losing all their possessions standing literally the night clothes with nothing but their life left with their children sobbing we heard stories about people jumping out of windows are being lowered out of windows a lot of stories about just devastating financial impacts one victim was inside her home when the fire started I was just getting out of the tub when I start to hear strange crashing noises outside my house like glass breaking open the bathroom and it was the front door and I just the wall to the left was entirely explains this up in flames.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1958,
+            1963
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1964,
+            1972
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.50927,
+      "sentence": "All of the fires were set at night without the use of accelerates the watch people burned in the middle of the night other homes losing all their possessions standing literally the night clothes with nothing but their life left with their children sobbing we heard stories about people jumping out of windows are being lowered out of windows a lot of stories about just devastating financial impacts one victim was inside her home when the fire started I was just getting out of the tub when I start to hear strange crashing noises outside my house like glass breaking open the bathroom and it was the front door and I just the wall to the left was entirely explains this up in flames.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2147,
+            2150
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2151,
+            2155
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.591489,
+      "sentence": "All of the fires were set at night without the use of accelerates the watch people burned in the middle of the night other homes losing all their possessions standing literally the night clothes with nothing but their life left with their children sobbing we heard stories about people jumping out of windows are being lowered out of windows a lot of stories about just devastating financial impacts one victim was inside her home when the fire started I was just getting out of the tub when I start to hear strange crashing noises outside my house like glass breaking open the bathroom and it was the front door and I just the wall to the left was entirely explains this up in flames.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2265,
+            2267
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2268,
+            2273
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.430849,
+      "sentence": "All of the fires were set at night without the use of accelerates the watch people burned in the middle of the night other homes losing all their possessions standing literally the night clothes with nothing but their life left with their children sobbing we heard stories about people jumping out of windows are being lowered out of windows a lot of stories about just devastating financial impacts one victim was inside her home when the fire started I was just getting out of the tub when I start to hear strange crashing noises outside my house like glass breaking open the bathroom and it was the front door and I just the wall to the left was entirely explains this up in flames.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2151,
+            2155
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "fires",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            2165,
+            2169
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.675658,
+      "sentence": "All of the fires were set at night without the use of accelerates the watch people burned in the middle of the night other homes losing all their possessions standing literally the night clothes with nothing but their life left with their children sobbing we heard stories about people jumping out of windows are being lowered out of windows a lot of stories about just devastating financial impacts one victim was inside her home when the fire started I was just getting out of the tub when I start to hear strange crashing noises outside my house like glass breaking open the bathroom and it was the front door and I just the wall to the left was entirely explains this up in flames.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lutheran",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2365,
+            2369
+          ],
+          "text": "left"
+        },
+        {
+          "entities": [
+            {
+              "text": "explains",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2383,
+            2391
+          ],
+          "text": "explains"
+        }
+      ]
+    },
+    {
+      "score": 0.507182,
+      "sentence": "All of the fires were set at night without the use of accelerates the watch people burned in the middle of the night other homes losing all their possessions standing literally the night clothes with nothing but their life left with their children sobbing we heard stories about people jumping out of windows are being lowered out of windows a lot of stories about just devastating financial impacts one victim was inside her home when the fire started I was just getting out of the tub when I start to hear strange crashing noises outside my house like glass breaking open the bathroom and it was the front door and I just the wall to the left was entirely explains this up in flames.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lutheran",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2365,
+            2369
+          ],
+          "text": "left"
+        },
+        {
+          "entities": [
+            {
+              "text": "flames",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            2403,
+            2409
+          ],
+          "text": "flames"
+        }
+      ]
+    },
+    {
+      "score": 0.663536,
+      "sentence": "She grabbed a roommate and ran frantically to the front of the house the front door and then hire front porch is up in flames so our access to get out listen I'd and that was absolutely terrifying that was when Jesus make a split second decisions of my gonna live I've got to move.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "porch",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2515,
+            2520
+          ],
+          "text": "porch"
+        },
+        {
+          "entities": [
+            {
+              "text": "flames",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            2530,
+            2536
+          ],
+          "text": "flames"
+        }
+      ]
+    },
+    {
+      "score": 0.768717,
+      "sentence": "Early on night would go by without another family getting burned out of their home.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2852,
+            2857
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2858,
+            2862
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.534828,
+      "sentence": "Residents of Seattle and the surrounding area were under siege.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "area",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            3223,
+            3227
+          ],
+          "text": "area"
+        },
+        {
+          "entities": [
+            {
+              "text": "Seattle Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3195,
+            3202
+          ],
+          "text": "Seattle"
+        }
+      ]
+    },
+    {
+      "score": 0.454714,
+      "sentence": "On the night of August ninth nineteen ninety two firefighters outside Seattle Washington faced a disaster.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "firefighters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            329,
+            341
+          ],
+          "text": "firefighters"
+        },
+        {
+          "entities": [
+            {
+              "text": "Seattle Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            350,
+            368
+          ],
+          "text": "Seattle Washington"
+        }
+      ]
+    },
+    {
+      "score": 0.850119,
+      "sentence": "A serial arsonist had sent over twenty five buyers targeting churches businesses and homes.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "buyers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3290,
+            3296
+          ],
+          "text": "buyers"
+        },
+        {
+          "entities": [
+            {
+              "text": "twenty",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            3278,
+            3284
+          ],
+          "text": "twenty"
+        }
+      ]
+    },
+    {
+      "score": 0.506643,
+      "sentence": "A serial arsonist had sent over twenty five buyers targeting churches businesses and homes.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "buyers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3290,
+            3296
+          ],
+          "text": "buyers"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3331,
+            3336
+          ],
+          "text": "homes"
+        }
+      ]
+    },
+    {
+      "score": 0.400842,
+      "sentence": "All of the fires were set at night in the same way by someone igniting buildings at chest level without the use of excellence I called arsonist a guerrilla fighter because he under generally cover of night would go out proud around be unseen hit his target and be gone basically before his target becomes known anybody as fire he was very very quick he was extremely covert.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "someone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3392,
+            3399
+          ],
+          "text": "someone"
+        },
+        {
+          "entities": [
+            {
+              "text": "buildings",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3409,
+            3418
+          ],
+          "text": "buildings"
+        }
+      ]
+    },
+    {
+      "score": 0.429216,
+      "sentence": "All of the fires were set at night in the same way by someone igniting buildings at chest level without the use of excellence I called arsonist a guerrilla fighter because he under generally cover of night would go out proud around be unseen hit his target and be gone basically before his target becomes known anybody as fire he was very very quick he was extremely covert.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "guerrilla fighter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3665,
+            3667
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "Fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            3660,
+            3664
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.429699,
+      "sentence": "Two months into the fire spree when he started fire number twenty eight.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "guerrilla fighter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4788,
+            4790
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "Fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            4772,
+            4776
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.743685,
+      "sentence": "Local fire companies mounted all night patrols but still the fires continue the arsonist appeared to be on fire investigators he would draw to Florida from we would have one fire and and one part of town and then he would go.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "companies",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3794,
+            3803
+          ],
+          "text": "companies"
+        },
+        {
+          "entities": [
+            {
+              "text": "Fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            3789,
+            3793
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.410527,
+      "sentence": "Local fire companies mounted all night patrols but still the fires continue the arsonist appeared to be on fire investigators he would draw to Florida from we would have one fire and and one part of town and then he would go.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "companies",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3794,
+            3803
+          ],
+          "text": "companies"
+        },
+        {
+          "entities": [
+            {
+              "text": "fires",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            3844,
+            3849
+          ],
+          "text": "fires"
+        }
+      ]
+    },
+    {
+      "score": 0.536063,
+      "sentence": "Local fire companies mounted all night patrols but still the fires continue the arsonist appeared to be on fire investigators he would draw to Florida from we would have one fire and and one part of town and then he would go.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3895,
+            3908
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "Fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            3890,
+            3894
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.584787,
+      "sentence": "Local fire companies mounted all night patrols but still the fires continue the arsonist appeared to be on fire investigators he would draw to Florida from we would have one fire and and one part of town and then he would go.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "guerrilla fighter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3909,
+            3911
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "Florida",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3926,
+            3933
+          ],
+          "text": "Florida"
+        }
+      ]
+    },
+    {
+      "score": 0.876758,
+      "sentence": "Fire station be nearby he would set another fire on the other side.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "station",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4014,
+            4021
+          ],
+          "text": "station"
+        },
+        {
+          "entities": [
+            {
+              "text": "Fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            4009,
+            4013
+          ],
+          "text": "Fire"
+        }
+      ]
+    },
+    {
+      "score": 0.815263,
+      "sentence": "So you know where the fire departments were.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "departments",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4104,
+            4115
+          ],
+          "text": "departments"
+        },
+        {
+          "entities": [
+            {
+              "text": "Fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            4099,
+            4103
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.742068,
+      "sentence": "Three churches were engulfed in flames at the same time just a few miles from one another.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "churches",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            393,
+            401
+          ],
+          "text": "churches"
+        },
+        {
+          "entities": [
+            {
+              "text": "flames",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            419,
+            425
+          ],
+          "text": "flames"
+        }
+      ]
+    },
+    {
+      "score": 0.634058,
+      "sentence": "But task force was formed to coordinate the investigation they commissioned a psychological profile of their suspect.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Residents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4180,
+            4184
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            4166,
+            4179
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.9128,
+      "sentence": "By interviewing past arsonist and identifying the traits they all have in common psychologist gain important information about the type of individual who commits these crimes.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4390,
+            4393
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "crimes",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4408,
+            4414
+          ],
+          "text": "crimes"
+        }
+      ]
+    },
+    {
+      "score": 0.048293,
+      "sentence": "Two months into the fire spree when he started fire number twenty eight.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "crimes",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4777,
+            4782
+          ],
+          "text": "spree"
+        },
+        {
+          "entities": [
+            {
+              "text": "Fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            4772,
+            4776
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.588548,
+      "sentence": "Two months into the fire spree when he started fire number twenty eight.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Residents",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            4818,
+            4823
+          ],
+          "text": "eight"
+        },
+        {
+          "entities": [
+            {
+              "text": "Fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            4772,
+            4776
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.424949,
+      "sentence": "Two months into the fire spree when he started fire number twenty eight.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "guerrilla fighter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4788,
+            4790
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "crimes",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4777,
+            4782
+          ],
+          "text": "spree"
+        }
+      ]
+    },
+    {
+      "score": 0.748777,
+      "sentence": "Two weeks later at fire number forty two he made another mistake.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Two weeks later",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            5111,
+            5126
+          ],
+          "text": "Two weeks later"
+        },
+        {
+          "entities": [
+            {
+              "text": "Fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            5130,
+            5134
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.903581,
+      "sentence": "But since the urine was mixed with snow it was difficult to isolate any cells for analysis for is likely we were told that there were so few of us cells in there they were capable of extraction that it was not feasible.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Forensic scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5392,
+            5394
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5400,
+            5404
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.516168,
+      "sentence": "Fire broke out at a senior citizen home that housed more than four hundred.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "salesman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5894,
+            5901
+          ],
+          "text": "citizen"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5902,
+            5906
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.652803,
+      "sentence": "Now police were searching not only for an arsonist but the killer.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "guerrilla fighter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6203,
+            6211
+          ],
+          "text": "arsonist"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            6220,
+            6226
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.993504,
+      "sentence": "A woman called police to say that a well dressed man bumped into her near one of the fires this individual stood out to her fashion it was his clothing the mannerisms of some odors she detected both alcohol and and and aftershave Cologne.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6298,
+            6303
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6304,
+            6310
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.733473,
+      "sentence": "When we arrived the fire was probably at its peak the flames were shooting above the sanctuary which was a very large sanctuary you know I would guess.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            483,
+            485
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "crimes",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            544,
+            552
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.731507,
+      "sentence": "A woman called police to say that a well dressed man bumped into her near one of the fires this individual stood out to her fashion it was his clothing the mannerisms of some odors she detected both alcohol and and and aftershave Cologne.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6311,
+            6317
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6321,
+            6324
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.504753,
+      "sentence": "A woman called police to say that a well dressed man bumped into her near one of the fires this individual stood out to her fashion it was his clothing the mannerisms of some odors she detected both alcohol and and and aftershave Cologne.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "cigarette",
+              "type": "Substance"
+            }
+          ],
+          "location": [
+            6495,
+            6502
+          ],
+          "text": "alcohol"
+        },
+        {
+          "entities": [
+            {
+              "text": "Cologne",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6526,
+            6533
+          ],
+          "text": "Cologne"
+        }
+      ]
+    },
+    {
+      "score": 0.997986,
+      "sentence": "She said the man was intoxicated and had mentioned the fires she got a glimpse of his license plate number but they didn't write it down.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6535,
+            6538
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6539,
+            6543
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.666432,
+      "sentence": "She said the man was intoxicated and had mentioned the fires she got a glimpse of his license plate number but they didn't write it down.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "guerrilla fighter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6548,
+            6551
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "mentioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6576,
+            6585
+          ],
+          "text": "mentioned"
+        }
+      ]
+    },
+    {
+      "score": 0.563167,
+      "sentence": "She said the man was intoxicated and had mentioned the fires she got a glimpse of his license plate number but they didn't write it down.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6596,
+            6599
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "fires",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            6590,
+            6595
+          ],
+          "text": "fires"
+        }
+      ]
+    },
+    {
+      "score": 0.630151,
+      "sentence": "She said the man was intoxicated and had mentioned the fires she got a glimpse of his license plate number but they didn't write it down.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6596,
+            6599
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6646,
+            6650
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.889551,
+      "sentence": "She said the man was intoxicated and had mentioned the fires she got a glimpse of his license plate number but they didn't write it down.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "guerrilla fighter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6617,
+            6620
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6646,
+            6650
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.402504,
+      "sentence": "After sixty suspicious fires had been set in Seattle Washington investigators finally had to leave.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6939,
+            6952
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "Seattle Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6920,
+            6938
+          ],
+          "text": "Seattle Washington"
+        }
+      ]
+    },
+    {
+      "score": 0.166811,
+      "sentence": "A woman near one of the fires had seen a suspicious looking man who had bumped into her he was intoxicated and talked about the fires but this it happened weeks before and she couldn't remember much about him.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6977,
+            6982
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            6988,
+            6991
+          ],
+          "text": "one"
+        }
+      ]
+    },
+    {
+      "score": 0.74849,
+      "sentence": "A woman near one of the fires had seen a suspicious looking man who had bumped into her he was intoxicated and talked about the fires but this it happened weeks before and she couldn't remember much about him.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "guerrilla fighter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7063,
+            7065
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "talked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7086,
+            7092
+          ],
+          "text": "talked"
+        }
+      ]
+    },
+    {
+      "score": 0.641815,
+      "sentence": "When we arrived the fire was probably at its peak the flames were shooting above the sanctuary which was a very large sanctuary you know I would guess.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "its",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            519,
+            522
+          ],
+          "text": "its"
+        },
+        {
+          "entities": [
+            {
+              "text": "crimes",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            544,
+            552
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.765625,
+      "sentence": "Trying to find a specific unique event in her memory that can could trigger the rest the memories to flood out so it's a relaxation technique we go back in time with her to this to this point in time and have a really kind of like watch a movie for us and tell her what she sees.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7497,
+            7500
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "tell",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7492,
+            7496
+          ],
+          "text": "tell"
+        }
+      ]
+    },
+    {
+      "score": 0.817302,
+      "sentence": "Once witnesses hypnotized most state laws prohibit an individual from testifying at the trial.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7692,
+            7702
+          ],
+          "text": "individual"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            7726,
+            7731
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.258012,
+      "sentence": "As the witness keyed in on the alcohol she smelled on the man's breath get unlocked images from the night of the fire and she began to remember what she saw.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "guerrilla fighter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7791,
+            7794
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "Fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            7846,
+            7850
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.576196,
+      "sentence": "As the witness keyed in on the alcohol she smelled on the man's breath get unlocked images from the night of the fire and she began to remember what she saw.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            7833,
+            7838
+          ],
+          "text": "night"
+        },
+        {
+          "entities": [
+            {
+              "text": "Fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            7846,
+            7850
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.900784,
+      "sentence": "And his car a sedan possibly blue was unusually clean.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "guerrilla fighter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7920,
+            7923
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            7924,
+            7927
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.476856,
+      "sentence": "When asked if he could remember the license plate number she recalled the first letter.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "guerrilla fighter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7985,
+            7987
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7976,
+            7981
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.895041,
+      "sentence": "She was asked if he could recall anything else she said she saw for.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8059,
+            8062
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8067,
+            8072
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.998408,
+      "sentence": "She was asked if he could recall anything else she said she saw for.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8106,
+            8109
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8110,
+            8114
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.627349,
+      "sentence": "She was very receptive great candidate actually I I believe that she had a photographic memory after talking with her after the interviews she has the ability for us some some recall that most people do not have and I would say probably unique of all the the interviews I've done.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8226,
+            8229
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "talking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8262,
+            8269
+          ],
+          "text": "talking"
+        }
+      ]
+    },
+    {
+      "score": 0.503281,
+      "sentence": "She was very receptive great candidate actually I I believe that she had a photographic memory after talking with her after the interviews she has the ability for us some some recall that most people do not have and I would say probably unique of all the the interviews I've done.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8275,
+            8278
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "talking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8262,
+            8269
+          ],
+          "text": "talking"
+        }
+      ]
+    },
+    {
+      "score": 0.716814,
+      "sentence": "Parishioners at Trinity Lutheran arrive to find their church in ruins.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Parishioners",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            696,
+            708
+          ],
+          "text": "Parishioners"
+        },
+        {
+          "entities": [
+            {
+              "text": "Trinity Lutheran",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            712,
+            728
+          ],
+          "text": "Trinity Lutheran"
+        }
+      ]
+    },
+    {
+      "score": 0.480599,
+      "sentence": "She was very receptive great candidate actually I I believe that she had a photographic memory after talking with her after the interviews she has the ability for us some some recall that most people do not have and I would say probably unique of all the the interviews I've done.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "talking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8262,
+            8269
+          ],
+          "text": "talking"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviews",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            8289,
+            8299
+          ],
+          "text": "interviews"
+        }
+      ]
+    },
+    {
+      "score": 0.511414,
+      "sentence": "She was very receptive great candidate actually I I believe that she had a photographic memory after talking with her after the interviews she has the ability for us some some recall that most people do not have and I would say probably unique of all the the interviews I've done.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8275,
+            8278
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviews",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            8289,
+            8299
+          ],
+          "text": "interviews"
+        }
+      ]
+    },
+    {
+      "score": 0.817188,
+      "sentence": "She was very receptive great candidate actually I I believe that she had a photographic memory after talking with her after the interviews she has the ability for us some some recall that most people do not have and I would say probably unique of all the the interviews I've done.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8300,
+            8303
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviews",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            8289,
+            8299
+          ],
+          "text": "interviews"
+        }
+      ]
+    },
+    {
+      "score": 0.915509,
+      "sentence": "She was very receptive great candidate actually I I believe that she had a photographic memory after talking with her after the interviews she has the ability for us some some recall that most people do not have and I would say probably unique of all the the interviews I've done.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "guerrilla fighter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8377,
+            8378
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8385,
+            8388
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.627569,
+      "sentence": "She was very receptive great candidate actually I I believe that she had a photographic memory after talking with her after the interviews she has the ability for us some some recall that most people do not have and I would say probably unique of all the the interviews I've done.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "guerrilla fighter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8431,
+            8432
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviews",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            8420,
+            8430
+          ],
+          "text": "interviews"
+        }
+      ]
+    },
+    {
+      "score": 0.744234,
+      "sentence": "There were five hundred thousand sedan cars in north in Washington that have license plates with the letter K.. So investigators believe that the physical description of the suspect provided by their witness was the key piece of information.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "cars",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            8481,
+            8485
+          ],
+          "text": "cars"
+        },
+        {
+          "entities": [
+            {
+              "text": "north",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            8489,
+            8494
+          ],
+          "text": "north"
+        }
+      ]
+    },
+    {
+      "score": 0.5805,
+      "sentence": "There were five hundred thousand sedan cars in north in Washington that have license plates with the letter K.. So investigators believe that the physical description of the suspect provided by their witness was the key piece of information.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "cars",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            8481,
+            8485
+          ],
+          "text": "cars"
+        },
+        {
+          "entities": [
+            {
+              "text": "Seattle Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8498,
+            8508
+          ],
+          "text": "Washington"
+        }
+      ]
+    },
+    {
+      "score": 0.914435,
+      "sentence": "There were five hundred thousand sedan cars in north in Washington that have license plates with the letter K.. So investigators believe that the physical description of the suspect provided by their witness was the key piece of information.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "north",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            8489,
+            8494
+          ],
+          "text": "north"
+        },
+        {
+          "entities": [
+            {
+              "text": "Seattle Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8498,
+            8508
+          ],
+          "text": "Washington"
+        }
+      ]
+    },
+    {
+      "score": 0.406997,
+      "sentence": "There were five hundred thousand sedan cars in north in Washington that have license plates with the letter K.. So investigators believe that the physical description of the suspect provided by their witness was the key piece of information.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8642,
+            8649
+          ],
+          "text": "witness"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8636,
+            8641
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.881972,
+      "sentence": "Israeli witness I've ever done a composite drawing of who's been under hypnosis.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8759,
+            8766
+          ],
+          "text": "witness"
+        },
+        {
+          "entities": [
+            {
+              "text": "Israeli",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8751,
+            8758
+          ],
+          "text": "Israeli"
+        }
+      ]
+    },
+    {
+      "score": 0.99265,
+      "sentence": "Hines asked her to divide the manned space into sections and try to recall specific details of his appearance.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hines",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8846,
+            8851
+          ],
+          "text": "Hines"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8852,
+            8857
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.448314,
+      "sentence": "Tears of sorrow my staff.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1086,
+            1088
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "staff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1089,
+            1094
+          ],
+          "text": "staff"
+        }
+      ]
+    },
+    {
+      "score": 0.767614,
+      "sentence": "Hines asked her to divide the manned space into sections and try to recall specific details of his appearance.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8858,
+            8861
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8852,
+            8857
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.849308,
+      "sentence": "Each featured described by the witness is marked on a fact sheet.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9131,
+            9138
+          ],
+          "text": "witness"
+        },
+        {
+          "entities": [
+            {
+              "text": "described",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9114,
+            9123
+          ],
+          "text": "described"
+        }
+      ]
+    },
+    {
+      "score": 0.986757,
+      "sentence": "Using the information from the interview Hines through what the witness described.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9556,
+            9563
+          ],
+          "text": "witness"
+        },
+        {
+          "entities": [
+            {
+              "text": "described",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9564,
+            9573
+          ],
+          "text": "described"
+        }
+      ]
+    },
+    {
+      "score": 0.640602,
+      "sentence": "They'Re taking a visual image verbally telling me what that images and I'm having to take that verbal description and turn it back into a visual image and thus difficult.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9368,
+            9370
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "telling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9360,
+            9367
+          ],
+          "text": "telling"
+        }
+      ]
+    },
+    {
+      "score": 0.891401,
+      "sentence": "Using the information from the interview Hines through what the witness described.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hines",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9533,
+            9538
+          ],
+          "text": "Hines"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            9523,
+            9532
+          ],
+          "text": "interview"
+        }
+      ]
+    },
+    {
+      "score": 0.998439,
+      "sentence": "When the drawing was finished mine showed it to the witness she said that it looked just like the neatly dressed man she'd say five months into the fires three the task force released their composite drawing to the press.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9877,
+            9880
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9881,
+            9885
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.647397,
+      "sentence": "When the drawing was finished mine showed it to the witness she said that it looked just like the neatly dressed man she'd say five months into the fires three the task force released their composite drawing to the press.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "guerrilla fighter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9930,
+            9933
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9940,
+            9943
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.531595,
+      "sentence": "When the drawing was finished mine showed it to the witness she said that it looked just like the neatly dressed man she'd say five months into the fires three the task force released their composite drawing to the press.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "guerrilla fighter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9930,
+            9933
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10001,
+            10006
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.674157,
+      "sentence": "When the drawing was finished mine showed it to the witness she said that it looked just like the neatly dressed man she'd say five months into the fires three the task force released their composite drawing to the press.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9934,
+            9937
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10001,
+            10006
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.383473,
+      "sentence": "When the drawing was finished mine showed it to the witness she said that it looked just like the neatly dressed man she'd say five months into the fires three the task force released their composite drawing to the press.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10001,
+            10006
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "fires",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            9965,
+            9970
+          ],
+          "text": "fires"
+        }
+      ]
+    },
+    {
+      "score": 0.443313,
+      "sentence": "They also released to others as a control to help guard against false leads.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10039,
+            10043
+          ],
+          "text": "They"
+        },
+        {
+          "entities": [
+            {
+              "text": "released",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            10049,
+            10057
+          ],
+          "text": "released"
+        }
+      ]
+    },
+    {
+      "score": 0.926143,
+      "sentence": "Over the next several weeks there were eight church fires six were Lutheran churches.",
+      "type": "affiliatedWith",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "churches businesses",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1600,
+            1608
+          ],
+          "text": "churches"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lutheran",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1591,
+            1599
+          ],
+          "text": "Lutheran"
+        }
+      ]
+    },
+    {
+      "score": 0.708462,
+      "sentence": "When the composite drawings and psychological profile of the arsonist were released to the media this man George Keller believe he knew the identity of the arsonist.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "guerrilla fighter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10401,
+            10409
+          ],
+          "text": "arsonist"
+        },
+        {
+          "entities": [
+            {
+              "text": "released",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            10415,
+            10423
+          ],
+          "text": "released"
+        }
+      ]
+    },
+    {
+      "score": 0.294104,
+      "sentence": "He immediately went home and looked through his cell phone records and discovered that one of his business phones was used on the dates of the fires from locations near at the fires.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "guerrilla fighter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10506,
+            10508
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10526,
+            10530
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.62603,
+      "sentence": "He immediately went home and looked through his cell phone records and discovered that one of his business phones was used on the dates of the fires from locations near at the fires.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "guerrilla fighter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10600,
+            10603
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "locations",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            10660,
+            10669
+          ],
+          "text": "locations"
+        }
+      ]
+    },
+    {
+      "score": 0.693599,
+      "sentence": "He immediately went home and looked through his cell phone records and discovered that one of his business phones was used on the dates of the fires from locations near at the fires.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "fires",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            10649,
+            10654
+          ],
+          "text": "fires"
+        },
+        {
+          "entities": [
+            {
+              "text": "locations",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            10660,
+            10669
+          ],
+          "text": "locations"
+        }
+      ]
+    },
+    {
+      "score": 0.474482,
+      "sentence": "And his business credit card receipts showed that one of his cards was used to purchase gasoline in areas near the fires on the same day.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "guerrilla fighter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10746,
+            10749
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "areas",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            10789,
+            10794
+          ],
+          "text": "areas"
+        }
+      ]
+    },
+    {
+      "score": 0.581169,
+      "sentence": "And his business credit card receipts showed that one of his cards was used to purchase gasoline in areas near the fires on the same day.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "areas",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            10789,
+            10794
+          ],
+          "text": "areas"
+        },
+        {
+          "entities": [
+            {
+              "text": "fires",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            10804,
+            10809
+          ],
+          "text": "fires"
+        }
+      ]
+    },
+    {
+      "score": 0.958458,
+      "sentence": "And his business credit card receipts showed that one of his cards was used to purchase gasoline in areas near the fires on the same day.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "same day",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            10817,
+            10825
+          ],
+          "text": "same day"
+        },
+        {
+          "entities": [
+            {
+              "text": "fires",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            10804,
+            10809
+          ],
+          "text": "fires"
+        }
+      ]
+    },
+    {
+      "score": 0.720637,
+      "sentence": "Was his son Paul.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "guerrilla fighter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10873,
+            10876
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Paul Keller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10877,
+            10880
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.993523,
+      "sentence": "I said there is a considerable resemblance between these pictures on my son Paul then I went through the profile and because I was looking for a significant.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "salesman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10964,
+            10965
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10966,
+            10970
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.739393,
+      "sentence": "I said there is a considerable resemblance between these pictures on my son Paul then I went through the profile and because I was looking for a significant.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "salesman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11033,
+            11035
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "Paul Keller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11036,
+            11039
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.776117,
+      "sentence": "Eventually the arsons moved on to businesses and homes.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "arsons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1625,
+            1631
+          ],
+          "text": "arsons"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1659,
+            1664
+          ],
+          "text": "homes"
+        }
+      ]
+    },
+    {
+      "score": 0.980693,
+      "sentence": "All Keller was twenty seven years old and employed in the family advertising business.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George Keller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11261,
+            11267
+          ],
+          "text": "Keller"
+        },
+        {
+          "entities": [
+            {
+              "text": "twenty seven years old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            11272,
+            11294
+          ],
+          "text": "twenty seven years old"
+        }
+      ]
+    },
+    {
+      "score": 0.637353,
+      "sentence": "He was the oldest of three children in a deeply religious Lutheran family which possibly explains why Lutheran churches were targeted.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11371,
+            11379
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11411,
+            11417
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.93657,
+      "sentence": "He was the oldest of three children in a deeply religious Lutheran family which possibly explains why Lutheran churches were targeted.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lutheran",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11402,
+            11410
+          ],
+          "text": "Lutheran"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11411,
+            11417
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.914777,
+      "sentence": "He was the oldest of three children in a deeply religious Lutheran family which possibly explains why Lutheran churches were targeted.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11418,
+            11423
+          ],
+          "text": "which"
+        },
+        {
+          "entities": [
+            {
+              "text": "explains",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11433,
+            11441
+          ],
+          "text": "explains"
+        }
+      ]
+    },
+    {
+      "score": 0.87634,
+      "sentence": "He was the oldest of three children in a deeply religious Lutheran family which possibly explains why Lutheran churches were targeted.",
+      "type": "affiliatedWith",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "churches",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11455,
+            11463
+          ],
+          "text": "churches"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lutheran",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11446,
+            11454
+          ],
+          "text": "Lutheran"
+        }
+      ]
+    },
+    {
+      "score": 0.605562,
+      "sentence": "But as time went on we also understood for him or from him and from his wife.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George Keller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11596,
+            11599
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11600,
+            11604
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.278283,
+      "sentence": "the halls presents for their family had been unsettling for most the time Paul was born.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11635,
+            11641
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11629,
+            11634
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.961528,
+      "sentence": "Sponsored told police that Paul had an obsession with.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11710,
+            11716
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11705,
+            11709
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.997429,
+      "sentence": "He said his son had applied for a fire fighting.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Keller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11750,
+            11752
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11753,
+            11757
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.754889,
+      "sentence": "He said his son had applied for a fire fighting.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George Keller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11758,
+            11761
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Paul Keller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11762,
+            11765
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.673615,
+      "sentence": "When Keller arrived to task force headquarters his father was waiting for.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George Keller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12671,
+            12677
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "Paul Keller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12667,
+            12670
+          ],
+          "text": "his"
+        }
+      ]
+    }
+  ]
+}

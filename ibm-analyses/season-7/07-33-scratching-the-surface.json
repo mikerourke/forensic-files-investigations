@@ -1,0 +1,5200 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 15152,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Miguel row K.",
+      "relevance": 0.950702,
+      "confidence": 0.992005,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "ray Cruz",
+      "relevance": 0.950702,
+      "confidence": 0.999258,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Jorge Sanchez",
+      "relevance": 0.46974,
+      "confidence": 0.999873,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Hey Sanchez",
+      "relevance": 0.459343,
+      "confidence": 0.539678,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Manso",
+      "relevance": 0.452716,
+      "confidence": 0.999999,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Miguel rotate",
+      "relevance": 0.431565,
+      "confidence": 0.492037,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "George Mousa",
+      "relevance": 0.416912,
+      "confidence": 0.999975,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Cuba",
+      "relevance": 0.407783,
+      "confidence": 0.999511,
+      "count": 2,
+      "disambiguation": {
+        "name": "Cuba",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cuba",
+        "subtype": [
+          "HumanLanguage",
+          "GeographicFeature",
+          "Country",
+          "GovernmentalJurisdiction"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "thousand feet",
+      "relevance": 0.402352,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Douglas Samara",
+      "relevance": 0.398385,
+      "confidence": 0.763168,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mara",
+      "relevance": 0.361522,
+      "confidence": 0.999992,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Peter Katz",
+      "relevance": 0.358862,
+      "confidence": 0.999,
+      "count": 1,
+      "disambiguation": {
+        "name": "Peter_Katz",
+        "dbpedia_resource": "http://dbpedia.org/resource/Peter_Katz"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Cruz",
+      "relevance": 0.316142,
+      "confidence": 0.999617,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Miami",
+      "relevance": 0.290879,
+      "confidence": 0.99862,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Samara",
+      "relevance": 0.275387,
+      "confidence": 0.02502,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "ATF",
+      "relevance": 0.257904,
+      "confidence": 0.860777,
+      "count": 2,
+      "disambiguation": {
+        "name": "Bureau_of_Alcohol%2C_Tobacco%2C_Firearms_and_Explosives",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bureau_of_Alcohol%2C_Tobacco%2C_Firearms_and_Explosives",
+        "subtype": [
+          "GovernmentAgency"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Sanchez",
+      "relevance": 0.255982,
+      "confidence": 0.999996,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Haroldo",
+      "relevance": 0.237496,
+      "confidence": 0.999798,
+      "count": 2
+    },
+    {
+      "type": "Facility",
+      "text": "airplane factory",
+      "relevance": 0.227057,
+      "confidence": 0.41689,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mantsoe",
+      "relevance": 0.21814,
+      "confidence": 0.993877,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "don Samara",
+      "relevance": 0.214553,
+      "confidence": 0.961833,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Miguel Roque Kay",
+      "relevance": 0.185901,
+      "confidence": 0.861747,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Florida",
+      "relevance": 0.166695,
+      "confidence": 0.997381,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mr Guterres",
+      "relevance": 0.161333,
+      "confidence": 0.989925,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Luis guti eras",
+      "relevance": 0.159049,
+      "confidence": 0.615626,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Dade",
+      "relevance": 0.156978,
+      "confidence": 0.412794,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Remington",
+      "relevance": 0.148058,
+      "confidence": 0.414981,
+      "count": 1,
+      "disambiguation": {
+        "name": "Remington_Arms",
+        "dbpedia_resource": "http://dbpedia.org/resource/Remington_Arms",
+        "subtype": [
+          "Company"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Mr okay",
+      "relevance": 0.127548,
+      "confidence": 0.76378,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "George Sanchez",
+      "relevance": 0.122369,
+      "confidence": 0.988058,
+      "count": 1,
+      "disambiguation": {
+        "name": "George_I._S%C3%A1nchez",
+        "dbpedia_resource": "http://dbpedia.org/resource/George_I._S%C3%A1nchez"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "George moose",
+      "relevance": 0.121714,
+      "confidence": 0.834461,
+      "count": 1,
+      "disambiguation": {
+        "name": "George_Moose",
+        "dbpedia_resource": "http://dbpedia.org/resource/George_Moose"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Monson",
+      "relevance": 0.115372,
+      "confidence": 0.999394,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Coleman",
+      "relevance": 0.108127,
+      "confidence": 0.999837,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Manser",
+      "relevance": 0.099681,
+      "confidence": 0.998821,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Karel",
+      "relevance": 0.097038,
+      "confidence": 0.515362,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "George mosa",
+      "relevance": 0.090637,
+      "confidence": 0.999061,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "America",
+      "relevance": 0.089314,
+      "confidence": 0.999984,
+      "count": 2,
+      "disambiguation": {
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "goody",
+      "relevance": 0.081233,
+      "confidence": 0.340185,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "George mosasaur",
+      "relevance": 0.062171,
+      "confidence": 0.930125,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mr man",
+      "relevance": 0.057808,
+      "confidence": 0.64674,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two years",
+      "relevance": 0.039873,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "curry",
+      "relevance": 0.028918,
+      "confidence": 0.839632,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "confusion",
+      "relevance": 0.025801,
+      "confidence": 0.987757,
+      "count": 1,
+      "disambiguation": {
+        "name": "Mental_confusion",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mental_confusion",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "Symptom"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Mikhail",
+      "relevance": 0.023713,
+      "confidence": 0.995932,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eighteen months",
+      "relevance": 0.023297,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Doug",
+      "relevance": 0.02286,
+      "confidence": 0.999994,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Lara",
+      "relevance": 0.020848,
+      "confidence": 0.89144,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Laura",
+      "relevance": 0.017093,
+      "confidence": 0.999926,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mansell",
+      "relevance": 0.009775,
+      "confidence": 0.999968,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Sarah",
+      "relevance": 0.002426,
+      "confidence": 0.997568,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.904531
+    },
+    {
+      "label": "/sports/hunting and shooting",
+      "score": 0.903933
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.820335
+    },
+    {
+      "label": "/law, govt and politics/law enforcement",
+      "score": 0.771638
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.665037
+    },
+    {
+      "label": "/society/crime/property crime/robbery",
+      "score": 0.595078
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.559654
+    },
+    {
+      "label": "/society/unrest and war",
+      "score": 0.555385
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.548734
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.768608,
+      "sentence": "Five men were ambushed at work as they got out of their car.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            76,
+            81
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "aircraft",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            82,
+            85
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.975239,
+      "sentence": "The gal and four other employees were identified by management as having the potential for advancement so the company asked the man to attend computer classes at night.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1087,
+            1094
+          ],
+          "text": "company"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1095,
+            1100
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.901453,
+      "sentence": "After questioning him briefly detectives asked him to take a polygraph or lie detector test Manso consented Manso was asked if he knew who was responsible for the shooting.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11329,
+            11332
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11357,
+            11365
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.85786,
+      "sentence": "He was also charged with the attempted murder of the other four man in the parking lot.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12354,
+            12356
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12393,
+            12399
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.393113,
+      "sentence": "On the night of the shooting he snuck up to the roof with the easily concealed weapon and ambush the man he thought were in his way.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12989,
+            12991
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12980,
+            12988
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.464541,
+      "sentence": "After the shooting he threw the gun off the roof into one of the arts near the factory then hurried down to the factory floor to create his alibi.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13223,
+            13225
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13214,
+            13222
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.986619,
+      "sentence": "It was clear deception indicated on the polygraph to those responses confronted with the polygraph results man so broke down and confessed but he said he missed his intended targets and instead killed his best friend Miguel row K.. And he told its actors and his confession that he was very upset that Mr okay died because he was not the intended target in fact he was the only friends that SO had in the business.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11631,
+            11633
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "confessed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11634,
+            11638
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.580165,
+      "sentence": "It was clear deception indicated on the polygraph to those responses confronted with the polygraph results man so broke down and confessed but he said he missed his intended targets and instead killed his best friend Miguel row K.. And he told its actors and his confession that he was very upset that Mr okay died because he was not the intended target in fact he was the only friends that SO had in the business.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "K..\nDouglas Samara",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11716,
+            11719
+          ],
+          "text": "K.."
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11727,
+            11731
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.883339,
+      "sentence": "It was clear deception indicated on the polygraph to those responses confronted with the polygraph results man so broke down and confessed but he said he missed his intended targets and instead killed his best friend Miguel row K.. And he told its actors and his confession that he was very upset that Mr okay died because he was not the intended target in fact he was the only friends that SO had in the business.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11724,
+            11726
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11727,
+            11731
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.997792,
+      "sentence": "I think that he regretted that he didn't kill the right people.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11975,
+            11977
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "regretted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11978,
+            11987
+          ],
+          "text": "regretted"
+        }
+      ]
+    },
+    {
+      "score": 0.783096,
+      "sentence": "Detectives also questioned band so about the shooting death of Luis guti eras.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12026,
+            12036
+          ],
+          "text": "Detectives"
+        },
+        {
+          "entities": [
+            {
+              "text": "questioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12042,
+            12052
+          ],
+          "text": "questioned"
+        }
+      ]
+    },
+    {
+      "score": 0.348078,
+      "sentence": "He was yeah the year two years ago I killed my wife's lover too with the same gun he fired from inside his vehicle therefore the casing would remain inside his vehicle selling on that scene were projectiles from the shot gun which cannot be traced.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "K..\nDouglas Samara",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12152,
+            12156
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "lover",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12159,
+            12164
+          ],
+          "text": "lover"
+        }
+      ]
+    },
+    {
+      "score": 0.797558,
+      "sentence": "He was yeah the year two years ago I killed my wife's lover too with the same gun he fired from inside his vehicle therefore the casing would remain inside his vehicle selling on that scene were projectiles from the shot gun which cannot be traced.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12187,
+            12189
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "fired",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            12190,
+            12195
+          ],
+          "text": "fired"
+        }
+      ]
+    },
+    {
+      "score": 0.695404,
+      "sentence": "He was yeah the year two years ago I killed my wife's lover too with the same gun he fired from inside his vehicle therefore the casing would remain inside his vehicle selling on that scene were projectiles from the shot gun which cannot be traced.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12208,
+            12211
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "aircraft",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            12212,
+            12219
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.609162,
+      "sentence": "He was yeah the year two years ago I killed my wife's lover too with the same gun he fired from inside his vehicle therefore the casing would remain inside his vehicle selling on that scene were projectiles from the shot gun which cannot be traced.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12261,
+            12264
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "aircraft",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            12265,
+            12272
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.780655,
+      "sentence": "He was yeah the year two years ago I killed my wife's lover too with the same gun he fired from inside his vehicle therefore the casing would remain inside his vehicle selling on that scene were projectiles from the shot gun which cannot be traced.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12261,
+            12264
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12289,
+            12294
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.545056,
+      "sentence": "The gal and four other employees were identified by management as having the potential for advancement so the company asked the man to attend computer classes at night.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1105,
+            1108
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1095,
+            1100
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.698213,
+      "sentence": "He was also charged with the attempted murder of the other four man in the parking lot.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12354,
+            12356
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12366,
+            12373
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.618911,
+      "sentence": "He was also charged with the attempted murder of the other four man in the parking lot.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12418,
+            12421
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12429,
+            12440
+          ],
+          "text": "parking lot"
+        }
+      ]
+    },
+    {
+      "score": 0.698239,
+      "sentence": "After the shooting he threw the gun off the roof into one of the arts near the factory then hurried down to the factory floor to create his alibi.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13223,
+            13225
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "factory roof",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13248,
+            13252
+          ],
+          "text": "roof"
+        }
+      ]
+    },
+    {
+      "score": 0.451903,
+      "sentence": "After the shooting he threw the gun off the roof into one of the arts near the factory then hurried down to the factory floor to create his alibi.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            13258,
+            13261
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "factory roof",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13283,
+            13290
+          ],
+          "text": "factory"
+        }
+      ]
+    },
+    {
+      "score": 0.823204,
+      "sentence": "When George mosasaur man so immediately after the shooting he had no idea at the time and so was the gunman.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George mosasaur",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13562,
+            13565
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13591,
+            13599
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.348127,
+      "sentence": "When George mosasaur man so immediately after the shooting he had no idea at the time and so was the gunman.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George mosasaur",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13600,
+            13602
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13591,
+            13599
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.623107,
+      "sentence": "Haroldo man so was found guilty of murder and attempted murder and was sentenced to consecutive life terms in prison.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13827,
+            13830
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13890,
+            13899
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.736885,
+      "sentence": "Can your okay shares keepsakes and memories of Mikhail with their daughter Lara.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13941,
+            13945
+          ],
+          "text": "your"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13997,
+            14002
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.959869,
+      "sentence": "Can your okay shares keepsakes and memories of Mikhail with their daughter Lara.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mikhail",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13984,
+            13991
+          ],
+          "text": "Mikhail"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13997,
+            14002
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.640592,
+      "sentence": "Can your okay shares keepsakes and memories of Mikhail with their daughter Lara.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13997,
+            14002
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lara",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14003,
+            14011
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.813811,
+      "sentence": "Laura was just eighteen months old when her father died.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14062,
+            14068
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "Sarah",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14058,
+            14061
+          ],
+          "text": "her"
+        }
+      ]
+    },
+    {
+      "score": 0.697688,
+      "sentence": "The gal and four other employees were identified by management as having the potential for advancement so the company asked the man to attend computer classes at night.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            1139,
+            1144
+          ],
+          "text": "night"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1095,
+            1100
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.997273,
+      "sentence": "Sometimes I feel like I said by doing that I hopped on a small real I'm not here it was an odd life.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14201,
+            14202
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14203,
+            14207
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.928052,
+      "sentence": "Doug so Mara and ray Cruz survived their injuries dogs arm was almost amputated but doctors were able to save it.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doug",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14342,
+            14346
+          ],
+          "text": "Doug"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14377,
+            14382
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.98597,
+      "sentence": "Doug so Mara and ray Cruz survived their injuries dogs arm was almost amputated but doctors were able to save it.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "K..\nDouglas Samara",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14350,
+            14354
+          ],
+          "text": "Mara"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14377,
+            14382
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.925796,
+      "sentence": "Doug so Mara and ray Cruz survived their injuries dogs arm was almost amputated but doctors were able to save it.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "ray Cruz",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14359,
+            14367
+          ],
+          "text": "ray Cruz"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14377,
+            14382
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.673122,
+      "sentence": "The shooting change the victim's Doug's amora quit his job at the factory and went into law enforcement he now works as a corrections officer.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doug",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14507,
+            14510
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "factory roof",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14522,
+            14529
+          ],
+          "text": "factory"
+        }
+      ]
+    },
+    {
+      "score": 0.686493,
+      "sentence": "George Mousa impressed by the EMTs who responded to the shooting also quit his job and is training to become a medic.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George Mousa",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14599,
+            14611
+          ],
+          "text": "George Mousa"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            14655,
+            14663
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.469658,
+      "sentence": "George Mousa impressed by the EMTs who responded to the shooting also quit his job and is training to become a medic.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14674,
+            14677
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "quit",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            14669,
+            14673
+          ],
+          "text": "quit"
+        }
+      ]
+    },
+    {
+      "score": 0.889409,
+      "sentence": "Mansell believed that by scratching the serial number from his weapon.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14776,
+            14779
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "weapon",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            14780,
+            14786
+          ],
+          "text": "weapon"
+        }
+      ]
+    },
+    {
+      "score": 0.269081,
+      "sentence": "The man all went to class together and formed a car pool.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1150,
+            1153
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1198,
+            1202
+          ],
+          "text": "pool"
+        }
+      ]
+    },
+    {
+      "score": 0.393114,
+      "sentence": "The man all went to class together and formed a car pool.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "aircraft",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1194,
+            1197
+          ],
+          "text": "car"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1198,
+            1202
+          ],
+          "text": "pool"
+        }
+      ]
+    },
+    {
+      "score": 0.66273,
+      "sentence": "He was yeah the year two years ago I killed my wife's lover too with the same gun he fired from inside his vehicle therefore the casing would remain inside his vehicle selling on that scene were projectiles from the shot gun which cannot be traced.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "aircraft",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            12265,
+            12272
+          ],
+          "text": "vehicle"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12289,
+            12294
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.989973,
+      "sentence": "Sanchez called under the car for cover tomorrow was hit again and ran towards the factory door ray Cruz was also hit another shot exploded through the windshield and hit me over okay sitting in the backseat.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hey Sanchez",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1592,
+            1599
+          ],
+          "text": "Sanchez"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1600,
+            1606
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.85832,
+      "sentence": "Sanchez called under the car for cover tomorrow was hit again and ran towards the factory door ray Cruz was also hit another shot exploded through the windshield and hit me over okay sitting in the backseat.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hey Sanchez",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1592,
+            1599
+          ],
+          "text": "Sanchez"
+        },
+        {
+          "entities": [
+            {
+              "text": "aircraft",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1617,
+            1620
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.910659,
+      "sentence": "At the same time that I was talking about the one ninety I turn around my gun.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hey Sanchez",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2048,
+            2049
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "talking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2054,
+            2061
+          ],
+          "text": "talking"
+        }
+      ]
+    },
+    {
+      "score": 0.834769,
+      "sentence": "At the same time that I was talking about the one ninety I turn around my gun.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hey Sanchez",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2097,
+            2099
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "gun",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            2100,
+            2103
+          ],
+          "text": "gun"
+        }
+      ]
+    },
+    {
+      "score": 0.906861,
+      "sentence": "Man so it was a night shift supervisor who heard the shooting and rushed to help.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2216,
+            2219
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            2230,
+            2238
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.806785,
+      "sentence": "Haroldo man so denied he was involved in the shooting.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10078,
+            10080
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10101,
+            10109
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.837507,
+      "sentence": "And man so had an alibi since he was seen in the factory immediately following the shooting.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10221,
+            10223
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10274,
+            10282
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.822517,
+      "sentence": "But a background check revealed that man so had been a suspect in another shooting deaths the victim allegedly was having an affair with man so this wife.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10321,
+            10324
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10358,
+            10366
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.5226,
+      "sentence": "Haroldo man so was found guilty of murder and attempted murder and was sentenced to consecutive life terms in prison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13827,
+            13830
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13875,
+            13881
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.750593,
+      "sentence": "George Mousa impressed by the EMTs who responded to the shooting also quit his job and is training to become a medic.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14634,
+            14637
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            14655,
+            14663
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.649418,
+      "sentence": "Miguel row K. met his wife on a beach in their native Cuba the couple moved to Miami Florida in nineteen ninety one where they had their first child a daughter.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            333,
+            339
+          ],
+          "text": "Miguel"
+        },
+        {
+          "entities": [
+            {
+              "text": "Cuba",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            387,
+            391
+          ],
+          "text": "Cuba"
+        }
+      ]
+    },
+    {
+      "score": 0.713115,
+      "sentence": "Dozens of Mara was unconscious Miguel rotate was still in the backseat and was pronounced dead at the scene.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2402,
+            2415
+          ],
+          "text": "Miguel rotate"
+        },
+        {
+          "entities": [
+            {
+              "text": "pronounced",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2450,
+            2460
+          ],
+          "text": "pronounced"
+        }
+      ]
+    },
+    {
+      "score": 0.493564,
+      "sentence": "Police searched the area by ground and air and they even shut down a nearby highway.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "crews",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2700,
+            2704
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "highway",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2729,
+            2736
+          ],
+          "text": "highway"
+        }
+      ]
+    },
+    {
+      "score": 0.992798,
+      "sentence": "As police investigated the shooting of the five employees outside of the airplane factory they found evidence that the shooter had been on the factory roof and made his get away down a ladder in the back.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2866,
+            2872
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigated",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            2873,
+            2885
+          ],
+          "text": "investigated"
+        }
+      ]
+    },
+    {
+      "score": 0.490251,
+      "sentence": "As police investigated the shooting of the five employees outside of the airplane factory they found evidence that the shooter had been on the factory roof and made his get away down a ladder in the back.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "employees",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2911,
+            2920
+          ],
+          "text": "employees"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            2890,
+            2898
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.319283,
+      "sentence": "As police investigated the shooting of the five employees outside of the airplane factory they found evidence that the shooter had been on the factory roof and made his get away down a ladder in the back.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "crews",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2953,
+            2957
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            2890,
+            2898
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.437292,
+      "sentence": "As police investigated the shooting of the five employees outside of the airplane factory they found evidence that the shooter had been on the factory roof and made his get away down a ladder in the back.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "airplane",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2936,
+            2944
+          ],
+          "text": "airplane"
+        },
+        {
+          "entities": [
+            {
+              "text": "factory roof",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2945,
+            2952
+          ],
+          "text": "factory"
+        }
+      ]
+    },
+    {
+      "score": 0.771892,
+      "sentence": "Man so it was a night shift supervisor at the airplane factory and was one of the first employees on the scene on the night of the shooting.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "airplane",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            8940,
+            8948
+          ],
+          "text": "airplane"
+        },
+        {
+          "entities": [
+            {
+              "text": "factory roof",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8949,
+            8956
+          ],
+          "text": "factory"
+        }
+      ]
+    },
+    {
+      "score": 0.758672,
+      "sentence": "As police investigated the shooting of the five employees outside of the airplane factory they found evidence that the shooter had been on the factory roof and made his get away down a ladder in the back.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2982,
+            2989
+          ],
+          "text": "shooter"
+        },
+        {
+          "entities": [
+            {
+              "text": "factory roof",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3006,
+            3013
+          ],
+          "text": "factory"
+        }
+      ]
+    },
+    {
+      "score": 0.67212,
+      "sentence": "Man so it was a night shift supervisor at the airplane factory and was one of the first employees on the scene on the night of the shooting.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8922,
+            8932
+          ],
+          "text": "supervisor"
+        },
+        {
+          "entities": [
+            {
+              "text": "factory roof",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8949,
+            8956
+          ],
+          "text": "factory"
+        }
+      ]
+    },
+    {
+      "score": 0.835445,
+      "sentence": "And man so had an alibi since he was seen in the factory immediately following the shooting.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10221,
+            10223
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "factory roof",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10240,
+            10247
+          ],
+          "text": "factory"
+        }
+      ]
+    },
+    {
+      "score": 0.661773,
+      "sentence": "The shells found on the roof told investigators the weapon used was a shot done.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3102,
+            3115
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3097,
+            3101
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.404805,
+      "sentence": "The shooting killed one man Miguel row K.. Douglas Samara and ray crews were alive but in critical condition.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "crews",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3553,
+            3558
+          ],
+          "text": "crews"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            3491,
+            3499
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.557661,
+      "sentence": "Two others Jorge Sanchez and George Mousa escaped without injury I was angry because.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jorge Sanchez",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3608,
+            3621
+          ],
+          "text": "Jorge Sanchez"
+        },
+        {
+          "entities": [
+            {
+              "text": "others",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3601,
+            3607
+          ],
+          "text": "others"
+        }
+      ]
+    },
+    {
+      "score": 0.740551,
+      "sentence": "Miguel row K. met his wife on a beach in their native Cuba the couple moved to Miami Florida in nineteen ninety one where they had their first child a daughter.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            351,
+            354
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "K..\nDouglas Samara",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            355,
+            359
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.78496,
+      "sentence": "He was yeah the year two years ago I killed my wife's lover too with the same gun he fired from inside his vehicle therefore the casing would remain inside his vehicle selling on that scene were projectiles from the shot gun which cannot be traced.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12149,
+            12151
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "K..\nDouglas Samara",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12152,
+            12156
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.554814,
+      "sentence": "Two others Jorge Sanchez and George Mousa escaped without injury I was angry because.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "K..\nDouglas Samara",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3662,
+            3663
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "others",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3601,
+            3607
+          ],
+          "text": "others"
+        }
+      ]
+    },
+    {
+      "score": 0.33166,
+      "sentence": "I was just knows my family but I was really angry I was I wanted to find shooter.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "K..\nDouglas Samara",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3796,
+            3798
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "Cruz family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3799,
+            3805
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.50222,
+      "sentence": "Police began their investigation by asking about any recent firings for disgruntled current employees.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3861,
+            3867
+          ],
+          "text": "Police"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            3880,
+            3893
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.849998,
+      "sentence": "Police began their investigation by asking about any recent firings for disgruntled current employees.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3874,
+            3879
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            3880,
+            3893
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.6063,
+      "sentence": "Police began their investigation by asking about any recent firings for disgruntled current employees.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "asking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3897,
+            3903
+          ],
+          "text": "asking"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            3880,
+            3893
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.530069,
+      "sentence": "Police began their investigation by asking about any recent firings for disgruntled current employees.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "employees",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3953,
+            3962
+          ],
+          "text": "employees"
+        },
+        {
+          "entities": [
+            {
+              "text": "firings",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            3921,
+            3928
+          ],
+          "text": "firings"
+        }
+      ]
+    },
+    {
+      "score": 0.475892,
+      "sentence": "One of the supervisors working on the night of the shooting reported seeing two or three man in a white Cadillac cruising the factory grounds this was particularly troubling since one of the shooting victims ray Cruz had a possible links to organized crime rate crews had a family member who is currently in a witness protection program.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "supervisors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3975,
+            3986
+          ],
+          "text": "supervisors"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4015,
+            4023
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.635077,
+      "sentence": "One of the supervisors working on the night of the shooting reported seeing two or three man in a white Cadillac cruising the factory grounds this was particularly troubling since one of the shooting victims ray Cruz had a possible links to organized crime rate crews had a family member who is currently in a witness protection program.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "supervisors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4164,
+            4171
+          ],
+          "text": "victims"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4155,
+            4163
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.652614,
+      "sentence": "One of the supervisors working on the night of the shooting reported seeing two or three man in a white Cadillac cruising the factory grounds this was particularly troubling since one of the shooting victims ray Cruz had a possible links to organized crime rate crews had a family member who is currently in a witness protection program.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "ray Cruz",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4245,
+            4251
+          ],
+          "text": "member"
+        },
+        {
+          "entities": [
+            {
+              "text": "Cruz family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4238,
+            4244
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.838737,
+      "sentence": "testifying against major drug traffickers who had assassinated some government witnesses police wondered whether the factory shooting was a message to the Cruz family warning rate Cruz's brother not to testify at that trial.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "traffickers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4344,
+            4347
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4352,
+            4364
+          ],
+          "text": "assassinated"
+        }
+      ]
+    },
+    {
+      "score": 0.801149,
+      "sentence": "testifying against major drug traffickers who had assassinated some government witnesses police wondered whether the factory shooting was a message to the Cruz family warning rate Cruz's brother not to testify at that trial.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4381,
+            4390
+          ],
+          "text": "witnesses"
+        },
+        {
+          "entities": [
+            {
+              "text": "government",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4370,
+            4380
+          ],
+          "text": "government"
+        }
+      ]
+    },
+    {
+      "score": 0.86718,
+      "sentence": "Miguel row K. met his wife on a beach in their native Cuba the couple moved to Miami Florida in nineteen ninety one where they had their first child a daughter.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            396,
+            402
+          ],
+          "text": "couple"
+        },
+        {
+          "entities": [
+            {
+              "text": "Miami Florida",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            412,
+            425
+          ],
+          "text": "Miami Florida"
+        }
+      ]
+    },
+    {
+      "score": 0.905582,
+      "sentence": "testifying against major drug traffickers who had assassinated some government witnesses police wondered whether the factory shooting was a message to the Cruz family warning rate Cruz's brother not to testify at that trial.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4391,
+            4397
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "government",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4370,
+            4380
+          ],
+          "text": "government"
+        }
+      ]
+    },
+    {
+      "score": 0.303814,
+      "sentence": "testifying against major drug traffickers who had assassinated some government witnesses police wondered whether the factory shooting was a message to the Cruz family warning rate Cruz's brother not to testify at that trial.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4381,
+            4390
+          ],
+          "text": "witnesses"
+        },
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4391,
+            4397
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.84968,
+      "sentence": "testifying against major drug traffickers who had assassinated some government witnesses police wondered whether the factory shooting was a message to the Cruz family warning rate Cruz's brother not to testify at that trial.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Cruz family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4457,
+            4468
+          ],
+          "text": "Cruz family"
+        },
+        {
+          "entities": [
+            {
+              "text": "warning",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4469,
+            4476
+          ],
+          "text": "warning"
+        }
+      ]
+    },
+    {
+      "score": 0.32978,
+      "sentence": "testifying against major drug traffickers who had assassinated some government witnesses police wondered whether the factory shooting was a message to the Cruz family warning rate Cruz's brother not to testify at that trial.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "ray Cruz",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4482,
+            4486
+          ],
+          "text": "Cruz"
+        },
+        {
+          "entities": [
+            {
+              "text": "Peter Katz",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4489,
+            4496
+          ],
+          "text": "brother"
+        }
+      ]
+    },
+    {
+      "score": 0.779434,
+      "sentence": "testifying against major drug traffickers who had assassinated some government witnesses police wondered whether the factory shooting was a message to the Cruz family warning rate Cruz's brother not to testify at that trial.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peter Katz",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4489,
+            4496
+          ],
+          "text": "brother"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            4520,
+            4525
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.421844,
+      "sentence": "As police started to investigate that theory a woman who lives directly behind the factory called to say she had found a gun in her yard.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "K..\nDouglas Samara",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4580,
+            4583
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "factory roof",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4610,
+            4617
+          ],
+          "text": "factory"
+        }
+      ]
+    },
+    {
+      "score": 0.493551,
+      "sentence": "As police started to investigate that theory a woman who lives directly behind the factory called to say she had found a gun in her yard.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "factory roof",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4610,
+            4617
+          ],
+          "text": "factory"
+        },
+        {
+          "entities": [
+            {
+              "text": "yard",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4659,
+            4663
+          ],
+          "text": "yard"
+        }
+      ]
+    },
+    {
+      "score": 0.601959,
+      "sentence": "As police started to investigate that theory a woman who lives directly behind the factory called to say she had found a gun in her yard.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4628,
+            4631
+          ],
+          "text": "say"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4618,
+            4624
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.519813,
+      "sentence": "As police started to investigate that theory a woman who lives directly behind the factory called to say she had found a gun in her yard.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "K..\nDouglas Samara",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4632,
+            4635
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4628,
+            4631
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.615869,
+      "sentence": "As police started to investigate that theory a woman who lives directly behind the factory called to say she had found a gun in her yard.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "gun",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            4648,
+            4651
+          ],
+          "text": "gun"
+        },
+        {
+          "entities": [
+            {
+              "text": "yard",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4659,
+            4663
+          ],
+          "text": "yard"
+        }
+      ]
+    },
+    {
+      "score": 0.467599,
+      "sentence": "Miguel row K. met his wife on a beach in their native Cuba the couple moved to Miami Florida in nineteen ninety one where they had their first child a daughter.",
+      "type": "populationOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            445,
+            448
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "Miami Florida",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            412,
+            425
+          ],
+          "text": "Miami Florida"
+        }
+      ]
+    },
+    {
+      "score": 0.372716,
+      "sentence": "As police started to investigate that theory a woman who lives directly behind the factory called to say she had found a gun in her yard.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "K..\nDouglas Samara",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4655,
+            4658
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "yard",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4659,
+            4663
+          ],
+          "text": "yard"
+        }
+      ]
+    },
+    {
+      "score": 0.411025,
+      "sentence": "Because of the police activity in the area shooting come outside she was fearful and it was something going on she should stay inside the next morning when she came outside of Peter Katz she noticed a shock on it she called police.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "K..\nDouglas Samara",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4730,
+            4733
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4708,
+            4716
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.380236,
+      "sentence": "But a background check revealed that man so had been a suspect in another shooting deaths the victim allegedly was having an affair with man so this wife.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "K..\nDouglas Samara",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10378,
+            10384
+          ],
+          "text": "victim"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10358,
+            10366
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.841646,
+      "sentence": "Because of the police activity in the area shooting come outside she was fearful and it was something going on she should stay inside the next morning when she came outside of Peter Katz she noticed a shock on it she called police.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "morning",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            4808,
+            4815
+          ],
+          "text": "morning"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4708,
+            4716
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.824292,
+      "sentence": "There were no fingerprints on the gun and the serial number had been filed off making it virtually impossible to trace that's what we call a robbery gone where it is easily concealable by removing part of the barrel and removing the stock from the weapon and it's easier to hide in a person.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "weapon",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            5145,
+            5151
+          ],
+          "text": "weapon"
+        },
+        {
+          "entities": [
+            {
+              "text": "airplane",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            5106,
+            5112
+          ],
+          "text": "barrel"
+        }
+      ]
+    },
+    {
+      "score": 0.499503,
+      "sentence": "To see if this was the gun used in the factory shooting Thomas court conducted a ballistic analysis.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "gun",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            5212,
+            5215
+          ],
+          "text": "gun"
+        },
+        {
+          "entities": [
+            {
+              "text": "factory roof",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5228,
+            5235
+          ],
+          "text": "factory"
+        }
+      ]
+    },
+    {
+      "score": 0.134176,
+      "sentence": "To see if this was the gun used in the factory shooting Thomas court conducted a ballistic analysis.",
+      "type": "instrumentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "gun",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            5212,
+            5215
+          ],
+          "text": "gun"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5236,
+            5244
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.569173,
+      "sentence": "To see if this was the gun used in the factory shooting Thomas court conducted a ballistic analysis.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Thomas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5245,
+            5251
+          ],
+          "text": "Thomas"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5236,
+            5244
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.721507,
+      "sentence": "To see if this was the gun used in the factory shooting Thomas court conducted a ballistic analysis.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Thomas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5245,
+            5251
+          ],
+          "text": "Thomas"
+        },
+        {
+          "entities": [
+            {
+              "text": "court",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5252,
+            5257
+          ],
+          "text": "court"
+        }
+      ]
+    },
+    {
+      "score": 0.514421,
+      "sentence": "Without having a rifle bore there are no marks left behind on the appellants we can't identify the pallets we can only identify the shot chills themselves.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "appellants",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5494,
+            5504
+          ],
+          "text": "appellants"
+        },
+        {
+          "entities": [
+            {
+              "text": "themselves",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5505,
+            5507
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.066496,
+      "sentence": "Although this was the murder weapon it wasn't the type used by organized crime it's been more up close and personal with hand guns so that they are sure that they hit their target their intended target.",
+      "type": "instrumentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "weapon",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            6063,
+            6069
+          ],
+          "text": "weapon"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6056,
+            6062
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.33874,
+      "sentence": "Miguel row K. met his wife on a beach in their native Cuba the couple moved to Miami Florida in nineteen ninety one where they had their first child a daughter.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            464,
+            469
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "fourteenth",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            476,
+            481
+          ],
+          "text": "child"
+        }
+      ]
+    },
+    {
+      "score": 0.621613,
+      "sentence": "But the guns still had a story to tell for those who knew how to read. Place the chapel listing test had identified the gun used to kill me gal wrote K. and wound dogs and Mara and ray Cruz.",
+      "type": "instrumentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "gun",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            6684,
+            6687
+          ],
+          "text": "gun"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            6696,
+            6700
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.333421,
+      "sentence": "But the guns still had a story to tell for those who knew how to read. Place the chapel listing test had identified the gun used to kill me gal wrote K. and wound dogs and Mara and ray Cruz.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "fourteenth",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6701,
+            6703
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            6696,
+            6700
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.987637,
+      "sentence": "But the guns still had a story to tell for those who knew how to read. Place the chapel listing test had identified the gun used to kill me gal wrote K. and wound dogs and Mara and ray Cruz.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "fourteenth",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6704,
+            6707
+          ],
+          "text": "gal"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6708,
+            6713
+          ],
+          "text": "wrote"
+        }
+      ]
+    },
+    {
+      "score": 0.537524,
+      "sentence": "The question now was who owned the gun.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "K..\nDouglas Samara",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6776,
+            6779
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "gun",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            6790,
+            6793
+          ],
+          "text": "gun"
+        }
+      ]
+    },
+    {
+      "score": 0.363171,
+      "sentence": "The serial number had been removed every mark the serial number the brand the model the gauge everything was ground off the weapon so we had no idea who the manufacturer was or any of the information model or serial number.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "K..\nDouglas Samara",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6944,
+            6947
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "Remington",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6952,
+            6964
+          ],
+          "text": "manufacturer"
+        }
+      ]
+    },
+    {
+      "score": 0.320723,
+      "sentence": "The gun vault at the Miami Dade police crime lab holds over two thousand firearms of various makes and calipers experience firearms examiners thought it was probably a Remington model eight seventy shot gun so they compared it to the Remington eight seventy in their fault.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "gun",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            7086,
+            7089
+          ],
+          "text": "gun"
+        },
+        {
+          "entities": [
+            {
+              "text": "vault",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7090,
+            7095
+          ],
+          "text": "vault"
+        }
+      ]
+    },
+    {
+      "score": 0.465504,
+      "sentence": "The gun vault at the Miami Dade police crime lab holds over two thousand firearms of various makes and calipers experience firearms examiners thought it was probably a Remington model eight seventy shot gun so they compared it to the Remington eight seventy in their fault.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7114,
+            7120
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "Miami Dade",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7103,
+            7113
+          ],
+          "text": "Miami Dade"
+        }
+      ]
+    },
+    {
+      "score": 0.477326,
+      "sentence": "The gun vault at the Miami Dade police crime lab holds over two thousand firearms of various makes and calipers experience firearms examiners thought it was probably a Remington model eight seventy shot gun so they compared it to the Remington eight seventy in their fault.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "lab",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7127,
+            7130
+          ],
+          "text": "lab"
+        },
+        {
+          "entities": [
+            {
+              "text": "Miami Dade",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7103,
+            7113
+          ],
+          "text": "Miami Dade"
+        }
+      ]
+    },
+    {
+      "score": 0.939519,
+      "sentence": "And sure enough it turned out to be a twelve gauge Remington pump shotgun they're they're fairly popular here M. FXR police officers carry.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7480,
+            7488
+          ],
+          "text": "officers"
+        },
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7473,
+            7479
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.599854,
+      "sentence": "The model eight seventy is popular everywhere it's one of the best selling shot guns ever made millions have been sold.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            7547,
+            7550
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "guns",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7576,
+            7580
+          ],
+          "text": "guns"
+        }
+      ]
+    },
+    {
+      "score": 0.282523,
+      "sentence": "The one hundred sixty employees we're a tight knit group and the gal quickly became one of the family.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "employees",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            693,
+            702
+          ],
+          "text": "employees"
+        },
+        {
+          "entities": [
+            {
+              "text": "sixty",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            687,
+            692
+          ],
+          "text": "sixty"
+        }
+      ]
+    },
+    {
+      "score": 0.779753,
+      "sentence": "With the recovery serial number detectives Coleman contacted the bureau of alcohol tobacco and firearms they said the manufacturer had sold the gun to a local sporting goods store.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8648,
+            8655
+          ],
+          "text": "Coleman"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8637,
+            8647
+          ],
+          "text": "detectives"
+        }
+      ]
+    },
+    {
+      "score": 0.436669,
+      "sentence": "With the recovery serial number detectives Coleman contacted the bureau of alcohol tobacco and firearms they said the manufacturer had sold the gun to a local sporting goods store.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8637,
+            8647
+          ],
+          "text": "detectives"
+        },
+        {
+          "entities": [
+            {
+              "text": "manufacturer",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8670,
+            8676
+          ],
+          "text": "bureau"
+        }
+      ]
+    },
+    {
+      "score": 0.943972,
+      "sentence": "With the recovery serial number detectives Coleman contacted the bureau of alcohol tobacco and firearms they said the manufacturer had sold the gun to a local sporting goods store.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8648,
+            8655
+          ],
+          "text": "Coleman"
+        },
+        {
+          "entities": [
+            {
+              "text": "contacted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8656,
+            8665
+          ],
+          "text": "contacted"
+        }
+      ]
+    },
+    {
+      "score": 0.624526,
+      "sentence": "With the recovery serial number detectives Coleman contacted the bureau of alcohol tobacco and firearms they said the manufacturer had sold the gun to a local sporting goods store.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "manufacturer",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8670,
+            8676
+          ],
+          "text": "bureau"
+        },
+        {
+          "entities": [
+            {
+              "text": "contacted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8656,
+            8665
+          ],
+          "text": "contacted"
+        }
+      ]
+    },
+    {
+      "score": 0.993264,
+      "sentence": "With the recovery serial number detectives Coleman contacted the bureau of alcohol tobacco and firearms they said the manufacturer had sold the gun to a local sporting goods store.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8709,
+            8713
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8714,
+            8718
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.834558,
+      "sentence": "Man so it was a night shift supervisor at the airplane factory and was one of the first employees on the scene on the night of the shooting.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8922,
+            8932
+          ],
+          "text": "supervisor"
+        },
+        {
+          "entities": [
+            {
+              "text": "airplane",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            8940,
+            8948
+          ],
+          "text": "airplane"
+        }
+      ]
+    },
+    {
+      "score": 0.528109,
+      "sentence": "Man so it was a night shift supervisor at the airplane factory and was one of the first employees on the scene on the night of the shooting.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "employees",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8982,
+            8991
+          ],
+          "text": "employees"
+        },
+        {
+          "entities": [
+            {
+              "text": "airplane",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            8940,
+            8948
+          ],
+          "text": "airplane"
+        }
+      ]
+    },
+    {
+      "score": 0.965906,
+      "sentence": "Man so it was a night shift supervisor at the airplane factory and was one of the first employees on the scene on the night of the shooting.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "employees",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8982,
+            8991
+          ],
+          "text": "employees"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8999,
+            9004
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.396647,
+      "sentence": "Man so it was a night shift supervisor at the airplane factory and was one of the first employees on the scene on the night of the shooting.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9025,
+            9033
+          ],
+          "text": "shooting"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8999,
+            9004
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.278667,
+      "sentence": "Man so it was a night shift supervisor at the airplane factory and was one of the first employees on the scene on the night of the shooting.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            9012,
+            9017
+          ],
+          "text": "night"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9025,
+            9033
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.453854,
+      "sentence": "I was very impressed that he was here such a short time.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            800,
+            802
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "parts",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            807,
+            811
+          ],
+          "text": "here"
+        }
+      ]
+    },
+    {
+      "score": 0.560542,
+      "sentence": "Investigators discovered that Mantsoe had been angry because others at work had been promoted ahead of him.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9208,
+            9215
+          ],
+          "text": "Mantsoe"
+        },
+        {
+          "entities": [
+            {
+              "text": "others",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9239,
+            9245
+          ],
+          "text": "others"
+        }
+      ]
+    },
+    {
+      "score": 0.438606,
+      "sentence": "One of those promoted was don Samara a victim in the shooting.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9312,
+            9315
+          ],
+          "text": "don"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9339,
+            9347
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.935979,
+      "sentence": "One of those promoted was don Samara a victim in the shooting.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "K..\nDouglas Samara",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9325,
+            9331
+          ],
+          "text": "victim"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9339,
+            9347
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.410216,
+      "sentence": "I believe it's because of his his lack of what not being able to communicate with vendors due to the fact they didn't speak any English.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9458,
+            9461
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "vendors",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9510,
+            9517
+          ],
+          "text": "vendors"
+        }
+      ]
+    },
+    {
+      "score": 0.978051,
+      "sentence": "As soon as all this happened the one person I turned to was was was Monson said also you have to help me out here with well everything that's going on and you know.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9820,
+            9826
+          ],
+          "text": "Monson"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9827,
+            9831
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.251141,
+      "sentence": "These gentlemen are in the hospital you have to take over so doing that week he was a person who is making sure the machines were running.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9953,
+            9956
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9944,
+            9952
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.913021,
+      "sentence": "Haroldo man so denied he was involved in the shooting.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10064,
+            10067
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "denied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10071,
+            10077
+          ],
+          "text": "denied"
+        }
+      ]
+    },
+    {
+      "score": 0.623109,
+      "sentence": "Haroldo man so denied he was involved in the shooting.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10078,
+            10080
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "denied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10071,
+            10077
+          ],
+          "text": "denied"
+        }
+      ]
+    },
+    {
+      "score": 0.558505,
+      "sentence": "It was man sows closest friend Miguel Roque Kay who was killed in the shooting.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel Roque Kay",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10159,
+            10162
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10181,
+            10189
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.061151,
+      "sentence": "The murder weapon was a sawed off shotgun found in the yard of the women who live next to the factory.",
+      "type": "instrumentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "weapon",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            10537,
+            10543
+          ],
+          "text": "weapon"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10530,
+            10536
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.355783,
+      "sentence": "From his native country you know Cuba and and he knew how to speak English he was a go getter years ago that he knew what he wanted he was going.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            836,
+            839
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            847,
+            854
+          ],
+          "text": "country"
+        }
+      ]
+    },
+    {
+      "score": 0.245155,
+      "sentence": "We ran your man so through that system and hit on a previous homicide.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "your",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10766,
+            10770
+          ],
+          "text": "your"
+        },
+        {
+          "entities": [
+            {
+              "text": "Karel doorman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10771,
+            10774
+          ],
+          "text": "man"
+        }
+      ]
+    },
+    {
+      "score": 0.827583,
+      "sentence": "The victim Luis guti eras had been gunned down while in his car on a deserted stretch of road.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Luis guti",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10953,
+            10956
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "aircraft",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10957,
+            10960
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.995903,
+      "sentence": "Police asked man so to come down to police headquarters for questioning.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11121,
+            11127
+          ],
+          "text": "Police"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11128,
+            11133
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.468464,
+      "sentence": "Police asked man so to come down to police headquarters for questioning.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11134,
+            11137
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "headquarters",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11164,
+            11176
+          ],
+          "text": "headquarters"
+        }
+      ]
+    },
+    {
+      "score": 0.489991,
+      "sentence": "Police asked man so to come down to police headquarters for questioning.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11157,
+            11163
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "headquarters",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11164,
+            11176
+          ],
+          "text": "headquarters"
+        }
+      ]
+    },
+    {
+      "score": 0.493358,
+      "sentence": "After questioning him briefly detectives asked him to take a polygraph or lie detector test Manso consented Manso was asked if he knew who was responsible for the shooting.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11212,
+            11215
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "questioning",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11200,
+            11211
+          ],
+          "text": "questioning"
+        }
+      ]
+    },
+    {
+      "score": 0.692871,
+      "sentence": "After questioning him briefly detectives asked him to take a polygraph or lie detector test Manso consented Manso was asked if he knew who was responsible for the shooting.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11212,
+            11215
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11235,
+            11240
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.776691,
+      "sentence": "After questioning him briefly detectives asked him to take a polygraph or lie detector test Manso consented Manso was asked if he knew who was responsible for the shooting.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11224,
+            11234
+          ],
+          "text": "detectives"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11235,
+            11240
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.928282,
+      "sentence": "After questioning him briefly detectives asked him to take a polygraph or lie detector test Manso consented Manso was asked if he knew who was responsible for the shooting.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miguel rotate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11241,
+            11244
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11235,
+            11240
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.635172,
+      "sentence": "After questioning him briefly detectives asked him to take a polygraph or lie detector test Manso consented Manso was asked if he knew who was responsible for the shooting.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Manso consented Manso",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11286,
+            11307
+          ],
+          "text": "Manso consented Manso"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11312,
+            11317
+          ],
+          "text": "asked"
+        }
+      ]
+    }
+  ]
+}

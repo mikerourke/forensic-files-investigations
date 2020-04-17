@@ -1,0 +1,6036 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 14286,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Quantity",
+      "text": "three year",
+      "relevance": 0.949872,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Virginia",
+      "relevance": 0.728368,
+      "confidence": 1,
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Johnson",
+      "relevance": 0.672316,
+      "confidence": 1,
+      "count": 15
+    },
+    {
+      "type": "Person",
+      "text": "leroy quick",
+      "relevance": 0.659415,
+      "confidence": 0.993772,
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty nine year",
+      "relevance": 0.613102,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "nineteen ninety four twenty two year",
+      "relevance": 0.596271,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Denise hall",
+      "relevance": 0.595117,
+      "confidence": 0.64706,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Spencer",
+      "relevance": 0.551226,
+      "confidence": 0.999997,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Jermaine Johnson",
+      "relevance": 0.486064,
+      "confidence": 1,
+      "count": 4,
+      "disambiguation": {
+        "name": "Jermaine_Johnson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jermaine_Johnson",
+        "subtype": [
+          "Athlete",
+          "FootballPlayer"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Richmond",
+      "relevance": 0.484384,
+      "confidence": 0.999617,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Timothy Spencer",
+      "relevance": 0.461686,
+      "confidence": 0.518425,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Rancic",
+      "relevance": 0.434508,
+      "confidence": 0.829854,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Virginia state university",
+      "relevance": 0.419111,
+      "confidence": 0.456875,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Robert canning",
+      "relevance": 0.412127,
+      "confidence": 0.990998,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two hour",
+      "relevance": 0.409999,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Robert",
+      "relevance": 0.372433,
+      "confidence": 0.999998,
+      "count": 2
+    },
+    {
+      "type": "HealthCondition",
+      "text": "kidney cancer",
+      "relevance": 0.357527,
+      "confidence": 0.789905,
+      "count": 1,
+      "disambiguation": {
+        "name": "Kidney_cancer",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kidney_cancer",
+        "subtype": [
+          "DiseaseOrMedicalCondition"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Robert Kennedy",
+      "relevance": 0.315508,
+      "confidence": 0.995033,
+      "count": 1,
+      "disambiguation": {
+        "name": "Robert_F._Kennedy",
+        "dbpedia_resource": "http://dbpedia.org/resource/Robert_F._Kennedy",
+        "subtype": [
+          "FilmCharacter",
+          "Politician",
+          "MilitaryPerson",
+          "OfficeHolder",
+          "U.S.Congressperson",
+          "TVActor"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "pope Paul",
+      "relevance": 0.314965,
+      "confidence": 0.32562,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "NBC",
+      "relevance": 0.27215,
+      "confidence": 0.939714,
+      "count": 1,
+      "disambiguation": {
+        "name": "NBC",
+        "dbpedia_resource": "http://dbpedia.org/resource/NBC",
+        "subtype": [
+          "Broadcast",
+          "AwardNominee",
+          "AwardWinner",
+          "FilmDistributor",
+          "TVNetwork",
+          "TelevisionStation",
+          "TVWriter"
+        ]
+      }
+    },
+    {
+      "type": "Facility",
+      "text": "R. F. L. P.",
+      "relevance": 0.267357,
+      "confidence": 0.085687,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Toby",
+      "relevance": 0.243293,
+      "confidence": 0.99983,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one day",
+      "relevance": 0.236987,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Paul",
+      "relevance": 0.234639,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Quantity",
+      "text": "five years",
+      "relevance": 0.234177,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two hours",
+      "relevance": 0.223046,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "George",
+      "relevance": 0.20597,
+      "confidence": 0.991854,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Richmond",
+      "relevance": 0.205691,
+      "confidence": 0.758763,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Charmaine Johnson",
+      "relevance": 0.198763,
+      "confidence": 0.999982,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "leroy",
+      "relevance": 0.17332,
+      "confidence": 0.703687,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Hey Missy",
+      "relevance": 0.165193,
+      "confidence": 0.508155,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "relevance": 0.143593,
+      "confidence": 0.991546,
+      "count": 1,
+      "disambiguation": {
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "sixteen years",
+      "relevance": 0.122491,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "America",
+      "relevance": 0.112103,
+      "confidence": 0.771004,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Two years",
+      "relevance": 0.084982,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "FBI",
+      "relevance": 0.072275,
+      "confidence": 0.990085,
+      "count": 1,
+      "disambiguation": {
+        "name": "FBi_Radio",
+        "dbpedia_resource": "http://dbpedia.org/resource/FBi_Radio",
+        "subtype": [
+          "Broadcast",
+          "RadioStation"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Stafford",
+      "relevance": 0.06931,
+      "confidence": 0.986936,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.976642
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.811539
+    },
+    {
+      "label": "/society/crime/sexual offence/rape",
+      "score": 0.752454
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.739082
+    },
+    {
+      "label": "/law, govt and politics/law enforcement",
+      "score": 0.654272
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.645288
+    },
+    {
+      "label": "/family and parenting/parenting teens",
+      "score": 0.575227
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.426417,
+      "sentence": "In July nineteen ninety four twenty two year old hope Denise hall and her three year old son Robert lives in a suburb of Richmond Virginia in this apartment complex.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise hall",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            287,
+            290
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Robert Kennedy I",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            306,
+            309
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.522732,
+      "sentence": "Investigators had to mysteries to solve who killed pope Paul and where was her three year old son.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise hall",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2883,
+            2886
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Robert Kennedy I",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2902,
+            2905
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.691425,
+      "sentence": "At the age of nineteen became pregnant while still in college she and the baby's father shared custody of their son but decided marriage within the state I think we realized that we needed a lot of growing up we we have to grow up in order to really take on that the whole responsibility of of marriage and I think that was the bottom line.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1060,
+            1066
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1053,
+            1057
+          ],
+          "text": "baby"
+        }
+      ]
+    },
+    {
+      "score": 0.785435,
+      "sentence": "They maintained constant contact with police and wrote to dozens of lawmakers pleading for help in finding their daughter's killer.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8268,
+            8272
+          ],
+          "text": "They"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8317,
+            8322
+          ],
+          "text": "wrote"
+        }
+      ]
+    },
+    {
+      "score": 0.942755,
+      "sentence": "They maintained constant contact with police and wrote to dozens of lawmakers pleading for help in finding their daughter's killer.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "lawmakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8336,
+            8345
+          ],
+          "text": "lawmakers"
+        },
+        {
+          "entities": [
+            {
+              "text": "pleading",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8346,
+            8354
+          ],
+          "text": "pleading"
+        }
+      ]
+    },
+    {
+      "score": 0.815029,
+      "sentence": "They maintained constant contact with police and wrote to dozens of lawmakers pleading for help in finding their daughter's killer.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8375,
+            8380
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8381,
+            8389
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.558454,
+      "sentence": "They maintained constant contact with police and wrote to dozens of lawmakers pleading for help in finding their daughter's killer.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8375,
+            8380
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "kidney cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            8392,
+            8398
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.745445,
+      "sentence": "They maintained constant contact with police and wrote to dozens of lawmakers pleading for help in finding their daughter's killer.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8381,
+            8389
+          ],
+          "text": "daughter"
+        },
+        {
+          "entities": [
+            {
+              "text": "kidney cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            8392,
+            8398
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.714021,
+      "sentence": "It'S very frustrating for everyone it was very heartbreaking for her mother and we saw the anguish that her mother was going through as she tried to find an answer to after hearing the two most obvious suspects forensic scientists performed a second more discriminating D. N. A. test of the killer's DNA using R. F. L. P. restriction fragment length polymorphism.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise hall",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8490,
+            8496
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "she",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8486,
+            8489
+          ],
+          "text": "her"
+        }
+      ]
+    },
+    {
+      "score": 0.688001,
+      "sentence": "It'S very frustrating for everyone it was very heartbreaking for her mother and we saw the anguish that her mother was going through as she tried to find an answer to after hearing the two most obvious suspects forensic scientists performed a second more discriminating D. N. A. test of the killer's DNA using R. F. L. P. restriction fragment length polymorphism.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise hall",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8529,
+            8535
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "she",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8525,
+            8528
+          ],
+          "text": "her"
+        }
+      ]
+    },
+    {
+      "score": 0.329106,
+      "sentence": "It'S very frustrating for everyone it was very heartbreaking for her mother and we saw the anguish that her mother was going through as she tried to find an answer to after hearing the two most obvious suspects forensic scientists performed a second more discriminating D. N. A. test of the killer's DNA using R. F. L. P. restriction fragment length polymorphism.",
+      "type": "affiliatedWith",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8641,
+            8651
+          ],
+          "text": "scientists"
+        },
+        {
+          "entities": [
+            {
+              "text": "suspects forensic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8623,
+            8640
+          ],
+          "text": "suspects forensic"
+        }
+      ]
+    },
+    {
+      "score": 0.598201,
+      "sentence": "Means that there is a much better chance of telling my DNA apart from yours.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise hall",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9005,
+            9007
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "telling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8997,
+            9004
+          ],
+          "text": "telling"
+        }
+      ]
+    },
+    {
+      "score": 0.8564,
+      "sentence": "The computer compares the unidentified DNA profile to the DNA eight thousand convicted felons I've been working on it for a long time so to become like my case nope all the cases and worked on this was the one that I really wanted to get a hit on.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "felons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9222,
+            9228
+          ],
+          "text": "felons"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            9212,
+            9221
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.43329,
+      "sentence": "The computer compares the unidentified DNA profile to the DNA eight thousand convicted felons I've been working on it for a long time so to become like my case nope all the cases and worked on this was the one that I really wanted to get a hit on.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise hall",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9287,
+            9289
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            9290,
+            9294
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.736022,
+      "sentence": "We had a crew in the area so we sent them by to find out what might be going on at the dock on our door they went in and when I got there there was police tape set up around the apartment complex.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1573,
+            1575
+          ],
+          "text": "We"
+        },
+        {
+          "entities": [
+            {
+              "text": "area",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1594,
+            1598
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.408154,
+      "sentence": "Johnson lived in hope Paul's apartment complex and was just sixteen years old at the time of her murder it was a big eye opener for me I always thought criminals said scores and and looked like criminals this guy did not look at all like a criminal.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9657,
+            9661
+          ],
+          "text": "Paul"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment complex",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9664,
+            9681
+          ],
+          "text": "apartment complex"
+        }
+      ]
+    },
+    {
+      "score": 0.656196,
+      "sentence": "Johnson lived in hope Paul's apartment complex and was just sixteen years old at the time of her murder it was a big eye opener for me I always thought criminals said scores and and looked like criminals this guy did not look at all like a criminal.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise hall",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9728,
+            9731
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9732,
+            9738
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.983704,
+      "sentence": "Johnson lived in hope Paul's apartment complex and was just sixteen years old at the time of her murder it was a big eye opener for me I always thought criminals said scores and and looked like criminals this guy did not look at all like a criminal.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "criminals",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9787,
+            9796
+          ],
+          "text": "criminals"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9797,
+            9801
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.741089,
+      "sentence": "But if your main Johnson was hopes killer why had witnesses identified hopes ex boyfriend as the man running from hope's apartment.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jermaine Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10169,
+            10176
+          ],
+          "text": "Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "kidney cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            10187,
+            10193
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.596445,
+      "sentence": "When questioned by police Johnson claimed he was innocent.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10423,
+            10429
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "questioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10409,
+            10419
+          ],
+          "text": "questioned"
+        }
+      ]
+    },
+    {
+      "score": 0.692178,
+      "sentence": "When questioned by police Johnson claimed he was innocent.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jermaine Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10430,
+            10437
+          ],
+          "text": "Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10423,
+            10429
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.963504,
+      "sentence": "When questioned by police Johnson claimed he was innocent.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jermaine Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10430,
+            10437
+          ],
+          "text": "Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "claimed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10438,
+            10445
+          ],
+          "text": "claimed"
+        }
+      ]
+    },
+    {
+      "score": 0.973893,
+      "sentence": "He admitted knocking on hope's apartment door and asking her for a drink of water.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jermaine Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10463,
+            10465
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10466,
+            10474
+          ],
+          "text": "admitted"
+        }
+      ]
+    },
+    {
+      "score": 0.995725,
+      "sentence": "But Johnson said another man opened the front door with the key he pulled out a knife and ordered Johnson to lead this was consistent with the eye witnesses who saw not sure main Johnson but another man running from hope's apartment later that same night.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jermaine Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10550,
+            10557
+          ],
+          "text": "Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10558,
+            10562
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.851478,
+      "sentence": "He admitted knocking on hope's apartment door and asking her for a drink of water.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10520,
+            10523
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "asking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10513,
+            10519
+          ],
+          "text": "asking"
+        }
+      ]
+    },
+    {
+      "score": 0.839011,
+      "sentence": "But Johnson said another man opened the front door with the key he pulled out a knife and ordered Johnson to lead this was consistent with the eye witnesses who saw not sure main Johnson but another man running from hope's apartment later that same night.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jermaine Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10610,
+            10612
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "ordered",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10636,
+            10643
+          ],
+          "text": "ordered"
+        }
+      ]
+    },
+    {
+      "score": 0.501159,
+      "sentence": "We had a crew in the area so we sent them by to find out what might be going on at the dock on our door they went in and when I got there there was police tape set up around the apartment complex.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "crew",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1582,
+            1586
+          ],
+          "text": "crew"
+        },
+        {
+          "entities": [
+            {
+              "text": "area",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1594,
+            1598
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.861824,
+      "sentence": "But Johnson said another man opened the front door with the key he pulled out a knife and ordered Johnson to lead this was consistent with the eye witnesses who saw not sure main Johnson but another man running from hope's apartment later that same night.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jermaine Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10644,
+            10651
+          ],
+          "text": "Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "ordered",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10636,
+            10643
+          ],
+          "text": "ordered"
+        }
+      ]
+    },
+    {
+      "score": 0.89259,
+      "sentence": "Was it possible Charmaine Johnson wasn't the killer.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Charmaine Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10818,
+            10835
+          ],
+          "text": "Charmaine Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "kidney cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            10847,
+            10853
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.951351,
+      "sentence": "Investigators asked FBI behavioral profiler mark separate to compare Johnson's past criminal behavior to the whole Paul case.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10855,
+            10868
+          ],
+          "text": "Investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10869,
+            10874
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.695763,
+      "sentence": "Investigators asked FBI behavioral profiler mark separate to compare Johnson's past criminal behavior to the whole Paul case.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10970,
+            10974
+          ],
+          "text": "Paul"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10975,
+            10979
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.807091,
+      "sentence": "My job wasn't to look at your main I wasn't asked to look at for me I wasn't even asked to consider the offender was simply asked to look at behavior.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jermaine Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11116,
+            11117
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11125,
+            11130
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.701936,
+      "sentence": "My job wasn't to look at your main I wasn't asked to look at for me I wasn't even asked to consider the offender was simply asked to look at behavior.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jermaine Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11149,
+            11150
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11163,
+            11168
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.637102,
+      "sentence": "My job wasn't to look at your main I wasn't asked to look at for me I wasn't even asked to consider the offender was simply asked to look at behavior.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "offenders",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11185,
+            11193
+          ],
+          "text": "offender"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11205,
+            11210
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.981025,
+      "sentence": "He also examined photos and reports from the national rates Johnson was suspected of committing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jermaine Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11232,
+            11234
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "reports",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11260,
+            11267
+          ],
+          "text": "reports"
+        }
+      ]
+    },
+    {
+      "score": 0.490127,
+      "sentence": "All of the victims were young and live close to trimming Johnson's home.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jermaine Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11443,
+            11450
+          ],
+          "text": "Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11453,
+            11457
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.839896,
+      "sentence": "There is a dynamic that connects all of them contrary to many sexual assaults where the offender assault contacts and captures an assault victim all in the same area here we have a guy who wants to capture and then subsequently move all of his victims to another location to engage in the sexual assault.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "offenders",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11547,
+            11555
+          ],
+          "text": "offender"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11556,
+            11563
+          ],
+          "text": "assault"
+        }
+      ]
+    },
+    {
+      "score": 0.416941,
+      "sentence": "There is a dynamic that connects all of them contrary to many sexual assaults where the offender assault contacts and captures an assault victim all in the same area here we have a guy who wants to capture and then subsequently move all of his victims to another location to engage in the sexual assault.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "offenders",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11703,
+            11710
+          ],
+          "text": "victims"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11755,
+            11762
+          ],
+          "text": "assault"
+        }
+      ]
+    },
+    {
+      "score": 0.583935,
+      "sentence": "We had a crew in the area so we sent them by to find out what might be going on at the dock on our door they went in and when I got there there was police tape set up around the apartment complex.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise hall",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1699,
+            1700
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1677,
+            1681
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.420426,
+      "sentence": "In each case Johnson used some kind of rules to gain entrance to the victim's home.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jermaine Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11777,
+            11784
+          ],
+          "text": "Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11772,
+            11776
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.286851,
+      "sentence": "In each case Johnson used some kind of rules to gain entrance to the victim's home.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jermaine Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11777,
+            11784
+          ],
+          "text": "Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11842,
+            11846
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.451402,
+      "sentence": "In each case Johnson used some kind of rules to gain entrance to the victim's home.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11833,
+            11839
+          ],
+          "text": "victim"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11842,
+            11846
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.57138,
+      "sentence": "And once inside threatened the victims with one of their own kitchen knives when he has the option for lots of different knives even larger more threatening knives butcher knives longer bladed knives he he chooses a shorter bladed knife he's more comfortable with that type of weapon.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "offenders",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11879,
+            11886
+          ],
+          "text": "victims"
+        },
+        {
+          "entities": [
+            {
+              "text": "kitchen",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11909,
+            11916
+          ],
+          "text": "kitchen"
+        }
+      ]
+    },
+    {
+      "score": 0.303364,
+      "sentence": "And once inside threatened the victims with one of their own kitchen knives when he has the option for lots of different knives even larger more threatening knives butcher knives longer bladed knives he he chooses a shorter bladed knife he's more comfortable with that type of weapon.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12085,
+            12087
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "weapon",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            12125,
+            12131
+          ],
+          "text": "weapon"
+        }
+      ]
+    },
+    {
+      "score": 0.770566,
+      "sentence": "Prosecutors were now convinced that Johnson went to hope's apartment that night asking for a drink of water yeah.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jermaine Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12169,
+            12176
+          ],
+          "text": "Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment complex",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12192,
+            12201
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.808491,
+      "sentence": "Prosecutors were now convinced that Johnson went to hope's apartment that night asking for a drink of water yeah.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jermaine Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12169,
+            12176
+          ],
+          "text": "Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "asking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12213,
+            12219
+          ],
+          "text": "asking"
+        }
+      ]
+    },
+    {
+      "score": 0.609952,
+      "sentence": "Once in the last bill to the floor Johnson grabbed a knife.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jermaine Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12282,
+            12289
+          ],
+          "text": "Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "weapon",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            12300,
+            12305
+          ],
+          "text": "knife"
+        }
+      ]
+    },
+    {
+      "score": 0.402958,
+      "sentence": "He was trying to clean up he may have been injured maybe that's why the water was left running in the bathroom or it may have just been that he was just trying to clean the knife digesting cleanup.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jermaine Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12747,
+            12749
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "weapon",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            12779,
+            12784
+          ],
+          "text": "knife"
+        }
+      ]
+    },
+    {
+      "score": 0.758526,
+      "sentence": "Johnson returned to the kitchen numerous times for other nights after each was damaged.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jermaine Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12307,
+            12314
+          ],
+          "text": "Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "kitchen",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12331,
+            12338
+          ],
+          "text": "kitchen"
+        }
+      ]
+    },
+    {
+      "score": 0.323384,
+      "sentence": "Regardless Jermaine Johnson was tried and convicted of hope Paul's murder and this time was sentenced to death.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jermaine Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13254,
+            13270
+          ],
+          "text": "Jermaine Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13285,
+            13294
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.421744,
+      "sentence": "Was found dead on the bedroom floor she had been stabbed to death.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise hall",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1934,
+            1937
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1920,
+            1927
+          ],
+          "text": "bedroom"
+        }
+      ]
+    },
+    {
+      "score": 0.835602,
+      "sentence": "Regardless Jermaine Johnson was tried and convicted of hope Paul's murder and this time was sentenced to death.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jermaine Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13254,
+            13270
+          ],
+          "text": "Jermaine Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13310,
+            13316
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.543329,
+      "sentence": "Regardless Jermaine Johnson was tried and convicted of hope Paul's murder and this time was sentenced to death.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13303,
+            13307
+          ],
+          "text": "Paul"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13310,
+            13316
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.98811,
+      "sentence": "Investigators say it was a confluence of DNA evidence computer technology and the foresight to collect and catalog the DNA profiles of all convicted felons that brought Jermaine Johnson to justice we interviewed everybody in that apartment complex and Charmaine Johnson's name never came up without the DNA data bank without that forensic evidence.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13522,
+            13535
+          ],
+          "text": "Investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13536,
+            13539
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.909747,
+      "sentence": "Investigators say it was a confluence of DNA evidence computer technology and the foresight to collect and catalog the DNA profiles of all convicted felons that brought Jermaine Johnson to justice we interviewed everybody in that apartment complex and Charmaine Johnson's name never came up without the DNA data bank without that forensic evidence.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "felons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13671,
+            13677
+          ],
+          "text": "felons"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13661,
+            13670
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.824197,
+      "sentence": "Investigators say it was a confluence of DNA evidence computer technology and the foresight to collect and catalog the DNA profiles of all convicted felons that brought Jermaine Johnson to justice we interviewed everybody in that apartment complex and Charmaine Johnson's name never came up without the DNA data bank without that forensic evidence.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jermaine Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13691,
+            13707
+          ],
+          "text": "Jermaine Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviewed",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            13722,
+            13733
+          ],
+          "text": "interviewed"
+        }
+      ]
+    },
+    {
+      "score": 0.786124,
+      "sentence": "Investigators say it was a confluence of DNA evidence computer technology and the foresight to collect and catalog the DNA profiles of all convicted felons that brought Jermaine Johnson to justice we interviewed everybody in that apartment complex and Charmaine Johnson's name never came up without the DNA data bank without that forensic evidence.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "felons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13719,
+            13721
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviewed",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            13722,
+            13733
+          ],
+          "text": "interviewed"
+        }
+      ]
+    },
+    {
+      "score": 0.837872,
+      "sentence": "Investigators say it was a confluence of DNA evidence computer technology and the foresight to collect and catalog the DNA profiles of all convicted felons that brought Jermaine Johnson to justice we interviewed everybody in that apartment complex and Charmaine Johnson's name never came up without the DNA data bank without that forensic evidence.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "felons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13734,
+            13743
+          ],
+          "text": "everybody"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment complex",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13752,
+            13769
+          ],
+          "text": "apartment complex"
+        }
+      ]
+    },
+    {
+      "score": 0.963583,
+      "sentence": "Hi unfortunately I would say that this case would not have been saw we're trying to push in the national database we feel very very strongly that Kronos doesn't stay put they move from city to city state to state countries the countries and we want to make sure that they clear messages sent out that no matter where you go no matter what you think you've gotten away with your DNA and law enforcement the wait for.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13888,
+            13889
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13896,
+            13899
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.709103,
+      "sentence": "Hi unfortunately I would say that this case would not have been saw we're trying to push in the national database we feel very very strongly that Kronos doesn't stay put they move from city to city state to state countries the countries and we want to make sure that they clear messages sent out that no matter where you go no matter what you think you've gotten away with your DNA and law enforcement the wait for.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "felons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14041,
+            14045
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "city",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14056,
+            14060
+          ],
+          "text": "city"
+        }
+      ]
+    },
+    {
+      "score": 0.673731,
+      "sentence": "Hi unfortunately I would say that this case would not have been saw we're trying to push in the national database we feel very very strongly that Kronos doesn't stay put they move from city to city state to state countries the countries and we want to make sure that they clear messages sent out that no matter where you go no matter what you think you've gotten away with your DNA and law enforcement the wait for.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "felons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14041,
+            14045
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "city",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14064,
+            14068
+          ],
+          "text": "city"
+        }
+      ]
+    },
+    {
+      "score": 0.660423,
+      "sentence": "Was found dead on the bedroom floor she had been stabbed to death.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise hall",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1934,
+            1937
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "stabbed",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            1947,
+            1954
+          ],
+          "text": "stabbed"
+        }
+      ]
+    },
+    {
+      "score": 0.36651,
+      "sentence": "Hi unfortunately I would say that this case would not have been saw we're trying to push in the national database we feel very very strongly that Kronos doesn't stay put they move from city to city state to state countries the countries and we want to make sure that they clear messages sent out that no matter where you go no matter what you think you've gotten away with your DNA and law enforcement the wait for.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Omega sci",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14069,
+            14074
+          ],
+          "text": "state"
+        },
+        {
+          "entities": [
+            {
+              "text": "city",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14064,
+            14068
+          ],
+          "text": "city"
+        }
+      ]
+    },
+    {
+      "score": 0.523425,
+      "sentence": "Hi unfortunately I would say that this case would not have been saw we're trying to push in the national database we feel very very strongly that Kronos doesn't stay put they move from city to city state to state countries the countries and we want to make sure that they clear messages sent out that no matter where you go no matter what you think you've gotten away with your DNA and law enforcement the wait for.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "countries",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14084,
+            14093
+          ],
+          "text": "countries"
+        },
+        {
+          "entities": [
+            {
+              "text": "Omega sci",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14078,
+            14083
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.344104,
+      "sentence": "Hi unfortunately I would say that this case would not have been saw we're trying to push in the national database we feel very very strongly that Kronos doesn't stay put they move from city to city state to state countries the countries and we want to make sure that they clear messages sent out that no matter where you go no matter what you think you've gotten away with your DNA and law enforcement the wait for.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "countries",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14098,
+            14107
+          ],
+          "text": "countries"
+        },
+        {
+          "entities": [
+            {
+              "text": "Omega sci",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14078,
+            14083
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.319402,
+      "sentence": "Dried blood droplets form the trail from the kitchen to the bedroom.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "kitchen",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2449,
+            2456
+          ],
+          "text": "kitchen"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2464,
+            2471
+          ],
+          "text": "bedroom"
+        }
+      ]
+    },
+    {
+      "score": 0.509843,
+      "sentence": "As police rushed to find the child and the killer.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2643,
+            2648
+          ],
+          "text": "child"
+        },
+        {
+          "entities": [
+            {
+              "text": "kidney cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            2657,
+            2663
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.126235,
+      "sentence": "Co workers rush to put our story on the air.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "workers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2668,
+            2675
+          ],
+          "text": "workers"
+        },
+        {
+          "entities": [
+            {
+              "text": "Co",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2665,
+            2667
+          ],
+          "text": "Co"
+        }
+      ]
+    },
+    {
+      "score": 0.528292,
+      "sentence": "Co workers rush to put our story on the air.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Co",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2665,
+            2667
+          ],
+          "text": "Co"
+        },
+        {
+          "entities": [
+            {
+              "text": "officers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2688,
+            2691
+          ],
+          "text": "our"
+        }
+      ]
+    },
+    {
+      "score": 0.434372,
+      "sentence": "In July nineteen ninety four twenty two year old hope Denise hall and her three year old son Robert lives in a suburb of Richmond Virginia in this apartment complex.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Kennedy I",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            310,
+            316
+          ],
+          "text": "Robert"
+        },
+        {
+          "entities": [
+            {
+              "text": "Richmond Virginia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            328,
+            334
+          ],
+          "text": "suburb"
+        }
+      ]
+    },
+    {
+      "score": 0.476347,
+      "sentence": "Co workers rush to put our story on the air.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "workers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2668,
+            2675
+          ],
+          "text": "workers"
+        },
+        {
+          "entities": [
+            {
+              "text": "officers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2688,
+            2691
+          ],
+          "text": "our"
+        }
+      ]
+    },
+    {
+      "score": 0.991989,
+      "sentence": "Police contacted the baby's father Robert Kennedy I remember I was at home at my mom's house and I just walked in the door.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2907,
+            2913
+          ],
+          "text": "Police"
+        },
+        {
+          "entities": [
+            {
+              "text": "contacted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2914,
+            2923
+          ],
+          "text": "contacted"
+        }
+      ]
+    },
+    {
+      "score": 0.533752,
+      "sentence": "Police contacted the baby's father Robert Kennedy I remember I was at home at my mom's house and I just walked in the door.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Kennedy I",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2935,
+            2941
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "contacted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2914,
+            2923
+          ],
+          "text": "contacted"
+        }
+      ]
+    },
+    {
+      "score": 0.608369,
+      "sentence": "Police contacted the baby's father Robert Kennedy I remember I was at home at my mom's house and I just walked in the door.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Kennedy I",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2935,
+            2941
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2928,
+            2932
+          ],
+          "text": "baby"
+        }
+      ]
+    },
+    {
+      "score": 0.61441,
+      "sentence": "Police contacted the baby's father Robert Kennedy I remember I was at home at my mom's house and I just walked in the door.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise hall",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2968,
+            2969
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2977,
+            2981
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.647112,
+      "sentence": "Police contacted the baby's father Robert Kennedy I remember I was at home at my mom's house and I just walked in the door.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2977,
+            2981
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2994,
+            2999
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.603139,
+      "sentence": "Police contacted the baby's father Robert Kennedy I remember I was at home at my mom's house and I just walked in the door.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mom",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2988,
+            2991
+          ],
+          "text": "mom"
+        },
+        {
+          "entities": [
+            {
+              "text": "Denise hall",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2985,
+            2987
+          ],
+          "text": "my"
+        }
+      ]
+    },
+    {
+      "score": 0.403426,
+      "sentence": "Police contacted the baby's father Robert Kennedy I remember I was at home at my mom's house and I just walked in the door.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mom",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2988,
+            2991
+          ],
+          "text": "mom"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2994,
+            2999
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.996882,
+      "sentence": "I'M I'm I told me that a detective that called.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise hall",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3039,
+            3040
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3041,
+            3045
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.788144,
+      "sentence": "I'M I'm I told me that a detective that called.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise hall",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3046,
+            3048
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3041,
+            3045
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.541544,
+      "sentence": "Police asked can a to come in for questioning my father wrote down with me I couldn't feel anything hi I. I was in a zombie like state.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise hall",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3291,
+            3293
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3275,
+            3280
+          ],
+          "text": "wrote"
+        }
+      ]
+    },
+    {
+      "score": 0.548708,
+      "sentence": "In July nineteen ninety four twenty two year old hope Denise hall and her three year old son Robert lives in a suburb of Richmond Virginia in this apartment complex.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "apartment complex",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            364,
+            381
+          ],
+          "text": "apartment complex"
+        },
+        {
+          "entities": [
+            {
+              "text": "Richmond Virginia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            328,
+            334
+          ],
+          "text": "suburb"
+        }
+      ]
+    },
+    {
+      "score": 0.99597,
+      "sentence": "He told police that their son young Robert was with him in northern Virginia about two hours drive away.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3079,
+            3081
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3082,
+            3086
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.52427,
+      "sentence": "Friends and co workers told police that this description sounded like a man hope recently dated of allegedly told friends the man got abusive when she tried to end their relationship.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6482,
+            6485
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6519,
+            6523
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.96583,
+      "sentence": "He told police that their son young Robert was with him in northern Virginia about two hours drive away.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3087,
+            3093
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3082,
+            3086
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.852185,
+      "sentence": "Friends and co workers told police that this description sounded like a man hope recently dated of allegedly told friends the man got abusive when she tried to end their relationship.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6438,
+            6444
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6433,
+            6437
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.966648,
+      "sentence": "Coworkers told police the couple next summer.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7372,
+            7378
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7367,
+            7371
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.374146,
+      "sentence": "He told police that their son young Robert was with him in northern Virginia about two hours drive away.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Kennedy I",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3105,
+            3108
+          ],
+          "text": "son"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3099,
+            3104
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.688913,
+      "sentence": "He told police that their son young Robert was with him in northern Virginia about two hours drive away.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Kennedy I",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3115,
+            3121
+          ],
+          "text": "Robert"
+        },
+        {
+          "entities": [
+            {
+              "text": "northern",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            3138,
+            3146
+          ],
+          "text": "northern"
+        }
+      ]
+    },
+    {
+      "score": 0.580482,
+      "sentence": "He told police that their son young Robert was with him in northern Virginia about two hours drive away.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3131,
+            3134
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "northern",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            3138,
+            3146
+          ],
+          "text": "northern"
+        }
+      ]
+    },
+    {
+      "score": 0.971618,
+      "sentence": "He told police that their son young Robert was with him in northern Virginia about two hours drive away.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "northern",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            3138,
+            3146
+          ],
+          "text": "northern"
+        },
+        {
+          "entities": [
+            {
+              "text": "Virginia state",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3147,
+            3155
+          ],
+          "text": "Virginia"
+        }
+      ]
+    },
+    {
+      "score": 0.934778,
+      "sentence": "Police asked can a to come in for questioning my father wrote down with me I couldn't feel anything hi I. I was in a zombie like state.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3219,
+            3225
+          ],
+          "text": "Police"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3226,
+            3231
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.68503,
+      "sentence": "Police asked can a to come in for questioning my father wrote down with me I couldn't feel anything hi I. I was in a zombie like state.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise hall",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3265,
+            3267
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "questioning",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            3253,
+            3264
+          ],
+          "text": "questioning"
+        }
+      ]
+    },
+    {
+      "score": 0.692701,
+      "sentence": "Police asked can a to come in for questioning my father wrote down with me I couldn't feel anything hi I. I was in a zombie like state.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3268,
+            3274
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "questioning",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            3253,
+            3264
+          ],
+          "text": "questioning"
+        }
+      ]
+    },
+    {
+      "score": 0.673439,
+      "sentence": "Police asked can a to come in for questioning my father wrote down with me I couldn't feel anything hi I. I was in a zombie like state.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3268,
+            3274
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "Denise hall",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3265,
+            3267
+          ],
+          "text": "my"
+        }
+      ]
+    },
+    {
+      "score": 0.961406,
+      "sentence": "open just graduated from Virginia state university at the top of her class.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "university",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            423,
+            433
+          ],
+          "text": "university"
+        },
+        {
+          "entities": [
+            {
+              "text": "Virginia state",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            408,
+            422
+          ],
+          "text": "Virginia state"
+        }
+      ]
+    },
+    {
+      "score": 0.868586,
+      "sentence": "Police asked can a to come in for questioning my father wrote down with me I couldn't feel anything hi I. I was in a zombie like state.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3268,
+            3274
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3275,
+            3280
+          ],
+          "text": "wrote"
+        }
+      ]
+    },
+    {
+      "score": 0.677061,
+      "sentence": "Police believe Toby knew her killer because her front door was found locked somebody had a key the only way they could have locked it did was to have a key on the outside and market we have to find this person no one can stop someone repeatedly and their phone three times and leave them to rot on the floor.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Toby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3370,
+            3374
+          ],
+          "text": "Toby"
+        },
+        {
+          "entities": [
+            {
+              "text": "kidney cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            3384,
+            3390
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.889304,
+      "sentence": "This crime was eerily similar to the ones committed by Richmond's southside strangler who raped and murdered five women in their homes.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3750,
+            3753
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            3764,
+            3772
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.632542,
+      "sentence": "Witnesses claimed they saw him running from hope's apartment building on the night of the murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7071,
+            7074
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7134,
+            7140
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.513154,
+      "sentence": "There is a dynamic that connects all of them contrary to many sexual assaults where the offender assault contacts and captures an assault victim all in the same area here we have a guy who wants to capture and then subsequently move all of his victims to another location to engage in the sexual assault.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11597,
+            11603
+          ],
+          "text": "victim"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11589,
+            11596
+          ],
+          "text": "assault"
+        }
+      ]
+    },
+    {
+      "score": 0.545219,
+      "sentence": "There is a dynamic that connects all of them contrary to many sexual assaults where the offender assault contacts and captures an assault victim all in the same area here we have a guy who wants to capture and then subsequently move all of his victims to another location to engage in the sexual assault.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11699,
+            11702
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11755,
+            11762
+          ],
+          "text": "assault"
+        }
+      ]
+    },
+    {
+      "score": 0.893828,
+      "sentence": "This crime was eerily similar to the ones committed by Richmond's southside strangler who raped and murdered five women in their homes.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "women",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3778,
+            3783
+          ],
+          "text": "women"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            3764,
+            3772
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.599784,
+      "sentence": "This crime was eerily similar to the ones committed by Richmond's southside strangler who raped and murdered five women in their homes.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            3764,
+            3772
+          ],
+          "text": "murdered"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3793,
+            3798
+          ],
+          "text": "homes"
+        }
+      ]
+    },
+    {
+      "score": 0.36818,
+      "sentence": "This crime was eerily similar to the ones committed by Richmond's southside strangler who raped and murdered five women in their homes.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3787,
+            3792
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3793,
+            3798
+          ],
+          "text": "homes"
+        }
+      ]
+    },
+    {
+      "score": 0.555357,
+      "sentence": "That was the case then terrified absolutely terrified the community people were boarding up windows and just changing their life plans the southside strangler Timothy Spencer was executed for those crimes shortly before hopefuls merger.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3868,
+            3874
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3858,
+            3867
+          ],
+          "text": "community"
+        }
+      ]
+    },
+    {
+      "score": 0.547879,
+      "sentence": "That was the case then terrified absolutely terrified the community people were boarding up windows and just changing their life plans the southside strangler Timothy Spencer was executed for those crimes shortly before hopefuls merger.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3918,
+            3923
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "crimes",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            3998,
+            4004
+          ],
+          "text": "crimes"
+        }
+      ]
+    },
+    {
+      "score": 0.615829,
+      "sentence": "That was the case then terrified absolutely terrified the community people were boarding up windows and just changing their life plans the southside strangler Timothy Spencer was executed for those crimes shortly before hopefuls merger.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Timothy Spencer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3959,
+            3974
+          ],
+          "text": "Timothy Spencer"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            3979,
+            3987
+          ],
+          "text": "executed"
+        }
+      ]
+    },
+    {
+      "score": 0.728625,
+      "sentence": "Spencer'S case made history he was the first person put to death in the United States based on DNA evidence to the Spencer's case brought awareness to law enforcement certainly in this area too what DNA can do.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Timothy Spencer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4037,
+            4044
+          ],
+          "text": "Spencer"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            4047,
+            4051
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.833957,
+      "sentence": "Spencer'S case made history he was the first person put to death in the United States based on DNA evidence to the Spencer's case brought awareness to law enforcement certainly in this area too what DNA can do.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Timothy Spencer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4152,
+            4159
+          ],
+          "text": "Spencer"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            4162,
+            4166
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.545452,
+      "sentence": "Spencer'S case prompted Virginia lawmakers to establish the country's first DNA data bank which put the DNA profiles of all convicted felons of Virginia's prisons into a computer.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Timothy Spencer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4248,
+            4255
+          ],
+          "text": "Spencer"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            4258,
+            4262
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.755119,
+      "sentence": "That was the case then terrified absolutely terrified the community people were boarding up windows and just changing their life plans the southside strangler Timothy Spencer was executed for those crimes shortly before hopefuls merger.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Timothy Spencer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3959,
+            3974
+          ],
+          "text": "Timothy Spencer"
+        },
+        {
+          "entities": [
+            {
+              "text": "those",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3992,
+            3997
+          ],
+          "text": "those"
+        }
+      ]
+    },
+    {
+      "score": 0.357523,
+      "sentence": "open just graduated from Virginia state university at the top of her class.",
+      "type": "educatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise hall",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            448,
+            451
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "university",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            423,
+            433
+          ],
+          "text": "university"
+        }
+      ]
+    },
+    {
+      "score": 0.525111,
+      "sentence": "That was the case then terrified absolutely terrified the community people were boarding up windows and just changing their life plans the southside strangler Timothy Spencer was executed for those crimes shortly before hopefuls merger.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Timothy Spencer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3959,
+            3974
+          ],
+          "text": "Timothy Spencer"
+        },
+        {
+          "entities": [
+            {
+              "text": "crimes",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            3998,
+            4004
+          ],
+          "text": "crimes"
+        }
+      ]
+    },
+    {
+      "score": 0.887614,
+      "sentence": "That was the case then terrified absolutely terrified the community people were boarding up windows and just changing their life plans the southside strangler Timothy Spencer was executed for those crimes shortly before hopefuls merger.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "those",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3992,
+            3997
+          ],
+          "text": "those"
+        },
+        {
+          "entities": [
+            {
+              "text": "crimes",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            3998,
+            4004
+          ],
+          "text": "crimes"
+        }
+      ]
+    },
+    {
+      "score": 0.500677,
+      "sentence": "Spencer'S case prompted Virginia lawmakers to establish the country's first DNA data bank which put the DNA profiles of all convicted felons of Virginia's prisons into a computer.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "lawmakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4281,
+            4290
+          ],
+          "text": "lawmakers"
+        },
+        {
+          "entities": [
+            {
+              "text": "Virginia state",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4272,
+            4280
+          ],
+          "text": "Virginia"
+        }
+      ]
+    },
+    {
+      "score": 0.924276,
+      "sentence": "Spencer'S case prompted Virginia lawmakers to establish the country's first DNA data bank which put the DNA profiles of all convicted felons of Virginia's prisons into a computer.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "felons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4382,
+            4388
+          ],
+          "text": "felons"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            4372,
+            4381
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.184301,
+      "sentence": "Spencer'S case prompted Virginia lawmakers to establish the country's first DNA data bank which put the DNA profiles of all convicted felons of Virginia's prisons into a computer.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "felons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4382,
+            4388
+          ],
+          "text": "felons"
+        },
+        {
+          "entities": [
+            {
+              "text": "prisons",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4403,
+            4410
+          ],
+          "text": "prisons"
+        }
+      ]
+    },
+    {
+      "score": 0.853324,
+      "sentence": "Spencer'S case prompted Virginia lawmakers to establish the country's first DNA data bank which put the DNA profiles of all convicted felons of Virginia's prisons into a computer.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prisons",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4403,
+            4410
+          ],
+          "text": "prisons"
+        },
+        {
+          "entities": [
+            {
+              "text": "Virginia state",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4392,
+            4400
+          ],
+          "text": "Virginia"
+        }
+      ]
+    },
+    {
+      "score": 0.668013,
+      "sentence": "So many felons have a tendency to commit crimes again once they are released from the from the system.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "felons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4436,
+            4442
+          ],
+          "text": "felons"
+        },
+        {
+          "entities": [
+            {
+              "text": "crimes",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4469,
+            4475
+          ],
+          "text": "crimes"
+        }
+      ]
+    },
+    {
+      "score": 0.596514,
+      "sentence": "The killers on the broken drinking glass in the kitchen.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "killers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4566,
+            4573
+          ],
+          "text": "killers"
+        },
+        {
+          "entities": [
+            {
+              "text": "kitchen",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4610,
+            4617
+          ],
+          "text": "kitchen"
+        }
+      ]
+    },
+    {
+      "score": 0.989044,
+      "sentence": "Police spoke with the baby's father Robert canning he had an alibi he was at his home over a two hour drive away at the time of the merger.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5205,
+            5211
+          ],
+          "text": "Police"
+        },
+        {
+          "entities": [
+            {
+              "text": "spoke",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5212,
+            5217
+          ],
+          "text": "spoke"
+        }
+      ]
+    },
+    {
+      "score": 0.652592,
+      "sentence": "Police spoke with the baby's father Robert canning he had an alibi he was at his home over a two hour drive away at the time of the merger.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5227,
+            5231
+          ],
+          "text": "baby"
+        },
+        {
+          "entities": [
+            {
+              "text": "spoke",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5212,
+            5217
+          ],
+          "text": "spoke"
+        }
+      ]
+    },
+    {
+      "score": 0.486664,
+      "sentence": "Her big break came at the NBC affiliate in Richmond.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "NBC",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            585,
+            594
+          ],
+          "text": "affiliate"
+        },
+        {
+          "entities": [
+            {
+              "text": "Richmond Virginia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            598,
+            606
+          ],
+          "text": "Richmond"
+        }
+      ]
+    },
+    {
+      "score": 0.67623,
+      "sentence": "Police spoke with the baby's father Robert canning he had an alibi he was at his home over a two hour drive away at the time of the merger.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert canning",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5234,
+            5240
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5227,
+            5231
+          ],
+          "text": "baby"
+        }
+      ]
+    },
+    {
+      "score": 0.520426,
+      "sentence": "Police spoke with the baby's father Robert canning he had an alibi he was at his home over a two hour drive away at the time of the merger.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5282,
+            5285
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5286,
+            5290
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.183931,
+      "sentence": "Knowing one thing and scientific data proving another is two different things my god said he did not do this.",
+      "type": "clientOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5716,
+            5718
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "god",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5719,
+            5722
+          ],
+          "text": "god"
+        }
+      ]
+    },
+    {
+      "score": 0.876837,
+      "sentence": "Knowing one thing and scientific data proving another is two different things my god said he did not do this.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "god",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5719,
+            5722
+          ],
+          "text": "god"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5723,
+            5727
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.853074,
+      "sentence": "We didn't see anything that indicated that she was out running around or anything else it would make a se maybe she ran into somebody in a bar or something like that she could have brought home.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "somebody",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6068,
+            6076
+          ],
+          "text": "somebody"
+        },
+        {
+          "entities": [
+            {
+              "text": "bar",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6082,
+            6085
+          ],
+          "text": "bar"
+        }
+      ]
+    },
+    {
+      "score": 0.582717,
+      "sentence": "We didn't see anything that indicated that she was out running around or anything else it would make a se maybe she ran into somebody in a bar or something like that she could have brought home.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "somebody",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6109,
+            6112
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6132,
+            6136
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.39881,
+      "sentence": "Neighbors saw a man without a shirt running from hope's apartment building on the night of America.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "apartment building",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6243,
+            6261
+          ],
+          "text": "apartment building"
+        },
+        {
+          "entities": [
+            {
+              "text": "America",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6278,
+            6285
+          ],
+          "text": "America"
+        }
+      ]
+    },
+    {
+      "score": 0.960531,
+      "sentence": "They said he had a tattoo on his arm and chest which look like Greek symbols.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "neighbors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6287,
+            6291
+          ],
+          "text": "They"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6292,
+            6296
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.465382,
+      "sentence": "Omega sci fi was a local college fraternity.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6375,
+            6377
+          ],
+          "text": "fi"
+        },
+        {
+          "entities": [
+            {
+              "text": "Omega sci",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6365,
+            6374
+          ],
+          "text": "Omega sci"
+        }
+      ]
+    },
+    {
+      "score": 0.87621,
+      "sentence": "Friends and co workers told police that this description sounded like a man hope recently dated of allegedly told friends the man got abusive when she tried to end their relationship.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "co workers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6422,
+            6432
+          ],
+          "text": "co workers"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6433,
+            6437
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.489559,
+      "sentence": "She was very eager she was very focused she was very mature for her age hope really wanted to be an on air reporter and anchor at the time she was working for us she was editing tape and so she pretty much gather the material for the broadcast and put it together.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "reporter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            728,
+            734
+          ],
+          "text": "anchor"
+        },
+        {
+          "entities": [
+            {
+              "text": "us",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            767,
+            769
+          ],
+          "text": "us"
+        }
+      ]
+    },
+    {
+      "score": 0.564118,
+      "sentence": "Friends and co workers told police that this description sounded like a man hope recently dated of allegedly told friends the man got abusive when she tried to end their relationship.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6524,
+            6531
+          ],
+          "text": "friends"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6519,
+            6523
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.801217,
+      "sentence": "Friends and co workers told police that this description sounded like a man hope recently dated of allegedly told friends the man got abusive when she tried to end their relationship.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6536,
+            6539
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighbors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6574,
+            6579
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.845582,
+      "sentence": "Friends and co workers told police that this description sounded like a man hope recently dated of allegedly told friends the man got abusive when she tried to end their relationship.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "she",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6557,
+            6560
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighbors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6574,
+            6579
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.418731,
+      "sentence": "Both witnesses identified quick in a police line up as the man they saw running from hope's apartment.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6769,
+            6772
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment complex",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6802,
+            6811
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.561735,
+      "sentence": "He denied being at hope's apartment the night of her murder and he denied any involvement in the crime it was a roller coaster you felt that everything was about to come to an end about to find out exactly what happened.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7448,
+            7450
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment complex",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7474,
+            7483
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.660025,
+      "sentence": "Investigators were dumbfounded when they heard that leroy quick's DNA did not match the crime scene evidence I was somewhat surprised we have the witnesses that identified him coming out of the apartment.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7860,
+            7863
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment complex",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7882,
+            7891
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.501264,
+      "sentence": "But if your main Johnson was hopes killer why had witnesses identified hopes ex boyfriend as the man running from hope's apartment.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10249,
+            10252
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment complex",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10273,
+            10282
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.547449,
+      "sentence": "But Johnson said another man opened the front door with the key he pulled out a knife and ordered Johnson to lead this was consistent with the eye witnesses who saw not sure main Johnson but another man running from hope's apartment later that same night.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10745,
+            10748
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment complex",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10769,
+            10778
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.867643,
+      "sentence": "Police were convinced they had their killer.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6844,
+            6849
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "kidney cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            6850,
+            6856
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.887938,
+      "sentence": "In the search for hope Paul's killer police turned their attention to hope's ex boyfriend twenty nine year old leroy quick.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6943,
+            6947
+          ],
+          "text": "Paul"
+        },
+        {
+          "entities": [
+            {
+              "text": "kidney cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            6950,
+            6956
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.594057,
+      "sentence": "In the search for hope Paul's killer police turned their attention to hope's ex boyfriend twenty nine year old leroy quick.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6943,
+            6947
+          ],
+          "text": "Paul"
+        },
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6971,
+            6976
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.984266,
+      "sentence": "Witnesses claimed they saw him running from hope's apartment building on the night of the murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7044,
+            7053
+          ],
+          "text": "Witnesses"
+        },
+        {
+          "entities": [
+            {
+              "text": "claimed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7054,
+            7061
+          ],
+          "text": "claimed"
+        }
+      ]
+    },
+    {
+      "score": 0.684163,
+      "sentence": "Witnesses claimed they saw him running from hope's apartment building on the night of the murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7062,
+            7066
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7134,
+            7140
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.565139,
+      "sentence": "Witnesses claimed they saw him running from hope's apartment building on the night of the murder.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7071,
+            7074
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment building",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7095,
+            7113
+          ],
+          "text": "apartment building"
+        }
+      ]
+    },
+    {
+      "score": 0.740383,
+      "sentence": "She was very eager she was very focused she was very mature for her age hope really wanted to be an on air reporter and anchor at the time she was working for us she was editing tape and so she pretty much gather the material for the broadcast and put it together.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise hall",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            770,
+            773
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "us",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            767,
+            769
+          ],
+          "text": "us"
+        }
+      ]
+    },
+    {
+      "score": 0.366785,
+      "sentence": "Witnesses claimed they saw him running from hope's apartment building on the night of the murder.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7134,
+            7140
+          ],
+          "text": "murder"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment building",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7095,
+            7113
+          ],
+          "text": "apartment building"
+        }
+      ]
+    },
+    {
+      "score": 0.955351,
+      "sentence": "Coworkers told police the couple next summer.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "criminals",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7357,
+            7366
+          ],
+          "text": "Coworkers"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7367,
+            7371
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.609255,
+      "sentence": "Coworkers told police the couple next summer.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7383,
+            7389
+          ],
+          "text": "couple"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7367,
+            7371
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.78168,
+      "sentence": "Coworkers told police the couple next summer.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "next summer",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            7390,
+            7401
+          ],
+          "text": "next summer"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7367,
+            7371
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.499249,
+      "sentence": "Coworkers told police the couple next summer.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7383,
+            7389
+          ],
+          "text": "couple"
+        },
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7372,
+            7378
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.992761,
+      "sentence": "Quick denied having a key to hopes the park.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Quick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7403,
+            7408
+          ],
+          "text": "Quick"
+        },
+        {
+          "entities": [
+            {
+              "text": "denied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7409,
+            7415
+          ],
+          "text": "denied"
+        }
+      ]
+    },
+    {
+      "score": 0.996987,
+      "sentence": "He denied being at hope's apartment the night of her murder and he denied any involvement in the crime it was a roller coaster you felt that everything was about to come to an end about to find out exactly what happened.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7448,
+            7450
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "denied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7451,
+            7457
+          ],
+          "text": "denied"
+        }
+      ]
+    },
+    {
+      "score": 0.596613,
+      "sentence": "He denied being at hope's apartment the night of her murder and he denied any involvement in the crime it was a roller coaster you felt that everything was about to come to an end about to find out exactly what happened.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7501,
+            7507
+          ],
+          "text": "murder"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment complex",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7474,
+            7483
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.691986,
+      "sentence": "He denied being at hope's apartment the night of her murder and he denied any involvement in the crime it was a roller coaster you felt that everything was about to come to an end about to find out exactly what happened.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7497,
+            7500
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7501,
+            7507
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.995371,
+      "sentence": "He denied being at hope's apartment the night of her murder and he denied any involvement in the crime it was a roller coaster you felt that everything was about to come to an end about to find out exactly what happened.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7512,
+            7514
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "denied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7515,
+            7521
+          ],
+          "text": "denied"
+        }
+      ]
+    },
+    {
+      "score": 0.870178,
+      "sentence": "At age nine she was diagnosed with advanced kidney cancer.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise hall",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            885,
+            888
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "kidney cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            917,
+            930
+          ],
+          "text": "kidney cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.935774,
+      "sentence": "Police believe Toby knew her killer because her front door was found locked somebody had a key the only way they could have locked it did was to have a key on the outside and market we have to find this person no one can stop someone repeatedly and their phone three times and leave them to rot on the floor.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise hall",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3380,
+            3383
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "kidney cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            3384,
+            3390
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.487298,
+      "sentence": "Investigators were dumbfounded when they heard that leroy quick's DNA did not match the crime scene evidence I was somewhat surprised we have the witnesses that identified him coming out of the apartment.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "strangler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7797,
+            7798
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7822,
+            7824
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.460667,
+      "sentence": "Police re interviewed hundreds of hopes neighbors friends and family to see if any clue in mass.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7978,
+            7985
+          ],
+          "text": "friends"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighbors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7968,
+            7977
+          ],
+          "text": "neighbors"
+        }
+      ]
+    },
+    {
+      "score": 0.97117,
+      "sentence": "And believe me when I say we interviewed a lot of people.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "me",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8061,
+            8062
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8063,
+            8066
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.648792,
+      "sentence": "And believe me when I say we interviewed a lot of people.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "me",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8061,
+            8062
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviewed",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            8070,
+            8081
+          ],
+          "text": "interviewed"
+        }
+      ]
+    },
+    {
+      "score": 0.79266,
+      "sentence": "And believe me when I say we interviewed a lot of people.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "neighbors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8067,
+            8069
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviewed",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            8070,
+            8081
+          ],
+          "text": "interviewed"
+        }
+      ]
+    },
+    {
+      "score": 0.794677,
+      "sentence": "And believe me when I say we interviewed a lot of people.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8091,
+            8097
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviewed",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            8070,
+            8081
+          ],
+          "text": "interviewed"
+        }
+      ]
+    },
+    {
+      "score": 0.823897,
+      "sentence": "I think I can go on record to say we practically into do everybody in the house the manor apartments.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "neighbors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8156,
+            8165
+          ],
+          "text": "everybody"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8173,
+            8178
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.598443,
+      "sentence": "I think I can go on record to say we practically into do everybody in the house the manor apartments.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8173,
+            8178
+          ],
+          "text": "house"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartments",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8189,
+            8199
+          ],
+          "text": "apartments"
+        }
+      ]
+    },
+    {
+      "score": 0.621322,
+      "sentence": "I think I can go on record to say we practically into do everybody in the house the manor apartments.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "apartments",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8189,
+            8199
+          ],
+          "text": "apartments"
+        },
+        {
+          "entities": [
+            {
+              "text": "manor",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8183,
+            8188
+          ],
+          "text": "manor"
+        }
+      ]
+    },
+    {
+      "score": 0.716202,
+      "sentence": "Now nearly a year after her murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "she",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8225,
+            8228
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            8229,
+            8235
+          ],
+          "text": "murder"
+        }
+      ]
+    }
+  ]
+}

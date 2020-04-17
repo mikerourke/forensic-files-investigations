@@ -1,0 +1,6607 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 15200,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Arthur Bomar",
+      "relevance": 0.957939,
+      "confidence": 1,
+      "count": 19,
+      "disambiguation": {
+        "name": "Aimee_Willard",
+        "dbpedia_resource": "http://dbpedia.org/resource/Aimee_Willard"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Amy",
+      "relevance": 0.613213,
+      "confidence": 1,
+      "count": 21
+    },
+    {
+      "type": "Person",
+      "text": "Amy Willard",
+      "relevance": 0.369108,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Facility",
+      "text": "Smokey Joe's bar",
+      "relevance": 0.348856,
+      "confidence": 0.75584,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Bomar",
+      "relevance": 0.309298,
+      "confidence": 1,
+      "count": 9
+    },
+    {
+      "type": "Location",
+      "text": "Philadelphia",
+      "relevance": 0.278807,
+      "confidence": 1,
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Gail Willard",
+      "relevance": 0.208761,
+      "confidence": 0.999992,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty two year",
+      "relevance": 0.1514,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "forty thirteen inch",
+      "relevance": 0.150158,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty three year",
+      "relevance": 0.129717,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Andrew Cole",
+      "relevance": 0.129514,
+      "confidence": 0.998924,
+      "count": 1,
+      "disambiguation": {
+        "name": "Andrew_Cole",
+        "dbpedia_resource": "http://dbpedia.org/resource/Andrew_Cole",
+        "subtype": [
+          "Athlete",
+          "FootballPlayer"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Amy Wilder",
+      "relevance": 0.123909,
+      "confidence": 0.999499,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "five foot",
+      "relevance": 0.114701,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty pound",
+      "relevance": 0.11436,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Andrew callbacks",
+      "relevance": 0.103188,
+      "confidence": 0.795063,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "nineteen year",
+      "relevance": 0.099824,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Patty Jordan",
+      "relevance": 0.099633,
+      "confidence": 0.997839,
+      "count": 1,
+      "disambiguation": {
+        "name": "Patty_Jordan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Patty_Jordan"
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty eight year",
+      "relevance": 0.09614,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty year",
+      "relevance": 0.090457,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Ford",
+      "relevance": 0.089269,
+      "confidence": 1,
+      "count": 4,
+      "disambiguation": {
+        "name": "Ford_Motor_Company",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ford_Motor_Company",
+        "subtype": [
+          "AutomobileCompany",
+          "AwardWinner",
+          "Inventor",
+          "SchoolFounder"
+        ]
+      }
+    },
+    {
+      "type": "Company",
+      "text": "Honda",
+      "relevance": 0.089247,
+      "confidence": 1,
+      "count": 3,
+      "disambiguation": {
+        "name": "Honda",
+        "dbpedia_resource": "http://dbpedia.org/resource/Honda"
+      }
+    },
+    {
+      "type": "Organization",
+      "text": "George Mason University",
+      "relevance": 0.085855,
+      "confidence": 0.599752,
+      "count": 1,
+      "disambiguation": {
+        "name": "George_Mason_University",
+        "dbpedia_resource": "http://dbpedia.org/resource/George_Mason_University",
+        "subtype": [
+          "CollegeUniversity",
+          "University"
+        ]
+      }
+    },
+    {
+      "type": "Company",
+      "text": "Firestone",
+      "relevance": 0.079761,
+      "confidence": 0.786917,
+      "count": 2,
+      "disambiguation": {
+        "name": "Firestone_Tire_and_Rubber_Company",
+        "dbpedia_resource": "http://dbpedia.org/resource/Firestone_Tire_and_Rubber_Company",
+        "subtype": [
+          "Organization"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Peter Thomas love",
+      "relevance": 0.079298,
+      "confidence": 0.773898,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Martin County",
+      "relevance": 0.077514,
+      "confidence": 0.995393,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Thomas love",
+      "relevance": 0.076102,
+      "confidence": 0.419448,
+      "count": 1,
+      "disambiguation": {
+        "name": "Thomas_C._Love",
+        "dbpedia_resource": "http://dbpedia.org/resource/Thomas_C._Love",
+        "subtype": [
+          "Politician",
+          "U.S.Congressperson"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Maria complainers",
+      "relevance": 0.073745,
+      "confidence": 0.668625,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty five year",
+      "relevance": 0.073528,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Sport",
+      "text": "lacrosse",
+      "relevance": 0.071458,
+      "confidence": 0.96885,
+      "count": 1,
+      "disambiguation": {
+        "name": "Lacrosse",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lacrosse"
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty four hours",
+      "relevance": 0.069014,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Beaumaris fiance",
+      "relevance": 0.062846,
+      "confidence": 0.793449,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "five hours",
+      "relevance": 0.056606,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Sport",
+      "text": "soccer",
+      "relevance": 0.056074,
+      "confidence": 0.991992,
+      "count": 1,
+      "disambiguation": {
+        "name": "Association_football",
+        "dbpedia_resource": "http://dbpedia.org/resource/Association_football"
+      }
+    },
+    {
+      "type": "Company",
+      "text": "Walmart",
+      "relevance": 0.055892,
+      "confidence": 0.999981,
+      "count": 4,
+      "disambiguation": {
+        "name": "Walmart",
+        "dbpedia_resource": "http://dbpedia.org/resource/Walmart"
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Virginia",
+      "relevance": 0.05181,
+      "confidence": 0.99658,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eleven years",
+      "relevance": 0.0487,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Nike",
+      "relevance": 0.046448,
+      "confidence": 0.990309,
+      "count": 1,
+      "disambiguation": {
+        "name": "Nike%2C_Inc.",
+        "dbpedia_resource": "http://dbpedia.org/resource/Nike%2C_Inc.",
+        "subtype": [
+          "Organization"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Patty",
+      "relevance": 0.044872,
+      "confidence": 0.991828,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Twenty years",
+      "relevance": 0.040664,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "rias",
+      "relevance": 0.039803,
+      "confidence": 0.966494,
+      "count": 1,
+      "disambiguation": {
+        "name": "Royal_Incorporation_of_Architects_in_Scotland",
+        "dbpedia_resource": "http://dbpedia.org/resource/Royal_Incorporation_of_Architects_in_Scotland",
+        "subtype": [
+          "Person",
+          "Architect"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "bill Maher",
+      "relevance": 0.038911,
+      "confidence": 0.850104,
+      "count": 1,
+      "disambiguation": {
+        "name": "Bill_Maher",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bill_Maher",
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "Comedian",
+          "FilmCrewmember",
+          "FilmProducer",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "FilmWriter",
+          "TVActor",
+          "TVWriter"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Maria",
+      "relevance": 0.038244,
+      "confidence": 0.999988,
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "one year",
+      "relevance": 0.038153,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Aimee",
+      "relevance": 0.031483,
+      "confidence": 1,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "three months",
+      "relevance": 0.029192,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Lisa",
+      "relevance": 0.02895,
+      "confidence": 0.997283,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Paul Maher",
+      "relevance": 0.026576,
+      "confidence": 0.999488,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "One year",
+      "relevance": 0.022864,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Harrisburg",
+      "relevance": 0.022598,
+      "confidence": 0.996412,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "armed forces institute of pathology",
+      "relevance": 0.022012,
+      "confidence": 0.467485,
+      "count": 1,
+      "disambiguation": {
+        "name": "Armed_Forces_Institute_of_Pathology",
+        "dbpedia_resource": "http://dbpedia.org/resource/Armed_Forces_Institute_of_Pathology"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Beaumaris Firestone",
+      "relevance": 0.021296,
+      "confidence": 0.469872,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two years",
+      "relevance": 0.017293,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Maria cook",
+      "relevance": 0.016344,
+      "confidence": 0.782941,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Ramos",
+      "relevance": 0.015276,
+      "confidence": 0.96671,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Paul Martin",
+      "relevance": 0.014492,
+      "confidence": 0.998238,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Bucks county",
+      "relevance": 0.008414,
+      "confidence": 0.772375,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Beaumaris",
+      "relevance": 0.005737,
+      "confidence": 0.370915,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Pennsylvania",
+      "relevance": 0.005681,
+      "confidence": 0.996456,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "cold",
+      "relevance": 0.000981,
+      "confidence": 0.656726,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.903368
+    },
+    {
+      "label": "/automotive and vehicles/cars/car culture",
+      "score": 0.876926
+    },
+    {
+      "label": "/automotive and vehicles/auto parts",
+      "score": 0.816299
+    },
+    {
+      "label": "/automotive and vehicles/cars/performance vehicles",
+      "score": 0.665368
+    },
+    {
+      "label": "/automotive and vehicles/buying and selling cars",
+      "score": 0.641159
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.596665
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.577703
+    },
+    {
+      "label": "/automotive and vehicles/auto repair",
+      "score": 0.570426
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.552956
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.534499
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.596303,
+      "sentence": "In Philadelphia a woman's car was found abandoned on the side of a busy highway still running.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "woman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            18,
+            23
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            26,
+            29
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.63534,
+      "sentence": "A forensic expert then made a cast of the impression which was sent to the state crime lab.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "lab",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1464,
+            1467
+          ],
+          "text": "lab"
+        },
+        {
+          "entities": [
+            {
+              "text": "state",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1452,
+            1457
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.699627,
+      "sentence": "Both bumpers were slightly scraped like Aimee Willard's car.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bumpers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9240,
+            9247
+          ],
+          "text": "bumpers"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9291,
+            9294
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.644078,
+      "sentence": "The contact left marks on the bumpers of both cars.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bumpers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13142,
+            13149
+          ],
+          "text": "bumpers"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            13158,
+            13162
+          ],
+          "text": "cars"
+        }
+      ]
+    },
+    {
+      "score": 0.588642,
+      "sentence": "Both bumpers were slightly scraped like Aimee Willard's car.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Aimee Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9275,
+            9288
+          ],
+          "text": "Aimee Willard"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9291,
+            9294
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.57648,
+      "sentence": "Now my was that he was president birthday party and not outside the bar that Amy was that evening he had been with the family it was not a family was a young woman that he was seen this woman had a child.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "president",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9529,
+            9538
+          ],
+          "text": "president"
+        },
+        {
+          "entities": [
+            {
+              "text": "bar",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9574,
+            9577
+          ],
+          "text": "bar"
+        }
+      ]
+    },
+    {
+      "score": 0.460275,
+      "sentence": "Now my was that he was president birthday party and not outside the bar that Amy was that evening he had been with the family it was not a family was a young woman that he was seen this woman had a child.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9583,
+            9586
+          ],
+          "text": "Amy"
+        },
+        {
+          "entities": [
+            {
+              "text": "bar",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9574,
+            9577
+          ],
+          "text": "bar"
+        }
+      ]
+    },
+    {
+      "score": 0.509274,
+      "sentence": "Now my was that he was president birthday party and not outside the bar that Amy was that evening he had been with the family it was not a family was a young woman that he was seen this woman had a child.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9583,
+            9586
+          ],
+          "text": "Amy"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9625,
+            9631
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.745751,
+      "sentence": "Now my was that he was president birthday party and not outside the bar that Amy was that evening he had been with the family it was not a family was a young woman that he was seen this woman had a child.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "president",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9604,
+            9606
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9625,
+            9631
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.19494,
+      "sentence": "Now my was that he was president birthday party and not outside the bar that Amy was that evening he had been with the family it was not a family was a young woman that he was seen this woman had a child.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Wilder",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9664,
+            9669
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "president",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9675,
+            9677
+          ],
+          "text": "he"
+        }
+      ]
+    },
+    {
+      "score": 0.979651,
+      "sentence": "She said Bomar was at Smokey Joe's bar on the night Amy Willard disappeared.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Wilder",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9751,
+            9754
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9755,
+            9759
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.849942,
+      "sentence": "She said Bomar was at Smokey Joe's bar on the night Amy Willard disappeared.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9760,
+            9765
+          ],
+          "text": "Bomar"
+        },
+        {
+          "entities": [
+            {
+              "text": "bar",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9786,
+            9789
+          ],
+          "text": "bar"
+        }
+      ]
+    },
+    {
+      "score": 0.783285,
+      "sentence": "One year after her daughter's death Gail Willard who worked as an emergency room nurse asked to see pictures of Amy's injuries.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Wilder",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9932,
+            9935
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9936,
+            9944
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.848427,
+      "sentence": "The automobile was registered to Gail Willard but had been driven at night by her daughter twenty two year old Amy Willard a star soccer and lacrosse player at George Mason University in Virginia.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "someone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1547,
+            1550
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1551,
+            1559
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.622409,
+      "sentence": "One year after her daughter's death Gail Willard who worked as an emergency room nurse asked to see pictures of Amy's injuries.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Gail Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9953,
+            9965
+          ],
+          "text": "Gail Willard"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10004,
+            10009
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.771715,
+      "sentence": "One year after her daughter's death Gail Willard who worked as an emergency room nurse asked to see pictures of Amy's injuries.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Gail Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9966,
+            9969
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9993,
+            9997
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.949711,
+      "sentence": "Of what they were calling a diamond shaped pattern and I said this isn't a diamond shape and this is a bird that was not a burn from the flames it was either a burn that her body came in contact with something that had the ridges on it but it was a burn in print and it was uneven.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10078,
+            10082
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "calling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10088,
+            10095
+          ],
+          "text": "calling"
+        }
+      ]
+    },
+    {
+      "score": 0.997009,
+      "sentence": "Of what they were calling a diamond shaped pattern and I said this isn't a diamond shape and this is a bird that was not a burn from the flames it was either a burn that her body came in contact with something that had the ridges on it but it was a burn in print and it was uneven.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Wilder",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10125,
+            10126
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10127,
+            10131
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.523826,
+      "sentence": "Investigators immediately search for bone marsh Ford escort the car he was driving at the time Amy disappeared but they got bad news the car had been involved in an automobile accident a few months after Amy's disappearance so they tracked the towing company and asked where that car was towed to they went to a location and found a car that was the green Ford escort actually sitting in a field next to this tow truck company for almost two years time so it had been there is a potential piece of great evidence that has not had the chance to be forensically analyzed an external examination of the escort showed slight damage to the front bumper.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10420,
+            10422
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10467,
+            10471
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.366832,
+      "sentence": "Investigators immediately search for bone marsh Ford escort the car he was driving at the time Amy disappeared but they got bad news the car had been involved in an automobile accident a few months after Amy's disappearance so they tracked the towing company and asked where that car was towed to they went to a location and found a car that was the green Ford escort actually sitting in a field next to this tow truck company for almost two years time so it had been there is a potential piece of great evidence that has not had the chance to be forensically analyzed an external examination of the escort showed slight damage to the front bumper.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10467,
+            10471
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10489,
+            10492
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.48108,
+      "sentence": "Investigators immediately search for bone marsh Ford escort the car he was driving at the time Amy disappeared but they got bad news the car had been involved in an automobile accident a few months after Amy's disappearance so they tracked the towing company and asked where that car was towed to they went to a location and found a car that was the green Ford escort actually sitting in a field next to this tow truck company for almost two years time so it had been there is a potential piece of great evidence that has not had the chance to be forensically analyzed an external examination of the escort showed slight damage to the front bumper.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10556,
+            10559
+          ],
+          "text": "Amy"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10579,
+            10583
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.785127,
+      "sentence": "Investigators immediately search for bone marsh Ford escort the car he was driving at the time Amy disappeared but they got bad news the car had been involved in an automobile accident a few months after Amy's disappearance so they tracked the towing company and asked where that car was towed to they went to a location and found a car that was the green Ford escort actually sitting in a field next to this tow truck company for almost two years time so it had been there is a potential piece of great evidence that has not had the chance to be forensically analyzed an external examination of the escort showed slight damage to the front bumper.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10579,
+            10583
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10615,
+            10620
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.799039,
+      "sentence": "Investigators immediately search for bone marsh Ford escort the car he was driving at the time Amy disappeared but they got bad news the car had been involved in an automobile accident a few months after Amy's disappearance so they tracked the towing company and asked where that car was towed to they went to a location and found a car that was the green Ford escort actually sitting in a field next to this tow truck company for almost two years time so it had been there is a potential piece of great evidence that has not had the chance to be forensically analyzed an external examination of the escort showed slight damage to the front bumper.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10649,
+            10653
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "location",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            10664,
+            10672
+          ],
+          "text": "location"
+        }
+      ]
+    },
+    {
+      "score": 0.542919,
+      "sentence": "At least one of the cars tires was a Firestone for forty thirteen inch tire the same type of tire which made the impression found at the crime scene.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11021,
+            11025
+          ],
+          "text": "cars"
+        },
+        {
+          "entities": [
+            {
+              "text": "Firestone",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11038,
+            11047
+          ],
+          "text": "Firestone"
+        }
+      ]
+    },
+    {
+      "score": 0.899111,
+      "sentence": "The automobile was registered to Gail Willard but had been driven at night by her daughter twenty two year old Amy Willard a star soccer and lacrosse player at George Mason University in Virginia.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1551,
+            1559
+          ],
+          "text": "daughter"
+        },
+        {
+          "entities": [
+            {
+              "text": "twenty",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            1560,
+            1566
+          ],
+          "text": "twenty"
+        }
+      ]
+    },
+    {
+      "score": 0.33945,
+      "sentence": "At least one of the cars tires was a Firestone for forty thirteen inch tire the same type of tire which made the impression found at the crime scene.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "thirteen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11058,
+            11066
+          ],
+          "text": "thirteen"
+        },
+        {
+          "entities": [
+            {
+              "text": "Firestone",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11038,
+            11047
+          ],
+          "text": "Firestone"
+        }
+      ]
+    },
+    {
+      "score": 0.559568,
+      "sentence": "Our latent print examiner in Harrisburg was able to say that the tire was the only consistent and make model size but also in where which is which is help with another piece of the puzzle so the friends in our case were absolutely critical.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11168,
+            11176
+          ],
+          "text": "examiner"
+        },
+        {
+          "entities": [
+            {
+              "text": "Harrisburg",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11180,
+            11190
+          ],
+          "text": "Harrisburg"
+        }
+      ]
+    },
+    {
+      "score": 0.6393,
+      "sentence": "Walmart'S car had been exposed to the elements without its roof for almost a year so it was no surprise that police could find no trace of blood inside the car.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Walmart",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11392,
+            11399
+          ],
+          "text": "Walmart"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11402,
+            11405
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.636671,
+      "sentence": "Previous employment he had worked in a hospital in an operating room where he had learned all of the techniques of cleaning up blood.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11573,
+            11575
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11592,
+            11600
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.855454,
+      "sentence": "Previous employment he had worked in a hospital in an operating room where he had learned all of the techniques of cleaning up blood.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11592,
+            11600
+          ],
+          "text": "hospital"
+        },
+        {
+          "entities": [
+            {
+              "text": "room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11617,
+            11621
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.976119,
+      "sentence": "Until police took a much closer look we literally talked the car park we remove the seeds for and with the carpeting we did vacuuming suffer trace evidence we literally took the car apart we took the door panel apart and behind the door panel we found some blood.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11724,
+            11726
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "talked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11737,
+            11743
+          ],
+          "text": "talked"
+        }
+      ]
+    },
+    {
+      "score": 0.35164,
+      "sentence": "Until police took a much closer look we literally talked the car park we remove the seeds for and with the carpeting we did vacuuming suffer trace evidence we literally took the car apart we took the door panel apart and behind the door panel we found some blood.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11748,
+            11751
+          ],
+          "text": "car"
+        },
+        {
+          "entities": [
+            {
+              "text": "park",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11752,
+            11756
+          ],
+          "text": "park"
+        }
+      ]
+    },
+    {
+      "score": 0.319149,
+      "sentence": "The pattern the faxes and does on the oil pan was eerily similar to the marks on Aimee's body.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Aimee Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12452,
+            12457
+          ],
+          "text": "Aimee"
+        },
+        {
+          "entities": [
+            {
+              "text": "president",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12460,
+            12464
+          ],
+          "text": "body"
+        }
+      ]
+    },
+    {
+      "score": 0.975032,
+      "sentence": "An expert at the armed forces institute of pathology confirmed that the pattern on the oil pan was consistent with the marks on Aimee's body.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Aimee Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12469,
+            12475
+          ],
+          "text": "expert"
+        },
+        {
+          "entities": [
+            {
+              "text": "confirmed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12519,
+            12528
+          ],
+          "text": "confirmed"
+        }
+      ]
+    },
+    {
+      "score": 0.273261,
+      "sentence": "An expert at the armed forces institute of pathology confirmed that the pattern on the oil pan was consistent with the marks on Aimee's body.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Aimee Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12594,
+            12599
+          ],
+          "text": "Aimee"
+        },
+        {
+          "entities": [
+            {
+              "text": "president",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12602,
+            12606
+          ],
+          "text": "body"
+        }
+      ]
+    },
+    {
+      "score": 0.946304,
+      "sentence": "The automobile was registered to Gail Willard but had been driven at night by her daughter twenty two year old Amy Willard a star soccer and lacrosse player at George Mason University in Virginia.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1610,
+            1625
+          ],
+          "text": "lacrosse player"
+        },
+        {
+          "entities": [
+            {
+              "text": "George Mason University",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1629,
+            1652
+          ],
+          "text": "George Mason University"
+        }
+      ]
+    },
+    {
+      "score": 0.722957,
+      "sentence": "Prosecutors believe that Amy Willard first caught Arthur Bomar detention in Smokey Joe's bar.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12816,
+            12827
+          ],
+          "text": "Amy Willard"
+        },
+        {
+          "entities": [
+            {
+              "text": "bar",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12880,
+            12883
+          ],
+          "text": "bar"
+        }
+      ]
+    },
+    {
+      "score": 0.698752,
+      "sentence": "From there they believe Paul Maher followed Amy out of the bar and a long road for seventy six as she drove home.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12929,
+            12932
+          ],
+          "text": "Amy"
+        },
+        {
+          "entities": [
+            {
+              "text": "bar",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12944,
+            12947
+          ],
+          "text": "bar"
+        }
+      ]
+    },
+    {
+      "score": 0.839715,
+      "sentence": "Prosecutors believe that Amy Willard first caught Arthur Bomar detention in Smokey Joe's bar.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12841,
+            12853
+          ],
+          "text": "Arthur Bomar"
+        },
+        {
+          "entities": [
+            {
+              "text": "detention",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            12854,
+            12863
+          ],
+          "text": "detention"
+        }
+      ]
+    },
+    {
+      "score": 0.71811,
+      "sentence": "Prosecutors believe that Amy Willard first caught Arthur Bomar detention in Smokey Joe's bar.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12841,
+            12853
+          ],
+          "text": "Arthur Bomar"
+        },
+        {
+          "entities": [
+            {
+              "text": "bar",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12880,
+            12883
+          ],
+          "text": "bar"
+        }
+      ]
+    },
+    {
+      "score": 0.510123,
+      "sentence": "Prosecutors believe that Amy Willard first caught Arthur Bomar detention in Smokey Joe's bar.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detention",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            12854,
+            12863
+          ],
+          "text": "detention"
+        },
+        {
+          "entities": [
+            {
+              "text": "bar",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12880,
+            12883
+          ],
+          "text": "bar"
+        }
+      ]
+    },
+    {
+      "score": 0.365715,
+      "sentence": "Prosecutors believe that Amy Willard first caught Arthur Bomar detention in Smokey Joe's bar.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Smokey Joe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12867,
+            12877
+          ],
+          "text": "Smokey Joe"
+        },
+        {
+          "entities": [
+            {
+              "text": "bar",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12880,
+            12883
+          ],
+          "text": "bar"
+        }
+      ]
+    },
+    {
+      "score": 0.849203,
+      "sentence": "From there they believe Paul Maher followed Amy out of the bar and a long road for seventy six as she drove home.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12983,
+            12986
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12993,
+            12997
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.667135,
+      "sentence": "When Amy was about to exit the highway prosecutors believe Paul Martin punched her car causing her to pull over.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Martin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13058,
+            13069
+          ],
+          "text": "Paul Martin"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            13082,
+            13085
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.767382,
+      "sentence": "But the forensic evidence clearly shows that Beaumaris Firestone tire left the tire impression at the crime scene.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Beaumaris Firestone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13362,
+            13381
+          ],
+          "text": "Beaumaris Firestone"
+        },
+        {
+          "entities": [
+            {
+              "text": "crime",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13419,
+            13424
+          ],
+          "text": "crime"
+        }
+      ]
+    },
+    {
+      "score": 0.266375,
+      "sentence": "Burning her skin leaving the imprint of the car's oil pan on her torso.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "diamond",
+              "type": "Substance"
+            }
+          ],
+          "location": [
+            13482,
+            13485
+          ],
+          "text": "oil"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            13476,
+            13479
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.419509,
+      "sentence": "Maria'S body was found less than twenty miles from Arthur Bomar as residents and thirty miles from where Amy was abducted.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "residents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13923,
+            13932
+          ],
+          "text": "residents"
+        },
+        {
+          "entities": [
+            {
+              "text": "where",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13955,
+            13960
+          ],
+          "text": "where"
+        }
+      ]
+    },
+    {
+      "score": 0.875447,
+      "sentence": "The automobile was registered to Gail Willard but had been driven at night by her daughter twenty two year old Amy Willard a star soccer and lacrosse player at George Mason University in Virginia.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George Mason University",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1629,
+            1652
+          ],
+          "text": "George Mason University"
+        },
+        {
+          "entities": [
+            {
+              "text": "Virginia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1656,
+            1664
+          ],
+          "text": "Virginia"
+        }
+      ]
+    },
+    {
+      "score": 0.308779,
+      "sentence": "Maria'S body was found less than twenty miles from Arthur Bomar as residents and thirty miles from where Amy was abducted.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13961,
+            13964
+          ],
+          "text": "Amy"
+        },
+        {
+          "entities": [
+            {
+              "text": "where",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13955,
+            13960
+          ],
+          "text": "where"
+        }
+      ]
+    },
+    {
+      "score": 0.929504,
+      "sentence": "Maria'S body was found less than twenty miles from Arthur Bomar as residents and thirty miles from where Amy was abducted.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13961,
+            13964
+          ],
+          "text": "Amy"
+        },
+        {
+          "entities": [
+            {
+              "text": "abducted",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            13969,
+            13977
+          ],
+          "text": "abducted"
+        }
+      ]
+    },
+    {
+      "score": 0.440211,
+      "sentence": "I know that he's still clearly suspected of the disappearance and murder of re complainers it's been publicly reported and authorities look at other things but I can't.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "complainers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14118,
+            14129
+          ],
+          "text": "complainers"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            14105,
+            14111
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.59493,
+      "sentence": "I know that he's still clearly suspected of the disappearance and murder of re complainers it's been publicly reported and authorities look at other things but I can't.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "complainers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14118,
+            14129
+          ],
+          "text": "complainers"
+        },
+        {
+          "entities": [
+            {
+              "text": "reported",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14149,
+            14157
+          ],
+          "text": "reported"
+        }
+      ]
+    },
+    {
+      "score": 0.951956,
+      "sentence": "During the trial the defense argued that Bomar was neglected as a child and had a low IQ.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "defense",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14229,
+            14236
+          ],
+          "text": "defense"
+        },
+        {
+          "entities": [
+            {
+              "text": "pointed out",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14237,
+            14243
+          ],
+          "text": "argued"
+        }
+      ]
+    },
+    {
+      "score": 0.544441,
+      "sentence": "Walmart had to be restrained several times during the trial because of violent outbursts.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Walmart",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14298,
+            14305
+          ],
+          "text": "Walmart"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14352,
+            14357
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.827235,
+      "sentence": "Outside the courthouse Beaumaris family took their frustrations out on the media.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14421,
+            14427
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "Beaumaris",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14411,
+            14420
+          ],
+          "text": "Beaumaris"
+        }
+      ]
+    },
+    {
+      "score": 0.670668,
+      "sentence": "The step brother and his mother lashed out at news crews covering the trial.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14495,
+            14501
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14491,
+            14494
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.489206,
+      "sentence": "The step brother and his mother lashed out at news crews covering the trial.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14495,
+            14501
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14540,
+            14545
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.409776,
+      "sentence": "Man man man.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Man",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14547,
+            14550
+          ],
+          "text": "Man"
+        },
+        {
+          "entities": [
+            {
+              "text": "president",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14551,
+            14554
+          ],
+          "text": "man"
+        }
+      ]
+    },
+    {
+      "score": 0.433588,
+      "sentence": "Amy was spending the summer at home with their family who lived just a few miles from where the car was discovered.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1666,
+            1669
+          ],
+          "text": "Amy"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1697,
+            1701
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.601613,
+      "sentence": "Arthur Bomar was convicted of rape and first degree murder and was sentenced to death.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14560,
+            14572
+          ],
+          "text": "Arthur Bomar"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14577,
+            14586
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.445627,
+      "sentence": "Walmart'S reaction when he was convicted and sentenced to death you turn around and threatened me but both fingers in the air.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14671,
+            14673
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14678,
+            14687
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.687338,
+      "sentence": "Arthur Bomar was convicted of rape and first degree murder and was sentenced to death.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14560,
+            14572
+          ],
+          "text": "Arthur Bomar"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14627,
+            14636
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.740907,
+      "sentence": "Walmart'S reaction when he was convicted and sentenced to death you turn around and threatened me but both fingers in the air.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14711,
+            14714
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14692,
+            14701
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.748789,
+      "sentence": "He was just a stone cold killer and real predator I have in my career I've never really faced anybody that I felt was as dangerous as remorseless as cold as possible.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14774,
+            14776
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            14799,
+            14805
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.538261,
+      "sentence": "He was just a stone cold killer and real predator I have in my career I've never really faced anybody that I felt was as dangerous as remorseless as cold as possible.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14824,
+            14825
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            14799,
+            14805
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.454556,
+      "sentence": "I think in the end without the DNA without the tire impression without the oil pan impression I think we would have been very hard pressed to to have the success that we did.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15120,
+            15121
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15128,
+            15130
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.596483,
+      "sentence": "Amy was spending the summer at home with their family who lived just a few miles from where the car was discovered.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1720,
+            1723
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1762,
+            1765
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.995234,
+      "sentence": "Amy told her mother she was going to Smokey Joe's bar.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1782,
+            1785
+          ],
+          "text": "Amy"
+        },
+        {
+          "entities": [
+            {
+              "text": "pointed out",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1786,
+            1790
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.963168,
+      "sentence": "And a friend said Amy left the bar alone at one thirty in the morning.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1843,
+            1849
+          ],
+          "text": "friend"
+        },
+        {
+          "entities": [
+            {
+              "text": "pointed out",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1850,
+            1854
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.858837,
+      "sentence": "There was an abrasion on the back bumper that was not there when Amy drove off in the car I noticed it because it was my car and I knew everything about my car and I had pointed out please.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2408,
+            2409
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "pointed out",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2414,
+            2425
+          ],
+          "text": "pointed out"
+        }
+      ]
+    },
+    {
+      "score": 0.540033,
+      "sentence": "Amy told her mother she was going to Smokey Joe's bar.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1795,
+            1801
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "someone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1791,
+            1794
+          ],
+          "text": "her"
+        }
+      ]
+    },
+    {
+      "score": 0.733313,
+      "sentence": "Amy told her mother she was going to Smokey Joe's bar.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1802,
+            1805
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "bar",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1832,
+            1835
+          ],
+          "text": "bar"
+        }
+      ]
+    },
+    {
+      "score": 0.799008,
+      "sentence": "And a friend said Amy left the bar alone at one thirty in the morning.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1855,
+            1858
+          ],
+          "text": "Amy"
+        },
+        {
+          "entities": [
+            {
+              "text": "bar",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1868,
+            1871
+          ],
+          "text": "bar"
+        }
+      ]
+    },
+    {
+      "score": 0.546067,
+      "sentence": "In Philadelphia a woman's car was found abandoned on the side of a busy highway still running.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            26,
+            29
+          ],
+          "text": "car"
+        },
+        {
+          "entities": [
+            {
+              "text": "highway",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            72,
+            79
+          ],
+          "text": "highway"
+        }
+      ]
+    },
+    {
+      "score": 0.361487,
+      "sentence": "Amy told her mother she was going to Smokey Joe's bar.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Smokey Joe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1819,
+            1829
+          ],
+          "text": "Smokey Joe"
+        },
+        {
+          "entities": [
+            {
+              "text": "bar",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1832,
+            1835
+          ],
+          "text": "bar"
+        }
+      ]
+    },
+    {
+      "score": 0.777396,
+      "sentence": "She had never been before when she came home she very rarely went out and met people because of the fact that time constraints on when she was home when she was how she kind of stayed around here and we hung out together and things like that.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1939,
+            1942
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1948,
+            1952
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.850855,
+      "sentence": "She had never been before when she came home she very rarely went out and met people because of the fact that time constraints on when she was home when she was how she kind of stayed around here and we hung out together and things like that.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2043,
+            2046
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2051,
+            2055
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.571651,
+      "sentence": "She had never been before when she came home she very rarely went out and met people because of the fact that time constraints on when she was home when she was how she kind of stayed around here and we hung out together and things like that.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2073,
+            2076
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "here",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2099,
+            2103
+          ],
+          "text": "here"
+        }
+      ]
+    },
+    {
+      "score": 0.742701,
+      "sentence": "There was an abrasion on the back bumper that was not there when Amy drove off in the car I noticed it because it was my car and I knew everything about my car and I had pointed out please.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2309,
+            2312
+          ],
+          "text": "Amy"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2330,
+            2333
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.524348,
+      "sentence": "And she left her vehicle Bomar structure with the tire iron.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13168,
+            13171
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            13181,
+            13188
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.777562,
+      "sentence": "There was an abrasion on the back bumper that was not there when Amy drove off in the car I noticed it because it was my car and I knew everything about my car and I had pointed out please.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2362,
+            2364
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2365,
+            2368
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.797638,
+      "sentence": "There was an abrasion on the back bumper that was not there when Amy drove off in the car I noticed it because it was my car and I knew everything about my car and I had pointed out please.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2397,
+            2399
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2400,
+            2403
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.755517,
+      "sentence": "Possibly at that traffic light right where she's gonna turn off the four seventy six offramp onto the route one on ramp there's a traffic light right there I believe that that's where he would have bumped her car she immediately pulled over on the ramp gets out of her car to exchange information.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2639,
+            2642
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2643,
+            2646
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.807732,
+      "sentence": "Possibly at that traffic light right where she's gonna turn off the four seventy six offramp onto the route one on ramp there's a traffic light right there I believe that that's where he would have bumped her car she immediately pulled over on the ramp gets out of her car to exchange information.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2699,
+            2702
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2703,
+            2706
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.599076,
+      "sentence": "The next morning about a half mile from where Amy's car was abandoned police found a pair of panties and sneakers they brought them down for me to identify them and they definitely were her knickers and panties they definitely.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2778,
+            2781
+          ],
+          "text": "Amy"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2784,
+            2787
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.874784,
+      "sentence": "It appeared to me as though those items have been brought back after the rain which would have meant that they were brought back after her car was found.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3095,
+            3098
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            3099,
+            3102
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.518238,
+      "sentence": "After Aimee Willard disappeared police appeal to the community asking anyone with information to come forward one of those who responded was twenty three year old Andrew Cole back who said he had been driving on route four seventy six on the night Amy disappeared and saw something suspicious in the vicinity of Amy's car.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3776,
+            3779
+          ],
+          "text": "Amy"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            3782,
+            3785
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.878008,
+      "sentence": "When Amy was about to exit the highway prosecutors believe Paul Martin punched her car causing her to pull over.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13078,
+            13081
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            13082,
+            13085
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.244829,
+      "sentence": "The next morning about a half mile from where Amy's car was abandoned police found a pair of panties and sneakers they brought them down for me to identify them and they definitely were her knickers and panties they definitely.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2918,
+            2921
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "knickers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2922,
+            2930
+          ],
+          "text": "knickers"
+        }
+      ]
+    },
+    {
+      "score": 0.622321,
+      "sentence": "It appeared to me as though those items have been brought back after the rain which would have meant that they were brought back after her car was found.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3066,
+            3070
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            3099,
+            3102
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.543086,
+      "sentence": "An indication the doctor had returned to the scene of the crime to dispose of the items.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3132,
+            3138
+          ],
+          "text": "doctor"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            3159,
+            3164
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.471866,
+      "sentence": "Detectives screen video surveillance tapes from stores and bank ATMs near Smokey Joe's bar but Amy had not stopped at any of these locations.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Smokey Joe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3277,
+            3287
+          ],
+          "text": "Smokey Joe"
+        },
+        {
+          "entities": [
+            {
+              "text": "bar",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3290,
+            3293
+          ],
+          "text": "bar"
+        }
+      ]
+    },
+    {
+      "score": 0.603397,
+      "sentence": "She said Bomar was at Smokey Joe's bar on the night Amy Willard disappeared.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Smokey Joe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9773,
+            9783
+          ],
+          "text": "Smokey Joe"
+        },
+        {
+          "entities": [
+            {
+              "text": "bar",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9786,
+            9789
+          ],
+          "text": "bar"
+        }
+      ]
+    },
+    {
+      "score": 0.561969,
+      "sentence": "Detectives screen video surveillance tapes from stores and bank ATMs near Smokey Joe's bar but Amy had not stopped at any of these locations.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3298,
+            3301
+          ],
+          "text": "Amy"
+        },
+        {
+          "entities": [
+            {
+              "text": "locations",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            3334,
+            3343
+          ],
+          "text": "locations"
+        }
+      ]
+    },
+    {
+      "score": 0.611887,
+      "sentence": "At the scene police found several clues.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            136,
+            142
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            130,
+            135
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.619559,
+      "sentence": "The car was found abandoned on the off ramp in Martin County.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            3406,
+            3409
+          ],
+          "text": "car"
+        },
+        {
+          "entities": [
+            {
+              "text": "Martin County",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3449,
+            3462
+          ],
+          "text": "Martin County"
+        }
+      ]
+    },
+    {
+      "score": 0.778882,
+      "sentence": "After Aimee Willard disappeared police appeal to the community asking anyone with information to come forward one of those who responded was twenty three year old Andrew Cole back who said he had been driving on route four seventy six on the night Amy disappeared and saw something suspicious in the vicinity of Amy's car.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3517,
+            3526
+          ],
+          "text": "community"
+        },
+        {
+          "entities": [
+            {
+              "text": "asking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3527,
+            3533
+          ],
+          "text": "asking"
+        }
+      ]
+    },
+    {
+      "score": 0.716407,
+      "sentence": "After Aimee Willard disappeared police appeal to the community asking anyone with information to come forward one of those who responded was twenty three year old Andrew Cole back who said he had been driving on route four seventy six on the night Amy disappeared and saw something suspicious in the vicinity of Amy's car.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "anyone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3534,
+            3540
+          ],
+          "text": "anyone"
+        },
+        {
+          "entities": [
+            {
+              "text": "asking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3527,
+            3533
+          ],
+          "text": "asking"
+        }
+      ]
+    },
+    {
+      "score": 0.682525,
+      "sentence": "After Aimee Willard disappeared police appeal to the community asking anyone with information to come forward one of those who responded was twenty three year old Andrew Cole back who said he had been driving on route four seventy six on the night Amy disappeared and saw something suspicious in the vicinity of Amy's car.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Andrew Cole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3627,
+            3638
+          ],
+          "text": "Andrew Cole"
+        },
+        {
+          "entities": [
+            {
+              "text": "twenty three year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            3605,
+            3626
+          ],
+          "text": "twenty three year old"
+        }
+      ]
+    },
+    {
+      "score": 0.991667,
+      "sentence": "After Aimee Willard disappeared police appeal to the community asking anyone with information to come forward one of those who responded was twenty three year old Andrew Cole back who said he had been driving on route four seventy six on the night Amy disappeared and saw something suspicious in the vicinity of Amy's car.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Andrew Cole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3644,
+            3647
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3648,
+            3652
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.773304,
+      "sentence": "Police and you call back years earlier he had been accused of impersonating a police officer.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3872,
+            3879
+          ],
+          "text": "officer"
+        },
+        {
+          "entities": [
+            {
+              "text": "authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3865,
+            3871
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.991545,
+      "sentence": "Police say call back would turn a siren on instruct the driver to pull over and then show the driver of back.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3881,
+            3887
+          ],
+          "text": "Police"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3888,
+            3891
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.580108,
+      "sentence": "By virtue of placing himself back at the scene it was consistent with what is often times a characteristic of people who commit crimes that are being investigated is out of curiosity or some other kind of motivation they returned to the vicinity of the crime that in essence to get a feel for what's going on.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "president",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4184,
+            4191
+          ],
+          "text": "himself"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            4204,
+            4209
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.502644,
+      "sentence": "Less than twenty four hours after Aimee Willard disappeared children playing in a deserted lot in north Philadelphia discovered the new body of a woman.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Aimee Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4507,
+            4520
+          ],
+          "text": "Aimee Willard"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4533,
+            4541
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.950767,
+      "sentence": "Less than twenty four hours after Aimee Willard disappeared children playing in a deserted lot in north Philadelphia discovered the new body of a woman.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "north",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            4571,
+            4576
+          ],
+          "text": "north"
+        },
+        {
+          "entities": [
+            {
+              "text": "city of Philadelphia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4577,
+            4589
+          ],
+          "text": "Philadelphia"
+        }
+      ]
+    },
+    {
+      "score": 0.585397,
+      "sentence": "Four seventy six is one of several highways siblings Philadelphia to the suburbs.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "highways",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            257,
+            265
+          ],
+          "text": "highways"
+        },
+        {
+          "entities": [
+            {
+              "text": "city of Philadelphia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            275,
+            287
+          ],
+          "text": "Philadelphia"
+        }
+      ]
+    },
+    {
+      "score": 0.470043,
+      "sentence": "There was a Nike logo tattooed on her ankle which Amy's parents identified.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Wilder",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4660,
+            4663
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4682,
+            4689
+          ],
+          "text": "parents"
+        }
+      ]
+    },
+    {
+      "score": 0.406202,
+      "sentence": "There was a Nike logo tattooed on her ankle which Amy's parents identified.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4676,
+            4679
+          ],
+          "text": "Amy"
+        },
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4682,
+            4689
+          ],
+          "text": "parents"
+        }
+      ]
+    },
+    {
+      "score": 0.625145,
+      "sentence": "The medical examiner estimated she died at seven o'clock in the morning about five hours after she was abducted.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "morning about five hours after",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            5182,
+            5212
+          ],
+          "text": "morning about five hours after"
+        },
+        {
+          "entities": [
+            {
+              "text": "abducted",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            5221,
+            5229
+          ],
+          "text": "abducted"
+        }
+      ]
+    },
+    {
+      "score": 0.885368,
+      "sentence": "The medical examiner estimated she died at seven o'clock in the morning about five hours after she was abducted.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Wilder",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5213,
+            5216
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "abducted",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            5221,
+            5229
+          ],
+          "text": "abducted"
+        }
+      ]
+    },
+    {
+      "score": 0.55111,
+      "sentence": "This is a crime of momentary passion her crime of between two people that know each other but somebody actually hunted down stocks somebody committed the murder the crime and then went to another location to try to deposit the evidence and throw the authorities off the trail.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "somebody",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5325,
+            5333
+          ],
+          "text": "somebody"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5385,
+            5391
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.798288,
+      "sentence": "The examiner determined that Amy had been sexually assaulted.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5537,
+            5540
+          ],
+          "text": "Amy"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5559,
+            5568
+          ],
+          "text": "assaulted"
+        }
+      ]
+    },
+    {
+      "score": 0.836763,
+      "sentence": "Ironically Bomar himself provided the most damning piece of evidence the semen from Amy's rape test kits matched Arthur Bomar is DNA profile.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13699,
+            13702
+          ],
+          "text": "Amy"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13705,
+            13709
+          ],
+          "text": "rape"
+        }
+      ]
+    },
+    {
+      "score": 0.950265,
+      "sentence": "DNA evidence from the rape test kit was sent to the forensics lab for testing we had essentially the genetic fingerprint of our of our murder and we just needed to identify that person.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "our",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5701,
+            5704
+          ],
+          "text": "our"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5705,
+            5711
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.869011,
+      "sentence": "Meanwhile forensic experts completed their analysis of the tire impressions found at the crime scene.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "experts",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5909,
+            5914
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "crime",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5961,
+            5966
+          ],
+          "text": "crime"
+        }
+      ]
+    },
+    {
+      "score": 0.488709,
+      "sentence": "Meanwhile forensic experts completed their analysis of the tire impressions found at the crime scene.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "crime",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5961,
+            5966
+          ],
+          "text": "crime"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5967,
+            5972
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.587975,
+      "sentence": "At least one of the cars tires was a Firestone for forty thirteen inch tire the same type of tire which made the impression found at the crime scene.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "crime",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11138,
+            11143
+          ],
+          "text": "crime"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            11144,
+            11149
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.489123,
+      "sentence": "But the forensic evidence clearly shows that Beaumaris Firestone tire left the tire impression at the crime scene.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "crime",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13419,
+            13424
+          ],
+          "text": "crime"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            13425,
+            13430
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.543683,
+      "sentence": "They were from a Firestone for forty thirteen inch tire often found on small compact cars.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "experts",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5974,
+            5978
+          ],
+          "text": "They"
+        },
+        {
+          "entities": [
+            {
+              "text": "Firestone",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5991,
+            6000
+          ],
+          "text": "Firestone"
+        }
+      ]
+    },
+    {
+      "score": 0.568561,
+      "sentence": "Four seventy six is one of several highways siblings Philadelphia to the suburbs.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "siblings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            266,
+            274
+          ],
+          "text": "siblings"
+        },
+        {
+          "entities": [
+            {
+              "text": "city of Philadelphia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            275,
+            287
+          ],
+          "text": "Philadelphia"
+        }
+      ]
+    },
+    {
+      "score": 0.656255,
+      "sentence": "Andrew callbacks automobile did not have those tires and a search of his home turned up nothing.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Andrew Cole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6134,
+            6137
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6138,
+            6142
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.516202,
+      "sentence": "Call back was officially eliminated as a suspect when his DNA profile did not match the semen from the rape test kits.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "president",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6203,
+            6210
+          ],
+          "text": "suspect"
+        },
+        {
+          "entities": [
+            {
+              "text": "eliminated",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            6187,
+            6197
+          ],
+          "text": "eliminated"
+        }
+      ]
+    },
+    {
+      "score": 0.65187,
+      "sentence": "Call back was officially eliminated as a suspect when his DNA profile did not match the semen from the rape test kits.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "president",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6216,
+            6219
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6265,
+            6269
+          ],
+          "text": "rape"
+        }
+      ]
+    },
+    {
+      "score": 0.567246,
+      "sentence": "Now more than ever police believe he might have been involved in Aimee Willard's murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "president",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9394,
+            9396
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9441,
+            9447
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.956223,
+      "sentence": "Then one year after Aimee Willard's death nineteen year old Patty Jordan reported an attempted carjacking to police.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patty Jordan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6393,
+            6405
+          ],
+          "text": "Patty Jordan"
+        },
+        {
+          "entities": [
+            {
+              "text": "reported",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6406,
+            6414
+          ],
+          "text": "reported"
+        }
+      ]
+    },
+    {
+      "score": 0.876035,
+      "sentence": "Then one year after Aimee Willard's death nineteen year old Patty Jordan reported an attempted carjacking to police.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6442,
+            6448
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "reported",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6406,
+            6414
+          ],
+          "text": "reported"
+        }
+      ]
+    },
+    {
+      "score": 0.996813,
+      "sentence": "She said it was a man who had followed her after she left a local nightclub and at the next light that karma is the main ally and I didn't and that's where he hit my car.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patty Jordan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6450,
+            6453
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6454,
+            6458
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.545973,
+      "sentence": "She said it was a man who had followed her after she left a local nightclub and at the next light that karma is the main ally and I didn't and that's where he hit my car.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "president",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6472,
+            6475
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "nightclub",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6516,
+            6525
+          ],
+          "text": "nightclub"
+        }
+      ]
+    },
+    {
+      "score": 0.599975,
+      "sentence": "She said it was a man who had followed her after she left a local nightclub and at the next light that karma is the main ally and I didn't and that's where he hit my car.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patty Jordan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6499,
+            6502
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "nightclub",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6516,
+            6525
+          ],
+          "text": "nightclub"
+        }
+      ]
+    },
+    {
+      "score": 0.601959,
+      "sentence": "She said it was a man who had followed her after she left a local nightclub and at the next light that karma is the main ally and I didn't and that's where he hit my car.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "president",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6606,
+            6608
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            6616,
+            6619
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.820665,
+      "sentence": "She said it was a man who had followed her after she left a local nightclub and at the next light that karma is the main ally and I didn't and that's where he hit my car.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patty Jordan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6613,
+            6615
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            6616,
+            6619
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.636429,
+      "sentence": "Four seventy six is one of several highways siblings Philadelphia to the suburbs.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "siblings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            266,
+            274
+          ],
+          "text": "siblings"
+        },
+        {
+          "entities": [
+            {
+              "text": "suburbs",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            295,
+            302
+          ],
+          "text": "suburbs"
+        }
+      ]
+    },
+    {
+      "score": 0.971383,
+      "sentence": "The vehicle was registered the thirty eight year old Arthur Bomar.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6732,
+            6744
+          ],
+          "text": "Arthur Bomar"
+        },
+        {
+          "entities": [
+            {
+              "text": "thirty eight year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            6710,
+            6731
+          ],
+          "text": "thirty eight year old"
+        }
+      ]
+    },
+    {
+      "score": 0.833902,
+      "sentence": "Twenty years earlier in nineteen seventy eight Bomar had been convicted of second degree murder in the vada and was sentenced to life in prison unbelievably he was released on parole after serving only eleven years.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6793,
+            6798
+          ],
+          "text": "Bomar"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6808,
+            6817
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.957928,
+      "sentence": "Twenty years earlier in nineteen seventy eight Bomar had been convicted of second degree murder in the vada and was sentenced to life in prison unbelievably he was released on parole after serving only eleven years.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6793,
+            6798
+          ],
+          "text": "Bomar"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6835,
+            6841
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.749331,
+      "sentence": "I know that he's still clearly suspected of the disappearance and murder of re complainers it's been publicly reported and authorities look at other things but I can't.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14051,
+            14053
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            14105,
+            14111
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.758559,
+      "sentence": "Arthur Bomar was convicted of rape and first degree murder and was sentenced to death.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14560,
+            14572
+          ],
+          "text": "Arthur Bomar"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            14590,
+            14594
+          ],
+          "text": "rape"
+        }
+      ]
+    },
+    {
+      "score": 0.586695,
+      "sentence": "Arthur Bomar was convicted of rape and first degree murder and was sentenced to death.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14560,
+            14572
+          ],
+          "text": "Arthur Bomar"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            14612,
+            14618
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.753108,
+      "sentence": "Twenty years earlier in nineteen seventy eight Bomar had been convicted of second degree murder in the vada and was sentenced to life in prison unbelievably he was released on parole after serving only eleven years.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6793,
+            6798
+          ],
+          "text": "Bomar"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6862,
+            6871
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.559815,
+      "sentence": "Twenty years earlier in nineteen seventy eight Bomar had been convicted of second degree murder in the vada and was sentenced to life in prison unbelievably he was released on parole after serving only eleven years.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6903,
+            6905
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6862,
+            6871
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.408172,
+      "sentence": "Twenty years earlier in nineteen seventy eight Bomar had been convicted of second degree murder in the vada and was sentenced to life in prison unbelievably he was released on parole after serving only eleven years.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6883,
+            6889
+          ],
+          "text": "prison"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6862,
+            6871
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.838869,
+      "sentence": "Twenty years earlier in nineteen seventy eight Bomar had been convicted of second degree murder in the vada and was sentenced to life in prison unbelievably he was released on parole after serving only eleven years.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6903,
+            6905
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "released",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            6910,
+            6918
+          ],
+          "text": "released"
+        }
+      ]
+    },
+    {
+      "score": 0.893307,
+      "sentence": "Twenty years earlier in nineteen seventy eight Bomar had been convicted of second degree murder in the vada and was sentenced to life in prison unbelievably he was released on parole after serving only eleven years.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "eleven years",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            6948,
+            6960
+          ],
+          "text": "eleven years"
+        },
+        {
+          "entities": [
+            {
+              "text": "released",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            6910,
+            6918
+          ],
+          "text": "released"
+        }
+      ]
+    },
+    {
+      "score": 0.908368,
+      "sentence": "Where the mentality was and all that by the parole board in the state he came from I really don't know let me tell you something there are people that cannot be reformed and no matter what you do they will not change and Arthur Bomar is one of those people Bomar had a twenty year history of problems with the law including several assaults on young women this is a guy who really hates women and despises them wants to punish them and wants to feel fear and feels that he deserves this.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            7199,
+            7202
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7212,
+            7218
+          ],
+          "text": "people"
+        }
+      ]
+    },
+    {
+      "score": 0.501722,
+      "sentence": "Where the mentality was and all that by the parole board in the state he came from I really don't know let me tell you something there are people that cannot be reformed and no matter what you do they will not change and Arthur Bomar is one of those people Bomar had a twenty year history of problems with the law including several assaults on young women this is a guy who really hates women and despises them wants to punish them and wants to feel fear and feels that he deserves this.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7219,
+            7224
+          ],
+          "text": "Bomar"
+        },
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7212,
+            7218
+          ],
+          "text": "people"
+        }
+      ]
+    },
+    {
+      "score": 0.933388,
+      "sentence": "Where the mentality was and all that by the parole board in the state he came from I really don't know let me tell you something there are people that cannot be reformed and no matter what you do they will not change and Arthur Bomar is one of those people Bomar had a twenty year history of problems with the law including several assaults on young women this is a guy who really hates women and despises them wants to punish them and wants to feel fear and feels that he deserves this.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7219,
+            7224
+          ],
+          "text": "Bomar"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            7231,
+            7237
+          ],
+          "text": "twenty"
+        }
+      ]
+    },
+    {
+      "score": 0.920913,
+      "sentence": "On June twentieth nineteen ninety six at two o'clock in the morning an off duty ambulance crew spotted an abandoned car along the exit ramp the four seventy six.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "crew",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            457,
+            461
+          ],
+          "text": "crew"
+        },
+        {
+          "entities": [
+            {
+              "text": "ambulance",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            447,
+            456
+          ],
+          "text": "ambulance"
+        }
+      ]
+    },
+    {
+      "score": 0.558584,
+      "sentence": "Where the mentality was and all that by the parole board in the state he came from I really don't know let me tell you something there are people that cannot be reformed and no matter what you do they will not change and Arthur Bomar is one of those people Bomar had a twenty year history of problems with the law including several assaults on young women this is a guy who really hates women and despises them wants to punish them and wants to feel fear and feels that he deserves this.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "women",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7312,
+            7317
+          ],
+          "text": "women"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            7231,
+            7237
+          ],
+          "text": "twenty"
+        }
+      ]
+    },
+    {
+      "score": 0.482574,
+      "sentence": "Where the mentality was and all that by the parole board in the state he came from I really don't know let me tell you something there are people that cannot be reformed and no matter what you do they will not change and Arthur Bomar is one of those people Bomar had a twenty year history of problems with the law including several assaults on young women this is a guy who really hates women and despises them wants to punish them and wants to feel fear and feels that he deserves this.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "president",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7332,
+            7335
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7368,
+            7372
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.512068,
+      "sentence": "Investigators learned that the day Amy Willard disappeared Philadelphia police pulled Bomar over for questioning on an unrelated matter.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7555,
+            7561
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "city of Philadelphia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7542,
+            7554
+          ],
+          "text": "Philadelphia"
+        }
+      ]
+    },
+    {
+      "score": 0.747474,
+      "sentence": "Investigators learned that the day Amy Willard disappeared Philadelphia police pulled Bomar over for questioning on an unrelated matter.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7569,
+            7574
+          ],
+          "text": "Bomar"
+        },
+        {
+          "entities": [
+            {
+              "text": "questioning",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7584,
+            7595
+          ],
+          "text": "questioning"
+        }
+      ]
+    },
+    {
+      "score": 0.44848,
+      "sentence": "He had been stopped roughly six blocks away from the scene where her body was found so he was someone that we we certainly wanted to talk to and we were attempting to locate.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7685,
+            7688
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            7673,
+            7678
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.638275,
+      "sentence": "He had been stopped roughly six blocks away from the scene where her body was found so he was someone that we we certainly wanted to talk to and we were attempting to locate.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7727,
+            7729
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "talk",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7753,
+            7757
+          ],
+          "text": "talk"
+        }
+      ]
+    },
+    {
+      "score": 0.504508,
+      "sentence": "Police went to interview Bomar about the Aimee Willard's case but they couldn't find.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7795,
+            7801
+          ],
+          "text": "Police"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            7810,
+            7819
+          ],
+          "text": "interview"
+        }
+      ]
+    },
+    {
+      "score": 0.649336,
+      "sentence": "Police went to interview Bomar about the Aimee Willard's case but they couldn't find.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7820,
+            7825
+          ],
+          "text": "Bomar"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            7810,
+            7819
+          ],
+          "text": "interview"
+        }
+      ]
+    },
+    {
+      "score": 0.849249,
+      "sentence": "Police went to interview Bomar about the Aimee Willard's case but they couldn't find.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7820,
+            7825
+          ],
+          "text": "Bomar"
+        },
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7861,
+            7865
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.893193,
+      "sentence": "Police went to interview Bomar about the Aimee Willard's case but they couldn't find.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Aimee Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7836,
+            7849
+          ],
+          "text": "Aimee Willard"
+        },
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7861,
+            7865
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.680191,
+      "sentence": "There was a tire iron found in front of the car I found some blood in front of the car I found a stone with blood on her for the car and on the guard rail there appeared to be some blood splatter next to the car.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "someone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            757,
+            760
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            769,
+            772
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.532483,
+      "sentence": "A year after Aimee Willard's murder.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Aimee Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7894,
+            7907
+          ],
+          "text": "Aimee Willard"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7910,
+            7916
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.645275,
+      "sentence": "Now more than ever police believe he might have been involved in Aimee Willard's murder.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Aimee Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9425,
+            9438
+          ],
+          "text": "Aimee Willard"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9441,
+            9447
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.857162,
+      "sentence": "Another attempted car jacking in Philadelphia.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            7936,
+            7939
+          ],
+          "text": "car"
+        },
+        {
+          "entities": [
+            {
+              "text": "city of Philadelphia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7951,
+            7963
+          ],
+          "text": "Philadelphia"
+        }
+      ]
+    },
+    {
+      "score": 0.492306,
+      "sentence": "Information provided by the victim identified the culprit as an ex convicts Arthur Bomar but police couldn't find.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Arthur Bomar",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8041,
+            8053
+          ],
+          "text": "Arthur Bomar"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicts",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8032,
+            8040
+          ],
+          "text": "convicts"
+        }
+      ]
+    },
+    {
+      "score": 0.99178,
+      "sentence": "Not long afterwards another woman called police to report a man trying to break into our third floor apartment.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "woman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8108,
+            8113
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8114,
+            8120
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.960674,
+      "sentence": "Not long afterwards another woman called police to report a man trying to break into our third floor apartment.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8121,
+            8127
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8114,
+            8120
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.432388,
+      "sentence": "Not long afterwards another woman called police to report a man trying to break into our third floor apartment.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "president",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8140,
+            8143
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8181,
+            8190
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.497188,
+      "sentence": "Not long afterwards another woman called police to report a man trying to break into our third floor apartment.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8165,
+            8168
+          ],
+          "text": "our"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8181,
+            8190
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.876683,
+      "sentence": "The man was arrested and identified himself as Peter Thomas love.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "president",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8196,
+            8199
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrested",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            8204,
+            8212
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.569307,
+      "sentence": "They determined that there was a Honda nearby they ran that tag and they learned that tag belonged to Arthur Bomar science when nineteen ninety three Ford escort on by Arthur Bomar.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "escort",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8472,
+            8478
+          ],
+          "text": "escort"
+        },
+        {
+          "entities": [
+            {
+              "text": "Ford",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8467,
+            8471
+          ],
+          "text": "Ford"
+        }
+      ]
+    },
+    {
+      "score": 0.614137,
+      "sentence": "The wind was Beaumaris license plate on a Honda and not on his nineteen ninety three Ford escort.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "escort",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8674,
+            8680
+          ],
+          "text": "escort"
+        },
+        {
+          "entities": [
+            {
+              "text": "Ford",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8669,
+            8673
+          ],
+          "text": "Ford"
+        }
+      ]
+    },
+    {
+      "score": 0.612594,
+      "sentence": "Investigators immediately search for bone marsh Ford escort the car he was driving at the time Amy disappeared but they got bad news the car had been involved in an automobile accident a few months after Amy's disappearance so they tracked the towing company and asked where that car was towed to they went to a location and found a car that was the green Ford escort actually sitting in a field next to this tow truck company for almost two years time so it had been there is a potential piece of great evidence that has not had the chance to be forensically analyzed an external examination of the escort showed slight damage to the front bumper.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "escort",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10713,
+            10719
+          ],
+          "text": "escort"
+        },
+        {
+          "entities": [
+            {
+              "text": "Ford",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10708,
+            10712
+          ],
+          "text": "Ford"
+        }
+      ]
+    },
+    {
+      "score": 0.442723,
+      "sentence": "The wind was Beaumaris license plate on a Honda and not on his nineteen ninety three Ford escort.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "president",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8643,
+            8646
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "escort",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8674,
+            8680
+          ],
+          "text": "escort"
+        }
+      ]
+    },
+    {
+      "score": 0.303168,
+      "sentence": "We later had been interpretation done of the blood pattern in front of the car and we learned that it appeared as though someone had been laying on the ground for a brief time in front of the car the crime scene says that this person was violently attacked in a very fast mode meaning that they were hit very quickly as far as the violence was concerned and then they were extricated from that site very quickly this person didn't stay around long.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1045,
+            1048
+          ],
+          "text": "car"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1059,
+            1064
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.58572,
+      "sentence": "It belonged to Maria complainers a twenty five year old woman who had been missing for three months.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Maria",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8739,
+            8744
+          ],
+          "text": "Maria"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            8759,
+            8765
+          ],
+          "text": "twenty"
+        }
+      ]
+    },
+    {
+      "score": 0.497296,
+      "sentence": "Dried blood was found in the trunk on Maria's car which bill Maher was driving.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Maria",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9193,
+            9198
+          ],
+          "text": "Maria"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9201,
+            9204
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.501592,
+      "sentence": "It belonged to Maria complainers a twenty five year old woman who had been missing for three months.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Maria",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8739,
+            8744
+          ],
+          "text": "Maria"
+        },
+        {
+          "entities": [
+            {
+              "text": "five year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            8766,
+            8779
+          ],
+          "text": "five year old"
+        }
+      ]
+    },
+    {
+      "score": 0.405436,
+      "sentence": "It belonged to Maria complainers a twenty five year old woman who had been missing for three months.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Wilder",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8780,
+            8785
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            8759,
+            8765
+          ],
+          "text": "twenty"
+        }
+      ]
+    },
+    {
+      "score": 0.788742,
+      "sentence": "It belonged to Maria complainers a twenty five year old woman who had been missing for three months.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Wilder",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8780,
+            8785
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "five year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            8766,
+            8779
+          ],
+          "text": "five year old"
+        }
+      ]
+    },
+    {
+      "score": 0.638062,
+      "sentence": "Make a point us was a young woman who lived in the city of Philadelphia who was reported missing by her family that she was supposed to appear at work one morning and failed to appear.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Wilder",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8897,
+            8900
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "city of Philadelphia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8876,
+            8896
+          ],
+          "text": "city of Philadelphia"
+        }
+      ]
+    },
+    {
+      "score": 0.794873,
+      "sentence": "Make a point us was a young woman who lived in the city of Philadelphia who was reported missing by her family that she was supposed to appear at work one morning and failed to appear.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Wilder",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8897,
+            8900
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "reported",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8905,
+            8913
+          ],
+          "text": "reported"
+        }
+      ]
+    },
+    {
+      "score": 0.391255,
+      "sentence": "Make a point us was a young woman who lived in the city of Philadelphia who was reported missing by her family that she was supposed to appear at work one morning and failed to appear.",
+      "type": "relative",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Wilder",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8925,
+            8928
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8929,
+            8935
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.37594,
+      "sentence": "Investigators believe that complainers was abducted while driving on route four seventy six the same highway work Amy Willard had been attacked.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9124,
+            9135
+          ],
+          "text": "Amy Willard"
+        },
+        {
+          "entities": [
+            {
+              "text": "highway",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9111,
+            9118
+          ],
+          "text": "highway"
+        }
+      ]
+    },
+    {
+      "score": 0.43618,
+      "sentence": "Investigators believe that complainers was abducted while driving on route four seventy six the same highway work Amy Willard had been attacked.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "highway",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9111,
+            9118
+          ],
+          "text": "highway"
+        },
+        {
+          "entities": [
+            {
+              "text": "violence",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            9145,
+            9153
+          ],
+          "text": "attacked"
+        }
+      ]
+    },
+    {
+      "score": 0.594266,
+      "sentence": "Investigators believe that complainers was abducted while driving on route four seventy six the same highway work Amy Willard had been attacked.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy Willard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9124,
+            9135
+          ],
+          "text": "Amy Willard"
+        },
+        {
+          "entities": [
+            {
+              "text": "violence",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            9145,
+            9153
+          ],
+          "text": "attacked"
+        }
+      ]
+    }
+  ]
+}

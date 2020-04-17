@@ -1,0 +1,5757 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 15393,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "John",
+      "relevance": 0.962622,
+      "confidence": 1,
+      "count": 32
+    },
+    {
+      "type": "Person",
+      "text": "Bender",
+      "relevance": 0.686893,
+      "confidence": 1,
+      "count": 11
+    },
+    {
+      "type": "Person",
+      "text": "Frank Bender",
+      "relevance": 0.579852,
+      "confidence": 1,
+      "count": 6,
+      "disambiguation": {
+        "name": "Frank_Bender",
+        "dbpedia_resource": "http://dbpedia.org/resource/Frank_Bender",
+        "subtype": [
+          "FilmCinematographer",
+          "VisualArtist"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "John email",
+      "relevance": 0.470248,
+      "confidence": 0.818058,
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "FBI",
+      "relevance": 0.365628,
+      "confidence": 1,
+      "count": 4,
+      "disambiguation": {
+        "name": "Federal_Bureau_of_Investigation",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation",
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Helen",
+      "relevance": 0.362947,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "America",
+      "relevance": 0.347199,
+      "confidence": 1,
+      "count": 8,
+      "disambiguation": {
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "one month",
+      "relevance": 0.336751,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "forty six year",
+      "relevance": 0.325189,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "sixteen year",
+      "relevance": 0.322927,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "fifteen year",
+      "relevance": 0.322428,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "thirteen year",
+      "relevance": 0.321919,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Freddie John",
+      "relevance": 0.321582,
+      "confidence": 0.939237,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eighty four year",
+      "relevance": 0.294027,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "JFK airport",
+      "relevance": 0.266075,
+      "confidence": 0.645318,
+      "count": 1,
+      "disambiguation": {
+        "name": "John_F._Kennedy_International_Airport",
+        "dbpedia_resource": "http://dbpedia.org/resource/John_F._Kennedy_International_Airport",
+        "subtype": [
+          "Location",
+          "Airport",
+          "TransportTerminus"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "eighteen years",
+      "relevance": 0.265133,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "two decades",
+      "relevance": 0.225094,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "scar",
+      "relevance": 0.209926,
+      "confidence": 0.999875,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "ology",
+      "relevance": 0.204071,
+      "confidence": 0.678827,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "buster Bender",
+      "relevance": 0.188492,
+      "confidence": 0.696593,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Frank benders",
+      "relevance": 0.18253,
+      "confidence": 0.847237,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Westfield",
+      "relevance": 0.171835,
+      "confidence": 0.999062,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Richard Walter",
+      "relevance": 0.16639,
+      "confidence": 0.98896,
+      "count": 1,
+      "disambiguation": {
+        "name": "Richard_Walter",
+        "dbpedia_resource": "http://dbpedia.org/resource/Richard_Walter"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "H. Bender",
+      "relevance": 0.164635,
+      "confidence": 0.698306,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "alma",
+      "relevance": 0.157276,
+      "confidence": 0.835389,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Richard Walters",
+      "relevance": 0.152111,
+      "confidence": 0.999995,
+      "count": 2,
+      "disambiguation": {
+        "name": "Slick_Rick",
+        "dbpedia_resource": "http://dbpedia.org/resource/Slick_Rick",
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember",
+          "TVActor"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty years",
+      "relevance": 0.151734,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Patricia",
+      "relevance": 0.146803,
+      "confidence": 0.964966,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Frank",
+      "relevance": 0.133209,
+      "confidence": 0.999997,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "New Jersey",
+      "relevance": 0.126486,
+      "confidence": 0.982832,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Lutheran church",
+      "relevance": 0.117238,
+      "confidence": 0.956401,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Bob Clark",
+      "relevance": 0.116129,
+      "confidence": 0.99989,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Jon",
+      "relevance": 0.115541,
+      "confidence": 0.996655,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Erica",
+      "relevance": 0.113635,
+      "confidence": 0.999793,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Flannery",
+      "relevance": 0.112753,
+      "confidence": 0.999355,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "two days",
+      "relevance": 0.110259,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Midwest",
+      "relevance": 0.108167,
+      "confidence": 0.989322,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Walter",
+      "relevance": 0.107775,
+      "confidence": 0.999999,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "John list",
+      "relevance": 0.106156,
+      "confidence": 0.51867,
+      "count": 1,
+      "disambiguation": {
+        "name": "John_List",
+        "dbpedia_resource": "http://dbpedia.org/resource/John_List",
+        "subtype": [
+          "MilitaryPerson"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "Eighteen years",
+      "relevance": 0.098556,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bob Bob Clark",
+      "relevance": 0.097177,
+      "confidence": 0.880236,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Alabama",
+      "relevance": 0.09713,
+      "confidence": 0.963959,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Denver",
+      "relevance": 0.096606,
+      "confidence": 0.999999,
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "Twenty years",
+      "relevance": 0.095495,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Robert Peter Clarke",
+      "relevance": 0.091916,
+      "confidence": 0.998781,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Robert Pete Clark",
+      "relevance": 0.087387,
+      "confidence": 0.987678,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bobby discard",
+      "relevance": 0.086931,
+      "confidence": 0.576275,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Richmond",
+      "relevance": 0.085093,
+      "confidence": 0.999985,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Dennis",
+      "relevance": 0.08449,
+      "confidence": 0.991874,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "New York",
+      "relevance": 0.078018,
+      "confidence": 0.997083,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eight years",
+      "relevance": 0.077169,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Colorado",
+      "relevance": 0.076204,
+      "confidence": 0.999999,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Mr Clark",
+      "relevance": 0.060573,
+      "confidence": 0.685703,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Stage",
+      "relevance": 0.057471,
+      "confidence": 0.53005,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Richard",
+      "relevance": 0.049587,
+      "confidence": 0.998899,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Blass",
+      "relevance": 0.045846,
+      "confidence": 0.995474,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one hundred percent",
+      "relevance": 0.042079,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Virginia",
+      "relevance": 0.041876,
+      "confidence": 0.998039,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Wanda Flannery",
+      "relevance": 0.038338,
+      "confidence": 0.999912,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "John Lewis",
+      "relevance": 0.038172,
+      "confidence": 0.614346,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Delores Miller",
+      "relevance": 0.036636,
+      "confidence": 0.99911,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bob",
+      "relevance": 0.033012,
+      "confidence": 0.986917,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dan",
+      "relevance": 0.032818,
+      "confidence": 0.942757,
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "The New York Times",
+      "relevance": 0.031071,
+      "confidence": 0.779694,
+      "count": 1,
+      "disambiguation": {
+        "name": "The_New_York_Times",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_New_York_Times",
+        "subtype": [
+          "Organization",
+          "Company",
+          "AwardPresentingOrganization",
+          "AwardWinner",
+          "CompanyShareholder",
+          "Newspaper"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Clyde",
+      "relevance": 0.019087,
+      "confidence": 0.606446,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Robert",
+      "relevance": 0.012787,
+      "confidence": 0.995901,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "cancer",
+      "relevance": 0.010363,
+      "confidence": 0.981459,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.95388
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.82785
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.766132
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.652639
+    },
+    {
+      "label": "/art and entertainment/shows and events",
+      "score": 0.639304
+    },
+    {
+      "label": "/law, govt and politics/law enforcement",
+      "score": 0.605726
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.679711,
+      "sentence": "For eighteen years a mass murderer successfully eluded the FBI.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "murderer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            26,
+            34
+          ],
+          "text": "murderer"
+        },
+        {
+          "entities": [
+            {
+              "text": "FBI",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            59,
+            62
+          ],
+          "text": "FBI"
+        }
+      ]
+    },
+    {
+      "score": 0.425196,
+      "sentence": "He and his wife Helen have been married for almost twenty years they had three children sixteen year old Patricia fifteen year old John and thirteen year old Freddie John lists elderly mother alma also lived with the family in our own separate apartment on the third floor.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "alma",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            502,
+            506
+          ],
+          "text": "alma"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            527,
+            533
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.324695,
+      "sentence": "But placed his wife's body on a sleeping bag and drag it to the ballroom.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Helen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13079,
+            13083
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13086,
+            13090
+          ],
+          "text": "body"
+        }
+      ]
+    },
+    {
+      "score": 0.493013,
+      "sentence": "Later that afternoon as the children arrived home he murdered each one.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "afternoon",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            13149,
+            13158
+          ],
+          "text": "afternoon"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13191,
+            13199
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.356634,
+      "sentence": "Later that afternoon as the children arrived home he murdered each one.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13166,
+            13174
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13183,
+            13187
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.633878,
+      "sentence": "He dragged the children's bodies to the ballroom lined them up on sleeping bags next to their mother and cleaned up more black.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13210,
+            13212
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "ballroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13250,
+            13258
+          ],
+          "text": "ballroom"
+        }
+      ]
+    },
+    {
+      "score": 0.337488,
+      "sentence": "He dragged the children's bodies to the ballroom lined them up on sleeping bags next to their mother and cleaned up more black.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bodies",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13236,
+            13242
+          ],
+          "text": "bodies"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13225,
+            13233
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.652353,
+      "sentence": "He dragged the children's bodies to the ballroom lined them up on sleeping bags next to their mother and cleaned up more black.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13225,
+            13233
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "ballroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13250,
+            13258
+          ],
+          "text": "ballroom"
+        }
+      ]
+    },
+    {
+      "score": 0.872149,
+      "sentence": "He dragged the children's bodies to the ballroom lined them up on sleeping bags next to their mother and cleaned up more black.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bodies",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13236,
+            13242
+          ],
+          "text": "bodies"
+        },
+        {
+          "entities": [
+            {
+              "text": "ballroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13250,
+            13258
+          ],
+          "text": "ballroom"
+        }
+      ]
+    },
+    {
+      "score": 0.814691,
+      "sentence": "He dragged the children's bodies to the ballroom lined them up on sleeping bags next to their mother and cleaned up more black.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13304,
+            13310
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13298,
+            13303
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.523102,
+      "sentence": "Then wrote the letter to his pastor confessing to the murders.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "pastor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13452,
+            13458
+          ],
+          "text": "pastor"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13428,
+            13433
+          ],
+          "text": "wrote"
+        }
+      ]
+    },
+    {
+      "score": 0.488307,
+      "sentence": "Then wrote the letter to his pastor confessing to the murders.",
+      "type": "clientOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13448,
+            13451
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "pastor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13452,
+            13458
+          ],
+          "text": "pastor"
+        }
+      ]
+    },
+    {
+      "score": 0.43259,
+      "sentence": "He and his wife Helen have been married for almost twenty years they had three children sixteen year old Patricia fifteen year old John and thirteen year old Freddie John lists elderly mother alma also lived with the family in our own separate apartment on the third floor.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            537,
+            540
+          ],
+          "text": "our"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            554,
+            563
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.697168,
+      "sentence": "He lowered the thermostat to slow the body's decomposition turned on the radio to a classical music station and began his life as a fugitive.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13524,
+            13528
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "station",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13586,
+            13593
+          ],
+          "text": "station"
+        }
+      ]
+    },
+    {
+      "score": 0.555618,
+      "sentence": "Before the bodies were even discovered list made his way to Denver Clyde for new social security number as Robert.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bodies",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13639,
+            13645
+          ],
+          "text": "bodies"
+        },
+        {
+          "entities": [
+            {
+              "text": "Denver Clyde",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13688,
+            13700
+          ],
+          "text": "Denver Clyde"
+        }
+      ]
+    },
+    {
+      "score": 0.429167,
+      "sentence": "Before the bodies were even discovered list made his way to Denver Clyde for new social security number as Robert.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13677,
+            13680
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Denver Clyde",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13688,
+            13700
+          ],
+          "text": "Denver Clyde"
+        }
+      ]
+    },
+    {
+      "score": 0.498587,
+      "sentence": "In time he made friends with his neighbor Wanda Flannery rejoined the Lutheran church and married one this friend Delores Miller his new wife never suspected a thing this told her his first wife died of cancer and that he had no children I do not believe it I I love my husband very deeply I do not believe this is the same man the couple eventually moved back east to the Richmond Virginia area where list found an accounting job Richard Walters psychological profile accurately predicted almost every aspect of John lists flight from justice what was he doing when they caught him he was a CPA he was still a volunteer in the Lutheran church of god the kills his own mother killed his own wife and three kids is still volunteering and Lutheran church still the same creature that was killed.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Delores Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13857,
+            13871
+          ],
+          "text": "Delores Miller"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            13946,
+            13952
+          ],
+          "text": "cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.929086,
+      "sentence": "In time he made friends with his neighbor Wanda Flannery rejoined the Lutheran church and married one this friend Delores Miller his new wife never suspected a thing this told her his first wife died of cancer and that he had no children I do not believe it I I love my husband very deeply I do not believe this is the same man the couple eventually moved back east to the Richmond Virginia area where list found an accounting job Richard Walters psychological profile accurately predicted almost every aspect of John lists flight from justice what was he doing when they caught him he was a CPA he was still a volunteer in the Lutheran church of god the kills his own mother killed his own wife and three kids is still volunteering and Lutheran church still the same creature that was killed.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Helen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13880,
+            13884
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13914,
+            13918
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.86945,
+      "sentence": "In time he made friends with his neighbor Wanda Flannery rejoined the Lutheran church and married one this friend Delores Miller his new wife never suspected a thing this told her his first wife died of cancer and that he had no children I do not believe it I I love my husband very deeply I do not believe this is the same man the couple eventually moved back east to the Richmond Virginia area where list found an accounting job Richard Walters psychological profile accurately predicted almost every aspect of John lists flight from justice what was he doing when they caught him he was a CPA he was still a volunteer in the Lutheran church of god the kills his own mother killed his own wife and three kids is still volunteering and Lutheran church still the same creature that was killed.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wanda Flannery",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13919,
+            13922
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13914,
+            13918
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.664036,
+      "sentence": "In time he made friends with his neighbor Wanda Flannery rejoined the Lutheran church and married one this friend Delores Miller his new wife never suspected a thing this told her his first wife died of cancer and that he had no children I do not believe it I I love my husband very deeply I do not believe this is the same man the couple eventually moved back east to the Richmond Virginia area where list found an accounting job Richard Walters psychological profile accurately predicted almost every aspect of John lists flight from justice what was he doing when they caught him he was a CPA he was still a volunteer in the Lutheran church of god the kills his own mother killed his own wife and three kids is still volunteering and Lutheran church still the same creature that was killed.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Helen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13933,
+            13937
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            13946,
+            13952
+          ],
+          "text": "cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.469798,
+      "sentence": "In time he made friends with his neighbor Wanda Flannery rejoined the Lutheran church and married one this friend Delores Miller his new wife never suspected a thing this told her his first wife died of cancer and that he had no children I do not believe it I I love my husband very deeply I do not believe this is the same man the couple eventually moved back east to the Richmond Virginia area where list found an accounting job Richard Walters psychological profile accurately predicted almost every aspect of John lists flight from justice what was he doing when they caught him he was a CPA he was still a volunteer in the Lutheran church of god the kills his own mother killed his own wife and three kids is still volunteering and Lutheran church still the same creature that was killed.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13972,
+            13980
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            13946,
+            13952
+          ],
+          "text": "cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.752249,
+      "sentence": "In time he made friends with his neighbor Wanda Flannery rejoined the Lutheran church and married one this friend Delores Miller his new wife never suspected a thing this told her his first wife died of cancer and that he had no children I do not believe it I I love my husband very deeply I do not believe this is the same man the couple eventually moved back east to the Richmond Virginia area where list found an accounting job Richard Walters psychological profile accurately predicted almost every aspect of John lists flight from justice what was he doing when they caught him he was a CPA he was still a volunteer in the Lutheran church of god the kills his own mother killed his own wife and three kids is still volunteering and Lutheran church still the same creature that was killed.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14010,
+            14012
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14013,
+            14020
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.7409,
+      "sentence": "In time he made friends with his neighbor Wanda Flannery rejoined the Lutheran church and married one this friend Delores Miller his new wife never suspected a thing this told her his first wife died of cancer and that he had no children I do not believe it I I love my husband very deeply I do not believe this is the same man the couple eventually moved back east to the Richmond Virginia area where list found an accounting job Richard Walters psychological profile accurately predicted almost every aspect of John lists flight from justice what was he doing when they caught him he was a CPA he was still a volunteer in the Lutheran church of god the kills his own mother killed his own wife and three kids is still volunteering and Lutheran church still the same creature that was killed.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "area",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            14134,
+            14138
+          ],
+          "text": "area"
+        },
+        {
+          "entities": [
+            {
+              "text": "Richmond Virginia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14116,
+            14133
+          ],
+          "text": "Richmond Virginia"
+        }
+      ]
+    },
+    {
+      "score": 0.772452,
+      "sentence": "He and his wife Helen have been married for almost twenty years they had three children sixteen year old Patricia fifteen year old John and thirteen year old Freddie John lists elderly mother alma also lived with the family in our own separate apartment on the third floor.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            554,
+            563
+          ],
+          "text": "apartment"
+        },
+        {
+          "entities": [
+            {
+              "text": "floor",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            577,
+            582
+          ],
+          "text": "floor"
+        }
+      ]
+    },
+    {
+      "score": 0.916824,
+      "sentence": "In time he made friends with his neighbor Wanda Flannery rejoined the Lutheran church and married one this friend Delores Miller his new wife never suspected a thing this told her his first wife died of cancer and that he had no children I do not believe it I I love my husband very deeply I do not believe this is the same man the couple eventually moved back east to the Richmond Virginia area where list found an accounting job Richard Walters psychological profile accurately predicted almost every aspect of John lists flight from justice what was he doing when they caught him he was a CPA he was still a volunteer in the Lutheran church of god the kills his own mother killed his own wife and three kids is still volunteering and Lutheran church still the same creature that was killed.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14256,
+            14260
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "lists",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14261,
+            14266
+          ],
+          "text": "lists"
+        }
+      ]
+    },
+    {
+      "score": 0.661415,
+      "sentence": "A jury found John list guilty of five counts of first degree murder.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14620,
+            14624
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "counts",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14645,
+            14651
+          ],
+          "text": "counts"
+        }
+      ]
+    },
+    {
+      "score": 0.873471,
+      "sentence": "And sentenced him to life in prison John in the list will be eternally synonymous with concepts of selfishness horror indeed he is a man who could clearly calculating the and cunningly conceive and carry out currently planned to assassinate each of his three children.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14690,
+            14693
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14680,
+            14689
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.571998,
+      "sentence": "And sentenced him to life in prison John in the list will be eternally synonymous with concepts of selfishness horror indeed he is a man who could clearly calculating the and cunningly conceive and carry out currently planned to assassinate each of his three children.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14690,
+            14693
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14705,
+            14711
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.405807,
+      "sentence": "And sentenced him to life in prison John in the list will be eternally synonymous with concepts of selfishness horror indeed he is a man who could clearly calculating the and cunningly conceive and carry out currently planned to assassinate each of his three children.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14712,
+            14716
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14705,
+            14711
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.384102,
+      "sentence": "And sentenced him to life in prison John in the list will be eternally synonymous with concepts of selfishness horror indeed he is a man who could clearly calculating the and cunningly conceive and carry out currently planned to assassinate each of his three children.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14925,
+            14928
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14935,
+            14943
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.966875,
+      "sentence": "I was just thrilled that the merger then between psychology and sculpture worked it was an invaluable tool in making a determination of how the guy would probably look and it was it was just on candy as to how close the sculpture was to the actual man I really paid attention to I think as much information as I had about John listen what he was told what he was about I truly believe it wasn't for Frank Bender journalists would still be at large.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15284,
+            15286
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            15291,
+            15295
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.272438,
+      "sentence": "As children attended local schools and we're all active and popular.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            587,
+            595
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "schools",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            611,
+            618
+          ],
+          "text": "schools"
+        }
+      ]
+    },
+    {
+      "score": 0.330289,
+      "sentence": "John list was a devout Lutheran and taught Sunday school in the fall of nineteen seventy one the list house stood empty the family was away visiting a sick relative but when a month went by with no signs of activity neighbours grew suspicious and decided to call the police they felt that something was wrong they asked us to check the house which we did when police arrived they entered the house through an unlocked window the house was cold and there were no signs of activity they heard music like a funeral dirge type music there was very disturbing to the officers who were in there the police also noticed the faint smell of decomposing flesh they found the source in the ball room.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            653,
+            657
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lutheran",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            676,
+            684
+          ],
+          "text": "Lutheran"
+        }
+      ]
+    },
+    {
+      "score": 0.981072,
+      "sentence": "John list was a devout Lutheran and taught Sunday school in the fall of nineteen seventy one the list house stood empty the family was away visiting a sick relative but when a month went by with no signs of activity neighbours grew suspicious and decided to call the police they felt that something was wrong they asked us to check the house which we did when police arrived they entered the house through an unlocked window the house was cold and there were no signs of activity they heard music like a funeral dirge type music there was very disturbing to the officers who were in there the police also noticed the faint smell of decomposing flesh they found the source in the ball room.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            962,
+            966
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            967,
+            972
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.768578,
+      "sentence": "John list was a devout Lutheran and taught Sunday school in the fall of nineteen seventy one the list house stood empty the family was away visiting a sick relative but when a month went by with no signs of activity neighbours grew suspicious and decided to call the police they felt that something was wrong they asked us to check the house which we did when police arrived they entered the house through an unlocked window the house was cold and there were no signs of activity they heard music like a funeral dirge type music there was very disturbing to the officers who were in there the police also noticed the faint smell of decomposing flesh they found the source in the ball room.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            973,
+            975
+          ],
+          "text": "us"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            967,
+            972
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.374973,
+      "sentence": "John list was a devout Lutheran and taught Sunday school in the fall of nineteen seventy one the list house stood empty the family was away visiting a sick relative but when a month went by with no signs of activity neighbours grew suspicious and decided to call the police they felt that something was wrong they asked us to check the house which we did when police arrived they entered the house through an unlocked window the house was cold and there were no signs of activity they heard music like a funeral dirge type music there was very disturbing to the officers who were in there the police also noticed the faint smell of decomposing flesh they found the source in the ball room.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1224,
+            1227
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1246,
+            1252
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.433329,
+      "sentence": "The victims were identified as Helen list and her three children.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Helen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1468,
+            1471
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1478,
+            1486
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.822429,
+      "sentence": "Police noticed a blood trail on the floor indicating that Helen and the children were shot in the kitchen then dragged into the ballroom in the kitchen police found bags full of blood soaked paper towels and the bloody mob evidence that the color green dot after the murders.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Helen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1589,
+            1594
+          ],
+          "text": "Helen"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            1617,
+            1621
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.838951,
+      "sentence": "There is on the third floor they made another chilling discovery of fifty body eighty four year old L. my last she had been shot in the head.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Helen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1918,
+            1921
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            1931,
+            1935
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.820282,
+      "sentence": "He was wanted for the murder of his entire family.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "murderer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            64,
+            66
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            86,
+            92
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.636962,
+      "sentence": "Police noticed a blood trail on the floor indicating that Helen and the children were shot in the kitchen then dragged into the ballroom in the kitchen police found bags full of blood soaked paper towels and the bloody mob evidence that the color green dot after the murders.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1603,
+            1611
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            1617,
+            1621
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.654457,
+      "sentence": "Later that afternoon as the children arrived home he murdered each one.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13166,
+            13174
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13191,
+            13199
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.465152,
+      "sentence": "Police noticed a blood trail on the floor indicating that Helen and the children were shot in the kitchen then dragged into the ballroom in the kitchen police found bags full of blood soaked paper towels and the bloody mob evidence that the color green dot after the murders.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1603,
+            1611
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "kitchen",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1629,
+            1636
+          ],
+          "text": "kitchen"
+        }
+      ]
+    },
+    {
+      "score": 0.658391,
+      "sentence": "Police noticed a blood trail on the floor indicating that Helen and the children were shot in the kitchen then dragged into the ballroom in the kitchen police found bags full of blood soaked paper towels and the bloody mob evidence that the color green dot after the murders.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            1617,
+            1621
+          ],
+          "text": "shot"
+        },
+        {
+          "entities": [
+            {
+              "text": "kitchen",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1629,
+            1636
+          ],
+          "text": "kitchen"
+        }
+      ]
+    },
+    {
+      "score": 0.8038,
+      "sentence": "Police noticed a blood trail on the floor indicating that Helen and the children were shot in the kitchen then dragged into the ballroom in the kitchen police found bags full of blood soaked paper towels and the bloody mob evidence that the color green dot after the murders.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "ballroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1659,
+            1667
+          ],
+          "text": "ballroom"
+        },
+        {
+          "entities": [
+            {
+              "text": "kitchen",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1675,
+            1682
+          ],
+          "text": "kitchen"
+        }
+      ]
+    },
+    {
+      "score": 0.393303,
+      "sentence": "There is on the third floor they made another chilling discovery of fifty body eighty four year old L. my last she had been shot in the head.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "murders",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1835,
+            1839
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "floor",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1829,
+            1834
+          ],
+          "text": "floor"
+        }
+      ]
+    },
+    {
+      "score": 0.537286,
+      "sentence": "In a letter addressed to the pastor of the local church the list family attended I know that what is being done is wrong.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "pastor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1978,
+            1984
+          ],
+          "text": "pastor"
+        },
+        {
+          "entities": [
+            {
+              "text": "addressed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1961,
+            1970
+          ],
+          "text": "addressed"
+        }
+      ]
+    },
+    {
+      "score": 0.425033,
+      "sentence": "In a letter addressed to the pastor of the local church the list family attended I know that what is being done is wrong.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "pastor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1978,
+            1984
+          ],
+          "text": "pastor"
+        },
+        {
+          "entities": [
+            {
+              "text": "schools",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1998,
+            2004
+          ],
+          "text": "church"
+        }
+      ]
+    },
+    {
+      "score": 0.160023,
+      "sentence": "In a letter addressed to the pastor of the local church the list family attended I know that what is being done is wrong.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2014,
+            2020
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "schools",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1998,
+            2004
+          ],
+          "text": "church"
+        }
+      ]
+    },
+    {
+      "score": 0.439681,
+      "sentence": "I'M sure many will say how can anyone do such a horrible thing.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "anyone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2102,
+            2108
+          ],
+          "text": "anyone"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2090,
+            2093
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.346098,
+      "sentence": "List had recently lost a lucrative banking job was having money problems and feared his family would have to go on welfare.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jon",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2302,
+            2305
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2306,
+            2312
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.324431,
+      "sentence": "And they had other concerns as a devout Christian list feared his family was turning away from the Christian life and would eventually stopped going to church he disapproved of his daughter's growing interest in an acting career a profession he considered to be tomorrow in the mind of John list there was only one place he could send his family to save their souls the storms on the ground.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jon",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2404,
+            2407
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2408,
+            2414
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.493175,
+      "sentence": "He was wanted for the murder of his entire family.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            107,
+            113
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            86,
+            92
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.567622,
+      "sentence": "Police issued a nationwide murder warrant for the arrest of John email list he was wanted for the murder of his entire family.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3653,
+            3659
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            3632,
+            3638
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.480506,
+      "sentence": "The lord is my shepherd I shall not the Lutheran church had been the focus of young John's life he was an only child and the son of an overly protective domineering mother list had a master's degree in accounting but lacked social skills and had a history of losing jobs the psychological profile revealed a man who killed out of anger and retaliation because of his own failure the perpetrator has a history of frustration and feeling entrapped by women generally women of their own age group are older are women in the three RD the psychological profile helped reinforce Bender's vision of the aging fugitive I had his mouth going down on the corners because of anxiety that I felt he carried with him from committing these crimes and Richard brought out that it wasn't guilt from killing his family.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9145,
+            9151
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9076,
+            9082
+          ],
+          "text": "crimes"
+        }
+      ]
+    },
+    {
+      "score": 0.634877,
+      "sentence": "For nearly twenty years after the brutal murder of his entire family.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14599,
+            14605
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            14578,
+            14584
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.87386,
+      "sentence": "And they had other concerns as a devout Christian list feared his family was turning away from the Christian life and would eventually stopped going to church he disapproved of his daughter's growing interest in an acting career a profession he considered to be tomorrow in the mind of John list there was only one place he could send his family to save their souls the storms on the ground.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jon",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2519,
+            2522
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2523,
+            2531
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.280587,
+      "sentence": "And they had other concerns as a devout Christian list feared his family was turning away from the Christian life and would eventually stopped going to church he disapproved of his daughter's growing interest in an acting career a profession he considered to be tomorrow in the mind of John list there was only one place he could send his family to save their souls the storms on the ground.",
+      "type": "relative",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jon",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2677,
+            2680
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2681,
+            2687
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.644127,
+      "sentence": "And they had other concerns as a devout Christian list feared his family was turning away from the Christian life and would eventually stopped going to church he disapproved of his daughter's growing interest in an acting career a profession he considered to be tomorrow in the mind of John list there was only one place he could send his family to save their souls the storms on the ground.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2681,
+            2687
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "storms",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            2712,
+            2718
+          ],
+          "text": "storms"
+        }
+      ]
+    },
+    {
+      "score": 0.470747,
+      "sentence": "That it took longer for his oldest son John to die.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jon",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2807,
+            2810
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2818,
+            2821
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.997605,
+      "sentence": "John lists confession also describe his last moments alone with his family at sixty first with a more from him.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2957,
+            2961
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "lists",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2962,
+            2967
+          ],
+          "text": "lists"
+        }
+      ]
+    },
+    {
+      "score": 0.637609,
+      "sentence": "John lists confession also describe his last moments alone with his family at sixty first with a more from him.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "describe",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2984,
+            2992
+          ],
+          "text": "describe"
+        },
+        {
+          "entities": [
+            {
+              "text": "lists",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2962,
+            2967
+          ],
+          "text": "lists"
+        }
+      ]
+    },
+    {
+      "score": 0.458174,
+      "sentence": "John lists confession also describe his last moments alone with his family at sixty first with a more from him.",
+      "type": "relative",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3021,
+            3024
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3025,
+            3031
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.299556,
+      "sentence": "The lord is my shepherd I shall not the Lutheran church had been the focus of young John's life he was an only child and the son of an overly protective domineering mother list had a master's degree in accounting but lacked social skills and had a history of losing jobs the psychological profile revealed a man who killed out of anger and retaliation because of his own failure the perpetrator has a history of frustration and feeling entrapped by women generally women of their own age group are older are women in the three RD the psychological profile helped reinforce Bender's vision of the aging fugitive I had his mouth going down on the corners because of anxiety that I felt he carried with him from committing these crimes and Richard brought out that it wasn't guilt from killing his family.",
+      "type": "relative",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9141,
+            9144
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9145,
+            9151
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.320154,
+      "sentence": "I said they guarantee that was it thank god he was amazing John list wore the same style glasses the Frank Bender had used on the forensic bust Frank Bender it was one hundred percent right the picture of John list when he was captured was put next to the picture of that bust on the front page of The New York Times John list had the same exact Blass's on that Frank Bender had put on the forensic bust it was on candy was almost as though the person who did the bust had actually been looking at John Lewis twenty did hi John lists trial the story unfolding of how the mild mannered church going accountant meticulously planned the brutal execution of his entire family listed lost his job buckling under the strain of mounting bills and the perceived moral decay of his family John list made a",
+      "type": "relative",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12546,
+            12549
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12557,
+            12563
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.949878,
+      "sentence": "When news of the murders broke neighbors told police that the mild mannered accountant was an odd reclusive man with very few friends two days after the bodies were discovered police found lists abandoned car in the parking lot at JFK airport in New York the date on the parking voucher was November tenth but there was no evidence listed taken a flight but police mu where ever list was he had a one month head start.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "neighbors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3100,
+            3109
+          ],
+          "text": "neighbors"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3110,
+            3114
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.967047,
+      "sentence": "When news of the murders broke neighbors told police that the mild mannered accountant was an odd reclusive man with very few friends two days after the bodies were discovered police found lists abandoned car in the parking lot at JFK airport in New York the date on the parking voucher was November tenth but there was no evidence listed taken a flight but police mu where ever list was he had a one month head start.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3115,
+            3121
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3110,
+            3114
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.891938,
+      "sentence": "When news of the murders broke neighbors told police that the mild mannered accountant was an odd reclusive man with very few friends two days after the bodies were discovered police found lists abandoned car in the parking lot at JFK airport in New York the date on the parking voucher was November tenth but there was no evidence listed taken a flight but police mu where ever list was he had a one month head start.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            3274,
+            3277
+          ],
+          "text": "car"
+        },
+        {
+          "entities": [
+            {
+              "text": "parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3285,
+            3296
+          ],
+          "text": "parking lot"
+        }
+      ]
+    },
+    {
+      "score": 0.365337,
+      "sentence": "He was wanted for the murder of his entire family.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "murderer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            96,
+            99
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            107,
+            113
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.800469,
+      "sentence": "When news of the murders broke neighbors told police that the mild mannered accountant was an odd reclusive man with very few friends two days after the bodies were discovered police found lists abandoned car in the parking lot at JFK airport in New York the date on the parking voucher was November tenth but there was no evidence listed taken a flight but police mu where ever list was he had a one month head start.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3285,
+            3296
+          ],
+          "text": "parking lot"
+        },
+        {
+          "entities": [
+            {
+              "text": "New York",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3315,
+            3323
+          ],
+          "text": "New York"
+        }
+      ]
+    },
+    {
+      "score": 0.743262,
+      "sentence": "When news of the murders broke neighbors told police that the mild mannered accountant was an odd reclusive man with very few friends two days after the bodies were discovered police found lists abandoned car in the parking lot at JFK airport in New York the date on the parking voucher was November tenth but there was no evidence listed taken a flight but police mu where ever list was he had a one month head start.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "JFK airport",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3300,
+            3311
+          ],
+          "text": "JFK airport"
+        },
+        {
+          "entities": [
+            {
+              "text": "New York",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3315,
+            3323
+          ],
+          "text": "New York"
+        }
+      ]
+    },
+    {
+      "score": 0.984136,
+      "sentence": "Police issued a nationwide murder warrant for the arrest of John email list he was wanted for the murder of his entire family.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3534,
+            3540
+          ],
+          "text": "Police"
+        },
+        {
+          "entities": [
+            {
+              "text": "issued",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3541,
+            3547
+          ],
+          "text": "issued"
+        }
+      ]
+    },
+    {
+      "score": 0.80822,
+      "sentence": "Police issued a nationwide murder warrant for the arrest of John email list he was wanted for the murder of his entire family.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3594,
+            3598
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrest",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            3584,
+            3590
+          ],
+          "text": "arrest"
+        }
+      ]
+    },
+    {
+      "score": 0.678953,
+      "sentence": "Police issued a nationwide murder warrant for the arrest of John email list he was wanted for the murder of his entire family.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3610,
+            3612
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            3632,
+            3638
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.52998,
+      "sentence": "Police issued a nationwide murder warrant for the arrest of John email list he was wanted for the murder of his entire family.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3642,
+            3645
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            3632,
+            3638
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.954205,
+      "sentence": "He shot his wife in the head at point blank range.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12903,
+            12905
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12906,
+            12910
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.914494,
+      "sentence": "Later that afternoon as the children arrived home he murdered each one.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13188,
+            13190
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13191,
+            13199
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.920903,
+      "sentence": "A jury found John list guilty of five counts of first degree murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14620,
+            14624
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            14668,
+            14674
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.334287,
+      "sentence": "Police issued a nationwide murder warrant for the arrest of John email list he was wanted for the murder of his entire family.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3642,
+            3645
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3653,
+            3659
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.372106,
+      "sentence": "It was a high priority case it was sent to every FBI field office every post office and two other law enforcement agencies across the country ballistics report confirmed that the two guns found in John list desk with the weapons used to kill his family autopsies revealed that the victims had been shot in the head.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3903,
+            3906
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3907,
+            3913
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.490753,
+      "sentence": "In time he made friends with his neighbor Wanda Flannery rejoined the Lutheran church and married one this friend Delores Miller his new wife never suspected a thing this told her his first wife died of cancer and that he had no children I do not believe it I I love my husband very deeply I do not believe this is the same man the couple eventually moved back east to the Richmond Virginia area where list found an accounting job Richard Walters psychological profile accurately predicted almost every aspect of John lists flight from justice what was he doing when they caught him he was a CPA he was still a volunteer in the Lutheran church of god the kills his own mother killed his own wife and three kids is still volunteering and Lutheran church still the same creature that was killed.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14067,
+            14070
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14075,
+            14081
+          ],
+          "text": "couple"
+        }
+      ]
+    },
+    {
+      "score": 0.319256,
+      "sentence": "For nearly twenty years after the brutal murder of his entire family.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14588,
+            14591
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14599,
+            14605
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.536109,
+      "sentence": "It was a high priority case it was sent to every FBI field office every post office and two other law enforcement agencies across the country ballistics report confirmed that the two guns found in John list desk with the weapons used to kill his family autopsies revealed that the victims had been shot in the head.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "agencies",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3775,
+            3783
+          ],
+          "text": "agencies"
+        },
+        {
+          "entities": [
+            {
+              "text": "America",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3795,
+            3802
+          ],
+          "text": "country"
+        }
+      ]
+    },
+    {
+      "score": 0.500717,
+      "sentence": "It was a high priority case it was sent to every FBI field office every post office and two other law enforcement agencies across the country ballistics report confirmed that the two guns found in John list desk with the weapons used to kill his family autopsies revealed that the victims had been shot in the head.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3907,
+            3913
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            3898,
+            3902
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.788603,
+      "sentence": "It was a high priority case it was sent to every FBI field office every post office and two other law enforcement agencies across the country ballistics report confirmed that the two guns found in John list desk with the weapons used to kill his family autopsies revealed that the victims had been shot in the head.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victims",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3942,
+            3949
+          ],
+          "text": "victims"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            3959,
+            3963
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.258906,
+      "sentence": "Where was John list dear admin two schools of thought one was that he had committed suicide after recommending the homicides and the other was that he's living somewhere out around the Midwest once in awhile you get a citing a list citing you get a report that they saw a guy in you know Alabama who look like John this because the FBI kept you know information John email list with a little different teas for eighteen frustrating years despite efforts by investigators to keep the murder case alive through the media.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "homicides",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4167,
+            4176
+          ],
+          "text": "homicides"
+        },
+        {
+          "entities": [
+            {
+              "text": "suicide",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            4136,
+            4143
+          ],
+          "text": "suicide"
+        }
+      ]
+    },
+    {
+      "score": 0.757283,
+      "sentence": "The list family lived in this large Victorian home in the quiet affluent town of Westfield New Jersey John list the forty six year old accountant.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            172,
+            178
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "station",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            209,
+            213
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.430988,
+      "sentence": "Where was John list dear admin two schools of thought one was that he had committed suicide after recommending the homicides and the other was that he's living somewhere out around the Midwest once in awhile you get a citing a list citing you get a report that they saw a guy in you know Alabama who look like John this because the FBI kept you know information John email list with a little different teas for eighteen frustrating years despite efforts by investigators to keep the murder case alive through the media.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "citing",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4270,
+            4276
+          ],
+          "text": "citing"
+        },
+        {
+          "entities": [
+            {
+              "text": "Midwest",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4237,
+            4244
+          ],
+          "text": "Midwest"
+        }
+      ]
+    },
+    {
+      "score": 0.580688,
+      "sentence": "Where was John list dear admin two schools of thought one was that he had committed suicide after recommending the homicides and the other was that he's living somewhere out around the Midwest once in awhile you get a citing a list citing you get a report that they saw a guy in you know Alabama who look like John this because the FBI kept you know information John email list with a little different teas for eighteen frustrating years despite efforts by investigators to keep the murder case alive through the media.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4260,
+            4263
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "citing",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4270,
+            4276
+          ],
+          "text": "citing"
+        }
+      ]
+    },
+    {
+      "score": 0.891646,
+      "sentence": "All the newspapers and we would insist that they keep it alive on the fifth anniversary of sixth anniversary the fifteenth anniversary we capitalized then detectives had an idea tonight.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4595,
+            4597
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "insist",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4604,
+            4610
+          ],
+          "text": "insist"
+        }
+      ]
+    },
+    {
+      "score": 0.685391,
+      "sentence": "Erica'S most wanted the television show America's most wanted has led to the capture of some of the F. B. I.'s most celebrated fugitives by generating phone tips from viewers one night watching TV we watched America's most wanted and I thought this might be a very interesting case and on the take on if we were successful in getting the the worst case aired someone out there would recognize him and would make that telephone call detectives convinced America's most wanted to do an episode on the John list mergers despite the fact that the case was almost two decades old I said this is a guy I'd like to see caught and we decided to do a journalist but there was a problem.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4993,
+            4994
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            5036,
+            5040
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.502967,
+      "sentence": "Erica'S most wanted the television show America's most wanted has led to the capture of some of the F. B. I.'s most celebrated fugitives by generating phone tips from viewers one night watching TV we watched America's most wanted and I thought this might be a very interesting case and on the take on if we were successful in getting the the worst case aired someone out there would recognize him and would make that telephone call detectives convinced America's most wanted to do an episode on the John list mergers despite the fact that the case was almost two decades old I said this is a guy I'd like to see caught and we decided to do a journalist but there was a problem.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5258,
+            5262
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            5302,
+            5306
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.994717,
+      "sentence": "Erica'S most wanted the television show America's most wanted has led to the capture of some of the F. B. I.'s most celebrated fugitives by generating phone tips from viewers one night watching TV we watched America's most wanted and I thought this might be a very interesting case and on the take on if we were successful in getting the the worst case aired someone out there would recognize him and would make that telephone call detectives convinced America's most wanted to do an episode on the John list mergers despite the fact that the case was almost two decades old I said this is a guy I'd like to see caught and we decided to do a journalist but there was a problem.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5334,
+            5335
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "addressed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5336,
+            5340
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.929759,
+      "sentence": "Twenty years later the journalist murder case would now enter the highly specialized world of forensic sculpting I had been involved in the battle for missing children's rights for years since the murder my son in nineteen eighty one and I had come across Frank Bender over the years as a renowned forensic reconstruction artist forensic sculptor Frank Bender reconstructs faces to help police track down aging fugitives or identify decomposed bodies part art part science part intuition this is the scope of an unidentified individual police found in the field to make an identification they would need to see her face I work with physical anthropologist I work with that odontology just friends of Dennis in other words I. path ology this detective who's when going from skull to face Bender refers to special charts that measure facial tissue thickness based on race age and gender using these",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "journalist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5626,
+            5636
+          ],
+          "text": "journalist"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5637,
+            5643
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.747985,
+      "sentence": "Twenty years later the journalist murder case would now enter the highly specialized world of forensic sculpting I had been involved in the battle for missing children's rights for years since the murder my son in nineteen eighty one and I had come across Frank Bender over the years as a renowned forensic reconstruction artist forensic sculptor Frank Bender reconstructs faces to help police track down aging fugitives or identify decomposed bodies part art part science part intuition this is the scope of an unidentified individual police found in the field to make an identification they would need to see her face I work with physical anthropologist I work with that odontology just friends of Dennis in other words I. path ology this detective who's when going from skull to face Bender refers to special charts that measure facial tissue thickness based on race age and gender using these",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "journalist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5626,
+            5636
+          ],
+          "text": "journalist"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            5644,
+            5648
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.743616,
+      "sentence": "Twenty years later the journalist murder case would now enter the highly specialized world of forensic sculpting I had been involved in the battle for missing children's rights for years since the murder my son in nineteen eighty one and I had come across Frank Bender over the years as a renowned forensic reconstruction artist forensic sculptor Frank Bender reconstructs faces to help police track down aging fugitives or identify decomposed bodies part art part science part intuition this is the scope of an unidentified individual police found in the field to make an identification they would need to see her face I work with physical anthropologist I work with that odontology just friends of Dennis in other words I. path ology this detective who's when going from skull to face Bender refers to special charts that measure facial tissue thickness based on race age and gender using these",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Erica",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5807,
+            5809
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5810,
+            5813
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.434215,
+      "sentence": "But now the applied to the living and aging mass murder America's most wanted ask Frank.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7182,
+            7188
+          ],
+          "text": "murder"
+        },
+        {
+          "entities": [
+            {
+              "text": "America",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7189,
+            7196
+          ],
+          "text": "America"
+        }
+      ]
+    },
+    {
+      "score": 0.606113,
+      "sentence": "But now the applied to the living and aging mass murder America's most wanted ask Frank.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Frank benders buster Bender",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7215,
+            7220
+          ],
+          "text": "Frank"
+        },
+        {
+          "entities": [
+            {
+              "text": "ask",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7211,
+            7214
+          ],
+          "text": "ask"
+        }
+      ]
+    },
+    {
+      "score": 0.672762,
+      "sentence": "The list family lived in this large Victorian home in the quiet affluent town of Westfield New Jersey John list the forty six year old accountant.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "station",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            209,
+            213
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "Westfield New Jersey",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            236,
+            240
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.503201,
+      "sentence": "The list family lived in this large Victorian home in the quiet affluent town of Westfield New Jersey John list the forty six year old accountant.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "station",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            209,
+            213
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "Westfield New Jersey",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            244,
+            264
+          ],
+          "text": "Westfield New Jersey"
+        }
+      ]
+    },
+    {
+      "score": 0.772675,
+      "sentence": "This is John list in nineteen seventy one Frank benders job was to figure out what he would look like eighteen years later all he had to work with with some old photographs computers can age your face but benders old fashioned hands on technique gives the forensic bust a personal touch a lot of these computers nowadays we'll just add like five wrinkles because R. eight years older well sometimes you could actually look better after a few years if you had to carry yourself to look at John list the individual Bender needed a psychological profile of the killer I get into the head of the person in the sense I want to become that person while I'm working on the fugitive I wanna feel like that person I want to know everything about that person he called on the help of forensic psychologist Richard Walter together",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Frank benders buster Bender",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7821,
+            7827
+          ],
+          "text": "Bender"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            7866,
+            7872
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.563583,
+      "sentence": "This is John list in nineteen seventy one Frank benders job was to figure out what he would look like eighteen years later all he had to work with with some old photographs computers can age your face but benders old fashioned hands on technique gives the forensic bust a personal touch a lot of these computers nowadays we'll just add like five wrinkles because R. eight years older well sometimes you could actually look better after a few years if you had to carry yourself to look at John list the individual Bender needed a psychological profile of the killer I get into the head of the person in the sense I want to become that person while I'm working on the fugitive I wanna feel like that person I want to know everything about that person he called on the help of forensic psychologist Richard Walter together",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7873,
+            7874
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            7866,
+            7872
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.993342,
+      "sentence": "This is John list in nineteen seventy one Frank benders job was to figure out what he would look like eighteen years later all he had to work with with some old photographs computers can age your face but benders old fashioned hands on technique gives the forensic bust a personal touch a lot of these computers nowadays we'll just add like five wrinkles because R. eight years older well sometimes you could actually look better after a few years if you had to carry yourself to look at John list the individual Bender needed a psychological profile of the killer I get into the head of the person in the sense I want to become that person while I'm working on the fugitive I wanna feel like that person I want to know everything about that person he called on the help of forensic psychologist Richard Walter together",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8057,
+            8059
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "called on",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8060,
+            8069
+          ],
+          "text": "called on"
+        }
+      ]
+    },
+    {
+      "score": 0.87342,
+      "sentence": "If you know anything about John last call the night America's most wanted revealed the forensic boss John last won the Flannery and her daughter were watching from their home in Denver Colorado.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10618,
+            10622
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "called on",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10628,
+            10632
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.610656,
+      "sentence": "This is John list in nineteen seventy one Frank benders job was to figure out what he would look like eighteen years later all he had to work with with some old photographs computers can age your face but benders old fashioned hands on technique gives the forensic bust a personal touch a lot of these computers nowadays we'll just add like five wrinkles because R. eight years older well sometimes you could actually look better after a few years if you had to carry yourself to look at John list the individual Bender needed a psychological profile of the killer I get into the head of the person in the sense I want to become that person while I'm working on the fugitive I wanna feel like that person I want to know everything about that person he called on the help of forensic psychologist Richard Walter together",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Walters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8082,
+            8103
+          ],
+          "text": "forensic psychologist"
+        },
+        {
+          "entities": [
+            {
+              "text": "called on",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8060,
+            8069
+          ],
+          "text": "called on"
+        }
+      ]
+    },
+    {
+      "score": 0.975533,
+      "sentence": "sculptor and psychologist would predict how John list would H. Bender and water poured over newspaper articles and photographs to analyze the man behind the murders they researched his strict upbringing by German parents.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8341,
+            8348
+          ],
+          "text": "parents"
+        },
+        {
+          "entities": [
+            {
+              "text": "German",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8334,
+            8340
+          ],
+          "text": "German"
+        }
+      ]
+    },
+    {
+      "score": 0.922915,
+      "sentence": "The lord is my shepherd I shall not the Lutheran church had been the focus of young John's life he was an only child and the son of an overly protective domineering mother list had a master's degree in accounting but lacked social skills and had a history of losing jobs the psychological profile revealed a man who killed out of anger and retaliation because of his own failure the perpetrator has a history of frustration and feeling entrapped by women generally women of their own age group are older are women in the three RD the psychological profile helped reinforce Bender's vision of the aging fugitive I had his mouth going down on the corners because of anxiety that I felt he carried with him from committing these crimes and Richard brought out that it wasn't guilt from killing his family.",
+      "type": "affiliatedWith",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "schools",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8399,
+            8405
+          ],
+          "text": "church"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lutheran",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8390,
+            8398
+          ],
+          "text": "Lutheran"
+        }
+      ]
+    },
+    {
+      "score": 0.754968,
+      "sentence": "In time he made friends with his neighbor Wanda Flannery rejoined the Lutheran church and married one this friend Delores Miller his new wife never suspected a thing this told her his first wife died of cancer and that he had no children I do not believe it I I love my husband very deeply I do not believe this is the same man the couple eventually moved back east to the Richmond Virginia area where list found an accounting job Richard Walters psychological profile accurately predicted almost every aspect of John lists flight from justice what was he doing when they caught him he was a CPA he was still a volunteer in the Lutheran church of god the kills his own mother killed his own wife and three kids is still volunteering and Lutheran church still the same creature that was killed.",
+      "type": "affiliatedWith",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "schools",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13822,
+            13828
+          ],
+          "text": "church"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lutheran",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13813,
+            13821
+          ],
+          "text": "Lutheran"
+        }
+      ]
+    },
+    {
+      "score": 0.724782,
+      "sentence": "In time he made friends with his neighbor Wanda Flannery rejoined the Lutheran church and married one this friend Delores Miller his new wife never suspected a thing this told her his first wife died of cancer and that he had no children I do not believe it I I love my husband very deeply I do not believe this is the same man the couple eventually moved back east to the Richmond Virginia area where list found an accounting job Richard Walters psychological profile accurately predicted almost every aspect of John lists flight from justice what was he doing when they caught him he was a CPA he was still a volunteer in the Lutheran church of god the kills his own mother killed his own wife and three kids is still volunteering and Lutheran church still the same creature that was killed.",
+      "type": "affiliatedWith",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "schools",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14380,
+            14386
+          ],
+          "text": "church"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lutheran",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14371,
+            14379
+          ],
+          "text": "Lutheran"
+        }
+      ]
+    },
+    {
+      "score": 0.767691,
+      "sentence": "In time he made friends with his neighbor Wanda Flannery rejoined the Lutheran church and married one this friend Delores Miller his new wife never suspected a thing this told her his first wife died of cancer and that he had no children I do not believe it I I love my husband very deeply I do not believe this is the same man the couple eventually moved back east to the Richmond Virginia area where list found an accounting job Richard Walters psychological profile accurately predicted almost every aspect of John lists flight from justice what was he doing when they caught him he was a CPA he was still a volunteer in the Lutheran church of god the kills his own mother killed his own wife and three kids is still volunteering and Lutheran church still the same creature that was killed.",
+      "type": "affiliatedWith",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "schools",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14489,
+            14495
+          ],
+          "text": "church"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lutheran",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14480,
+            14488
+          ],
+          "text": "Lutheran"
+        }
+      ]
+    },
+    {
+      "score": 0.767945,
+      "sentence": "The lord is my shepherd I shall not the Lutheran church had been the focus of young John's life he was an only child and the son of an overly protective domineering mother list had a master's degree in accounting but lacked social skills and had a history of losing jobs the psychological profile revealed a man who killed out of anger and retaliation because of his own failure the perpetrator has a history of frustration and feeling entrapped by women generally women of their own age group are older are women in the three RD the psychological profile helped reinforce Bender's vision of the aging fugitive I had his mouth going down on the corners because of anxiety that I felt he carried with him from committing these crimes and Richard brought out that it wasn't guilt from killing his family.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8475,
+            8478
+          ],
+          "text": "son"
+        },
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8515,
+            8521
+          ],
+          "text": "mother"
+        }
+      ]
+    },
+    {
+      "score": 0.502325,
+      "sentence": "In time he made friends with his neighbor Wanda Flannery rejoined the Lutheran church and married one this friend Delores Miller his new wife never suspected a thing this told her his first wife died of cancer and that he had no children I do not believe it I I love my husband very deeply I do not believe this is the same man the couple eventually moved back east to the Richmond Virginia area where list found an accounting job Richard Walters psychological profile accurately predicted almost every aspect of John lists flight from justice what was he doing when they caught him he was a CPA he was still a volunteer in the Lutheran church of god the kills his own mother killed his own wife and three kids is still volunteering and Lutheran church still the same creature that was killed.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14404,
+            14407
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14412,
+            14418
+          ],
+          "text": "mother"
+        }
+      ]
+    },
+    {
+      "score": 0.571357,
+      "sentence": "The lord is my shepherd I shall not the Lutheran church had been the focus of young John's life he was an only child and the son of an overly protective domineering mother list had a master's degree in accounting but lacked social skills and had a history of losing jobs the psychological profile revealed a man who killed out of anger and retaliation because of his own failure the perpetrator has a history of frustration and feeling entrapped by women generally women of their own age group are older are women in the three RD the psychological profile helped reinforce Bender's vision of the aging fugitive I had his mouth going down on the corners because of anxiety that I felt he carried with him from committing these crimes and Richard brought out that it wasn't guilt from killing his family.",
+      "type": "memberOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "women",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8815,
+            8820
+          ],
+          "text": "women"
+        },
+        {
+          "entities": [
+            {
+              "text": "group",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8838,
+            8843
+          ],
+          "text": "group"
+        }
+      ]
+    },
+    {
+      "score": 0.882845,
+      "sentence": "But the anxiety and the fear of being caught Bender also took into account genetics he looked at photographs of John lists parents and added sagging jowls and a receding hairline to the blast list had a surgical scar behind his right ear and Bender researched how the scar would look as he aged.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9265,
+            9269
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "lists",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9270,
+            9275
+          ],
+          "text": "lists"
+        }
+      ]
+    },
+    {
+      "score": 0.884541,
+      "sentence": "But the anxiety and the fear of being caught Bender also took into account genetics he looked at photographs of John lists parents and added sagging jowls and a receding hairline to the blast list had a surgical scar behind his right ear and Bender researched how the scar would look as he aged.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9276,
+            9283
+          ],
+          "text": "parents"
+        },
+        {
+          "entities": [
+            {
+              "text": "lists",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9270,
+            9275
+          ],
+          "text": "lists"
+        }
+      ]
+    },
+    {
+      "score": 0.351521,
+      "sentence": "The list family lived in this large Victorian home in the quiet affluent town of Westfield New Jersey John list the forty six year old accountant.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            265,
+            269
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "Westfield New Jersey",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            244,
+            264
+          ],
+          "text": "Westfield New Jersey"
+        }
+      ]
+    },
+    {
+      "score": 0.610927,
+      "sentence": "On Sunday night may twenty first nineteen eighty nine America's most wanted airs right after so dollar on the list murder I'm just saying.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sunday night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            10430,
+            10442
+          ],
+          "text": "Sunday night"
+        },
+        {
+          "entities": [
+            {
+              "text": "saying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10558,
+            10564
+          ],
+          "text": "saying"
+        }
+      ]
+    },
+    {
+      "score": 0.652913,
+      "sentence": "On Sunday night may twenty first nineteen eighty nine America's most wanted airs right after so dollar on the list murder I'm just saying.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Frank benders buster Bender",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10549,
+            10550
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10542,
+            10548
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.95965,
+      "sentence": "On Sunday night may twenty first nineteen eighty nine America's most wanted airs right after so dollar on the list murder I'm just saying.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Frank benders buster Bender",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10549,
+            10550
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "saying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10558,
+            10564
+          ],
+          "text": "saying"
+        }
+      ]
+    },
+    {
+      "score": 0.743471,
+      "sentence": "If you know anything about John last call the night America's most wanted revealed the forensic boss John last won the Flannery and her daughter were watching from their home in Denver Colorado.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            10637,
+            10642
+          ],
+          "text": "night"
+        },
+        {
+          "entities": [
+            {
+              "text": "called on",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10628,
+            10632
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.65543,
+      "sentence": "If you know anything about John last call the night America's most wanted revealed the forensic boss John last won the Flannery and her daughter were watching from their home in Denver Colorado.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10692,
+            10696
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "won",
+              "type": "EntertainmentAward"
+            }
+          ],
+          "location": [
+            10702,
+            10705
+          ],
+          "text": "won"
+        }
+      ]
+    },
+    {
+      "score": 0.881007,
+      "sentence": "If you know anything about John last call the night America's most wanted revealed the forensic boss John last won the Flannery and her daughter were watching from their home in Denver Colorado.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10692,
+            10696
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10755,
+            10760
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.652969,
+      "sentence": "If you know anything about John last call the night America's most wanted revealed the forensic boss John last won the Flannery and her daughter were watching from their home in Denver Colorado.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10723,
+            10726
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10727,
+            10735
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.816128,
+      "sentence": "If you know anything about John last call the night America's most wanted revealed the forensic boss John last won the Flannery and her daughter were watching from their home in Denver Colorado.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10727,
+            10735
+          ],
+          "text": "daughter"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10755,
+            10760
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.349007,
+      "sentence": "If you know anything about John last call the night America's most wanted revealed the forensic boss John last won the Flannery and her daughter were watching from their home in Denver Colorado.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10755,
+            10760
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10761,
+            10765
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.953978,
+      "sentence": "If you know anything about John last call the night America's most wanted revealed the forensic boss John last won the Flannery and her daughter were watching from their home in Denver Colorado.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10761,
+            10765
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "Denver Colorado",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10769,
+            10784
+          ],
+          "text": "Denver Colorado"
+        }
+      ]
+    },
+    {
+      "score": 0.726152,
+      "sentence": "He and his wife Helen have been married for almost twenty years they had three children sixteen year old Patricia fifteen year old John and thirteen year old Freddie John lists elderly mother alma also lived with the family in our own separate apartment on the third floor.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "murderer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            317,
+            320
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Helen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            321,
+            325
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.337028,
+      "sentence": "And the clincher for me was the classes and the gels reset home thank god that that's Bob Bob Clark Bob is John list.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11176,
+            11178
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11214,
+            11218
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.992583,
+      "sentence": "We'Ve got to we've got to call wonder Flannery told the FBI that her former neighbor recently moved to Richmond Virginia and was using the name Bob Clark the F. B. I. close Dan and agents arrested Robert Peter Clarke at the accounting office where he worked in Richmond I approached him and I asked him I said are you Mr Clark and he said yes and then I said are you John list.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wanda Flannery",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11311,
+            11319
+          ],
+          "text": "Flannery"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11320,
+            11324
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.984959,
+      "sentence": "We'Ve got to we've got to call wonder Flannery told the FBI that her former neighbor recently moved to Richmond Virginia and was using the name Bob Clark the F. B. I. close Dan and agents arrested Robert Peter Clarke at the accounting office where he worked in Richmond I approached him and I asked him I said are you Mr Clark and he said yes and then I said are you John list.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wanda Flannery",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11576,
+            11577
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11578,
+            11582
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.978438,
+      "sentence": "We'Ve got to we've got to call wonder Flannery told the FBI that her former neighbor recently moved to Richmond Virginia and was using the name Bob Clark the F. B. I. close Dan and agents arrested Robert Peter Clarke at the accounting office where he worked in Richmond I approached him and I asked him I said are you Mr Clark and he said yes and then I said are you John list.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wanda Flannery",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11625,
+            11626
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11627,
+            11631
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.984912,
+      "sentence": "I said they guarantee that was it thank god he was amazing John list wore the same style glasses the Frank Bender had used on the forensic bust Frank Bender it was one hundred percent right the picture of John list when he was captured was put next to the picture of that bust on the front page of The New York Times John list had the same exact Blass's on that Frank Bender had put on the forensic bust it was on candy was almost as though the person who did the bust had actually been looking at John Lewis twenty did hi John lists trial the story unfolding of how the mild mannered church going accountant meticulously planned the brutal execution of his entire family listed lost his job buckling under the strain of mounting bills and the perceived moral decay of his family John list made a",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wanda Flannery",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11892,
+            11893
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11894,
+            11898
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.982057,
+      "sentence": "We'Ve got to we've got to call wonder Flannery told the FBI that her former neighbor recently moved to Richmond Virginia and was using the name Bob Clark the F. B. I. close Dan and agents arrested Robert Peter Clarke at the accounting office where he worked in Richmond I approached him and I asked him I said are you Mr Clark and he said yes and then I said are you John list.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "FBI",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11329,
+            11332
+          ],
+          "text": "FBI"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11320,
+            11324
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.449062,
+      "sentence": "We'Ve got to we've got to call wonder Flannery told the FBI that her former neighbor recently moved to Richmond Virginia and was using the name Bob Clark the F. B. I. close Dan and agents arrested Robert Peter Clarke at the accounting office where he worked in Richmond I approached him and I asked him I said are you Mr Clark and he said yes and then I said are you John list.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11349,
+            11357
+          ],
+          "text": "neighbor"
+        },
+        {
+          "entities": [
+            {
+              "text": "Richmond Virginia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11376,
+            11393
+          ],
+          "text": "Richmond Virginia"
+        }
+      ]
+    },
+    {
+      "score": 0.661728,
+      "sentence": "We'Ve got to we've got to call wonder Flannery told the FBI that her former neighbor recently moved to Richmond Virginia and was using the name Bob Clark the F. B. I. close Dan and agents arrested Robert Peter Clarke at the accounting office where he worked in Richmond I approached him and I asked him I said are you Mr Clark and he said yes and then I said are you John list.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bob Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11417,
+            11426
+          ],
+          "text": "Bob Clark"
+        },
+        {
+          "entities": [
+            {
+              "text": "F. B. I.",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11431,
+            11439
+          ],
+          "text": "F. B. I."
+        }
+      ]
+    },
+    {
+      "score": 0.734908,
+      "sentence": "We'Ve got to we've got to call wonder Flannery told the FBI that her former neighbor recently moved to Richmond Virginia and was using the name Bob Clark the F. B. I. close Dan and agents arrested Robert Peter Clarke at the accounting office where he worked in Richmond I approached him and I asked him I said are you Mr Clark and he said yes and then I said are you John list.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "agents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11454,
+            11460
+          ],
+          "text": "agents"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrest",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            11461,
+            11469
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.966833,
+      "sentence": "We'Ve got to we've got to call wonder Flannery told the FBI that her former neighbor recently moved to Richmond Virginia and was using the name Bob Clark the F. B. I. close Dan and agents arrested Robert Peter Clarke at the accounting office where he worked in Richmond I approached him and I asked him I said are you Mr Clark and he said yes and then I said are you John list.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Peter Clarke",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11470,
+            11489
+          ],
+          "text": "Robert Peter Clarke"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrest",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            11461,
+            11469
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.5311,
+      "sentence": "We'Ve got to we've got to call wonder Flannery told the FBI that her former neighbor recently moved to Richmond Virginia and was using the name Bob Clark the F. B. I. close Dan and agents arrested Robert Peter Clarke at the accounting office where he worked in Richmond I approached him and I asked him I said are you Mr Clark and he said yes and then I said are you John list.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Peter Clarke",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11521,
+            11523
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "Richmond Virginia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11534,
+            11542
+          ],
+          "text": "Richmond"
+        }
+      ]
+    },
+    {
+      "score": 0.997854,
+      "sentence": "We'Ve got to we've got to call wonder Flannery told the FBI that her former neighbor recently moved to Richmond Virginia and was using the name Bob Clark the F. B. I. close Dan and agents arrested Robert Peter Clarke at the accounting office where he worked in Richmond I approached him and I asked him I said are you Mr Clark and he said yes and then I said are you John list.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wanda Flannery",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11564,
+            11565
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11566,
+            11571
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.825679,
+      "sentence": "We'Ve got to we've got to call wonder Flannery told the FBI that her former neighbor recently moved to Richmond Virginia and was using the name Bob Clark the F. B. I. close Dan and agents arrested Robert Peter Clarke at the accounting office where he worked in Richmond I approached him and I asked him I said are you Mr Clark and he said yes and then I said are you John list.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11572,
+            11575
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11566,
+            11571
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.988033,
+      "sentence": "He and his wife Helen have been married for almost twenty years they had three children sixteen year old Patricia fifteen year old John and thirteen year old Freddie John lists elderly mother alma also lived with the family in our own separate apartment on the third floor.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            468,
+            480
+          ],
+          "text": "Freddie John"
+        },
+        {
+          "entities": [
+            {
+              "text": "lists",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            481,
+            486
+          ],
+          "text": "lists"
+        }
+      ]
+    },
+    {
+      "score": 0.996938,
+      "sentence": "We'Ve got to we've got to call wonder Flannery told the FBI that her former neighbor recently moved to Richmond Virginia and was using the name Bob Clark the F. B. I. close Dan and agents arrested Robert Peter Clarke at the accounting office where he worked in Richmond I approached him and I asked him I said are you Mr Clark and he said yes and then I said are you John list.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bob Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11604,
+            11606
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11607,
+            11611
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.991909,
+      "sentence": "And he says no I'm Robert Pete Clark but Bobby discard behind his right ear and a fingerprint check match prints on the gun permit application John list had filled out one month before the murders.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bob Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11655,
+            11657
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11658,
+            11662
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.502461,
+      "sentence": "I said they guarantee that was it thank god he was amazing John list wore the same style glasses the Frank Bender had used on the forensic bust Frank Bender it was one hundred percent right the picture of John list when he was captured was put next to the picture of that bust on the front page of The New York Times John list had the same exact Blass's on that Frank Bender had put on the forensic bust it was on candy was almost as though the person who did the bust had actually been looking at John Lewis twenty did hi John lists trial the story unfolding of how the mild mannered church going accountant meticulously planned the brutal execution of his entire family listed lost his job buckling under the strain of mounting bills and the perceived moral decay of his family John list made a",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11899,
+            11903
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11894,
+            11898
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.756042,
+      "sentence": "I said they guarantee that was it thank god he was amazing John list wore the same style glasses the Frank Bender had used on the forensic bust Frank Bender it was one hundred percent right the picture of John list when he was captured was put next to the picture of that bust on the front page of The New York Times John list had the same exact Blass's on that Frank Bender had put on the forensic bust it was on candy was almost as though the person who did the bust had actually been looking at John Lewis twenty did hi John lists trial the story unfolding of how the mild mannered church going accountant meticulously planned the brutal execution of his entire family listed lost his job buckling under the strain of mounting bills and the perceived moral decay of his family John list made a",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Frank benders buster Bender",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12112,
+            12114
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "captured",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            12119,
+            12127
+          ],
+          "text": "captured"
+        }
+      ]
+    },
+    {
+      "score": 0.985307,
+      "sentence": "I said they guarantee that was it thank god he was amazing John list wore the same style glasses the Frank Bender had used on the forensic bust Frank Bender it was one hundred percent right the picture of John list when he was captured was put next to the picture of that bust on the front page of The New York Times John list had the same exact Blass's on that Frank Bender had put on the forensic bust it was on candy was almost as though the person who did the bust had actually been looking at John Lewis twenty did hi John lists trial the story unfolding of how the mild mannered church going accountant meticulously planned the brutal execution of his entire family listed lost his job buckling under the strain of mounting bills and the perceived moral decay of his family John list made a",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hi John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12412,
+            12419
+          ],
+          "text": "hi John"
+        },
+        {
+          "entities": [
+            {
+              "text": "lists",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12420,
+            12425
+          ],
+          "text": "lists"
+        }
+      ]
+    },
+    {
+      "score": 0.423041,
+      "sentence": "I said they guarantee that was it thank god he was amazing John list wore the same style glasses the Frank Bender had used on the forensic bust Frank Bender it was one hundred percent right the picture of John list when he was captured was put next to the picture of that bust on the front page of The New York Times John list had the same exact Blass's on that Frank Bender had put on the forensic bust it was on candy was almost as though the person who did the bust had actually been looking at John Lewis twenty did hi John lists trial the story unfolding of how the mild mannered church going accountant meticulously planned the brutal execution of his entire family listed lost his job buckling under the strain of mounting bills and the perceived moral decay of his family John list made a",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Frank benders buster Bender",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12661,
+            12664
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12665,
+            12671
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.419945,
+      "sentence": "He shot his wife in the head at point blank range.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Helen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12915,
+            12919
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12906,
+            12910
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.78421,
+      "sentence": "He shot his wife in the head at point blank range.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12911,
+            12914
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Helen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12915,
+            12919
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.770811,
+      "sentence": "But placed his wife's body on a sleeping bag and drag it to the ballroom.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13075,
+            13078
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Helen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13079,
+            13083
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.541411,
+      "sentence": "In time he made friends with his neighbor Wanda Flannery rejoined the Lutheran church and married one this friend Delores Miller his new wife never suspected a thing this told her his first wife died of cancer and that he had no children I do not believe it I I love my husband very deeply I do not believe this is the same man the couple eventually moved back east to the Richmond Virginia area where list found an accounting job Richard Walters psychological profile accurately predicted almost every aspect of John lists flight from justice what was he doing when they caught him he was a CPA he was still a volunteer in the Lutheran church of god the kills his own mother killed his own wife and three kids is still volunteering and Lutheran church still the same creature that was killed.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13872,
+            13875
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Helen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13880,
+            13884
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.670808,
+      "sentence": "In time he made friends with his neighbor Wanda Flannery rejoined the Lutheran church and married one this friend Delores Miller his new wife never suspected a thing this told her his first wife died of cancer and that he had no children I do not believe it I I love my husband very deeply I do not believe this is the same man the couple eventually moved back east to the Richmond Virginia area where list found an accounting job Richard Walters psychological profile accurately predicted almost every aspect of John lists flight from justice what was he doing when they caught him he was a CPA he was still a volunteer in the Lutheran church of god the kills his own mother killed his own wife and three kids is still volunteering and Lutheran church still the same creature that was killed.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13923,
+            13926
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Helen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13933,
+            13937
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.466141,
+      "sentence": "In time he made friends with his neighbor Wanda Flannery rejoined the Lutheran church and married one this friend Delores Miller his new wife never suspected a thing this told her his first wife died of cancer and that he had no children I do not believe it I I love my husband very deeply I do not believe this is the same man the couple eventually moved back east to the Richmond Virginia area where list found an accounting job Richard Walters psychological profile accurately predicted almost every aspect of John lists flight from justice what was he doing when they caught him he was a CPA he was still a volunteer in the Lutheran church of god the kills his own mother killed his own wife and three kids is still volunteering and Lutheran church still the same creature that was killed.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14426,
+            14429
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Helen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14434,
+            14438
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.797287,
+      "sentence": "He then climbed two flights of stairs and entered his mother's apartment.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13008,
+            13014
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13004,
+            13007
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.55543,
+      "sentence": "He left his mother's body upstairs.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13040,
+            13046
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13036,
+            13039
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.697669,
+      "sentence": "He then climbed two flights of stairs and entered his mother's apartment.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13008,
+            13014
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13017,
+            13026
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.946985,
+      "sentence": "He left his mother's body upstairs.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Freddie John",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13028,
+            13030
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "left",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            13031,
+            13035
+          ],
+          "text": "left"
+        }
+      ]
+    }
+  ]
+}

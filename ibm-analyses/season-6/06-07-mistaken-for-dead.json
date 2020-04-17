@@ -1,0 +1,6436 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 14641,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jean Hanson",
+      "relevance": 0.957148,
+      "confidence": 1,
+      "count": 21
+    },
+    {
+      "type": "Person",
+      "text": "Dr Boggs",
+      "relevance": 0.595472,
+      "confidence": 1,
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "John Hawkins",
+      "relevance": 0.472266,
+      "confidence": 1,
+      "count": 16
+    },
+    {
+      "type": "Person",
+      "text": "Hanson",
+      "relevance": 0.345337,
+      "confidence": 1,
+      "count": 11
+    },
+    {
+      "type": "Person",
+      "text": "Boggs",
+      "relevance": 0.314016,
+      "confidence": 0.999999,
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "Dr Richard Boggs",
+      "relevance": 0.306149,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Alice green",
+      "relevance": 0.240592,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "lieutenant Perkins",
+      "relevance": 0.175136,
+      "confidence": 0.955365,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "California",
+      "relevance": 0.154656,
+      "confidence": 1,
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Dr bugs",
+      "relevance": 0.142659,
+      "confidence": 0.624002,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "forty two year",
+      "relevance": 0.142328,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Ohio",
+      "relevance": 0.140936,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "James Lowry",
+      "relevance": 0.139808,
+      "confidence": 0.978637,
+      "count": 1,
+      "disambiguation": {
+        "name": "James_Lowry%2C_Jr.",
+        "dbpedia_resource": "http://dbpedia.org/resource/James_Lowry%2C_Jr."
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Hollywood",
+      "relevance": 0.138439,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Hawkins",
+      "relevance": 0.135994,
+      "confidence": 1,
+      "count": 7
+    },
+    {
+      "type": "Quantity",
+      "text": "seventy two degrees",
+      "relevance": 0.134376,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eighty seven degrees",
+      "relevance": 0.133853,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "heart attack",
+      "relevance": 0.12807,
+      "confidence": 0.992462,
+      "count": 2,
+      "disambiguation": {
+        "name": "Myocardial_infarction",
+        "dbpedia_resource": "http://dbpedia.org/resource/Myocardial_infarction",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "RiskFactor",
+          "Symptom",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Dr Barnes",
+      "relevance": 0.109101,
+      "confidence": 0.999984,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty percent",
+      "relevance": 0.104687,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one million dollar",
+      "relevance": 0.103707,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Hansen",
+      "relevance": 0.102019,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty two year",
+      "relevance": 0.093942,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Columbus",
+      "relevance": 0.081939,
+      "confidence": 0.999999,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Anson",
+      "relevance": 0.078962,
+      "confidence": 0.998827,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bruce Smith",
+      "relevance": 0.076757,
+      "confidence": 0.997531,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "seven hours",
+      "relevance": 0.07283,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Baden",
+      "relevance": 0.071392,
+      "confidence": 0.991559,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Glendale",
+      "relevance": 0.070878,
+      "confidence": 0.999884,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "myocarditis",
+      "relevance": 0.06908,
+      "confidence": 0.996678,
+      "count": 1,
+      "disambiguation": {
+        "name": "Myocarditis",
+        "dbpedia_resource": "http://dbpedia.org/resource/Myocarditis",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "DiseaseCause",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Lowry",
+      "relevance": 0.067812,
+      "confidence": 0.756324,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Richard Boggs Jean Hanson",
+      "relevance": 0.066243,
+      "confidence": 0.773488,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "falcons",
+      "relevance": 0.062094,
+      "confidence": 0.982003,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Switzer",
+      "relevance": 0.061625,
+      "confidence": 0.017106,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Harvard",
+      "relevance": 0.06034,
+      "confidence": 0.800667,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mr Hansen",
+      "relevance": 0.056824,
+      "confidence": 0.909512,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Matt Ellis",
+      "relevance": 0.055533,
+      "confidence": 0.959866,
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "the Pacific Ocean",
+      "relevance": 0.050764,
+      "confidence": 0.599955,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "John falcons",
+      "relevance": 0.048474,
+      "confidence": 0.70308,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Ellis green",
+      "relevance": 0.048151,
+      "confidence": 0.808452,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jean Jean Hanson",
+      "relevance": 0.046841,
+      "confidence": 0.943095,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one week",
+      "relevance": 0.045039,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two weeks",
+      "relevance": 0.044365,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "million dollars",
+      "relevance": 0.04354,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Bob",
+      "relevance": 0.039194,
+      "confidence": 0.984121,
+      "count": 1,
+      "disambiguation": {
+        "name": "B.o.B",
+        "dbpedia_resource": "http://dbpedia.org/resource/B.o.B"
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "one million dollars",
+      "relevance": 0.038614,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Facility",
+      "text": "Dallas fort worth airport",
+      "relevance": 0.038494,
+      "confidence": 0.331595,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Rio Jean Hanson",
+      "relevance": 0.034079,
+      "confidence": 0.536167,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Lima",
+      "relevance": 0.031938,
+      "confidence": 0.923511,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "north Hollywood",
+      "relevance": 0.03116,
+      "confidence": 0.404318,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "HIV positive",
+      "relevance": 0.029241,
+      "confidence": 0.441343,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "green",
+      "relevance": 0.027317,
+      "confidence": 0.969209,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "three years",
+      "relevance": 0.026879,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "HealthCondition",
+      "text": "aids",
+      "relevance": 0.022279,
+      "confidence": 0.993331,
+      "count": 1,
+      "disambiguation": {
+        "name": "AIDS",
+        "dbpedia_resource": "http://dbpedia.org/resource/AIDS",
+        "subtype": [
+          "Organization",
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "DiseaseCause",
+          "RiskFactor",
+          "Disease",
+          "OrganizationSector"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Dr bods",
+      "relevance": 0.02198,
+      "confidence": 0.75199,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bruce Smith Boggs",
+      "relevance": 0.020878,
+      "confidence": 0.889323,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "scars",
+      "relevance": 0.015993,
+      "confidence": 0.745403,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "John Hopkins",
+      "relevance": 0.015967,
+      "confidence": 0.993384,
+      "count": 1,
+      "disambiguation": {
+        "name": "John_Hopkins_%28writer%29",
+        "dbpedia_resource": "http://dbpedia.org/resource/John_Hopkins_%28writer%29",
+        "subtype": [
+          "FilmWriter",
+          "TVWriter"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Green",
+      "relevance": 0.015071,
+      "confidence": 0.974393,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Sardinia",
+      "relevance": 0.014651,
+      "confidence": 0.239565,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jean Hansen",
+      "relevance": 0.013213,
+      "confidence": 0.997821,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Mexico",
+      "relevance": 0.012709,
+      "confidence": 0.999858,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Amsterdam",
+      "relevance": 0.01265,
+      "confidence": 0.996979,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Florida",
+      "relevance": 0.012507,
+      "confidence": 0.999779,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Alison green",
+      "relevance": 0.011456,
+      "confidence": 0.995252,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bogs",
+      "relevance": 0.010246,
+      "confidence": 0.950259,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Brian",
+      "relevance": 0.009073,
+      "confidence": 0.914256,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "America",
+      "relevance": 0.008586,
+      "confidence": 0.937645,
+      "count": 1,
+      "disambiguation": {
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "Two weeks",
+      "relevance": 0.007304,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Dallas",
+      "relevance": 0.003363,
+      "confidence": 0.900044,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty five years",
+      "relevance": 0.002806,
+      "confidence": 0.8,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.942328
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.75317
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.664019
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.624029
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.590512
+    },
+    {
+      "label": "/art and entertainment/shows and events",
+      "score": 0.587731
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.464239,
+      "sentence": "In nineteen eighty eight a patient in southern California collapsed and died of a heart attack in his doctor's office.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patient",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            27,
+            34
+          ],
+          "text": "patient"
+        },
+        {
+          "entities": [
+            {
+              "text": "southern",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            38,
+            46
+          ],
+          "text": "southern"
+        }
+      ]
+    },
+    {
+      "score": 0.465292,
+      "sentence": "Dr bugs identified the man as forty two year old Jean Hanson who he said had been a patient for years.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            939,
+            941
+          ],
+          "text": "Dr"
+        },
+        {
+          "entities": [
+            {
+              "text": "bugs",
+              "type": "Animal"
+            }
+          ],
+          "location": [
+            942,
+            946
+          ],
+          "text": "bugs"
+        }
+      ]
+    },
+    {
+      "score": 0.558598,
+      "sentence": "As Dr Richard Boggs sat in a California jail for the murder of Alice green his conspirators Jean Hanson and John Hawkins we're still on the run.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Alice",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10734,
+            10739
+          ],
+          "text": "Alice"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder conspiracy",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10724,
+            10730
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.587705,
+      "sentence": "In Amsterdam a woman saw a television program in which John Hawkins was identified as being wanted in connection with the murder of Alice green.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Alice",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11931,
+            11936
+          ],
+          "text": "Alice"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder conspiracy",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11921,
+            11927
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.520028,
+      "sentence": "As Dr Richard Boggs sat in a California jail for the murder of Alice green his conspirators Jean Hanson and John Hawkins we're still on the run.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "conspirators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10750,
+            10762
+          ],
+          "text": "conspirators"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder conspiracy",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10724,
+            10730
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.625506,
+      "sentence": "As Dr Richard Boggs sat in a California jail for the murder of Alice green his conspirators Jean Hanson and John Hawkins we're still on the run.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Alice",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10734,
+            10739
+          ],
+          "text": "Alice"
+        },
+        {
+          "entities": [
+            {
+              "text": "conspirators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10750,
+            10762
+          ],
+          "text": "conspirators"
+        }
+      ]
+    },
+    {
+      "score": 0.859754,
+      "sentence": "As Dr Richard Boggs sat in a California jail for the murder of Alice green his conspirators Jean Hanson and John Hawkins we're still on the run.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10763,
+            10774
+          ],
+          "text": "Jean Hanson"
+        },
+        {
+          "entities": [
+            {
+              "text": "conspirators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10750,
+            10762
+          ],
+          "text": "conspirators"
+        }
+      ]
+    },
+    {
+      "score": 0.493121,
+      "sentence": "As Dr Richard Boggs sat in a California jail for the murder of Alice green his conspirators Jean Hanson and John Hawkins we're still on the run.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Hawkins Jean Hansen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10779,
+            10791
+          ],
+          "text": "John Hawkins"
+        },
+        {
+          "entities": [
+            {
+              "text": "conspirators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10750,
+            10762
+          ],
+          "text": "conspirators"
+        }
+      ]
+    },
+    {
+      "score": 0.361428,
+      "sentence": "A tip led police to this house in Florida and the fingerprints found on the drinking glass positively identified Jean Hanson as the resident but evidence inside the home indicated Hanson had fled the country.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10826,
+            10832
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10841,
+            10846
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.939125,
+      "sentence": "A tip led police to this house in Florida and the fingerprints found on the drinking glass positively identified Jean Hanson as the resident but evidence inside the home indicated Hanson had fled the country.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10841,
+            10846
+          ],
+          "text": "house"
+        },
+        {
+          "entities": [
+            {
+              "text": "Florida",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10850,
+            10857
+          ],
+          "text": "Florida"
+        }
+      ]
+    },
+    {
+      "score": 0.696992,
+      "sentence": "A tip led police to this house in Florida and the fingerprints found on the drinking glass positively identified Jean Hanson as the resident but evidence inside the home indicated Hanson had fled the country.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10981,
+            10985
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "America",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11016,
+            11023
+          ],
+          "text": "country"
+        }
+      ]
+    },
+    {
+      "score": 0.501918,
+      "sentence": "A few months later Hanson was arrested at the Dallas fort worth airport after arriving on a flight from Mexico.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "few months later",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            11027,
+            11043
+          ],
+          "text": "few months later"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrested",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            11055,
+            11063
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.730312,
+      "sentence": "A few months later Hanson was arrested at the Dallas fort worth airport after arriving on a flight from Mexico.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hanson",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11044,
+            11050
+          ],
+          "text": "Hanson"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrested",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            11055,
+            11063
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.624932,
+      "sentence": "Dr bugs identified the man as forty two year old Jean Hanson who he said had been a patient for years.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1000,
+            1003
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1007,
+            1011
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.945152,
+      "sentence": "Dr bugs identified the man as forty two year old Jean Hanson who he said had been a patient for years.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1004,
+            1006
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1007,
+            1011
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.923226,
+      "sentence": "A few months later Hanson was arrested at the Dallas fort worth airport after arriving on a flight from Mexico.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "arrested",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            11055,
+            11063
+          ],
+          "text": "arrested"
+        },
+        {
+          "entities": [
+            {
+              "text": "airport",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11089,
+            11096
+          ],
+          "text": "airport"
+        }
+      ]
+    },
+    {
+      "score": 0.688645,
+      "sentence": "A few months later Hanson was arrested at the Dallas fort worth airport after arriving on a flight from Mexico.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "airport",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11089,
+            11096
+          ],
+          "text": "airport"
+        },
+        {
+          "entities": [
+            {
+              "text": "Dallas fort",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11071,
+            11082
+          ],
+          "text": "Dallas fort"
+        }
+      ]
+    },
+    {
+      "score": 0.940515,
+      "sentence": "A few months later Hanson was arrested at the Dallas fort worth airport after arriving on a flight from Mexico.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "flight",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11117,
+            11123
+          ],
+          "text": "flight"
+        },
+        {
+          "entities": [
+            {
+              "text": "Mexico",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11129,
+            11135
+          ],
+          "text": "Mexico"
+        }
+      ]
+    },
+    {
+      "score": 0.997943,
+      "sentence": "He denied he was Jean Hanson and he had other screens driver's license in his possession.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11280,
+            11282
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "denied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11283,
+            11289
+          ],
+          "text": "denied"
+        }
+      ]
+    },
+    {
+      "score": 0.538492,
+      "sentence": "His fingerprints matched those of the Rio Jean Hanson and he was arrested.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11493,
+            11504
+          ],
+          "text": "Jean Hanson"
+        },
+        {
+          "entities": [
+            {
+              "text": "Rio",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11489,
+            11492
+          ],
+          "text": "Rio"
+        }
+      ]
+    },
+    {
+      "score": 0.931634,
+      "sentence": "In Amsterdam a woman saw a television program in which John Hawkins was identified as being wanted in connection with the murder of Alice green.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Hawkins Jean Hansen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11854,
+            11866
+          ],
+          "text": "John Hawkins"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder conspiracy",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11921,
+            11927
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.872162,
+      "sentence": "John Hawkins Jean Hansen and Dr Richard Boggs were charged with murder conspiracy insurance fraud and grand theft.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Hawkins Jean Hansen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13412,
+            13436
+          ],
+          "text": "John Hawkins Jean Hansen"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder conspiracy",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13476,
+            13493
+          ],
+          "text": "murder conspiracy"
+        }
+      ]
+    },
+    {
+      "score": 0.907907,
+      "sentence": "John Hawkins was convicted of conspiracy to commit murder and insurance fraud and sentenced to twenty five years to life I think it was a a great result I think we brought three men to justice thanks to great investigators great experts and people.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Hawkins Jean Hansen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14069,
+            14081
+          ],
+          "text": "John Hawkins"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder conspiracy",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            14099,
+            14109
+          ],
+          "text": "conspiracy"
+        }
+      ]
+    },
+    {
+      "score": 0.571013,
+      "sentence": "Solid police work and forensic evidence help solve one crime and may have prevented another investigators discovered evidence that the trio was planning another murder this time off Hawkins lookalike in order to cash in on another million dollars life insurance policy.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Hawkins Jean Hansen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14554,
+            14561
+          ],
+          "text": "Hawkins"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder conspiracy",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            14533,
+            14539
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.546182,
+      "sentence": "With the information she provided authorities found Hawkins off the coast of Sardinia in a red catamaran called Kerr PTM sees the day.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Alice",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12009,
+            12012
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "catamaran",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            12083,
+            12092
+          ],
+          "text": "catamaran"
+        }
+      ]
+    },
+    {
+      "score": 0.838984,
+      "sentence": "With the information she provided authorities found Hawkins off the coast of Sardinia in a red catamaran called Kerr PTM sees the day.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Hawkins Jean Hansen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12040,
+            12047
+          ],
+          "text": "Hawkins"
+        },
+        {
+          "entities": [
+            {
+              "text": "coast",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            12056,
+            12061
+          ],
+          "text": "coast"
+        }
+      ]
+    },
+    {
+      "score": 0.693269,
+      "sentence": "With the information she provided authorities found Hawkins off the coast of Sardinia in a red catamaran called Kerr PTM sees the day.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Hawkins Jean Hansen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12040,
+            12047
+          ],
+          "text": "Hawkins"
+        },
+        {
+          "entities": [
+            {
+              "text": "catamaran",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            12083,
+            12092
+          ],
+          "text": "catamaran"
+        }
+      ]
+    },
+    {
+      "score": 0.742821,
+      "sentence": "With the information she provided authorities found Hawkins off the coast of Sardinia in a red catamaran called Kerr PTM sees the day.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "coast",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            12056,
+            12061
+          ],
+          "text": "coast"
+        },
+        {
+          "entities": [
+            {
+              "text": "Sardinia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12065,
+            12073
+          ],
+          "text": "Sardinia"
+        }
+      ]
+    },
+    {
+      "score": 0.653066,
+      "sentence": "Dr bugs identified the man as forty two year old Jean Hanson who he said had been a patient for years.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patient",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1023,
+            1030
+          ],
+          "text": "patient"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1007,
+            1011
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.565341,
+      "sentence": "With the information she provided authorities found Hawkins off the coast of Sardinia in a red catamaran called Kerr PTM sees the day.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "catamaran",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            12083,
+            12092
+          ],
+          "text": "catamaran"
+        },
+        {
+          "entities": [
+            {
+              "text": "coast",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            12056,
+            12061
+          ],
+          "text": "coast"
+        }
+      ]
+    },
+    {
+      "score": 0.304675,
+      "sentence": "With the information she provided authorities found Hawkins off the coast of Sardinia in a red catamaran called Kerr PTM sees the day.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kerr PTM",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12100,
+            12108
+          ],
+          "text": "Kerr PTM"
+        },
+        {
+          "entities": [
+            {
+              "text": "coast",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            12056,
+            12061
+          ],
+          "text": "coast"
+        }
+      ]
+    },
+    {
+      "score": 0.518033,
+      "sentence": "With the information she provided authorities found Hawkins off the coast of Sardinia in a red catamaran called Kerr PTM sees the day.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "catamaran",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            12083,
+            12092
+          ],
+          "text": "catamaran"
+        },
+        {
+          "entities": [
+            {
+              "text": "Sardinia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12065,
+            12073
+          ],
+          "text": "Sardinia"
+        }
+      ]
+    },
+    {
+      "score": 0.994359,
+      "sentence": "When they confronted him John Hopkins was a very nasty individual he said what I'm not we think I am a brother Brian and the English citizen here's my passport he presented a a legitimate British passport and that and he accused him of making a terrible error as to his identification.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12128,
+            12132
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "confronted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12133,
+            12143
+          ],
+          "text": "confronted"
+        }
+      ]
+    },
+    {
+      "score": 0.728658,
+      "sentence": "When they confronted him John Hopkins was a very nasty individual he said what I'm not we think I am a brother Brian and the English citizen here's my passport he presented a a legitimate British passport and that and he accused him of making a terrible error as to his identification.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12144,
+            12147
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "confronted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12133,
+            12143
+          ],
+          "text": "confronted"
+        }
+      ]
+    },
+    {
+      "score": 0.994852,
+      "sentence": "When they confronted him John Hopkins was a very nasty individual he said what I'm not we think I am a brother Brian and the English citizen here's my passport he presented a a legitimate British passport and that and he accused him of making a terrible error as to his identification.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12189,
+            12191
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12192,
+            12196
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.617568,
+      "sentence": "When they confronted him John Hopkins was a very nasty individual he said what I'm not we think I am a brother Brian and the English citizen here's my passport he presented a a legitimate British passport and that and he accused him of making a terrible error as to his identification.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12256,
+            12263
+          ],
+          "text": "citizen"
+        },
+        {
+          "entities": [
+            {
+              "text": "English",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12248,
+            12255
+          ],
+          "text": "English"
+        }
+      ]
+    },
+    {
+      "score": 0.997979,
+      "sentence": "When they confronted him John Hopkins was a very nasty individual he said what I'm not we think I am a brother Brian and the English citizen here's my passport he presented a a legitimate British passport and that and he accused him of making a terrible error as to his identification.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12341,
+            12343
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "accused",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12344,
+            12351
+          ],
+          "text": "accused"
+        }
+      ]
+    },
+    {
+      "score": 0.77762,
+      "sentence": "When they confronted him John Hopkins was a very nasty individual he said what I'm not we think I am a brother Brian and the English citizen here's my passport he presented a a legitimate British passport and that and he accused him of making a terrible error as to his identification.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12352,
+            12355
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "accused",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12344,
+            12351
+          ],
+          "text": "accused"
+        }
+      ]
+    },
+    {
+      "score": 0.830255,
+      "sentence": "John Hawkins was positively identified through fingerprints prosecutors believe that financial problems brought Boggs Hansen and Hawkins together in an insurance scam which would net them one million dollars.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Boggs Hansen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12521,
+            12533
+          ],
+          "text": "Boggs Hansen"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12592,
+            12596
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.61298,
+      "sentence": "Anson'S identity was confirmed by credit cards and the birth certificate in his wallet.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patient",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1118,
+            1121
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "confirmed",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            1063,
+            1072
+          ],
+          "text": "confirmed"
+        }
+      ]
+    },
+    {
+      "score": 0.789545,
+      "sentence": "John Hawkins was positively identified through fingerprints prosecutors believe that financial problems brought Boggs Hansen and Hawkins together in an insurance scam which would net them one million dollars.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Hawkins Jean Hansen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12538,
+            12545
+          ],
+          "text": "Hawkins"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12592,
+            12596
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.936081,
+      "sentence": "His first target was Bruce Smith Boggs picked up in a gay bar took him back to his office and attacked him with a stun gun.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bruce Smith Boggs",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12715,
+            12732
+          ],
+          "text": "Bruce Smith Boggs"
+        },
+        {
+          "entities": [
+            {
+              "text": "bar",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12752,
+            12755
+          ],
+          "text": "bar"
+        }
+      ]
+    },
+    {
+      "score": 0.522752,
+      "sentence": "His first target was Bruce Smith Boggs picked up in a gay bar took him back to his office and attacked him with a stun gun.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12773,
+            12776
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "attacked",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            12788,
+            12796
+          ],
+          "text": "attacked"
+        }
+      ]
+    },
+    {
+      "score": 0.484752,
+      "sentence": "Once it has took him back to box office and attacked him with a stun gun.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13067,
+            13070
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "attacked",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            13094,
+            13102
+          ],
+          "text": "attacked"
+        }
+      ]
+    },
+    {
+      "score": 0.434595,
+      "sentence": "His first target was Bruce Smith Boggs picked up in a gay bar took him back to his office and attacked him with a stun gun.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12797,
+            12800
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "attacked",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            12788,
+            12796
+          ],
+          "text": "attacked"
+        }
+      ]
+    },
+    {
+      "score": 0.498753,
+      "sentence": "Once it has took him back to box office and attacked him with a stun gun.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13103,
+            13106
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "attacked",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            13094,
+            13102
+          ],
+          "text": "attacked"
+        }
+      ]
+    },
+    {
+      "score": 0.411192,
+      "sentence": "His first target was Bruce Smith Boggs picked up in a gay bar took him back to his office and attacked him with a stun gun.",
+      "type": "instrumentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "gun",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            12813,
+            12816
+          ],
+          "text": "gun"
+        },
+        {
+          "entities": [
+            {
+              "text": "attacked",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            12788,
+            12796
+          ],
+          "text": "attacked"
+        }
+      ]
+    },
+    {
+      "score": 0.420159,
+      "sentence": "Once it has took him back to box office and attacked him with a stun gun.",
+      "type": "instrumentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "gun",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            13119,
+            13122
+          ],
+          "text": "gun"
+        },
+        {
+          "entities": [
+            {
+              "text": "attacked",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            13094,
+            13102
+          ],
+          "text": "attacked"
+        }
+      ]
+    },
+    {
+      "score": 0.434328,
+      "sentence": "His first target was Bruce Smith Boggs picked up in a gay bar took him back to his office and attacked him with a stun gun.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12797,
+            12800
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "gun",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            12813,
+            12816
+          ],
+          "text": "gun"
+        }
+      ]
+    },
+    {
+      "score": 0.466513,
+      "sentence": "Once it has took him back to box office and attacked him with a stun gun.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13103,
+            13106
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "gun",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            13119,
+            13122
+          ],
+          "text": "gun"
+        }
+      ]
+    },
+    {
+      "score": 0.959059,
+      "sentence": "Two weeks later Dr Boggs was joined by Jean Hanson and together they tried it once again.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12837,
+            12842
+          ],
+          "text": "Boggs"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12882,
+            12886
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.888598,
+      "sentence": "Two weeks later Dr Boggs was joined by Jean Hanson and together they tried it once again.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12857,
+            12868
+          ],
+          "text": "Jean Hanson"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12882,
+            12886
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.933536,
+      "sentence": "Bogs and Hanson met Alice green at a night club sometime around midnight.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bogs",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12908,
+            12912
+          ],
+          "text": "Bogs"
+        },
+        {
+          "entities": [
+            {
+              "text": "met",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            12924,
+            12927
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.582089,
+      "sentence": "Bogs and Hanson met Alice green at a night club sometime around midnight.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hanson",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12917,
+            12923
+          ],
+          "text": "Hanson"
+        },
+        {
+          "entities": [
+            {
+              "text": "met",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            12924,
+            12927
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.67256,
+      "sentence": "Sergeant James Lowry was one of the first police officers who arrived on the scene the arteries or veins it would be in the face.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            1241,
+            1244
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "paramedics",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1265,
+            1273
+          ],
+          "text": "officers"
+        }
+      ]
+    },
+    {
+      "score": 0.896838,
+      "sentence": "Bogs and Hanson met Alice green at a night club sometime around midnight.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Alice",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12928,
+            12933
+          ],
+          "text": "Alice"
+        },
+        {
+          "entities": [
+            {
+              "text": "met",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            12924,
+            12927
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.694345,
+      "sentence": "Bogs and Hanson met Alice green at a night club sometime around midnight.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "a night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            12943,
+            12950
+          ],
+          "text": "a night"
+        },
+        {
+          "entities": [
+            {
+              "text": "met",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            12924,
+            12927
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.846593,
+      "sentence": "Bogs and Hanson met Alice green at a night club sometime around midnight.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "midnight",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            12972,
+            12980
+          ],
+          "text": "midnight"
+        },
+        {
+          "entities": [
+            {
+              "text": "met",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            12924,
+            12927
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.541468,
+      "sentence": "Bogs and Hanson met Alice green at a night club sometime around midnight.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Alice",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12928,
+            12933
+          ],
+          "text": "Alice"
+        },
+        {
+          "entities": [
+            {
+              "text": "clubs",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12951,
+            12955
+          ],
+          "text": "club"
+        }
+      ]
+    },
+    {
+      "score": 0.666716,
+      "sentence": "We'Ll talk to Dr Barnes made numerous medical mistakes which were his downfall.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Barnes",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13180,
+            13182
+          ],
+          "text": "Dr"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13166,
+            13168
+          ],
+          "text": "We"
+        }
+      ]
+    },
+    {
+      "score": 0.496204,
+      "sentence": "John Hawkins Jean Hansen and Dr Richard Boggs were charged with murder conspiracy insurance fraud and grand theft.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Hawkins Jean Hansen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13412,
+            13436
+          ],
+          "text": "John Hawkins Jean Hansen"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13463,
+            13470
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.451618,
+      "sentence": "John Hawkins Jean Hansen and Dr Richard Boggs were charged with murder conspiracy insurance fraud and grand theft.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13444,
+            13457
+          ],
+          "text": "Richard Boggs"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13463,
+            13470
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.716237,
+      "sentence": "Prosecutors presented forensic evidence that Alison green had been suffocated by doctor bonds and the real Jean Hanson was in town on the day of the murder checking into a nearby hotel just as the paramedics arrived.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13648,
+            13659
+          ],
+          "text": "Jean Hanson"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder conspiracy",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13690,
+            13696
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.632598,
+      "sentence": "Dr Boggs and Jean Hanson were convicted of murder and conspiracy to commit murder and insurance fraud both were sentenced to life in prison without parole.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13926,
+            13937
+          ],
+          "text": "Jean Hanson"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder conspiracy",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13956,
+            13962
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.592756,
+      "sentence": "Prosecutors presented forensic evidence that Alison green had been suffocated by doctor bonds and the real Jean Hanson was in town on the day of the murder checking into a nearby hotel just as the paramedics arrived.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "defense",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13720,
+            13725
+          ],
+          "text": "hotel"
+        },
+        {
+          "entities": [
+            {
+              "text": "town",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13667,
+            13671
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.937122,
+      "sentence": "The defense argued the Dallas green died of natural causes primarily due to the extremely high level of alcohol in his bloodstream.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "defense",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13762,
+            13769
+          ],
+          "text": "defense"
+        },
+        {
+          "entities": [
+            {
+              "text": "argued",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13770,
+            13776
+          ],
+          "text": "argued"
+        }
+      ]
+    },
+    {
+      "score": 0.861372,
+      "sentence": "Sergeant James Lowry was one of the first police officers who arrived on the scene the arteries or veins it would be in the face.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "paramedics",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1265,
+            1273
+          ],
+          "text": "officers"
+        },
+        {
+          "entities": [
+            {
+              "text": "authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1258,
+            1264
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.835962,
+      "sentence": "Dr Boggs and Jean Hanson were convicted of murder and conspiracy to commit murder and insurance fraud both were sentenced to life in prison without parole.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13916,
+            13921
+          ],
+          "text": "Boggs"
+        },
+        {
+          "entities": [
+            {
+              "text": "both",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            14015,
+            14019
+          ],
+          "text": "both"
+        }
+      ]
+    },
+    {
+      "score": 0.712317,
+      "sentence": "Dr Boggs and Jean Hanson were convicted of murder and conspiracy to commit murder and insurance fraud both were sentenced to life in prison without parole.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13926,
+            13937
+          ],
+          "text": "Jean Hanson"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13943,
+            13952
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.556831,
+      "sentence": "Dr Boggs and Jean Hanson were convicted of murder and conspiracy to commit murder and insurance fraud both were sentenced to life in prison without parole.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13926,
+            13937
+          ],
+          "text": "Jean Hanson"
+        },
+        {
+          "entities": [
+            {
+              "text": "both",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            14015,
+            14019
+          ],
+          "text": "both"
+        }
+      ]
+    },
+    {
+      "score": 0.653078,
+      "sentence": "Dr Boggs and Jean Hanson were convicted of murder and conspiracy to commit murder and insurance fraud both were sentenced to life in prison without parole.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "both",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            14015,
+            14019
+          ],
+          "text": "both"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14025,
+            14034
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.337002,
+      "sentence": "Dr Boggs and Jean Hanson were convicted of murder and conspiracy to commit murder and insurance fraud both were sentenced to life in prison without parole.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "both",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            14015,
+            14019
+          ],
+          "text": "both"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14046,
+            14052
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.51962,
+      "sentence": "John Hawkins was convicted of conspiracy to commit murder and insurance fraud and sentenced to twenty five years to life I think it was a a great result I think we brought three men to justice thanks to great investigators great experts and people.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Hawkins Jean Hansen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14069,
+            14081
+          ],
+          "text": "John Hawkins"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14086,
+            14095
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.618986,
+      "sentence": "John Hawkins was convicted of conspiracy to commit murder and insurance fraud and sentenced to twenty five years to life I think it was a a great result I think we brought three men to justice thanks to great investigators great experts and people.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Hawkins Jean Hansen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14069,
+            14081
+          ],
+          "text": "John Hawkins"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14151,
+            14160
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.498408,
+      "sentence": "John Hawkins was convicted of conspiracy to commit murder and insurance fraud and sentenced to twenty five years to life I think it was a a great result I think we brought three men to justice thanks to great investigators great experts and people.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Hawkins Jean Hansen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14222,
+            14223
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14230,
+            14232
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.827184,
+      "sentence": "Sergeant James Lowry was one of the first police officers who arrived on the scene the arteries or veins it would be in the face.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "paramedics",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1274,
+            1277
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1293,
+            1298
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.695366,
+      "sentence": "Which meant that Hanson died between two and three o'clock in the morning long before Dr Boggs had called paramedics I told off the box that says you're nothing but a liar I don't believe you everything you've told us a lot.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "morning",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            2037,
+            2044
+          ],
+          "text": "morning"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2090,
+            2094
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.202549,
+      "sentence": "Which meant that Hanson died between two and three o'clock in the morning long before Dr Boggs had called paramedics I told off the box that says you're nothing but a liar I don't believe you everything you've told us a lot.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2060,
+            2065
+          ],
+          "text": "Boggs"
+        },
+        {
+          "entities": [
+            {
+              "text": "paramedics",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2077,
+            2087
+          ],
+          "text": "paramedics"
+        }
+      ]
+    },
+    {
+      "score": 0.984569,
+      "sentence": "Which meant that Hanson died between two and three o'clock in the morning long before Dr Boggs had called paramedics I told off the box that says you're nothing but a liar I don't believe you everything you've told us a lot.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2088,
+            2089
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2090,
+            2094
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.717842,
+      "sentence": "After buying a one million dollar insurance policy Jean Hanson told his friends and colleagues that he was dying of aids which wasn't true and he said he was moving to California.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8991,
+            9002
+          ],
+          "text": "Jean Hanson"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9003,
+            9007
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.988619,
+      "sentence": "After buying a one million dollar insurance policy Jean Hanson told his friends and colleagues that he was dying of aids which wasn't true and he said he was moving to California.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9083,
+            9085
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9086,
+            9090
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.967782,
+      "sentence": "In nineteen eighty eight a patient in southern California collapsed and died of a heart attack in his doctor's office.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "southern",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            38,
+            46
+          ],
+          "text": "southern"
+        },
+        {
+          "entities": [
+            {
+              "text": "Glendale California",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            47,
+            57
+          ],
+          "text": "California"
+        }
+      ]
+    },
+    {
+      "score": 0.498066,
+      "sentence": "Which meant that Hanson died between two and three o'clock in the morning long before Dr Boggs had called paramedics I told off the box that says you're nothing but a liar I don't believe you everything you've told us a lot.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2117,
+            2120
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2112,
+            2116
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.607118,
+      "sentence": "Which meant that Hanson died between two and three o'clock in the morning long before Dr Boggs had called paramedics I told off the box that says you're nothing but a liar I don't believe you everything you've told us a lot.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2143,
+            2144
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "us",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2186,
+            2188
+          ],
+          "text": "us"
+        }
+      ]
+    },
+    {
+      "score": 0.655751,
+      "sentence": "Which meant that Hanson died between two and three o'clock in the morning long before Dr Boggs had called paramedics I told off the box that says you're nothing but a liar I don't believe you everything you've told us a lot.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2174,
+            2177
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2181,
+            2185
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.940349,
+      "sentence": "Which meant that Hanson died between two and three o'clock in the morning long before Dr Boggs had called paramedics I told off the box that says you're nothing but a liar I don't believe you everything you've told us a lot.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "us",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2186,
+            2188
+          ],
+          "text": "us"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2181,
+            2185
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.747678,
+      "sentence": "There were too many inconsistencies for the police to accept I knew that this person had died the way the doctor box it told us but I thought there may be some other explanation I didn't know if this had been some type of a romantic encounter I didn't know if this has been some type of a drug overdose I mean there are other possible explanations for what had gone on here.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patient",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2732,
+            2738
+          ],
+          "text": "person"
+        },
+        {
+          "entities": [
+            {
+              "text": "us",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2779,
+            2781
+          ],
+          "text": "us"
+        }
+      ]
+    },
+    {
+      "score": 0.572082,
+      "sentence": "There were too many inconsistencies for the police to accept I knew that this person had died the way the doctor box it told us but I thought there may be some other explanation I didn't know if this had been some type of a romantic encounter I didn't know if this has been some type of a drug overdose I mean there are other possible explanations for what had gone on here.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2760,
+            2766
+          ],
+          "text": "doctor"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2774,
+            2778
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.87375,
+      "sentence": "There were too many inconsistencies for the police to accept I knew that this person had died the way the doctor box it told us but I thought there may be some other explanation I didn't know if this had been some type of a romantic encounter I didn't know if this has been some type of a drug overdose I mean there are other possible explanations for what had gone on here.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2760,
+            2766
+          ],
+          "text": "doctor"
+        },
+        {
+          "entities": [
+            {
+              "text": "us",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2779,
+            2781
+          ],
+          "text": "us"
+        }
+      ]
+    },
+    {
+      "score": 0.968831,
+      "sentence": "There were too many inconsistencies for the police to accept I knew that this person had died the way the doctor box it told us but I thought there may be some other explanation I didn't know if this had been some type of a romantic encounter I didn't know if this has been some type of a drug overdose I mean there are other possible explanations for what had gone on here.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "us",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2779,
+            2781
+          ],
+          "text": "us"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2774,
+            2778
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.323142,
+      "sentence": "And in the search of doctor Boggs office police discovered some unusual devices not found in most medical offices.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3057,
+            3062
+          ],
+          "text": "Boggs"
+        },
+        {
+          "entities": [
+            {
+              "text": "offices",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3135,
+            3142
+          ],
+          "text": "offices"
+        }
+      ]
+    },
+    {
+      "score": 0.933195,
+      "sentence": "And in the search of doctor Boggs office police discovered some unusual devices not found in most medical offices.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3070,
+            3076
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "office",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3063,
+            3069
+          ],
+          "text": "office"
+        }
+      ]
+    },
+    {
+      "score": 0.721316,
+      "sentence": "In nineteen eighty eight a patient in southern California collapsed and died of a heart attack in his doctor's office.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patient",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            98,
+            101
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "heart attack",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            82,
+            94
+          ],
+          "text": "heart attack"
+        }
+      ]
+    },
+    {
+      "score": 0.761751,
+      "sentence": "Dr blogs called nine one one to report that the patient had died in his office of an apparent heart attack.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patient",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            686,
+            689
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "heart attack",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            712,
+            724
+          ],
+          "text": "heart attack"
+        }
+      ]
+    },
+    {
+      "score": 0.276868,
+      "sentence": "That were actually within the examination room of the doctor I mean the little cabinets with drawers that was in there while the doctor was seen patients which was really kind of a bizarre way to run a business.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3282,
+            3288
+          ],
+          "text": "doctor"
+        },
+        {
+          "entities": [
+            {
+              "text": "examination room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3258,
+            3274
+          ],
+          "text": "examination room"
+        }
+      ]
+    },
+    {
+      "score": 0.393195,
+      "sentence": "That were actually within the examination room of the doctor I mean the little cabinets with drawers that was in there while the doctor was seen patients which was really kind of a bizarre way to run a business.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3289,
+            3290
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "examination room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3258,
+            3274
+          ],
+          "text": "examination room"
+        }
+      ]
+    },
+    {
+      "score": 0.997316,
+      "sentence": "Just two weeks earlier police had responded to another incident in Dr Boggs office a man will refer to as Bruce Smith claimed the doctor Boggs attacked him in his office with a stun gun after.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bruce Smith Boggs",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3546,
+            3557
+          ],
+          "text": "Bruce Smith"
+        },
+        {
+          "entities": [
+            {
+              "text": "claimed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3558,
+            3565
+          ],
+          "text": "claimed"
+        }
+      ]
+    },
+    {
+      "score": 0.734077,
+      "sentence": "Just two weeks earlier police had responded to another incident in Dr Boggs office a man will refer to as Bruce Smith claimed the doctor Boggs attacked him in his office with a stun gun after.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3577,
+            3582
+          ],
+          "text": "Boggs"
+        },
+        {
+          "entities": [
+            {
+              "text": "attacked",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            3583,
+            3591
+          ],
+          "text": "attacked"
+        }
+      ]
+    },
+    {
+      "score": 0.471358,
+      "sentence": "Just two weeks earlier police had responded to another incident in Dr Boggs office a man will refer to as Bruce Smith claimed the doctor Boggs attacked him in his office with a stun gun after.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3592,
+            3595
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "attacked",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            3583,
+            3591
+          ],
+          "text": "attacked"
+        }
+      ]
+    },
+    {
+      "score": 0.967249,
+      "sentence": "Since the two met earlier that night at a gay bar police concluded it was a lovers spat.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "earlier that night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            3651,
+            3669
+          ],
+          "text": "earlier that night"
+        },
+        {
+          "entities": [
+            {
+              "text": "met",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            3647,
+            3650
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.476544,
+      "sentence": "Since the two met earlier that night at a gay bar police concluded it was a lovers spat.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3683,
+            3689
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "met",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            3647,
+            3650
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.575694,
+      "sentence": "Since the two met earlier that night at a gay bar police concluded it was a lovers spat.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "earlier that night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            3651,
+            3669
+          ],
+          "text": "earlier that night"
+        },
+        {
+          "entities": [
+            {
+              "text": "concluded",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3690,
+            3699
+          ],
+          "text": "concluded"
+        }
+      ]
+    },
+    {
+      "score": 0.979976,
+      "sentence": "Since the two met earlier that night at a gay bar police concluded it was a lovers spat.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3683,
+            3689
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "concluded",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3690,
+            3699
+          ],
+          "text": "concluded"
+        }
+      ]
+    },
+    {
+      "score": 0.298938,
+      "sentence": "He lost his medical privileges at several hospitals he had gone through a divorce and had admitted publicly that he was a homosexual.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3859,
+            3861
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospitals",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3849,
+            3858
+          ],
+          "text": "hospitals"
+        }
+      ]
+    },
+    {
+      "score": 0.788072,
+      "sentence": "In nineteen eighty eight a patient in southern California collapsed and died of a heart attack in his doctor's office.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            102,
+            108
+          ],
+          "text": "doctor"
+        },
+        {
+          "entities": [
+            {
+              "text": "office",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            111,
+            117
+          ],
+          "text": "office"
+        }
+      ]
+    },
+    {
+      "score": 0.464561,
+      "sentence": "And police discovered the doctor Boggs was a regular at clubs specializing in sadomasochism.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3967,
+            3973
+          ],
+          "text": "doctor"
+        },
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3945,
+            3951
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.922106,
+      "sentence": "You could say that in a sense for outlaws sexual outlaws the activities that they engage and are probably not legitimately recognized in the community as consensual play.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4034,
+            4037
+          ],
+          "text": "You"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4044,
+            4047
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.985043,
+      "sentence": "Police were stunned when the autopsy confirmed exactly what Dr Boggs said said because Jean Hanson's death non specific focal myocarditis a heart.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4348,
+            4353
+          ],
+          "text": "Boggs"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4354,
+            4358
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.653524,
+      "sentence": "Police were stunned when the autopsy confirmed exactly what Dr Boggs said said because Jean Hanson's death non specific focal myocarditis a heart.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4348,
+            4353
+          ],
+          "text": "Boggs"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4359,
+            4363
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.482983,
+      "sentence": "Hanson'S body was positively identified by his business partner John Hawkins.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4441,
+            4445
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "Hanson",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4432,
+            4438
+          ],
+          "text": "Hanson"
+        }
+      ]
+    },
+    {
+      "score": 0.712141,
+      "sentence": "Some time later an employee at the insurance company was closing out her file on Jean Hanson and requested a copy of Hanson's driver's license.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5456,
+            5462
+          ],
+          "text": "driver"
+        },
+        {
+          "entities": [
+            {
+              "text": "Hanson",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5447,
+            5453
+          ],
+          "text": "Hanson"
+        }
+      ]
+    },
+    {
+      "score": 0.554389,
+      "sentence": "Hansen and Hawkins owned a clothing company in Columbus Ohio called just sweats.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Boggs Hansen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4510,
+            4516
+          ],
+          "text": "Hansen"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4571,
+            4577
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.527396,
+      "sentence": "Hansen and Hawkins owned a clothing company in Columbus Ohio called just sweats.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hanson",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4537,
+            4553
+          ],
+          "text": "clothing company"
+        },
+        {
+          "entities": [
+            {
+              "text": "Columbus Ohio",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4557,
+            4570
+          ],
+          "text": "Columbus Ohio"
+        }
+      ]
+    },
+    {
+      "score": 0.64867,
+      "sentence": "It appeared that they had a tremendous agogo business they had something like twenty clothing stores they were driving in fancy cars living in very high life.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4848,
+            4852
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "cars",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            4875,
+            4879
+          ],
+          "text": "cars"
+        }
+      ]
+    },
+    {
+      "score": 0.323718,
+      "sentence": "Jean Hanson's body was cremated and the ashes scattered in the Pacific Ocean.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patient",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4920,
+            4924
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "Pacific Ocean",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            4969,
+            4982
+          ],
+          "text": "Pacific Ocean"
+        }
+      ]
+    },
+    {
+      "score": 0.246796,
+      "sentence": "After the funeral falcons returned to Ohio and then back.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "falcons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5123,
+            5130
+          ],
+          "text": "falcons"
+        },
+        {
+          "entities": [
+            {
+              "text": "funeral",
+              "type": "EventPerformance"
+            }
+          ],
+          "location": [
+            5115,
+            5122
+          ],
+          "text": "funeral"
+        }
+      ]
+    },
+    {
+      "score": 0.922112,
+      "sentence": "After the funeral falcons returned to Ohio and then back.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "falcons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5123,
+            5130
+          ],
+          "text": "falcons"
+        },
+        {
+          "entities": [
+            {
+              "text": "Columbus Ohio",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5143,
+            5147
+          ],
+          "text": "Ohio"
+        }
+      ]
+    },
+    {
+      "score": 0.874929,
+      "sentence": "Investigators suspected that the patient and his doctor were one of several characters involved in a real life murder mystery.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            233,
+            236
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "characters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            248,
+            258
+          ],
+          "text": "characters"
+        }
+      ]
+    },
+    {
+      "score": 0.726552,
+      "sentence": "The drovers convertible Mercedes to the airport and left at with the top down in Columbus Ohio rainy weather hopped on a plane with and now a million dollars in cash.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "drovers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5167,
+            5174
+          ],
+          "text": "drovers"
+        },
+        {
+          "entities": [
+            {
+              "text": "airport",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5203,
+            5210
+          ],
+          "text": "airport"
+        }
+      ]
+    },
+    {
+      "score": 0.61466,
+      "sentence": "The drovers convertible Mercedes to the airport and left at with the top down in Columbus Ohio rainy weather hopped on a plane with and now a million dollars in cash.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "drovers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5167,
+            5174
+          ],
+          "text": "drovers"
+        },
+        {
+          "entities": [
+            {
+              "text": "plane",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            5284,
+            5289
+          ],
+          "text": "plane"
+        }
+      ]
+    },
+    {
+      "score": 0.733928,
+      "sentence": "The drovers convertible Mercedes to the airport and left at with the top down in Columbus Ohio rainy weather hopped on a plane with and now a million dollars in cash.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "airport",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5203,
+            5210
+          ],
+          "text": "airport"
+        },
+        {
+          "entities": [
+            {
+              "text": "Columbus Ohio",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5244,
+            5257
+          ],
+          "text": "Columbus Ohio"
+        }
+      ]
+    },
+    {
+      "score": 0.805637,
+      "sentence": "Some time later an employee at the insurance company was closing out her file on Jean Hanson and requested a copy of Hanson's driver's license.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5349,
+            5357
+          ],
+          "text": "employee"
+        },
+        {
+          "entities": [
+            {
+              "text": "insurance company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5365,
+            5382
+          ],
+          "text": "insurance company"
+        }
+      ]
+    },
+    {
+      "score": 0.874721,
+      "sentence": "California driver's licenses include not only a photograph but also some.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Boggs Hansen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5485,
+            5491
+          ],
+          "text": "driver"
+        },
+        {
+          "entities": [
+            {
+              "text": "California",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5474,
+            5484
+          ],
+          "text": "California"
+        }
+      ]
+    },
+    {
+      "score": 0.850728,
+      "sentence": "And the insurance company reported this discrepancy to police.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "insurance company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5658,
+            5675
+          ],
+          "text": "insurance company"
+        },
+        {
+          "entities": [
+            {
+              "text": "reported",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5676,
+            5684
+          ],
+          "text": "reported"
+        }
+      ]
+    },
+    {
+      "score": 0.914768,
+      "sentence": "And the insurance company reported this discrepancy to police.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5705,
+            5711
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "reported",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5676,
+            5684
+          ],
+          "text": "reported"
+        }
+      ]
+    },
+    {
+      "score": 0.445889,
+      "sentence": "After looking through their files police discovered that the thirty two year old Hollywood accountant had been reported missing.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5804,
+            5814
+          ],
+          "text": "accountant"
+        },
+        {
+          "entities": [
+            {
+              "text": "Hollywood",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5794,
+            5803
+          ],
+          "text": "Hollywood"
+        }
+      ]
+    },
+    {
+      "score": 0.512906,
+      "sentence": "When the photograph of Dr Barnes patient was shown to other screens family they positively identified him.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Barnes",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5894,
+            5900
+          ],
+          "text": "Barnes"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5943,
+            5947
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.542497,
+      "sentence": "When the photograph of Dr Barnes patient was shown to other screens family they positively identified him.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patient",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5901,
+            5908
+          ],
+          "text": "patient"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5943,
+            5947
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.630276,
+      "sentence": "Investigators suspected that the patient and his doctor were one of several characters involved in a real life murder mystery.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "characters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            248,
+            258
+          ],
+          "text": "characters"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder conspiracy",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            283,
+            289
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.859619,
+      "sentence": "When the photograph of Dr Barnes patient was shown to other screens family they positively identified him.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5936,
+            5942
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5943,
+            5947
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.895465,
+      "sentence": "When confronted by police Dr Boggs said he was shocked he said the man who died in his office with a patient for years and it's always been known as Jean Hanson.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6001,
+            6003
+          ],
+          "text": "Dr"
+        },
+        {
+          "entities": [
+            {
+              "text": "authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5994,
+            6000
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.81312,
+      "sentence": "When confronted by police Dr Boggs said he was shocked he said the man who died in his office with a patient for years and it's always been known as Jean Hanson.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6004,
+            6009
+          ],
+          "text": "Boggs"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6010,
+            6014
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.47473,
+      "sentence": "When confronted by police Dr Boggs said he was shocked he said the man who died in his office with a patient for years and it's always been known as Jean Hanson.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6015,
+            6017
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6033,
+            6037
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.940488,
+      "sentence": "When confronted by police Dr Boggs said he was shocked he said the man who died in his office with a patient for years and it's always been known as Jean Hanson.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6030,
+            6032
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6033,
+            6037
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.609312,
+      "sentence": "When confronted by police Dr Boggs said he was shocked he said the man who died in his office with a patient for years and it's always been known as Jean Hanson.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6042,
+            6045
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6033,
+            6037
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.823758,
+      "sentence": "He actually gives tomorrow which really made us our job a whole lot easier so this was the first time that we could really say beyond a reasonable doubt that this was a phony or forced medical file.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "our",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6911,
+            6913
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6927,
+            6930
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.471509,
+      "sentence": "The new path all the just noticed signs of discoloration and Mr green space and finger tips an indication of suffocation such discoloration is often very subtle and disappear so quickly after death which is why suffocation sometimes goes undetected.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7413,
+            7415
+          ],
+          "text": "Mr"
+        },
+        {
+          "entities": [
+            {
+              "text": "suffocation",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            7461,
+            7472
+          ],
+          "text": "suffocation"
+        }
+      ]
+    },
+    {
+      "score": 0.974825,
+      "sentence": "Despite doctor Boggs claim of innocence he was arrested on suspicion of murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7617,
+            7622
+          ],
+          "text": "Boggs"
+        },
+        {
+          "entities": [
+            {
+              "text": "claim",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7623,
+            7628
+          ],
+          "text": "claim"
+        }
+      ]
+    },
+    {
+      "score": 0.767108,
+      "sentence": "Despite doctor Boggs claim of innocence he was arrested on suspicion of murder.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7642,
+            7644
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrested",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            7649,
+            7657
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.908869,
+      "sentence": "His fingerprints matched those of the Rio Jean Hanson and he was arrested.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11509,
+            11511
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrested",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            11516,
+            11524
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.969948,
+      "sentence": "Despite doctor Boggs claim of innocence he was arrested on suspicion of murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7642,
+            7644
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder conspiracy",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7674,
+            7680
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.623333,
+      "sentence": "Then Hawkins and the real Jean Hanson both vanished leaving behind their bankrupt clothing company and Dr Richard Boggs to defend himself against murder charges.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10529,
+            10536
+          ],
+          "text": "himself"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder conspiracy",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10545,
+            10551
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.686221,
+      "sentence": "John Hawkins Jean Hansen and Dr Richard Boggs were charged with murder conspiracy insurance fraud and grand theft.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13444,
+            13457
+          ],
+          "text": "Richard Boggs"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder conspiracy",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13476,
+            13493
+          ],
+          "text": "murder conspiracy"
+        }
+      ]
+    },
+    {
+      "score": 0.547682,
+      "sentence": "And when they looked into the Ohio clothing business owned by Jean Hanson and John Hawkins they found the same thing huge financial losses one of the ways out of there the Lima.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8118,
+            8122
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "Columbus Ohio",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8139,
+            8143
+          ],
+          "text": "Ohio"
+        }
+      ]
+    },
+    {
+      "score": 0.46543,
+      "sentence": "Dr Richard Boggs was a Harvard educated neurologist in Glendale California a short drive from Hollywood.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            339,
+            350
+          ],
+          "text": "neurologist"
+        },
+        {
+          "entities": [
+            {
+              "text": "Harvard",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            322,
+            329
+          ],
+          "text": "Harvard"
+        }
+      ]
+    },
+    {
+      "score": 0.880977,
+      "sentence": "And when they looked into the Ohio clothing business owned by Jean Hanson and John Hawkins they found the same thing huge financial losses one of the ways out of there the Lima.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "clothing business",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8144,
+            8161
+          ],
+          "text": "clothing business"
+        },
+        {
+          "entities": [
+            {
+              "text": "Columbus Ohio",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8139,
+            8143
+          ],
+          "text": "Ohio"
+        }
+      ]
+    },
+    {
+      "score": 0.445416,
+      "sentence": "And when they looked into the Ohio clothing business owned by Jean Hanson and John Hawkins they found the same thing huge financial losses one of the ways out of there the Lima.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8171,
+            8182
+          ],
+          "text": "Jean Hanson"
+        },
+        {
+          "entities": [
+            {
+              "text": "clothing business",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8144,
+            8161
+          ],
+          "text": "clothing business"
+        }
+      ]
+    },
+    {
+      "score": 0.411428,
+      "sentence": "And when they looked into the Ohio clothing business owned by Jean Hanson and John Hawkins they found the same thing huge financial losses one of the ways out of there the Lima.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Hawkins Jean Hansen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8187,
+            8199
+          ],
+          "text": "John Hawkins"
+        },
+        {
+          "entities": [
+            {
+              "text": "Investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8200,
+            8204
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.765124,
+      "sentence": "And when they looked into the Ohio clothing business owned by Jean Hanson and John Hawkins they found the same thing huge financial losses one of the ways out of there the Lima.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8200,
+            8204
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lima",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8281,
+            8285
+          ],
+          "text": "Lima"
+        }
+      ]
+    },
+    {
+      "score": 0.836312,
+      "sentence": "If the murderous Alice green was an insurance scam investigators were certain Dr Richard Boggs Jean Hanson and John Hawkins were all involved I don't know how they met I know that both Hawkins and Hanson had been patients of doctor Boggs and they don't know each other for many years.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8524,
+            8528
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "met",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            8529,
+            8532
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.829768,
+      "sentence": "If the murderous Alice green was an insurance scam investigators were certain Dr Richard Boggs Jean Hanson and John Hawkins were all involved I don't know how they met I know that both Hawkins and Hanson had been patients of doctor Boggs and they don't know each other for many years.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8533,
+            8534
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "met",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            8529,
+            8532
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.309541,
+      "sentence": "If the murderous Alice green was an insurance scam investigators were certain Dr Richard Boggs Jean Hanson and John Hawkins were all involved I don't know how they met I know that both Hawkins and Hanson had been patients of doctor Boggs and they don't know each other for many years.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8578,
+            8586
+          ],
+          "text": "patients"
+        },
+        {
+          "entities": [
+            {
+              "text": "Hanson",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8562,
+            8568
+          ],
+          "text": "Hanson"
+        }
+      ]
+    },
+    {
+      "score": 0.728901,
+      "sentence": "Lands for Hanson staged murder may have put on a full year early phone records show the trio was in constant communication.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hanson",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8660,
+            8666
+          ],
+          "text": "Hanson"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder conspiracy",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            8674,
+            8680
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.429843,
+      "sentence": "Phone records set up for us the conspiracy every time they prepared to do something in this case you saw an increase in phone activity between all three individuals.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Alice",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8871,
+            8874
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "us",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8799,
+            8801
+          ],
+          "text": "us"
+        }
+      ]
+    },
+    {
+      "score": 0.637032,
+      "sentence": "After buying a one million dollar insurance policy Jean Hanson told his friends and colleagues that he was dying of aids which wasn't true and he said he was moving to California.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9012,
+            9019
+          ],
+          "text": "friends"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9003,
+            9007
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.486871,
+      "sentence": "Dr Richard Boggs was a Harvard educated neurologist in Glendale California a short drive from Hollywood.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            339,
+            350
+          ],
+          "text": "neurologist"
+        },
+        {
+          "entities": [
+            {
+              "text": "Glendale California",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            354,
+            373
+          ],
+          "text": "Glendale California"
+        }
+      ]
+    },
+    {
+      "score": 0.897671,
+      "sentence": "After buying a one million dollar insurance policy Jean Hanson told his friends and colleagues that he was dying of aids which wasn't true and he said he was moving to California.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "colleagues",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9024,
+            9034
+          ],
+          "text": "colleagues"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9003,
+            9007
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.661501,
+      "sentence": "After buying a one million dollar insurance policy Jean Hanson told his friends and colleagues that he was dying of aids which wasn't true and he said he was moving to California.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9091,
+            9093
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "Glendale California",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9108,
+            9118
+          ],
+          "text": "California"
+        }
+      ]
+    },
+    {
+      "score": 0.949939,
+      "sentence": "Before he left he made John Hawkins the sole beneficiary of his estate eliminating his family from his will.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9127,
+            9129
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "left",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            9130,
+            9134
+          ],
+          "text": "left"
+        }
+      ]
+    },
+    {
+      "score": 0.328538,
+      "sentence": "Before he left he made John Hawkins the sole beneficiary of his estate eliminating his family from his will.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9203,
+            9206
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9207,
+            9213
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.732812,
+      "sentence": "This is a case that involved elaborate planning to make sure there's no mistake that some bereaved relative of the truth Mr Hansen such as his mother doesn't show up and say wait a second the save my care.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9372,
+            9378
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Boggs Hansen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9368,
+            9371
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.615987,
+      "sentence": "Police believe that Hanson and Boggs Matt Ellis green in a north Hollywood bar.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Boggs Matt Ellis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9466,
+            9482
+          ],
+          "text": "Boggs Matt Ellis"
+        },
+        {
+          "entities": [
+            {
+              "text": "bar",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9510,
+            9513
+          ],
+          "text": "bar"
+        }
+      ]
+    },
+    {
+      "score": 0.911344,
+      "sentence": "Police believe that Hanson and Boggs Matt Ellis green in a north Hollywood bar.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "north",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            9494,
+            9499
+          ],
+          "text": "north"
+        },
+        {
+          "entities": [
+            {
+              "text": "Hollywood",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9500,
+            9509
+          ],
+          "text": "Hollywood"
+        }
+      ]
+    },
+    {
+      "score": 0.796607,
+      "sentence": "Police believe that Hanson and Boggs Matt Ellis green in a north Hollywood bar.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bar",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9510,
+            9513
+          ],
+          "text": "bar"
+        },
+        {
+          "entities": [
+            {
+              "text": "north",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            9494,
+            9499
+          ],
+          "text": "north"
+        }
+      ]
+    },
+    {
+      "score": 0.925381,
+      "sentence": "Police believe that Hanson and Boggs Matt Ellis green in a north Hollywood bar.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bar",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9510,
+            9513
+          ],
+          "text": "bar"
+        },
+        {
+          "entities": [
+            {
+              "text": "Hollywood",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9500,
+            9509
+          ],
+          "text": "Hollywood"
+        }
+      ]
+    },
+    {
+      "score": 0.588782,
+      "sentence": "The very moment paramedics were attempting to resuscitate on the screen and doctor Boggs office a man matching Jean Hanson's description checked into this hotel just two blocks from the box office under an alias later the real Jean Hanson received a telephone call from John falcons in Ohio.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9967,
+            9970
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "defense",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10024,
+            10029
+          ],
+          "text": "hotel"
+        }
+      ]
+    },
+    {
+      "score": 0.997927,
+      "sentence": "He said he performed an electrocardiogram which appeared normal.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patient",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            726,
+            728
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "argued",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            729,
+            733
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.543242,
+      "sentence": "The very moment paramedics were attempting to resuscitate on the screen and doctor Boggs office a man matching Jean Hanson's description checked into this hotel just two blocks from the box office under an alias later the real Jean Hanson received a telephone call from John falcons in Ohio.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10096,
+            10107
+          ],
+          "text": "Jean Hanson"
+        },
+        {
+          "entities": [
+            {
+              "text": "Columbus Ohio",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10155,
+            10159
+          ],
+          "text": "Ohio"
+        }
+      ]
+    },
+    {
+      "score": 0.389976,
+      "sentence": "The very moment paramedics were attempting to resuscitate on the screen and doctor Boggs office a man matching Jean Hanson's description checked into this hotel just two blocks from the box office under an alias later the real Jean Hanson received a telephone call from John falcons in Ohio.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John falcons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10139,
+            10151
+          ],
+          "text": "John falcons"
+        },
+        {
+          "entities": [
+            {
+              "text": "Columbus Ohio",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10155,
+            10159
+          ],
+          "text": "Ohio"
+        }
+      ]
+    },
+    {
+      "score": 0.809516,
+      "sentence": "And when Ellis green was pronounced dead John Hawkins flew to California from high identified green's body as that of his partner Jean Jean Hanson at the body cremated and collected the one million dollars from the life insurance policy.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Boggs Matt Ellis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10170,
+            10175
+          ],
+          "text": "Ellis"
+        },
+        {
+          "entities": [
+            {
+              "text": "pronounced",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10186,
+            10196
+          ],
+          "text": "pronounced"
+        }
+      ]
+    },
+    {
+      "score": 0.655246,
+      "sentence": "Then Hawkins and the real Jean Hanson both vanished leaving behind their bankrupt clothing company and Dr Richard Boggs to defend himself against murder charges.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Hawkins Jean Hansen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10404,
+            10411
+          ],
+          "text": "Hawkins"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10466,
+            10471
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.827245,
+      "sentence": "Then Hawkins and the real Jean Hanson both vanished leaving behind their bankrupt clothing company and Dr Richard Boggs to defend himself against murder charges.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jean Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10425,
+            10436
+          ],
+          "text": "Jean Hanson"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10466,
+            10471
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.651423,
+      "sentence": "Then Hawkins and the real Jean Hanson both vanished leaving behind their bankrupt clothing company and Dr Richard Boggs to defend himself against murder charges.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10466,
+            10471
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder conspiracy",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10545,
+            10551
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.911813,
+      "sentence": "Then Hawkins and the real Jean Hanson both vanished leaving behind their bankrupt clothing company and Dr Richard Boggs to defend himself against murder charges.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10529,
+            10536
+          ],
+          "text": "himself"
+        },
+        {
+          "entities": [
+            {
+              "text": "charges",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10552,
+            10559
+          ],
+          "text": "charges"
+        }
+      ]
+    },
+    {
+      "score": 0.539316,
+      "sentence": "As Dr Richard Boggs sat in a California jail for the murder of Alice green his conspirators Jean Hanson and John Hawkins we're still on the run.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Boggs Jean Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10677,
+            10690
+          ],
+          "text": "Richard Boggs"
+        },
+        {
+          "entities": [
+            {
+              "text": "jail",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10711,
+            10715
+          ],
+          "text": "jail"
+        }
+      ]
+    },
+    {
+      "score": 0.958361,
+      "sentence": "As Dr Richard Boggs sat in a California jail for the murder of Alice green his conspirators Jean Hanson and John Hawkins we're still on the run.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "jail",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10711,
+            10715
+          ],
+          "text": "jail"
+        },
+        {
+          "entities": [
+            {
+              "text": "Glendale California",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10700,
+            10710
+          ],
+          "text": "California"
+        }
+      ]
+    },
+    {
+      "score": 0.464169,
+      "sentence": "As Dr Richard Boggs sat in a California jail for the murder of Alice green his conspirators Jean Hanson and John Hawkins we're still on the run.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "murder conspiracy",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10724,
+            10730
+          ],
+          "text": "murder"
+        },
+        {
+          "entities": [
+            {
+              "text": "jail",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10711,
+            10715
+          ],
+          "text": "jail"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5148 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 16561,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ronald Porter",
+      "relevance": 0.957562,
+      "confidence": 1,
+      "count": 13
+    },
+    {
+      "type": "Person",
+      "text": "Porter",
+      "relevance": 0.482911,
+      "confidence": 1,
+      "count": 10
+    },
+    {
+      "type": "Person",
+      "text": "Larry Daley",
+      "relevance": 0.374719,
+      "confidence": 0.998742,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "California",
+      "relevance": 0.350349,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "sheepshead mountain",
+      "relevance": 0.340857,
+      "confidence": 0.643474,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "San Diego",
+      "relevance": 0.3086,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Betty bass",
+      "relevance": 0.297667,
+      "confidence": 0.974809,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one month",
+      "relevance": 0.272622,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "forty three year",
+      "relevance": 0.210966,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Faulkner",
+      "relevance": 0.197504,
+      "confidence": 0.999998,
+      "count": 5
+    },
+    {
+      "type": "Quantity",
+      "text": "forty one year",
+      "relevance": 0.184093,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "el Centro",
+      "relevance": 0.177687,
+      "confidence": 0.138894,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Sandra Swink",
+      "relevance": 0.17668,
+      "confidence": 0.999807,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Sandra swing",
+      "relevance": 0.173425,
+      "confidence": 0.95085,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Larry Ancrum",
+      "relevance": 0.167623,
+      "confidence": 0.963266,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Ramona",
+      "relevance": 0.158845,
+      "confidence": 0.713506,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "el Centro",
+      "relevance": 0.156029,
+      "confidence": 0.152581,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Sandra",
+      "relevance": 0.147408,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "ninety two degree",
+      "relevance": 0.140436,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Sport",
+      "text": "tennis",
+      "relevance": 0.138166,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Sandra Swick",
+      "relevance": 0.136336,
+      "confidence": 1,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "three years",
+      "relevance": 0.135507,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "eight years",
+      "relevance": 0.1329,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Chloe",
+      "relevance": 0.131045,
+      "confidence": 0.933272,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Betty",
+      "relevance": 0.126322,
+      "confidence": 0.989788,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Sanders",
+      "relevance": 0.110385,
+      "confidence": 0.992349,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "Three months",
+      "relevance": 0.084474,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Honda",
+      "relevance": 0.075975,
+      "confidence": 0.741507,
+      "count": 1,
+      "disambiguation": {
+        "name": "Honda",
+        "dbpedia_resource": "http://dbpedia.org/resource/Honda"
+      }
+    },
+    {
+      "type": "Organization",
+      "text": "FBI",
+      "relevance": 0.073957,
+      "confidence": 0.999878,
+      "count": 1,
+      "disambiguation": {
+        "name": "Federal_Bureau_of_Investigation",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation",
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "David fox",
+      "relevance": 0.073597,
+      "confidence": 0.966411,
+      "count": 1,
+      "disambiguation": {
+        "name": "David_Fox_%28writer_and_game_developer%29",
+        "dbpedia_resource": "http://dbpedia.org/resource/David_Fox_%28writer_and_game_developer%29",
+        "subtype": [
+          "VideoGameDesigner"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "three months",
+      "relevance": 0.072195,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Florida",
+      "relevance": 0.067074,
+      "confidence": 0.993232,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Wynn",
+      "relevance": 0.055038,
+      "confidence": 0.90924,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Ron Porter",
+      "relevance": 0.045038,
+      "confidence": 0.997124,
+      "count": 1,
+      "disambiguation": {
+        "name": "Ron_Porter",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ron_Porter"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Aaron",
+      "relevance": 0.044513,
+      "confidence": 0.994072,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "swift",
+      "relevance": 0.021945,
+      "confidence": 0.968518,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mark",
+      "relevance": 0.019299,
+      "confidence": 0.965851,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Swick",
+      "relevance": 0.015324,
+      "confidence": 0.999723,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Ronald Eliot Porter",
+      "relevance": 0.015091,
+      "confidence": 0.737257,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "David Faulkner",
+      "relevance": 0.008306,
+      "confidence": 0.99987,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty eight years",
+      "relevance": 0.008118,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Ronald",
+      "relevance": 0.00376,
+      "confidence": 0.999268,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.955323
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.744913
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.716779
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.672282
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.665023
+    },
+    {
+      "label": "/society/crime/sexual offence/rape",
+      "score": 0.659002
+    },
+    {
+      "label": "/style and fashion/clothing",
+      "score": 0.598392
+    },
+    {
+      "label": "/automotive and vehicles/auto parts",
+      "score": 0.583009
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.514031,
+      "sentence": "Between nineteen eighty five and nineteen eighty eight eighteen transients hitchhikers and prostitutes were choked sexually molested and left for dead in the desert mountains of California.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mountains",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            165,
+            174
+          ],
+          "text": "mountains"
+        },
+        {
+          "entities": [
+            {
+              "text": "desert",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            158,
+            164
+          ],
+          "text": "desert"
+        }
+      ]
+    },
+    {
+      "score": 0.621233,
+      "sentence": "As they drove over the mountains the driver said he needed to pull off the highway to take a bathroom break.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "driver",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1335,
+            1337
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "highway",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1361,
+            1368
+          ],
+          "text": "highway"
+        }
+      ]
+    },
+    {
+      "score": 0.290396,
+      "sentence": "When detectives found Sanders six body on sheepshead mountain it was badly decomposed the hot desert Aaron's son had taken its toll and hundreds of tiny worm like creatures were feeding on her decomposing flesh investigators wondered if these tiny creatures might offer some clues about Wynn's centrist with di tech tips collected about a hundred of these creatures and sent them to the laboratory of David fox he's a forensic entomologist an expert on insect activity on dead bodies they can tell you lots about where they've been where the victim's bent how old the victims conditions of the body following death and those are the things that are interesting Faulkner's first task was to determine the agency's creatures or mac it says they're called so you preserve some in alcohol at the exact stage of development as when they were found",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David fox",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11326,
+            11335
+          ],
+          "text": "David fox"
+        },
+        {
+          "entities": [
+            {
+              "text": "laboratory",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11312,
+            11322
+          ],
+          "text": "laboratory"
+        }
+      ]
+    },
+    {
+      "score": 0.376839,
+      "sentence": "You could compare it to the hundreds of different flies which inhabit the California desert were switched body was found.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "desert",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            11854,
+            11860
+          ],
+          "text": "desert"
+        },
+        {
+          "entities": [
+            {
+              "text": "California",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11843,
+            11853
+          ],
+          "text": "California"
+        }
+      ]
+    },
+    {
+      "score": 0.867138,
+      "sentence": "But she was dead by daybreak on Monday morning July eighteenth at the first sign of light these flesh flies were attracted to the chemical scent of switch decomposing flesh and immediately laid their maggots the maggots would not have been as developed if she had been alive longer if she had been alive Monday afternoon Monday evening there's no way that these flights under those temperature conditions could have developed to that stage Faulkner's conclusions provided police with the scientific time frame for swift's murder now detectives could investigate Ronald Porter's whereabouts during the time of switch death Porter worked as a mechanic at this automotive chain store when his time sheets were subpoenaed they revealed he was not at work on Sunday July seventeenth in addition Porter provided no alibi regarding his whereabouts on that day and it matched up we had a time period",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David Faulkner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13926,
+            13934
+          ],
+          "text": "Faulkner"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            14008,
+            14014
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.384076,
+      "sentence": "But she was dead by daybreak on Monday morning July eighteenth at the first sign of light these flesh flies were attracted to the chemical scent of switch decomposing flesh and immediately laid their maggots the maggots would not have been as developed if she had been alive longer if she had been alive Monday afternoon Monday evening there's no way that these flights under those temperature conditions could have developed to that stage Faulkner's conclusions provided police with the scientific time frame for swift's murder now detectives could investigate Ronald Porter's whereabouts during the time of switch death Porter worked as a mechanic at this automotive chain store when his time sheets were subpoenaed they revealed he was not at work on Sunday July seventeenth in addition Porter provided no alibi regarding his whereabouts on that day and it matched up we had a time period",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "el Centro",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14127,
+            14135
+          ],
+          "text": "mechanic"
+        },
+        {
+          "entities": [
+            {
+              "text": "automotive chain store",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14144,
+            14166
+          ],
+          "text": "automotive chain store"
+        }
+      ]
+    },
+    {
+      "score": 0.993885,
+      "sentence": "But she was dead by daybreak on Monday morning July eighteenth at the first sign of light these flesh flies were attracted to the chemical scent of switch decomposing flesh and immediately laid their maggots the maggots would not have been as developed if she had been alive longer if she had been alive Monday afternoon Monday evening there's no way that these flights under those temperature conditions could have developed to that stage Faulkner's conclusions provided police with the scientific time frame for swift's murder now detectives could investigate Ronald Porter's whereabouts during the time of switch death Porter worked as a mechanic at this automotive chain store when his time sheets were subpoenaed they revealed he was not at work on Sunday July seventeenth in addition Porter provided no alibi regarding his whereabouts on that day and it matched up we had a time period",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14204,
+            14208
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "revealed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14209,
+            14217
+          ],
+          "text": "revealed"
+        }
+      ]
+    },
+    {
+      "score": 0.515886,
+      "sentence": "But she was dead by daybreak on Monday morning July eighteenth at the first sign of light these flesh flies were attracted to the chemical scent of switch decomposing flesh and immediately laid their maggots the maggots would not have been as developed if she had been alive longer if she had been alive Monday afternoon Monday evening there's no way that these flights under those temperature conditions could have developed to that stage Faulkner's conclusions provided police with the scientific time frame for swift's murder now detectives could investigate Ronald Porter's whereabouts during the time of switch death Porter worked as a mechanic at this automotive chain store when his time sheets were subpoenaed they revealed he was not at work on Sunday July seventeenth in addition Porter provided no alibi regarding his whereabouts on that day and it matched up we had a time period",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "el Centro",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14218,
+            14220
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "revealed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14209,
+            14217
+          ],
+          "text": "revealed"
+        }
+      ]
+    },
+    {
+      "score": 0.390718,
+      "sentence": "where Ron Porter was available to drive from the north part of the county down to pick up a centrist wake and transporter these can discount based on the insect clues and the similarities between this week merger and the other cases Ronald Porter was charged in the murder of Sandra swing.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "north",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            14427,
+            14432
+          ],
+          "text": "north"
+        },
+        {
+          "entities": [
+            {
+              "text": "county",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14445,
+            14451
+          ],
+          "text": "county"
+        }
+      ]
+    },
+    {
+      "score": 0.858343,
+      "sentence": "where Ron Porter was available to drive from the north part of the county down to pick up a centrist wake and transporter these can discount based on the insect clues and the similarities between this week merger and the other cases Ronald Porter was charged in the murder of Sandra swing.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "this week",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            14574,
+            14583
+          ],
+          "text": "this week"
+        },
+        {
+          "entities": [
+            {
+              "text": "merger",
+              "type": "EventBusiness"
+            }
+          ],
+          "location": [
+            14584,
+            14590
+          ],
+          "text": "merger"
+        }
+      ]
+    },
+    {
+      "score": 0.902219,
+      "sentence": "where Ron Porter was available to drive from the north part of the county down to pick up a centrist wake and transporter these can discount based on the insect clues and the similarities between this week merger and the other cases Ronald Porter was charged in the murder of Sandra swing.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14611,
+            14624
+          ],
+          "text": "Ronald Porter"
+        },
+        {
+          "entities": [
+            {
+              "text": "cases",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14605,
+            14610
+          ],
+          "text": "cases"
+        }
+      ]
+    },
+    {
+      "score": 0.810172,
+      "sentence": "You may have used some excuse as he did in other cases possibly the need to take a bathroom break as he walked around the back of the car the surprise switch from behind.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14916,
+            14918
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "cases",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14932,
+            14937
+          ],
+          "text": "cases"
+        }
+      ]
+    },
+    {
+      "score": 0.842832,
+      "sentence": "The insect clues were an important element in their case against Ronald and they told David Faulkner.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16137,
+            16143
+          ],
+          "text": "Ronald"
+        },
+        {
+          "entities": [
+            {
+              "text": "cases",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            16124,
+            16128
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.587619,
+      "sentence": "where Ron Porter was available to drive from the north part of the county down to pick up a centrist wake and transporter these can discount based on the insect clues and the similarities between this week merger and the other cases Ronald Porter was charged in the murder of Sandra swing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14611,
+            14624
+          ],
+          "text": "Ronald Porter"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14629,
+            14636
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.541568,
+      "sentence": "When the driver walked around the car he asked Betty to grab something from the back seat actually did he wrapped his arm around her neck and choke her.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "driver",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1404,
+            1410
+          ],
+          "text": "driver"
+        },
+        {
+          "entities": [
+            {
+              "text": "ambulance",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1429,
+            1432
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.460294,
+      "sentence": "When the driver walked around the car he asked Betty to grab something from the back seat actually did he wrapped his arm around her neck and choke her.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "driver",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1433,
+            1435
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "ambulance",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1429,
+            1432
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.511109,
+      "sentence": "This girl was fortunate she survived her attack and her friend whom she feared was dead was later found in the desert frightened but alive the victims all provided a similar description of their attacker it was about early forties short hair Blondie's grayish color glasses that's how they all describe him obviously these were people are going to take rides from anyone but they many of them told us that they felt comfortable getting in the car with him and there were other similarities with all of these attacks the things he said to these women it was almost like he had a script.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "driver",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2787,
+            2790
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "ambulance",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2927,
+            2930
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.515381,
+      "sentence": "This girl was fortunate she survived her attack and her friend whom she feared was dead was later found in the desert frightened but alive the victims all provided a similar description of their attacker it was about early forties short hair Blondie's grayish color glasses that's how they all describe him obviously these were people are going to take rides from anyone but they many of them told us that they felt comfortable getting in the car with him and there were other similarities with all of these attacks the things he said to these women it was almost like he had a script.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "driver",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2936,
+            2939
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "ambulance",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2927,
+            2930
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.625244,
+      "sentence": "As the car traveled east into the mountains Porter pulled off the main highway onto a dark deserted wrong.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14820,
+            14826
+          ],
+          "text": "Porter"
+        },
+        {
+          "entities": [
+            {
+              "text": "highway",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14847,
+            14854
+          ],
+          "text": "highway"
+        }
+      ]
+    },
+    {
+      "score": 0.831696,
+      "sentence": "You may have used some excuse as he did in other cases possibly the need to take a bathroom break as he walked around the back of the car the surprise switch from behind.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14984,
+            14986
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "ambulance",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            15017,
+            15020
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.800778,
+      "sentence": "To the ground removed her clothes and sexually assaulted her with his hands.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sandra Swick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15202,
+            15205
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            15227,
+            15236
+          ],
+          "text": "assaulted"
+        }
+      ]
+    },
+    {
+      "score": 0.847944,
+      "sentence": "And she bled to death from lacerations suffered during the assault her death had to be a tough one very difficult long dying process that she went through and the insect clues were able to provide detectives with the time of death something they were unable to determine by any other means I don't have that Ronald Eliot Porter guilty of the crime of murder Ronald Porter was convicted of second degree murder in the death of Sandra Swick and was sentenced to twenty eight years to life in prison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sandra Swick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15527,
+            15530
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            15582,
+            15589
+          ],
+          "text": "assault"
+        }
+      ]
+    },
+    {
+      "score": 0.537078,
+      "sentence": "To the ground removed her clothes and sexually assaulted her with his hands.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sandra Swick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15237,
+            15240
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            15227,
+            15236
+          ],
+          "text": "assaulted"
+        }
+      ]
+    },
+    {
+      "score": 0.539995,
+      "sentence": "And she bled to death from lacerations suffered during the assault her death had to be a tough one very difficult long dying process that she went through and the insect clues were able to provide detectives with the time of death something they were unable to determine by any other means I don't have that Ronald Eliot Porter guilty of the crime of murder Ronald Porter was convicted of second degree murder in the death of Sandra Swick and was sentenced to twenty eight years to life in prison.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15881,
+            15894
+          ],
+          "text": "Ronald Porter"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            15874,
+            15880
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.417125,
+      "sentence": "And she bled to death from lacerations suffered during the assault her death had to be a tough one very difficult long dying process that she went through and the insect clues were able to provide detectives with the time of death something they were unable to determine by any other means I don't have that Ronald Eliot Porter guilty of the crime of murder Ronald Porter was convicted of second degree murder in the death of Sandra Swick and was sentenced to twenty eight years to life in prison.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15881,
+            15894
+          ],
+          "text": "Ronald Porter"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            15899,
+            15908
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.489451,
+      "sentence": "And she bled to death from lacerations suffered during the assault her death had to be a tough one very difficult long dying process that she went through and the insect clues were able to provide detectives with the time of death something they were unable to determine by any other means I don't have that Ronald Eliot Porter guilty of the crime of murder Ronald Porter was convicted of second degree murder in the death of Sandra Swick and was sentenced to twenty eight years to life in prison.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15881,
+            15894
+          ],
+          "text": "Ronald Porter"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            15970,
+            15979
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.849789,
+      "sentence": "And she bled to death from lacerations suffered during the assault her death had to be a tough one very difficult long dying process that she went through and the insect clues were able to provide detectives with the time of death something they were unable to determine by any other means I don't have that Ronald Eliot Porter guilty of the crime of murder Ronald Porter was convicted of second degree murder in the death of Sandra Swick and was sentenced to twenty eight years to life in prison.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sandra Swick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15949,
+            15961
+          ],
+          "text": "Sandra Swick"
+        },
+        {
+          "entities": [
+            {
+              "text": "twenty",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            15983,
+            15989
+          ],
+          "text": "twenty"
+        }
+      ]
+    },
+    {
+      "score": 0.998543,
+      "sentence": "Ronald Porter continues to maintain his innocence.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16021,
+            16034
+          ],
+          "text": "Ronald Porter"
+        },
+        {
+          "entities": [
+            {
+              "text": "continues",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            16035,
+            16044
+          ],
+          "text": "continues"
+        }
+      ]
+    },
+    {
+      "score": 0.746899,
+      "sentence": "The insect clues were an important element in their case against Ronald and they told David Faulkner.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16118,
+            16123
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "cases",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            16124,
+            16128
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.992866,
+      "sentence": "When the driver walked around the car he asked Betty to grab something from the back seat actually did he wrapped his arm around her neck and choke her.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "driver",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1433,
+            1435
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1436,
+            1441
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.990538,
+      "sentence": "The insect clues were an important element in their case against Ronald and they told David Faulkner.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16148,
+            16152
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            16153,
+            16157
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.696146,
+      "sentence": "The insect clues were an important element in their case against Ronald and they told David Faulkner.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David Faulkner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16158,
+            16172
+          ],
+          "text": "David Faulkner"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            16153,
+            16157
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.264705,
+      "sentence": "I crawled to the other side of the street some family game by put me in there a motor home.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "street",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1698,
+            1704
+          ],
+          "text": "street"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1749,
+            1753
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.424164,
+      "sentence": "I crawled to the other side of the street some family game by put me in there a motor home.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "lady",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1729,
+            1731
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1749,
+            1753
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.531137,
+      "sentence": "Ate me up a little bit and then they took me to the hospital the scene of the attack is right here in the dirt right by this little known.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1787,
+            1791
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "Sanders",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1807,
+            1815
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.474657,
+      "sentence": "Ate me up a little bit and then they took me to the hospital the scene of the attack is right here in the dirt right by this little known.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1787,
+            1791
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "location",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1820,
+            1825
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.737437,
+      "sentence": "Ate me up a little bit and then they took me to the hospital the scene of the attack is right here in the dirt right by this little known.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "lady",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1797,
+            1799
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "Sanders",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1807,
+            1815
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.704175,
+      "sentence": "Ate me up a little bit and then they took me to the hospital the scene of the attack is right here in the dirt right by this little known.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sanders",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1807,
+            1815
+          ],
+          "text": "hospital"
+        },
+        {
+          "entities": [
+            {
+              "text": "location",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1820,
+            1825
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.442312,
+      "sentence": "Ate me up a little bit and then they took me to the hospital the scene of the attack is right here in the dirt right by this little known.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "attack",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            1833,
+            1839
+          ],
+          "text": "attack"
+        },
+        {
+          "entities": [
+            {
+              "text": "location",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1820,
+            1825
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.553089,
+      "sentence": "Between nineteen eighty five and nineteen eighty eight eighteen transients hitchhikers and prostitutes were choked sexually molested and left for dead in the desert mountains of California.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mountains",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            165,
+            174
+          ],
+          "text": "mountains"
+        },
+        {
+          "entities": [
+            {
+              "text": "San Diego California",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            178,
+            188
+          ],
+          "text": "California"
+        }
+      ]
+    },
+    {
+      "score": 0.552913,
+      "sentence": "Two young girls were hitchhiking together at a restaurant near the interstate highway.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "automotive chain store",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2318,
+            2328
+          ],
+          "text": "restaurant"
+        },
+        {
+          "entities": [
+            {
+              "text": "highway",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2349,
+            2356
+          ],
+          "text": "highway"
+        }
+      ]
+    },
+    {
+      "score": 0.945873,
+      "sentence": "And a middle aged man offered them a ride.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2417,
+            2421
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "offered",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2409,
+            2416
+          ],
+          "text": "offered"
+        }
+      ]
+    },
+    {
+      "score": 0.833528,
+      "sentence": "This girl was fortunate she survived her attack and her friend whom she feared was dead was later found in the desert frightened but alive the victims all provided a similar description of their attacker it was about early forties short hair Blondie's grayish color glasses that's how they all describe him obviously these were people are going to take rides from anyone but they many of them told us that they felt comfortable getting in the car with him and there were other similarities with all of these attacks the things he said to these women it was almost like he had a script.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sandra Swick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2521,
+            2524
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "attack",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            2525,
+            2531
+          ],
+          "text": "attack"
+        }
+      ]
+    },
+    {
+      "score": 0.394832,
+      "sentence": "The woman found unconscious in the desert survive to return back and was able to identify Porter as her attacker Porter confessed to the attack but would not admit to any of the other attacks over the past three years investigators believe Porter was responsible and the also suspected that Porter had murdered Sandra Swink three months earlier to find out if all these crimes with the work of one individual San Diego authorities sought help from the FBI and their unit which specializes in studying serial murderers that another offender would choose to adopt the same type of victim bring it to the same type of location do the same types of acts with them in the same locations are almost exact locations became pretty good pretty evident to us that the probabilities favorite being one person Larry Ancrum identified the remote desert dump sites as a signature element of",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sandra Swick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7305,
+            7310
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "attack",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            7438,
+            7444
+          ],
+          "text": "attack"
+        }
+      ]
+    },
+    {
+      "score": 0.614067,
+      "sentence": "Disoriented and bleeding heavily from the attack Swick walked barefoot down the dark deserted wrong walking almost a mile before collapsing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sandra Swick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15389,
+            15394
+          ],
+          "text": "Swick"
+        },
+        {
+          "entities": [
+            {
+              "text": "attack",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            15382,
+            15388
+          ],
+          "text": "attack"
+        }
+      ]
+    },
+    {
+      "score": 0.221968,
+      "sentence": "This girl was fortunate she survived her attack and her friend whom she feared was dead was later found in the desert frightened but alive the victims all provided a similar description of their attacker it was about early forties short hair Blondie's grayish color glasses that's how they all describe him obviously these were people are going to take rides from anyone but they many of them told us that they felt comfortable getting in the car with him and there were other similarities with all of these attacks the things he said to these women it was almost like he had a script.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "driver",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2547,
+            2551
+          ],
+          "text": "whom"
+        },
+        {
+          "entities": [
+            {
+              "text": "Sandra Swick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2552,
+            2555
+          ],
+          "text": "she"
+        }
+      ]
+    },
+    {
+      "score": 0.937883,
+      "sentence": "This girl was fortunate she survived her attack and her friend whom she feared was dead was later found in the desert frightened but alive the victims all provided a similar description of their attacker it was about early forties short hair Blondie's grayish color glasses that's how they all describe him obviously these were people are going to take rides from anyone but they many of them told us that they felt comfortable getting in the car with him and there were other similarities with all of these attacks the things he said to these women it was almost like he had a script.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2769,
+            2773
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "describe",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2778,
+            2786
+          ],
+          "text": "describe"
+        }
+      ]
+    },
+    {
+      "score": 0.77859,
+      "sentence": "This girl was fortunate she survived her attack and her friend whom she feared was dead was later found in the desert frightened but alive the victims all provided a similar description of their attacker it was about early forties short hair Blondie's grayish color glasses that's how they all describe him obviously these were people are going to take rides from anyone but they many of them told us that they felt comfortable getting in the car with him and there were other similarities with all of these attacks the things he said to these women it was almost like he had a script.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "driver",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2787,
+            2790
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "describe",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2778,
+            2786
+          ],
+          "text": "describe"
+        }
+      ]
+    },
+    {
+      "score": 0.572569,
+      "sentence": "This girl was fortunate she survived her attack and her friend whom she feared was dead was later found in the desert frightened but alive the victims all provided a similar description of their attacker it was about early forties short hair Blondie's grayish color glasses that's how they all describe him obviously these were people are going to take rides from anyone but they many of them told us that they felt comfortable getting in the car with him and there were other similarities with all of these attacks the things he said to these women it was almost like he had a script.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sandra Swick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2848,
+            2854
+          ],
+          "text": "anyone"
+        },
+        {
+          "entities": [
+            {
+              "text": "ambulance",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2927,
+            2930
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.538263,
+      "sentence": "The attacker invested lots of time and effort into finding these remote locations another signature element was the type of women he chose he's making an assessment before he decides he's gonna go ahead and ask her if she needs a ride and and when he's made that initial impression then once he's decided yeah I can control this victim then she gets in the car and then it becomes somewhat of a game with him to get her where he wants wants to go the F. B. I. was convinced that all of these crimes were indeed the work of the same individual the next step was for San Diego authorities to prove that Ronald Porter committed these crimes the carpet fibers importers car were microscopically similar to the red carpet fiber found on the blouse Abedi backs tire tracks found at some of the crime",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sandra Swick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8538,
+            8541
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "ambulance",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            8554,
+            8557
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.897346,
+      "sentence": "Grabbing her around the neck and a military type choke hold pulled her from the car and choked her until she was unconscious.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sandra Swick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15121,
+            15124
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "ambulance",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            15134,
+            15137
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.742672,
+      "sentence": "This girl was fortunate she survived her attack and her friend whom she feared was dead was later found in the desert frightened but alive the victims all provided a similar description of their attacker it was about early forties short hair Blondie's grayish color glasses that's how they all describe him obviously these were people are going to take rides from anyone but they many of them told us that they felt comfortable getting in the car with him and there were other similarities with all of these attacks the things he said to these women it was almost like he had a script.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2872,
+            2876
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2877,
+            2881
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.83483,
+      "sentence": "This girl was fortunate she survived her attack and her friend whom she feared was dead was later found in the desert frightened but alive the victims all provided a similar description of their attacker it was about early forties short hair Blondie's grayish color glasses that's how they all describe him obviously these were people are going to take rides from anyone but they many of them told us that they felt comfortable getting in the car with him and there were other similarities with all of these attacks the things he said to these women it was almost like he had a script.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2882,
+            2884
+          ],
+          "text": "us"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2877,
+            2881
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.738576,
+      "sentence": "This girl was fortunate she survived her attack and her friend whom she feared was dead was later found in the desert frightened but alive the victims all provided a similar description of their attacker it was about early forties short hair Blondie's grayish color glasses that's how they all describe him obviously these were people are going to take rides from anyone but they many of them told us that they felt comfortable getting in the car with him and there were other similarities with all of these attacks the things he said to these women it was almost like he had a script.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2890,
+            2894
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "ambulance",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2927,
+            2930
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.355273,
+      "sentence": "The women who had been choked unconscious and sexually molested or old dumped and left for dead in the high desert mountains near San Diego California not all of the victims died and those who survived all describe the same scenario several of them had their pants undone and pull down bras were moved up exposing their breasts one lady had a nipple ring removed so we thought there would been there'd been some sort of sexual activity but because they're unconscious we had no proof of it Betty bass was one of the victims.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mountains",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            414,
+            423
+          ],
+          "text": "mountains"
+        },
+        {
+          "entities": [
+            {
+              "text": "desert",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            407,
+            413
+          ],
+          "text": "desert"
+        }
+      ]
+    },
+    {
+      "score": 0.994388,
+      "sentence": "This girl was fortunate she survived her attack and her friend whom she feared was dead was later found in the desert frightened but alive the victims all provided a similar description of their attacker it was about early forties short hair Blondie's grayish color glasses that's how they all describe him obviously these were people are going to take rides from anyone but they many of them told us that they felt comfortable getting in the car with him and there were other similarities with all of these attacks the things he said to these women it was almost like he had a script.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "el Centro",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3011,
+            3013
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3014,
+            3018
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.853039,
+      "sentence": "This girl was fortunate she survived her attack and her friend whom she feared was dead was later found in the desert frightened but alive the victims all provided a similar description of their attacker it was about early forties short hair Blondie's grayish color glasses that's how they all describe him obviously these were people are going to take rides from anyone but they many of them told us that they felt comfortable getting in the car with him and there were other similarities with all of these attacks the things he said to these women it was almost like he had a script.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "women",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3028,
+            3033
+          ],
+          "text": "women"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3014,
+            3018
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.516504,
+      "sentence": "It was almost the same type of scenario I can only take you forty miles I'm only going to el Centro the type of people who's victimizing were the vulnerable people in society some people who were having mental problems drug addicts street people hitchhiker's police have a description of the suspect some tire tracks and shoe print evidence but little else.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3309,
+            3315
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "street",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3302,
+            3308
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.606526,
+      "sentence": "San Diego's el Cajon Boulevard.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Cajon Boulevard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3460,
+            3462
+          ],
+          "text": "el"
+        },
+        {
+          "entities": [
+            {
+              "text": "San Diego California",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3448,
+            3457
+          ],
+          "text": "San Diego"
+        }
+      ]
+    },
+    {
+      "score": 0.577951,
+      "sentence": "With prostitutes and runaways in transients have congregated for years the reason location it's close to a highway entrance ramp convenient for hitchhikers looking for a ride.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "runaways",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3501,
+            3509
+          ],
+          "text": "runaways"
+        },
+        {
+          "entities": [
+            {
+              "text": "transients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3513,
+            3523
+          ],
+          "text": "transients"
+        }
+      ]
+    },
+    {
+      "score": 0.559425,
+      "sentence": "And it was here where many of the victims were shot.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3690,
+            3697
+          ],
+          "text": "victims"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            3703,
+            3707
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.402584,
+      "sentence": "Series of live victims and we also had dead victims out there who we thought were part of a pattern we had what we thought was a pretty consistent pattern a common foot prints common tire tracks the same type of victims being victimized and certainly the same area where they're being picked up and dropped when detectives were called to sheepshead mountain on July twenty first nineteen eighty eight they feared another in a series of choking down cases this time the victim was staying and nude from the waist down she was found laying on the road here this was more dug out at the time the graders coming here every so often and she was in the morning to ditch type of thing.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3980,
+            3984
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "location",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            3974,
+            3979
+          ],
+          "text": "where"
+        }
+      ]
+    },
+    {
+      "score": 0.752349,
+      "sentence": "Series of live victims and we also had dead victims out there who we thought were part of a pattern we had what we thought was a pretty consistent pattern a common foot prints common tire tracks the same type of victims being victimized and certainly the same area where they're being picked up and dropped when detectives were called to sheepshead mountain on July twenty first nineteen eighty eight they feared another in a series of choking down cases this time the victim was staying and nude from the waist down she was found laying on the road here this was more dug out at the time the graders coming here every so often and she was in the morning to ditch type of thing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4021,
+            4031
+          ],
+          "text": "detectives"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4037,
+            4043
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.286137,
+      "sentence": "Series of live victims and we also had dead victims out there who we thought were part of a pattern we had what we thought was a pretty consistent pattern a common foot prints common tire tracks the same type of victims being victimized and certainly the same area where they're being picked up and dropped when detectives were called to sheepshead mountain on July twenty first nineteen eighty eight they feared another in a series of choking down cases this time the victim was staying and nude from the waist down she was found laying on the road here this was more dug out at the time the graders coming here every so often and she was in the morning to ditch type of thing.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "graders",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4302,
+            4309
+          ],
+          "text": "graders"
+        },
+        {
+          "entities": [
+            {
+              "text": "location",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4317,
+            4321
+          ],
+          "text": "here"
+        }
+      ]
+    },
+    {
+      "score": 0.249706,
+      "sentence": "It appeared the victim was alive before falling into the ditch because impressions over arms flailing were found in the dirt tech did noticed a blood trail and heard their footprints leading almost a mile up the mountain at the top of the mountain detectives found a pair of shoes and clothing two sets of footprints and signs of a struggle.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4747,
+            4757
+          ],
+          "text": "detectives"
+        },
+        {
+          "entities": [
+            {
+              "text": "mountain",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            4738,
+            4746
+          ],
+          "text": "mountain"
+        }
+      ]
+    },
+    {
+      "score": 0.669132,
+      "sentence": "The women who had been choked unconscious and sexually molested or old dumped and left for dead in the high desert mountains near San Diego California not all of the victims died and those who survived all describe the same scenario several of them had their pants undone and pull down bras were moved up exposing their breasts one lady had a nipple ring removed so we thought there would been there'd been some sort of sexual activity but because they're unconscious we had no proof of it Betty bass was one of the victims.",
+      "type": "near",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mountains",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            414,
+            423
+          ],
+          "text": "mountains"
+        },
+        {
+          "entities": [
+            {
+              "text": "San Diego California",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            429,
+            449
+          ],
+          "text": "San Diego California"
+        }
+      ]
+    },
+    {
+      "score": 0.494835,
+      "sentence": "The footprints led detectives to a parking area where they noticed the tire track it looked as if a car had turned around before leaving the scene the victims bare footprints led from the clearing into the brush somehow to get yourself out of this area and then comes back up and then finds her way down the main road on the body investigators discovered some tiny clues.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4895,
+            4899
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "location",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            4889,
+            4894
+          ],
+          "text": "where"
+        }
+      ]
+    },
+    {
+      "score": 0.705685,
+      "sentence": "The footprints led detectives to a parking area where they noticed the tire track it looked as if a car had turned around before leaving the scene the victims bare footprints led from the clearing into the brush somehow to get yourself out of this area and then comes back up and then finds her way down the main road on the body investigators discovered some tiny clues.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4992,
+            4999
+          ],
+          "text": "victims"
+        },
+        {
+          "entities": [
+            {
+              "text": "ambulance",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            4941,
+            4944
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.314493,
+      "sentence": "The footprints led detectives to a parking area where they noticed the tire track it looked as if a car had turned around before leaving the scene the victims bare footprints led from the clearing into the brush somehow to get yourself out of this area and then comes back up and then finds her way down the main road on the body investigators discovered some tiny clues.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "location",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            4982,
+            4987
+          ],
+          "text": "scene"
+        },
+        {
+          "entities": [
+            {
+              "text": "leaving",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            4970,
+            4977
+          ],
+          "text": "leaving"
+        }
+      ]
+    },
+    {
+      "score": 0.488061,
+      "sentence": "The footprints led detectives to a parking area where they noticed the tire track it looked as if a car had turned around before leaving the scene the victims bare footprints led from the clearing into the brush somehow to get yourself out of this area and then comes back up and then finds her way down the main road on the body investigators discovered some tiny clues.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4992,
+            4999
+          ],
+          "text": "victims"
+        },
+        {
+          "entities": [
+            {
+              "text": "leaving",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            4970,
+            4977
+          ],
+          "text": "leaving"
+        }
+      ]
+    },
+    {
+      "score": 0.549616,
+      "sentence": "Hundreds of mine were in like creatures they were carefully collected and preserved then taken to the forensics lab for analysis was it possible these tiny insects could tell forensic scientist something about the victims last moments alive or even when she was killed the autopsy revealed.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hundreds",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5213,
+            5221
+          ],
+          "text": "Hundreds"
+        },
+        {
+          "entities": [
+            {
+              "text": "mine",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5225,
+            5229
+          ],
+          "text": "mine"
+        }
+      ]
+    },
+    {
+      "score": 0.340873,
+      "sentence": "Twix body was found in the same general vicinity as many of the other choking down victims all were from the same distance from the interstate highway usually near a V. in the road where the attacker could.",
+      "type": "near",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "highway",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5925,
+            5932
+          ],
+          "text": "highway"
+        },
+        {
+          "entities": [
+            {
+              "text": "road",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5958,
+            5962
+          ],
+          "text": "road"
+        }
+      ]
+    },
+    {
+      "score": 0.3271,
+      "sentence": "Twix body was found in the same general vicinity as many of the other choking down victims all were from the same distance from the interstate highway usually near a V. in the road where the attacker could.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "el Centro",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5973,
+            5981
+          ],
+          "text": "attacker"
+        },
+        {
+          "entities": [
+            {
+              "text": "road",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5963,
+            5968
+          ],
+          "text": "where"
+        }
+      ]
+    },
+    {
+      "score": 0.789743,
+      "sentence": "Three months after six murder detectives got an unexpected break while patrolling in the mountains sheriff's deputy Larry Daley noticed a car driving out of the deserted side.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6089,
+            6099
+          ],
+          "text": "detectives"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6082,
+            6088
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.883185,
+      "sentence": "The Porter's attorney says a similar tennis shoe brand is inconclusive but five me and other people with similar issues with similar traps could also have made the prince and the prosecution faced another problem they weren't exactly sure when Sandra Swick was murdered time of death to terminate my pathologist is a very inexact science versus science at all there are certain changes the body undergoes we can predict general time frames for those but there's a lot of different.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10429,
+            10433
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10477,
+            10485
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.558773,
+      "sentence": "But she was dead by daybreak on Monday morning July eighteenth at the first sign of light these flesh flies were attracted to the chemical scent of switch decomposing flesh and immediately laid their maggots the maggots would not have been as developed if she had been alive longer if she had been alive Monday afternoon Monday evening there's no way that these flights under those temperature conditions could have developed to that stage Faulkner's conclusions provided police with the scientific time frame for swift's murder now detectives could investigate Ronald Porter's whereabouts during the time of switch death Porter worked as a mechanic at this automotive chain store when his time sheets were subpoenaed they revealed he was not at work on Sunday July seventeenth in addition Porter provided no alibi regarding his whereabouts on that day and it matched up we had a time period",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14019,
+            14029
+          ],
+          "text": "detectives"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            14008,
+            14014
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.098733,
+      "sentence": "Three months after six murder detectives got an unexpected break while patrolling in the mountains sheriff's deputy Larry Daley noticed a car driving out of the deserted side.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sheriff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6158,
+            6165
+          ],
+          "text": "sheriff"
+        },
+        {
+          "entities": [
+            {
+              "text": "mountains",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            6148,
+            6157
+          ],
+          "text": "mountains"
+        }
+      ]
+    },
+    {
+      "score": 0.342372,
+      "sentence": "Three months after six murder detectives got an unexpected break while patrolling in the mountains sheriff's deputy Larry Daley noticed a car driving out of the deserted side.",
+      "type": "clientOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sheriff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6158,
+            6165
+          ],
+          "text": "sheriff"
+        },
+        {
+          "entities": [
+            {
+              "text": "Larry Daley",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6168,
+            6174
+          ],
+          "text": "deputy"
+        }
+      ]
+    },
+    {
+      "score": 0.847324,
+      "sentence": "A man in a silver car pulled up and offered to take her part way take you as far as el Centro.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "el Centro",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1095,
+            1098
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "ambulance",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1111,
+            1114
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.691461,
+      "sentence": "He had a clean car so I. five.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "el Centro",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1188,
+            1190
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "ambulance",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1203,
+            1206
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.871657,
+      "sentence": "Three months after six murder detectives got an unexpected break while patrolling in the mountains sheriff's deputy Larry Daley noticed a car driving out of the deserted side.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Daley",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6175,
+            6186
+          ],
+          "text": "Larry Daley"
+        },
+        {
+          "entities": [
+            {
+              "text": "ambulance",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            6197,
+            6200
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.726939,
+      "sentence": "The the car coming out daily I turned on to the side road and saw a woman lying in the dirt unconscious but still alive I saw the victim laying on the ground pants down past her knees her shirt pulled up to her neck this if someone had choked her daily immediately called for an ambulance and put out a description of the car he saw driving from the scene after three years of frustration this be the break investigators were hoping for.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "el Centro",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6305,
+            6306
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "road",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6329,
+            6333
+          ],
+          "text": "road"
+        }
+      ]
+    },
+    {
+      "score": 0.460467,
+      "sentence": "Coming down the road towards me a short time later this silver Honda was stopped by an officer who heard the call what I wanted to see was I wanted to see a monster I wanted to see this monstrous man maybe someone with three arms who came out and was abducting women and and and strangling them the driver was forty one year old Ronald Porter an automotive mechanic with a history of sexual offenses.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "el Centro",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6929,
+            6931
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "road",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6916,
+            6920
+          ],
+          "text": "road"
+        }
+      ]
+    },
+    {
+      "score": 0.977383,
+      "sentence": "The the car coming out daily I turned on to the side road and saw a woman lying in the dirt unconscious but still alive I saw the victim laying on the ground pants down past her knees her shirt pulled up to her neck this if someone had choked her daily immediately called for an ambulance and put out a description of the car he saw driving from the scene after three years of frustration this be the break investigators were hoping for.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sandra Swick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6344,
+            6349
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6350,
+            6355
+          ],
+          "text": "lying"
+        }
+      ]
+    },
+    {
+      "score": 0.557094,
+      "sentence": "The the car coming out daily I turned on to the side road and saw a woman lying in the dirt unconscious but still alive I saw the victim laying on the ground pants down past her knees her shirt pulled up to her neck this if someone had choked her daily immediately called for an ambulance and put out a description of the car he saw driving from the scene after three years of frustration this be the break investigators were hoping for.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sandra Swick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6519,
+            6522
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "called for",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6541,
+            6551
+          ],
+          "text": "called for"
+        }
+      ]
+    },
+    {
+      "score": 0.873711,
+      "sentence": "The the car coming out daily I turned on to the side road and saw a woman lying in the dirt unconscious but still alive I saw the victim laying on the ground pants down past her knees her shirt pulled up to her neck this if someone had choked her daily immediately called for an ambulance and put out a description of the car he saw driving from the scene after three years of frustration this be the break investigators were hoping for.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "el Centro",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6602,
+            6604
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "location",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            6626,
+            6631
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.191627,
+      "sentence": "After finding the body of an unconscious woman in the desert sheriff's deputy Larry Daley rushed to his vehicle and called for help also called out the description of the vehicle I saw.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sandra Swick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6755,
+            6760
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "sheriff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6775,
+            6782
+          ],
+          "text": "sheriff"
+        }
+      ]
+    },
+    {
+      "score": 0.123952,
+      "sentence": "After finding the body of an unconscious woman in the desert sheriff's deputy Larry Daley rushed to his vehicle and called for help also called out the description of the vehicle I saw.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sheriff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6775,
+            6782
+          ],
+          "text": "sheriff"
+        },
+        {
+          "entities": [
+            {
+              "text": "desert",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            6768,
+            6774
+          ],
+          "text": "desert"
+        }
+      ]
+    },
+    {
+      "score": 0.328071,
+      "sentence": "After finding the body of an unconscious woman in the desert sheriff's deputy Larry Daley rushed to his vehicle and called for help also called out the description of the vehicle I saw.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sheriff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6775,
+            6782
+          ],
+          "text": "sheriff"
+        },
+        {
+          "entities": [
+            {
+              "text": "Larry Daley",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6785,
+            6791
+          ],
+          "text": "deputy"
+        }
+      ]
+    },
+    {
+      "score": 0.58642,
+      "sentence": "After finding the body of an unconscious woman in the desert sheriff's deputy Larry Daley rushed to his vehicle and called for help also called out the description of the vehicle I saw.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Daley",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6814,
+            6817
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "ambulance",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            6818,
+            6825
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.610924,
+      "sentence": "After finding the body of an unconscious woman in the desert sheriff's deputy Larry Daley rushed to his vehicle and called for help also called out the description of the vehicle I saw.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "called out",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6851,
+            6861
+          ],
+          "text": "called out"
+        },
+        {
+          "entities": [
+            {
+              "text": "called for",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6830,
+            6840
+          ],
+          "text": "called for"
+        }
+      ]
+    },
+    {
+      "score": 0.861545,
+      "sentence": "A man in a silver car pulled up and offered to take her part way take you as far as el Centro.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "el Centro",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1095,
+            1098
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "offered",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1129,
+            1136
+          ],
+          "text": "offered"
+        }
+      ]
+    },
+    {
+      "score": 0.99708,
+      "sentence": "And a middle aged man offered them a ride.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "el Centro",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2405,
+            2408
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "offered",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2409,
+            2416
+          ],
+          "text": "offered"
+        }
+      ]
+    },
+    {
+      "score": 0.463103,
+      "sentence": "Coming down the road towards me a short time later this silver Honda was stopped by an officer who heard the call what I wanted to see was I wanted to see a monster I wanted to see this monstrous man maybe someone with three arms who came out and was abducting women and and and strangling them the driver was forty one year old Ronald Porter an automotive mechanic with a history of sexual offenses.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "el Centro",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7106,
+            7113
+          ],
+          "text": "someone"
+        },
+        {
+          "entities": [
+            {
+              "text": "arms",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            7125,
+            7129
+          ],
+          "text": "arms"
+        }
+      ]
+    },
+    {
+      "score": 0.710078,
+      "sentence": "Coming down the road towards me a short time later this silver Honda was stopped by an officer who heard the call what I wanted to see was I wanted to see a monster I wanted to see this monstrous man maybe someone with three arms who came out and was abducting women and and and strangling them the driver was forty one year old Ronald Porter an automotive mechanic with a history of sexual offenses.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "driver",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7199,
+            7205
+          ],
+          "text": "driver"
+        },
+        {
+          "entities": [
+            {
+              "text": "forty one year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            7210,
+            7228
+          ],
+          "text": "forty one year old"
+        }
+      ]
+    },
+    {
+      "score": 0.923969,
+      "sentence": "Coming down the road towards me a short time later this silver Honda was stopped by an officer who heard the call what I wanted to see was I wanted to see a monster I wanted to see this monstrous man maybe someone with three arms who came out and was abducting women and and and strangling them the driver was forty one year old Ronald Porter an automotive mechanic with a history of sexual offenses.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7229,
+            7242
+          ],
+          "text": "Ronald Porter"
+        },
+        {
+          "entities": [
+            {
+              "text": "forty one year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            7210,
+            7228
+          ],
+          "text": "forty one year old"
+        }
+      ]
+    },
+    {
+      "score": 0.957788,
+      "sentence": "The woman found unconscious in the desert survive to return back and was able to identify Porter as her attacker Porter confessed to the attack but would not admit to any of the other attacks over the past three years investigators believe Porter was responsible and the also suspected that Porter had murdered Sandra Swink three months earlier to find out if all these crimes with the work of one individual San Diego authorities sought help from the FBI and their unit which specializes in studying serial murderers that another offender would choose to adopt the same type of victim bring it to the same type of location do the same types of acts with them in the same locations are almost exact locations became pretty good pretty evident to us that the probabilities favorite being one person Larry Ancrum identified the remote desert dump sites as a signature element of",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7414,
+            7420
+          ],
+          "text": "Porter"
+        },
+        {
+          "entities": [
+            {
+              "text": "confessed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7421,
+            7430
+          ],
+          "text": "confessed"
+        }
+      ]
+    },
+    {
+      "score": 0.827519,
+      "sentence": "The woman found unconscious in the desert survive to return back and was able to identify Porter as her attacker Porter confessed to the attack but would not admit to any of the other attacks over the past three years investigators believe Porter was responsible and the also suspected that Porter had murdered Sandra Swink three months earlier to find out if all these crimes with the work of one individual San Diego authorities sought help from the FBI and their unit which specializes in studying serial murderers that another offender would choose to adopt the same type of victim bring it to the same type of location do the same types of acts with them in the same locations are almost exact locations became pretty good pretty evident to us that the probabilities favorite being one person Larry Ancrum identified the remote desert dump sites as a signature element of",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "past three years",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            7502,
+            7518
+          ],
+          "text": "past three years"
+        },
+        {
+          "entities": [
+            {
+              "text": "attacks",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            7485,
+            7492
+          ],
+          "text": "attacks"
+        }
+      ]
+    },
+    {
+      "score": 0.913692,
+      "sentence": "The woman found unconscious in the desert survive to return back and was able to identify Porter as her attacker Porter confessed to the attack but would not admit to any of the other attacks over the past three years investigators believe Porter was responsible and the also suspected that Porter had murdered Sandra Swink three months earlier to find out if all these crimes with the work of one individual San Diego authorities sought help from the FBI and their unit which specializes in studying serial murderers that another offender would choose to adopt the same type of victim bring it to the same type of location do the same types of acts with them in the same locations are almost exact locations became pretty good pretty evident to us that the probabilities favorite being one person Larry Ancrum identified the remote desert dump sites as a signature element of",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7592,
+            7598
+          ],
+          "text": "Porter"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7603,
+            7611
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.773585,
+      "sentence": "But this week merger was their weakest case investigators found no semen no blood no hair or clothing fibers which could link Ronald Porter to the suite crime scene tire tracks found at the Sanders with the tax side was too faint for analysis however some of the tennis shoe prints found at the switch crime scene we're similar to a pair of tennis shoes found in Ronald Porter is a part.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9954,
+            9967
+          ],
+          "text": "Ronald Porter"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9981,
+            9986
+          ],
+          "text": "crime"
+        }
+      ]
+    },
+    {
+      "score": 0.534176,
+      "sentence": "Variables that affected if prosecutors wanted to convict Ronald Porter of merger they needed more could the tiny insects found on switch body tell forensic scientist wins centrist with died and tie Ronald Porter to her murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10896,
+            10909
+          ],
+          "text": "Ronald Porter"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10917,
+            10923
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.882204,
+      "sentence": "where Ron Porter was available to drive from the north part of the county down to pick up a centrist wake and transporter these can discount based on the insect clues and the similarities between this week merger and the other cases Ronald Porter was charged in the murder of Sandra swing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14611,
+            14624
+          ],
+          "text": "Ronald Porter"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            14644,
+            14650
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.336492,
+      "sentence": "The woman found unconscious in the desert survive to return back and was able to identify Porter as her attacker Porter confessed to the attack but would not admit to any of the other attacks over the past three years investigators believe Porter was responsible and the also suspected that Porter had murdered Sandra Swink three months earlier to find out if all these crimes with the work of one individual San Diego authorities sought help from the FBI and their unit which specializes in studying serial murderers that another offender would choose to adopt the same type of victim bring it to the same type of location do the same types of acts with them in the same locations are almost exact locations became pretty good pretty evident to us that the probabilities favorite being one person Larry Ancrum identified the remote desert dump sites as a signature element of",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sandra Swick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7612,
+            7624
+          ],
+          "text": "Sandra Swink"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7603,
+            7611
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.847184,
+      "sentence": "The woman found unconscious in the desert survive to return back and was able to identify Porter as her attacker Porter confessed to the attack but would not admit to any of the other attacks over the past three years investigators believe Porter was responsible and the also suspected that Porter had murdered Sandra Swink three months earlier to find out if all these crimes with the work of one individual San Diego authorities sought help from the FBI and their unit which specializes in studying serial murderers that another offender would choose to adopt the same type of victim bring it to the same type of location do the same types of acts with them in the same locations are almost exact locations became pretty good pretty evident to us that the probabilities favorite being one person Larry Ancrum identified the remote desert dump sites as a signature element of",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "three months earlier",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            7625,
+            7645
+          ],
+          "text": "three months earlier"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7603,
+            7611
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.721267,
+      "sentence": "The woman found unconscious in the desert survive to return back and was able to identify Porter as her attacker Porter confessed to the attack but would not admit to any of the other attacks over the past three years investigators believe Porter was responsible and the also suspected that Porter had murdered Sandra Swink three months earlier to find out if all these crimes with the work of one individual San Diego authorities sought help from the FBI and their unit which specializes in studying serial murderers that another offender would choose to adopt the same type of victim bring it to the same type of location do the same types of acts with them in the same locations are almost exact locations became pretty good pretty evident to us that the probabilities favorite being one person Larry Ancrum identified the remote desert dump sites as a signature element of",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7720,
+            7731
+          ],
+          "text": "authorities"
+        },
+        {
+          "entities": [
+            {
+              "text": "San Diego California",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7710,
+            7719
+          ],
+          "text": "San Diego"
+        }
+      ]
+    },
+    {
+      "score": 0.492012,
+      "sentence": "The attacker invested lots of time and effort into finding these remote locations another signature element was the type of women he chose he's making an assessment before he decides he's gonna go ahead and ask her if she needs a ride and and when he's made that initial impression then once he's decided yeah I can control this victim then she gets in the car and then it becomes somewhat of a game with him to get her where he wants wants to go the F. B. I. was convinced that all of these crimes were indeed the work of the same individual the next step was for San Diego authorities to prove that Ronald Porter committed these crimes the carpet fibers importers car were microscopically similar to the red carpet fiber found on the blouse Abedi backs tire tracks found at some of the crime",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8772,
+            8783
+          ],
+          "text": "authorities"
+        },
+        {
+          "entities": [
+            {
+              "text": "San Diego California",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8762,
+            8771
+          ],
+          "text": "San Diego"
+        }
+      ]
+    },
+    {
+      "score": 0.899775,
+      "sentence": "The attacker invested lots of time and effort into finding these remote locations another signature element was the type of women he chose he's making an assessment before he decides he's gonna go ahead and ask her if she needs a ride and and when he's made that initial impression then once he's decided yeah I can control this victim then she gets in the car and then it becomes somewhat of a game with him to get her where he wants wants to go the F. B. I. was convinced that all of these crimes were indeed the work of the same individual the next step was for San Diego authorities to prove that Ronald Porter committed these crimes the carpet fibers importers car were microscopically similar to the red carpet fiber found on the blouse Abedi backs tire tracks found at some of the crime",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "el Centro",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8380,
+            8382
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "ask",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8404,
+            8407
+          ],
+          "text": "ask"
+        }
+      ]
+    },
+    {
+      "score": 0.557357,
+      "sentence": "A man in a silver car pulled up and offered to take her part way take you as far as el Centro.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "lady",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1145,
+            1148
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "offered",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1129,
+            1136
+          ],
+          "text": "offered"
+        }
+      ]
+    },
+    {
+      "score": 0.809382,
+      "sentence": "The attacker invested lots of time and effort into finding these remote locations another signature element was the type of women he chose he's making an assessment before he decides he's gonna go ahead and ask her if she needs a ride and and when he's made that initial impression then once he's decided yeah I can control this victim then she gets in the car and then it becomes somewhat of a game with him to get her where he wants wants to go the F. B. I. was convinced that all of these crimes were indeed the work of the same individual the next step was for San Diego authorities to prove that Ronald Porter committed these crimes the carpet fibers importers car were microscopically similar to the red carpet fiber found on the blouse Abedi backs tire tracks found at some of the crime",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sandra Swick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8408,
+            8411
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "ask",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8404,
+            8407
+          ],
+          "text": "ask"
+        }
+      ]
+    },
+    {
+      "score": 0.815131,
+      "sentence": "The attacker invested lots of time and effort into finding these remote locations another signature element was the type of women he chose he's making an assessment before he decides he's gonna go ahead and ask her if she needs a ride and and when he's made that initial impression then once he's decided yeah I can control this victim then she gets in the car and then it becomes somewhat of a game with him to get her where he wants wants to go the F. B. I. was convinced that all of these crimes were indeed the work of the same individual the next step was for San Diego authorities to prove that Ronald Porter committed these crimes the carpet fibers importers car were microscopically similar to the red carpet fiber found on the blouse Abedi backs tire tracks found at some of the crime",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "el Centro",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8602,
+            8605
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "game",
+              "type": "SportingEvent"
+            }
+          ],
+          "location": [
+            8592,
+            8596
+          ],
+          "text": "game"
+        }
+      ]
+    },
+    {
+      "score": 0.484028,
+      "sentence": "The attacker invested lots of time and effort into finding these remote locations another signature element was the type of women he chose he's making an assessment before he decides he's gonna go ahead and ask her if she needs a ride and and when he's made that initial impression then once he's decided yeah I can control this victim then she gets in the car and then it becomes somewhat of a game with him to get her where he wants wants to go the F. B. I. was convinced that all of these crimes were indeed the work of the same individual the next step was for San Diego authorities to prove that Ronald Porter committed these crimes the carpet fibers importers car were microscopically similar to the red carpet fiber found on the blouse Abedi backs tire tracks found at some of the crime",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sandra Swick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8613,
+            8616
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "game",
+              "type": "SportingEvent"
+            }
+          ],
+          "location": [
+            8592,
+            8596
+          ],
+          "text": "game"
+        }
+      ]
+    },
+    {
+      "score": 0.834121,
+      "sentence": "The attacker invested lots of time and effort into finding these remote locations another signature element was the type of women he chose he's making an assessment before he decides he's gonna go ahead and ask her if she needs a ride and and when he's made that initial impression then once he's decided yeah I can control this victim then she gets in the car and then it becomes somewhat of a game with him to get her where he wants wants to go the F. B. I. was convinced that all of these crimes were indeed the work of the same individual the next step was for San Diego authorities to prove that Ronald Porter committed these crimes the carpet fibers importers car were microscopically similar to the red carpet fiber found on the blouse Abedi backs tire tracks found at some of the crime",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8798,
+            8811
+          ],
+          "text": "Ronald Porter"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            8828,
+            8834
+          ],
+          "text": "crimes"
+        }
+      ]
+    },
+    {
+      "score": 0.43665,
+      "sentence": "scenes were similar to the print on the spare Michelin tyre found in the trunk of Porter's car and when searching Porter's apartment police found shoes and boots with red marks consistent with those found at some of the choking down crime scenes a walkie talkie discovered importers storage shed belonged to a woman who was choked and dumped in the desert mountains a few years earlier and the blouse worn by that same victim contained a semen stain a DNA analysis of Ronald Porter's blood matched the semen stain from the blouse but despite all of this evidence prosecutors faced a major legal problems by the time police arrested Ronald Porter the statute of limitations on most of these assault cases had run out if prosecutors were going to send her to jail for any length of time it would have to be for the murder of",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9623,
+            9636
+          ],
+          "text": "Ronald Porter"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9681,
+            9688
+          ],
+          "text": "assault"
+        }
+      ]
+    },
+    {
+      "score": 0.656449,
+      "sentence": "scenes were similar to the print on the spare Michelin tyre found in the trunk of Porter's car and when searching Porter's apartment police found shoes and boots with red marks consistent with those found at some of the choking down crime scenes a walkie talkie discovered importers storage shed belonged to a woman who was choked and dumped in the desert mountains a few years earlier and the blouse worn by that same victim contained a semen stain a DNA analysis of Ronald Porter's blood matched the semen stain from the blouse but despite all of this evidence prosecutors faced a major legal problems by the time police arrested Ronald Porter the statute of limitations on most of these assault cases had run out if prosecutors were going to send her to jail for any length of time it would have to be for the murder of",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9073,
+            9079
+          ],
+          "text": "Porter"
+        },
+        {
+          "entities": [
+            {
+              "text": "ambulance",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9082,
+            9085
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.80524,
+      "sentence": "He then returned to his car and fled.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15277,
+            15280
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "ambulance",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            15281,
+            15284
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.514031,
+      "sentence": "scenes were similar to the print on the spare Michelin tyre found in the trunk of Porter's car and when searching Porter's apartment police found shoes and boots with red marks consistent with those found at some of the choking down crime scenes a walkie talkie discovered importers storage shed belonged to a woman who was choked and dumped in the desert mountains a few years earlier and the blouse worn by that same victim contained a semen stain a DNA analysis of Ronald Porter's blood matched the semen stain from the blouse but despite all of this evidence prosecutors faced a major legal problems by the time police arrested Ronald Porter the statute of limitations on most of these assault cases had run out if prosecutors were going to send her to jail for any length of time it would have to be for the murder of",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9105,
+            9111
+          ],
+          "text": "Porter"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9114,
+            9123
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.496826,
+      "sentence": "scenes were similar to the print on the spare Michelin tyre found in the trunk of Porter's car and when searching Porter's apartment police found shoes and boots with red marks consistent with those found at some of the choking down crime scenes a walkie talkie discovered importers storage shed belonged to a woman who was choked and dumped in the desert mountains a few years earlier and the blouse worn by that same victim contained a semen stain a DNA analysis of Ronald Porter's blood matched the semen stain from the blouse but despite all of this evidence prosecutors faced a major legal problems by the time police arrested Ronald Porter the statute of limitations on most of these assault cases had run out if prosecutors were going to send her to jail for any length of time it would have to be for the murder of",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9105,
+            9111
+          ],
+          "text": "Porter"
+        },
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9124,
+            9130
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.379548,
+      "sentence": "scenes were similar to the print on the spare Michelin tyre found in the trunk of Porter's car and when searching Porter's apartment police found shoes and boots with red marks consistent with those found at some of the choking down crime scenes a walkie talkie discovered importers storage shed belonged to a woman who was choked and dumped in the desert mountains a few years earlier and the blouse worn by that same victim contained a semen stain a DNA analysis of Ronald Porter's blood matched the semen stain from the blouse but despite all of this evidence prosecutors faced a major legal problems by the time police arrested Ronald Porter the statute of limitations on most of these assault cases had run out if prosecutors were going to send her to jail for any length of time it would have to be for the murder of",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9124,
+            9130
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9114,
+            9123
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.63617,
+      "sentence": "scenes were similar to the print on the spare Michelin tyre found in the trunk of Porter's car and when searching Porter's apartment police found shoes and boots with red marks consistent with those found at some of the choking down crime scenes a walkie talkie discovered importers storage shed belonged to a woman who was choked and dumped in the desert mountains a few years earlier and the blouse worn by that same victim contained a semen stain a DNA analysis of Ronald Porter's blood matched the semen stain from the blouse but despite all of this evidence prosecutors faced a major legal problems by the time police arrested Ronald Porter the statute of limitations on most of these assault cases had run out if prosecutors were going to send her to jail for any length of time it would have to be for the murder of",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mountains",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            9347,
+            9356
+          ],
+          "text": "mountains"
+        },
+        {
+          "entities": [
+            {
+              "text": "desert",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            9340,
+            9346
+          ],
+          "text": "desert"
+        }
+      ]
+    },
+    {
+      "score": 0.952283,
+      "sentence": "scenes were similar to the print on the spare Michelin tyre found in the trunk of Porter's car and when searching Porter's apartment police found shoes and boots with red marks consistent with those found at some of the choking down crime scenes a walkie talkie discovered importers storage shed belonged to a woman who was choked and dumped in the desert mountains a few years earlier and the blouse worn by that same victim contained a semen stain a DNA analysis of Ronald Porter's blood matched the semen stain from the blouse but despite all of this evidence prosecutors faced a major legal problems by the time police arrested Ronald Porter the statute of limitations on most of these assault cases had run out if prosecutors were going to send her to jail for any length of time it would have to be for the murder of",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9607,
+            9613
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrested",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            9614,
+            9622
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.614328,
+      "sentence": "As they drove over the mountains the driver said he needed to pull off the highway to take a bathroom break.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1289,
+            1293
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "mountains",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            1309,
+            1318
+          ],
+          "text": "mountains"
+        }
+      ]
+    },
+    {
+      "score": 0.928075,
+      "sentence": "scenes were similar to the print on the spare Michelin tyre found in the trunk of Porter's car and when searching Porter's apartment police found shoes and boots with red marks consistent with those found at some of the choking down crime scenes a walkie talkie discovered importers storage shed belonged to a woman who was choked and dumped in the desert mountains a few years earlier and the blouse worn by that same victim contained a semen stain a DNA analysis of Ronald Porter's blood matched the semen stain from the blouse but despite all of this evidence prosecutors faced a major legal problems by the time police arrested Ronald Porter the statute of limitations on most of these assault cases had run out if prosecutors were going to send her to jail for any length of time it would have to be for the murder of",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9623,
+            9636
+          ],
+          "text": "Ronald Porter"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrested",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            9614,
+            9622
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.608989,
+      "sentence": "scenes were similar to the print on the spare Michelin tyre found in the trunk of Porter's car and when searching Porter's apartment police found shoes and boots with red marks consistent with those found at some of the choking down crime scenes a walkie talkie discovered importers storage shed belonged to a woman who was choked and dumped in the desert mountains a few years earlier and the blouse worn by that same victim contained a semen stain a DNA analysis of Ronald Porter's blood matched the semen stain from the blouse but despite all of this evidence prosecutors faced a major legal problems by the time police arrested Ronald Porter the statute of limitations on most of these assault cases had run out if prosecutors were going to send her to jail for any length of time it would have to be for the murder of",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sandra Swick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9741,
+            9744
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "jail",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9748,
+            9752
+          ],
+          "text": "jail"
+        }
+      ]
+    },
+    {
+      "score": 0.864922,
+      "sentence": "But this week merger was their weakest case investigators found no semen no blood no hair or clothing fibers which could link Ronald Porter to the suite crime scene tire tracks found at the Sanders with the tax side was too faint for analysis however some of the tennis shoe prints found at the switch crime scene we're similar to a pair of tennis shoes found in Ronald Porter is a part.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "this week",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            9832,
+            9841
+          ],
+          "text": "this week"
+        },
+        {
+          "entities": [
+            {
+              "text": "merger",
+              "type": "EventBusiness"
+            }
+          ],
+          "location": [
+            9842,
+            9848
+          ],
+          "text": "merger"
+        }
+      ]
+    },
+    {
+      "score": 0.407352,
+      "sentence": "But this week merger was their weakest case investigators found no semen no blood no hair or clothing fibers which could link Ronald Porter to the suite crime scene tire tracks found at the Sanders with the tax side was too faint for analysis however some of the tennis shoe prints found at the switch crime scene we're similar to a pair of tennis shoes found in Ronald Porter is a part.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9853,
+            9858
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "cases",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            9867,
+            9871
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.635448,
+      "sentence": "But this week merger was their weakest case investigators found no semen no blood no hair or clothing fibers which could link Ronald Porter to the suite crime scene tire tracks found at the Sanders with the tax side was too faint for analysis however some of the tennis shoe prints found at the switch crime scene we're similar to a pair of tennis shoes found in Ronald Porter is a part.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9872,
+            9885
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "cases",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            9867,
+            9871
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.516751,
+      "sentence": "But this week merger was their weakest case investigators found no semen no blood no hair or clothing fibers which could link Ronald Porter to the suite crime scene tire tracks found at the Sanders with the tax side was too faint for analysis however some of the tennis shoe prints found at the switch crime scene we're similar to a pair of tennis shoes found in Ronald Porter is a part.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9954,
+            9967
+          ],
+          "text": "Ronald Porter"
+        },
+        {
+          "entities": [
+            {
+              "text": "Sanders",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10018,
+            10025
+          ],
+          "text": "Sanders"
+        }
+      ]
+    },
+    {
+      "score": 0.36666,
+      "sentence": "But this week merger was their weakest case investigators found no semen no blood no hair or clothing fibers which could link Ronald Porter to the suite crime scene tire tracks found at the Sanders with the tax side was too faint for analysis however some of the tennis shoe prints found at the switch crime scene we're similar to a pair of tennis shoes found in Ronald Porter is a part.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9981,
+            9986
+          ],
+          "text": "crime"
+        },
+        {
+          "entities": [
+            {
+              "text": "location",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            9987,
+            9992
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.7101,
+      "sentence": "But this week merger was their weakest case investigators found no semen no blood no hair or clothing fibers which could link Ronald Porter to the suite crime scene tire tracks found at the Sanders with the tax side was too faint for analysis however some of the tennis shoe prints found at the switch crime scene we're similar to a pair of tennis shoes found in Ronald Porter is a part.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "location",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            9987,
+            9992
+          ],
+          "text": "scene"
+        },
+        {
+          "entities": [
+            {
+              "text": "Sanders",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10018,
+            10025
+          ],
+          "text": "Sanders"
+        }
+      ]
+    },
+    {
+      "score": 0.341025,
+      "sentence": "But this week merger was their weakest case investigators found no semen no blood no hair or clothing fibers which could link Ronald Porter to the suite crime scene tire tracks found at the Sanders with the tax side was too faint for analysis however some of the tennis shoe prints found at the switch crime scene we're similar to a pair of tennis shoes found in Ronald Porter is a part.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            10079,
+            10083
+          ],
+          "text": "some"
+        },
+        {
+          "entities": [
+            {
+              "text": "shoe",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10098,
+            10102
+          ],
+          "text": "shoe"
+        }
+      ]
+    },
+    {
+      "score": 0.704765,
+      "sentence": "The Porter's attorney says a similar tennis shoe brand is inconclusive but five me and other people with similar issues with similar traps could also have made the prince and the prosecution faced another problem they weren't exactly sure when Sandra Swick was murdered time of death to terminate my pathologist is a very inexact science versus science at all there are certain changes the body undergoes we can predict general time frames for those but there's a lot of different.",
+      "type": "clientOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10220,
+            10226
+          ],
+          "text": "Porter"
+        },
+        {
+          "entities": [
+            {
+              "text": "el Centro",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10229,
+            10237
+          ],
+          "text": "attorney"
+        }
+      ]
+    },
+    {
+      "score": 0.969359,
+      "sentence": "As they drove over the mountains the driver said he needed to pull off the highway to take a bathroom break.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "driver",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1323,
+            1329
+          ],
+          "text": "driver"
+        },
+        {
+          "entities": [
+            {
+              "text": "called for",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1330,
+            1334
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.998502,
+      "sentence": "The Porter's attorney says a similar tennis shoe brand is inconclusive but five me and other people with similar issues with similar traps could also have made the prince and the prosecution faced another problem they weren't exactly sure when Sandra Swick was murdered time of death to terminate my pathologist is a very inexact science versus science at all there are certain changes the body undergoes we can predict general time frames for those but there's a lot of different.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "el Centro",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10229,
+            10237
+          ],
+          "text": "attorney"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10238,
+            10242
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.561983,
+      "sentence": "The Porter's attorney says a similar tennis shoe brand is inconclusive but five me and other people with similar issues with similar traps could also have made the prince and the prosecution faced another problem they weren't exactly sure when Sandra Swick was murdered time of death to terminate my pathologist is a very inexact science versus science at all there are certain changes the body undergoes we can predict general time frames for those but there's a lot of different.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "el Centro",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10380,
+            10386
+          ],
+          "text": "prince"
+        },
+        {
+          "entities": [
+            {
+              "text": "prosecution",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10395,
+            10406
+          ],
+          "text": "prosecution"
+        }
+      ]
+    },
+    {
+      "score": 0.905141,
+      "sentence": "The Porter's attorney says a similar tennis shoe brand is inconclusive but five me and other people with similar issues with similar traps could also have made the prince and the prosecution faced another problem they weren't exactly sure when Sandra Swick was murdered time of death to terminate my pathologist is a very inexact science versus science at all there are certain changes the body undergoes we can predict general time frames for those but there's a lot of different.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sandra Swick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10460,
+            10472
+          ],
+          "text": "Sandra Swick"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10477,
+            10485
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.745842,
+      "sentence": "About Sandridge brutal attack and murder you get a lot of information from on whether a body's been moved how long the person's been dead or how long the body has been available to insects whether the body's been buried whether the person took drugs whether they had been poisoned all these different sorts of things so could be in the insects are collected or removed from the body for.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sandra Swick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16215,
+            16218
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            16208,
+            16214
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.504195,
+      "sentence": "The Porter's attorney says a similar tennis shoe brand is inconclusive but five me and other people with similar issues with similar traps could also have made the prince and the prosecution faced another problem they weren't exactly sure when Sandra Swick was murdered time of death to terminate my pathologist is a very inexact science versus science at all there are certain changes the body undergoes we can predict general time frames for those but there's a lot of different.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "el Centro",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10606,
+            10610
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10621,
+            10623
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.442584,
+      "sentence": "Variables that affected if prosecutors wanted to convict Ronald Porter of merger they needed more could the tiny insects found on switch body tell forensic scientist wins centrist with died and tie Ronald Porter to her murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10755,
+            10768
+          ],
+          "text": "Ronald Porter"
+        },
+        {
+          "entities": [
+            {
+              "text": "merger",
+              "type": "EventBusiness"
+            }
+          ],
+          "location": [
+            10772,
+            10778
+          ],
+          "text": "merger"
+        }
+      ]
+    },
+    {
+      "score": 0.4476,
+      "sentence": "Variables that affected if prosecutors wanted to convict Ronald Porter of merger they needed more could the tiny insects found on switch body tell forensic scientist wins centrist with died and tie Ronald Porter to her murder.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Eliot Porter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10755,
+            10768
+          ],
+          "text": "Ronald Porter"
+        },
+        {
+          "entities": [
+            {
+              "text": "Prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10779,
+            10783
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.473837,
+      "sentence": "Variables that affected if prosecutors wanted to convict Ronald Porter of merger they needed more could the tiny insects found on switch body tell forensic scientist wins centrist with died and tie Ronald Porter to her murder.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sandra Swick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10913,
+            10916
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10917,
+            10923
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.599746,
+      "sentence": "where Ron Porter was available to drive from the north part of the county down to pick up a centrist wake and transporter these can discount based on the insect clues and the similarities between this week merger and the other cases Ronald Porter was charged in the murder of Sandra swing.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sandra Swick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14654,
+            14660
+          ],
+          "text": "Sandra"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            14644,
+            14650
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.54687,
+      "sentence": "And she bled to death from lacerations suffered during the assault her death had to be a tough one very difficult long dying process that she went through and the insect clues were able to provide detectives with the time of death something they were unable to determine by any other means I don't have that Ronald Eliot Porter guilty of the crime of murder Ronald Porter was convicted of second degree murder in the death of Sandra Swick and was sentenced to twenty eight years to life in prison.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sandra Swick",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15949,
+            15961
+          ],
+          "text": "Sandra Swick"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            15926,
+            15932
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.506197,
+      "sentence": "When detectives found Sanders six body on sheepshead mountain it was badly decomposed the hot desert Aaron's son had taken its toll and hundreds of tiny worm like creatures were feeding on her decomposing flesh investigators wondered if these tiny creatures might offer some clues about Wynn's centrist with di tech tips collected about a hundred of these creatures and sent them to the laboratory of David fox he's a forensic entomologist an expert on insect activity on dead bodies they can tell you lots about where they've been where the victim's bent how old the victims conditions of the body following death and those are the things that are interesting Faulkner's first task was to determine the agency's creatures or mac it says they're called so you preserve some in alcohol at the exact stage of development as when they were found",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Aaron",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11026,
+            11031
+          ],
+          "text": "Aaron"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10930,
+            10940
+          ],
+          "text": "detectives"
+        }
+      ]
+    },
+    {
+      "score": 0.583027,
+      "sentence": "When detectives found Sanders six body on sheepshead mountain it was badly decomposed the hot desert Aaron's son had taken its toll and hundreds of tiny worm like creatures were feeding on her decomposing flesh investigators wondered if these tiny creatures might offer some clues about Wynn's centrist with di tech tips collected about a hundred of these creatures and sent them to the laboratory of David fox he's a forensic entomologist an expert on insect activity on dead bodies they can tell you lots about where they've been where the victim's bent how old the victims conditions of the body following death and those are the things that are interesting Faulkner's first task was to determine the agency's creatures or mac it says they're called so you preserve some in alcohol at the exact stage of development as when they were found",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Aaron",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11026,
+            11031
+          ],
+          "text": "Aaron"
+        },
+        {
+          "entities": [
+            {
+              "text": "el Centro",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11034,
+            11037
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.887999,
+      "sentence": "When detectives found Sanders six body on sheepshead mountain it was badly decomposed the hot desert Aaron's son had taken its toll and hundreds of tiny worm like creatures were feeding on her decomposing flesh investigators wondered if these tiny creatures might offer some clues about Wynn's centrist with di tech tips collected about a hundred of these creatures and sent them to the laboratory of David fox he's a forensic entomologist an expert on insect activity on dead bodies they can tell you lots about where they've been where the victim's bent how old the victims conditions of the body following death and those are the things that are interesting Faulkner's first task was to determine the agency's creatures or mac it says they're called so you preserve some in alcohol at the exact stage of development as when they were found",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11300,
+            11304
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "laboratory",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11312,
+            11322
+          ],
+          "text": "laboratory"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5444 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 14972,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ryan",
+      "relevance": 0.965805,
+      "confidence": 1,
+      "count": 35
+    },
+    {
+      "type": "Person",
+      "text": "Patricia Stallings",
+      "relevance": 0.924896,
+      "confidence": 1,
+      "count": 13
+    },
+    {
+      "type": "Person",
+      "text": "Patricia",
+      "relevance": 0.458044,
+      "confidence": 1,
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "Tricia Stallings",
+      "relevance": 0.45521,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Dr shoemaker",
+      "relevance": 0.427027,
+      "confidence": 1,
+      "count": 7
+    },
+    {
+      "type": "Organization",
+      "text": "department of family services",
+      "relevance": 0.310564,
+      "confidence": 0.977723,
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "cardinal Glennon children's hospital",
+      "relevance": 0.307344,
+      "confidence": 0.255953,
+      "count": 2,
+      "disambiguation": {
+        "name": "Cardinal_Glennon_Children%27s_Hospital",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cardinal_Glennon_Children%27s_Hospital",
+        "subtype": [
+          "Location",
+          "Facility",
+          "Building",
+          "Hospital"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Ryan Stallings",
+      "relevance": 0.30443,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "David Stallings",
+      "relevance": 0.301844,
+      "confidence": 0.999999,
+      "count": 2
+    },
+    {
+      "type": "Facility",
+      "text": "St Louis children's hospital",
+      "relevance": 0.301157,
+      "confidence": 0.68137,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Tricia",
+      "relevance": 0.245399,
+      "confidence": 0.999999,
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "Four month",
+      "relevance": 0.190106,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bryan Stallings",
+      "relevance": 0.189898,
+      "confidence": 0.996103,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Saint Louis",
+      "relevance": 0.185452,
+      "confidence": 0.995868,
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "SmithKline Beecham",
+      "relevance": 0.17704,
+      "confidence": 0.847264,
+      "count": 2,
+      "disambiguation": {
+        "name": "GlaxoSmithKline",
+        "dbpedia_resource": "http://dbpedia.org/resource/GlaxoSmithKline"
+      }
+    },
+    {
+      "type": "Organization",
+      "text": "sheriff's department",
+      "relevance": 0.175032,
+      "confidence": 0.567561,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Missouri department of family services",
+      "relevance": 0.174576,
+      "confidence": 0.846468,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Patricia Spalding",
+      "relevance": 0.164651,
+      "confidence": 0.998893,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "five year",
+      "relevance": 0.164046,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "frostbite malnutrition",
+      "relevance": 0.160882,
+      "confidence": 0.712279,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "David",
+      "relevance": 0.157703,
+      "confidence": 1,
+      "count": 4,
+      "disambiguation": {
+        "name": "David",
+        "dbpedia_resource": "http://dbpedia.org/resource/David",
+        "subtype": [
+          "Monarch",
+          "OperaCharacter",
+          "ReligiousLeader"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "cardinal Glennon",
+      "relevance": 0.155699,
+      "confidence": 0.947795,
+      "count": 1,
+      "disambiguation": {
+        "name": "John_J._Glennon",
+        "dbpedia_resource": "http://dbpedia.org/resource/John_J._Glennon",
+        "subtype": [
+          "Cardinal"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "four months",
+      "relevance": 0.151446,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "four month",
+      "relevance": 0.139378,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Saint Louis University",
+      "relevance": 0.131463,
+      "confidence": 0.899203,
+      "count": 2,
+      "disambiguation": {
+        "name": "Saint_Louis_University",
+        "dbpedia_resource": "http://dbpedia.org/resource/Saint_Louis_University",
+        "subtype": [
+          "Location",
+          "Company",
+          "CollegeUniversity",
+          "University"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Patty Matthews",
+      "relevance": 0.128653,
+      "confidence": 0.998742,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "vomiting seizures",
+      "relevance": 0.125269,
+      "confidence": 0.348136,
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "lake Wanaka",
+      "relevance": 0.122043,
+      "confidence": 0.791782,
+      "count": 1,
+      "disambiguation": {
+        "name": "Lake_Wanaka",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lake_Wanaka",
+        "subtype": [
+          "Location",
+          "BodyOfWater",
+          "Lake"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "gleich",
+      "relevance": 0.113561,
+      "confidence": 0.428934,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Ryan system",
+      "relevance": 0.113341,
+      "confidence": 0.071658,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Christian Stallings",
+      "relevance": 0.106399,
+      "confidence": 0.477763,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr William sly",
+      "relevance": 0.094058,
+      "confidence": 0.920244,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr James shoemaker",
+      "relevance": 0.09379,
+      "confidence": 0.994008,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "St Louis",
+      "relevance": 0.091657,
+      "confidence": 0.376225,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "DFS",
+      "relevance": 0.09137,
+      "confidence": 0.779323,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "vomiting",
+      "relevance": 0.084575,
+      "confidence": 0.458141,
+      "count": 1,
+      "disambiguation": {
+        "name": "Vomiting",
+        "dbpedia_resource": "http://dbpedia.org/resource/Vomiting",
+        "subtype": [
+          "DiseaseCause",
+          "Symptom"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Missouri",
+      "relevance": 0.081087,
+      "confidence": 0.999668,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "Five months",
+      "relevance": 0.061779,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "One week",
+      "relevance": 0.060593,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Glock",
+      "relevance": 0.058336,
+      "confidence": 0.959262,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Brian",
+      "relevance": 0.054967,
+      "confidence": 0.999938,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Three months",
+      "relevance": 0.052935,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Tom",
+      "relevance": 0.051071,
+      "confidence": 0.997586,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Pierre Renault",
+      "relevance": 0.042391,
+      "confidence": 0.89208,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "bond",
+      "relevance": 0.042375,
+      "confidence": 0.751923,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Patricia storms",
+      "relevance": 0.040421,
+      "confidence": 0.532951,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "MFA",
+      "relevance": 0.037809,
+      "confidence": 0.655235,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Renaldo",
+      "relevance": 0.037554,
+      "confidence": 0.999443,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty three seconds",
+      "relevance": 0.033424,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Haiti",
+      "relevance": 0.032675,
+      "confidence": 0.998268,
+      "count": 1,
+      "disambiguation": {
+        "name": "Haiti",
+        "dbpedia_resource": "http://dbpedia.org/resource/Haiti",
+        "subtype": [
+          "Country",
+          "GovernmentalJurisdiction",
+          "BoardMember"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "George McElroy",
+      "relevance": 0.026051,
+      "confidence": 0.981782,
+      "count": 1,
+      "disambiguation": {
+        "name": "George_McElroy",
+        "dbpedia_resource": "http://dbpedia.org/resource/George_McElroy",
+        "subtype": [
+          "MilitaryPerson"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Patty",
+      "relevance": 0.024451,
+      "confidence": 0.998822,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Ryan Spalding",
+      "relevance": 0.022871,
+      "confidence": 0.993386,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Yale University",
+      "relevance": 0.021436,
+      "confidence": 0.843092,
+      "count": 1,
+      "disambiguation": {
+        "name": "Yale_University",
+        "dbpedia_resource": "http://dbpedia.org/resource/Yale_University",
+        "subtype": [
+          "Location",
+          "FieldOfStudy",
+          "Company",
+          "AcademicInstitution",
+          "PeriodicalPublisher",
+          "CollegeUniversity",
+          "University"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Robert",
+      "relevance": 0.018246,
+      "confidence": 0.989821,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "king",
+      "relevance": 0.017521,
+      "confidence": 0.928097,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "McElroy",
+      "relevance": 0.014154,
+      "confidence": 0.906251,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "DJ",
+      "relevance": 0.013521,
+      "confidence": 0.996258,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Palestine",
+      "relevance": 0.006382,
+      "confidence": 0.998199,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Frieder",
+      "relevance": 0.000048,
+      "confidence": 0.989218,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.849564
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.820858
+    },
+    {
+      "label": "/health and fitness",
+      "score": 0.765324
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.658927
+    },
+    {
+      "label": "/health and fitness/disease",
+      "score": 0.646384
+    },
+    {
+      "label": "/family and parenting/babies and toddlers",
+      "score": 0.564235
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.539533
+    },
+    {
+      "label": "/health and fitness/disorders",
+      "score": 0.535175
+    },
+    {
+      "label": "/society/dating",
+      "score": 0.510946
+    },
+    {
+      "label": "/family and parenting/babies and toddlers/baby clothes",
+      "score": 0.509399
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.993566,
+      "sentence": "Four month old Bryan Stallings said spent an entire weekend.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bryan Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15,
+            30
+          ],
+          "text": "Bryan Stallings"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            31,
+            35
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.787337,
+      "sentence": "After an entire weekend of vomiting and breathing problems the Christian decided to take the baby to St Louis children's hospital.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "child",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            610,
+            614
+          ],
+          "text": "baby"
+        },
+        {
+          "entities": [
+            {
+              "text": "vomiting",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            544,
+            552
+          ],
+          "text": "vomiting"
+        }
+      ]
+    },
+    {
+      "score": 0.9607,
+      "sentence": "When prosecutors heard the new test results from Saint Louis University even they agreed that this new medical information raised serious questions once we were well aware that they were actually doctors out there prepared to say that that obviously didn't testify trial may have made a difference at the trial and we agreed to a new trial and we'd have to do that but prosecutors had to independent laboratories that found that the lean glycol in Ryan's blood traces of ethylene glycol were found in the baby bottle and the autopsy report found oxalate crystals in Ryan's brain a finding consistent with ethylene glycol poisoning.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11133,
+            11137
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "agreed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11138,
+            11144
+          ],
+          "text": "agreed"
+        }
+      ]
+    },
+    {
+      "score": 0.611581,
+      "sentence": "When prosecutors heard the new test results from Saint Louis University even they agreed that this new medical information raised serious questions once we were well aware that they were actually doctors out there prepared to say that that obviously didn't testify trial may have made a difference at the trial and we agreed to a new trial and we'd have to do that but prosecutors had to independent laboratories that found that the lean glycol in Ryan's blood traces of ethylene glycol were found in the baby bottle and the autopsy report found oxalate crystals in Ryan's brain a finding consistent with ethylene glycol poisoning.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11252,
+            11259
+          ],
+          "text": "doctors"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11282,
+            11285
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.361842,
+      "sentence": "At Yale University they found Dr Pierre Renault one of the world's leading experts in metabolic diseases he reviewed the scientific data that formed the basis for the case against Patricia storms I received all the raw material all the data.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11792,
+            11796
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "Yale University",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11776,
+            11791
+          ],
+          "text": "Yale University"
+        }
+      ]
+    },
+    {
+      "score": 0.451574,
+      "sentence": "At Yale University they found Dr Pierre Renault one of the world's leading experts in metabolic diseases he reviewed the scientific data that formed the basis for the case against Patricia storms I received all the raw material all the data.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Pierre Renault",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11803,
+            11805
+          ],
+          "text": "Dr"
+        },
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11792,
+            11796
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.927889,
+      "sentence": "At Yale University they found Dr Pierre Renault one of the world's leading experts in metabolic diseases he reviewed the scientific data that formed the basis for the case against Patricia storms I received all the raw material all the data.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11848,
+            11855
+          ],
+          "text": "experts"
+        },
+        {
+          "entities": [
+            {
+              "text": "metabolic diseases",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            11859,
+            11877
+          ],
+          "text": "metabolic diseases"
+        }
+      ]
+    },
+    {
+      "score": 0.834817,
+      "sentence": "At Yale University they found Dr Pierre Renault one of the world's leading experts in metabolic diseases he reviewed the scientific data that formed the basis for the case against Patricia storms I received all the raw material all the data.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Pierre Renault",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11878,
+            11880
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "metabolic diseases",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            11859,
+            11877
+          ],
+          "text": "metabolic diseases"
+        }
+      ]
+    },
+    {
+      "score": 0.992249,
+      "sentence": "Dr Renaldo called the lab reports garbage he agreed with Dr shoemaker and slide that the gas chromatography peak shown to the jury as that of ethylene glycol was not ethylene glycol all and did not match the graph depicting the known sample of ethylene glycol the retention time of the Peking question was thirty three seconds later which invesco Watauga fee is an enormous difference.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Renaldo",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12175,
+            12182
+          ],
+          "text": "Renaldo"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12183,
+            12189
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.767796,
+      "sentence": "Dr Renaldo called the lab reports garbage he agreed with Dr shoemaker and slide that the gas chromatography peak shown to the jury as that of ethylene glycol was not ethylene glycol all and did not match the graph depicting the known sample of ethylene glycol the retention time of the Peking question was thirty three seconds later which invesco Watauga fee is an enormous difference.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "lab",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12194,
+            12197
+          ],
+          "text": "lab"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12183,
+            12189
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.938071,
+      "sentence": "Dr Renaldo called the lab reports garbage he agreed with Dr shoemaker and slide that the gas chromatography peak shown to the jury as that of ethylene glycol was not ethylene glycol all and did not match the graph depicting the known sample of ethylene glycol the retention time of the Peking question was thirty three seconds later which invesco Watauga fee is an enormous difference.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "lab",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12194,
+            12197
+          ],
+          "text": "lab"
+        },
+        {
+          "entities": [
+            {
+              "text": "reports",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12198,
+            12205
+          ],
+          "text": "reports"
+        }
+      ]
+    },
+    {
+      "score": 0.986865,
+      "sentence": "He also believes that the inaccurate lab reports led doctors to administer the wrong treatment the external threat which possibly contributed to Ryan's dad.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "lab",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13387,
+            13390
+          ],
+          "text": "lab"
+        },
+        {
+          "entities": [
+            {
+              "text": "reports",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13391,
+            13398
+          ],
+          "text": "reports"
+        }
+      ]
+    },
+    {
+      "score": 0.267964,
+      "sentence": "Dr Renaldo called the lab reports garbage he agreed with Dr shoemaker and slide that the gas chromatography peak shown to the jury as that of ethylene glycol was not ethylene glycol all and did not match the graph depicting the known sample of ethylene glycol the retention time of the Peking question was thirty three seconds later which invesco Watauga fee is an enormous difference.",
+      "type": "before",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "agreed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12217,
+            12223
+          ],
+          "text": "agreed"
+        },
+        {
+          "entities": [
+            {
+              "text": "reports",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12198,
+            12205
+          ],
+          "text": "reports"
+        }
+      ]
+    },
+    {
+      "score": 0.775509,
+      "sentence": "After an entire weekend of vomiting and breathing problems the Christian decided to take the baby to St Louis children's hospital.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            627,
+            635
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "St Louis",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            618,
+            626
+          ],
+          "text": "St Louis"
+        }
+      ]
+    },
+    {
+      "score": 0.997264,
+      "sentence": "Dr Renaldo called the lab reports garbage he agreed with Dr shoemaker and slide that the gas chromatography peak shown to the jury as that of ethylene glycol was not ethylene glycol all and did not match the graph depicting the known sample of ethylene glycol the retention time of the Peking question was thirty three seconds later which invesco Watauga fee is an enormous difference.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Renaldo",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12214,
+            12216
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "agreed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12217,
+            12223
+          ],
+          "text": "agreed"
+        }
+      ]
+    },
+    {
+      "score": 0.623292,
+      "sentence": "Dr Renaldo called the lab reports garbage he agreed with Dr shoemaker and slide that the gas chromatography peak shown to the jury as that of ethylene glycol was not ethylene glycol all and did not match the graph depicting the known sample of ethylene glycol the retention time of the Peking question was thirty three seconds later which invesco Watauga fee is an enormous difference.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dr shoemaker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12229,
+            12241
+          ],
+          "text": "Dr shoemaker"
+        },
+        {
+          "entities": [
+            {
+              "text": "agreed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12217,
+            12223
+          ],
+          "text": "agreed"
+        }
+      ]
+    },
+    {
+      "score": 0.459177,
+      "sentence": "Dr Renaldo called the lab reports garbage he agreed with Dr shoemaker and slide that the gas chromatography peak shown to the jury as that of ethylene glycol was not ethylene glycol all and did not match the graph depicting the known sample of ethylene glycol the retention time of the Peking question was thirty three seconds later which invesco Watauga fee is an enormous difference.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "seconds",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12491,
+            12498
+          ],
+          "text": "seconds"
+        },
+        {
+          "entities": [
+            {
+              "text": "thirty",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            12478,
+            12484
+          ],
+          "text": "thirty"
+        }
+      ]
+    },
+    {
+      "score": 0.371269,
+      "sentence": "Especially in a case logs me with legal implications he must be perfect match this was not even close it was about again.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "junior member",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12806,
+            12808
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12796,
+            12800
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.824151,
+      "sentence": "The next day McElroy held a news conference.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George McElroy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13063,
+            13070
+          ],
+          "text": "McElroy"
+        },
+        {
+          "entities": [
+            {
+              "text": "news conference",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            13078,
+            13093
+          ],
+          "text": "news conference"
+        }
+      ]
+    },
+    {
+      "score": 0.742332,
+      "sentence": "State of Missouri's dismissing all pending charges against Patricia Stallings based upon the death of her child run and I'm satisfied I'm convinced.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13154,
+            13172
+          ],
+          "text": "Patricia Stallings"
+        },
+        {
+          "entities": [
+            {
+              "text": "charges",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13138,
+            13145
+          ],
+          "text": "charges"
+        }
+      ]
+    },
+    {
+      "score": 0.312172,
+      "sentence": "State of Missouri's dismissing all pending charges against Patricia Stallings based upon the death of her child run and I'm satisfied I'm convinced.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "child",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13201,
+            13206
+          ],
+          "text": "child"
+        },
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13197,
+            13200
+          ],
+          "text": "her"
+        }
+      ]
+    },
+    {
+      "score": 0.615838,
+      "sentence": "He also believes that the inaccurate lab reports led doctors to administer the wrong treatment the external threat which possibly contributed to Ryan's dad.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13403,
+            13410
+          ],
+          "text": "doctors"
+        },
+        {
+          "entities": [
+            {
+              "text": "reports",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13391,
+            13398
+          ],
+          "text": "reports"
+        }
+      ]
+    },
+    {
+      "score": 0.468676,
+      "sentence": "He also believes that the inaccurate lab reports led doctors to administer the wrong treatment the external threat which possibly contributed to Ryan's dad.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shoemaker retested Ryan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13495,
+            13499
+          ],
+          "text": "Ryan"
+        },
+        {
+          "entities": [
+            {
+              "text": "dad",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13502,
+            13505
+          ],
+          "text": "dad"
+        }
+      ]
+    },
+    {
+      "score": 0.707164,
+      "sentence": "The conviction of Patricia Stallings had been a mistake.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13804,
+            13822
+          ],
+          "text": "Patricia Stallings"
+        },
+        {
+          "entities": [
+            {
+              "text": "conviction",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13790,
+            13800
+          ],
+          "text": "conviction"
+        }
+      ]
+    },
+    {
+      "score": 0.874956,
+      "sentence": "During the trip the Tricia got lost and ended up at the emergency room of cardinal Glennon children's hospital instead.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            668,
+            674
+          ],
+          "text": "Tricia"
+        },
+        {
+          "entities": [
+            {
+              "text": "emergency room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            704,
+            718
+          ],
+          "text": "emergency room"
+        }
+      ]
+    },
+    {
+      "score": 0.461585,
+      "sentence": "And prosecutors learned of the individual assigned to stand guard during Patricia's visit with Ryan inexplicably left the room for a short time against instructions.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3474,
+            3482
+          ],
+          "text": "Patricia"
+        },
+        {
+          "entities": [
+            {
+              "text": "emergency room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3523,
+            3527
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.858587,
+      "sentence": "All while DJ had been born Palestine's would be in jail for the rest of her life without parole and no one would ever right have raised a second question.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "DJ",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13853,
+            13855
+          ],
+          "text": "DJ"
+        },
+        {
+          "entities": [
+            {
+              "text": "jail",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13894,
+            13898
+          ],
+          "text": "jail"
+        }
+      ]
+    },
+    {
+      "score": 0.525764,
+      "sentence": "All while DJ had been born Palestine's would be in jail for the rest of her life without parole and no one would ever right have raised a second question.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "jail",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13894,
+            13898
+          ],
+          "text": "jail"
+        },
+        {
+          "entities": [
+            {
+              "text": "Palestine",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13870,
+            13879
+          ],
+          "text": "Palestine"
+        }
+      ]
+    },
+    {
+      "score": 0.99635,
+      "sentence": "Yes I told her I'd.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14198,
+            14199
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14200,
+            14204
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.706937,
+      "sentence": "Yes I told her I'd.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14205,
+            14208
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14200,
+            14204
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.621001,
+      "sentence": "The Tricia Stallings filed lawsuits against the hospitals doctors and laboratories that had misdiagnosed Ryan.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14350,
+            14357
+          ],
+          "text": "doctors"
+        },
+        {
+          "entities": [
+            {
+              "text": "Hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14340,
+            14349
+          ],
+          "text": "hospitals"
+        }
+      ]
+    },
+    {
+      "score": 0.703746,
+      "sentence": "The Tricia Stallings filed lawsuits against the hospitals doctors and laboratories that had misdiagnosed Ryan.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shoemaker retested Ryan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14397,
+            14401
+          ],
+          "text": "Ryan"
+        },
+        {
+          "entities": [
+            {
+              "text": "doctors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14350,
+            14357
+          ],
+          "text": "doctors"
+        }
+      ]
+    },
+    {
+      "score": 0.548133,
+      "sentence": "Their son DJ who by being born with MMA led scientists to the real killer of his brother Ryan is managing his disease with a special diet and other treatments it is strange that such a small mistake on paper could make such a huge change in the lives of people but in this case you can see that a few millimeters of difference and where a peak appeared on a sheet of paper made all the difference in a woman's life the science.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "DJ",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14449,
+            14452
+          ],
+          "text": "son"
+        },
+        {
+          "entities": [
+            {
+              "text": "doctors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14443,
+            14448
+          ],
+          "text": "Their"
+        }
+      ]
+    },
+    {
+      "score": 0.304069,
+      "sentence": "Their son DJ who by being born with MMA led scientists to the real killer of his brother Ryan is managing his disease with a special diet and other treatments it is strange that such a small mistake on paper could make such a huge change in the lives of people but in this case you can see that a few millimeters of difference and where a peak appeared on a sheet of paper made all the difference in a woman's life the science.",
+      "type": "siblingOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "DJ",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14520,
+            14523
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "shoemaker retested Ryan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14524,
+            14531
+          ],
+          "text": "brother"
+        }
+      ]
+    },
+    {
+      "score": 0.366235,
+      "sentence": "During the trip the Tricia got lost and ended up at the emergency room of cardinal Glennon children's hospital instead.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glennon",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            722,
+            730
+          ],
+          "text": "cardinal"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            750,
+            758
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.516197,
+      "sentence": "Ryan got sick once again and was taken to cardinal Glennon children's hospital.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glennon",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2862,
+            2870
+          ],
+          "text": "cardinal"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2890,
+            2898
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.389968,
+      "sentence": "When four month old Ryan Stallings died a social worker from cardinal Glennon children's hospital called Patricia Stallings impression to inform her of her son's death.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glennon",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4255,
+            4263
+          ],
+          "text": "cardinal"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4283,
+            4291
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.238406,
+      "sentence": "During the trip the Tricia got lost and ended up at the emergency room of cardinal Glennon children's hospital instead.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glennon",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            731,
+            738
+          ],
+          "text": "Glennon"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            739,
+            747
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.258158,
+      "sentence": "During the trip the Tricia got lost and ended up at the emergency room of cardinal Glennon children's hospital instead.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glennon",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            731,
+            738
+          ],
+          "text": "Glennon"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            750,
+            758
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.384768,
+      "sentence": "Ryan got sick once again and was taken to cardinal Glennon children's hospital.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glennon",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2871,
+            2878
+          ],
+          "text": "Glennon"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2890,
+            2898
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.466126,
+      "sentence": "When four month old Ryan Stallings died a social worker from cardinal Glennon children's hospital called Patricia Stallings impression to inform her of her son's death.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glennon",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4264,
+            4271
+          ],
+          "text": "Glennon"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4283,
+            4291
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.192431,
+      "sentence": "During the trip the Tricia got lost and ended up at the emergency room of cardinal Glennon children's hospital instead.",
+      "type": "clientOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            739,
+            747
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            750,
+            758
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.566487,
+      "sentence": "The SmithKline Beecham clinical lab in Saint Louis.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "lab",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            953,
+            956
+          ],
+          "text": "lab"
+        },
+        {
+          "entities": [
+            {
+              "text": "SmithKline Beecham lab",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            925,
+            943
+          ],
+          "text": "SmithKline Beecham"
+        }
+      ]
+    },
+    {
+      "score": 0.52926,
+      "sentence": "The SmithKline Beecham clinical lab in Saint Louis.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "lab",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            953,
+            956
+          ],
+          "text": "lab"
+        },
+        {
+          "entities": [
+            {
+              "text": "Saint Louis Missouri",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            960,
+            971
+          ],
+          "text": "Saint Louis"
+        }
+      ]
+    },
+    {
+      "score": 0.683145,
+      "sentence": "Hospital officials notified both the sheriff's department and the Missouri department of family services.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1231,
+            1240
+          ],
+          "text": "officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "Hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1222,
+            1230
+          ],
+          "text": "Hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.63858,
+      "sentence": "Twenty also develop reading problems his mother decided to take to St Louis children's hospital.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            102,
+            108
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            98,
+            101
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.993071,
+      "sentence": "Hospital officials notified both the sheriff's department and the Missouri department of family services.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1231,
+            1240
+          ],
+          "text": "officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "notified",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1241,
+            1249
+          ],
+          "text": "notified"
+        }
+      ]
+    },
+    {
+      "score": 0.749061,
+      "sentence": "Hospital officials notified both the sheriff's department and the Missouri department of family services.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sheriff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1259,
+            1266
+          ],
+          "text": "sheriff"
+        },
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1269,
+            1279
+          ],
+          "text": "department"
+        }
+      ]
+    },
+    {
+      "score": 0.990145,
+      "sentence": "Hospital officials notified both the sheriff's department and the Missouri department of family services.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1297,
+            1307
+          ],
+          "text": "department"
+        },
+        {
+          "entities": [
+            {
+              "text": "State of Missouri",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1288,
+            1296
+          ],
+          "text": "Missouri"
+        }
+      ]
+    },
+    {
+      "score": 0.459784,
+      "sentence": "Investigators searched the storms home.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1328,
+            1341
+          ],
+          "text": "Investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "storms",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            1355,
+            1361
+          ],
+          "text": "storms"
+        }
+      ]
+    },
+    {
+      "score": 0.865363,
+      "sentence": "Investigators searched the storms home.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1362,
+            1366
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "storms",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            1355,
+            1361
+          ],
+          "text": "storms"
+        }
+      ]
+    },
+    {
+      "score": 0.891216,
+      "sentence": "Fortunately Ryan's condition gradually improved when he was released from the hospital he was not returned to his parents instead the department of family services placed Ryan in foster care until they completed their investigation.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shoemaker retested Ryan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1863,
+            1865
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "released",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            1870,
+            1878
+          ],
+          "text": "released"
+        }
+      ]
+    },
+    {
+      "score": 0.388054,
+      "sentence": "Fortunately Ryan's condition gradually improved when he was released from the hospital he was not returned to his parents instead the department of family services placed Ryan in foster care until they completed their investigation.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shoemaker retested Ryan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1897,
+            1899
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1888,
+            1896
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.637838,
+      "sentence": "Five months after Ryan's death Patricia Stallings gave birth to David Stallings junior in a hospital near the prison.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shoemaker retested Ryan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5202,
+            5208
+          ],
+          "text": "junior"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5214,
+            5222
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.596986,
+      "sentence": "Fortunately Ryan's condition gradually improved when he was released from the hospital he was not returned to his parents instead the department of family services placed Ryan in foster care until they completed their investigation.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1958,
+            1964
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1944,
+            1954
+          ],
+          "text": "department"
+        }
+      ]
+    },
+    {
+      "score": 0.618243,
+      "sentence": "While Ryan was in foster care Patricia was only permitted to visit him once a week under the supervision of the department of family services or DFS.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2762,
+            2768
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2748,
+            2758
+          ],
+          "text": "department"
+        }
+      ]
+    },
+    {
+      "score": 0.895472,
+      "sentence": "Fortunately Ryan's condition gradually improved when he was released from the hospital he was not returned to his parents instead the department of family services placed Ryan in foster care until they completed their investigation.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2022,
+            2027
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            2028,
+            2041
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.860729,
+      "sentence": "And that investigation revealed some troubling information they discovered that Patricia Spalding's was the mother of another child a five year old son who was in her sister's custody because of allegations of child abuse.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Spalding",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2151,
+            2157
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "child",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2169,
+            2174
+          ],
+          "text": "child"
+        }
+      ]
+    },
+    {
+      "score": 0.790761,
+      "sentence": "Twenty also develop reading problems his mother decided to take to St Louis children's hospital.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            137,
+            145
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "St Louis",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            128,
+            136
+          ],
+          "text": "St Louis"
+        }
+      ]
+    },
+    {
+      "score": 0.631787,
+      "sentence": "And that investigation revealed some troubling information they discovered that Patricia Spalding's was the mother of another child a five year old son who was in her sister's custody because of allegations of child abuse.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "son",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2195,
+            2198
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "child abuse",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            2253,
+            2264
+          ],
+          "text": "child abuse"
+        }
+      ]
+    },
+    {
+      "score": 0.30153,
+      "sentence": "And that investigation revealed some troubling information they discovered that Patricia Spalding's was the mother of another child a five year old son who was in her sister's custody because of allegations of child abuse.",
+      "type": "siblingOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Spalding",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2206,
+            2209
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2210,
+            2216
+          ],
+          "text": "sister"
+        }
+      ]
+    },
+    {
+      "score": 0.521782,
+      "sentence": "And that investigation revealed some troubling information they discovered that Patricia Spalding's was the mother of another child a five year old son who was in her sister's custody because of allegations of child abuse.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2210,
+            2216
+          ],
+          "text": "sister"
+        },
+        {
+          "entities": [
+            {
+              "text": "child abuse",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            2253,
+            2264
+          ],
+          "text": "child abuse"
+        }
+      ]
+    },
+    {
+      "score": 0.802035,
+      "sentence": "He was born out of wedlock when she was young subsequent to his birth he was taken away from her by the state when they discovered that he was in the first stages of frostbite malnutrition.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Spalding",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2359,
+            2362
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2381,
+            2385
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.223989,
+      "sentence": "Ryan got sick once again and was taken to cardinal Glennon children's hospital.",
+      "type": "clientOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2879,
+            2887
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2890,
+            2898
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.727124,
+      "sentence": "Brian'S blood was also sent to the toxicology lab at the university of Saint Louis.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "lab",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3086,
+            3089
+          ],
+          "text": "lab"
+        },
+        {
+          "entities": [
+            {
+              "text": "Saint Louis University",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3097,
+            3107
+          ],
+          "text": "university"
+        }
+      ]
+    },
+    {
+      "score": 0.749877,
+      "sentence": "Brian'S blood was also sent to the toxicology lab at the university of Saint Louis.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Saint Louis University",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3097,
+            3107
+          ],
+          "text": "university"
+        },
+        {
+          "entities": [
+            {
+              "text": "Saint Louis Missouri",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3111,
+            3122
+          ],
+          "text": "Saint Louis"
+        }
+      ]
+    },
+    {
+      "score": 0.796289,
+      "sentence": "Prosecutors suspected that Patricia had poisoned Ryan again after the supervisor left the room we went over in detail talking to every person that was there in the room every movement that was in the room what things were brought into the room the bottle seized from the visit again tested positive for ethylene glycol.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3594,
+            3602
+          ],
+          "text": "Patricia"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3662,
+            3664
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.696875,
+      "sentence": "Prosecutors suspected that Patricia had poisoned Ryan again after the supervisor left the room we went over in detail talking to every person that was there in the room every movement that was in the room what things were brought into the room the bottle seized from the visit again tested positive for ethylene glycol.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shoemaker retested Ryan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3616,
+            3620
+          ],
+          "text": "Ryan"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3662,
+            3664
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.318845,
+      "sentence": "Prosecutors suspected that Patricia had poisoned Ryan again after the supervisor left the room we went over in detail talking to every person that was there in the room every movement that was in the room what things were brought into the room the bottle seized from the visit again tested positive for ethylene glycol.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shoemaker retested Ryan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3637,
+            3647
+          ],
+          "text": "supervisor"
+        },
+        {
+          "entities": [
+            {
+              "text": "emergency room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3657,
+            3661
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.59199,
+      "sentence": "Twenty also develop reading problems his mother decided to take to St Louis children's hospital.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            148,
+            156
+          ],
+          "text": "hospital"
+        },
+        {
+          "entities": [
+            {
+              "text": "St Louis",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            128,
+            136
+          ],
+          "text": "St Louis"
+        }
+      ]
+    },
+    {
+      "score": 0.584508,
+      "sentence": "After an entire weekend of vomiting and breathing problems the Christian decided to take the baby to St Louis children's hospital.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            638,
+            646
+          ],
+          "text": "hospital"
+        },
+        {
+          "entities": [
+            {
+              "text": "St Louis",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            618,
+            626
+          ],
+          "text": "St Louis"
+        }
+      ]
+    },
+    {
+      "score": 0.611584,
+      "sentence": "DJ was rushed to St Louis children's hospital.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5436,
+            5444
+          ],
+          "text": "hospital"
+        },
+        {
+          "entities": [
+            {
+              "text": "St Louis",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5416,
+            5424
+          ],
+          "text": "St Louis"
+        }
+      ]
+    },
+    {
+      "score": 0.934743,
+      "sentence": "A Tricia Stallings was arrested and charged with assault.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3889,
+            3905
+          ],
+          "text": "Tricia Stallings"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrested",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            3910,
+            3918
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.562326,
+      "sentence": "A Tricia Stallings was arrested and charged with assault.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3889,
+            3905
+          ],
+          "text": "Tricia Stallings"
+        },
+        {
+          "entities": [
+            {
+              "text": "charge",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            3923,
+            3930
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.854217,
+      "sentence": "The charge against Patricia Stallings was now murder.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4159,
+            4177
+          ],
+          "text": "Patricia Stallings"
+        },
+        {
+          "entities": [
+            {
+              "text": "charge",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            4144,
+            4150
+          ],
+          "text": "charge"
+        }
+      ]
+    },
+    {
+      "score": 0.815391,
+      "sentence": "A Tricia Stallings was arrested and charged with assault.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3889,
+            3905
+          ],
+          "text": "Tricia Stallings"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            3936,
+            3943
+          ],
+          "text": "assault"
+        }
+      ]
+    },
+    {
+      "score": 0.657762,
+      "sentence": "The charge against Patricia Stallings was now murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4159,
+            4177
+          ],
+          "text": "Patricia Stallings"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4186,
+            4192
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.868147,
+      "sentence": "But Tricia Stallings was found guilty of murder in the first degree and was sentenced to life in prison without possibility of parole.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7199,
+            7215
+          ],
+          "text": "Tricia Stallings"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7236,
+            7242
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.778424,
+      "sentence": "Was it possible that the Tricia Stallings had been convicted of a murder that never happened.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10657,
+            10673
+          ],
+          "text": "Tricia Stallings"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10698,
+            10704
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.526327,
+      "sentence": "When four month old Ryan Stallings died a social worker from cardinal Glennon children's hospital called Patricia Stallings impression to inform her of her son's death.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bryan Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4236,
+            4249
+          ],
+          "text": "social worker"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4283,
+            4291
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.254408,
+      "sentence": "When four month old Ryan Stallings died a social worker from cardinal Glennon children's hospital called Patricia Stallings impression to inform her of her son's death.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glennon",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4264,
+            4271
+          ],
+          "text": "Glennon"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4272,
+            4280
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.158699,
+      "sentence": "When four month old Ryan Stallings died a social worker from cardinal Glennon children's hospital called Patricia Stallings impression to inform her of her son's death.",
+      "type": "clientOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4272,
+            4280
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4283,
+            4291
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.647694,
+      "sentence": "When four month old Ryan Stallings died a social worker from cardinal Glennon children's hospital called Patricia Stallings impression to inform her of her son's death.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4299,
+            4317
+          ],
+          "text": "Patricia Stallings"
+        },
+        {
+          "entities": [
+            {
+              "text": "inform",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4332,
+            4338
+          ],
+          "text": "inform"
+        }
+      ]
+    },
+    {
+      "score": 0.819997,
+      "sentence": "When four month old Ryan Stallings died a social worker from cardinal Glennon children's hospital called Patricia Stallings impression to inform her of her son's death.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4339,
+            4342
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "inform",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4332,
+            4338
+          ],
+          "text": "inform"
+        }
+      ]
+    },
+    {
+      "score": 0.795189,
+      "sentence": "When four month old Ryan Stallings died a social worker from cardinal Glennon children's hospital called Patricia Stallings impression to inform her of her son's death.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4346,
+            4349
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "son",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4350,
+            4353
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.856408,
+      "sentence": "Ill in prison awaiting trial Patricia Stallings learned some surprising news.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4931,
+            4937
+          ],
+          "text": "prison"
+        },
+        {
+          "entities": [
+            {
+              "text": "Ill",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4924,
+            4927
+          ],
+          "text": "Ill"
+        }
+      ]
+    },
+    {
+      "score": 0.229118,
+      "sentence": "Twenty also develop reading problems his mother decided to take to St Louis children's hospital.",
+      "type": "affiliatedWith",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            148,
+            156
+          ],
+          "text": "hospital"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            137,
+            145
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.474909,
+      "sentence": "Ill in prison awaiting trial Patricia Stallings learned some surprising news.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ill",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4924,
+            4927
+          ],
+          "text": "Ill"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            4947,
+            4952
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.896177,
+      "sentence": "Ill in prison awaiting trial Patricia Stallings learned some surprising news.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4953,
+            4971
+          ],
+          "text": "Patricia Stallings"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            4947,
+            4952
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.502853,
+      "sentence": "Cast from different laboratory showed that and everyone agreed that if they're settling Glock all in the body you what name M. Hey the kill the child so the murder case against Patricia Stallings went to trial.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6720,
+            6738
+          ],
+          "text": "Patricia Stallings"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6747,
+            6752
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.850016,
+      "sentence": "During her pregnancy Patricia became friends with prison guard Patty Matthews.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5023,
+            5031
+          ],
+          "text": "Patricia"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5052,
+            5058
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.400707,
+      "sentence": "Five months after Ryan's death Patricia Stallings gave birth to David Stallings junior in a hospital near the prison.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5153,
+            5171
+          ],
+          "text": "Patricia Stallings"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5232,
+            5238
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.399375,
+      "sentence": "During her pregnancy Patricia became friends with prison guard Patty Matthews.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patty Matthews",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5059,
+            5064
+          ],
+          "text": "guard"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5052,
+            5058
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.696251,
+      "sentence": "Five months after Ryan's death Patricia Stallings gave birth to David Stallings junior in a hospital near the prison.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shoemaker retested Ryan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5202,
+            5208
+          ],
+          "text": "junior"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5232,
+            5238
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.330282,
+      "sentence": "Five months after Ryan's death Patricia Stallings gave birth to David Stallings junior in a hospital near the prison.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5214,
+            5222
+          ],
+          "text": "hospital"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5232,
+            5238
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.51833,
+      "sentence": "A Tricia and David nicknamed him teacher.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5242,
+            5248
+          ],
+          "text": "Tricia"
+        },
+        {
+          "entities": [
+            {
+              "text": "nicknamed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5259,
+            5268
+          ],
+          "text": "nicknamed"
+        }
+      ]
+    },
+    {
+      "score": 0.984569,
+      "sentence": "A Tricia and David nicknamed him teacher.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5253,
+            5258
+          ],
+          "text": "David"
+        },
+        {
+          "entities": [
+            {
+              "text": "nicknamed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5259,
+            5268
+          ],
+          "text": "nicknamed"
+        }
+      ]
+    },
+    {
+      "score": 0.645737,
+      "sentence": "A Tricia and David nicknamed him teacher.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5269,
+            5272
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "nicknamed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5259,
+            5268
+          ],
+          "text": "nicknamed"
+        }
+      ]
+    },
+    {
+      "score": 0.757993,
+      "sentence": "When DJ was just a few weeks old he had an episode of vomiting seizures and breathing problems while in foster care.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5315,
+            5317
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "vomiting seizures",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            5336,
+            5353
+          ],
+          "text": "vomiting seizures"
+        }
+      ]
+    },
+    {
+      "score": 0.452483,
+      "sentence": "I recently moved into a home overlooking lake Wanaka just outside of Saint Louis Missouri.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            360,
+            361
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            384,
+            388
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.794633,
+      "sentence": "DJ was rushed to St Louis children's hospital.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5425,
+            5433
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "St Louis",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5416,
+            5424
+          ],
+          "text": "St Louis"
+        }
+      ]
+    },
+    {
+      "score": 0.231571,
+      "sentence": "DJ was rushed to St Louis children's hospital.",
+      "type": "affiliatedWith",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5436,
+            5444
+          ],
+          "text": "hospital"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5425,
+            5433
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.699773,
+      "sentence": "Ironically it was the hospital Patricia planned to take Ryan to before she got lost.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5477,
+            5485
+          ],
+          "text": "Patricia"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5468,
+            5476
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.691107,
+      "sentence": "Doctors diagnosed DJ with the very rare metabolic disorder called methyl malonic acid the media or am M. A. which inhibits the body's ability to process food especially proteins it also produces toxins in the blood.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "child",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5658,
+            5662
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "metabolic disorder",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            5571,
+            5589
+          ],
+          "text": "metabolic disorder"
+        }
+      ]
+    },
+    {
+      "score": 0.371543,
+      "sentence": "something's not right here in math fact released her from custody at that point on a recognizance bond which is unheard of in a murder case.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6025,
+            6028
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6111,
+            6115
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.876145,
+      "sentence": "Cast from different laboratory showed that and everyone agreed that if they're settling Glock all in the body you what name M. Hey the kill the child so the murder case against Patricia Stallings went to trial.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6720,
+            6738
+          ],
+          "text": "Patricia Stallings"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6707,
+            6711
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.565584,
+      "sentence": "At Yale University they found Dr Pierre Renault one of the world's leading experts in metabolic diseases he reviewed the scientific data that formed the basis for the case against Patricia storms I received all the raw material all the data.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11953,
+            11961
+          ],
+          "text": "Patricia"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11940,
+            11944
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.529855,
+      "sentence": "But the prosecution's medical experts did not believe that Ryan died and then a.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6147,
+            6154
+          ],
+          "text": "experts"
+        },
+        {
+          "entities": [
+            {
+              "text": "prosecution",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6125,
+            6136
+          ],
+          "text": "prosecution"
+        }
+      ]
+    },
+    {
+      "score": 0.325779,
+      "sentence": "Tests on Ryan's baby bottle also found trace amounts of ethylene glycol.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shoemaker retested Ryan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6424,
+            6428
+          ],
+          "text": "Ryan"
+        },
+        {
+          "entities": [
+            {
+              "text": "child",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6431,
+            6435
+          ],
+          "text": "baby"
+        }
+      ]
+    },
+    {
+      "score": 0.325779,
+      "sentence": "Scientists also suspect that the process of washing Ryan's baby bottle because the false readings of ethylene glycol when the bottle was tested.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shoemaker retested Ryan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13693,
+            13697
+          ],
+          "text": "Ryan"
+        },
+        {
+          "entities": [
+            {
+              "text": "child",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13700,
+            13704
+          ],
+          "text": "baby"
+        }
+      ]
+    },
+    {
+      "score": 0.951244,
+      "sentence": "Everyone was saying there was a live call in the body.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Everyone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6488,
+            6496
+          ],
+          "text": "Everyone"
+        },
+        {
+          "entities": [
+            {
+              "text": "saying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6501,
+            6507
+          ],
+          "text": "saying"
+        }
+      ]
+    },
+    {
+      "score": 0.660341,
+      "sentence": "Cast from different laboratory showed that and everyone agreed that if they're settling Glock all in the body you what name M. Hey the kill the child so the murder case against Patricia Stallings went to trial.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Cast",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6543,
+            6547
+          ],
+          "text": "Cast"
+        },
+        {
+          "entities": [
+            {
+              "text": "laboratory",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6563,
+            6573
+          ],
+          "text": "laboratory"
+        }
+      ]
+    },
+    {
+      "score": 0.983542,
+      "sentence": "Cast from different laboratory showed that and everyone agreed that if they're settling Glock all in the body you what name M. Hey the kill the child so the murder case against Patricia Stallings went to trial.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "everyone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6590,
+            6598
+          ],
+          "text": "everyone"
+        },
+        {
+          "entities": [
+            {
+              "text": "agreed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6599,
+            6605
+          ],
+          "text": "agreed"
+        }
+      ]
+    },
+    {
+      "score": 0.668284,
+      "sentence": "I recently moved into a home overlooking lake Wanaka just outside of Saint Louis Missouri.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            384,
+            388
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "lake",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            401,
+            405
+          ],
+          "text": "lake"
+        }
+      ]
+    },
+    {
+      "score": 0.53039,
+      "sentence": "Cast from different laboratory showed that and everyone agreed that if they're settling Glock all in the body you what name M. Hey the kill the child so the murder case against Patricia Stallings went to trial.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "everyone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6614,
+            6618
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6700,
+            6706
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.581552,
+      "sentence": "Cast from different laboratory showed that and everyone agreed that if they're settling Glock all in the body you what name M. Hey the kill the child so the murder case against Patricia Stallings went to trial.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "child",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6687,
+            6692
+          ],
+          "text": "child"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6707,
+            6711
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.472483,
+      "sentence": "Despite the genetic illness diagnosed in DJ the Christian Stallings defense attorney could not produce one medical expert to testify that it was an anime and not anti freeze poisoning the cost Ryan's dad.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6852,
+            6861
+          ],
+          "text": "Stallings"
+        },
+        {
+          "entities": [
+            {
+              "text": "Christian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6842,
+            6851
+          ],
+          "text": "Christian"
+        }
+      ]
+    },
+    {
+      "score": 0.811425,
+      "sentence": "I put on my witnesses all of them said F. one block on all of them said it had to be ingested.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7028,
+            7032
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7033,
+            7037
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.818501,
+      "sentence": "I put on my witnesses all of them said F. one block on all of them said it had to be ingested.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7061,
+            7065
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7066,
+            7070
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.995484,
+      "sentence": "The jury also heard what Patricia Stallings said to the social worker when informed of Ryan's death.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7119,
+            7137
+          ],
+          "text": "Patricia Stallings"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7138,
+            7142
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.714571,
+      "sentence": "The jury also heard what Patricia Stallings said to the social worker when informed of Ryan's death.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "social worker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7150,
+            7163
+          ],
+          "text": "social worker"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7138,
+            7142
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.420751,
+      "sentence": "But Tricia Stallings was found guilty of murder in the first degree and was sentenced to life in prison without possibility of parole.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7199,
+            7215
+          ],
+          "text": "Tricia Stallings"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            7271,
+            7280
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.717936,
+      "sentence": "Her husband David collapsed in shock after hearing the verdict and was rushed to the hospital.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7330,
+            7333
+          ],
+          "text": "Her"
+        },
+        {
+          "entities": [
+            {
+              "text": "David Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7334,
+            7341
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.478313,
+      "sentence": "Her husband David collapsed in shock after hearing the verdict and was rushed to the hospital.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7334,
+            7341
+          ],
+          "text": "husband"
+        },
+        {
+          "entities": [
+            {
+              "text": "verdict",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            7385,
+            7392
+          ],
+          "text": "verdict"
+        }
+      ]
+    },
+    {
+      "score": 0.55218,
+      "sentence": "Her husband David collapsed in shock after hearing the verdict and was rushed to the hospital.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7342,
+            7347
+          ],
+          "text": "David"
+        },
+        {
+          "entities": [
+            {
+              "text": "verdict",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            7385,
+            7392
+          ],
+          "text": "verdict"
+        }
+      ]
+    },
+    {
+      "score": 0.540371,
+      "sentence": "Her husband David collapsed in shock after hearing the verdict and was rushed to the hospital.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7342,
+            7347
+          ],
+          "text": "David"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7415,
+            7423
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.457673,
+      "sentence": "I recently moved into a home overlooking lake Wanaka just outside of Saint Louis Missouri.",
+      "type": "near",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "lake",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            401,
+            405
+          ],
+          "text": "lake"
+        },
+        {
+          "entities": [
+            {
+              "text": "Saint Louis Missouri",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            429,
+            449
+          ],
+          "text": "Saint Louis Missouri"
+        }
+      ]
+    },
+    {
+      "score": 0.990355,
+      "sentence": "We talked for a little while there was a whole lot of comfort I could offer at that point.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "We",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7485,
+            7487
+          ],
+          "text": "We"
+        },
+        {
+          "entities": [
+            {
+              "text": "talked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7488,
+            7494
+          ],
+          "text": "talked"
+        }
+      ]
+    },
+    {
+      "score": 0.761331,
+      "sentence": "Although Patricia Stallings was found guilty of the poisoning death of her son Ryan with anti freeze not everyone was convinced Dr William sly and Dr James shoemaker wondered whether the lab tests done by their colleagues on by the SmithKline Beecham lab were accurate it was only when I found out that no one had really thoroughly explored the science behind the ethylene glycol testing.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7762,
+            7765
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "shoemaker retested Ryan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7766,
+            7769
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.229201,
+      "sentence": "Although Patricia Stallings was found guilty of the poisoning death of her son Ryan with anti freeze not everyone was convinced Dr William sly and Dr James shoemaker wondered whether the lab tests done by their colleagues on by the SmithKline Beecham lab were accurate it was only when I found out that no one had really thoroughly explored the science behind the ethylene glycol testing.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "everyone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7896,
+            7901
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "colleagues",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7902,
+            7912
+          ],
+          "text": "colleagues"
+        }
+      ]
+    },
+    {
+      "score": 0.918873,
+      "sentence": "Medical experts who testified against Patricia Stallings said that the peak on the graph of Ryan's blood serum appeared at a retention time that match that of ethylene glycol.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8577,
+            8580
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "testified",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8581,
+            8590
+          ],
+          "text": "testified"
+        }
+      ]
+    },
+    {
+      "score": 0.615086,
+      "sentence": "Medical experts who testified against Patricia Stallings said that the peak on the graph of Ryan's blood serum appeared at a retention time that match that of ethylene glycol.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8599,
+            8617
+          ],
+          "text": "Patricia Stallings"
+        },
+        {
+          "entities": [
+            {
+              "text": "testified",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8581,
+            8590
+          ],
+          "text": "testified"
+        }
+      ]
+    },
+    {
+      "score": 0.932697,
+      "sentence": "Medical experts who testified against Patricia Stallings said that the peak on the graph of Ryan's blood serum appeared at a retention time that match that of ethylene glycol.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8599,
+            8617
+          ],
+          "text": "Patricia Stallings"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8618,
+            8622
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.960533,
+      "sentence": "Comes off very close but not identically with ethylene glycol and Haiti and I speculated that that might be the.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9041,
+            9042
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "speculated",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9043,
+            9053
+          ],
+          "text": "speculated"
+        }
+      ]
+    },
+    {
+      "score": 0.306264,
+      "sentence": "Propionic acid is often produced in patients who have an MFA the rare genetic illness diagnosed in Ryan's brother DJ.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shoemaker retested Ryan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9277,
+            9281
+          ],
+          "text": "Ryan"
+        },
+        {
+          "entities": [
+            {
+              "text": "DJ",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9284,
+            9291
+          ],
+          "text": "brother"
+        }
+      ]
+    },
+    {
+      "score": 0.469881,
+      "sentence": "The only difference between propionic acid and ethylene glycol is a few carbon atoms.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "substance",
+              "type": "Substance"
+            }
+          ],
+          "location": [
+            9368,
+            9374
+          ],
+          "text": "carbon"
+        },
+        {
+          "entities": [
+            {
+              "text": "atoms",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9375,
+            9380
+          ],
+          "text": "atoms"
+        }
+      ]
+    },
+    {
+      "score": 0.482553,
+      "sentence": "But Dr shoemaker was a junior member of the faculty at the time and knew that his conclusions would be challenged by experts.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "junior member",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10455,
+            10468
+          ],
+          "text": "junior member"
+        },
+        {
+          "entities": [
+            {
+              "text": "faculty",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10476,
+            10483
+          ],
+          "text": "faculty"
+        }
+      ]
+    },
+    {
+      "score": 0.484728,
+      "sentence": "After an entire weekend of vomiting and breathing problems the Christian decided to take the baby to St Louis children's hospital.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Christian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            580,
+            589
+          ],
+          "text": "Christian"
+        },
+        {
+          "entities": [
+            {
+              "text": "vomiting",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            544,
+            552
+          ],
+          "text": "vomiting"
+        }
+      ]
+    },
+    {
+      "score": 0.863218,
+      "sentence": "But Dr shoemaker was a junior member of the faculty at the time and knew that his conclusions would be challenged by experts.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "junior member",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10510,
+            10513
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "challenged",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10535,
+            10545
+          ],
+          "text": "challenged"
+        }
+      ]
+    },
+    {
+      "score": 0.537917,
+      "sentence": "Was it possible that the Tricia Stallings had been convicted of a murder that never happened.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Stallings",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10657,
+            10673
+          ],
+          "text": "Tricia Stallings"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10683,
+            10692
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.880996,
+      "sentence": "The store hired attorney Robert returned to handle their repeat he immediately requested a new trial arguing that Patricia Stallings first lawyer had not mounted a proper scientific defense after several hours of discussion I came away convinced that Patty did not poison or child and then a horrible injustice had resulted here.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "store",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10730,
+            10735
+          ],
+          "text": "store"
+        },
+        {
+          "entities": [
+            {
+              "text": "hired",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            10736,
+            10741
+          ],
+          "text": "hired"
+        }
+      ]
+    },
+    {
+      "score": 0.567364,
+      "sentence": "The store hired attorney Robert returned to handle their repeat he immediately requested a new trial arguing that Patricia Stallings first lawyer had not mounted a proper scientific defense after several hours of discussion I came away convinced that Patty did not poison or child and then a horrible injustice had resulted here.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10742,
+            10750
+          ],
+          "text": "attorney"
+        },
+        {
+          "entities": [
+            {
+              "text": "store",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10730,
+            10735
+          ],
+          "text": "store"
+        }
+      ]
+    },
+    {
+      "score": 0.614818,
+      "sentence": "The store hired attorney Robert returned to handle their repeat he immediately requested a new trial arguing that Patricia Stallings first lawyer had not mounted a proper scientific defense after several hours of discussion I came away convinced that Patty did not poison or child and then a horrible injustice had resulted here.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10742,
+            10750
+          ],
+          "text": "attorney"
+        },
+        {
+          "entities": [
+            {
+              "text": "hired",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            10736,
+            10741
+          ],
+          "text": "hired"
+        }
+      ]
+    },
+    {
+      "score": 0.906339,
+      "sentence": "The store hired attorney Robert returned to handle their repeat he immediately requested a new trial arguing that Patricia Stallings first lawyer had not mounted a proper scientific defense after several hours of discussion I came away convinced that Patty did not poison or child and then a horrible injustice had resulted here.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10751,
+            10757
+          ],
+          "text": "Robert"
+        },
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10777,
+            10782
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.975877,
+      "sentence": "The store hired attorney Robert returned to handle their repeat he immediately requested a new trial arguing that Patricia Stallings first lawyer had not mounted a proper scientific defense after several hours of discussion I came away convinced that Patty did not poison or child and then a horrible injustice had resulted here.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "junior member",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10790,
+            10792
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "requested",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10805,
+            10814
+          ],
+          "text": "requested"
+        }
+      ]
+    },
+    {
+      "score": 0.842204,
+      "sentence": "The store hired attorney Robert returned to handle their repeat he immediately requested a new trial arguing that Patricia Stallings first lawyer had not mounted a proper scientific defense after several hours of discussion I came away convinced that Patty did not poison or child and then a horrible injustice had resulted here.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "several hours",
+              "type": "Duration"
+            }
+          ],
+          "location": [
+            10922,
+            10935
+          ],
+          "text": "several hours"
+        },
+        {
+          "entities": [
+            {
+              "text": "discussion",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            10939,
+            10949
+          ],
+          "text": "discussion"
+        }
+      ]
+    },
+    {
+      "score": 0.590095,
+      "sentence": "The store hired attorney Robert returned to handle their repeat he immediately requested a new trial arguing that Patricia Stallings first lawyer had not mounted a proper scientific defense after several hours of discussion I came away convinced that Patty did not poison or child and then a horrible injustice had resulted here.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "junior member",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10950,
+            10951
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "discussion",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            10939,
+            10949
+          ],
+          "text": "discussion"
+        }
+      ]
+    },
+    {
+      "score": 0.62402,
+      "sentence": "When prosecutors heard the new test results from Saint Louis University even they agreed that this new medical information raised serious questions once we were well aware that they were actually doctors out there prepared to say that that obviously didn't testify trial may have made a difference at the trial and we agreed to a new trial and we'd have to do that but prosecutors had to independent laboratories that found that the lean glycol in Ryan's blood traces of ethylene glycol were found in the baby bottle and the autopsy report found oxalate crystals in Ryan's brain a finding consistent with ethylene glycol poisoning.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Saint Louis University",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11105,
+            11127
+          ],
+          "text": "Saint Louis University"
+        },
+        {
+          "entities": [
+            {
+              "text": "agreed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11138,
+            11144
+          ],
+          "text": "agreed"
+        }
+      ]
+    }
+  ]
+}

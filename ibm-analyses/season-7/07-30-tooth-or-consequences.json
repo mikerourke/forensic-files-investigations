@@ -1,0 +1,3446 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 9602,
+    "text_units": 1
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Katie",
+      "relevance": 0.965132,
+      "confidence": 1,
+      "count": 23
+    },
+    {
+      "type": "Quantity",
+      "text": "nineteen year",
+      "relevance": 0.547457,
+      "confidence": 0.992,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Dr Hathaway",
+      "relevance": 0.288265,
+      "confidence": 0.999314,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Donald dean Christiansen",
+      "relevance": 0.252987,
+      "confidence": 0.992395,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Rancic",
+      "relevance": 0.221279,
+      "confidence": 0.953971,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Minnesota",
+      "relevance": 0.181368,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Quantity",
+      "text": "three digits",
+      "relevance": 0.176677,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Minnesota National Guard",
+      "relevance": 0.173759,
+      "confidence": 0.506481,
+      "count": 1,
+      "disambiguation": {
+        "name": "Minnesota_National_Guard",
+        "dbpedia_resource": "http://dbpedia.org/resource/Minnesota_National_Guard",
+        "subtype": [
+          "MilitaryUnit"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Dr Meister",
+      "relevance": 0.171564,
+      "confidence": 0.999964,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Donald Blom",
+      "relevance": 0.158933,
+      "confidence": 1,
+      "count": 3,
+      "disambiguation": {
+        "name": "Donald_Blom",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Blom"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Dr David Hathaway",
+      "relevance": 0.154961,
+      "confidence": 0.783264,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Blom",
+      "relevance": 0.134697,
+      "confidence": 1,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Paula Francisco",
+      "relevance": 0.124497,
+      "confidence": 0.989899,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Donald Shelton block",
+      "relevance": 0.118742,
+      "confidence": 0.817307,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Susan Thurston Meister",
+      "relevance": 0.096244,
+      "confidence": 0.745125,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three hours",
+      "relevance": 0.090342,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "ten inches",
+      "relevance": 0.085876,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Katie poor",
+      "relevance": 0.079188,
+      "confidence": 0.595414,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "five feet",
+      "relevance": 0.076341,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Christiansen",
+      "relevance": 0.076186,
+      "confidence": 0.99959,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty five percent",
+      "relevance": 0.075684,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three M",
+      "relevance": 0.074627,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "moose lake",
+      "relevance": 0.068253,
+      "confidence": 0.841398,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "NASA",
+      "relevance": 0.065617,
+      "confidence": 0.998292,
+      "count": 1,
+      "disambiguation": {
+        "name": "NASA",
+        "dbpedia_resource": "http://dbpedia.org/resource/NASA",
+        "subtype": [
+          "Company",
+          "GovernmentAgency",
+          "AirportOperator",
+          "AwardPresentingOrganization",
+          "SoftwareDeveloper",
+          "SpaceAgency",
+          "SpacecraftManufacturer"
+        ]
+      }
+    },
+    {
+      "type": "Organization",
+      "text": "Minnesota bureau of criminal apprehension",
+      "relevance": 0.062569,
+      "confidence": 0.589903,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "mark Nielsen",
+      "relevance": 0.060307,
+      "confidence": 0.994577,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Yankees",
+      "relevance": 0.060013,
+      "confidence": 0.247459,
+      "count": 1,
+      "disambiguation": {
+        "name": "New_York_Yankees",
+        "dbpedia_resource": "http://dbpedia.org/resource/New_York_Yankees",
+        "subtype": [
+          "SportsTeam",
+          "ProfessionalSportsTeam"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "ninety degrees",
+      "relevance": 0.057095,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "fifty years",
+      "relevance": 0.056174,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Three weeks",
+      "relevance": 0.053483,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Minneapolis",
+      "relevance": 0.051138,
+      "confidence": 0.999944,
+      "count": 1
+    },
+    {
+      "type": "Sport",
+      "text": "baseball",
+      "relevance": 0.050166,
+      "confidence": 0.999425,
+      "count": 1,
+      "disambiguation": {
+        "name": "Baseball",
+        "dbpedia_resource": "http://dbpedia.org/resource/Baseball"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Dr Melanie Meyer",
+      "relevance": 0.047532,
+      "confidence": 0.996161,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eighteen two weeks",
+      "relevance": 0.044669,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Myers",
+      "relevance": 0.043812,
+      "confidence": 0.993419,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "New York",
+      "relevance": 0.039938,
+      "confidence": 0.942616,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Meyer",
+      "relevance": 0.039835,
+      "confidence": 0.997037,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Orlando",
+      "relevance": 0.027761,
+      "confidence": 0.843434,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Phil Wagner",
+      "relevance": 0.024868,
+      "confidence": 0.994765,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Donald",
+      "relevance": 0.013156,
+      "confidence": 0.975127,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Donna",
+      "relevance": 0.003031,
+      "confidence": 0.999988,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.883282
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.742233
+    },
+    {
+      "label": "/society/crime/personal offense/kidnapping",
+      "score": 0.691182
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.651113
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.648496
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.607184
+    },
+    {
+      "label": "/law, govt and politics/law enforcement",
+      "score": 0.578505
+    },
+    {
+      "label": "/society/dating",
+      "score": 0.535014
+    },
+    {
+      "label": "/business and industrial/business operations/business plans",
+      "score": 0.533143
+    },
+    {
+      "label": "/society/crime/sexual offence/rape",
+      "score": 0.53276
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.399963,
+      "sentence": "It is interesting so did her family several sports and her pet dog.",
+      "type": "relative",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            428,
+            431
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            432,
+            438
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.830281,
+      "sentence": "Neighbors near the store told police they saw a black pickup truck circling the area before Katie's abduction.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neighbors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1638,
+            1647
+          ],
+          "text": "Neighbors"
+        },
+        {
+          "entities": [
+            {
+              "text": "recalled",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1663,
+            1667
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.937383,
+      "sentence": "Neighbors near the store told police they saw a black pickup truck circling the area before Katie's abduction.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1668,
+            1674
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "recalled",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1663,
+            1667
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.961579,
+      "sentence": "And an employee at the sandwich shop next to the convenience store told police she had seen the same black pickup truck in the parking lot about three hours before Katie vanished.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1821,
+            1827
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "recalled",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1816,
+            1820
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.499906,
+      "sentence": "Neighbors near the store told police they saw a black pickup truck circling the area before Katie's abduction.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neighbors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1675,
+            1679
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1692,
+            1698
+          ],
+          "text": "pickup"
+        }
+      ]
+    },
+    {
+      "score": 0.456359,
+      "sentence": "Neighbors near the store told police they saw a black pickup truck circling the area before Katie's abduction.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neighbors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1675,
+            1679
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "abduction",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            1738,
+            1747
+          ],
+          "text": "abduction"
+        }
+      ]
+    },
+    {
+      "score": 0.917851,
+      "sentence": "Neighbors near the store told police they saw a black pickup truck circling the area before Katie's abduction.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1730,
+            1735
+          ],
+          "text": "Katie"
+        },
+        {
+          "entities": [
+            {
+              "text": "abduction",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            1738,
+            1747
+          ],
+          "text": "abduction"
+        }
+      ]
+    },
+    {
+      "score": 0.819606,
+      "sentence": "Christiansen had been free at the time of Katie's abduction.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4225,
+            4230
+          ],
+          "text": "Katie"
+        },
+        {
+          "entities": [
+            {
+              "text": "abduction",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            4233,
+            4242
+          ],
+          "text": "abduction"
+        }
+      ]
+    },
+    {
+      "score": 0.800198,
+      "sentence": "And an employee at the sandwich shop next to the convenience store told police she had seen the same black pickup truck in the parking lot about three hours before Katie vanished.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1756,
+            1764
+          ],
+          "text": "employee"
+        },
+        {
+          "entities": [
+            {
+              "text": "sandwich shop",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1772,
+            1785
+          ],
+          "text": "sandwich shop"
+        }
+      ]
+    },
+    {
+      "score": 0.967347,
+      "sentence": "And an employee at the sandwich shop next to the convenience store told police she had seen the same black pickup truck in the parking lot about three hours before Katie vanished.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1756,
+            1764
+          ],
+          "text": "employee"
+        },
+        {
+          "entities": [
+            {
+              "text": "recalled",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1816,
+            1820
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.997817,
+      "sentence": "She said the driver was glaring inappropriately as female customers left the store.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1929,
+            1932
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "recalled",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1933,
+            1937
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.986363,
+      "sentence": "The employee wrote down what she could remember of the license plate.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2017,
+            2025
+          ],
+          "text": "employee"
+        },
+        {
+          "entities": [
+            {
+              "text": "recalled",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2026,
+            2031
+          ],
+          "text": "wrote"
+        }
+      ]
+    },
+    {
+      "score": 0.974502,
+      "sentence": "She said it was a Minnesota license plate and that the first three digits were five five seven.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2083,
+            2086
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "recalled",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2087,
+            2091
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.970933,
+      "sentence": "She also recalled the last letter on the plate was a black pickup truck.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2179,
+            2182
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "recalled",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2188,
+            2196
+          ],
+          "text": "recalled"
+        }
+      ]
+    },
+    {
+      "score": 0.980539,
+      "sentence": "She told them something interesting.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7700,
+            7703
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "recalled",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7704,
+            7708
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.99513,
+      "sentence": "Dr Myers said she used a brand new material not yet on the market.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7841,
+            7846
+          ],
+          "text": "Myers"
+        },
+        {
+          "entities": [
+            {
+              "text": "recalled",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7847,
+            7851
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.99514,
+      "sentence": "Dr Meyer told investigators we live at this was factored by the three M. company headquartered in Minnesota.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8003,
+            8008
+          ],
+          "text": "Meyer"
+        },
+        {
+          "entities": [
+            {
+              "text": "recalled",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8009,
+            8013
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.877223,
+      "sentence": "When contacted by police chemist at three M. said rely on teen concentrations of two elements zirconium and selling.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8151,
+            8153
+          ],
+          "text": "M."
+        },
+        {
+          "entities": [
+            {
+              "text": "recalled",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8154,
+            8158
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.445789,
+      "sentence": "And an employee at the sandwich shop next to the convenience store told police she had seen the same black pickup truck in the parking lot about three hours before Katie vanished.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sandwich shop",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1772,
+            1785
+          ],
+          "text": "sandwich shop"
+        },
+        {
+          "entities": [
+            {
+              "text": "parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1876,
+            1887
+          ],
+          "text": "parking lot"
+        }
+      ]
+    },
+    {
+      "score": 0.931921,
+      "sentence": "And an employee at the sandwich shop next to the convenience store told police she had seen the same black pickup truck in the parking lot about three hours before Katie vanished.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1863,
+            1868
+          ],
+          "text": "truck"
+        },
+        {
+          "entities": [
+            {
+              "text": "parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1876,
+            1887
+          ],
+          "text": "parking lot"
+        }
+      ]
+    },
+    {
+      "score": 0.295189,
+      "sentence": "She said the driver was glaring inappropriately as female customers left the store.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Customers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1987,
+            1996
+          ],
+          "text": "customers"
+        },
+        {
+          "entities": [
+            {
+              "text": "store",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2006,
+            2011
+          ],
+          "text": "store"
+        }
+      ]
+    },
+    {
+      "score": 0.525704,
+      "sentence": "It is interesting so did her family several sports and her pet dog.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            458,
+            461
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "dog",
+              "type": "Animal"
+            }
+          ],
+          "location": [
+            466,
+            469
+          ],
+          "text": "dog"
+        }
+      ]
+    },
+    {
+      "score": 0.580528,
+      "sentence": "Minnesota National Guard helicopters searched the area for nineteen year old eighty point.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "National Guard",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2279,
+            2293
+          ],
+          "text": "National Guard"
+        },
+        {
+          "entities": [
+            {
+              "text": "Minnesota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2269,
+            2278
+          ],
+          "text": "Minnesota"
+        }
+      ]
+    },
+    {
+      "score": 0.68507,
+      "sentence": "Minnesota National Guard helicopters searched the area for nineteen year old eighty point.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "helicopters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2294,
+            2305
+          ],
+          "text": "helicopters"
+        },
+        {
+          "entities": [
+            {
+              "text": "National Guard",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2279,
+            2293
+          ],
+          "text": "National Guard"
+        }
+      ]
+    },
+    {
+      "score": 0.362596,
+      "sentence": "Police search their database for black pickup trucks registered in the state of Minnesota with the license plate beginning with five five seven ending with the letter Y.. Surprisingly there were hundreds of vehicles matching that description.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2551,
+            2556
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "pickup trucks",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2576,
+            2589
+          ],
+          "text": "pickup trucks"
+        }
+      ]
+    },
+    {
+      "score": 0.608016,
+      "sentence": "Police search their database for black pickup trucks registered in the state of Minnesota with the license plate beginning with five five seven ending with the letter Y.. Surprisingly there were hundreds of vehicles matching that description.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "pickup trucks",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2576,
+            2589
+          ],
+          "text": "pickup trucks"
+        },
+        {
+          "entities": [
+            {
+              "text": "Minnesota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2617,
+            2626
+          ],
+          "text": "Minnesota"
+        }
+      ]
+    },
+    {
+      "score": 0.542853,
+      "sentence": "To improve the pictures police sent the tapes to NASA which has many years of experience trying to improve pictures sent from space.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "which",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3015,
+            3020
+          ],
+          "text": "which"
+        },
+        {
+          "entities": [
+            {
+              "text": "NASA",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3010,
+            3014
+          ],
+          "text": "NASA"
+        }
+      ]
+    },
+    {
+      "score": 0.635874,
+      "sentence": "Solar physicist Dr David Hathaway created a process to enhance video images called this song.",
+      "type": "authorOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David Hathaway",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3113,
+            3127
+          ],
+          "text": "David Hathaway"
+        },
+        {
+          "entities": [
+            {
+              "text": "song",
+              "type": "TitleWork"
+            }
+          ],
+          "location": [
+            3182,
+            3186
+          ],
+          "text": "song"
+        }
+      ]
+    },
+    {
+      "score": 0.999277,
+      "sentence": "Dr Hathaway says a video picture is really two different fields that create one picture.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David Hathaway",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3191,
+            3199
+          ],
+          "text": "Hathaway"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3200,
+            3204
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.590783,
+      "sentence": "Using what they have a police sketch artist released a rough drawing along with the physical description including his clothing to the media.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "artist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3952,
+            3958
+          ],
+          "text": "artist"
+        },
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3938,
+            3944
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.524645,
+      "sentence": "Christiansen had been free at the time of Katie's abduction.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Christiansen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4183,
+            4195
+          ],
+          "text": "Christiansen"
+        },
+        {
+          "entities": [
+            {
+              "text": "abduction",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            4233,
+            4242
+          ],
+          "text": "abduction"
+        }
+      ]
+    },
+    {
+      "score": 0.595992,
+      "sentence": "Three weeks after Katie's dispatcher Paula Francisco answered a telephone call from a citizen who had a two.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Three weeks after",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            4407,
+            4424
+          ],
+          "text": "Three weeks after"
+        },
+        {
+          "entities": [
+            {
+              "text": "answered",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4460,
+            4468
+          ],
+          "text": "answered"
+        }
+      ]
+    },
+    {
+      "score": 0.609809,
+      "sentence": "Katie worked as a clerk get this mostly convenience store job her mother didn't want her to take.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            702,
+            708
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            698,
+            701
+          ],
+          "text": "her"
+        }
+      ]
+    },
+    {
+      "score": 0.446882,
+      "sentence": "Three weeks after Katie's dispatcher Paula Francisco answered a telephone call from a citizen who had a two.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paula Francisco",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4433,
+            4443
+          ],
+          "text": "dispatcher"
+        },
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4425,
+            4430
+          ],
+          "text": "Katie"
+        }
+      ]
+    },
+    {
+      "score": 0.994975,
+      "sentence": "Three weeks after Katie's dispatcher Paula Francisco answered a telephone call from a citizen who had a two.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paula Francisco",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4444,
+            4459
+          ],
+          "text": "Paula Francisco"
+        },
+        {
+          "entities": [
+            {
+              "text": "answered",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4460,
+            4468
+          ],
+          "text": "answered"
+        }
+      ]
+    },
+    {
+      "score": 0.421108,
+      "sentence": "The caller worked in Minnesota veterans home in Minneapolis and was suspicious there who had just quit his name was Donald Shelton block.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "veterans",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4605,
+            4613
+          ],
+          "text": "veterans"
+        },
+        {
+          "entities": [
+            {
+              "text": "Minnesota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4595,
+            4604
+          ],
+          "text": "Minnesota"
+        }
+      ]
+    },
+    {
+      "score": 0.625315,
+      "sentence": "The caller worked in Minnesota veterans home in Minneapolis and was suspicious there who had just quit his name was Donald Shelton block.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4614,
+            4618
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "Minnesota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4595,
+            4604
+          ],
+          "text": "Minnesota"
+        }
+      ]
+    },
+    {
+      "score": 0.48801,
+      "sentence": "The caller worked in Minnesota veterans home in Minneapolis and was suspicious there who had just quit his name was Donald Shelton block.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "veterans",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4605,
+            4613
+          ],
+          "text": "veterans"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4614,
+            4618
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.917581,
+      "sentence": "The caller worked in Minnesota veterans home in Minneapolis and was suspicious there who had just quit his name was Donald Shelton block.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4614,
+            4618
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "Minneapolis",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4622,
+            4633
+          ],
+          "text": "Minneapolis"
+        }
+      ]
+    },
+    {
+      "score": 0.524453,
+      "sentence": "The caller worked in Minnesota veterans home in Minneapolis and was suspicious there who had just quit his name was Donald Shelton block.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald Shelton",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4690,
+            4704
+          ],
+          "text": "Donald Shelton"
+        },
+        {
+          "entities": [
+            {
+              "text": "veterans",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4659,
+            4662
+          ],
+          "text": "who"
+        }
+      ]
+    },
+    {
+      "score": 0.509715,
+      "sentence": "The caller worked in Minnesota veterans home in Minneapolis and was suspicious there who had just quit his name was Donald Shelton block.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald Shelton",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4690,
+            4704
+          ],
+          "text": "Donald Shelton"
+        },
+        {
+          "entities": [
+            {
+              "text": "block",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4705,
+            4710
+          ],
+          "text": "block"
+        }
+      ]
+    },
+    {
+      "score": 0.383266,
+      "sentence": "His last conviction was in nineteen eighty three when Blom had forced to young women into the woods at nine point five to a tree.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David Hathaway",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4907,
+            4910
+          ],
+          "text": "His"
+        },
+        {
+          "entities": [
+            {
+              "text": "conviction",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            4916,
+            4926
+          ],
+          "text": "conviction"
+        }
+      ]
+    },
+    {
+      "score": 0.53823,
+      "sentence": "His last conviction was in nineteen eighty three when Blom had forced to young women into the woods at nine point five to a tree.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald Blom",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4961,
+            4965
+          ],
+          "text": "Blom"
+        },
+        {
+          "entities": [
+            {
+              "text": "woods",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5001,
+            5006
+          ],
+          "text": "woods"
+        }
+      ]
+    },
+    {
+      "score": 0.61291,
+      "sentence": "One night around midnight when Katie was working the night shift alone the customer called police to say that the store was open but there were no employees around.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            809,
+            817
+          ],
+          "text": "customer"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            835,
+            838
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.426408,
+      "sentence": "Check the motor vehicles revealed Blom did not own a black pickup truck as witnesses describe the least search.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5165,
+            5174
+          ],
+          "text": "witnesses"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            5156,
+            5161
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.973106,
+      "sentence": "Check the motor vehicles revealed Blom did not own a black pickup truck as witnesses describe the least search.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5165,
+            5174
+          ],
+          "text": "witnesses"
+        },
+        {
+          "entities": [
+            {
+              "text": "describe",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5175,
+            5183
+          ],
+          "text": "describe"
+        }
+      ]
+    },
+    {
+      "score": 0.397476,
+      "sentence": "When police descended upon the home of Donald Blom.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5207,
+            5213
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5233,
+            5237
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.442791,
+      "sentence": "When police descended upon the home of Donald Blom.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald Blom",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5241,
+            5252
+          ],
+          "text": "Donald Blom"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5233,
+            5237
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.535478,
+      "sentence": "One said he was innocent and that he had an alibi for the night if Katie's disappearance.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald Blom",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5287,
+            5289
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "recalled",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5282,
+            5286
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.983399,
+      "sentence": "The forensic anthropologist Dr Susan Thurston Meister to examine the fragments she says.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Susan Thurston Meister",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5700,
+            5703
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5704,
+            5708
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.998071,
+      "sentence": "Dr Meister concluded the remains were those of the young woman.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Susan Thurston Meister",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6274,
+            6281
+          ],
+          "text": "Meister"
+        },
+        {
+          "entities": [
+            {
+              "text": "concluded",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6282,
+            6291
+          ],
+          "text": "concluded"
+        }
+      ]
+    },
+    {
+      "score": 0.80569,
+      "sentence": "Several fragments also were recovered from slums fire.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "slums",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            6603,
+            6608
+          ],
+          "text": "slums"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            6609,
+            6613
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.979151,
+      "sentence": "Investigators called in forensic odontology just doctor and Orlando who specializes in making identification based on dental X.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6615,
+            6628
+          ],
+          "text": "Investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6629,
+            6635
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.540051,
+      "sentence": "Investigators called in forensic odontology just doctor and Orlando who specializes in making identification based on dental X.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6664,
+            6670
+          ],
+          "text": "doctor"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6629,
+            6635
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.924762,
+      "sentence": "Police to investigate.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            899,
+            905
+          ],
+          "text": "Police"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigate",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            909,
+            920
+          ],
+          "text": "investigate"
+        }
+      ]
+    },
+    {
+      "score": 0.618753,
+      "sentence": "And she noticed something else what looked to be ran into two doctor nor lander ask forensic scientist at the Minnesota bureau of criminal apprehension to conduct an analysis of the building.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7003,
+            7009
+          ],
+          "text": "doctor"
+        },
+        {
+          "entities": [
+            {
+              "text": "ask",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7021,
+            7024
+          ],
+          "text": "ask"
+        }
+      ]
+    },
+    {
+      "score": 0.909664,
+      "sentence": "And she noticed something else what looked to be ran into two doctor nor lander ask forensic scientist at the Minnesota bureau of criminal apprehension to conduct an analysis of the building.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scientist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7034,
+            7043
+          ],
+          "text": "scientist"
+        },
+        {
+          "entities": [
+            {
+              "text": "ask",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7021,
+            7024
+          ],
+          "text": "ask"
+        }
+      ]
+    },
+    {
+      "score": 0.818534,
+      "sentence": "And she noticed something else what looked to be ran into two doctor nor lander ask forensic scientist at the Minnesota bureau of criminal apprehension to conduct an analysis of the building.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scientist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7034,
+            7043
+          ],
+          "text": "scientist"
+        },
+        {
+          "entities": [
+            {
+              "text": "bureau",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7061,
+            7067
+          ],
+          "text": "bureau"
+        }
+      ]
+    },
+    {
+      "score": 0.901317,
+      "sentence": "And she noticed something else what looked to be ran into two doctor nor lander ask forensic scientist at the Minnesota bureau of criminal apprehension to conduct an analysis of the building.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bureau",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7061,
+            7067
+          ],
+          "text": "bureau"
+        },
+        {
+          "entities": [
+            {
+              "text": "Minnesota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7051,
+            7060
+          ],
+          "text": "Minnesota"
+        }
+      ]
+    },
+    {
+      "score": 0.981109,
+      "sentence": "When scientists contacted Katie players dentist Dr Melanie Meyer.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7639,
+            7649
+          ],
+          "text": "scientists"
+        },
+        {
+          "entities": [
+            {
+              "text": "contacted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7650,
+            7659
+          ],
+          "text": "contacted"
+        }
+      ]
+    },
+    {
+      "score": 0.424075,
+      "sentence": "When scientists contacted Katie players dentist Dr Melanie Meyer.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7660,
+            7665
+          ],
+          "text": "Katie"
+        },
+        {
+          "entities": [
+            {
+              "text": "contacted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7650,
+            7659
+          ],
+          "text": "contacted"
+        }
+      ]
+    },
+    {
+      "score": 0.962324,
+      "sentence": "She told them something interesting.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "players",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7709,
+            7713
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "recalled",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7704,
+            7708
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.797007,
+      "sentence": "records indicated she had replaced filling in Katie's number eighteen two weeks before the adoption.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7755,
+            7758
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "replaced",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            7763,
+            7771
+          ],
+          "text": "replaced"
+        }
+      ]
+    },
+    {
+      "score": 0.520854,
+      "sentence": "records indicated she had replaced filling in Katie's number eighteen two weeks before the adoption.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "two weeks",
+              "type": "Duration"
+            }
+          ],
+          "location": [
+            7807,
+            7816
+          ],
+          "text": "two weeks"
+        },
+        {
+          "entities": [
+            {
+              "text": "replaced",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            7763,
+            7771
+          ],
+          "text": "replaced"
+        }
+      ]
+    },
+    {
+      "score": 0.767563,
+      "sentence": "which had been given to her at the dental conference.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7970,
+            7973
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "conference",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            7988,
+            7998
+          ],
+          "text": "conference"
+        }
+      ]
+    },
+    {
+      "score": 0.561558,
+      "sentence": "There were no signs of violence and no money was missing from the cash register more the safe and Katie's car keys were still.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1020,
+            1025
+          ],
+          "text": "Katie"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1028,
+            1031
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.929018,
+      "sentence": "Dr Meyer told investigators we live at this was factored by the three M. company headquartered in Minnesota.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8014,
+            8027
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "recalled",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8009,
+            8013
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.470151,
+      "sentence": "Dr Meyer told investigators we live at this was factored by the three M. company headquartered in Minnesota.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Nielsen",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8073,
+            8080
+          ],
+          "text": "company"
+        },
+        {
+          "entities": [
+            {
+              "text": "Minnesota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8098,
+            8107
+          ],
+          "text": "Minnesota"
+        }
+      ]
+    },
+    {
+      "score": 0.677672,
+      "sentence": "When contacted by police chemist at three M. said rely on teen concentrations of two elements zirconium and selling.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8134,
+            8141
+          ],
+          "text": "chemist"
+        },
+        {
+          "entities": [
+            {
+              "text": "contacted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8114,
+            8123
+          ],
+          "text": "contacted"
+        }
+      ]
+    },
+    {
+      "score": 0.743263,
+      "sentence": "When contacted by police chemist at three M. said rely on teen concentrations of two elements zirconium and selling.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8134,
+            8141
+          ],
+          "text": "chemist"
+        },
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8127,
+            8133
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.93463,
+      "sentence": "Donald Blom was arrested and charged with murder.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald Blom",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8409,
+            8420
+          ],
+          "text": "Donald Blom"
+        },
+        {
+          "entities": [
+            {
+              "text": "abduction",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            8425,
+            8433
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.561047,
+      "sentence": "Donald Blom was arrested and charged with murder.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald Blom",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8409,
+            8420
+          ],
+          "text": "Donald Blom"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8438,
+            8445
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.74794,
+      "sentence": "Donald Blom was arrested and charged with murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald Blom",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8409,
+            8420
+          ],
+          "text": "Donald Blom"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault rape",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            8451,
+            8457
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.51728,
+      "sentence": "When confronted with the scanning electron microscope findings blonde confessed to Katie's murder during a taped conversation with special agent Phil Wagner.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "confessed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8529,
+            8538
+          ],
+          "text": "confessed"
+        },
+        {
+          "entities": [
+            {
+              "text": "conversation",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            8572,
+            8584
+          ],
+          "text": "conversation"
+        }
+      ]
+    },
+    {
+      "score": 0.568835,
+      "sentence": "When confronted with the scanning electron microscope findings blonde confessed to Katie's murder during a taped conversation with special agent Phil Wagner.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8542,
+            8547
+          ],
+          "text": "Katie"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault rape",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            8550,
+            8556
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.784835,
+      "sentence": "When confronted with the scanning electron microscope findings blonde confessed to Katie's murder during a taped conversation with special agent Phil Wagner.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Phil Wagner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8598,
+            8603
+          ],
+          "text": "agent"
+        },
+        {
+          "entities": [
+            {
+              "text": "conversation",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            8572,
+            8584
+          ],
+          "text": "conversation"
+        }
+      ]
+    },
+    {
+      "score": 0.641115,
+      "sentence": "On the counter were notes with money from customers who have purchased items some time after Katie left the store.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1142,
+            1147
+          ],
+          "text": "Katie"
+        },
+        {
+          "entities": [
+            {
+              "text": "store",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1157,
+            1162
+          ],
+          "text": "store"
+        }
+      ]
+    },
+    {
+      "score": 0.828795,
+      "sentence": "Police wondered whether Katie might have left the store with a friend.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1188,
+            1193
+          ],
+          "text": "Katie"
+        },
+        {
+          "entities": [
+            {
+              "text": "store",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1214,
+            1219
+          ],
+          "text": "store"
+        }
+      ]
+    },
+    {
+      "score": 0.878909,
+      "sentence": "Donald Blom recanted claiming the confession was coerced.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald Blom",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8617,
+            8628
+          ],
+          "text": "Donald Blom"
+        },
+        {
+          "entities": [
+            {
+              "text": "claiming",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8638,
+            8646
+          ],
+          "text": "claiming"
+        }
+      ]
+    },
+    {
+      "score": 0.227691,
+      "sentence": "The sandwich shop employees all.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "employees",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8849,
+            8858
+          ],
+          "text": "employees"
+        },
+        {
+          "entities": [
+            {
+              "text": "sandwich shop",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8835,
+            8848
+          ],
+          "text": "sandwich shop"
+        }
+      ]
+    },
+    {
+      "score": 0.9225,
+      "sentence": "Customers in the parking lot around eight PM three hours before Katie was a.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Customers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8864,
+            8873
+          ],
+          "text": "Customers"
+        },
+        {
+          "entities": [
+            {
+              "text": "parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8881,
+            8892
+          ],
+          "text": "parking lot"
+        }
+      ]
+    },
+    {
+      "score": 0.457235,
+      "sentence": "Long may have seen the van and returned at eleven thirty entering the store when she was alive.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "eleven thirty",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8984,
+            8997
+          ],
+          "text": "eleven thirty"
+        },
+        {
+          "entities": [
+            {
+              "text": "store",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9011,
+            9016
+          ],
+          "text": "store"
+        }
+      ]
+    },
+    {
+      "score": 0.992413,
+      "sentence": "Prosecutors explain the scientific evidence to the jury a special their smoking gun.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9037,
+            9048
+          ],
+          "text": "Prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "explain",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9049,
+            9056
+          ],
+          "text": "explain"
+        }
+      ]
+    },
+    {
+      "score": 0.632607,
+      "sentence": "Prosecutors explain the scientific evidence to the jury a special their smoking gun.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9103,
+            9108
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "gun",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            9117,
+            9120
+          ],
+          "text": "gun"
+        }
+      ]
+    },
+    {
+      "score": 0.532112,
+      "sentence": "Donna was convicted of first degree murder and was sentenced to life in prison without.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donna",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9307,
+            9312
+          ],
+          "text": "Donna"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            9317,
+            9326
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.821869,
+      "sentence": "Donna was convicted of first degree murder and was sentenced to life in prison without.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donna",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9307,
+            9312
+          ],
+          "text": "Donna"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault rape",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9343,
+            9349
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.592577,
+      "sentence": "Donna was convicted of first degree murder and was sentenced to life in prison without.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donna",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9307,
+            9312
+          ],
+          "text": "Donna"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            9358,
+            9367
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.553593,
+      "sentence": "Donna was convicted of first degree murder and was sentenced to life in prison without.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donna",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9307,
+            9312
+          ],
+          "text": "Donna"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9379,
+            9385
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.53857,
+      "sentence": "At eleven thirty eight PM the security cameras revealed complications forcing Katie out of the front door into the parking lot.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melanie Meyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1375,
+            1380
+          ],
+          "text": "Katie"
+        },
+        {
+          "entities": [
+            {
+              "text": "parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1412,
+            1423
+          ],
+          "text": "parking lot"
+        }
+      ]
+    },
+    {
+      "score": 0.516034,
+      "sentence": "Donna was convicted of first degree murder and was sentenced to life in prison without.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9379,
+            9385
+          ],
+          "text": "prison"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            9358,
+            9367
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.512812,
+      "sentence": "The verdict is little solace for the players.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "players",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9432,
+            9439
+          ],
+          "text": "players"
+        },
+        {
+          "entities": [
+            {
+              "text": "verdict",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            9399,
+            9406
+          ],
+          "text": "verdict"
+        }
+      ]
+    },
+    {
+      "score": 0.669598,
+      "sentence": "As a result of this case Minnesota lawmakers pass which includes.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "lawmakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9476,
+            9485
+          ],
+          "text": "lawmakers"
+        },
+        {
+          "entities": [
+            {
+              "text": "Minnesota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9466,
+            9475
+          ],
+          "text": "Minnesota"
+        }
+      ]
+    },
+    {
+      "score": 0.446754,
+      "sentence": "The store was located near a major highway which meant the kidnapper could have left the area at high speed.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "store",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1533,
+            1538
+          ],
+          "text": "store"
+        },
+        {
+          "entities": [
+            {
+              "text": "highway",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1564,
+            1571
+          ],
+          "text": "highway"
+        }
+      ]
+    }
+  ]
+}

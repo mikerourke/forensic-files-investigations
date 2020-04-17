@@ -1,0 +1,5461 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 19385,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "HealthCondition",
+      "text": "cancer",
+      "relevance": 0.969548,
+      "confidence": 1,
+      "count": 46
+    },
+    {
+      "type": "HealthCondition",
+      "text": "leukemia",
+      "relevance": 0.799638,
+      "confidence": 1,
+      "count": 14
+    },
+    {
+      "type": "HealthCondition",
+      "text": "brain cancer",
+      "relevance": 0.350194,
+      "confidence": 0.999795,
+      "count": 9,
+      "disambiguation": {
+        "name": "Brain_tumor",
+        "dbpedia_resource": "http://dbpedia.org/resource/Brain_tumor",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "DiseaseCause",
+          "RiskFactor",
+          "Symptom",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "Organization",
+      "text": "Saint Vincent DePaul school",
+      "relevance": 0.281551,
+      "confidence": 0.703879,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Maryvale",
+      "relevance": 0.261889,
+      "confidence": 0.946346,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Arizona",
+      "relevance": 0.255615,
+      "confidence": 1,
+      "count": 6
+    },
+    {
+      "type": "Facility",
+      "text": "Maryvale",
+      "relevance": 0.239805,
+      "confidence": 0.961428,
+      "count": 2
+    },
+    {
+      "type": "HealthCondition",
+      "text": "tumors",
+      "relevance": 0.218731,
+      "confidence": 1,
+      "count": 6,
+      "disambiguation": {
+        "name": "Tumor",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tumor",
+        "subtype": [
+          "DiseaseCause",
+          "RiskFactor",
+          "Symptom"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Merivale",
+      "relevance": 0.19169,
+      "confidence": 0.713371,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Saint Vincent DePaul Catholic elementary school",
+      "relevance": 0.190661,
+      "confidence": 0.410027,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Ramona Barrett",
+      "relevance": 0.187,
+      "confidence": 0.971834,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "childhood leukemia",
+      "relevance": 0.184494,
+      "confidence": 0.726754,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Sandy Matthews",
+      "relevance": 0.182877,
+      "confidence": 0.997247,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two year",
+      "relevance": 0.182274,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Arizona state health department",
+      "relevance": 0.178785,
+      "confidence": 0.483018,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "norm Peterson",
+      "relevance": 0.178444,
+      "confidence": 0.939637,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "lungs cancer",
+      "relevance": 0.164635,
+      "confidence": 0.501478,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Guilford",
+      "relevance": 0.157387,
+      "confidence": 0.999998,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Maryvale norm Peterson",
+      "relevance": 0.157042,
+      "confidence": 0.418758,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Connecticut",
+      "relevance": 0.150918,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Merivale",
+      "relevance": 0.148949,
+      "confidence": 0.901571,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Catholic elementary school",
+      "relevance": 0.147793,
+      "confidence": 0.339117,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Phoenix",
+      "relevance": 0.146004,
+      "confidence": 0.999998,
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Saint Vincent DePaul",
+      "relevance": 0.138531,
+      "confidence": 0.266669,
+      "count": 1,
+      "disambiguation": {
+        "name": "Vincent_de_Paul",
+        "dbpedia_resource": "http://dbpedia.org/resource/Vincent_de_Paul",
+        "subtype": [
+          "Saint"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty years",
+      "relevance": 0.132875,
+      "confidence": 0.992,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Josh Phillips",
+      "relevance": 0.126471,
+      "confidence": 0.991558,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "lymphocytic leukemia",
+      "relevance": 0.121773,
+      "confidence": 0.726434,
+      "count": 1,
+      "disambiguation": {
+        "name": "Lymphoid_leukemia",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lymphoid_leukemia",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "two million dollars",
+      "relevance": 0.116482,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Melissa bullock",
+      "relevance": 0.113014,
+      "confidence": 1,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Peterson",
+      "relevance": 0.108609,
+      "confidence": 0.999652,
+      "count": 2
+    },
+    {
+      "type": "HealthCondition",
+      "text": "stomach cancer",
+      "relevance": 0.096816,
+      "confidence": 0.632176,
+      "count": 1,
+      "disambiguation": {
+        "name": "Stomach_cancer",
+        "dbpedia_resource": "http://dbpedia.org/resource/Stomach_cancer",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Bob Dougherty",
+      "relevance": 0.095122,
+      "confidence": 0.999672,
+      "count": 1,
+      "disambiguation": {
+        "name": "Bob_Dougherty",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bob_Dougherty",
+        "subtype": [
+          "Athlete",
+          "FootballPlayer"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Dr Reba Goodman",
+      "relevance": 0.082509,
+      "confidence": 0.906767,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "skin cancer",
+      "relevance": 0.081078,
+      "confidence": 0.942115,
+      "count": 1,
+      "disambiguation": {
+        "name": "Skin_cancer",
+        "dbpedia_resource": "http://dbpedia.org/resource/Skin_cancer",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Pederson",
+      "relevance": 0.078727,
+      "confidence": 0.999639,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jack Walston",
+      "relevance": 0.075649,
+      "confidence": 0.959454,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jessica",
+      "relevance": 0.075242,
+      "confidence": 0.994925,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Josh",
+      "relevance": 0.073093,
+      "confidence": 0.976969,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jack Ralston",
+      "relevance": 0.071545,
+      "confidence": 0.98816,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Maine",
+      "relevance": 0.070768,
+      "confidence": 0.989134,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Maurer",
+      "relevance": 0.06568,
+      "confidence": 0.996751,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Hollis",
+      "relevance": 0.062991,
+      "confidence": 0.991692,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bob Carberry",
+      "relevance": 0.05953,
+      "confidence": 0.996226,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Columbia University",
+      "relevance": 0.051425,
+      "confidence": 0.990965,
+      "count": 2,
+      "disambiguation": {
+        "name": "Columbia_University",
+        "dbpedia_resource": "http://dbpedia.org/resource/Columbia_University",
+        "subtype": [
+          "Location",
+          "AcademicInstitution",
+          "AwardPresentingOrganization",
+          "CollegeUniversity",
+          "University"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Brian",
+      "relevance": 0.050527,
+      "confidence": 0.943021,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Tom",
+      "relevance": 0.049903,
+      "confidence": 0.995256,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "hundred feet",
+      "relevance": 0.048587,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "relevance": 0.046447,
+      "confidence": 1,
+      "count": 3,
+      "disambiguation": {
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "ten years",
+      "relevance": 0.045738,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jack Wilson",
+      "relevance": 0.044924,
+      "confidence": 0.998955,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three feet",
+      "relevance": 0.043871,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two hours",
+      "relevance": 0.040187,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "The New Yorker",
+      "relevance": 0.039084,
+      "confidence": 0.794831,
+      "count": 1,
+      "disambiguation": {
+        "name": "The_New_Yorker",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_New_Yorker",
+        "subtype": [
+          "Magazine"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "New York City",
+      "relevance": 0.035463,
+      "confidence": 0.985688,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Cambridge",
+      "relevance": 0.033748,
+      "confidence": 0.893244,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Medici",
+      "relevance": 0.032035,
+      "confidence": 0.86842,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Goodman",
+      "relevance": 0.02743,
+      "confidence": 0.982854,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Five years",
+      "relevance": 0.026092,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Sport",
+      "text": "basketball",
+      "relevance": 0.024552,
+      "confidence": 0.999445,
+      "count": 1,
+      "disambiguation": {
+        "name": "Basketball",
+        "dbpedia_resource": "http://dbpedia.org/resource/Basketball",
+        "subtype": [
+          "Invention",
+          "FieldOfStudy",
+          "AwardDiscipline",
+          "OlympicEventCompetition"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "fifteen years",
+      "relevance": 0.012312,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "five years",
+      "relevance": 0.005514,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jack",
+      "relevance": 0.004587,
+      "confidence": 0.969771,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "merry Vail",
+      "relevance": 0.004136,
+      "confidence": 0.234714,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty two years",
+      "relevance": 0.00284,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "CDC",
+      "relevance": 0.001187,
+      "confidence": 0.999883,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/family and parenting/children",
+      "score": 0.839471
+    },
+    {
+      "label": "/health and fitness",
+      "score": 0.76441
+    },
+    {
+      "label": "/health and fitness/disease/cancer",
+      "score": 0.74597
+    },
+    {
+      "label": "/health and fitness/disease/cancer/brain tumor",
+      "score": 0.720877
+    },
+    {
+      "label": "/society",
+      "score": 0.654444
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.636386
+    },
+    {
+      "label": "/business and industrial/energy",
+      "score": 0.54312
+    },
+    {
+      "label": "/society/senior living",
+      "score": 0.532386
+    },
+    {
+      "label": "/society/dating",
+      "score": 0.515647
+    },
+    {
+      "label": "/health and fitness/therapy",
+      "score": 0.512153
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.740067,
+      "sentence": "This Catholic elementary school in Phoenix Arizona.",
+      "type": "affiliatedWith",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "elementary school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14,
+            31
+          ],
+          "text": "elementary school"
+        },
+        {
+          "entities": [
+            {
+              "text": "Catholic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5,
+            13
+          ],
+          "text": "Catholic"
+        }
+      ]
+    },
+    {
+      "score": 0.592358,
+      "sentence": "What was causing the high rates of childhood leukemia at this Catholic elementary school in Arizona and in the surrounding neighborhood it was a cancer cluster which took the lives of thirty two children and hospitalized seventeen nothing you wanted to run away but then you you you know you want to move sell out let's go away let's go somewhere else but you have children who have lives you have jobs you have a home you can't just you just cannot walk away from everything this this absolute what I would consider destruction of faith.",
+      "type": "affiliatedWith",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "elementary school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5326,
+            5343
+          ],
+          "text": "elementary school"
+        },
+        {
+          "entities": [
+            {
+              "text": "Catholic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5317,
+            5325
+          ],
+          "text": "Catholic"
+        }
+      ]
+    },
+    {
+      "score": 0.826401,
+      "sentence": "Even with the church losing your children a Catholic school LOL you're practicing Catholic you think while in the world if nothing else.",
+      "type": "affiliatedWith",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "elementary school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5847,
+            5853
+          ],
+          "text": "school"
+        },
+        {
+          "entities": [
+            {
+              "text": "Catholic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5838,
+            5846
+          ],
+          "text": "Catholic"
+        }
+      ]
+    },
+    {
+      "score": 0.329943,
+      "sentence": "Seven children attending Saint Vincent DePaul Catholic elementary school developed acute lymphocytic leukemia.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            919,
+            927
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "elementary school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            968,
+            985
+          ],
+          "text": "elementary school"
+        }
+      ]
+    },
+    {
+      "score": 0.514576,
+      "sentence": "Like I said I do have a reoccurrence of Melissa bullock was Jack Wilson's next door neighbor she was a high school basketball star in straight a student she also developed a brain tumor at the age of sixteen which required surgery and radiation but she survived in nineteen eighty seven the local newspaper did a little investigation of its own and discovered this startling number of cancer cases not only around the electric substation but along the entire length of the high power lines throughout the state I can give you a name after name of people who live along power lines that have died with cancer malignancy of some type.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "elementary school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13251,
+            13254
+          ],
+          "text": "its"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13234,
+            13247
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.840217,
+      "sentence": "That this is what does it but I firmly believe this is got a lot to do with the Electric Company acknowledges that the levels of electromagnetic radiation are high at the substation itself but that they drop off significantly further away Bob Carberry is the manager of transmission lines and civil engineering for the power company the levels that I've observed on Medici due to power facilities are quite common that that was a real problem here should be showing up in more places and middle street the power company says the levels of radiation near the meadow street homes are within the normal range within normal because radiation exists in nearly every home in the United States it's produced by electrical wiring appliances such as microwave ovens and even electric razors but the electromagnetic radiation from the substation is constant.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Electric Company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13740,
+            13756
+          ],
+          "text": "Electric Company"
+        },
+        {
+          "entities": [
+            {
+              "text": "acknowledges",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13757,
+            13769
+          ],
+          "text": "acknowledges"
+        }
+      ]
+    },
+    {
+      "score": 0.575898,
+      "sentence": "That this is what does it but I firmly believe this is got a lot to do with the Electric Company acknowledges that the levels of electromagnetic radiation are high at the substation itself but that they drop off significantly further away Bob Carberry is the manager of transmission lines and civil engineering for the power company the levels that I've observed on Medici due to power facilities are quite common that that was a real problem here should be showing up in more places and middle street the power company says the levels of radiation near the meadow street homes are within the normal range within normal because radiation exists in nearly every home in the United States it's produced by electrical wiring appliances such as microwave ovens and even electric razors but the electromagnetic radiation from the substation is constant.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bob Carberry",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13919,
+            13926
+          ],
+          "text": "manager"
+        },
+        {
+          "entities": [
+            {
+              "text": "Electric Company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13985,
+            13992
+          ],
+          "text": "company"
+        }
+      ]
+    },
+    {
+      "score": 0.954273,
+      "sentence": "That this is what does it but I firmly believe this is got a lot to do with the Electric Company acknowledges that the levels of electromagnetic radiation are high at the substation itself but that they drop off significantly further away Bob Carberry is the manager of transmission lines and civil engineering for the power company the levels that I've observed on Medici due to power facilities are quite common that that was a real problem here should be showing up in more places and middle street the power company says the levels of radiation near the meadow street homes are within the normal range within normal because radiation exists in nearly every home in the United States it's produced by electrical wiring appliances such as microwave ovens and even electric razors but the electromagnetic radiation from the substation is constant.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "elementary school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14166,
+            14179
+          ],
+          "text": "power company"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14180,
+            14184
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.653569,
+      "sentence": "That this is what does it but I firmly believe this is got a lot to do with the Electric Company acknowledges that the levels of electromagnetic radiation are high at the substation itself but that they drop off significantly further away Bob Carberry is the manager of transmission lines and civil engineering for the power company the levels that I've observed on Medici due to power facilities are quite common that that was a real problem here should be showing up in more places and middle street the power company says the levels of radiation near the meadow street homes are within the normal range within normal because radiation exists in nearly every home in the United States it's produced by electrical wiring appliances such as microwave ovens and even electric razors but the electromagnetic radiation from the substation is constant.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "meadow",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14218,
+            14224
+          ],
+          "text": "meadow"
+        },
+        {
+          "entities": [
+            {
+              "text": "substation itself",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14225,
+            14231
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.614525,
+      "sentence": "That this is what does it but I firmly believe this is got a lot to do with the Electric Company acknowledges that the levels of electromagnetic radiation are high at the substation itself but that they drop off significantly further away Bob Carberry is the manager of transmission lines and civil engineering for the power company the levels that I've observed on Medici due to power facilities are quite common that that was a real problem here should be showing up in more places and middle street the power company says the levels of radiation near the meadow street homes are within the normal range within normal because radiation exists in nearly every home in the United States it's produced by electrical wiring appliances such as microwave ovens and even electric razors but the electromagnetic radiation from the substation is constant.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14232,
+            14237
+          ],
+          "text": "homes"
+        },
+        {
+          "entities": [
+            {
+              "text": "substation itself",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14225,
+            14231
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.692929,
+      "sentence": "That this is what does it but I firmly believe this is got a lot to do with the Electric Company acknowledges that the levels of electromagnetic radiation are high at the substation itself but that they drop off significantly further away Bob Carberry is the manager of transmission lines and civil engineering for the power company the levels that I've observed on Medici due to power facilities are quite common that that was a real problem here should be showing up in more places and middle street the power company says the levels of radiation near the meadow street homes are within the normal range within normal because radiation exists in nearly every home in the United States it's produced by electrical wiring appliances such as microwave ovens and even electric razors but the electromagnetic radiation from the substation is constant.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14321,
+            14325
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14333,
+            14346
+          ],
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "score": 0.314035,
+      "sentence": "The residents were convinced that their neighbor was safe.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "neighbor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14549,
+            14557
+          ],
+          "text": "neighbor"
+        },
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14543,
+            14548
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.486149,
+      "sentence": "The residents of ministry wanted answers about the high number of brain tumors on their small streams and they wanted the word from town hall if the electric substation I might be the cost they gathered at a public meeting anxious to hear what health officials had to say and what they heard.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14572,
+            14581
+          ],
+          "text": "residents"
+        },
+        {
+          "entities": [
+            {
+              "text": "ministry",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14585,
+            14593
+          ],
+          "text": "ministry"
+        }
+      ]
+    },
+    {
+      "score": 0.813892,
+      "sentence": "The residents of ministry wanted answers about the high number of brain tumors on their small streams and they wanted the word from town hall if the electric substation I might be the cost they gathered at a public meeting anxious to hear what health officials had to say and what they heard.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jack Walston",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14737,
+            14738
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "brain tumors",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            14634,
+            14646
+          ],
+          "text": "brain tumors"
+        }
+      ]
+    },
+    {
+      "score": 0.694553,
+      "sentence": "Seven children attending Saint Vincent DePaul Catholic elementary school developed acute lymphocytic leukemia.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            919,
+            927
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "leukemia benzene",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            1014,
+            1022
+          ],
+          "text": "leukemia"
+        }
+      ]
+    },
+    {
+      "score": 0.665298,
+      "sentence": "The residents of ministry wanted answers about the high number of brain tumors on their small streams and they wanted the word from town hall if the electric substation I might be the cost they gathered at a public meeting anxious to hear what health officials had to say and what they heard.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14674,
+            14678
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "town",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14700,
+            14704
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.900986,
+      "sentence": "The residents of ministry wanted answers about the high number of brain tumors on their small streams and they wanted the word from town hall if the electric substation I might be the cost they gathered at a public meeting anxious to hear what health officials had to say and what they heard.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hall",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14705,
+            14709
+          ],
+          "text": "hall"
+        },
+        {
+          "entities": [
+            {
+              "text": "town",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14700,
+            14704
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.85648,
+      "sentence": "The residents of ministry wanted answers about the high number of brain tumors on their small streams and they wanted the word from town hall if the electric substation I might be the cost they gathered at a public meeting anxious to hear what health officials had to say and what they heard.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "public",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14776,
+            14782
+          ],
+          "text": "public"
+        },
+        {
+          "entities": [
+            {
+              "text": "meeting",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            14783,
+            14790
+          ],
+          "text": "meeting"
+        }
+      ]
+    },
+    {
+      "score": 0.987657,
+      "sentence": "Is that there is no cancer cluster on middle street you go for it even though there were five brain tumors on the street with only nine homes they said since the tumors were different they didn't qualify as a cancer cluster two of them were benign so called of tumors and.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15022,
+            15026
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            15027,
+            15031
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.87029,
+      "sentence": "Is that there is no cancer cluster on middle street you go for it even though there were five brain tumors on the street with only nine homes they said since the tumors were different they didn't qualify as a cancer cluster two of them were benign so called of tumors and.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "two",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            15104,
+            15107
+          ],
+          "text": "two"
+        },
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15111,
+            15115
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.547972,
+      "sentence": "Those were men and she almost that have many known risk factors or associations and electric and magnetic fields is not one of them but one of the brain tumor cases the one discovered in Melissa bullock has been linked to electromagnetic fields I defy anyone to change places with those people in ministry and bringing their family there and I'll guarantee you not one of them would do that researchers have found modestly higher rates of cancer including leukemia and brain cancer among workers who are exposed to electromagnetic fields in their jobs one study found that welders have significantly higher rates of cancer because of their exposure to radiation there's been some extremely good epidemiology don in fact there's more epidemiology epidemiological evidence for the relationship between cancer and magnetic fields are today than there was when we accepted the relationship between this process in cancer",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15440,
+            15446
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "ministry",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            15450,
+            15458
+          ],
+          "text": "ministry"
+        }
+      ]
+    },
+    {
+      "score": 0.21948,
+      "sentence": "Those were men and she almost that have many known risk factors or associations and electric and magnetic fields is not one of them but one of the brain tumor cases the one discovered in Melissa bullock has been linked to electromagnetic fields I defy anyone to change places with those people in ministry and bringing their family there and I'll guarantee you not one of them would do that researchers have found modestly higher rates of cancer including leukemia and brain cancer among workers who are exposed to electromagnetic fields in their jobs one study found that welders have significantly higher rates of cancer because of their exposure to radiation there's been some extremely good epidemiology don in fact there's more epidemiology epidemiological evidence for the relationship between cancer and magnetic fields are today than there was when we accepted the relationship between this process in cancer",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15472,
+            15477
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15478,
+            15484
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.3624,
+      "sentence": "It was a lot of emphasis on this particular street and the surrounding streets and when there are five brain tumors on the street with only nine homes it's difficult for residents to accept that it's merely a coincidence I felt as though there's too much to the average public doesn't know and I wanted to get that word out that their terms possibly and and an animal out there it was killing them and their kids and their family I don't feel it's a natural thing.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            18728,
+            18733
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            18734,
+            18740
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.417574,
+      "sentence": "Those were men and she almost that have many known risk factors or associations and electric and magnetic fields is not one of them but one of the brain tumor cases the one discovered in Melissa bullock has been linked to electromagnetic fields I defy anyone to change places with those people in ministry and bringing their family there and I'll guarantee you not one of them would do that researchers have found modestly higher rates of cancer including leukemia and brain cancer among workers who are exposed to electromagnetic fields in their jobs one study found that welders have significantly higher rates of cancer because of their exposure to radiation there's been some extremely good epidemiology don in fact there's more epidemiology epidemiological evidence for the relationship between cancer and magnetic fields are today than there was when we accepted the relationship between this process in cancer",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15478,
+            15484
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "town",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            15485,
+            15490
+          ],
+          "text": "there"
+        }
+      ]
+    },
+    {
+      "score": 0.492259,
+      "sentence": "Those were men and she almost that have many known risk factors or associations and electric and magnetic fields is not one of them but one of the brain tumor cases the one discovered in Melissa bullock has been linked to electromagnetic fields I defy anyone to change places with those people in ministry and bringing their family there and I'll guarantee you not one of them would do that researchers have found modestly higher rates of cancer including leukemia and brain cancer among workers who are exposed to electromagnetic fields in their jobs one study found that welders have significantly higher rates of cancer because of their exposure to radiation there's been some extremely good epidemiology don in fact there's more epidemiology epidemiological evidence for the relationship between cancer and magnetic fields are today than there was when we accepted the relationship between this process in cancer",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            15518,
+            15521
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15525,
+            15529
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.716295,
+      "sentence": "Those were men and she almost that have many known risk factors or associations and electric and magnetic fields is not one of them but one of the brain tumor cases the one discovered in Melissa bullock has been linked to electromagnetic fields I defy anyone to change places with those people in ministry and bringing their family there and I'll guarantee you not one of them would do that researchers have found modestly higher rates of cancer including leukemia and brain cancer among workers who are exposed to electromagnetic fields in their jobs one study found that welders have significantly higher rates of cancer because of their exposure to radiation there's been some extremely good epidemiology don in fact there's more epidemiology epidemiological evidence for the relationship between cancer and magnetic fields are today than there was when we accepted the relationship between this process in cancer",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "workers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15641,
+            15648
+          ],
+          "text": "workers"
+        },
+        {
+          "entities": [
+            {
+              "text": "stomach cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            15622,
+            15634
+          ],
+          "text": "brain cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.703834,
+      "sentence": "Seven children attending Saint Vincent DePaul Catholic elementary school developed acute lymphocytic leukemia.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Saint Vincent DePaul Catholic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            938,
+            967
+          ],
+          "text": "Saint Vincent DePaul Catholic"
+        },
+        {
+          "entities": [
+            {
+              "text": "elementary school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            968,
+            985
+          ],
+          "text": "elementary school"
+        }
+      ]
+    },
+    {
+      "score": 0.776807,
+      "sentence": "back in nineteen forty nine but other studies have been inconclusive one reason why this is a controversial area and why many scientists have have refused to accept the epidemiological evidence is because there is no obvious biological mechanism whereby magnetic fields can cause cancer there is some evidence to suggest that it's not the level of electromagnetic radiation ones exposed to a number of times an individual passes through the field people are exposed intermittently they go in and out of fields for different lengths of time and laboratory data has shown that these kinds can have a synergistic effect but the fact is that until we understand how these things affect cells we're just not gonna now scientists may be getting closer to understanding a possible link between magnetic fields and cancer Dr Goodman has been studying the effects of electromagnetic fields for more than fifteen years",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "researchers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16196,
+            16206
+          ],
+          "text": "scientists"
+        },
+        {
+          "entities": [
+            {
+              "text": "refused",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            16217,
+            16224
+          ],
+          "text": "refused"
+        }
+      ]
+    },
+    {
+      "score": 0.391203,
+      "sentence": "back in nineteen forty nine but other studies have been inconclusive one reason why this is a controversial area and why many scientists have have refused to accept the epidemiological evidence is because there is no obvious biological mechanism whereby magnetic fields can cause cancer there is some evidence to suggest that it's not the level of electromagnetic radiation ones exposed to a number of times an individual passes through the field people are exposed intermittently they go in and out of fields for different lengths of time and laboratory data has shown that these kinds can have a synergistic effect but the fact is that until we understand how these things affect cells we're just not gonna now scientists may be getting closer to understanding a possible link between magnetic fields and cancer Dr Goodman has been studying the effects of electromagnetic fields for more than fifteen years",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Reba Goodman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16884,
+            16886
+          ],
+          "text": "Dr"
+        },
+        {
+          "entities": [
+            {
+              "text": "stomach cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            16877,
+            16883
+          ],
+          "text": "cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.791414,
+      "sentence": "Local health officials never said magnetic fields didn't cause cancer all they can say is it hasn't been proven are any conclusions as department of public health were that we didn't see a cluster of cases that could be identified as from a common cause but by the other same token we couldn't say that they couldn't be related to.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "health officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            17418,
+            17434
+          ],
+          "text": "health officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            17441,
+            17445
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.933046,
+      "sentence": "Local health officials never said magnetic fields didn't cause cancer all they can say is it hasn't been proven are any conclusions as department of public health were that we didn't see a cluster of cases that could be identified as from a common cause but by the other same token we couldn't say that they couldn't be related to.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            17486,
+            17490
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            17495,
+            17498
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.426275,
+      "sentence": "Electromagnetic fields or the electrical substation it's my personal belief that when a biological mechanism is established that there will be a very rapid conversion of the dollars of this effect right now this is a controversial area I think that in five years will know what this is all about I'm very hopeful the scientists opinions don't mean much to someone like Jack.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Reba Goodman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            17980,
+            17981
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "area",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            17975,
+            17979
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.525439,
+      "sentence": "The man whose family and friends were ravaged by cancer he already has his answer in my opinion I do believe the electromagnetic fields low level radiation radiation.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jack Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            18127,
+            18132
+          ],
+          "text": "whose"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            18133,
+            18139
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.775879,
+      "sentence": "The man whose family and friends were ravaged by cancer he already has his answer in my opinion I do believe the electromagnetic fields low level radiation radiation.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            18144,
+            18151
+          ],
+          "text": "friends"
+        },
+        {
+          "entities": [
+            {
+              "text": "stomach cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            18168,
+            18174
+          ],
+          "text": "cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.86623,
+      "sentence": "The man whose family and friends were ravaged by cancer he already has his answer in my opinion I do believe the electromagnetic fields low level radiation radiation.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jack Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            18175,
+            18177
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "stomach cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            18168,
+            18174
+          ],
+          "text": "cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.541726,
+      "sentence": "It was a lot of emphasis on this particular street and the surrounding streets and when there are five brain tumors on the street with only nine homes it's difficult for residents to accept that it's merely a coincidence I felt as though there's too much to the average public doesn't know and I wanted to get that word out that their terms possibly and and an animal out there it was killing them and their kids and their family I don't feel it's a natural thing.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "streets",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            18382,
+            18389
+          ],
+          "text": "streets"
+        },
+        {
+          "entities": [
+            {
+              "text": "substation itself",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            18434,
+            18440
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.526822,
+      "sentence": "It was a lot of emphasis on this particular street and the surrounding streets and when there are five brain tumors on the street with only nine homes it's difficult for residents to accept that it's merely a coincidence I felt as though there's too much to the average public doesn't know and I wanted to get that word out that their terms possibly and and an animal out there it was killing them and their kids and their family I don't feel it's a natural thing.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "substation itself",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            18434,
+            18440
+          ],
+          "text": "street"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            18456,
+            18461
+          ],
+          "text": "homes"
+        }
+      ]
+    },
+    {
+      "score": 0.53287,
+      "sentence": "A people want to syndicate there anymore even more alarming in the neighborhood surrounding the school there were forty nine cases of childhood leukemia two and a half times higher than normal Ramona Barrett lived in merry fail when her youngest daughter Jessica developed leukemia and died I thought it was maybe something I did while I was pregnant and I would just wrap my brain to think what happened what did I do.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ramona Barrett",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1373,
+            1376
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Jessica",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1386,
+            1394
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.67592,
+      "sentence": "It was a lot of emphasis on this particular street and the surrounding streets and when there are five brain tumors on the street with only nine homes it's difficult for residents to accept that it's merely a coincidence I felt as though there's too much to the average public doesn't know and I wanted to get that word out that their terms possibly and and an animal out there it was killing them and their kids and their family I don't feel it's a natural thing.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            18713,
+            18718
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "kids",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            18719,
+            18723
+          ],
+          "text": "kids"
+        }
+      ]
+    },
+    {
+      "score": 0.637532,
+      "sentence": "Two unsolved medical mysteries public health officials can offer few answers for the residents of meadow street and merry Vail Arizona and with the lack of definitive information the result is usually fear and anger over the past twenty two years the CDC has investigated over one hundred eight cancer clusters throughout the United States and around the world.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "CDC",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            19141,
+            19144
+          ],
+          "text": "CDC"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigated",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            19149,
+            19161
+          ],
+          "text": "investigated"
+        }
+      ]
+    },
+    {
+      "score": 0.569904,
+      "sentence": "A people want to syndicate there anymore even more alarming in the neighborhood surrounding the school there were forty nine cases of childhood leukemia two and a half times higher than normal Ramona Barrett lived in merry fail when her youngest daughter Jessica developed leukemia and died I thought it was maybe something I did while I was pregnant and I would just wrap my brain to think what happened what did I do.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jessica",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1395,
+            1402
+          ],
+          "text": "Jessica"
+        },
+        {
+          "entities": [
+            {
+              "text": "leukemia benzene",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            1413,
+            1421
+          ],
+          "text": "leukemia"
+        }
+      ]
+    },
+    {
+      "score": 0.415682,
+      "sentence": "And I couldn't think of anything that I've done different than with my other two children and.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ramona Barrett",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1628,
+            1630
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1641,
+            1649
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.761331,
+      "sentence": "Sandy Matthews thinks back to and remembers her son Josh and the two year battle he waged against leukemia but lost to sit and hold my child after radiation treatment when you know he he's just dry heaving and throwing up you can feel his pain and there's nothing you can do to take that away and that's what the team came to Maine to us is you know watching a loss of life from somebody that was sold live.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ramona Barrett",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1802,
+            1805
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Josh Phillips",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1806,
+            1809
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.718393,
+      "sentence": "Sandy Matthews thinks back to and remembers her son Josh and the two year battle he waged against leukemia but lost to sit and hold my child after radiation treatment when you know he he's just dry heaving and throwing up you can feel his pain and there's nothing you can do to take that away and that's what the team came to Maine to us is you know watching a loss of life from somebody that was sold live.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Josh Phillips",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1839,
+            1841
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "leukemia benzene",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            1856,
+            1864
+          ],
+          "text": "leukemia"
+        }
+      ]
+    },
+    {
+      "score": 0.605358,
+      "sentence": "Sandy Matthews thinks back to and remembers her son Josh and the two year battle he waged against leukemia but lost to sit and hold my child after radiation treatment when you know he he's just dry heaving and throwing up you can feel his pain and there's nothing you can do to take that away and that's what the team came to Maine to us is you know watching a loss of life from somebody that was sold live.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ramona Barrett",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1890,
+            1892
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "child",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1893,
+            1898
+          ],
+          "text": "child"
+        }
+      ]
+    },
+    {
+      "score": 0.407608,
+      "sentence": "Sandy Matthews thinks back to and remembers her son Josh and the two year battle he waged against leukemia but lost to sit and hold my child after radiation treatment when you know he he's just dry heaving and throwing up you can feel his pain and there's nothing you can do to take that away and that's what the team came to Maine to us is you know watching a loss of life from somebody that was sold live.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "team",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2071,
+            2075
+          ],
+          "text": "team"
+        },
+        {
+          "entities": [
+            {
+              "text": "Maine",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2084,
+            2089
+          ],
+          "text": "Maine"
+        }
+      ]
+    },
+    {
+      "score": 0.501003,
+      "sentence": "This Catholic elementary school in Phoenix Arizona.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "elementary school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14,
+            31
+          ],
+          "text": "elementary school"
+        },
+        {
+          "entities": [
+            {
+              "text": "Phoenix Arizona",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            35,
+            50
+          ],
+          "text": "Phoenix Arizona"
+        }
+      ]
+    },
+    {
+      "score": 0.435067,
+      "sentence": "The Arizona state health department was alarmed norm Peterson headed the investigation you try to find something that these people have in common you would like to to know for instance of all of their parents worked in the same factory or a fall of their mothers had had X.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peterson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2219,
+            2227
+          ],
+          "text": "Peterson"
+        },
+        {
+          "entities": [
+            {
+              "text": "Arizona state health department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2170,
+            2201
+          ],
+          "text": "Arizona state health department"
+        }
+      ]
+    },
+    {
+      "score": 0.477455,
+      "sentence": "The Arizona state health department was alarmed norm Peterson headed the investigation you try to find something that these people have in common you would like to to know for instance of all of their parents worked in the same factory or a fall of their mothers had had X.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peterson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2219,
+            2227
+          ],
+          "text": "Peterson"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            2239,
+            2252
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.395343,
+      "sentence": "The Arizona state health department was alarmed norm Peterson headed the investigation you try to find something that these people have in common you would like to to know for instance of all of their parents worked in the same factory or a fall of their mothers had had X.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2367,
+            2374
+          ],
+          "text": "parents"
+        },
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2361,
+            2366
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.601208,
+      "sentence": "rays while they had been pregnant one of the first things investigators try to discover is this true cancer cluster or a random occurrence if the average rate of cancer in the city is one in every ten households for example we assume that the distribution of those cancers will be more or less equal but if it isn't on the same number of cancer cases happen in a group or cluster scientists trying to figure out if it's because of chance or if there is a reason for the cluster the rate of childhood leukemia in Maryvale was higher than it should have been and the residents first suspected pollution you know there's a problem there are studies that show benzene does cause childhood leukemia benzene comes from gasoline.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "households",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2641,
+            2651
+          ],
+          "text": "households"
+        },
+        {
+          "entities": [
+            {
+              "text": "stomach cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            2602,
+            2608
+          ],
+          "text": "cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.480844,
+      "sentence": "rays while they had been pregnant one of the first things investigators try to discover is this true cancer cluster or a random occurrence if the average rate of cancer in the city is one in every ten households for example we assume that the distribution of those cancers will be more or less equal but if it isn't on the same number of cancer cases happen in a group or cluster scientists trying to figure out if it's because of chance or if there is a reason for the cluster the rate of childhood leukemia in Maryvale was higher than it should have been and the residents first suspected pollution you know there's a problem there are studies that show benzene does cause childhood leukemia benzene comes from gasoline.",
+      "type": "populationOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            2624,
+            2627
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "New York City",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2616,
+            2620
+          ],
+          "text": "city"
+        }
+      ]
+    },
+    {
+      "score": 0.250111,
+      "sentence": "S the kids here is the area where children have been dying of leukemia here is the gas storage facility right here do you think it's just coincidence the tank farm near the cluster side was suspected of leaking benzene into the atmosphere benzene has been linked to leukemia but not to the type found in the Maryvale cancer cluster cancer is cancer whether it's leukemia whether it's cancer of the brain cancer the skin cancer of the stomach cancer of the lungs cancer is cancer but researchers say that isn't entirely correct there are many different kinds of cancer with many different causes for cancer to develop two things must happen first a cell becomes damaged in some way by an inherited defect or buy something like radiation a virus or chemical then something has to activate the cells like the chemicals in cigarette smoke or",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3174,
+            3178
+          ],
+          "text": "kids"
+        },
+        {
+          "entities": [
+            {
+              "text": "area",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3179,
+            3183
+          ],
+          "text": "here"
+        }
+      ]
+    },
+    {
+      "score": 0.386269,
+      "sentence": "S the kids here is the area where children have been dying of leukemia here is the gas storage facility right here do you think it's just coincidence the tank farm near the cluster side was suspected of leaking benzene into the atmosphere benzene has been linked to leukemia but not to the type found in the Maryvale cancer cluster cancer is cancer whether it's leukemia whether it's cancer of the brain cancer the skin cancer of the stomach cancer of the lungs cancer is cancer but researchers say that isn't entirely correct there are many different kinds of cancer with many different causes for cancer to develop two things must happen first a cell becomes damaged in some way by an inherited defect or buy something like radiation a virus or chemical then something has to activate the cells like the chemicals in cigarette smoke or",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3202,
+            3210
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "area",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            3196,
+            3201
+          ],
+          "text": "where"
+        }
+      ]
+    },
+    {
+      "score": 0.726125,
+      "sentence": "S the kids here is the area where children have been dying of leukemia here is the gas storage facility right here do you think it's just coincidence the tank farm near the cluster side was suspected of leaking benzene into the atmosphere benzene has been linked to leukemia but not to the type found in the Maryvale cancer cluster cancer is cancer whether it's leukemia whether it's cancer of the brain cancer the skin cancer of the stomach cancer of the lungs cancer is cancer but researchers say that isn't entirely correct there are many different kinds of cancer with many different causes for cancer to develop two things must happen first a cell becomes damaged in some way by an inherited defect or buy something like radiation a virus or chemical then something has to activate the cells like the chemicals in cigarette smoke or",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3202,
+            3210
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "leukemia benzene",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            3230,
+            3238
+          ],
+          "text": "leukemia"
+        }
+      ]
+    },
+    {
+      "score": 0.377756,
+      "sentence": "S the kids here is the area where children have been dying of leukemia here is the gas storage facility right here do you think it's just coincidence the tank farm near the cluster side was suspected of leaking benzene into the atmosphere benzene has been linked to leukemia but not to the type found in the Maryvale cancer cluster cancer is cancer whether it's leukemia whether it's cancer of the brain cancer the skin cancer of the stomach cancer of the lungs cancer is cancer but researchers say that isn't entirely correct there are many different kinds of cancer with many different causes for cancer to develop two things must happen first a cell becomes damaged in some way by an inherited defect or buy something like radiation a virus or chemical then something has to activate the cells like the chemicals in cigarette smoke or",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "chemicals",
+              "type": "Substance"
+            }
+          ],
+          "location": [
+            3251,
+            3254
+          ],
+          "text": "gas"
+        },
+        {
+          "entities": [
+            {
+              "text": "storage facility",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3255,
+            3271
+          ],
+          "text": "storage facility"
+        }
+      ]
+    },
+    {
+      "score": 0.391247,
+      "sentence": "S the kids here is the area where children have been dying of leukemia here is the gas storage facility right here do you think it's just coincidence the tank farm near the cluster side was suspected of leaking benzene into the atmosphere benzene has been linked to leukemia but not to the type found in the Maryvale cancer cluster cancer is cancer whether it's leukemia whether it's cancer of the brain cancer the skin cancer of the stomach cancer of the lungs cancer is cancer but researchers say that isn't entirely correct there are many different kinds of cancer with many different causes for cancer to develop two things must happen first a cell becomes damaged in some way by an inherited defect or buy something like radiation a virus or chemical then something has to activate the cells like the chemicals in cigarette smoke or",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "right",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3272,
+            3277
+          ],
+          "text": "right"
+        },
+        {
+          "entities": [
+            {
+              "text": "area",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3278,
+            3282
+          ],
+          "text": "here"
+        }
+      ]
+    },
+    {
+      "score": 0.843294,
+      "sentence": "Even children contracted childhood leukemia and nine of those children die and in Guilford Connecticut five brain tumors on the street with only nine homes to.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            57,
+            65
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "leukemia benzene",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            87,
+            95
+          ],
+          "text": "leukemia"
+        }
+      ]
+    },
+    {
+      "score": 0.985543,
+      "sentence": "S the kids here is the area where children have been dying of leukemia here is the gas storage facility right here do you think it's just coincidence the tank farm near the cluster side was suspected of leaking benzene into the atmosphere benzene has been linked to leukemia but not to the type found in the Maryvale cancer cluster cancer is cancer whether it's leukemia whether it's cancer of the brain cancer the skin cancer of the stomach cancer of the lungs cancer is cancer but researchers say that isn't entirely correct there are many different kinds of cancer with many different causes for cancer to develop two things must happen first a cell becomes damaged in some way by an inherited defect or buy something like radiation a virus or chemical then something has to activate the cells like the chemicals in cigarette smoke or",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "researchers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3651,
+            3662
+          ],
+          "text": "researchers"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3663,
+            3666
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.336218,
+      "sentence": "pollution the result cells which multiply out of control creating junk piles of abnormal cells called tumors for reasons that we don't completely understand our childhood leukemias tend to cluster and there many many many are looking their clusters and children described in the literature but what causes a large number of leukemia cases to cluster in a small neighborhood such as Maryvale norm Peterson sent detailed questionnaires to the families of the cancer victims and immediately tested the Saint Vincent DePaul school we immediately went out did a radiation survey to see that there hadn't been for instance some radioactive material incorporated into the structure they also tested radiation levels in the school yard and surrounding neighborhoods to see if electric power lines or a sub station might have been involved since March of merry veil had been farmland back in the sixties and routinely sprayed with insecticides",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4240,
+            4245
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4259,
+            4267
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.962669,
+      "sentence": "pollution the result cells which multiply out of control creating junk piles of abnormal cells called tumors for reasons that we don't completely understand our childhood leukemias tend to cluster and there many many many are looking their clusters and children described in the literature but what causes a large number of leukemia cases to cluster in a small neighborhood such as Maryvale norm Peterson sent detailed questionnaires to the families of the cancer victims and immediately tested the Saint Vincent DePaul school we immediately went out did a radiation survey to see that there hadn't been for instance some radioactive material incorporated into the structure they also tested radiation levels in the school yard and surrounding neighborhoods to see if electric power lines or a sub station might have been involved since March of merry veil had been farmland back in the sixties and routinely sprayed with insecticides",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4259,
+            4267
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "described",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4268,
+            4277
+          ],
+          "text": "described"
+        }
+      ]
+    },
+    {
+      "score": 0.279401,
+      "sentence": "pollution the result cells which multiply out of control creating junk piles of abnormal cells called tumors for reasons that we don't completely understand our childhood leukemias tend to cluster and there many many many are looking their clusters and children described in the literature but what causes a large number of leukemia cases to cluster in a small neighborhood such as Maryvale norm Peterson sent detailed questionnaires to the families of the cancer victims and immediately tested the Saint Vincent DePaul school we immediately went out did a radiation survey to see that there hadn't been for instance some radioactive material incorporated into the structure they also tested radiation levels in the school yard and surrounding neighborhoods to see if electric power lines or a sub station might have been involved since March of merry veil had been farmland back in the sixties and routinely sprayed with insecticides",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peterson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4402,
+            4410
+          ],
+          "text": "Peterson"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            4367,
+            4379
+          ],
+          "text": "neighborhood"
+        }
+      ]
+    },
+    {
+      "score": 0.853799,
+      "sentence": "pollution the result cells which multiply out of control creating junk piles of abnormal cells called tumors for reasons that we don't completely understand our childhood leukemias tend to cluster and there many many many are looking their clusters and children described in the literature but what causes a large number of leukemia cases to cluster in a small neighborhood such as Maryvale norm Peterson sent detailed questionnaires to the families of the cancer victims and immediately tested the Saint Vincent DePaul school we immediately went out did a radiation survey to see that there hadn't been for instance some radioactive material incorporated into the structure they also tested radiation levels in the school yard and surrounding neighborhoods to see if electric power lines or a sub station might have been involved since March of merry veil had been farmland back in the sixties and routinely sprayed with insecticides",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "families",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4470,
+            4477
+          ],
+          "text": "victims"
+        },
+        {
+          "entities": [
+            {
+              "text": "stomach cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            4463,
+            4469
+          ],
+          "text": "cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.596979,
+      "sentence": "pollution the result cells which multiply out of control creating junk piles of abnormal cells called tumors for reasons that we don't completely understand our childhood leukemias tend to cluster and there many many many are looking their clusters and children described in the literature but what causes a large number of leukemia cases to cluster in a small neighborhood such as Maryvale norm Peterson sent detailed questionnaires to the families of the cancer victims and immediately tested the Saint Vincent DePaul school we immediately went out did a radiation survey to see that there hadn't been for instance some radioactive material incorporated into the structure they also tested radiation levels in the school yard and surrounding neighborhoods to see if electric power lines or a sub station might have been involved since March of merry veil had been farmland back in the sixties and routinely sprayed with insecticides",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Saint Vincent DePaul Catholic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4505,
+            4525
+          ],
+          "text": "Saint Vincent DePaul"
+        },
+        {
+          "entities": [
+            {
+              "text": "school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4526,
+            4532
+          ],
+          "text": "school"
+        }
+      ]
+    },
+    {
+      "score": 0.520326,
+      "sentence": "Wednesday nobody neologism review the test results of Saint Vincent DePaul school they learned some shocking information.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Saint Vincent DePaul Catholic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6483,
+            6503
+          ],
+          "text": "Saint Vincent DePaul"
+        },
+        {
+          "entities": [
+            {
+              "text": "school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6504,
+            6510
+          ],
+          "text": "school"
+        }
+      ]
+    },
+    {
+      "score": 0.581796,
+      "sentence": "Some residents remembered contaminated wells closed by the city a few years earlier the block I grew up on was right smack in the middle of it it's looking back it's very scary to think that we live with us.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5074,
+            5079
+          ],
+          "text": "block"
+        },
+        {
+          "entities": [
+            {
+              "text": "New York City",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5045,
+            5049
+          ],
+          "text": "city"
+        }
+      ]
+    },
+    {
+      "score": 0.449246,
+      "sentence": "Some residents remembered contaminated wells closed by the city a few years earlier the block I grew up on was right smack in the middle of it it's looking back it's very scary to think that we live with us.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ramona Barrett",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5080,
+            5081
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5074,
+            5079
+          ],
+          "text": "block"
+        }
+      ]
+    },
+    {
+      "score": 0.667596,
+      "sentence": "The citizens of Merivale wanted answers.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5198,
+            5206
+          ],
+          "text": "citizens"
+        },
+        {
+          "entities": [
+            {
+              "text": "suburb of Merivale",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5210,
+            5218
+          ],
+          "text": "Merivale"
+        }
+      ]
+    },
+    {
+      "score": 0.658404,
+      "sentence": "What was causing the high rates of childhood leukemia at this Catholic elementary school in Arizona and in the surrounding neighborhood it was a cancer cluster which took the lives of thirty two children and hospitalized seventeen nothing you wanted to run away but then you you you know you want to move sell out let's go away let's go somewhere else but you have children who have lives you have jobs you have a home you can't just you just cannot walk away from everything this this absolute what I would consider destruction of faith.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Catholic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5317,
+            5325
+          ],
+          "text": "Catholic"
+        },
+        {
+          "entities": [
+            {
+              "text": "leukemia benzene",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            5300,
+            5308
+          ],
+          "text": "leukemia"
+        }
+      ]
+    },
+    {
+      "score": 0.660843,
+      "sentence": "Even children contracted childhood leukemia and nine of those children die and in Guilford Connecticut five brain tumors on the street with only nine homes to.",
+      "type": "populationOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "five",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            155,
+            159
+          ],
+          "text": "five"
+        },
+        {
+          "entities": [
+            {
+              "text": "Guilford Connecticut",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            134,
+            154
+          ],
+          "text": "Guilford Connecticut"
+        }
+      ]
+    },
+    {
+      "score": 0.630468,
+      "sentence": "What was causing the high rates of childhood leukemia at this Catholic elementary school in Arizona and in the surrounding neighborhood it was a cancer cluster which took the lives of thirty two children and hospitalized seventeen nothing you wanted to run away but then you you you know you want to move sell out let's go away let's go somewhere else but you have children who have lives you have jobs you have a home you can't just you just cannot walk away from everything this this absolute what I would consider destruction of faith.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "elementary school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5326,
+            5343
+          ],
+          "text": "elementary school"
+        },
+        {
+          "entities": [
+            {
+              "text": "Phoenix Arizona",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5347,
+            5354
+          ],
+          "text": "Arizona"
+        }
+      ]
+    },
+    {
+      "score": 0.65824,
+      "sentence": "What was causing the high rates of childhood leukemia at this Catholic elementary school in Arizona and in the surrounding neighborhood it was a cancer cluster which took the lives of thirty two children and hospitalized seventeen nothing you wanted to run away but then you you you know you want to move sell out let's go away let's go somewhere else but you have children who have lives you have jobs you have a home you can't just you just cannot walk away from everything this this absolute what I would consider destruction of faith.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Phoenix Arizona",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5347,
+            5354
+          ],
+          "text": "Arizona"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5378,
+            5390
+          ],
+          "text": "neighborhood"
+        }
+      ]
+    },
+    {
+      "score": 0.569116,
+      "sentence": "What was causing the high rates of childhood leukemia at this Catholic elementary school in Arizona and in the surrounding neighborhood it was a cancer cluster which took the lives of thirty two children and hospitalized seventeen nothing you wanted to run away but then you you you know you want to move sell out let's go away let's go somewhere else but you have children who have lives you have jobs you have a home you can't just you just cannot walk away from everything this this absolute what I would consider destruction of faith.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5450,
+            5458
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5378,
+            5390
+          ],
+          "text": "neighborhood"
+        }
+      ]
+    },
+    {
+      "score": 0.682158,
+      "sentence": "What was causing the high rates of childhood leukemia at this Catholic elementary school in Arizona and in the surrounding neighborhood it was a cancer cluster which took the lives of thirty two children and hospitalized seventeen nothing you wanted to run away but then you you you know you want to move sell out let's go away let's go somewhere else but you have children who have lives you have jobs you have a home you can't just you just cannot walk away from everything this this absolute what I would consider destruction of faith.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5658,
+            5661
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5669,
+            5673
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.269309,
+      "sentence": "What was causing the high rates of childhood leukemia at this Catholic elementary school in Arizona and in the surrounding neighborhood it was a cancer cluster which took the lives of thirty two children and hospitalized seventeen nothing you wanted to run away but then you you you know you want to move sell out let's go away let's go somewhere else but you have children who have lives you have jobs you have a home you can't just you just cannot walk away from everything this this absolute what I would consider destruction of faith.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5674,
+            5677
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5669,
+            5673
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.819681,
+      "sentence": "Through the ship Brian will stand there and say well maybe we better do something.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5948,
+            5953
+          ],
+          "text": "Brian"
+        },
+        {
+          "entities": [
+            {
+              "text": "Catholic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5990,
+            5992
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.505576,
+      "sentence": "Well we we ran into the same stone wall it was a rate of cancer more than twice what it should have been and the residents wanted to know what the state medical detectives were doing about it my children go to Saint Vincent DePaul it was focused there.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6197,
+            6207
+          ],
+          "text": "detectives"
+        },
+        {
+          "entities": [
+            {
+              "text": "elementary school",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6183,
+            6188
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.523456,
+      "sentence": "Well we we ran into the same stone wall it was a rate of cancer more than twice what it should have been and the residents wanted to know what the state medical detectives were doing about it my children go to Saint Vincent DePaul it was focused there.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ramona Barrett",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6228,
+            6230
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6231,
+            6239
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.442941,
+      "sentence": "Are my children safe to play there to drink the water how long is it going to take.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ramona Barrett",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6293,
+            6295
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6296,
+            6304
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.333999,
+      "sentence": "Wednesday nobody neologism review the test results of Saint Vincent DePaul school they learned some shocking information.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6511,
+            6515
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6504,
+            6510
+          ],
+          "text": "school"
+        }
+      ]
+    },
+    {
+      "score": 0.512716,
+      "sentence": "Pesticides and radiation were all within state and federal safety levels and they noticed something else these levels were below those found in other schools and in other neighborhoods the nearby wells which have been contaminated were closed years earlier and weren't used for drinking water the drinking water from Maryvale was tested and found to be safe next Pederson and his staff investigated the local industries we looked at industries from two aspects we look at that sources of air pollution and basically went in and did a an inventory of what they were releasing but they could identify no toxins in amounts that could be linked with the access cancers Peterson was concerned that he might never find the cause of the cancer cluster cancer it doesn't leave a fingerprint or of any kind as to what caused.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Pederson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6959,
+            6962
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigated",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6969,
+            6981
+          ],
+          "text": "investigated"
+        }
+      ]
+    },
+    {
+      "score": 0.306713,
+      "sentence": "Even children contracted childhood leukemia and nine of those children die and in Guilford Connecticut five brain tumors on the street with only nine homes to.",
+      "type": "near",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "substation itself",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            180,
+            186
+          ],
+          "text": "street"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            202,
+            207
+          ],
+          "text": "homes"
+        }
+      ]
+    },
+    {
+      "score": 0.888544,
+      "sentence": "Pesticides and radiation were all within state and federal safety levels and they noticed something else these levels were below those found in other schools and in other neighborhoods the nearby wells which have been contaminated were closed years earlier and weren't used for drinking water the drinking water from Maryvale was tested and found to be safe next Pederson and his staff investigated the local industries we looked at industries from two aspects we look at that sources of air pollution and basically went in and did a an inventory of what they were releasing but they could identify no toxins in amounts that could be linked with the access cancers Peterson was concerned that he might never find the cause of the cancer cluster cancer it doesn't leave a fingerprint or of any kind as to what caused.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "staff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6963,
+            6968
+          ],
+          "text": "staff"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigated",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6969,
+            6981
+          ],
+          "text": "investigated"
+        }
+      ]
+    },
+    {
+      "score": 0.709425,
+      "sentence": "Pesticides and radiation were all within state and federal safety levels and they noticed something else these levels were below those found in other schools and in other neighborhoods the nearby wells which have been contaminated were closed years earlier and weren't used for drinking water the drinking water from Maryvale was tested and found to be safe next Pederson and his staff investigated the local industries we looked at industries from two aspects we look at that sources of air pollution and basically went in and did a an inventory of what they were releasing but they could identify no toxins in amounts that could be linked with the access cancers Peterson was concerned that he might never find the cause of the cancer cluster cancer it doesn't leave a fingerprint or of any kind as to what caused.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peterson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7248,
+            7256
+          ],
+          "text": "Peterson"
+        },
+        {
+          "entities": [
+            {
+              "text": "stomach cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            7240,
+            7247
+          ],
+          "text": "cancers"
+        }
+      ]
+    },
+    {
+      "score": 0.827903,
+      "sentence": "Unlike other illnesses leukemia patients like Josh Phillips produced no antibodies to the cancer causing agent when you get into childhood leukemia there are no nice neat little antibodies to anything there is nothing that says that that leukemia is caused by radiation as opposed to being caused by by a benzene as opposed to being caused by electromagnetic fields so this becomes a much more difficult problem and we we administer the Achilles heel of environmental epidemiology really is trying to determine what somebody's exposure was many many years ago when the environmental studies couldn't find anything suspicious Peterson decided to examine the homes where the cancer victims licked air dust water pesticides heavy metals and radiation from appliances were all tested to see if these homes differed in anyway from others anything that has been shown in some previous study to have been some Hollis so she",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7432,
+            7440
+          ],
+          "text": "patients"
+        },
+        {
+          "entities": [
+            {
+              "text": "leukemia benzene",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            7423,
+            7431
+          ],
+          "text": "leukemia"
+        }
+      ]
+    },
+    {
+      "score": 0.673164,
+      "sentence": "Unlike other illnesses leukemia patients like Josh Phillips produced no antibodies to the cancer causing agent when you get into childhood leukemia there are no nice neat little antibodies to anything there is nothing that says that that leukemia is caused by radiation as opposed to being caused by by a benzene as opposed to being caused by electromagnetic fields so this becomes a much more difficult problem and we we administer the Achilles heel of environmental epidemiology really is trying to determine what somebody's exposure was many many years ago when the environmental studies couldn't find anything suspicious Peterson decided to examine the homes where the cancer victims licked air dust water pesticides heavy metals and radiation from appliances were all tested to see if these homes differed in anyway from others anything that has been shown in some previous study to have been some Hollis so she",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Josh Phillips",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7446,
+            7459
+          ],
+          "text": "Josh Phillips"
+        },
+        {
+          "entities": [
+            {
+              "text": "patients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7432,
+            7440
+          ],
+          "text": "patients"
+        }
+      ]
+    },
+    {
+      "score": 0.493897,
+      "sentence": "Unlike other illnesses leukemia patients like Josh Phillips produced no antibodies to the cancer causing agent when you get into childhood leukemia there are no nice neat little antibodies to anything there is nothing that says that that leukemia is caused by radiation as opposed to being caused by by a benzene as opposed to being caused by electromagnetic fields so this becomes a much more difficult problem and we we administer the Achilles heel of environmental epidemiology really is trying to determine what somebody's exposure was many many years ago when the environmental studies couldn't find anything suspicious Peterson decided to examine the homes where the cancer victims licked air dust water pesticides heavy metals and radiation from appliances were all tested to see if these homes differed in anyway from others anything that has been shown in some previous study to have been some Hollis so she",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7432,
+            7440
+          ],
+          "text": "patients"
+        },
+        {
+          "entities": [
+            {
+              "text": "stomach cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            7490,
+            7496
+          ],
+          "text": "cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.648841,
+      "sentence": "Unlike other illnesses leukemia patients like Josh Phillips produced no antibodies to the cancer causing agent when you get into childhood leukemia there are no nice neat little antibodies to anything there is nothing that says that that leukemia is caused by radiation as opposed to being caused by by a benzene as opposed to being caused by electromagnetic fields so this becomes a much more difficult problem and we we administer the Achilles heel of environmental epidemiology really is trying to determine what somebody's exposure was many many years ago when the environmental studies couldn't find anything suspicious Peterson decided to examine the homes where the cancer victims licked air dust water pesticides heavy metals and radiation from appliances were all tested to see if these homes differed in anyway from others anything that has been shown in some previous study to have been some Hollis so she",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "your",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7516,
+            7519
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "leukemia benzene",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            7539,
+            7547
+          ],
+          "text": "leukemia"
+        }
+      ]
+    },
+    {
+      "score": 0.325043,
+      "sentence": "did with an excess of childhood leukemia we considered it but it was of little help after ten years and over two million dollars worth of investigation the Arizona state officials couldn't find anything they could link to the cause of the cancer cluster at the residence of Maryvale weren't satisfied my question is Maurer worse this lack of rejecting responsibility and anyone is enough enough it's the same old question and we never got an answer for that.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Catholic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8358,
+            8360
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "leukemia benzene",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            8349,
+            8357
+          ],
+          "text": "leukemia"
+        }
+      ]
+    },
+    {
+      "score": 0.919693,
+      "sentence": "did with an excess of childhood leukemia we considered it but it was of little help after ten years and over two million dollars worth of investigation the Arizona state officials couldn't find anything they could link to the cause of the cancer cluster at the residence of Maryvale weren't satisfied my question is Maurer worse this lack of rejecting responsibility and anyone is enough enough it's the same old question and we never got an answer for that.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8487,
+            8496
+          ],
+          "text": "officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "Arizona state health department",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8481,
+            8486
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.492029,
+      "sentence": "did with an excess of childhood leukemia we considered it but it was of little help after ten years and over two million dollars worth of investigation the Arizona state officials couldn't find anything they could link to the cause of the cancer cluster at the residence of Maryvale weren't satisfied my question is Maurer worse this lack of rejecting responsibility and anyone is enough enough it's the same old question and we never got an answer for that.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8487,
+            8496
+          ],
+          "text": "officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "residence",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8578,
+            8587
+          ],
+          "text": "residence"
+        }
+      ]
+    },
+    {
+      "score": 0.569748,
+      "sentence": "did with an excess of childhood leukemia we considered it but it was of little help after ten years and over two million dollars worth of investigation the Arizona state officials couldn't find anything they could link to the cause of the cancer cluster at the residence of Maryvale weren't satisfied my question is Maurer worse this lack of rejecting responsibility and anyone is enough enough it's the same old question and we never got an answer for that.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Maryvale Arizona",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8591,
+            8599
+          ],
+          "text": "Maryvale"
+        },
+        {
+          "entities": [
+            {
+              "text": "stomach cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            8556,
+            8562
+          ],
+          "text": "cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.919709,
+      "sentence": "D ever step up to the to the podium and say look yes you do have a problem and yes we do need to fix it let's all get together and fix it and how can you say that you know that that doesn't come back to something I mean it has to come back to something in common for all these people so that's what I feel there's a lot of distrust of of government of a lot of it is justified and for the public to not trust us the should not come as a surprise and it now appears the cancer cluster has ended since nineteen eighty six the cancer rates in the area have dropped dramatically and are now among the lowest in the United States either the Maryvale cancer cluster was a random occurrence or the cancer causing agent if there was",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Maryvale Arizona",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9419,
+            9427
+          ],
+          "text": "Maryvale"
+        },
+        {
+          "entities": [
+            {
+              "text": "stomach cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            9428,
+            9434
+          ],
+          "text": "cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.659984,
+      "sentence": "The residents of Maryvale Arizona we're living through their cancer cluster another was developing in Connecticut it was on this date and row middle street in Guilford Connecticut a working class neighborhood in a mostly well to do town about two hours drive outside of New York City.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Maryvale Arizona",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10184,
+            10200
+          ],
+          "text": "Maryvale Arizona"
+        },
+        {
+          "entities": [
+            {
+              "text": "stomach cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            10228,
+            10234
+          ],
+          "text": "cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.974414,
+      "sentence": "Are you saying no.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            669,
+            672
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "saying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            673,
+            679
+          ],
+          "text": "saying"
+        }
+      ]
+    },
+    {
+      "score": 0.42892,
+      "sentence": "did with an excess of childhood leukemia we considered it but it was of little help after ten years and over two million dollars worth of investigation the Arizona state officials couldn't find anything they could link to the cause of the cancer cluster at the residence of Maryvale weren't satisfied my question is Maurer worse this lack of rejecting responsibility and anyone is enough enough it's the same old question and we never got an answer for that.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Maryvale Arizona",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8591,
+            8599
+          ],
+          "text": "Maryvale"
+        },
+        {
+          "entities": [
+            {
+              "text": "residence",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8578,
+            8587
+          ],
+          "text": "residence"
+        }
+      ]
+    },
+    {
+      "score": 0.680963,
+      "sentence": "D ever step up to the to the podium and say look yes you do have a problem and yes we do need to fix it let's all get together and fix it and how can you say that you know that that doesn't come back to something I mean it has to come back to something in common for all these people so that's what I feel there's a lot of distrust of of government of a lot of it is justified and for the public to not trust us the should not come as a surprise and it now appears the cancer cluster has ended since nineteen eighty six the cancer rates in the area have dropped dramatically and are now among the lowest in the United States either the Maryvale cancer cluster was a random occurrence or the cancer causing agent if there was",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "D",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8783,
+            8784
+          ],
+          "text": "D"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8823,
+            8826
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.980589,
+      "sentence": "D ever step up to the to the podium and say look yes you do have a problem and yes we do need to fix it let's all get together and fix it and how can you say that you know that that doesn't come back to something I mean it has to come back to something in common for all these people so that's what I feel there's a lot of distrust of of government of a lot of it is justified and for the public to not trust us the should not come as a surprise and it now appears the cancer cluster has ended since nineteen eighty six the cancer rates in the area have dropped dramatically and are now among the lowest in the United States either the Maryvale cancer cluster was a random occurrence or the cancer causing agent if there was",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "your",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8933,
+            8936
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8937,
+            8940
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.737463,
+      "sentence": "one has long since gone when we're trying to understand what caused the cancer pattern in the community were really trying to find about out about an event that occurred twenty or thirty years ago that's very difficult to do imagine what would happen for example if you had an automobile accident and instead of your bone breaking right away it broke thirty years later right and then when confronted with somebody with a broken bone you have to think back over all the other things that might have happened to them over the intervening twenty or thirty years in another town thousands of miles away there was another cancer cluster.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9602,
+            9611
+          ],
+          "text": "community"
+        },
+        {
+          "entities": [
+            {
+              "text": "stomach cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            9580,
+            9586
+          ],
+          "text": "cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.879048,
+      "sentence": "The residents of Maryvale Arizona we're living through their cancer cluster another was developing in Connecticut it was on this date and row middle street in Guilford Connecticut a working class neighborhood in a mostly well to do town about two hours drive outside of New York City.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10222,
+            10227
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "stomach cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            10228,
+            10234
+          ],
+          "text": "cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.528133,
+      "sentence": "S rode the best question you could ever ask really I don't know if you have a lot of issues in a very street residents were convinced they knew the cause of this high rate of cancer they blamed the electric substation it takes up one side of meadow street and so it's only a hundred feet away from the closest houses electrical substations transformer high voltage power into lower voltages before going through residential power lines into homes it's a big noisy neighbor to the residents of meadow street giving off high levels of electromagnetic energy which frightens even scientific researchers I wouldn't want to live there yeah that I wouldn't and I certainly wouldn't want my children to be raising their children across the street from the substation and as a matter of fact when my daughter was buying a house in a",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10780,
+            10784
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "stomach cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            10821,
+            10827
+          ],
+          "text": "cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.397679,
+      "sentence": "S rode the best question you could ever ask really I don't know if you have a lot of issues in a very street residents were convinced they knew the cause of this high rate of cancer they blamed the electric substation it takes up one side of meadow street and so it's only a hundred feet away from the closest houses electrical substations transformer high voltage power into lower voltages before going through residential power lines into homes it's a big noisy neighbor to the residents of meadow street giving off high levels of electromagnetic energy which frightens even scientific researchers I wouldn't want to live there yeah that I wouldn't and I certainly wouldn't want my children to be raising their children across the street from the substation and as a matter of fact when my daughter was buying a house in a",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10828,
+            10832
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "stomach cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            10821,
+            10827
+          ],
+          "text": "cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.977011,
+      "sentence": "The residents of Maryvale Arizona we're living through their cancer cluster another was developing in Connecticut it was on this date and row middle street in Guilford Connecticut a working class neighborhood in a mostly well to do town about two hours drive outside of New York City.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "substation itself",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10316,
+            10322
+          ],
+          "text": "street"
+        },
+        {
+          "entities": [
+            {
+              "text": "Guilford Connecticut",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10326,
+            10346
+          ],
+          "text": "Guilford Connecticut"
+        }
+      ]
+    },
+    {
+      "score": 0.405897,
+      "sentence": "The residents of Maryvale Arizona we're living through their cancer cluster another was developing in Connecticut it was on this date and row middle street in Guilford Connecticut a working class neighborhood in a mostly well to do town about two hours drive outside of New York City.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Guilford Connecticut",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10326,
+            10346
+          ],
+          "text": "Guilford Connecticut"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            10363,
+            10375
+          ],
+          "text": "neighborhood"
+        }
+      ]
+    },
+    {
+      "score": 0.520517,
+      "sentence": "The residents of Maryvale Arizona we're living through their cancer cluster another was developing in Connecticut it was on this date and row middle street in Guilford Connecticut a working class neighborhood in a mostly well to do town about two hours drive outside of New York City.",
+      "type": "populationOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "two",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            10410,
+            10413
+          ],
+          "text": "two"
+        },
+        {
+          "entities": [
+            {
+              "text": "town",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10399,
+            10403
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.517634,
+      "sentence": "Nine homes on this street.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10457,
+            10462
+          ],
+          "text": "homes"
+        },
+        {
+          "entities": [
+            {
+              "text": "substation itself",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10471,
+            10477
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.63953,
+      "sentence": "Five brain tumor cases when Bob Dougherty this on usually high number of brain tumors he was a lawyer his son and granddaughter lives on meadow street.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bob Dougherty",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10507,
+            10520
+          ],
+          "text": "Bob Dougherty"
+        },
+        {
+          "entities": [
+            {
+              "text": "tumor",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            10490,
+            10495
+          ],
+          "text": "tumor"
+        }
+      ]
+    },
+    {
+      "score": 0.605657,
+      "sentence": "This public meeting was to voice concerns and get some answers about the unusually high number of childhood leukemia cases in the Phoenix suburb of Merivale between nineteen sixty one and nineteen eighty five.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "cases",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            820,
+            825
+          ],
+          "text": "cases"
+        },
+        {
+          "entities": [
+            {
+              "text": "Phoenix Arizona",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            833,
+            840
+          ],
+          "text": "Phoenix"
+        }
+      ]
+    },
+    {
+      "score": 0.729137,
+      "sentence": "Five brain tumor cases when Bob Dougherty this on usually high number of brain tumors he was a lawyer his son and granddaughter lives on meadow street.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bob Dougherty",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10507,
+            10520
+          ],
+          "text": "Bob Dougherty"
+        },
+        {
+          "entities": [
+            {
+              "text": "cases",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10496,
+            10501
+          ],
+          "text": "cases"
+        }
+      ]
+    },
+    {
+      "score": 0.588724,
+      "sentence": "Five brain tumor cases when Bob Dougherty this on usually high number of brain tumors he was a lawyer his son and granddaughter lives on meadow street.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bob Dougherty",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10507,
+            10520
+          ],
+          "text": "Bob Dougherty"
+        },
+        {
+          "entities": [
+            {
+              "text": "brain tumors",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            10552,
+            10564
+          ],
+          "text": "brain tumors"
+        }
+      ]
+    },
+    {
+      "score": 0.73493,
+      "sentence": "Five brain tumor cases when Bob Dougherty this on usually high number of brain tumors he was a lawyer his son and granddaughter lives on meadow street.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10565,
+            10567
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "brain tumors",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            10552,
+            10564
+          ],
+          "text": "brain tumors"
+        }
+      ]
+    },
+    {
+      "score": 0.734778,
+      "sentence": "Five brain tumor cases when Bob Dougherty this on usually high number of brain tumors he was a lawyer his son and granddaughter lives on meadow street.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10581,
+            10584
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Josh Phillips",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10585,
+            10588
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.243262,
+      "sentence": "Five brain tumor cases when Bob Dougherty this on usually high number of brain tumors he was a lawyer his son and granddaughter lives on meadow street.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10593,
+            10606
+          ],
+          "text": "granddaughter"
+        },
+        {
+          "entities": [
+            {
+              "text": "substation itself",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10623,
+            10629
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.925793,
+      "sentence": "S rode the best question you could ever ask really I don't know if you have a lot of issues in a very street residents were convinced they knew the cause of this high rate of cancer they blamed the electric substation it takes up one side of meadow street and so it's only a hundred feet away from the closest houses electrical substations transformer high voltage power into lower voltages before going through residential power lines into homes it's a big noisy neighbor to the residents of meadow street giving off high levels of electromagnetic energy which frightens even scientific researchers I wouldn't want to live there yeah that I wouldn't and I certainly wouldn't want my children to be raising their children across the street from the substation and as a matter of fact when my daughter was buying a house in a",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10671,
+            10674
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "ask",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10686,
+            10689
+          ],
+          "text": "ask"
+        }
+      ]
+    },
+    {
+      "score": 0.600577,
+      "sentence": "S rode the best question you could ever ask really I don't know if you have a lot of issues in a very street residents were convinced they knew the cause of this high rate of cancer they blamed the electric substation it takes up one side of meadow street and so it's only a hundred feet away from the closest houses electrical substations transformer high voltage power into lower voltages before going through residential power lines into homes it's a big noisy neighbor to the residents of meadow street giving off high levels of electromagnetic energy which frightens even scientific researchers I wouldn't want to live there yeah that I wouldn't and I certainly wouldn't want my children to be raising their children across the street from the substation and as a matter of fact when my daughter was buying a house in a",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10755,
+            10764
+          ],
+          "text": "residents"
+        },
+        {
+          "entities": [
+            {
+              "text": "substation itself",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10748,
+            10754
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.645235,
+      "sentence": "S rode the best question you could ever ask really I don't know if you have a lot of issues in a very street residents were convinced they knew the cause of this high rate of cancer they blamed the electric substation it takes up one side of meadow street and so it's only a hundred feet away from the closest houses electrical substations transformer high voltage power into lower voltages before going through residential power lines into homes it's a big noisy neighbor to the residents of meadow street giving off high levels of electromagnetic energy which frightens even scientific researchers I wouldn't want to live there yeah that I wouldn't and I certainly wouldn't want my children to be raising their children across the street from the substation and as a matter of fact when my daughter was buying a house in a",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11126,
+            11135
+          ],
+          "text": "residents"
+        },
+        {
+          "entities": [
+            {
+              "text": "substation itself",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11146,
+            11152
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.668082,
+      "sentence": "Cause cancer the most likely thing that they do is that they may promote cancer that is if if the cell or the body is in contact with some environmental toxin and they are also getting some kind of EM failed phase two things together could cause cancer and this is been shown in our studies the residents of meadow street found themselves in a difficult situation.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            17342,
+            17351
+          ],
+          "text": "residents"
+        },
+        {
+          "entities": [
+            {
+              "text": "substation itself",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            17355,
+            17368
+          ],
+          "text": "meadow street"
+        }
+      ]
+    },
+    {
+      "score": 0.82629,
+      "sentence": "Two unsolved medical mysteries public health officials can offer few answers for the residents of meadow street and merry Vail Arizona and with the lack of definitive information the result is usually fear and anger over the past twenty two years the CDC has investigated over one hundred eight cancer clusters throughout the United States and around the world.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            18975,
+            18984
+          ],
+          "text": "residents"
+        },
+        {
+          "entities": [
+            {
+              "text": "substation itself",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            18988,
+            19001
+          ],
+          "text": "meadow street"
+        }
+      ]
+    },
+    {
+      "score": 0.988539,
+      "sentence": "S rode the best question you could ever ask really I don't know if you have a lot of issues in a very street residents were convinced they knew the cause of this high rate of cancer they blamed the electric substation it takes up one side of meadow street and so it's only a hundred feet away from the closest houses electrical substations transformer high voltage power into lower voltages before going through residential power lines into homes it's a big noisy neighbor to the residents of meadow street giving off high levels of electromagnetic energy which frightens even scientific researchers I wouldn't want to live there yeah that I wouldn't and I certainly wouldn't want my children to be raising their children across the street from the substation and as a matter of fact when my daughter was buying a house in a",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10828,
+            10832
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "blamed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10833,
+            10839
+          ],
+          "text": "blamed"
+        }
+      ]
+    },
+    {
+      "score": 0.380441,
+      "sentence": "S rode the best question you could ever ask really I don't know if you have a lot of issues in a very street residents were convinced they knew the cause of this high rate of cancer they blamed the electric substation it takes up one side of meadow street and so it's only a hundred feet away from the closest houses electrical substations transformer high voltage power into lower voltages before going through residential power lines into homes it's a big noisy neighbor to the residents of meadow street giving off high levels of electromagnetic energy which frightens even scientific researchers I wouldn't want to live there yeah that I wouldn't and I certainly wouldn't want my children to be raising their children across the street from the substation and as a matter of fact when my daughter was buying a house in a",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11327,
+            11329
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11330,
+            11338
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.625498,
+      "sentence": "S rode the best question you could ever ask really I don't know if you have a lot of issues in a very street residents were convinced they knew the cause of this high rate of cancer they blamed the electric substation it takes up one side of meadow street and so it's only a hundred feet away from the closest houses electrical substations transformer high voltage power into lower voltages before going through residential power lines into homes it's a big noisy neighbor to the residents of meadow street giving off high levels of electromagnetic energy which frightens even scientific researchers I wouldn't want to live there yeah that I wouldn't and I certainly wouldn't want my children to be raising their children across the street from the substation and as a matter of fact when my daughter was buying a house in a",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11330,
+            11338
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "substation itself",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11379,
+            11385
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.582492,
+      "sentence": "This public meeting was to voice concerns and get some answers about the unusually high number of childhood leukemia cases in the Phoenix suburb of Merivale between nineteen sixty one and nineteen eighty five.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "cases",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            820,
+            825
+          ],
+          "text": "cases"
+        },
+        {
+          "entities": [
+            {
+              "text": "suburb of Merivale",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            841,
+            859
+          ],
+          "text": "suburb of Merivale"
+        }
+      ]
+    },
+    {
+      "score": 0.578544,
+      "sentence": "S rode the best question you could ever ask really I don't know if you have a lot of issues in a very street residents were convinced they knew the cause of this high rate of cancer they blamed the electric substation it takes up one side of meadow street and so it's only a hundred feet away from the closest houses electrical substations transformer high voltage power into lower voltages before going through residential power lines into homes it's a big noisy neighbor to the residents of meadow street giving off high levels of electromagnetic energy which frightens even scientific researchers I wouldn't want to live there yeah that I wouldn't and I certainly wouldn't want my children to be raising their children across the street from the substation and as a matter of fact when my daughter was buying a house in a",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11353,
+            11358
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11359,
+            11367
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.64887,
+      "sentence": "S rode the best question you could ever ask really I don't know if you have a lot of issues in a very street residents were convinced they knew the cause of this high rate of cancer they blamed the electric substation it takes up one side of meadow street and so it's only a hundred feet away from the closest houses electrical substations transformer high voltage power into lower voltages before going through residential power lines into homes it's a big noisy neighbor to the residents of meadow street giving off high levels of electromagnetic energy which frightens even scientific researchers I wouldn't want to live there yeah that I wouldn't and I certainly wouldn't want my children to be raising their children across the street from the substation and as a matter of fact when my daughter was buying a house in a",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11359,
+            11367
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "substation itself",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11379,
+            11385
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.871345,
+      "sentence": "S rode the best question you could ever ask really I don't know if you have a lot of issues in a very street residents were convinced they knew the cause of this high rate of cancer they blamed the electric substation it takes up one side of meadow street and so it's only a hundred feet away from the closest houses electrical substations transformer high voltage power into lower voltages before going through residential power lines into homes it's a big noisy neighbor to the residents of meadow street giving off high levels of electromagnetic energy which frightens even scientific researchers I wouldn't want to live there yeah that I wouldn't and I certainly wouldn't want my children to be raising their children across the street from the substation and as a matter of fact when my daughter was buying a house in a",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11435,
+            11437
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11438,
+            11446
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.443207,
+      "sentence": "working class section of Cambridge I want to look at the house and there was a step down transformer outside the room I would say three feet from the room that the baby was going to be at and I was absolutely opposed to her putting a kid in there Dr Reba Goodman is a cell biologist at Columbia University she is conducting research to see if electromagnetic fields can change our cells making them more susceptible to cancer what electromagnetic fields a little bit can be bad then they can be an increase which will have no effect then they can be a greater increase that can be very bad and the whole problem is to find the range within which these fields have an effect at the cellular level life on meadow street has been the same since an article in The New Yorker magazine strongly suggested that electromagnetic",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11506,
+            11507
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "Cambridge",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11496,
+            11505
+          ],
+          "text": "Cambridge"
+        }
+      ]
+    },
+    {
+      "score": 0.706248,
+      "sentence": "working class section of Cambridge I want to look at the house and there was a step down transformer outside the room I would say three feet from the room that the baby was going to be at and I was absolutely opposed to her putting a kid in there Dr Reba Goodman is a cell biologist at Columbia University she is conducting research to see if electromagnetic fields can change our cells making them more susceptible to cancer what electromagnetic fields a little bit can be bad then they can be an increase which will have no effect then they can be a greater increase that can be very bad and the whole problem is to find the range within which these fields have an effect at the cellular level life on meadow street has been the same since an article in The New Yorker magazine strongly suggested that electromagnetic",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11506,
+            11507
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11528,
+            11533
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.380072,
+      "sentence": "working class section of Cambridge I want to look at the house and there was a step down transformer outside the room I would say three feet from the room that the baby was going to be at and I was absolutely opposed to her putting a kid in there Dr Reba Goodman is a cell biologist at Columbia University she is conducting research to see if electromagnetic fields can change our cells making them more susceptible to cancer what electromagnetic fields a little bit can be bad then they can be an increase which will have no effect then they can be a greater increase that can be very bad and the whole problem is to find the range within which these fields have an effect at the cellular level life on meadow street has been the same since an article in The New Yorker magazine strongly suggested that electromagnetic",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11589,
+            11590
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "step down",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            11550,
+            11559
+          ],
+          "text": "step down"
+        }
+      ]
+    },
+    {
+      "score": 0.930997,
+      "sentence": "working class section of Cambridge I want to look at the house and there was a step down transformer outside the room I would say three feet from the room that the baby was going to be at and I was absolutely opposed to her putting a kid in there Dr Reba Goodman is a cell biologist at Columbia University she is conducting research to see if electromagnetic fields can change our cells making them more susceptible to cancer what electromagnetic fields a little bit can be bad then they can be an increase which will have no effect then they can be a greater increase that can be very bad and the whole problem is to find the range within which these fields have an effect at the cellular level life on meadow street has been the same since an article in The New Yorker magazine strongly suggested that electromagnetic",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11589,
+            11590
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11597,
+            11600
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.795759,
+      "sentence": "working class section of Cambridge I want to look at the house and there was a step down transformer outside the room I would say three feet from the room that the baby was going to be at and I was absolutely opposed to her putting a kid in there Dr Reba Goodman is a cell biologist at Columbia University she is conducting research to see if electromagnetic fields can change our cells making them more susceptible to cancer what electromagnetic fields a little bit can be bad then they can be an increase which will have no effect then they can be a greater increase that can be very bad and the whole problem is to find the range within which these fields have an effect at the cellular level life on meadow street has been the same since an article in The New Yorker magazine strongly suggested that electromagnetic",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Reba Goodman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11744,
+            11753
+          ],
+          "text": "biologist"
+        },
+        {
+          "entities": [
+            {
+              "text": "Columbia University",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11757,
+            11776
+          ],
+          "text": "Columbia University"
+        }
+      ]
+    },
+    {
+      "score": 0.337633,
+      "sentence": "working class section of Cambridge I want to look at the house and there was a step down transformer outside the room I would say three feet from the room that the baby was going to be at and I was absolutely opposed to her putting a kid in there Dr Reba Goodman is a cell biologist at Columbia University she is conducting research to see if electromagnetic fields can change our cells making them more susceptible to cancer what electromagnetic fields a little bit can be bad then they can be an increase which will have no effect then they can be a greater increase that can be very bad and the whole problem is to find the range within which these fields have an effect at the cellular level life on meadow street has been the same since an article in The New Yorker magazine strongly suggested that electromagnetic",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Reba Goodman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11777,
+            11780
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "Columbia University",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11757,
+            11776
+          ],
+          "text": "Columbia University"
+        }
+      ]
+    },
+    {
+      "score": 0.694537,
+      "sentence": "working class section of Cambridge I want to look at the house and there was a step down transformer outside the room I would say three feet from the room that the baby was going to be at and I was absolutely opposed to her putting a kid in there Dr Reba Goodman is a cell biologist at Columbia University she is conducting research to see if electromagnetic fields can change our cells making them more susceptible to cancer what electromagnetic fields a little bit can be bad then they can be an increase which will have no effect then they can be a greater increase that can be very bad and the whole problem is to find the range within which these fields have an effect at the cellular level life on meadow street has been the same since an article in The New Yorker magazine strongly suggested that electromagnetic",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "elementary school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12242,
+            12250
+          ],
+          "text": "magazine"
+        },
+        {
+          "entities": [
+            {
+              "text": "New Yorker",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12231,
+            12241
+          ],
+          "text": "New Yorker"
+        }
+      ]
+    },
+    {
+      "score": 0.742474,
+      "sentence": "working class section of Cambridge I want to look at the house and there was a step down transformer outside the room I would say three feet from the room that the baby was going to be at and I was absolutely opposed to her putting a kid in there Dr Reba Goodman is a cell biologist at Columbia University she is conducting research to see if electromagnetic fields can change our cells making them more susceptible to cancer what electromagnetic fields a little bit can be bad then they can be an increase which will have no effect then they can be a greater increase that can be very bad and the whole problem is to find the range within which these fields have an effect at the cellular level life on meadow street has been the same since an article in The New Yorker magazine strongly suggested that electromagnetic",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "elementary school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12242,
+            12250
+          ],
+          "text": "magazine"
+        },
+        {
+          "entities": [
+            {
+              "text": "suggested",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12260,
+            12269
+          ],
+          "text": "suggested"
+        }
+      ]
+    },
+    {
+      "score": 0.76669,
+      "sentence": "This public meeting was to voice concerns and get some answers about the unusually high number of childhood leukemia cases in the Phoenix suburb of Merivale between nineteen sixty one and nineteen eighty five.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suburb of Merivale",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            841,
+            859
+          ],
+          "text": "suburb of Merivale"
+        },
+        {
+          "entities": [
+            {
+              "text": "Phoenix Arizona",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            833,
+            840
+          ],
+          "text": "Phoenix"
+        }
+      ]
+    },
+    {
+      "score": 0.525481,
+      "sentence": "working class section of Cambridge I want to look at the house and there was a step down transformer outside the room I would say three feet from the room that the baby was going to be at and I was absolutely opposed to her putting a kid in there Dr Reba Goodman is a cell biologist at Columbia University she is conducting research to see if electromagnetic fields can change our cells making them more susceptible to cancer what electromagnetic fields a little bit can be bad then they can be an increase which will have no effect then they can be a greater increase that can be very bad and the whole problem is to find the range within which these fields have an effect at the cellular level life on meadow street has been the same since an article in The New Yorker magazine strongly suggested that electromagnetic",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "electromagnetic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12275,
+            12290
+          ],
+          "text": "electromagnetic"
+        },
+        {
+          "entities": [
+            {
+              "text": "suggested",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12260,
+            12269
+          ],
+          "text": "suggested"
+        }
+      ]
+    },
+    {
+      "score": 0.367615,
+      "sentence": "fields from this sub station might be responsible for the onus is on meadow street Jack Walston remembers meadow street he grew up there and when he married and started a family you bought a house just down the street from this.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jack Walston",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12374,
+            12386
+          ],
+          "text": "Jack Walston"
+        },
+        {
+          "entities": [
+            {
+              "text": "substation itself",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12367,
+            12373
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.400973,
+      "sentence": "fields from this sub station might be responsible for the onus is on meadow street Jack Walston remembers meadow street he grew up there and when he married and started a family you bought a house just down the street from this.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jack Walston",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12374,
+            12386
+          ],
+          "text": "Jack Walston"
+        },
+        {
+          "entities": [
+            {
+              "text": "substation itself",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12404,
+            12410
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.485614,
+      "sentence": "fields from this sub station might be responsible for the onus is on meadow street Jack Walston remembers meadow street he grew up there and when he married and started a family you bought a house just down the street from this.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jack Walston",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12411,
+            12413
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "substation itself",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12404,
+            12410
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.621697,
+      "sentence": "Parents on meadow street he blames the electric substation for the death of his entire family his father died of a brain tumor at the age of fifty four.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jack Walston",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12545,
+            12547
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "substation itself",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12568,
+            12578
+          ],
+          "text": "substation"
+        }
+      ]
+    },
+    {
+      "score": 0.389148,
+      "sentence": "Is that there is no cancer cluster on middle street you go for it even though there were five brain tumors on the street with only nine homes they said since the tumors were different they didn't qualify as a cancer cluster two of them were benign so called of tumors and.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jack Walston",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14932,
+            14935
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "substation itself",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14925,
+            14931
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.41955,
+      "sentence": "fields from this sub station might be responsible for the onus is on meadow street Jack Walston remembers meadow street he grew up there and when he married and started a family you bought a house just down the street from this.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12482,
+            12487
+          ],
+          "text": "house"
+        },
+        {
+          "entities": [
+            {
+              "text": "substation itself",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12502,
+            12508
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.656774,
+      "sentence": "Parents on meadow street he blames the electric substation for the death of his entire family his father died of a brain tumor at the age of fifty four.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12520,
+            12527
+          ],
+          "text": "Parents"
+        },
+        {
+          "entities": [
+            {
+              "text": "substation itself",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12538,
+            12544
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.782631,
+      "sentence": "Parents on meadow street he blames the electric substation for the death of his entire family his father died of a brain tumor at the age of fifty four.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12618,
+            12624
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "Jack Walston",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12614,
+            12617
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.303406,
+      "sentence": "His sister died at the age of fifty four.",
+      "type": "siblingOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jack Walston",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12673,
+            12676
+          ],
+          "text": "His"
+        },
+        {
+          "entities": [
+            {
+              "text": "Melissa bullock",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12677,
+            12683
+          ],
+          "text": "sister"
+        }
+      ]
+    },
+    {
+      "score": 0.996525,
+      "sentence": "Like I said I do have a reoccurrence of Melissa bullock was Jack Wilson's next door neighbor she was a high school basketball star in straight a student she also developed a brain tumor at the age of sixteen which required surgery and radiation but she survived in nineteen eighty seven the local newspaper did a little investigation of its own and discovered this startling number of cancer cases not only around the electric substation but along the entire length of the high power lines throughout the state I can give you a name after name of people who live along power lines that have died with cancer malignancy of some type.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jack Walston",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12919,
+            12920
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12921,
+            12925
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.414306,
+      "sentence": "Like I said I do have a reoccurrence of Melissa bullock was Jack Wilson's next door neighbor she was a high school basketball star in straight a student she also developed a brain tumor at the age of sixteen which required surgery and radiation but she survived in nineteen eighty seven the local newspaper did a little investigation of its own and discovered this startling number of cancer cases not only around the electric substation but along the entire length of the high power lines throughout the state I can give you a name after name of people who live along power lines that have died with cancer malignancy of some type.",
+      "type": "educatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melissa bullock",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13007,
+            13010
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "Columbia University",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13017,
+            13028
+          ],
+          "text": "high school"
+        }
+      ]
+    },
+    {
+      "score": 0.556016,
+      "sentence": "Like I said I do have a reoccurrence of Melissa bullock was Jack Wilson's next door neighbor she was a high school basketball star in straight a student she also developed a brain tumor at the age of sixteen which required surgery and radiation but she survived in nineteen eighty seven the local newspaper did a little investigation of its own and discovered this startling number of cancer cases not only around the electric substation but along the entire length of the high power lines throughout the state I can give you a name after name of people who live along power lines that have died with cancer malignancy of some type.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "newspaper",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13211,
+            13220
+          ],
+          "text": "newspaper"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13234,
+            13247
+          ],
+          "text": "investigation"
+        }
+      ]
+    }
+  ]
+}

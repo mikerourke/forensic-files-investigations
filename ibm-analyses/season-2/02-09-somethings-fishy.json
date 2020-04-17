@@ -1,0 +1,4875 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 14667,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "sue snow",
+      "relevance": 0.949185,
+      "confidence": 0.821884,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Paul Webb king",
+      "relevance": 0.82721,
+      "confidence": 0.99994,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Bruce Nichols",
+      "relevance": 0.818462,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Paul Webb",
+      "relevance": 0.792921,
+      "confidence": 0.999992,
+      "count": 2,
+      "disambiguation": {
+        "name": "Paul_Webb",
+        "dbpedia_resource": "http://dbpedia.org/resource/Paul_Webb",
+        "subtype": [
+          "MusicalArtist",
+          "MusicalGroupMember",
+          "RecordProducer"
+        ]
+      }
+    },
+    {
+      "type": "Organization",
+      "text": "FBI",
+      "relevance": 0.759846,
+      "confidence": 1,
+      "count": 10,
+      "disambiguation": {
+        "name": "Federal_Bureau_of_Investigation",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation",
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Seattle",
+      "relevance": 0.649725,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Susan snow",
+      "relevance": 0.577447,
+      "confidence": 0.985888,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Karan flick",
+      "relevance": 0.555759,
+      "confidence": 0.851937,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Stalin Nichols",
+      "relevance": 0.550476,
+      "confidence": 0.976199,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Dr flick",
+      "relevance": 0.546797,
+      "confidence": 0.962322,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Sarah Webb",
+      "relevance": 0.490526,
+      "confidence": 0.996175,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "forty year",
+      "relevance": 0.43987,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Stella Nichol",
+      "relevance": 0.436937,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "HealthCondition",
+      "text": "headache",
+      "relevance": 0.434902,
+      "confidence": 0.999996,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Nicole",
+      "relevance": 0.428894,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Stella Nichols",
+      "relevance": 0.427313,
+      "confidence": 0.922923,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bruce nickel",
+      "relevance": 0.424839,
+      "confidence": 0.731088,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bruce",
+      "relevance": 0.420974,
+      "confidence": 1,
+      "count": 7
+    },
+    {
+      "type": "Location",
+      "text": "Washington",
+      "relevance": 0.420845,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Bruce Nicole",
+      "relevance": 0.414826,
+      "confidence": 0.994147,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Sarah",
+      "relevance": 0.367719,
+      "confidence": 0.999999,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "six months",
+      "relevance": 0.367184,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Kaylee",
+      "relevance": 0.351858,
+      "confidence": 0.995175,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Christine di",
+      "relevance": 0.334416,
+      "confidence": 0.725065,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Seuss",
+      "relevance": 0.310731,
+      "confidence": 0.958754,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "forty years",
+      "relevance": 0.293552,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Tom Noonan",
+      "relevance": 0.289759,
+      "confidence": 0.999613,
+      "count": 1,
+      "disambiguation": {
+        "name": "Tom_Noonan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tom_Noonan",
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "FilmActor",
+          "FilmDirector",
+          "FilmProducer",
+          "TVActor",
+          "FilmWriter"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Stella",
+      "relevance": 0.289381,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Cyril",
+      "relevance": 0.281509,
+      "confidence": 0.995788,
+      "count": 1,
+      "disambiguation": {
+        "name": "Cyrillus",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cyrillus"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Bruce Bruce Nichols",
+      "relevance": 0.260554,
+      "confidence": 0.976729,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "king",
+      "relevance": 0.252442,
+      "confidence": 0.94277,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Stalin Nicole",
+      "relevance": 0.238589,
+      "confidence": 0.465188,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "king county",
+      "relevance": 0.235007,
+      "confidence": 0.931577,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "F. B. I.",
+      "relevance": 0.229136,
+      "confidence": 0.82043,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Lee Waggoner",
+      "relevance": 0.227857,
+      "confidence": 0.985839,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one hundred thousand dollars",
+      "relevance": 0.224714,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "sue",
+      "relevance": 0.216255,
+      "confidence": 0.995909,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Auburn",
+      "relevance": 0.21037,
+      "confidence": 0.988446,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Cindy",
+      "relevance": 0.205671,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Bruce Nichol",
+      "relevance": 0.196041,
+      "confidence": 0.998505,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Houston",
+      "relevance": 0.181799,
+      "confidence": 0.654739,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "forty three years",
+      "relevance": 0.181132,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Sue",
+      "relevance": 0.169981,
+      "confidence": 0.996282,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "nickels",
+      "relevance": 0.162834,
+      "confidence": 0.814767,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Auburn public library",
+      "relevance": 0.156315,
+      "confidence": 0.771124,
+      "count": 1,
+      "disambiguation": {
+        "name": "Auburn_Public_Library_%28Auburn%2C_Maine%29",
+        "dbpedia_resource": "http://dbpedia.org/resource/Auburn_Public_Library_%28Auburn%2C_Maine%29"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Paul",
+      "relevance": 0.155783,
+      "confidence": 0.999736,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Susan",
+      "relevance": 0.140819,
+      "confidence": 0.999672,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "stellen Nichols",
+      "relevance": 0.139988,
+      "confidence": 0.835669,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "India",
+      "relevance": 0.139766,
+      "confidence": 0.984576,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "five hundred dollars",
+      "relevance": 0.139393,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "DC",
+      "relevance": 0.136051,
+      "confidence": 0.829652,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Telenet Cole",
+      "relevance": 0.132574,
+      "confidence": 0.631712,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Chicago",
+      "relevance": 0.127309,
+      "confidence": 0.697081,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Stalin",
+      "relevance": 0.127239,
+      "confidence": 0.99926,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "hundred thousand dollars",
+      "relevance": 0.121965,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Nichols",
+      "relevance": 0.121423,
+      "confidence": 0.994577,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "al",
+      "relevance": 0.116441,
+      "confidence": 0.926419,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "five days",
+      "relevance": 0.111728,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "alcoholism",
+      "relevance": 0.088665,
+      "confidence": 0.956392,
+      "count": 1,
+      "disambiguation": {
+        "name": "Alcoholism",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alcoholism",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "DiseaseCause",
+          "RiskFactor",
+          "Symptom"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Donna",
+      "relevance": 0.084307,
+      "confidence": 0.999924,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Stefanek",
+      "relevance": 0.055945,
+      "confidence": 0.835943,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Tom",
+      "relevance": 0.030131,
+      "confidence": 0.996241,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "four week",
+      "relevance": 0.030035,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ninety years",
+      "relevance": 0.022891,
+      "confidence": 0.8,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.888785
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.704813
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.672017
+    },
+    {
+      "label": "/business and industrial/business operations/business plans",
+      "score": 0.668854
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.645063
+    },
+    {
+      "label": "/society/dating",
+      "score": 0.642944
+    },
+    {
+      "label": "/family and parenting/babies and toddlers/baby clothes",
+      "score": 0.589197
+    },
+    {
+      "label": "/society/senior living",
+      "score": 0.579732
+    },
+    {
+      "label": "/society/unrest and war",
+      "score": 0.57891
+    },
+    {
+      "label": "/family and parenting/parenting teens",
+      "score": 0.566638
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.643482,
+      "sentence": "It was a typical Wednesday morning in the snow household sue snow was preparing for another long day as vice president at a local bank.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "vice president",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            104,
+            118
+          ],
+          "text": "vice president"
+        },
+        {
+          "entities": [
+            {
+              "text": "paper",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            130,
+            134
+          ],
+          "text": "bank"
+        }
+      ]
+    },
+    {
+      "score": 0.689065,
+      "sentence": "On the day of sue's funeral Cyril looked for some headache medication and her sister's kitchen and found something suspicious the number of tickets said print tablet when we got there I went to the kitchen to get her acceptance tag.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2749,
+            2750
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "kitchen",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2763,
+            2770
+          ],
+          "text": "kitchen"
+        }
+      ]
+    },
+    {
+      "score": 0.731425,
+      "sentence": "When the cyanide was discovered during since knows autopsy and traced to the eccentric capsules in her home Stefanek call have the excuse she needed to ask that her husband's case be reopened she got away with murder once.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "yours",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13559,
+            13562
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "ask",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13573,
+            13576
+          ],
+          "text": "ask"
+        }
+      ]
+    },
+    {
+      "score": 0.872626,
+      "sentence": "When the cyanide was discovered during since knows autopsy and traced to the eccentric capsules in her home Stefanek call have the excuse she needed to ask that her husband's case be reopened she got away with murder once.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "yours",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13582,
+            13585
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "husband",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13586,
+            13593
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.934948,
+      "sentence": "When the cyanide was discovered during since knows autopsy and traced to the eccentric capsules in her home Stefanek call have the excuse she needed to ask that her husband's case be reopened she got away with murder once.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "yours",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13613,
+            13616
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13631,
+            13637
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.56282,
+      "sentence": "When the FBI identified the tiny green crystals in the cyanide as algae destroyer and located a fish store nearest dollar necklace home which sold her the product.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "fish",
+              "type": "Animal"
+            }
+          ],
+          "location": [
+            13784,
+            13788
+          ],
+          "text": "fish"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13819,
+            13823
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.400593,
+      "sentence": "When the FBI identified the tiny green crystals in the cyanide as algae destroyer and located a fish store nearest dollar necklace home which sold her the product.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "stores",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13789,
+            13794
+          ],
+          "text": "store"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13819,
+            13823
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.386847,
+      "sentence": "When the FBI identified the tiny green crystals in the cyanide as algae destroyer and located a fish store nearest dollar necklace home which sold her the product.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13835,
+            13838
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "stores",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13789,
+            13794
+          ],
+          "text": "store"
+        }
+      ]
+    },
+    {
+      "score": 0.401792,
+      "sentence": "A library books and forged life insurance policies sealed the case against the FBI never found the cyanide the algae destroyer tablets or the bowl used to mix the cyanide instead of a necklace home.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "FBI",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13931,
+            13934
+          ],
+          "text": "FBI"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13914,
+            13918
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.569323,
+      "sentence": "After a four week trial.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "four week",
+              "type": "Duration"
+            }
+          ],
+          "location": [
+            14059,
+            14068
+          ],
+          "text": "four week"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14069,
+            14074
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.934099,
+      "sentence": "One in which your own doctor testified against her.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14098,
+            14104
+          ],
+          "text": "doctor"
+        },
+        {
+          "entities": [
+            {
+              "text": "testified",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14105,
+            14114
+          ],
+          "text": "testified"
+        }
+      ]
+    },
+    {
+      "score": 0.796725,
+      "sentence": "One in which your own doctor testified against her.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14123,
+            14126
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "testified",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14105,
+            14114
+          ],
+          "text": "testified"
+        }
+      ]
+    },
+    {
+      "score": 0.767223,
+      "sentence": "He was a long haul trucker with a hard gruff demeanor and was not as financially successful as his wife shortly before their marriage soon discovered that Paul was still dating an old girlfriend thing about it and they had a lot of trouble while.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3505,
+            3508
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Sue",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3509,
+            3513
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.728113,
+      "sentence": "Stella Nichol was convicted of two counts of murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14128,
+            14141
+          ],
+          "text": "Stella Nichol"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14146,
+            14155
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.635931,
+      "sentence": "Stella Nichol was convicted of two counts of murder.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14128,
+            14141
+          ],
+          "text": "Stella Nichol"
+        },
+        {
+          "entities": [
+            {
+              "text": "counts",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14163,
+            14169
+          ],
+          "text": "counts"
+        }
+      ]
+    },
+    {
+      "score": 0.691417,
+      "sentence": "To to take a life and not only my mother's back her her husband's I mean that that's almost more unimaginable to me than her killing a perfect stranger such as my mom but that she would kill her own husband for that.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sarah Webb",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14485,
+            14491
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14482,
+            14484
+          ],
+          "text": "my"
+        }
+      ]
+    },
+    {
+      "score": 0.612345,
+      "sentence": "To to take a life and not only my mother's back her her husband's I mean that that's almost more unimaginable to me than her killing a perfect stranger such as my mom but that she would kill her own husband for that.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mom",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14614,
+            14617
+          ],
+          "text": "mom"
+        },
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14611,
+            14613
+          ],
+          "text": "my"
+        }
+      ]
+    },
+    {
+      "score": 0.816712,
+      "sentence": "To to take a life and not only my mother's back her her husband's I mean that that's almost more unimaginable to me than her killing a perfect stranger such as my mom but that she would kill her own husband for that.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14627,
+            14630
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            14637,
+            14641
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.484875,
+      "sentence": "To to take a life and not only my mother's back her her husband's I mean that that's almost more unimaginable to me than her killing a perfect stranger such as my mom but that she would kill her own husband for that.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "husband",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14650,
+            14657
+          ],
+          "text": "husband"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            14637,
+            14641
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.673136,
+      "sentence": "He was a long haul trucker with a hard gruff demeanor and was not as financially successful as his wife shortly before their marriage soon discovered that Paul was still dating an old girlfriend thing about it and they had a lot of trouble while.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3505,
+            3508
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3529,
+            3534
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.550305,
+      "sentence": "He was a long haul trucker with a hard gruff demeanor and was not as financially successful as his wife shortly before their marriage soon discovered that Paul was still dating an old girlfriend thing about it and they had a lot of trouble while.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sue",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3509,
+            3513
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3529,
+            3534
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.993366,
+      "sentence": "And finally he tells say well I'm not going to see this growing more let's get married and they got married six months later.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3669,
+            3671
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3672,
+            3677
+          ],
+          "text": "tells"
+        }
+      ]
+    },
+    {
+      "score": 0.542683,
+      "sentence": "And finally he tells say well I'm not going to see this growing more let's get married and they got married six months later.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3669,
+            3671
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3678,
+            3681
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.616551,
+      "sentence": "Houston Paul Webb king admitted that it was his idea to switch from headache tablets two capsules but said he had nothing to do with the tampering of the capsules the manufacturer of X.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Webb king",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3791,
+            3805
+          ],
+          "text": "Paul Webb king"
+        },
+        {
+          "entities": [
+            {
+              "text": "Houston",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3783,
+            3790
+          ],
+          "text": "Houston"
+        }
+      ]
+    },
+    {
+      "score": 0.980343,
+      "sentence": "Houston Paul Webb king admitted that it was his idea to switch from headache tablets two capsules but said he had nothing to do with the tampering of the capsules the manufacturer of X.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Webb king",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3791,
+            3805
+          ],
+          "text": "Paul Webb king"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3806,
+            3814
+          ],
+          "text": "admitted"
+        }
+      ]
+    },
+    {
+      "score": 0.527499,
+      "sentence": "Houston Paul Webb king admitted that it was his idea to switch from headache tablets two capsules but said he had nothing to do with the tampering of the capsules the manufacturer of X.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Webb king",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3827,
+            3830
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3885,
+            3889
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.996243,
+      "sentence": "In Auburn Washington extra strength Excedrin capsules are being pulled from the store shelves this after authorities confirmed that a cyanide laced capsule follows the death last week of a forty year old woman sues snow when news reports of some snow's death were broadcast throughout the country one Seattle your stolen Nicole took more than a passing interest don't know Nicole told police that her husband had taken cemex capsules shortly before he died she called king county.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4284,
+            4295
+          ],
+          "text": "authorities"
+        },
+        {
+          "entities": [
+            {
+              "text": "confirmed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4296,
+            4305
+          ],
+          "text": "confirmed"
+        }
+      ]
+    },
+    {
+      "score": 0.760526,
+      "sentence": "In Auburn Washington extra strength Excedrin capsules are being pulled from the store shelves this after authorities confirmed that a cyanide laced capsule follows the death last week of a forty year old woman sues snow when news reports of some snow's death were broadcast throughout the country one Seattle your stolen Nicole took more than a passing interest don't know Nicole told police that her husband had taken cemex capsules shortly before he died she called king county.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4488,
+            4492
+          ],
+          "text": "your"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4493,
+            4499
+          ],
+          "text": "stolen"
+        }
+      ]
+    },
+    {
+      "score": 0.782498,
+      "sentence": "And your daughter he was running a little late rushing to take a quick shower before heading off to school.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "your",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            140,
+            144
+          ],
+          "text": "your"
+        },
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            145,
+            153
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.338589,
+      "sentence": "In Auburn Washington extra strength Excedrin capsules are being pulled from the store shelves this after authorities confirmed that a cyanide laced capsule follows the death last week of a forty year old woman sues snow when news reports of some snow's death were broadcast throughout the country one Seattle your stolen Nicole took more than a passing interest don't know Nicole told police that her husband had taken cemex capsules shortly before he died she called king county.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stalin Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4500,
+            4506
+          ],
+          "text": "Nicole"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4493,
+            4499
+          ],
+          "text": "stolen"
+        }
+      ]
+    },
+    {
+      "score": 0.997344,
+      "sentence": "In Auburn Washington extra strength Excedrin capsules are being pulled from the store shelves this after authorities confirmed that a cyanide laced capsule follows the death last week of a forty year old woman sues snow when news reports of some snow's death were broadcast throughout the country one Seattle your stolen Nicole took more than a passing interest don't know Nicole told police that her husband had taken cemex capsules shortly before he died she called king county.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stalin Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4552,
+            4558
+          ],
+          "text": "Nicole"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4559,
+            4563
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.9836,
+      "sentence": "And she said.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stalin Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11159,
+            11162
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11163,
+            11167
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.972567,
+      "sentence": "In Auburn Washington extra strength Excedrin capsules are being pulled from the store shelves this after authorities confirmed that a cyanide laced capsule follows the death last week of a forty year old woman sues snow when news reports of some snow's death were broadcast throughout the country one Seattle your stolen Nicole took more than a passing interest don't know Nicole told police that her husband had taken cemex capsules shortly before he died she called king county.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4564,
+            4570
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4559,
+            4563
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.799845,
+      "sentence": "In Auburn Washington extra strength Excedrin capsules are being pulled from the store shelves this after authorities confirmed that a cyanide laced capsule follows the death last week of a forty year old woman sues snow when news reports of some snow's death were broadcast throughout the country one Seattle your stolen Nicole took more than a passing interest don't know Nicole told police that her husband had taken cemex capsules shortly before he died she called king county.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stalin Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4576,
+            4579
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Paul Webb king",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4580,
+            4587
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.811733,
+      "sentence": "She also wanted the car India to re opened her husband's case to test his blood samples for sign a test which hadn't been performed during his autopsy.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stalin Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4848,
+            4851
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Paul Webb king",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4852,
+            4859
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.549517,
+      "sentence": "In Auburn Washington extra strength Excedrin capsules are being pulled from the store shelves this after authorities confirmed that a cyanide laced capsule follows the death last week of a forty year old woman sues snow when news reports of some snow's death were broadcast throughout the country one Seattle your stolen Nicole took more than a passing interest don't know Nicole told police that her husband had taken cemex capsules shortly before he died she called king county.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Webb king",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4580,
+            4587
+          ],
+          "text": "husband"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4640,
+            4646
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.768671,
+      "sentence": "In Auburn Washington extra strength Excedrin capsules are being pulled from the store shelves this after authorities confirmed that a cyanide laced capsule follows the death last week of a forty year old woman sues snow when news reports of some snow's death were broadcast throughout the country one Seattle your stolen Nicole took more than a passing interest don't know Nicole told police that her husband had taken cemex capsules shortly before he died she called king county.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stalin Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4636,
+            4639
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4640,
+            4646
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.452773,
+      "sentence": "In Auburn Washington extra strength Excedrin capsules are being pulled from the store shelves this after authorities confirmed that a cyanide laced capsule follows the death last week of a forty year old woman sues snow when news reports of some snow's death were broadcast throughout the country one Seattle your stolen Nicole took more than a passing interest don't know Nicole told police that her husband had taken cemex capsules shortly before he died she called king county.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Webb king",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4647,
+            4651
+          ],
+          "text": "king"
+        },
+        {
+          "entities": [
+            {
+              "text": "county",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4652,
+            4658
+          ],
+          "text": "county"
+        }
+      ]
+    },
+    {
+      "score": 0.474503,
+      "sentence": "We see them pleasure a police detective visited Stella Nichols home to pick up the bottles of X.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4690,
+            4699
+          ],
+          "text": "detective"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4667,
+            4671
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.771437,
+      "sentence": "We see them pleasure a police detective visited Stella Nichols home to pick up the bottles of X.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4690,
+            4699
+          ],
+          "text": "detective"
+        },
+        {
+          "entities": [
+            {
+              "text": "Authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4683,
+            4689
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.637076,
+      "sentence": "We see them pleasure a police detective visited Stella Nichols home to pick up the bottles of X.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4708,
+            4722
+          ],
+          "text": "Stella Nichols"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4723,
+            4727
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.750207,
+      "sentence": "Over the sounds of the running water Kaylee couldn't hear when her mother collapsed.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sarah Webb",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            311,
+            317
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Kaylee",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            307,
+            310
+          ],
+          "text": "her"
+        }
+      ]
+    },
+    {
+      "score": 0.722392,
+      "sentence": "She also wanted the car India to re opened her husband's case to test his blood samples for sign a test which hadn't been performed during his autopsy.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stalin Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4805,
+            4808
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            4825,
+            4828
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.436782,
+      "sentence": "Police continue to investigate their first suspect since knows husband Paul Webb king he can be aggressive and the fact that he re married shortly after.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Webb king",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5237,
+            5244
+          ],
+          "text": "husband"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5205,
+            5210
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.48973,
+      "sentence": "Past there was enough circumstantial things plenty of working that I personally was little surprise when he took a polygraph examination was measured by the FBI and passed it and was with was eliminated as a suspect with web king now clear.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5771,
+            5778
+          ],
+          "text": "suspect"
+        },
+        {
+          "entities": [
+            {
+              "text": "eliminated",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            5755,
+            5765
+          ],
+          "text": "eliminated"
+        }
+      ]
+    },
+    {
+      "score": 0.58545,
+      "sentence": "Authorities feared they had a random killer on their hands some sort of pharmaceutical.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5823,
+            5827
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            5841,
+            5847
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.590186,
+      "sentence": "Newspapers and television stations throughout the world reported the discovery of the tainted capsules in Seattle.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Newspapers",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6164,
+            6174
+          ],
+          "text": "Newspapers"
+        },
+        {
+          "entities": [
+            {
+              "text": "world",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6214,
+            6219
+          ],
+          "text": "world"
+        }
+      ]
+    },
+    {
+      "score": 0.613607,
+      "sentence": "Newspapers and television stations throughout the world reported the discovery of the tainted capsules in Seattle.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "television stations",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6179,
+            6198
+          ],
+          "text": "television stations"
+        },
+        {
+          "entities": [
+            {
+              "text": "world",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6214,
+            6219
+          ],
+          "text": "world"
+        }
+      ]
+    },
+    {
+      "score": 0.632883,
+      "sentence": "Newspapers and television stations throughout the world reported the discovery of the tainted capsules in Seattle.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "television stations",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6179,
+            6198
+          ],
+          "text": "television stations"
+        },
+        {
+          "entities": [
+            {
+              "text": "reported",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6220,
+            6228
+          ],
+          "text": "reported"
+        }
+      ]
+    },
+    {
+      "score": 0.276606,
+      "sentence": "The F. B. I. feared that this case would wind up like the Chicago Tylenol murders just a few years a case which has never been solved.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6353,
+            6360
+          ],
+          "text": "murders"
+        },
+        {
+          "entities": [
+            {
+              "text": "Chicago Tylenol",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6337,
+            6352
+          ],
+          "text": "Chicago Tylenol"
+        }
+      ]
+    },
+    {
+      "score": 0.532395,
+      "sentence": "Home of the tainted ex had bring capsules were sent to the FBI lab in Washington DC for analysis each tainted capsule contained seven hundred milligrams of science.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6414,
+            6418
+          ],
+          "text": "Home"
+        },
+        {
+          "entities": [
+            {
+              "text": "Washington DC",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6484,
+            6497
+          ],
+          "text": "Washington DC"
+        }
+      ]
+    },
+    {
+      "score": 0.939467,
+      "sentence": "Home of the tainted ex had bring capsules were sent to the FBI lab in Washington DC for analysis each tainted capsule contained seven hundred milligrams of science.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "lab",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6477,
+            6480
+          ],
+          "text": "lab"
+        },
+        {
+          "entities": [
+            {
+              "text": "FBI",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6473,
+            6476
+          ],
+          "text": "FBI"
+        }
+      ]
+    },
+    {
+      "score": 0.430998,
+      "sentence": "Susan snow's a successful banking executive and the mother of two young daughters.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sarah Webb",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            460,
+            466
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "daughters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            480,
+            489
+          ],
+          "text": "daughters"
+        }
+      ]
+    },
+    {
+      "score": 0.740372,
+      "sentence": "Home of the tainted ex had bring capsules were sent to the FBI lab in Washington DC for analysis each tainted capsule contained seven hundred milligrams of science.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "lab",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6477,
+            6480
+          ],
+          "text": "lab"
+        },
+        {
+          "entities": [
+            {
+              "text": "Washington DC",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6484,
+            6497
+          ],
+          "text": "Washington DC"
+        }
+      ]
+    },
+    {
+      "score": 0.871222,
+      "sentence": "An FBI chemist visited all of the fish stores near his home hoping to find a commercially produced al just side with the scene for calling.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7263,
+            7270
+          ],
+          "text": "chemist"
+        },
+        {
+          "entities": [
+            {
+              "text": "FBI",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7259,
+            7262
+          ],
+          "text": "FBI"
+        }
+      ]
+    },
+    {
+      "score": 0.695303,
+      "sentence": "An FBI chemist visited all of the fish stores near his home hoping to find a commercially produced al just side with the scene for calling.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "stores",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7295,
+            7301
+          ],
+          "text": "stores"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7311,
+            7315
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.720124,
+      "sentence": "An FBI chemist visited all of the fish stores near his home hoping to find a commercially produced al just side with the scene for calling.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7307,
+            7310
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7311,
+            7315
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.552182,
+      "sentence": "The F. B. I had no idea why a fish algae side would be in the cyanide but reported this discovery to Seattle authorities one of the detectives in Seattle recalled an interesting coincidence.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7786,
+            7797
+          ],
+          "text": "authorities"
+        },
+        {
+          "entities": [
+            {
+              "text": "reported",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7751,
+            7759
+          ],
+          "text": "reported"
+        }
+      ]
+    },
+    {
+      "score": 0.631456,
+      "sentence": "The F. B. I had no idea why a fish algae side would be in the cyanide but reported this discovery to Seattle authorities one of the detectives in Seattle recalled an interesting coincidence.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7786,
+            7797
+          ],
+          "text": "authorities"
+        },
+        {
+          "entities": [
+            {
+              "text": "Seattle Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7778,
+            7785
+          ],
+          "text": "Seattle"
+        }
+      ]
+    },
+    {
+      "score": 0.555896,
+      "sentence": "The F. B. I had no idea why a fish algae side would be in the cyanide but reported this discovery to Seattle authorities one of the detectives in Seattle recalled an interesting coincidence.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7809,
+            7819
+          ],
+          "text": "detectives"
+        },
+        {
+          "entities": [
+            {
+              "text": "Seattle Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7823,
+            7830
+          ],
+          "text": "Seattle"
+        }
+      ]
+    },
+    {
+      "score": 0.324557,
+      "sentence": "When he visited Stalin Nichols home to pick up the X.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7873,
+            7875
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7899,
+            7903
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.628401,
+      "sentence": "When he visited Stalin Nichols home to pick up the X.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stalin Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7884,
+            7898
+          ],
+          "text": "Stalin Nichols"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7899,
+            7903
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.614577,
+      "sentence": "Was it possible that Stella Nichol played some role in the death of her husband and in that day Susan the FBI visited fifty seven different fission pet stores near Stalin Nichols home armed with a photo montage which included dollars picture Tom Noonan recognized double nickels photographed and recalled selling her the same algae destroyer product the FBI was making enquiries if I'd ever remember saw her certain product and I did and I I told them just like I told her anybody else to purchase this product.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stalin Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8180,
+            8194
+          ],
+          "text": "Stalin Nichols"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8195,
+            8199
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.540885,
+      "sentence": "said grin capsules he remembered seeing and a query prominently displayed in her living room.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7999,
+            8002
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "living room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8003,
+            8014
+          ],
+          "text": "living room"
+        }
+      ]
+    },
+    {
+      "score": 0.900958,
+      "sentence": "It was a clue that cyanide was present and the clue that under different circumstances might have gone undetected it's just such a distinct odor it's like when you're driving down the road and you smell skunk.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kaylee",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1662,
+            1665
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "road",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1686,
+            1690
+          ],
+          "text": "road"
+        }
+      ]
+    },
+    {
+      "score": 0.727251,
+      "sentence": "Was it possible that Stella Nichol played some role in the death of her husband and in that day Susan the FBI visited fifty seven different fission pet stores near Stalin Nichols home armed with a photo montage which included dollars picture Tom Noonan recognized double nickels photographed and recalled selling her the same algae destroyer product the FBI was making enquiries if I'd ever remember saw her certain product and I did and I I told them just like I told her anybody else to purchase this product.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8084,
+            8087
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "husband",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8088,
+            8095
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.701869,
+      "sentence": "Stella and her circle was linked to what happened is this now and and what happened to Bruce Bruce Nichols life insurance policies revealed that Stalin would receive one hundred thousand dollars extra if the death of her husband was accidental they'll ever say anything about them having any many problems well yes because she was going to school and not working there for awhile and now it was getting pretty tight.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9092,
+            9095
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "husband",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9096,
+            9103
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.687142,
+      "sentence": "Stella'S fingerprints were found all over the sections dealing with cyanide poisoning and were also found on the pages of various encyclopedia describing cyanide investigators now had enough circumstantial evidence to charge stellen Nichols with the murder of her husband and the FBI discovered why Stella Nichol murdered Seuss not a woman she didn't.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11769,
+            11772
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "husband",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11773,
+            11780
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.730689,
+      "sentence": "To to take a life and not only my mother's back her her husband's I mean that that's almost more unimaginable to me than her killing a perfect stranger such as my mom but that she would kill her own husband for that.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14503,
+            14506
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "husband",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14507,
+            14514
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.514486,
+      "sentence": "To to take a life and not only my mother's back her her husband's I mean that that's almost more unimaginable to me than her killing a perfect stranger such as my mom but that she would kill her own husband for that.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14642,
+            14645
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "husband",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14650,
+            14657
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.598295,
+      "sentence": "Was it possible that Stella Nichol played some role in the death of her husband and in that day Susan the FBI visited fifty seven different fission pet stores near Stalin Nichols home armed with a photo montage which included dollars picture Tom Noonan recognized double nickels photographed and recalled selling her the same algae destroyer product the FBI was making enquiries if I'd ever remember saw her certain product and I did and I I told them just like I told her anybody else to purchase this product.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sarah Webb",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8112,
+            8117
+          ],
+          "text": "Susan"
+        },
+        {
+          "entities": [
+            {
+              "text": "FBI",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8122,
+            8125
+          ],
+          "text": "FBI"
+        }
+      ]
+    },
+    {
+      "score": 0.268101,
+      "sentence": "Was it possible that Stella Nichol played some role in the death of her husband and in that day Susan the FBI visited fifty seven different fission pet stores near Stalin Nichols home armed with a photo montage which included dollars picture Tom Noonan recognized double nickels photographed and recalled selling her the same algae destroyer product the FBI was making enquiries if I'd ever remember saw her certain product and I did and I I told them just like I told her anybody else to purchase this product.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "stores",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8168,
+            8174
+          ],
+          "text": "stores"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8195,
+            8199
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.935155,
+      "sentence": "Was it possible that Stella Nichol played some role in the death of her husband and in that day Susan the FBI visited fifty seven different fission pet stores near Stalin Nichols home armed with a photo montage which included dollars picture Tom Noonan recognized double nickels photographed and recalled selling her the same algae destroyer product the FBI was making enquiries if I'd ever remember saw her certain product and I did and I I told them just like I told her anybody else to purchase this product.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8456,
+            8457
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8458,
+            8462
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.987303,
+      "sentence": "Was it possible that Stella Nichol played some role in the death of her husband and in that day Susan the FBI visited fifty seven different fission pet stores near Stalin Nichols home armed with a photo montage which included dollars picture Tom Noonan recognized double nickels photographed and recalled selling her the same algae destroyer product the FBI was making enquiries if I'd ever remember saw her certain product and I did and I I told them just like I told her anybody else to purchase this product.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8478,
+            8479
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8480,
+            8484
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.730243,
+      "sentence": "Was it possible that Stella Nichol played some role in the death of her husband and in that day Susan the FBI visited fifty seven different fission pet stores near Stalin Nichols home armed with a photo montage which included dollars picture Tom Noonan recognized double nickels photographed and recalled selling her the same algae destroyer product the FBI was making enquiries if I'd ever remember saw her certain product and I did and I I told them just like I told her anybody else to purchase this product.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8463,
+            8467
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8458,
+            8462
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.844018,
+      "sentence": "Was it possible that Stella Nichol played some role in the death of her husband and in that day Susan the FBI visited fifty seven different fission pet stores near Stalin Nichols home armed with a photo montage which included dollars picture Tom Noonan recognized double nickels photographed and recalled selling her the same algae destroyer product the FBI was making enquiries if I'd ever remember saw her certain product and I did and I I told them just like I told her anybody else to purchase this product.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8485,
+            8488
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8480,
+            8484
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.890475,
+      "sentence": "Stella and her circle was linked to what happened is this now and and what happened to Bruce Bruce Nichols life insurance policies revealed that Stalin would receive one hundred thousand dollars extra if the death of her husband was accidental they'll ever say anything about them having any many problems well yes because she was going to school and not working there for awhile and now it was getting pretty tight.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9119,
+            9123
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9132,
+            9135
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.555165,
+      "sentence": "Stella and her circle was linked to what happened is this now and and what happened to Bruce Bruce Nichols life insurance policies revealed that Stalin would receive one hundred thousand dollars extra if the death of her husband was accidental they'll ever say anything about them having any many problems well yes because she was going to school and not working there for awhile and now it was getting pretty tight.",
+      "type": "educatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9198,
+            9201
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9215,
+            9221
+          ],
+          "text": "school"
+        }
+      ]
+    },
+    {
+      "score": 0.830239,
+      "sentence": "In fact the Nichols were in serious financial trouble and had recently received a final delinquency notice on their home mortgage and on some other loans just five days before Bruce Nichols death Stalin Nicole wrote a series of letters to our creditors dear Sir.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bruce Bruce Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9468,
+            9481
+          ],
+          "text": "Bruce Nichols"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9502,
+            9507
+          ],
+          "text": "wrote"
+        }
+      ]
+    },
+    {
+      "score": 0.972162,
+      "sentence": "In fact the Nichols were in serious financial trouble and had recently received a final delinquency notice on their home mortgage and on some other loans just five days before Bruce Nichols death Stalin Nicole wrote a series of letters to our creditors dear Sir.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stalin Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9488,
+            9501
+          ],
+          "text": "Stalin Nicole"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9502,
+            9507
+          ],
+          "text": "wrote"
+        }
+      ]
+    },
+    {
+      "score": 0.578517,
+      "sentence": "On the day of sue's funeral Cyril looked for some headache medication and her sister's kitchen and found something suspicious the number of tickets said print tablet when we got there I went to the kitchen to get her acceptance tag.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Cyril",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2593,
+            2598
+          ],
+          "text": "Cyril"
+        },
+        {
+          "entities": [
+            {
+              "text": "funeral",
+              "type": "EventPerformance"
+            }
+          ],
+          "location": [
+            2585,
+            2592
+          ],
+          "text": "funeral"
+        }
+      ]
+    },
+    {
+      "score": 0.317924,
+      "sentence": "In fact the Nichols were in serious financial trouble and had recently received a final delinquency notice on their home mortgage and on some other loans just five days before Bruce Nichols death Stalin Nicole wrote a series of letters to our creditors dear Sir.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "creditors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9535,
+            9544
+          ],
+          "text": "creditors"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9531,
+            9534
+          ],
+          "text": "our"
+        }
+      ]
+    },
+    {
+      "score": 0.419646,
+      "sentence": "When F. B. I. handwriting expert Lee Waggoner studied the life insurance documents he noticed something suspicious Bruce Nichols signature on the life insurance application differed from his known signatures samples the end and Hey we're different from his normal signature the initial stroke the end begins about halfway up that in for N. as Bruce's in begins at the top.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lee Waggoner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9722,
+            9740
+          ],
+          "text": "handwriting expert"
+        },
+        {
+          "entities": [
+            {
+              "text": "F. B. I.",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9713,
+            9721
+          ],
+          "text": "F. B. I."
+        }
+      ]
+    },
+    {
+      "score": 0.791697,
+      "sentence": "When F. B. I. handwriting expert Lee Waggoner studied the life insurance documents he noticed something suspicious Bruce Nichols signature on the life insurance application differed from his known signatures samples the end and Hey we're different from his normal signature the initial stroke the end begins about halfway up that in for N. as Bruce's in begins at the top.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bruce Bruce Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9823,
+            9836
+          ],
+          "text": "Bruce Nichols"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9940,
+            9942
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.55154,
+      "sentence": "Of that in the final stroke on the signature in question ends up turning to the right below the baseline of writing in the signature in question it does not in the genuine signatures of Bruce but it was consistent with the waist down on Nicole signed her name investigators believe.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bruce Bruce Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10267,
+            10272
+          ],
+          "text": "Bruce"
+        },
+        {
+          "entities": [
+            {
+              "text": "stroke",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            10102,
+            10108
+          ],
+          "text": "stroke"
+        }
+      ]
+    },
+    {
+      "score": 0.405711,
+      "sentence": "Of that in the final stroke on the signature in question ends up turning to the right below the baseline of writing in the signature in question it does not in the genuine signatures of Bruce but it was consistent with the waist down on Nicole signed her name investigators believe.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stalin Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10332,
+            10335
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10341,
+            10354
+          ],
+          "text": "investigators"
+        }
+      ]
+    },
+    {
+      "score": 0.74244,
+      "sentence": "Forged her husband's signature on the insurance applications but money wasn't the only possible motive.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stalin Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10371,
+            10374
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "husband",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10375,
+            10382
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.754891,
+      "sentence": "Is she wasn't she didn't paint a picture been real dedicated to her husband the FBI interviewed Cindy and told her about the circumstantial evidence they had against her mother Cindy broke down.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stalin Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11024,
+            11027
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "husband",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11028,
+            11035
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.86382,
+      "sentence": "Donna and Bruce Nichol had always been a very social couple regularly visiting bars and nightspots with friends but all of that changed after Bruce entered an alcoholism treatment program and stop drinking all together after a period of time and got to work you know it wasn't the life that she envisioned because even though she was forty two or forty three years old she saw herself as a hot Babe still she wanted to be seen and get out there and held her back she spent more time in bars.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donna",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10468,
+            10473
+          ],
+          "text": "Donna"
+        },
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10521,
+            10527
+          ],
+          "text": "couple"
+        }
+      ]
+    },
+    {
+      "score": 0.788284,
+      "sentence": "Donna and Bruce Nichol had always been a very social couple regularly visiting bars and nightspots with friends but all of that changed after Bruce entered an alcoholism treatment program and stop drinking all together after a period of time and got to work you know it wasn't the life that she envisioned because even though she was forty two or forty three years old she saw herself as a hot Babe still she wanted to be seen and get out there and held her back she spent more time in bars.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bruce Bruce Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10478,
+            10490
+          ],
+          "text": "Bruce Nichol"
+        },
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10521,
+            10527
+          ],
+          "text": "couple"
+        }
+      ]
+    },
+    {
+      "score": 0.746382,
+      "sentence": "Donna and Bruce Nichol had always been a very social couple regularly visiting bars and nightspots with friends but all of that changed after Bruce entered an alcoholism treatment program and stop drinking all together after a period of time and got to work you know it wasn't the life that she envisioned because even though she was forty two or forty three years old she saw herself as a hot Babe still she wanted to be seen and get out there and held her back she spent more time in bars.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stalin Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10931,
+            10934
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "bars",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            10954,
+            10958
+          ],
+          "text": "bars"
+        }
+      ]
+    },
+    {
+      "score": 0.399859,
+      "sentence": "Is she wasn't she didn't paint a picture been real dedicated to her husband the FBI interviewed Cindy and told her about the circumstantial evidence they had against her mother Cindy broke down.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "husband",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11028,
+            11035
+          ],
+          "text": "husband"
+        },
+        {
+          "entities": [
+            {
+              "text": "FBI",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11040,
+            11043
+          ],
+          "text": "FBI"
+        }
+      ]
+    },
+    {
+      "score": 0.627195,
+      "sentence": "On the day of sue's funeral Cyril looked for some headache medication and her sister's kitchen and found something suspicious the number of tickets said print tablet when we got there I went to the kitchen to get her acceptance tag.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Cyril",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2593,
+            2598
+          ],
+          "text": "Cyril"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2736,
+            2738
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.610098,
+      "sentence": "Is she wasn't she didn't paint a picture been real dedicated to her husband the FBI interviewed Cindy and told her about the circumstantial evidence they had against her mother Cindy broke down.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "husband",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11028,
+            11035
+          ],
+          "text": "husband"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviewed",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            11044,
+            11055
+          ],
+          "text": "interviewed"
+        }
+      ]
+    },
+    {
+      "score": 0.559831,
+      "sentence": "Is she wasn't she didn't paint a picture been real dedicated to her husband the FBI interviewed Cindy and told her about the circumstantial evidence they had against her mother Cindy broke down.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "husband",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11028,
+            11035
+          ],
+          "text": "husband"
+        },
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11109,
+            11113
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.524926,
+      "sentence": "Is she wasn't she didn't paint a picture been real dedicated to her husband the FBI interviewed Cindy and told her about the circumstantial evidence they had against her mother Cindy broke down.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "FBI",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11040,
+            11043
+          ],
+          "text": "FBI"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviewed",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            11044,
+            11055
+          ],
+          "text": "interviewed"
+        }
+      ]
+    },
+    {
+      "score": 0.810543,
+      "sentence": "Is she wasn't she didn't paint a picture been real dedicated to her husband the FBI interviewed Cindy and told her about the circumstantial evidence they had against her mother Cindy broke down.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Cindy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11056,
+            11061
+          ],
+          "text": "Cindy"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviewed",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            11044,
+            11055
+          ],
+          "text": "interviewed"
+        }
+      ]
+    },
+    {
+      "score": 0.612977,
+      "sentence": "Is she wasn't she didn't paint a picture been real dedicated to her husband the FBI interviewed Cindy and told her about the circumstantial evidence they had against her mother Cindy broke down.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stalin Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11071,
+            11074
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11066,
+            11070
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.447841,
+      "sentence": "Is she wasn't she didn't paint a picture been real dedicated to her husband the FBI interviewed Cindy and told her about the circumstantial evidence they had against her mother Cindy broke down.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Cindy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11130,
+            11136
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11109,
+            11113
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.620467,
+      "sentence": "Is she wasn't she didn't paint a picture been real dedicated to her husband the FBI interviewed Cindy and told her about the circumstantial evidence they had against her mother Cindy broke down.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Cindy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11130,
+            11136
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Stalin Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11126,
+            11129
+          ],
+          "text": "her"
+        }
+      ]
+    },
+    {
+      "score": 0.633522,
+      "sentence": "Well yes my mom did kill Bruce I know for sure that she did because we had talked about it Cindy also told the FBI that her mother visited the library to research the subject of poison.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Cindy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11293,
+            11299
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Stalin Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11289,
+            11292
+          ],
+          "text": "her"
+        }
+      ]
+    },
+    {
+      "score": 0.430032,
+      "sentence": "Well yes my mom did kill Bruce I know for sure that she did because we had talked about it Cindy also told the FBI that her mother visited the library to research the subject of poison.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mom",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11181,
+            11184
+          ],
+          "text": "mom"
+        },
+        {
+          "entities": [
+            {
+              "text": "Stalin Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11178,
+            11180
+          ],
+          "text": "my"
+        }
+      ]
+    },
+    {
+      "score": 0.461116,
+      "sentence": "Well yes my mom did kill Bruce I know for sure that she did because we had talked about it Cindy also told the FBI that her mother visited the library to research the subject of poison.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stalin Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11221,
+            11224
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11237,
+            11239
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.596336,
+      "sentence": "Well yes my mom did kill Bruce I know for sure that she did because we had talked about it Cindy also told the FBI that her mother visited the library to research the subject of poison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stalin Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11221,
+            11224
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "talked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11244,
+            11250
+          ],
+          "text": "talked"
+        }
+      ]
+    },
+    {
+      "score": 0.418044,
+      "sentence": "On the day of sue's funeral Cyril looked for some headache medication and her sister's kitchen and found something suspicious the number of tickets said print tablet when we got there I went to the kitchen to get her acceptance tag.",
+      "type": "siblingOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2639,
+            2642
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Sarah Webb",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2643,
+            2649
+          ],
+          "text": "sister"
+        }
+      ]
+    },
+    {
+      "score": 0.601923,
+      "sentence": "Well yes my mom did kill Bruce I know for sure that she did because we had talked about it Cindy also told the FBI that her mother visited the library to research the subject of poison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11237,
+            11239
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "talked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11244,
+            11250
+          ],
+          "text": "talked"
+        }
+      ]
+    },
+    {
+      "score": 0.970373,
+      "sentence": "Well yes my mom did kill Bruce I know for sure that she did because we had talked about it Cindy also told the FBI that her mother visited the library to research the subject of poison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Cindy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11260,
+            11265
+          ],
+          "text": "Cindy"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11271,
+            11275
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.969001,
+      "sentence": "Well yes my mom did kill Bruce I know for sure that she did because we had talked about it Cindy also told the FBI that her mother visited the library to research the subject of poison.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "FBI",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11280,
+            11283
+          ],
+          "text": "FBI"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11271,
+            11275
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.866508,
+      "sentence": "Records at the Auburn public library revealed that Stella signed out a book entitled deadly harvest which lists various sources and methods of poisoning.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Auburn public library",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11370,
+            11391
+          ],
+          "text": "Auburn public library"
+        },
+        {
+          "entities": [
+            {
+              "text": "revealed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11392,
+            11400
+          ],
+          "text": "revealed"
+        }
+      ]
+    },
+    {
+      "score": 0.848088,
+      "sentence": "Records at the Auburn public library revealed that Stella signed out a book entitled deadly harvest which lists various sources and methods of poisoning.",
+      "type": "authorOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11406,
+            11412
+          ],
+          "text": "Stella"
+        },
+        {
+          "entities": [
+            {
+              "text": "book",
+              "type": "TitleWork"
+            }
+          ],
+          "location": [
+            11426,
+            11430
+          ],
+          "text": "book"
+        }
+      ]
+    },
+    {
+      "score": 0.788454,
+      "sentence": "Stella'S fingerprints were found all over the sections dealing with cyanide poisoning and were also found on the pages of various encyclopedia describing cyanide investigators now had enough circumstantial evidence to charge stellen Nichols with the murder of her husband and the FBI discovered why Stella Nichol murdered Seuss not a woman she didn't.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11671,
+            11684
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "describing",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11652,
+            11662
+          ],
+          "text": "describing"
+        }
+      ]
+    },
+    {
+      "score": 0.670953,
+      "sentence": "Stella'S fingerprints were found all over the sections dealing with cyanide poisoning and were also found on the pages of various encyclopedia describing cyanide investigators now had enough circumstantial evidence to charge stellen Nichols with the murder of her husband and the FBI discovered why Stella Nichol murdered Seuss not a woman she didn't.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11742,
+            11749
+          ],
+          "text": "Nichols"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11759,
+            11765
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.43294,
+      "sentence": "Stella'S fingerprints were found all over the sections dealing with cyanide poisoning and were also found on the pages of various encyclopedia describing cyanide investigators now had enough circumstantial evidence to charge stellen Nichols with the murder of her husband and the FBI discovered why Stella Nichol murdered Seuss not a woman she didn't.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11769,
+            11772
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11759,
+            11765
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.935032,
+      "sentence": "Stella'S fingerprints were found all over the sections dealing with cyanide poisoning and were also found on the pages of various encyclopedia describing cyanide investigators now had enough circumstantial evidence to charge stellen Nichols with the murder of her husband and the FBI discovered why Stella Nichol murdered Seuss not a woman she didn't.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11808,
+            11821
+          ],
+          "text": "Stella Nichol"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11822,
+            11830
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.912926,
+      "sentence": "Stella Nichol was convicted of two counts of murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14128,
+            14141
+          ],
+          "text": "Stella Nichol"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            14173,
+            14179
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.770826,
+      "sentence": "By the spring of nineteen eighty six Telenet Cole had grown tired of her money problems and what she considered to be a boring existence with her husband Bruce she hatched a plan to murder her husband and collect on his life insurance policies which would pay a hundred thousand dollars extra if his death was accidental.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stalin Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12003,
+            12006
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Bruce Bruce Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12007,
+            12014
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.803605,
+      "sentence": "By the spring of nineteen eighty six Telenet Cole had grown tired of her money problems and what she considered to be a boring existence with her husband Bruce she hatched a plan to murder her husband and collect on his life insurance policies which would pay a hundred thousand dollars extra if his death was accidental.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stalin Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12050,
+            12053
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Bruce Bruce Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12054,
+            12061
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.814071,
+      "sentence": "After putting the cyanide into the headache capsules she placed the bottle among her husband's other medications.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stalin Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12614,
+            12617
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Bruce Bruce Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12618,
+            12625
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.828877,
+      "sentence": "By the spring of nineteen eighty six Telenet Cole had grown tired of her money problems and what she considered to be a boring existence with her husband Bruce she hatched a plan to murder her husband and collect on his life insurance policies which would pay a hundred thousand dollars extra if his death was accidental.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stalin Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12021,
+            12024
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12043,
+            12049
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.405515,
+      "sentence": "By the spring of nineteen eighty six Telenet Cole had grown tired of her money problems and what she considered to be a boring existence with her husband Bruce she hatched a plan to murder her husband and collect on his life insurance policies which would pay a hundred thousand dollars extra if his death was accidental.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bruce Bruce Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12054,
+            12061
+          ],
+          "text": "husband"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12043,
+            12049
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.604286,
+      "sentence": "On the day of sue's funeral Cyril looked for some headache medication and her sister's kitchen and found something suspicious the number of tickets said print tablet when we got there I went to the kitchen to get her acceptance tag.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sarah Webb",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2643,
+            2649
+          ],
+          "text": "sister"
+        },
+        {
+          "entities": [
+            {
+              "text": "kitchen",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2652,
+            2659
+          ],
+          "text": "kitchen"
+        }
+      ]
+    },
+    {
+      "score": 0.521371,
+      "sentence": "She never suspected that the tiny green L. decide crystals would mix with the cyanide and lied to her capture.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stalin Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12520,
+            12523
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "lied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12512,
+            12516
+          ],
+          "text": "lied"
+        }
+      ]
+    },
+    {
+      "score": 0.774225,
+      "sentence": "Bruce suffered from chronic headaches.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bruce Bruce Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12647,
+            12652
+          ],
+          "text": "Bruce"
+        },
+        {
+          "entities": [
+            {
+              "text": "chronic headaches",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            12667,
+            12684
+          ],
+          "text": "chronic headaches"
+        }
+      ]
+    },
+    {
+      "score": 0.835834,
+      "sentence": "A coroner mistakenly ruled that it was due to natural causes a mistake which deprives Tom up an additional one hundred thousand dollars of life insurance money.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "coroner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12714,
+            12721
+          ],
+          "text": "coroner"
+        },
+        {
+          "entities": [
+            {
+              "text": "ruled",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12733,
+            12738
+          ],
+          "text": "ruled"
+        }
+      ]
+    },
+    {
+      "score": 0.59499,
+      "sentence": "A coroner mistakenly ruled that it was due to natural causes a mistake which deprives Tom up an additional one hundred thousand dollars of life insurance money.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tom Noonan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12798,
+            12801
+          ],
+          "text": "Tom"
+        },
+        {
+          "entities": [
+            {
+              "text": "ruled",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12733,
+            12738
+          ],
+          "text": "ruled"
+        }
+      ]
+    },
+    {
+      "score": 0.788953,
+      "sentence": "Stella needed an excuse some reason to have her husband's autopsy tissues examined.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12917,
+            12920
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Bruce Bruce Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12921,
+            12928
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.62938,
+      "sentence": "She placed three more bottles of cyanide laced pain reliever on the shelves to storage near her home.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stella Nichols",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13153,
+            13156
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13157,
+            13161
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.800221,
+      "sentence": "Someone in the snow household purchased one of those bottles.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Someone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13163,
+            13170
+          ],
+          "text": "Someone"
+        },
+        {
+          "entities": [
+            {
+              "text": "household",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13183,
+            13192
+          ],
+          "text": "household"
+        }
+      ]
+    },
+    {
+      "score": 0.487759,
+      "sentence": "You know that sister yours didn't get home till this morning Susan took two capsules from that bottle one morning before work.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "yours",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13246,
+            13251
+          ],
+          "text": "yours"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13263,
+            13267
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.44807,
+      "sentence": "When the cyanide was discovered during since knows autopsy and traced to the eccentric capsules in her home Stefanek call have the excuse she needed to ask that her husband's case be reopened she got away with murder once.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "yours",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13520,
+            13523
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13524,
+            13528
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.693259,
+      "sentence": "When the cyanide was discovered during since knows autopsy and traced to the eccentric capsules in her home Stefanek call have the excuse she needed to ask that her husband's case be reopened she got away with murder once.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13524,
+            13528
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "Stefanek",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13529,
+            13537
+          ],
+          "text": "Stefanek"
+        }
+      ]
+    }
+  ]
+}

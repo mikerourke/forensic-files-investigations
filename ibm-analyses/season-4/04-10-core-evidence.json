@@ -1,0 +1,3902 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 16000,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Michael Beverly",
+      "relevance": 0.951718,
+      "confidence": 1,
+      "count": 6
+    },
+    {
+      "type": "Company",
+      "text": "Odwalla",
+      "relevance": 0.872574,
+      "confidence": 1,
+      "count": 8,
+      "disambiguation": {
+        "name": "Odwalla",
+        "dbpedia_resource": "http://dbpedia.org/resource/Odwalla",
+        "subtype": [
+          "Organization",
+          "Brand"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Michael",
+      "relevance": 0.546575,
+      "confidence": 1,
+      "count": 7
+    },
+    {
+      "type": "Quantity",
+      "text": "sixteen month",
+      "relevance": 0.518938,
+      "confidence": 0.9984,
+      "count": 4
+    },
+    {
+      "type": "Location",
+      "text": "Seattle",
+      "relevance": 0.467014,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "HealthCondition",
+      "text": "diarrhea",
+      "relevance": 0.463259,
+      "confidence": 0.999975,
+      "count": 3,
+      "disambiguation": {
+        "name": "Diarrhea",
+        "dbpedia_resource": "http://dbpedia.org/resource/Diarrhea",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "DiseaseCause",
+          "RiskFactor",
+          "Symptom",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "HealthCondition",
+      "text": "hemolytic uremic syndrome",
+      "relevance": 0.463236,
+      "confidence": 0.979913,
+      "count": 2,
+      "disambiguation": {
+        "name": "Hemolytic-uremic_syndrome",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hemolytic-uremic_syndrome",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "RiskFactor",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Kelly Beverly",
+      "relevance": 0.371964,
+      "confidence": 0.958195,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Beverly Michael",
+      "relevance": 0.361448,
+      "confidence": 0.357313,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kiner",
+      "relevance": 0.332954,
+      "confidence": 0.99972,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Brianne Kiner",
+      "relevance": 0.324498,
+      "confidence": 0.999382,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "developed hemolytic uremic syndrome",
+      "relevance": 0.320842,
+      "confidence": 0.19724,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "coma",
+      "relevance": 0.310467,
+      "confidence": 0.999897,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "seven days",
+      "relevance": 0.298481,
+      "confidence": 0.992,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Dr Mansoor Samad",
+      "relevance": 0.289114,
+      "confidence": 0.977743,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Lindesay kalo",
+      "relevance": 0.284688,
+      "confidence": 0.410017,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Russ Alexander",
+      "relevance": 0.256475,
+      "confidence": 0.739404,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Anna",
+      "relevance": 0.245677,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Dr Cody",
+      "relevance": 0.19809,
+      "confidence": 0.999234,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty minutes",
+      "relevance": 0.194314,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "sepsis",
+      "relevance": 0.181827,
+      "confidence": 0.940782,
+      "count": 1,
+      "disambiguation": {
+        "name": "Sepsis",
+        "dbpedia_resource": "http://dbpedia.org/resource/Sepsis",
+        "subtype": [
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "six weeks",
+      "relevance": 0.15579,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Terry",
+      "relevance": 0.155179,
+      "confidence": 0.999917,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "John Smith",
+      "relevance": 0.153204,
+      "confidence": 0.998772,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Odwalla distribution center",
+      "relevance": 0.138652,
+      "confidence": 0.280581,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Anna chemist",
+      "relevance": 0.133588,
+      "confidence": 0.95603,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Colorado",
+      "relevance": 0.132274,
+      "confidence": 0.999833,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "North America",
+      "relevance": 0.125451,
+      "confidence": 0.991369,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Washington",
+      "relevance": 0.123589,
+      "confidence": 0.997827,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "apple",
+      "relevance": 0.117457,
+      "confidence": 0.983934,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "nineteen ninety six three weeks",
+      "relevance": 0.115582,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Sarah Cody",
+      "relevance": 0.112251,
+      "confidence": 0.992584,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "US army",
+      "relevance": 0.11072,
+      "confidence": 0.974828,
+      "count": 3,
+      "disambiguation": {
+        "name": "United_States_Army",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Army",
+        "subtype": [
+          "ArmedForce",
+          "VideoGameDeveloper",
+          "VideoGamePublisher"
+        ]
+      }
+    },
+    {
+      "type": "Organization",
+      "text": "California department of health",
+      "relevance": 0.11062,
+      "confidence": 0.635023,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "nine days",
+      "relevance": 0.098445,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Smith",
+      "relevance": 0.097085,
+      "confidence": 0.997659,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Oswald",
+      "relevance": 0.089698,
+      "confidence": 0.984935,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one week",
+      "relevance": 0.08926,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Beverly",
+      "relevance": 0.087601,
+      "confidence": 0.707842,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Denver",
+      "relevance": 0.081078,
+      "confidence": 0.999628,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "British Columbia",
+      "relevance": 0.081007,
+      "confidence": 0.853761,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Evans",
+      "relevance": 0.070944,
+      "confidence": 0.372855,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "William Marler",
+      "relevance": 0.066052,
+      "confidence": 0.980601,
+      "count": 1,
+      "disambiguation": {
+        "name": "William_Marler",
+        "dbpedia_resource": "http://dbpedia.org/resource/William_Marler"
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "two weeks",
+      "relevance": 0.06219,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Frank",
+      "relevance": 0.057211,
+      "confidence": 0.994454,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "relevance": 0.050832,
+      "confidence": 0.985963,
+      "count": 2,
+      "disambiguation": {
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Wallace",
+      "relevance": 0.027895,
+      "confidence": 0.78223,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "army",
+      "relevance": 0.023213,
+      "confidence": 0.97551,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "million dollars",
+      "relevance": 0.019598,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "northwest",
+      "relevance": 0.00805,
+      "confidence": 0.932377,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "E. coli",
+      "relevance": 0.005205,
+      "confidence": 0.590037,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Wallace",
+      "relevance": 0.000997,
+      "confidence": 0.996427,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/health and fitness/disease",
+      "score": 0.909412
+    },
+    {
+      "label": "/food and drink",
+      "score": 0.876625
+    },
+    {
+      "label": "/food and drink/food",
+      "score": 0.836762
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.694079
+    },
+    {
+      "label": "/family and parenting/babies and toddlers/baby food",
+      "score": 0.659743
+    },
+    {
+      "label": "/food and drink/food/fast food",
+      "score": 0.613538
+    },
+    {
+      "label": "/health and fitness/disease/epidemic",
+      "score": 0.597739
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.516714
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.606252,
+      "sentence": "In nineteen ninety six more than a dozen children in Seattle Washington were seriously ill and fighting for their lives all gripped by a mysterious illness.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            41,
+            49
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "Seattle Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            53,
+            71
+          ],
+          "text": "Seattle Washington"
+        }
+      ]
+    },
+    {
+      "score": 0.713063,
+      "sentence": "Michael stool sample was sent to the laboratory for testing doctors were online when they found a potentially deadly pathogen known as E. coli O.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael stool sample",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1165,
+            1185
+          ],
+          "text": "Michael stool sample"
+        },
+        {
+          "entities": [
+            {
+              "text": "laboratory",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1202,
+            1212
+          ],
+          "text": "laboratory"
+        }
+      ]
+    },
+    {
+      "score": 0.995991,
+      "sentence": "When I found out it was the strain of E. coli and I ask me with the same strain that affected the kids and Jack in the box he said just Michael has the same strain and I said oh my god what do you call a one five seven is in a widely disseminated vehicle out for out in the population for general consumption it's like the the serial murders potentially loosen the population.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1822,
+            1823
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "ask",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1824,
+            1827
+          ],
+          "text": "ask"
+        }
+      ]
+    },
+    {
+      "score": 0.52505,
+      "sentence": "When I found out it was the strain of E. coli and I ask me with the same strain that affected the kids and Jack in the box he said just Michael has the same strain and I said oh my god what do you call a one five seven is in a widely disseminated vehicle out for out in the population for general consumption it's like the the serial murders potentially loosen the population.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1828,
+            1830
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "ask",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1824,
+            1827
+          ],
+          "text": "ask"
+        }
+      ]
+    },
+    {
+      "score": 0.986234,
+      "sentence": "When I found out it was the strain of E. coli and I ask me with the same strain that affected the kids and Jack in the box he said just Michael has the same strain and I said oh my god what do you call a one five seven is in a widely disseminated vehicle out for out in the population for general consumption it's like the the serial murders potentially loosen the population.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jack",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1895,
+            1897
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1898,
+            1902
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.99142,
+      "sentence": "When I found out it was the strain of E. coli and I ask me with the same strain that affected the kids and Jack in the box he said just Michael has the same strain and I said oh my god what do you call a one five seven is in a widely disseminated vehicle out for out in the population for general consumption it's like the the serial murders potentially loosen the population.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1940,
+            1941
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1942,
+            1946
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.598648,
+      "sentence": "one five seven from undercooked hamburger purchased at the Jack in the box restaurant she was in a coma for six weeks.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Beverly Michael",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2290,
+            2293
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "restaurant",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2279,
+            2289
+          ],
+          "text": "restaurant"
+        }
+      ]
+    },
+    {
+      "score": 0.829479,
+      "sentence": "Although Brianne Kiner eventually came out of her coma most of our major organs were damaged and she'll need a kidney transplant when she's older.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brianne Kiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2540,
+            2553
+          ],
+          "text": "Brianne Kiner"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2594,
+            2597
+          ],
+          "text": "our"
+        }
+      ]
+    },
+    {
+      "score": 0.857577,
+      "sentence": "Although Brianne Kiner eventually came out of her coma most of our major organs were damaged and she'll need a kidney transplant when she's older.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Beverly Michael",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2577,
+            2580
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2594,
+            2597
+          ],
+          "text": "our"
+        }
+      ]
+    },
+    {
+      "score": 0.54171,
+      "sentence": "Michael Beverly also developed hemolytic uremic syndrome which can cause brain damage kidney damage sepsis and death.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael Beverly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2678,
+            2693
+          ],
+          "text": "Michael Beverly"
+        },
+        {
+          "entities": [
+            {
+              "text": "brain damage kidney",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            2751,
+            2770
+          ],
+          "text": "brain damage kidney"
+        }
+      ]
+    },
+    {
+      "score": 0.939367,
+      "sentence": "Doctors immediately placed Michael on kidney dialysis to cleanse his body of toxins politically maximum is life threatening of all the kinds of diary is a child and otherwise healthy child as you can get in North America almost none will live cause of death or could cause of death except for this one.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Beverly Michael",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2823,
+            2830
+          ],
+          "text": "Michael"
+        },
+        {
+          "entities": [
+            {
+              "text": "kidney dialysis",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            2834,
+            2849
+          ],
+          "text": "kidney dialysis"
+        }
+      ]
+    },
+    {
+      "score": 0.281633,
+      "sentence": "Terry and Kelly Beverly both work in the computer industry and have two children a son Michael and a daughter the team after a leisurely day of playing in the woods Michael complained of pain in his stomach later he had on troll diarrhea when his diarrhea contains blood.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael stool sample",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            364,
+            367
+          ],
+          "text": "son"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            353,
+            361
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.53485,
+      "sentence": "Doctors immediately placed Michael on kidney dialysis to cleanse his body of toxins politically maximum is life threatening of all the kinds of diary is a child and otherwise healthy child as you can get in North America almost none will live cause of death or could cause of death except for this one.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jack",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2861,
+            2864
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "kidney dialysis",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            2834,
+            2849
+          ],
+          "text": "kidney dialysis"
+        }
+      ]
+    },
+    {
+      "score": 0.986917,
+      "sentence": "That'S why this one is so a fearsome once he gets into a person the kidney specialist came in and he said it's very serious and he might not pull through the night it's up to his lower body and then that's when I just broke down I came out no I start crying immediately I guess I just said this is it.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jack",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3197,
+            3199
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3200,
+            3204
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.778074,
+      "sentence": "That'S why this one is so a fearsome once he gets into a person the kidney specialist came in and he said it's very serious and he might not pull through the night it's up to his lower body and then that's when I just broke down I came out no I start crying immediately I guess I just said this is it.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jack",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3377,
+            3378
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3384,
+            3388
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.851182,
+      "sentence": "As Michael Beverly lay near death in a Seattle hospital medical investigators were still trying to figure out how he came into contact with this deadly path.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospitals",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3448,
+            3456
+          ],
+          "text": "hospital"
+        },
+        {
+          "entities": [
+            {
+              "text": "Seattle Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3440,
+            3447
+          ],
+          "text": "Seattle"
+        }
+      ]
+    },
+    {
+      "score": 0.845657,
+      "sentence": "Two and a half year old Michael Beverly lay unconscious and near death in a Seattle hospital twelve more children were admitted to local hospitals all diagnosed with the same deadly pathogens E. coli O.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospitals",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3643,
+            3651
+          ],
+          "text": "hospital"
+        },
+        {
+          "entities": [
+            {
+              "text": "Seattle Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3635,
+            3642
+          ],
+          "text": "Seattle"
+        }
+      ]
+    },
+    {
+      "score": 0.40097,
+      "sentence": "As Michael Beverly lay near death in a Seattle hospital medical investigators were still trying to figure out how he came into contact with this deadly path.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3465,
+            3478
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospitals",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3448,
+            3456
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.479376,
+      "sentence": "Two and a half year old Michael Beverly lay unconscious and near death in a Seattle hospital twelve more children were admitted to local hospitals all diagnosed with the same deadly pathogens E. coli O.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            3559,
+            3562
+          ],
+          "text": "Two"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3664,
+            3672
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.750388,
+      "sentence": "Two and a half year old Michael Beverly lay unconscious and near death in a Seattle hospital twelve more children were admitted to local hospitals all diagnosed with the same deadly pathogens E. coli O.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael Beverly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3583,
+            3598
+          ],
+          "text": "Michael Beverly"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospitals",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3643,
+            3651
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.414119,
+      "sentence": "Two and a half year old Michael Beverly lay unconscious and near death in a Seattle hospital twelve more children were admitted to local hospitals all diagnosed with the same deadly pathogens E. coli O.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3664,
+            3672
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospitals",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3643,
+            3651
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.634509,
+      "sentence": "Two and a half year old Michael Beverly lay unconscious and near death in a Seattle hospital twelve more children were admitted to local hospitals all diagnosed with the same deadly pathogens E. coli O.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3664,
+            3672
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3678,
+            3686
+          ],
+          "text": "admitted"
+        }
+      ]
+    },
+    {
+      "score": 0.407758,
+      "sentence": "one five seven investigators needed to find the source of the outbreak before even more people were in.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3904,
+            3910
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            3878,
+            3886
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.488952,
+      "sentence": "Dr Mansoor Samad pours job was to see if you could identify the exact strain coli that infected the children to find out he turned to something usually used for criminal investigations D. N. A. testing Lindesay kalo five seven it's a very large clan they lost family or tribe in the E. coli species when will the genetic fingerprinting we can go to the individuals in that family.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "D. N. A.",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4350,
+            4358
+          ],
+          "text": "D. N. A."
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4265,
+            4273
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.494841,
+      "sentence": "Terry and Kelly Beverly both work in the computer industry and have two children a son Michael and a daughter the team after a leisurely day of playing in the woods Michael complained of pain in his stomach later he had on troll diarrhea when his diarrhea contains blood.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            382,
+            390
+          ],
+          "text": "daughter"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            353,
+            361
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.711618,
+      "sentence": "Dr Mansoor Samad pours job was to see if you could identify the exact strain coli that infected the children to find out he turned to something usually used for criminal investigations D. N. A. testing Lindesay kalo five seven it's a very large clan they lost family or tribe in the E. coli species when will the genetic fingerprinting we can go to the individuals in that family.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "D. N. A.",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4350,
+            4358
+          ],
+          "text": "D. N. A."
+        },
+        {
+          "entities": [
+            {
+              "text": "investigations",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            4335,
+            4349
+          ],
+          "text": "investigations"
+        }
+      ]
+    },
+    {
+      "score": 0.692259,
+      "sentence": "Killed someone else we can say that John Smith with social security number of such and such living in such and such place committed the crime.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "someone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4633,
+            4640
+          ],
+          "text": "someone"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4653,
+            4656
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.547785,
+      "sentence": "Killed someone else we can say that John Smith with social security number of such and such living in such and such place committed the crime.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4646,
+            4648
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4653,
+            4656
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.203432,
+      "sentence": "We had nine patients that had E. coli O.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5364,
+            5366
+          ],
+          "text": "We"
+        },
+        {
+          "entities": [
+            {
+              "text": "patients families",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5376,
+            5384
+          ],
+          "text": "patients"
+        }
+      ]
+    },
+    {
+      "score": 0.657827,
+      "sentence": "Dr Russ Alexander's job was to figure out what was causing the outbreak the standard method is to employ what's called a case control study investigators question all of the patients families to find out what the victims had consumed five to seven days before first developing symptoms they also compared those answers to what others in the same family consumed who were not infected I really think he was a this was probably a meat sauce because that's what mostly is what it is so weak looking for everything they've eaten and what kind of restaurants they've been to what kind of fast food restaurants in particular the initial interview did not reveal any one food items at all had there was something in common with these individuals that made these individuals failed on the other hand the preliminary interview did not produce any obvious",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "others",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5955,
+            5961
+          ],
+          "text": "others"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5974,
+            5980
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.365062,
+      "sentence": "Dr Russ Alexander's job was to figure out what was causing the outbreak the standard method is to employ what's called a case control study investigators question all of the patients families to find out what the victims had consumed five to seven days before first developing symptoms they also compared those answers to what others in the same family consumed who were not infected I really think he was a this was probably a meat sauce because that's what mostly is what it is so weak looking for everything they've eaten and what kind of restaurants they've been to what kind of fast food restaurants in particular the initial interview did not reveal any one food items at all had there was something in common with these individuals that made these individuals failed on the other hand the preliminary interview did not produce any obvious",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "restaurants",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6170,
+            6181
+          ],
+          "text": "restaurants"
+        },
+        {
+          "entities": [
+            {
+              "text": "restaurants",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6221,
+            6232
+          ],
+          "text": "restaurants"
+        }
+      ]
+    },
+    {
+      "score": 0.543541,
+      "sentence": "Dr Russ Alexander's job was to figure out what was causing the outbreak the standard method is to employ what's called a case control study investigators question all of the patients families to find out what the victims had consumed five to seven days before first developing symptoms they also compared those answers to what others in the same family consumed who were not infected I really think he was a this was probably a meat sauce because that's what mostly is what it is so weak looking for everything they've eaten and what kind of restaurants they've been to what kind of fast food restaurants in particular the initial interview did not reveal any one food items at all had there was something in common with these individuals that made these individuals failed on the other hand the preliminary interview did not produce any obvious",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6182,
+            6186
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "restaurants",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6221,
+            6232
+          ],
+          "text": "restaurants"
+        }
+      ]
+    },
+    {
+      "score": 0.563689,
+      "sentence": "Dr Russ Alexander's job was to figure out what was causing the outbreak the standard method is to employ what's called a case control study investigators question all of the patients families to find out what the victims had consumed five to seven days before first developing symptoms they also compared those answers to what others in the same family consumed who were not infected I really think he was a this was probably a meat sauce because that's what mostly is what it is so weak looking for everything they've eaten and what kind of restaurants they've been to what kind of fast food restaurants in particular the initial interview did not reveal any one food items at all had there was something in common with these individuals that made these individuals failed on the other hand the preliminary interview did not produce any obvious",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individuals",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6383,
+            6394
+          ],
+          "text": "individuals"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            6436,
+            6445
+          ],
+          "text": "interview"
+        }
+      ]
+    },
+    {
+      "score": 0.860647,
+      "sentence": "sources of infection.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sources",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6474,
+            6481
+          ],
+          "text": "sources"
+        },
+        {
+          "entities": [
+            {
+              "text": "brain damage kidney",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            6485,
+            6494
+          ],
+          "text": "infection"
+        }
+      ]
+    },
+    {
+      "score": 0.354978,
+      "sentence": "One of the six children was a vegetarian we had this one case that was a clear cut case or was a vegetarian family and there was no chance of any meat in this particular instance so we quickly realize we're into something else.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "vegetarian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6677,
+            6687
+          ],
+          "text": "vegetarian"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6688,
+            6694
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.868187,
+      "sentence": "Terry and Kelly Beverly both work in the computer industry and have two children a son Michael and a daughter the team after a leisurely day of playing in the woods Michael complained of pain in his stomach later he had on troll diarrhea when his diarrhea contains blood.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael stool sample",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            446,
+            453
+          ],
+          "text": "Michael"
+        },
+        {
+          "entities": [
+            {
+              "text": "complained",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            454,
+            464
+          ],
+          "text": "complained"
+        }
+      ]
+    },
+    {
+      "score": 0.565899,
+      "sentence": "When Seattle health officials discovered the apple juice was consumed by the E. coli patients they need to find out which brand and there were hundreds of brands on the market but their next clue came from an unexpected source.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "health officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7473,
+            7489
+          ],
+          "text": "health officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "Seattle Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7465,
+            7472
+          ],
+          "text": "Seattle"
+        }
+      ]
+    },
+    {
+      "score": 0.306197,
+      "sentence": "When Seattle health officials discovered the apple juice was consumed by the E. coli patients they need to find out which brand and there were hundreds of brands on the market but their next clue came from an unexpected source.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "E. coli O",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7537,
+            7544
+          ],
+          "text": "E. coli"
+        },
+        {
+          "entities": [
+            {
+              "text": "patients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7545,
+            7553
+          ],
+          "text": "patients"
+        }
+      ]
+    },
+    {
+      "score": 0.597411,
+      "sentence": "In Denver Colorado doctors were treating a desperately ill sixteen month old girl named Anna give a stack.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7707,
+            7714
+          ],
+          "text": "doctors"
+        },
+        {
+          "entities": [
+            {
+              "text": "Denver Colorado",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7691,
+            7706
+          ],
+          "text": "Denver Colorado"
+        }
+      ]
+    },
+    {
+      "score": 0.579213,
+      "sentence": "one five seven infections and her parents told doctors that they have been in Seattle just one week earlier.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Anna",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7853,
+            7856
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7857,
+            7864
+          ],
+          "text": "parents"
+        }
+      ]
+    },
+    {
+      "score": 0.965063,
+      "sentence": "one five seven infections and her parents told doctors that they have been in Seattle just one week earlier.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7857,
+            7864
+          ],
+          "text": "parents"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7865,
+            7869
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.929988,
+      "sentence": "one five seven infections and her parents told doctors that they have been in Seattle just one week earlier.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7870,
+            7877
+          ],
+          "text": "doctors"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7865,
+            7869
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.65609,
+      "sentence": "one five seven infections and her parents told doctors that they have been in Seattle just one week earlier.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7883,
+            7887
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "Seattle Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7901,
+            7908
+          ],
+          "text": "Seattle"
+        }
+      ]
+    },
+    {
+      "score": 0.833597,
+      "sentence": "The Beverly family also recalled feeding their son Michael the same brand from a neighborhood coffee shop this one particular Sunday I went up and stood in line and you know to order our drinks and I saw them prepared and I last when we used to use a while for the kids in the cold yeah hello further investigation revealed that the other victims also consumed Odwalla apple juice five to seven days before developing symptoms.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8083,
+            8089
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "Beverly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8075,
+            8082
+          ],
+          "text": "Beverly"
+        }
+      ]
+    },
+    {
+      "score": 0.799271,
+      "sentence": "The Beverly family also recalled feeding their son Michael the same brand from a neighborhood coffee shop this one particular Sunday I went up and stood in line and you know to order our drinks and I saw them prepared and I last when we used to use a while for the kids in the cold yeah hello further investigation revealed that the other victims also consumed Odwalla apple juice five to seven days before developing symptoms.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael stool sample",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8118,
+            8121
+          ],
+          "text": "son"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8112,
+            8117
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.450895,
+      "sentence": "The Beverly family also recalled feeding their son Michael the same brand from a neighborhood coffee shop this one particular Sunday I went up and stood in line and you know to order our drinks and I saw them prepared and I last when we used to use a while for the kids in the cold yeah hello further investigation revealed that the other victims also consumed Odwalla apple juice five to seven days before developing symptoms.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Beverly Michael",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8122,
+            8129
+          ],
+          "text": "Michael"
+        },
+        {
+          "entities": [
+            {
+              "text": "Michael stool sample",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8118,
+            8121
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.754865,
+      "sentence": "Terry and Kelly Beverly both work in the computer industry and have two children a son Michael and a daughter the team after a leisurely day of playing in the woods Michael complained of pain in his stomach later he had on troll diarrhea when his diarrhea contains blood.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael stool sample",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            494,
+            496
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "diarrhea",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            510,
+            518
+          ],
+          "text": "diarrhea"
+        }
+      ]
+    },
+    {
+      "score": 0.901546,
+      "sentence": "Terry and Kelly Beverly both work in the computer industry and have two children a son Michael and a daughter the team after a leisurely day of playing in the woods Michael complained of pain in his stomach later he had on troll diarrhea when his diarrhea contains blood.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael stool sample",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            524,
+            527
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "diarrhea",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            528,
+            536
+          ],
+          "text": "diarrhea"
+        }
+      ]
+    },
+    {
+      "score": 0.631629,
+      "sentence": "The Beverly family also recalled feeding their son Michael the same brand from a neighborhood coffee shop this one particular Sunday I went up and stood in line and you know to order our drinks and I saw them prepared and I last when we used to use a while for the kids in the cold yeah hello further investigation revealed that the other victims also consumed Odwalla apple juice five to seven days before developing symptoms.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Beverly Michael",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8122,
+            8129
+          ],
+          "text": "Michael"
+        },
+        {
+          "entities": [
+            {
+              "text": "coffee shop",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8165,
+            8176
+          ],
+          "text": "coffee shop"
+        }
+      ]
+    },
+    {
+      "score": 0.897466,
+      "sentence": "The Beverly family also recalled feeding their son Michael the same brand from a neighborhood coffee shop this one particular Sunday I went up and stood in line and you know to order our drinks and I saw them prepared and I last when we used to use a while for the kids in the cold yeah hello further investigation revealed that the other victims also consumed Odwalla apple juice five to seven days before developing symptoms.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "coffee shop",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8165,
+            8176
+          ],
+          "text": "coffee shop"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            8152,
+            8164
+          ],
+          "text": "neighborhood"
+        }
+      ]
+    },
+    {
+      "score": 0.89453,
+      "sentence": "Just nine days after the outbreak health officials asked the Odwalla company to voluntarily remove their product from store shelves the company complied even though there was no conclusive proof that Oswald was the source of the outbreak as you know.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "nine days after",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            8945,
+            8960
+          ],
+          "text": "nine days after"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8991,
+            8996
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.699292,
+      "sentence": "Just nine days after the outbreak health officials asked the Odwalla company to voluntarily remove their product from store shelves the company complied even though there was no conclusive proof that Oswald was the source of the outbreak as you know.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "health officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8974,
+            8990
+          ],
+          "text": "health officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            8965,
+            8973
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.981112,
+      "sentence": "Just nine days after the outbreak health officials asked the Odwalla company to voluntarily remove their product from store shelves the company complied even though there was no conclusive proof that Oswald was the source of the outbreak as you know.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "health officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8974,
+            8990
+          ],
+          "text": "health officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8991,
+            8996
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.436737,
+      "sentence": "Just nine days after the outbreak health officials asked the Odwalla company to voluntarily remove their product from store shelves the company complied even though there was no conclusive proof that Oswald was the source of the outbreak as you know.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Odwalla distribution center",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9001,
+            9008
+          ],
+          "text": "Odwalla"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8991,
+            8996
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.718984,
+      "sentence": "Just nine days after the outbreak health officials asked the Odwalla company to voluntarily remove their product from store shelves the company complied even though there was no conclusive proof that Oswald was the source of the outbreak as you know.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9009,
+            9016
+          ],
+          "text": "company"
+        },
+        {
+          "entities": [
+            {
+              "text": "Odwalla distribution center",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9001,
+            9008
+          ],
+          "text": "Odwalla"
+        }
+      ]
+    },
+    {
+      "score": 0.506695,
+      "sentence": "Just nine days after the outbreak health officials asked the Odwalla company to voluntarily remove their product from store shelves the company complied even though there was no conclusive proof that Oswald was the source of the outbreak as you know.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Oswald",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9155,
+            9161
+          ],
+          "text": "source"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            9169,
+            9177
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.831352,
+      "sentence": "All our pricing came out which is our primary concern is for the health and welfare of our consumers.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "health officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9282,
+            9291
+          ],
+          "text": "consumers"
+        },
+        {
+          "entities": [
+            {
+              "text": "itself",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9278,
+            9281
+          ],
+          "text": "our"
+        }
+      ]
+    },
+    {
+      "score": 0.722758,
+      "sentence": "News that the source may have been apple juice was little relief to the chemist at family and Evans Colorado sixteen month old and I was taking a turn for the worse like some of the other victims and the developed hemolytic uremic syndrome a complication of the E. coli infection produces toxins that shut down the kidneys.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sixteen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9402,
+            9409
+          ],
+          "text": "sixteen"
+        },
+        {
+          "entities": [
+            {
+              "text": "Denver Colorado",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9393,
+            9401
+          ],
+          "text": "Colorado"
+        }
+      ]
+    },
+    {
+      "score": 0.510418,
+      "sentence": "The Beverly Michael to a hospital emergency room where doctors discovered that his blood count had dropped to dangerous levels his kidneys were failing and life threatening clouds were forming in his blood.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Beverly Michael",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            795,
+            810
+          ],
+          "text": "Beverly Michael"
+        },
+        {
+          "entities": [
+            {
+              "text": "room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            835,
+            839
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.890076,
+      "sentence": "News that the source may have been apple juice was little relief to the chemist at family and Evans Colorado sixteen month old and I was taking a turn for the worse like some of the other victims and the developed hemolytic uremic syndrome a complication of the E. coli infection produces toxins that shut down the kidneys.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "E. coli O",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9555,
+            9562
+          ],
+          "text": "E. coli"
+        },
+        {
+          "entities": [
+            {
+              "text": "brain damage kidney",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            9563,
+            9572
+          ],
+          "text": "infection"
+        }
+      ]
+    },
+    {
+      "score": 0.981369,
+      "sentence": "Just knowing that there was a sixteen month old that died I was very that just to me I knew he was I thought he was going to die to be Frank I said this is that he's going to die and although investigators discovered that all of the affected individuals had consumed Odwalla juice there was no proof that the Jews was the source of the outbreak the proof if there was any would be in the juice itself thousands of bottles of Odwalla juice were tested for E. coli O.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Frank I",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9839,
+            9846
+          ],
+          "text": "Frank I"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9847,
+            9851
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.415374,
+      "sentence": "Just knowing that there was a sixteen month old that died I was very that just to me I knew he was I thought he was going to die to be Frank I said this is that he's going to die and although investigators discovered that all of the affected individuals had consumed Odwalla juice there was no proof that the Jews was the source of the outbreak the proof if there was any would be in the juice itself thousands of bottles of Odwalla juice were tested for E. coli O.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "E. coli O",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10159,
+            10168
+          ],
+          "text": "E. coli O"
+        },
+        {
+          "entities": [
+            {
+              "text": "Odwalla distribution center",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10129,
+            10142
+          ],
+          "text": "Odwalla juice"
+        }
+      ]
+    },
+    {
+      "score": 0.485419,
+      "sentence": "Medical investigators were starting to wonder whether they were ever going to find scientific proof that the apple juice was the source of the outbreak.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "source",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10358,
+            10364
+          ],
+          "text": "source"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            10372,
+            10380
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.584935,
+      "sentence": "One of the coli victims remembered drinking Odwalla apple juice shortly before getting sick but investigators couldn't find the E. coli bacteria in any of the Odwalla juice bottles they tested but on November fourth nineteen ninety six at the Odwalla distribution center investigators found one bottle of apple juice that tested positive for E. coli O.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "E. coli O",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10510,
+            10517
+          ],
+          "text": "E. coli"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            10614,
+            10617
+          ],
+          "text": "six"
+        }
+      ]
+    },
+    {
+      "score": 0.857105,
+      "sentence": "One of the coli victims remembered drinking Odwalla apple juice shortly before getting sick but investigators couldn't find the E. coli bacteria in any of the Odwalla juice bottles they tested but on November fourth nineteen ninety six at the Odwalla distribution center investigators found one bottle of apple juice that tested positive for E. coli O.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10653,
+            10666
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "Odwalla distribution center",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10625,
+            10652
+          ],
+          "text": "Odwalla distribution center"
+        }
+      ]
+    },
+    {
+      "score": 0.654992,
+      "sentence": "S. army considered serving Odwalla juice to military personnel but after an inspection of the Odwalla processing plant military investigators stated that old Wallace plant sanitation program does not adequately assure product wholesomeness for military consumers the army raided the bacterial levels in the Jews as too high.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13185,
+            13198
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "Odwalla distribution center",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13151,
+            13158
+          ],
+          "text": "Odwalla"
+        }
+      ]
+    },
+    {
+      "score": 0.957208,
+      "sentence": "The needle out of about a hundred haystack spread across most western United States.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "western",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            11466,
+            11473
+          ],
+          "text": "western"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11474,
+            11487
+          ],
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "score": 0.970134,
+      "sentence": "The label revealed the Jews had been bottled on October seventh nineteen ninety six three weeks before the outbreak company records identified the orchard whose apples were used to make the juice that day.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Odwalla distribution center",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11493,
+            11498
+          ],
+          "text": "label"
+        },
+        {
+          "entities": [
+            {
+              "text": "revealed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11499,
+            11507
+          ],
+          "text": "revealed"
+        }
+      ]
+    },
+    {
+      "score": 0.78268,
+      "sentence": "The label revealed the Jews had been bottled on October seventh nineteen ninety six three weeks before the outbreak company records identified the orchard whose apples were used to make the juice that day.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11605,
+            11612
+          ],
+          "text": "company"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            11596,
+            11604
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.84263,
+      "sentence": "The label revealed the Jews had been bottled on October seventh nineteen ninety six three weeks before the outbreak company records identified the orchard whose apples were used to make the juice that day.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "orchard",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11636,
+            11643
+          ],
+          "text": "orchard"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            11596,
+            11604
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.486352,
+      "sentence": "The Beverly Michael to a hospital emergency room where doctors discovered that his blood count had dropped to dangerous levels his kidneys were failing and life threatening clouds were forming in his blood.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospitals",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            816,
+            824
+          ],
+          "text": "hospital"
+        },
+        {
+          "entities": [
+            {
+              "text": "room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            835,
+            839
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.774565,
+      "sentence": "Dr Sarah Cody an epidemic intelligence officer with the California department of health went to the orchard to investigate we were wandering in the orchard and what we noticed was along the edge of the orchard there were a number of deer prints in the sand.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sarah Cody",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11734,
+            11741
+          ],
+          "text": "officer"
+        },
+        {
+          "entities": [
+            {
+              "text": "intelligence",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11721,
+            11733
+          ],
+          "text": "intelligence"
+        }
+      ]
+    },
+    {
+      "score": 0.506753,
+      "sentence": "Dr Sarah Cody an epidemic intelligence officer with the California department of health went to the orchard to investigate we were wandering in the orchard and what we noticed was along the edge of the orchard there were a number of deer prints in the sand.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sarah Cody",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11734,
+            11741
+          ],
+          "text": "officer"
+        },
+        {
+          "entities": [
+            {
+              "text": "intelligence",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11762,
+            11772
+          ],
+          "text": "department"
+        }
+      ]
+    },
+    {
+      "score": 0.99419,
+      "sentence": "Dr Sarah Cody an epidemic intelligence officer with the California department of health went to the orchard to investigate we were wandering in the orchard and what we noticed was along the edge of the orchard there were a number of deer prints in the sand.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "intelligence",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11762,
+            11772
+          ],
+          "text": "department"
+        },
+        {
+          "entities": [
+            {
+              "text": "California",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11751,
+            11761
+          ],
+          "text": "California"
+        }
+      ]
+    },
+    {
+      "score": 0.663574,
+      "sentence": "Dr Sarah Cody an epidemic intelligence officer with the California department of health went to the orchard to investigate we were wandering in the orchard and what we noticed was along the edge of the orchard there were a number of deer prints in the sand.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11818,
+            11820
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "orchard",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11843,
+            11850
+          ],
+          "text": "orchard"
+        }
+      ]
+    },
+    {
+      "score": 0.806069,
+      "sentence": "The E. coli from the deer droppings was then sent for DNA testing but it did not match the E. coli strain that infected the thirteen children it's possible that there could have been one dear our number of deer that were shedding one strain or more than one strain so perhaps we just isolated the wrong strain.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "E. coli O",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12294,
+            12301
+          ],
+          "text": "E. coli"
+        },
+        {
+          "entities": [
+            {
+              "text": "deer",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12311,
+            12315
+          ],
+          "text": "deer"
+        }
+      ]
+    },
+    {
+      "score": 0.557552,
+      "sentence": "The E. coli from the deer droppings was then sent for DNA testing but it did not match the E. coli strain that infected the thirteen children it's possible that there could have been one dear our number of deer that were shedding one strain or more than one strain so perhaps we just isolated the wrong strain.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "E. coli O",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12381,
+            12388
+          ],
+          "text": "E. coli"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12423,
+            12431
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.954391,
+      "sentence": "We got the wrong dear got the wrong order the old one the company says that it's against their policy to purchase apples that were picked up from the ground even though I'm all a claim to have documents signed documents from their suppliers that they did not use ground apples or apples from the ground.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12659,
+            12666
+          ],
+          "text": "company"
+        },
+        {
+          "entities": [
+            {
+              "text": "stated",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12667,
+            12671
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.980579,
+      "sentence": "S. army considered serving Odwalla juice to military personnel but after an inspection of the Odwalla processing plant military investigators stated that old Wallace plant sanitation program does not adequately assure product wholesomeness for military consumers the army raided the bacterial levels in the Jews as too high.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13185,
+            13198
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "stated",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13199,
+            13205
+          ],
+          "text": "stated"
+        }
+      ]
+    },
+    {
+      "score": 0.951336,
+      "sentence": "S. army considered serving Odwalla juice to military personnel but after an inspection of the Odwalla processing plant military investigators stated that old Wallace plant sanitation program does not adequately assure product wholesomeness for military consumers the army raided the bacterial levels in the Jews as too high.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "army",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13324,
+            13328
+          ],
+          "text": "army"
+        },
+        {
+          "entities": [
+            {
+              "text": "raided",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            13329,
+            13335
+          ],
+          "text": "raided"
+        }
+      ]
+    },
+    {
+      "score": 0.973138,
+      "sentence": "S. army report found its way into the hands of the attorney representing the victims of the E. coli outbreak William Marler of Wallace trying to sell.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "army",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13400,
+            13404
+          ],
+          "text": "army"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13405,
+            13411
+          ],
+          "text": "report"
+        }
+      ]
+    },
+    {
+      "score": 0.577999,
+      "sentence": "S. army report found its way into the hands of the attorney representing the victims of the E. coli outbreak William Marler of Wallace trying to sell.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Attorney General",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13448,
+            13456
+          ],
+          "text": "attorney"
+        },
+        {
+          "entities": [
+            {
+              "text": "company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13418,
+            13421
+          ],
+          "text": "its"
+        }
+      ]
+    },
+    {
+      "score": 0.283202,
+      "sentence": "The Beverly Michael to a hospital emergency room where doctors discovered that his blood count had dropped to dangerous levels his kidneys were failing and life threatening clouds were forming in his blood.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            846,
+            853
+          ],
+          "text": "doctors"
+        },
+        {
+          "entities": [
+            {
+              "text": "room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            840,
+            845
+          ],
+          "text": "where"
+        }
+      ]
+    },
+    {
+      "score": 0.634558,
+      "sentence": "S. army report found its way into the hands of the attorney representing the victims of the E. coli outbreak William Marler of Wallace trying to sell.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "E. coli O",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13489,
+            13496
+          ],
+          "text": "E. coli"
+        },
+        {
+          "entities": [
+            {
+              "text": "patients families",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13474,
+            13481
+          ],
+          "text": "victims"
+        }
+      ]
+    },
+    {
+      "score": 0.756364,
+      "sentence": "S. army report found its way into the hands of the attorney representing the victims of the E. coli outbreak William Marler of Wallace trying to sell.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patients families",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13474,
+            13481
+          ],
+          "text": "victims"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            13497,
+            13505
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.952055,
+      "sentence": "S. army report found its way into the hands of the attorney representing the victims of the E. coli outbreak William Marler of Wallace trying to sell.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "William Marler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13506,
+            13520
+          ],
+          "text": "William Marler"
+        },
+        {
+          "entities": [
+            {
+              "text": "patients families",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13474,
+            13481
+          ],
+          "text": "victims"
+        }
+      ]
+    },
+    {
+      "score": 0.747463,
+      "sentence": "S. army report found its way into the hands of the attorney representing the victims of the E. coli outbreak William Marler of Wallace trying to sell.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wallace",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13524,
+            13531
+          ],
+          "text": "Wallace"
+        },
+        {
+          "entities": [
+            {
+              "text": "patients families",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13474,
+            13481
+          ],
+          "text": "victims"
+        }
+      ]
+    },
+    {
+      "score": 0.457877,
+      "sentence": "While the Jews to the US army no not as a bacteriological weapons.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individuals",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13558,
+            13562
+          ],
+          "text": "Jews"
+        },
+        {
+          "entities": [
+            {
+              "text": "army",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13573,
+            13577
+          ],
+          "text": "army"
+        }
+      ]
+    },
+    {
+      "score": 0.995833,
+      "sentence": "While the Jews to the US army no not as a bacteriological weapons.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "army",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13573,
+            13577
+          ],
+          "text": "army"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13570,
+            13572
+          ],
+          "text": "US"
+        }
+      ]
+    },
+    {
+      "score": 0.889469,
+      "sentence": "The United States Attorney General's office took the unprecedented step of indicting Odwalla in a criminal prosecution the charge delivering adulterated food products for interstate commerce and when we find a company that has knowingly placed contaminated food into the stream of commerce we're going to prosecute that company and we're going to put the individuals in jail.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Attorney General",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13730,
+            13746
+          ],
+          "text": "Attorney General"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13716,
+            13729
+          ],
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "score": 0.904856,
+      "sentence": "The United States Attorney General's office took the unprecedented step of indicting Odwalla in a criminal prosecution the charge delivering adulterated food products for interstate commerce and when we find a company that has knowingly placed contaminated food into the stream of commerce we're going to prosecute that company and we're going to put the individuals in jail.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "office",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13749,
+            13755
+          ],
+          "text": "office"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13716,
+            13729
+          ],
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "score": 0.938115,
+      "sentence": "The United States Attorney General's office took the unprecedented step of indicting Odwalla in a criminal prosecution the charge delivering adulterated food products for interstate commerce and when we find a company that has knowingly placed contaminated food into the stream of commerce we're going to prosecute that company and we're going to put the individuals in jail.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Attorney General",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13730,
+            13746
+          ],
+          "text": "Attorney General"
+        },
+        {
+          "entities": [
+            {
+              "text": "office",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13749,
+            13755
+          ],
+          "text": "office"
+        }
+      ]
+    },
+    {
+      "score": 0.803628,
+      "sentence": "The United States Attorney General's office took the unprecedented step of indicting Odwalla in a criminal prosecution the charge delivering adulterated food products for interstate commerce and when we find a company that has knowingly placed contaminated food into the stream of commerce we're going to prosecute that company and we're going to put the individuals in jail.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Odwalla distribution center",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13797,
+            13804
+          ],
+          "text": "Odwalla"
+        },
+        {
+          "entities": [
+            {
+              "text": "prosecution",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13819,
+            13830
+          ],
+          "text": "prosecution"
+        }
+      ]
+    },
+    {
+      "score": 0.388313,
+      "sentence": "Two bloody diarrhea otherwise healthy child is an important medical problem and physicians here and elsewhere work that up very aggressively take that very seriously.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "physicians",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1078,
+            1088
+          ],
+          "text": "physicians"
+        },
+        {
+          "entities": [
+            {
+              "text": "woods",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1089,
+            1093
+          ],
+          "text": "here"
+        }
+      ]
+    },
+    {
+      "score": 0.730176,
+      "sentence": "The United States Attorney General's office took the unprecedented step of indicting Odwalla in a criminal prosecution the charge delivering adulterated food products for interstate commerce and when we find a company that has knowingly placed contaminated food into the stream of commerce we're going to prosecute that company and we're going to put the individuals in jail.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individuals",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14067,
+            14078
+          ],
+          "text": "individuals"
+        },
+        {
+          "entities": [
+            {
+              "text": "jail",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14082,
+            14086
+          ],
+          "text": "jail"
+        }
+      ]
+    },
+    {
+      "score": 0.556906,
+      "sentence": "And that's a very strong lesson and it's one that that does the people that manufacture food in this country ought to take to heart.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14152,
+            14158
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14189,
+            14196
+          ],
+          "text": "country"
+        }
+      ]
+    },
+    {
+      "score": 0.881331,
+      "sentence": "In July of nineteen ninety eight do wanna pleaded guilty and was fined one and a half million dollars the largest penalty ever imposed in a food poisoning case.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "July of nineteen ninety eight",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            14224,
+            14253
+          ],
+          "text": "July of nineteen ninety eight"
+        },
+        {
+          "entities": [
+            {
+              "text": "pleaded guilty",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14263,
+            14277
+          ],
+          "text": "pleaded guilty"
+        }
+      ]
+    },
+    {
+      "score": 0.436138,
+      "sentence": "But for the family of sixteen month old and again the stats that was too little too late there's no amount of monetary penalties or jail time it is ever going to bring back little Anna or make the other dozen or so children that were severely injured hold again so from that standpoint I don't think that there was a possible settlement that would have been satisfactory E. coli O.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14457,
+            14463
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "sixteen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14467,
+            14474
+          ],
+          "text": "sixteen"
+        }
+      ]
+    },
+    {
+      "score": 0.419136,
+      "sentence": "But for the family of sixteen month old and again the stats that was too little too late there's no amount of monetary penalties or jail time it is ever going to bring back little Anna or make the other dozen or so children that were severely injured hold again so from that standpoint I don't think that there was a possible settlement that would have been satisfactory E. coli O.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Anna",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14625,
+            14629
+          ],
+          "text": "Anna"
+        },
+        {
+          "entities": [
+            {
+              "text": "jail",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14577,
+            14581
+          ],
+          "text": "jail"
+        }
+      ]
+    },
+    {
+      "score": 0.500555,
+      "sentence": "A safe effective technology was not employed and to the detriment of children in the northwest.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15197,
+            15205
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "northwest",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            15213,
+            15222
+          ],
+          "text": "northwest"
+        }
+      ]
+    },
+    {
+      "score": 0.495244,
+      "sentence": "The families of the victims filed suit against.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "families",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15228,
+            15236
+          ],
+          "text": "families"
+        },
+        {
+          "entities": [
+            {
+              "text": "filed",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            15252,
+            15257
+          ],
+          "text": "filed"
+        }
+      ]
+    },
+    {
+      "score": 0.703976,
+      "sentence": "The families of the victims filed suit against.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patients families",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15244,
+            15251
+          ],
+          "text": "victims"
+        },
+        {
+          "entities": [
+            {
+              "text": "filed",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            15252,
+            15257
+          ],
+          "text": "filed"
+        }
+      ]
+    },
+    {
+      "score": 0.345545,
+      "sentence": "And settled with the company before going to trial.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            15293,
+            15300
+          ],
+          "text": "company"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            15317,
+            15322
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.292005,
+      "sentence": "It was the effects of E. coli toxin in his body enough is a system that's what almost killed in.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "E. coli O",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15630,
+            15633
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Beverly Michael",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15634,
+            15638
+          ],
+          "text": "body"
+        }
+      ]
+    }
+  ]
+}

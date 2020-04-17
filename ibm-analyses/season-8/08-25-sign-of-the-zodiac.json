@@ -1,0 +1,5878 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 13998,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Location",
+      "text": "New York City",
+      "relevance": 0.951589,
+      "confidence": 1,
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Larry Parham",
+      "relevance": 0.834803,
+      "confidence": 0.99992,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Ryan",
+      "relevance": 0.819747,
+      "confidence": 1,
+      "count": 7
+    },
+    {
+      "type": "Location",
+      "text": "new York",
+      "relevance": 0.759021,
+      "confidence": 1,
+      "count": 6,
+      "disambiguation": {
+        "name": "Province_of_New_York",
+        "dbpedia_resource": "http://dbpedia.org/resource/Province_of_New_York"
+      }
+    },
+    {
+      "type": "Location",
+      "text": "San Francisco",
+      "relevance": 0.712376,
+      "confidence": 0.999999,
+      "count": 4
+    },
+    {
+      "type": "Quantity",
+      "text": "nineteen ninety forty nine year",
+      "relevance": 0.672497,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mario Racicot",
+      "relevance": 0.671445,
+      "confidence": 0.95958,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "forty year",
+      "relevance": 0.664742,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "Thirty four year",
+      "relevance": 0.662317,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "mountain H. Rowe",
+      "relevance": 0.66059,
+      "confidence": 0.320476,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "seventy eight year",
+      "relevance": 0.646696,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "deac",
+      "relevance": 0.527731,
+      "confidence": 0.222511,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "sixty three day",
+      "relevance": 0.520594,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three week",
+      "relevance": 0.518308,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Gregory mac bluff",
+      "relevance": 0.50669,
+      "confidence": 0.81215,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty one day",
+      "relevance": 0.504337,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "six years",
+      "relevance": 0.453592,
+      "confidence": 0.992,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Florio",
+      "relevance": 0.430763,
+      "confidence": 0.999972,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "New York City police department",
+      "relevance": 0.419433,
+      "confidence": 0.215081,
+      "count": 1,
+      "disambiguation": {
+        "name": "New_York_City_Police_Department",
+        "dbpedia_resource": "http://dbpedia.org/resource/New_York_City_Police_Department",
+        "subtype": [
+          "GovernmentAgency"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Brooklyn",
+      "relevance": 0.38689,
+      "confidence": 0.999718,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty nine year",
+      "relevance": 0.37802,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Patricia Fonti",
+      "relevance": 0.377054,
+      "confidence": 0.993199,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Highland Park",
+      "relevance": 0.373415,
+      "confidence": 0.987987,
+      "count": 2,
+      "disambiguation": {
+        "name": "Highland_Park_%28Meridian%2C_Mississippi%29",
+        "dbpedia_resource": "http://dbpedia.org/resource/Highland_Park_%28Meridian%2C_Mississippi%29",
+        "subtype": [
+          "Location"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Joseph dia Kong",
+      "relevance": 0.373402,
+      "confidence": 0.912679,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Pleiades",
+      "relevance": 0.371901,
+      "confidence": 0.817859,
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "New York Post",
+      "relevance": 0.365981,
+      "confidence": 0.941838,
+      "count": 1,
+      "disambiguation": {
+        "name": "New_York_Post",
+        "dbpedia_resource": "http://dbpedia.org/resource/New_York_Post",
+        "subtype": [
+          "AwardWinner",
+          "Newspaper"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "James Weber",
+      "relevance": 0.36026,
+      "confidence": 0.997652,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Roscoe",
+      "relevance": 0.357677,
+      "confidence": 0.947615,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eight forty year",
+      "relevance": 0.348151,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Diane Ballard",
+      "relevance": 0.347189,
+      "confidence": 0.992996,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Twenty five years",
+      "relevance": 0.343777,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty five years",
+      "relevance": 0.321318,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Central Park",
+      "relevance": 0.318951,
+      "confidence": 0.951333,
+      "count": 2,
+      "disambiguation": {
+        "name": "Central_Park_%28shopping_complex%29",
+        "dbpedia_resource": "http://dbpedia.org/resource/Central_Park_%28shopping_complex%29",
+        "subtype": [
+          "Location",
+          "ShoppingCenter"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "Three weeks",
+      "relevance": 0.316126,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "queens",
+      "relevance": 0.307086,
+      "confidence": 0.811256,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Two months",
+      "relevance": 0.299555,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Captain Joseph Herbert",
+      "relevance": 0.271383,
+      "confidence": 0.949612,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Three months",
+      "relevance": 0.269117,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty six year",
+      "relevance": 0.218092,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Manhattan",
+      "relevance": 0.207771,
+      "confidence": 0.965389,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Joseph",
+      "relevance": 0.204916,
+      "confidence": 0.99864,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Tricia",
+      "relevance": 0.203979,
+      "confidence": 0.996284,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "California",
+      "relevance": 0.186892,
+      "confidence": 0.998359,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "cancer",
+      "relevance": 0.157353,
+      "confidence": 0.968287,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Crowley",
+      "relevance": 0.151544,
+      "confidence": 0.999921,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two years",
+      "relevance": 0.143199,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "six seven hour",
+      "relevance": 0.110233,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Amanda",
+      "relevance": 0.107175,
+      "confidence": 0.995881,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three hours",
+      "relevance": 0.105652,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Eddie",
+      "relevance": 0.104907,
+      "confidence": 1,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Eddie Saito",
+      "relevance": 0.082867,
+      "confidence": 0.997843,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "One day",
+      "relevance": 0.076209,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Reese",
+      "relevance": 0.056918,
+      "confidence": 0.997021,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two hundred thirty two years",
+      "relevance": 0.023032,
+      "confidence": 0.8,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.898841
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.841609
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.678715
+    },
+    {
+      "label": "/law, govt and politics/law enforcement",
+      "score": 0.670067
+    },
+    {
+      "label": "/art and entertainment/shows and events",
+      "score": 0.640647
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.626458
+    },
+    {
+      "label": "/society/unrest and war",
+      "score": 0.618052
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.610863
+    },
+    {
+      "label": "/business and industrial/business operations/business plans",
+      "score": 0.567577
+    },
+    {
+      "label": "/family and parenting/parenting teens",
+      "score": 0.566774
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.815944,
+      "sentence": "For six years a serial killer prowl the streets of New York City hunting his victims.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "serial killer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16,
+            29
+          ],
+          "text": "serial killer"
+        },
+        {
+          "entities": [
+            {
+              "text": "streets",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            40,
+            47
+          ],
+          "text": "streets"
+        }
+      ]
+    },
+    {
+      "score": 0.499854,
+      "sentence": "Thirty four year old factory worker from on mountain H. Rowe was walking home after a serious night of drinking when someone shot him in the back.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            696,
+            701
+          ],
+          "text": "night"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            727,
+            731
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.356249,
+      "sentence": "When the woman ran out to confront her brother shot the budgets for the shot.",
+      "type": "siblingOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amanda",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9788,
+            9791
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9792,
+            9799
+          ],
+          "text": "brother"
+        }
+      ]
+    },
+    {
+      "score": 0.18838,
+      "sentence": "The police arrive to discover the man was holding his sister's boyfriend hostage.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amanda",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9885,
+            9891
+          ],
+          "text": "sister"
+        },
+        {
+          "entities": [
+            {
+              "text": "boyfriend",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9894,
+            9903
+          ],
+          "text": "boyfriend"
+        }
+      ]
+    },
+    {
+      "score": 0.973694,
+      "sentence": "behind one sided though he's on the other side of the I'm talking to him and I'm trying to articulate to him that enough damage has been done at about three hours he indicated to me that he wanted to cement.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph Herbert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9967,
+            9968
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "talking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9971,
+            9978
+          ],
+          "text": "talking"
+        }
+      ]
+    },
+    {
+      "score": 0.822509,
+      "sentence": "behind one sided though he's on the other side of the I'm talking to him and I'm trying to articulate to him that enough damage has been done at about three hours he indicated to me that he wanted to cement.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Parham",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9982,
+            9985
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "talking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9971,
+            9978
+          ],
+          "text": "talking"
+        }
+      ]
+    },
+    {
+      "score": 0.522517,
+      "sentence": "behind one sided though he's on the other side of the I'm talking to him and I'm trying to articulate to him that enough damage has been done at about three hours he indicated to me that he wanted to cement.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "three hours",
+              "type": "Duration"
+            }
+          ],
+          "location": [
+            10064,
+            10075
+          ],
+          "text": "three hours"
+        },
+        {
+          "entities": [
+            {
+              "text": "indicated",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10079,
+            10088
+          ],
+          "text": "indicated"
+        }
+      ]
+    },
+    {
+      "score": 0.995156,
+      "sentence": "behind one sided though he's on the other side of the I'm talking to him and I'm trying to articulate to him that enough damage has been done at about three hours he indicated to me that he wanted to cement.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Parham",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10076,
+            10078
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "indicated",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10079,
+            10088
+          ],
+          "text": "indicated"
+        }
+      ]
+    },
+    {
+      "score": 0.713074,
+      "sentence": "behind one sided though he's on the other side of the I'm talking to him and I'm trying to articulate to him that enough damage has been done at about three hours he indicated to me that he wanted to cement.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph Herbert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10092,
+            10094
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "indicated",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10079,
+            10088
+          ],
+          "text": "indicated"
+        }
+      ]
+    },
+    {
+      "score": 0.918265,
+      "sentence": "but convinced him to put all of his weapons in buckets police lowered from the roof to his apartment window and he surrendered.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Parham",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10153,
+            10156
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "weapons",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            10157,
+            10164
+          ],
+          "text": "weapons"
+        }
+      ]
+    },
+    {
+      "score": 0.95297,
+      "sentence": "His name was Eddie say a twenty six year old high school drop out unemployed who is still living at home with his mother and younger sister.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eddie Saito",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10262,
+            10267
+          ],
+          "text": "Eddie"
+        },
+        {
+          "entities": [
+            {
+              "text": "Say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10268,
+            10271
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.405814,
+      "sentence": "His name was Eddie say a twenty six year old high school drop out unemployed who is still living at home with his mother and younger sister.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amanda",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10326,
+            10329
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10349,
+            10353
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.424416,
+      "sentence": "Thirty four year old factory worker from on mountain H. Rowe was walking home after a serious night of drinking when someone shot him in the back.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "serial killer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            732,
+            735
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            727,
+            731
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.683609,
+      "sentence": "His name was Eddie say a twenty six year old high school drop out unemployed who is still living at home with his mother and younger sister.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amanda",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10363,
+            10369
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Larry Parham",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10359,
+            10362
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.642045,
+      "sentence": "At headquarters police casts a debt to provide a written statement describing what happened inside his apartment.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10510,
+            10516
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "describing",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10561,
+            10571
+          ],
+          "text": "describing"
+        }
+      ]
+    },
+    {
+      "score": 0.663195,
+      "sentence": "At headquarters police casts a debt to provide a written statement describing what happened inside his apartment.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Parham",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10593,
+            10596
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10597,
+            10606
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.923668,
+      "sentence": "What'S this and he said that that was a symbol for god and god's love for something.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Parham",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10707,
+            10709
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10710,
+            10714
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.798312,
+      "sentence": "And alert police officer asked hostage negotiator Joseph her but to have a look.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10793,
+            10800
+          ],
+          "text": "officer"
+        },
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10786,
+            10792
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.993961,
+      "sentence": "And alert police officer asked hostage negotiator Joseph her but to have a look.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10793,
+            10800
+          ],
+          "text": "officer"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10801,
+            10806
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.664615,
+      "sentence": "And alert police officer asked hostage negotiator Joseph her but to have a look.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph dia Kong",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10815,
+            10825
+          ],
+          "text": "negotiator"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10801,
+            10806
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.600446,
+      "sentence": "Its prince were then compared with the print left on the letter in Central Park.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prince",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10990,
+            10996
+          ],
+          "text": "prince"
+        },
+        {
+          "entities": [
+            {
+              "text": "Its",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10986,
+            10989
+          ],
+          "text": "Its"
+        }
+      ]
+    },
+    {
+      "score": 0.97919,
+      "sentence": "Next handwriting experts compared the handwriting from the zodiac's letters to say this known handwriting samples.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "handwriting experts",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11088,
+            11107
+          ],
+          "text": "handwriting experts"
+        },
+        {
+          "entities": [
+            {
+              "text": "compared",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11108,
+            11116
+          ],
+          "text": "compared"
+        }
+      ]
+    },
+    {
+      "score": 0.981764,
+      "sentence": "When ballistics experts compared the bullets from the victims to those fired from say the zip gun.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "handwriting experts",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11748,
+            11766
+          ],
+          "text": "ballistics experts"
+        },
+        {
+          "entities": [
+            {
+              "text": "compared",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11767,
+            11775
+          ],
+          "text": "compared"
+        }
+      ]
+    },
+    {
+      "score": 0.98879,
+      "sentence": "The experts concluded they were written by the same.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "handwriting experts",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11202,
+            11209
+          ],
+          "text": "experts"
+        },
+        {
+          "entities": [
+            {
+              "text": "concluded",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11210,
+            11219
+          ],
+          "text": "concluded"
+        }
+      ]
+    },
+    {
+      "score": 0.537136,
+      "sentence": "Two months later a short distance away in queens seventy eight year old Joe pro she was about to open the door to his apartment when he was shot with a nine millimeter is it done.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "she",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1028,
+            1031
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1066,
+            1075
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.844845,
+      "sentence": "The experts concluded they were written by the same.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "handwriting experts",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11220,
+            11224
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "written",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11230,
+            11237
+          ],
+          "text": "written"
+        }
+      ]
+    },
+    {
+      "score": 0.572762,
+      "sentence": "When ballistics experts compared the bullets from the victims to those fired from say the zip gun.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "zip",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11833,
+            11836
+          ],
+          "text": "zip"
+        },
+        {
+          "entities": [
+            {
+              "text": "gun",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            11837,
+            11840
+          ],
+          "text": "gun"
+        }
+      ]
+    },
+    {
+      "score": 0.964645,
+      "sentence": "Finally police asked say there for a blood sample for DNA testing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11891,
+            11897
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11898,
+            11903
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.795229,
+      "sentence": "Detectives sever Reese had the pleasure of telling say to a new his true identity.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Reese",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12038,
+            12043
+          ],
+          "text": "Reese"
+        },
+        {
+          "entities": [
+            {
+              "text": "plainclothes",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12021,
+            12031
+          ],
+          "text": "Detectives"
+        }
+      ]
+    },
+    {
+      "score": 0.729416,
+      "sentence": "Detectives sever Reese had the pleasure of telling say to a new his true identity.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12072,
+            12075
+          ],
+          "text": "say"
+        },
+        {
+          "entities": [
+            {
+              "text": "telling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12064,
+            12071
+          ],
+          "text": "telling"
+        }
+      ]
+    },
+    {
+      "score": 0.970823,
+      "sentence": "Look if you for six years and I said you're the zodiac.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "zip",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12134,
+            12135
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12136,
+            12140
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.760905,
+      "sentence": "That was beginning of you six seven hour interrogation on the subject shootings until finally to give it up it took offense to it.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12182,
+            12185
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "interrogation",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            12201,
+            12214
+          ],
+          "text": "interrogation"
+        }
+      ]
+    },
+    {
+      "score": 0.217063,
+      "sentence": "Ironically on the day of his sister shooting for Ryan and the seven sisters were over hand they just weren't visible in the overcast sky.",
+      "type": "siblingOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12536,
+            12539
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Amanda",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12540,
+            12546
+          ],
+          "text": "sister"
+        }
+      ]
+    },
+    {
+      "score": 0.369542,
+      "sentence": "Ironically on the day of his sister shooting for Ryan and the seven sisters were over hand they just weren't visible in the overcast sky.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ryan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12560,
+            12564
+          ],
+          "text": "Ryan"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12547,
+            12555
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.514983,
+      "sentence": "Ironically on the day of his sister shooting for Ryan and the seven sisters were over hand they just weren't visible in the overcast sky.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sisters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12579,
+            12586
+          ],
+          "text": "sisters"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12547,
+            12555
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.411305,
+      "sentence": "And he said it was a cat with he attacked his victim from the vehicle he shot them for no reason other than that he could.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sisters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13736,
+            13740
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13731,
+            13735
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.358097,
+      "sentence": "Two months later a short distance away in queens seventy eight year old Joe pro she was about to open the door to his apartment when he was shot with a nine millimeter is it done.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1062,
+            1065
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1066,
+            1075
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.574872,
+      "sentence": "Eddie Saito was charged with shooting six people and killing three others.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eddie Saito",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12649,
+            12660
+          ],
+          "text": "Eddie Saito"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12665,
+            12672
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.936147,
+      "sentence": "Eddie Saito was charged with shooting six people and killing three others.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eddie Saito",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12649,
+            12660
+          ],
+          "text": "Eddie Saito"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12678,
+            12686
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.873961,
+      "sentence": "And he said it was a cat with he attacked his victim from the vehicle he shot them for no reason other than that he could.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eddie Saito",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13688,
+            13690
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13691,
+            13699
+          ],
+          "text": "attacked"
+        }
+      ]
+    },
+    {
+      "score": 0.812451,
+      "sentence": "And he said it was a cat with he attacked his victim from the vehicle he shot them for no reason other than that he could.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eddie Saito",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13728,
+            13730
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13731,
+            13735
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.421926,
+      "sentence": "Eddie Saito was charged with shooting six people and killing three others.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eddie Saito",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12649,
+            12660
+          ],
+          "text": "Eddie Saito"
+        },
+        {
+          "entities": [
+            {
+              "text": "others",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12716,
+            12722
+          ],
+          "text": "others"
+        }
+      ]
+    },
+    {
+      "score": 0.836804,
+      "sentence": "Eddie Saito was charged with shooting six people and killing three others.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12691,
+            12697
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12678,
+            12686
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.379094,
+      "sentence": "Eddie Saito was charged with shooting six people and killing three others.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "others",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12716,
+            12722
+          ],
+          "text": "others"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12678,
+            12686
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.477875,
+      "sentence": "Eddie Saito was charged with shooting six people and killing three others.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12691,
+            12697
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "others",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12716,
+            12722
+          ],
+          "text": "others"
+        }
+      ]
+    },
+    {
+      "score": 0.498305,
+      "sentence": "Prosecutors had so much forensic evidence they had a hard time deciding how to hold the jury centrist we weren't certain that the public at large would be as interested in all of this forensic evidence and we were curious about how the jury would receive it and ultimately we we ultimately set aside a week that we just referred to as forensic week were shocked to see the jury sat on the edge of their seats.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "centrist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12817,
+            12825
+          ],
+          "text": "centrist"
+        },
+        {
+          "entities": [
+            {
+              "text": "jury",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12812,
+            12816
+          ],
+          "text": "jury"
+        }
+      ]
+    },
+    {
+      "score": 0.468594,
+      "sentence": "Prosecutors had so much forensic evidence they had a hard time deciding how to hold the jury centrist we weren't certain that the public at large would be as interested in all of this forensic evidence and we were curious about how the jury would receive it and ultimately we we ultimately set aside a week that we just referred to as forensic week were shocked to see the jury sat on the edge of their seats.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "centrist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12817,
+            12825
+          ],
+          "text": "centrist"
+        },
+        {
+          "entities": [
+            {
+              "text": "sisters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12826,
+            12828
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.637629,
+      "sentence": "And I just remember one morning sitting there sifting through the guns and the knives whatever it was that day and looking at it and just at that moment being struck by like wow what I can do with this stuff if the the ballistics you've got to fingerprint the fingerprint it got to him right he began writing you've got the state in the one St then you've got another state all those forensic entities came back to haunt eighty big time.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13416,
+            13419
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "writing",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13435,
+            13442
+          ],
+          "text": "writing"
+        }
+      ]
+    },
+    {
+      "score": 0.787419,
+      "sentence": "And I just remember one morning sitting there sifting through the guns and the knives whatever it was that day and looking at it and just at that moment being struck by like wow what I can do with this stuff if the the ballistics you've got to fingerprint the fingerprint it got to him right he began writing you've got the state in the one St then you've got another state all those forensic entities came back to haunt eighty big time.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13426,
+            13428
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "writing",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13435,
+            13442
+          ],
+          "text": "writing"
+        }
+      ]
+    },
+    {
+      "score": 0.990028,
+      "sentence": "Eddie say that was convicted and sentenced to two hundred thirty two years in prison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eddie Saito",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13572,
+            13577
+          ],
+          "text": "Eddie"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13578,
+            13581
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.907523,
+      "sentence": "Two months later a short distance away in queens seventy eight year old Joe pro she was about to open the door to his apartment when he was shot with a nine millimeter is it done.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1081,
+            1083
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            1088,
+            1092
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.449359,
+      "sentence": "Eddie say that was convicted and sentenced to two hundred thirty two years in prison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eddie Saito",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13572,
+            13577
+          ],
+          "text": "Eddie"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13591,
+            13600
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.995651,
+      "sentence": "And he said it was a cat with he attacked his victim from the vehicle he shot them for no reason other than that he could.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eddie Saito",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13662,
+            13664
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13665,
+            13669
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.377856,
+      "sentence": "And he said it was a cat with he attacked his victim from the vehicle he shot them for no reason other than that he could.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eddie Saito",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13728,
+            13730
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            13720,
+            13727
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.285231,
+      "sentence": "One question remains how did say he didn't know his victim's birthday.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eddie Saito",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13829,
+            13832
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "victim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13833,
+            13839
+          ],
+          "text": "victim"
+        }
+      ]
+    },
+    {
+      "score": 0.281505,
+      "sentence": "Some speculate that he looked inside his victim's wallet after each.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eddie Saito",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13889,
+            13892
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "victim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13893,
+            13899
+          ],
+          "text": "victim"
+        }
+      ]
+    },
+    {
+      "score": 0.507048,
+      "sentence": "It was a threat to kill twelve people one for each astrological sign of the zodiac.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1246,
+            1252
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            1234,
+            1238
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.842166,
+      "sentence": "The Saudi act claimed responsibility for the three shootings but he mistakenly believed that he had killed all three it was apparent the zodiac knew his victims birthdays and astrological signs.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1686,
+            1688
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            1693,
+            1699
+          ],
+          "text": "killed"
+        }
+      ]
+    },
+    {
+      "score": 0.546241,
+      "sentence": "When the woman ran out to confront her brother shot the budgets for the shot.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9792,
+            9799
+          ],
+          "text": "brother"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9800,
+            9804
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.668898,
+      "sentence": "You want to go to jail for simply shooting a system in the body with a with a shot gun.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12350,
+            12354
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12369,
+            12373
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.523511,
+      "sentence": "Roscoe was a Scorpio.",
+      "type": "authorOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roscoe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1788,
+            1794
+          ],
+          "text": "Roscoe"
+        },
+        {
+          "entities": [
+            {
+              "text": "Scorpio",
+              "type": "TitleWork"
+            }
+          ],
+          "location": [
+            1801,
+            1808
+          ],
+          "text": "Scorpio"
+        }
+      ]
+    },
+    {
+      "score": 0.589712,
+      "sentence": "The New York City police department went into the biggest man it was mammoth and it was driving him crazy.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1936,
+            1953
+          ],
+          "text": "police department"
+        },
+        {
+          "entities": [
+            {
+              "text": "New York City",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1922,
+            1935
+          ],
+          "text": "New York City"
+        }
+      ]
+    },
+    {
+      "score": 0.607534,
+      "sentence": "New York City police were searching for a killer who called himself the zodiac.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3136,
+            3142
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "New York City",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3122,
+            3135
+          ],
+          "text": "New York City"
+        }
+      ]
+    },
+    {
+      "score": 0.6604,
+      "sentence": "New York police hope to add themselves to the list.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6265,
+            6271
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "New York City",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6256,
+            6264
+          ],
+          "text": "New York"
+        }
+      ]
+    },
+    {
+      "score": 0.627331,
+      "sentence": "Three months earlier he had written a letter to police headquarters but it was ignored.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Three months earlier",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            2119,
+            2139
+          ],
+          "text": "Three months earlier"
+        },
+        {
+          "entities": [
+            {
+              "text": "written",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2147,
+            2154
+          ],
+          "text": "written"
+        }
+      ]
+    },
+    {
+      "score": 0.769907,
+      "sentence": "For six years a serial killer prowl the streets of New York City hunting his victims.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "streets",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            40,
+            47
+          ],
+          "text": "streets"
+        },
+        {
+          "entities": [
+            {
+              "text": "New York City",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            51,
+            64
+          ],
+          "text": "New York City"
+        }
+      ]
+    },
+    {
+      "score": 0.881324,
+      "sentence": "Disodium killer had been walking in the dark deserted streets of New York City undetected for six years.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "streets",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9218,
+            9225
+          ],
+          "text": "streets"
+        },
+        {
+          "entities": [
+            {
+              "text": "New York City",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9229,
+            9242
+          ],
+          "text": "New York City"
+        }
+      ]
+    },
+    {
+      "score": 0.916622,
+      "sentence": "Three months earlier he had written a letter to police headquarters but it was ignored.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2140,
+            2142
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "written",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2147,
+            2154
+          ],
+          "text": "written"
+        }
+      ]
+    },
+    {
+      "score": 0.462207,
+      "sentence": "Three months earlier he had written a letter to police headquarters but it was ignored.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2167,
+            2173
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "headquarters",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2174,
+            2186
+          ],
+          "text": "headquarters"
+        }
+      ]
+    },
+    {
+      "score": 0.976808,
+      "sentence": "An astrologer told police that the constellations Orion and the seven sisters of the Pleiades were not visible on the nights of the shootings the zodiacs letter implied he wouldn't strike when Ryan and the seven sisters were in the sky.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "astrologer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2380,
+            2390
+          ],
+          "text": "astrologer"
+        },
+        {
+          "entities": [
+            {
+              "text": "lied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2391,
+            2395
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.970582,
+      "sentence": "An astrologer told police that the constellations Orion and the seven sisters of the Pleiades were not visible on the nights of the shootings the zodiacs letter implied he wouldn't strike when Ryan and the seven sisters were in the sky.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2396,
+            2402
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "lied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2391,
+            2395
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.580668,
+      "sentence": "An astrologer told police that the constellations Orion and the seven sisters of the Pleiades were not visible on the nights of the shootings the zodiacs letter implied he wouldn't strike when Ryan and the seven sisters were in the sky.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sisters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2447,
+            2454
+          ],
+          "text": "sisters"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            2509,
+            2518
+          ],
+          "text": "shootings"
+        }
+      ]
+    },
+    {
+      "score": 0.460345,
+      "sentence": "An astrologer told police that the constellations Orion and the seven sisters of the Pleiades were not visible on the nights of the shootings the zodiacs letter implied he wouldn't strike when Ryan and the seven sisters were in the sky.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "zodiacs",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2523,
+            2530
+          ],
+          "text": "zodiacs"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            2509,
+            2518
+          ],
+          "text": "shootings"
+        }
+      ]
+    },
+    {
+      "score": 0.489972,
+      "sentence": "The signs all over the newspaper now I mean this guy's claiming zodiac so now this thing is really hot potato it's.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2651,
+            2652
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "New York Post",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2637,
+            2646
+          ],
+          "text": "newspaper"
+        }
+      ]
+    },
+    {
+      "score": 0.93593,
+      "sentence": "The signs all over the newspaper now I mean this guy's claiming zodiac so now this thing is really hot potato it's.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2663,
+            2666
+          ],
+          "text": "guy"
+        },
+        {
+          "entities": [
+            {
+              "text": "claiming",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2669,
+            2677
+          ],
+          "text": "claiming"
+        }
+      ]
+    },
+    {
+      "score": 0.856184,
+      "sentence": "Twenty five years earlier a man in San Francisco killed six people and road taunting letters to police he to call himself the zodiac and was never apprehended.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2798,
+            2801
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "San Francisco zodiac",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2805,
+            2818
+          ],
+          "text": "San Francisco"
+        }
+      ]
+    },
+    {
+      "score": 0.492389,
+      "sentence": "Twenty five years earlier a man in San Francisco killed six people and road taunting letters to police he to call himself the zodiac and was never apprehended.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2798,
+            2801
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "call",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2879,
+            2883
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.522635,
+      "sentence": "Twenty five years earlier a man in San Francisco killed six people and road taunting letters to police he to call himself the zodiac and was never apprehended.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2873,
+            2875
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "call",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2879,
+            2883
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.984886,
+      "sentence": "He promised to kill twelve people one for each astrological sign and the only struck while certain constellations were visible.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "serial killer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            86,
+            88
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "promised",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            89,
+            97
+          ],
+          "text": "promised"
+        }
+      ]
+    },
+    {
+      "score": 0.529058,
+      "sentence": "Twenty five years earlier a man in San Francisco killed six people and road taunting letters to police he to call himself the zodiac and was never apprehended.",
+      "type": "populationOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "six",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            2826,
+            2829
+          ],
+          "text": "six"
+        },
+        {
+          "entities": [
+            {
+              "text": "San Francisco zodiac",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2805,
+            2818
+          ],
+          "text": "San Francisco"
+        }
+      ]
+    },
+    {
+      "score": 0.46397,
+      "sentence": "Twenty five years earlier a man in San Francisco killed six people and road taunting letters to police he to call himself the zodiac and was never apprehended.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2873,
+            2875
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2866,
+            2872
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.90715,
+      "sentence": "Twenty five years earlier a man in San Francisco killed six people and road taunting letters to police he to call himself the zodiac and was never apprehended.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2884,
+            2891
+          ],
+          "text": "himself"
+        },
+        {
+          "entities": [
+            {
+              "text": "call",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2879,
+            2883
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.482594,
+      "sentence": "Was it possible the San Francisco zodiac was now in New York City.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "San Francisco zodiac",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2950,
+            2970
+          ],
+          "text": "San Francisco zodiac"
+        },
+        {
+          "entities": [
+            {
+              "text": "New York City",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2982,
+            2995
+          ],
+          "text": "New York City"
+        }
+      ]
+    },
+    {
+      "score": 0.585961,
+      "sentence": "If the zodiac from California the sixties had resurfaced in New York they knew this is a complete law enforcement Hey there.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "zodiac task force",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3004,
+            3010
+          ],
+          "text": "zodiac"
+        },
+        {
+          "entities": [
+            {
+              "text": "California",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3016,
+            3026
+          ],
+          "text": "California"
+        }
+      ]
+    },
+    {
+      "score": 0.861463,
+      "sentence": "New York City police were searching for a killer who called himself the zodiac.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3171,
+            3174
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer twenty",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            3164,
+            3170
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.977018,
+      "sentence": "New York City police were searching for a killer who called himself the zodiac.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3171,
+            3174
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3175,
+            3181
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.748973,
+      "sentence": "New York City police were searching for a killer who called himself the zodiac.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3182,
+            3189
+          ],
+          "text": "himself"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3175,
+            3181
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.459036,
+      "sentence": "New York City police were searching for a killer who called himself the zodiac.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3182,
+            3189
+          ],
+          "text": "himself"
+        },
+        {
+          "entities": [
+            {
+              "text": "zodiac task force",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3194,
+            3200
+          ],
+          "text": "zodiac"
+        }
+      ]
+    },
+    {
+      "score": 0.986927,
+      "sentence": "He promised to kill one victim for each of the twelve astrological sign.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3202,
+            3204
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "promised",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3205,
+            3213
+          ],
+          "text": "promised"
+        }
+      ]
+    },
+    {
+      "score": 0.950392,
+      "sentence": "Before this yeah killer in New York when the guy said to a girl what's your sign he was hitting up afterwards I mean it was literally a case where a guy asked a girl sign and she screamed for the police.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3320,
+            3323
+          ],
+          "text": "guy"
+        },
+        {
+          "entities": [
+            {
+              "text": "promised",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3324,
+            3328
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.619852,
+      "sentence": "He promised to kill twelve people one for each astrological sign and the only struck while certain constellations were visible.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            113,
+            119
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            101,
+            105
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.71232,
+      "sentence": "He promised to kill one victim for each of the twelve astrological sign.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "serial killer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3226,
+            3232
+          ],
+          "text": "victim"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            3217,
+            3221
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.914035,
+      "sentence": "Before this yeah killer in New York when the guy said to a girl what's your sign he was hitting up afterwards I mean it was literally a case where a guy asked a girl sign and she screamed for the police.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "girl",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3334,
+            3338
+          ],
+          "text": "girl"
+        },
+        {
+          "entities": [
+            {
+              "text": "promised",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3324,
+            3328
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.971816,
+      "sentence": "Before this yeah killer in New York when the guy said to a girl what's your sign he was hitting up afterwards I mean it was literally a case where a guy asked a girl sign and she screamed for the police.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3424,
+            3427
+          ],
+          "text": "guy"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3428,
+            3433
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.428692,
+      "sentence": "Before this yeah killer in New York when the guy said to a girl what's your sign he was hitting up afterwards I mean it was literally a case where a guy asked a girl sign and she screamed for the police.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "girl",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3450,
+            3453
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3471,
+            3477
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.974858,
+      "sentence": "I am writing experts compared to New York so the act letters to those written by San Francisco so the act killer twenty five years earlier.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3479,
+            3480
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "writing",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3484,
+            3491
+          ],
+          "text": "writing"
+        }
+      ]
+    },
+    {
+      "score": 0.622461,
+      "sentence": "I am writing experts compared to New York so the act letters to those written by San Francisco so the act killer twenty five years earlier.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "handwriting experts",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3492,
+            3499
+          ],
+          "text": "experts"
+        },
+        {
+          "entities": [
+            {
+              "text": "New York City",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3512,
+            3520
+          ],
+          "text": "New York"
+        }
+      ]
+    },
+    {
+      "score": 0.738627,
+      "sentence": "I am writing experts compared to New York so the act letters to those written by San Francisco so the act killer twenty five years earlier.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "handwriting experts",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3492,
+            3499
+          ],
+          "text": "experts"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer twenty",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            3585,
+            3598
+          ],
+          "text": "killer twenty"
+        }
+      ]
+    },
+    {
+      "score": 0.43718,
+      "sentence": "I am writing experts compared to New York so the act letters to those written by San Francisco so the act killer twenty five years earlier.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "written",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3549,
+            3556
+          ],
+          "text": "written"
+        },
+        {
+          "entities": [
+            {
+              "text": "San Francisco zodiac",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3560,
+            3573
+          ],
+          "text": "San Francisco"
+        }
+      ]
+    },
+    {
+      "score": 0.98419,
+      "sentence": "Handwriting experts concluded that the San Francisco so the act and the new York so deac we're two different man.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "handwriting experts",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3792,
+            3811
+          ],
+          "text": "Handwriting experts"
+        },
+        {
+          "entities": [
+            {
+              "text": "concluded",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3812,
+            3821
+          ],
+          "text": "concluded"
+        }
+      ]
+    },
+    {
+      "score": 0.974635,
+      "sentence": "So these are powerful ideas he's a powerful symbol to predict when the zodiac would strike next police asked astronomer Gregory mac bluff to identify the next time within the twenty one day cycle that Ryan and the seven sisters would not be in the sky.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4328,
+            4334
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4335,
+            4340
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.444405,
+      "sentence": "Late one cold night in March nineteen ninety forty nine year old Mario Racicot was walking home from his restaurant job in Brooklyn.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mario Racicot",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            370,
+            383
+          ],
+          "text": "Mario Racicot"
+        },
+        {
+          "entities": [
+            {
+              "text": "restaurant",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            396,
+            400
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.618741,
+      "sentence": "So these are powerful ideas he's a powerful symbol to predict when the zodiac would strike next police asked astronomer Gregory mac bluff to identify the next time within the twenty one day cycle that Ryan and the seven sisters would not be in the sky.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Gregory mac",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4341,
+            4351
+          ],
+          "text": "astronomer"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4335,
+            4340
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.949899,
+      "sentence": "He shot a homeless man Larry Parham was sleeping on a bench in Central Park.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Parham",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5004,
+            5006
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5007,
+            5011
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.315007,
+      "sentence": "He shot a homeless man Larry Parham was sleeping on a bench in Central Park.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Parham",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5023,
+            5026
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5007,
+            5011
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.411703,
+      "sentence": "but convinced him to put all of his weapons in buckets police lowered from the roof to his apartment window and he surrendered.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Parham",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10208,
+            10211
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10236,
+            10247
+          ],
+          "text": "surrendered"
+        }
+      ]
+    },
+    {
+      "score": 0.902682,
+      "sentence": "but convinced him to put all of his weapons in buckets police lowered from the roof to his apartment window and he surrendered.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Parham",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10233,
+            10235
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10236,
+            10247
+          ],
+          "text": "surrendered"
+        }
+      ]
+    },
+    {
+      "score": 0.780404,
+      "sentence": "In the victim shoe was a note.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "serial killer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5088,
+            5094
+          ],
+          "text": "victim"
+        },
+        {
+          "entities": [
+            {
+              "text": "shoe",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5095,
+            5099
+          ],
+          "text": "shoe"
+        }
+      ]
+    },
+    {
+      "score": 0.892018,
+      "sentence": "The zodiac somehow knew that Larry Parham was a cancer assign different from the other three victims.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Parham",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5141,
+            5153
+          ],
+          "text": "Larry Parham"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer twenty",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            5160,
+            5166
+          ],
+          "text": "cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.952677,
+      "sentence": "And zodiac registered his indignation that the newspapers were calling him a copy cat.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "newspapers",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5261,
+            5271
+          ],
+          "text": "newspapers"
+        },
+        {
+          "entities": [
+            {
+              "text": "calling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5277,
+            5284
+          ],
+          "text": "calling"
+        }
+      ]
+    },
+    {
+      "score": 0.576235,
+      "sentence": "And zodiac registered his indignation that the newspapers were calling him a copy cat.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Parham",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5285,
+            5288
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "calling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5277,
+            5284
+          ],
+          "text": "calling"
+        }
+      ]
+    },
+    {
+      "score": 0.378613,
+      "sentence": "They did databases for city employees are motor vehicles postal workers and they were going through those databases including police officers every police officer in new York's fingerprints were compared to the zodiacs believe me they tried it and.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5775,
+            5779
+          ],
+          "text": "They"
+        },
+        {
+          "entities": [
+            {
+              "text": "New York City",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5798,
+            5802
+          ],
+          "text": "city"
+        }
+      ]
+    },
+    {
+      "score": 0.490206,
+      "sentence": "They did databases for city employees are motor vehicles postal workers and they were going through those databases including police officers every police officer in new York's fingerprints were compared to the zodiacs believe me they tried it and.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "employees",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5803,
+            5812
+          ],
+          "text": "employees"
+        },
+        {
+          "entities": [
+            {
+              "text": "New York City",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5798,
+            5802
+          ],
+          "text": "city"
+        }
+      ]
+    },
+    {
+      "score": 0.722526,
+      "sentence": "They did databases for city employees are motor vehicles postal workers and they were going through those databases including police officers every police officer in new York's fingerprints were compared to the zodiacs believe me they tried it and.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "employees",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5803,
+            5812
+          ],
+          "text": "employees"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            5823,
+            5831
+          ],
+          "text": "vehicles"
+        }
+      ]
+    },
+    {
+      "score": 0.860256,
+      "sentence": "They did databases for city employees are motor vehicles postal workers and they were going through those databases including police officers every police officer in new York's fingerprints were compared to the zodiacs believe me they tried it and.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "workers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5839,
+            5846
+          ],
+          "text": "workers"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            5823,
+            5831
+          ],
+          "text": "vehicles"
+        }
+      ]
+    },
+    {
+      "score": 0.658481,
+      "sentence": "Late one cold night in March nineteen ninety forty nine year old Mario Racicot was walking home from his restaurant job in Brooklyn.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "restaurant",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            410,
+            420
+          ],
+          "text": "restaurant"
+        },
+        {
+          "entities": [
+            {
+              "text": "Brooklyn",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            428,
+            436
+          ],
+          "text": "Brooklyn"
+        }
+      ]
+    },
+    {
+      "score": 0.654249,
+      "sentence": "They did databases for city employees are motor vehicles postal workers and they were going through those databases including police officers every police officer in new York's fingerprints were compared to the zodiacs believe me they tried it and.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "zodiacs",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5986,
+            5993
+          ],
+          "text": "zodiacs"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            5823,
+            5831
+          ],
+          "text": "vehicles"
+        }
+      ]
+    },
+    {
+      "score": 0.935395,
+      "sentence": "They did databases for city employees are motor vehicles postal workers and they were going through those databases including police officers every police officer in new York's fingerprints were compared to the zodiacs believe me they tried it and.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5908,
+            5916
+          ],
+          "text": "officers"
+        },
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5901,
+            5907
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.864956,
+      "sentence": "They did databases for city employees are motor vehicles postal workers and they were going through those databases including police officers every police officer in new York's fingerprints were compared to the zodiacs believe me they tried it and.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5930,
+            5937
+          ],
+          "text": "officer"
+        },
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5923,
+            5929
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.403609,
+      "sentence": "And it was clear from the zodiac's letters that he was following the investigation in the newspaper.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ryan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6653,
+            6655
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6674,
+            6687
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.443555,
+      "sentence": "And it was clear from the zodiac's letters that he was following the investigation in the newspaper.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "New York Post",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6695,
+            6704
+          ],
+          "text": "newspaper"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6674,
+            6687
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.543981,
+      "sentence": "You know he he he folded his tent because he knew that one said fingerprints at that comparison he was cooked.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ryan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6857,
+            6859
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6874,
+            6878
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.925313,
+      "sentence": "The zodiac claimed responsibility for the stabbing death of thirty nine year old Patricia Fonti in Highland Park but Tricia was the Leo.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "zodiac task force",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7091,
+            7097
+          ],
+          "text": "zodiac"
+        },
+        {
+          "entities": [
+            {
+              "text": "claimed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7098,
+            7105
+          ],
+          "text": "claimed"
+        }
+      ]
+    },
+    {
+      "score": 0.308647,
+      "sentence": "The zodiac claimed responsibility for the stabbing death of thirty nine year old Patricia Fonti in Highland Park but Tricia was the Leo.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Fonti",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7168,
+            7182
+          ],
+          "text": "Patricia Fonti"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7129,
+            7137
+          ],
+          "text": "stabbing"
+        }
+      ]
+    },
+    {
+      "score": 0.962946,
+      "sentence": "The zodiac claimed responsibility for the stabbing death of thirty nine year old Patricia Fonti in Highland Park but Tricia was the Leo.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Fonti",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7168,
+            7182
+          ],
+          "text": "Patricia Fonti"
+        },
+        {
+          "entities": [
+            {
+              "text": "thirty nine year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            7147,
+            7167
+          ],
+          "text": "thirty nine year old"
+        }
+      ]
+    },
+    {
+      "score": 0.756289,
+      "sentence": "The zodiac claimed responsibility for the stabbing death of thirty nine year old Patricia Fonti in Highland Park but Tricia was the Leo.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Patricia Fonti",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7168,
+            7182
+          ],
+          "text": "Patricia Fonti"
+        },
+        {
+          "entities": [
+            {
+              "text": "Highland Park",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7186,
+            7199
+          ],
+          "text": "Highland Park"
+        }
+      ]
+    },
+    {
+      "score": 0.858758,
+      "sentence": "Without warning he was shot in the back.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "serial killer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            454,
+            456
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            461,
+            465
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.896953,
+      "sentence": "Thirty four year old factory worker from on mountain H. Rowe was walking home after a serious night of drinking when someone shot him in the back.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "serial killer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            719,
+            726
+          ],
+          "text": "someone"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            727,
+            731
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.804649,
+      "sentence": "And forty year old Joseph dia Kong was shot and killed while he was walking near this highway underpass Joseph was a Virgo.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph dia Kong",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7243,
+            7258
+          ],
+          "text": "Joseph dia Kong"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7263,
+            7267
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.488908,
+      "sentence": "And forty year old Joseph dia Kong was shot and killed while he was walking near this highway underpass Joseph was a Virgo.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7272,
+            7278
+          ],
+          "text": "killed"
+        },
+        {
+          "entities": [
+            {
+              "text": "highway",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7310,
+            7317
+          ],
+          "text": "highway"
+        }
+      ]
+    },
+    {
+      "score": 0.575491,
+      "sentence": "And forty year old Joseph dia Kong was shot and killed while he was walking near this highway underpass Joseph was a Virgo.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph dia Kong",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7285,
+            7287
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "highway",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7310,
+            7317
+          ],
+          "text": "highway"
+        }
+      ]
+    },
+    {
+      "score": 0.355111,
+      "sentence": "And forty year old Joseph dia Kong was shot and killed while he was walking near this highway underpass Joseph was a Virgo.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph dia Kong",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7328,
+            7334
+          ],
+          "text": "Joseph"
+        },
+        {
+          "entities": [
+            {
+              "text": "highway",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7310,
+            7317
+          ],
+          "text": "highway"
+        }
+      ]
+    },
+    {
+      "score": 0.872699,
+      "sentence": "next victim forty year old James Weber was shot in the same location he was a libra and fortunately he survived the attack.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "James Weber",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7515,
+            7526
+          ],
+          "text": "James Weber"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7531,
+            7535
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.57741,
+      "sentence": "next victim forty year old James Weber was shot in the same location he was a libra and fortunately he survived the attack.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "James Weber",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7588,
+            7590
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "World War",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            7604,
+            7610
+          ],
+          "text": "attack"
+        }
+      ]
+    },
+    {
+      "score": 0.558625,
+      "sentence": "Zodiac also took credit for shooting on nine th man in Highland Park although police couldn't confirm the shooting took place.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Zodiac",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7875,
+            7881
+          ],
+          "text": "Zodiac"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7903,
+            7911
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.674325,
+      "sentence": "Zodiac also took credit for shooting on nine th man in Highland Park although police couldn't confirm the shooting took place.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Parham",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7923,
+            7926
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7903,
+            7911
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.595364,
+      "sentence": "Zodiac also took credit for shooting on nine th man in Highland Park although police couldn't confirm the shooting took place.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Parham",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7923,
+            7926
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "Highland Park",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7930,
+            7943
+          ],
+          "text": "Highland Park"
+        }
+      ]
+    },
+    {
+      "score": 0.968313,
+      "sentence": "One of his last remarks in each of those letters he actually says no rooms and that those are the ballistic identifiers that ordinarily most examinations and comparisons are made by in the field the ballistics.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "James Weber",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8051,
+            8053
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8063,
+            8067
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.399049,
+      "sentence": "One of his last remarks in each of those letters he actually says no rooms and that those are the ballistic identifiers that ordinarily most examinations and comparisons are made by in the field the ballistics.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "James Weber",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8051,
+            8053
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "rooms",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8071,
+            8076
+          ],
+          "text": "rooms"
+        }
+      ]
+    },
+    {
+      "score": 0.944033,
+      "sentence": "Thirty four year old factory worker from on mountain H. Rowe was walking home after a serious night of drinking when someone shot him in the back.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "factory worker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            623,
+            637
+          ],
+          "text": "factory worker"
+        },
+        {
+          "entities": [
+            {
+              "text": "Thirty four year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            602,
+            622
+          ],
+          "text": "Thirty four year old"
+        }
+      ]
+    },
+    {
+      "score": 0.981922,
+      "sentence": "He licked the envelope flap and left enough saliva for DNA testing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "James Weber",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8311,
+            8313
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "licked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8314,
+            8320
+          ],
+          "text": "licked"
+        }
+      ]
+    },
+    {
+      "score": 0.993728,
+      "sentence": "I just I knew was a code is a nine towers because there were nine victims and I wrote down all the different symbols I think I had twenty three.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "James Weber",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8549,
+            8550
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8551,
+            8556
+          ],
+          "text": "wrote"
+        }
+      ]
+    },
+    {
+      "score": 0.589073,
+      "sentence": "Crowley'S father in law had been a code breaker in World War two.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8829,
+            8835
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "victims",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            8880,
+            8883
+          ],
+          "text": "two"
+        }
+      ]
+    },
+    {
+      "score": 0.457297,
+      "sentence": "Crowley'S father in law had been a code breaker in World War two.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victims",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            8880,
+            8883
+          ],
+          "text": "two"
+        },
+        {
+          "entities": [
+            {
+              "text": "World War",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            8870,
+            8879
+          ],
+          "text": "World War"
+        }
+      ]
+    },
+    {
+      "score": 0.977152,
+      "sentence": "It said this is the zodiac speaking I am in control.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "zodiac task force",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9078,
+            9080
+          ],
+          "text": "It"
+        },
+        {
+          "entities": [
+            {
+              "text": "describing",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9081,
+            9085
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.994637,
+      "sentence": "It said this is the zodiac speaking I am in control.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "zodiac task force",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9098,
+            9104
+          ],
+          "text": "zodiac"
+        },
+        {
+          "entities": [
+            {
+              "text": "speaking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9105,
+            9113
+          ],
+          "text": "speaking"
+        }
+      ]
+    },
+    {
+      "score": 0.508226,
+      "sentence": "It said this is the zodiac speaking I am in control.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9114,
+            9115
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "speaking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9105,
+            9113
+          ],
+          "text": "speaking"
+        }
+      ]
+    },
+    {
+      "score": 0.548586,
+      "sentence": "Captain Joseph Herbert worked on the zodiac task force and he knew that eventually the forensic evidence would catch in.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph Herbert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9277,
+            9291
+          ],
+          "text": "Joseph Herbert"
+        },
+        {
+          "entities": [
+            {
+              "text": "zodiac task force",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9306,
+            9323
+          ],
+          "text": "zodiac task force"
+        }
+      ]
+    },
+    {
+      "score": 0.756364,
+      "sentence": "Open the door a young man in a Brooklyn apartment apparently got angry because his younger sister and her boyfriend were together alone in her bedroom.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Parham",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9537,
+            9540
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9555,
+            9564
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.370381,
+      "sentence": "but convinced him to put all of his weapons in buckets police lowered from the roof to his apartment window and he surrendered.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Parham",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10208,
+            10211
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10212,
+            10221
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.97473,
+      "sentence": "Open the door a young man in a Brooklyn apartment apparently got angry because his younger sister and her boyfriend were together alone in her bedroom.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9555,
+            9564
+          ],
+          "text": "apartment"
+        },
+        {
+          "entities": [
+            {
+              "text": "Brooklyn",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9546,
+            9554
+          ],
+          "text": "Brooklyn"
+        }
+      ]
+    },
+    {
+      "score": 0.513646,
+      "sentence": "Thirty four year old factory worker from on mountain H. Rowe was walking home after a serious night of drinking when someone shot him in the back.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "factory worker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            623,
+            637
+          ],
+          "text": "factory worker"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            675,
+            679
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.410476,
+      "sentence": "Open the door a young man in a Brooklyn apartment apparently got angry because his younger sister and her boyfriend were together alone in her bedroom.",
+      "type": "siblingOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Parham",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9594,
+            9597
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Amanda",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9606,
+            9612
+          ],
+          "text": "sister"
+        }
+      ]
+    },
+    {
+      "score": 0.454415,
+      "sentence": "The police arrive to discover the man was holding his sister's boyfriend hostage.",
+      "type": "siblingOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Parham",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9881,
+            9884
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Amanda",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9885,
+            9891
+          ],
+          "text": "sister"
+        }
+      ]
+    },
+    {
+      "score": 0.474496,
+      "sentence": "Open the door a young man in a Brooklyn apartment apparently got angry because his younger sister and her boyfriend were together alone in her bedroom.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amanda",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9654,
+            9657
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9658,
+            9665
+          ],
+          "text": "bedroom"
+        }
+      ]
+    },
+    {
+      "score": 0.554145,
+      "sentence": "Amanda the boyfriend lied when they refused he fired a shot through the bedroom door.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amanda",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9667,
+            9673
+          ],
+          "text": "Amanda"
+        },
+        {
+          "entities": [
+            {
+              "text": "lied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9688,
+            9692
+          ],
+          "text": "lied"
+        }
+      ]
+    },
+    {
+      "score": 0.671174,
+      "sentence": "Amanda the boyfriend lied when they refused he fired a shot through the bedroom door.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amanda",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9667,
+            9673
+          ],
+          "text": "Amanda"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9698,
+            9702
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.81937,
+      "sentence": "Amanda the boyfriend lied when they refused he fired a shot through the bedroom door.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "boyfriend",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9678,
+            9687
+          ],
+          "text": "boyfriend"
+        },
+        {
+          "entities": [
+            {
+              "text": "lied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9688,
+            9692
+          ],
+          "text": "lied"
+        }
+      ]
+    },
+    {
+      "score": 0.841341,
+      "sentence": "Amanda the boyfriend lied when they refused he fired a shot through the bedroom door.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "boyfriend",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9678,
+            9687
+          ],
+          "text": "boyfriend"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9698,
+            9702
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.989614,
+      "sentence": "Amanda the boyfriend lied when they refused he fired a shot through the bedroom door.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9698,
+            9702
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "refused",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9703,
+            9710
+          ],
+          "text": "refused"
+        }
+      ]
+    },
+    {
+      "score": 0.664185,
+      "sentence": "Amanda the boyfriend lied when they refused he fired a shot through the bedroom door.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph Herbert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9711,
+            9713
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "refused",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9703,
+            9710
+          ],
+          "text": "refused"
+        }
+      ]
+    },
+    {
+      "score": 0.669805,
+      "sentence": "Amanda the boyfriend lied when they refused he fired a shot through the bedroom door.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph Herbert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9711,
+            9713
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "fired",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            9714,
+            9719
+          ],
+          "text": "fired"
+        }
+      ]
+    },
+    {
+      "score": 0.848572,
+      "sentence": "When the woman ran out to confront her brother shot the budgets for the shot.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amanda",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9762,
+            9767
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9800,
+            9804
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.886798,
+      "sentence": "Ironically on the day of his sister shooting for Ryan and the seven sisters were over hand they just weren't visible in the overcast sky.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amanda",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12540,
+            12546
+          ],
+          "text": "sister"
+        },
+        {
+          "entities": [
+            {
+              "text": "shootings",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12547,
+            12555
+          ],
+          "text": "shooting"
+        }
+      ]
+    }
+  ]
+}

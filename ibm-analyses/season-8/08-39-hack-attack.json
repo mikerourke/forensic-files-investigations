@@ -1,0 +1,3028 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 18081,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Tim Lloyd",
+      "relevance": 0.952397,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Company",
+      "text": "omega",
+      "relevance": 0.784023,
+      "confidence": 0.999998,
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Lloyd",
+      "relevance": 0.718118,
+      "confidence": 1,
+      "count": 11
+    },
+    {
+      "type": "Organization",
+      "text": "secret service",
+      "relevance": 0.632175,
+      "confidence": 0.961869,
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Olson",
+      "relevance": 0.514565,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Jim Ferguson",
+      "relevance": 0.462893,
+      "confidence": 0.924698,
+      "count": 1,
+      "disambiguation": {
+        "name": "Jim_Ferguson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jim_Ferguson"
+      }
+    },
+    {
+      "type": "Company",
+      "text": "Omega engineering",
+      "relevance": 0.452305,
+      "confidence": 0.585415,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Kroll ontrack",
+      "relevance": 0.441057,
+      "confidence": 0.994652,
+      "count": 1,
+      "disambiguation": {
+        "name": "Kroll_Inc.",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kroll_Inc."
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Bob Hackett",
+      "relevance": 0.433984,
+      "confidence": 0.999236,
+      "count": 1,
+      "disambiguation": {
+        "name": "Bob_Hackett",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bob_Hackett"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Greg Olsen",
+      "relevance": 0.428615,
+      "confidence": 1,
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "United States Navy",
+      "relevance": 0.317737,
+      "confidence": 0.711233,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "New Jersey",
+      "relevance": 0.260486,
+      "confidence": 0.999324,
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "NASA",
+      "relevance": 0.23821,
+      "confidence": 0.909712,
+      "count": 1,
+      "disambiguation": {
+        "name": "NASA",
+        "dbpedia_resource": "http://dbpedia.org/resource/NASA",
+        "subtype": [
+          "Company",
+          "GovernmentAgency",
+          "AirportOperator",
+          "AwardPresentingOrganization",
+          "SoftwareDeveloper",
+          "SpaceAgency",
+          "SpacecraftManufacturer"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Americas",
+      "relevance": 0.222074,
+      "confidence": 0.989482,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Hackett",
+      "relevance": 0.204874,
+      "confidence": 0.997238,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "two million dollars",
+      "relevance": 0.192363,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "two weeks",
+      "relevance": 0.182838,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Minnesota",
+      "relevance": 0.176227,
+      "confidence": 0.990792,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "five thousand dollars",
+      "relevance": 0.14928,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three weeks",
+      "relevance": 0.148942,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Powell",
+      "relevance": 0.139271,
+      "confidence": 0.798173,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Six months",
+      "relevance": 0.125848,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Timothy Lloyd",
+      "relevance": 0.123647,
+      "confidence": 0.998558,
+      "count": 1,
+      "disambiguation": {
+        "name": "Timothy_Lloyd",
+        "dbpedia_resource": "http://dbpedia.org/resource/Timothy_Lloyd",
+        "subtype": [
+          "Politician"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "four week",
+      "relevance": 0.123173,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ten million dollars",
+      "relevance": 0.093165,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Tim",
+      "relevance": 0.057824,
+      "confidence": 0.999946,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "four years",
+      "relevance": 0.022289,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kroll ontrack",
+      "relevance": 0.020339,
+      "confidence": 0.603986,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Ferguson",
+      "relevance": 0.014628,
+      "confidence": 0.979308,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/technology and computing/hardware/computer",
+      "score": 0.970423
+    },
+    {
+      "label": "/technology and computing/hardware/computer components",
+      "score": 0.931908
+    },
+    {
+      "label": "/technology and computing/operating systems",
+      "score": 0.929093
+    },
+    {
+      "label": "/technology and computing/hardware/computer peripherals/computer monitors",
+      "score": 0.918752
+    },
+    {
+      "label": "/technology and computing/hardware/computer/portable computer",
+      "score": 0.880683
+    },
+    {
+      "label": "/technology and computing/hardware/computer components/disks",
+      "score": 0.809054
+    },
+    {
+      "label": "/technology and computing/software",
+      "score": 0.73805
+    },
+    {
+      "label": "/business and industrial/business software",
+      "score": 0.724514
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.707109
+    },
+    {
+      "label": "/business and industrial/business operations/business plans",
+      "score": 0.659741
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.53424,
+      "sentence": "Today there are over seven hundred million computers at work in the world any one of those holds millions of records vital to people governments and industries.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            425,
+            431
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "Omega",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            432,
+            443
+          ],
+          "text": "governments"
+        }
+      ]
+    },
+    {
+      "score": 0.304963,
+      "sentence": "But now in the span of just a few seconds omega's vital computer system had crashed the plant's manager tried to get the server up and running again with no luck typically crucial files are periodically copied from the server onto a backup tape.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1879,
+            1886
+          ],
+          "text": "manager"
+        },
+        {
+          "entities": [
+            {
+              "text": "plant",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1871,
+            1876
+          ],
+          "text": "plant"
+        }
+      ]
+    },
+    {
+      "score": 0.497391,
+      "sentence": "It is such a vast inventory of those specific items that they couldn't justify could continuing anymore so I had to shut the plant down one big problem that I make I had was that they had hired a new network administrator the former network administrator a long time employee named Tim Lloyd was now working for another company he was the one who actually built the network in the Americas health plans he was the genesis of their whole network he knew it inside and out he built it and he was friends with these people he was the designer for all the computer programming he was the overseer of of their network he maintained that he secured it nurtured it.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "your",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2637,
+            2638
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "plant",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2655,
+            2660
+          ],
+          "text": "plant"
+        }
+      ]
+    },
+    {
+      "score": 0.482791,
+      "sentence": "It is such a vast inventory of those specific items that they couldn't justify could continuing anymore so I had to shut the plant down one big problem that I make I had was that they had hired a new network administrator the former network administrator a long time employee named Tim Lloyd was now working for another company he was the one who actually built the network in the Americas health plans he was the genesis of their whole network he knew it inside and out he built it and he was friends with these people he was the designer for all the computer programming he was the overseer of of their network he maintained that he secured it nurtured it.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2858,
+            2860
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "manufacturing company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2850,
+            2857
+          ],
+          "text": "company"
+        }
+      ]
+    },
+    {
+      "score": 0.444534,
+      "sentence": "It is such a vast inventory of those specific items that they couldn't justify could continuing anymore so I had to shut the plant down one big problem that I make I had was that they had hired a new network administrator the former network administrator a long time employee named Tim Lloyd was now working for another company he was the one who actually built the network in the Americas health plans he was the genesis of their whole network he knew it inside and out he built it and he was friends with these people he was the designer for all the computer programming he was the overseer of of their network he maintained that he secured it nurtured it.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3143,
+            3145
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "manufacturing company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3129,
+            3134
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.53101,
+      "sentence": "It is such a vast inventory of those specific items that they couldn't justify could continuing anymore so I had to shut the plant down one big problem that I make I had was that they had hired a new network administrator the former network administrator a long time employee named Tim Lloyd was now working for another company he was the one who actually built the network in the Americas health plans he was the genesis of their whole network he knew it inside and out he built it and he was friends with these people he was the designer for all the computer programming he was the overseer of of their network he maintained that he secured it nurtured it.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2975,
+            2977
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2955,
+            2960
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.994451,
+      "sentence": "Manager Jim Ferguson called Lloyd to see if he could help solve the serious problem with the magus computer system to come across any you mentioned that you might want to look in the bait your look in the basement for some old tapes and back up and.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "your",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3323,
+            3326
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "mentioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3327,
+            3336
+          ],
+          "text": "mentioned"
+        }
+      ]
+    },
+    {
+      "score": 0.666214,
+      "sentence": "Manager Jim Ferguson called Lloyd to see if he could help solve the serious problem with the magus computer system to come across any you mentioned that you might want to look in the bait your look in the basement for some old tapes and back up and.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "your",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3377,
+            3381
+          ],
+          "text": "your"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3394,
+            3402
+          ],
+          "text": "basement"
+        }
+      ]
+    },
+    {
+      "score": 0.354019,
+      "sentence": "Omega engineering faced a crisis so immense it could force the company out of business two weeks earlier the computer system that contained the plans for all their products inexplicably crashed.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "manufacturing company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3752,
+            3757
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "crash",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            3780,
+            3787
+          ],
+          "text": "crashed"
+        }
+      ]
+    },
+    {
+      "score": 0.587435,
+      "sentence": "Time was running out if I make a couldn't get its computer system back on layoffs would be inevitable.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Omega",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3835,
+            3838
+          ],
+          "text": "its"
+        },
+        {
+          "entities": [
+            {
+              "text": "layoffs",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            3863,
+            3870
+          ],
+          "text": "layoffs"
+        }
+      ]
+    },
+    {
+      "score": 0.425209,
+      "sentence": "What they lost was the ability to manufacture and when you're a manufacturing company you're dead in the water.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "your",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3978,
+            3981
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "manufacturing company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3956,
+            3977
+          ],
+          "text": "manufacturing company"
+        }
+      ]
+    },
+    {
+      "score": 0.514578,
+      "sentence": "Make a hired Kroll ontrack a Minnesota based company that resurrects data from crashed computers all over the world any kind of media that actually store data on to anytime you lose access to this or for some reason becomes unreadable we get involved to help restore the data.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kroll ontrack",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4017,
+            4030
+          ],
+          "text": "Kroll ontrack"
+        },
+        {
+          "entities": [
+            {
+              "text": "hired",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            4011,
+            4016
+          ],
+          "text": "hired"
+        }
+      ]
+    },
+    {
+      "score": 0.953119,
+      "sentence": "Omega engineering manufacture high tech measurement devices for the United States Navy NASA and clients around the world.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Navy",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            635,
+            639
+          ],
+          "text": "Navy"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            621,
+            634
+          ],
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "score": 0.338173,
+      "sentence": "Make a hired Kroll ontrack a Minnesota based company that resurrects data from crashed computers all over the world any kind of media that actually store data on to anytime you lose access to this or for some reason becomes unreadable we get involved to help restore the data.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kroll ontrack",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4017,
+            4030
+          ],
+          "text": "Kroll ontrack"
+        },
+        {
+          "entities": [
+            {
+              "text": "manufacturing company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4049,
+            4056
+          ],
+          "text": "company"
+        }
+      ]
+    },
+    {
+      "score": 0.945635,
+      "sentence": "Make a hired Kroll ontrack a Minnesota based company that resurrects data from crashed computers all over the world any kind of media that actually store data on to anytime you lose access to this or for some reason becomes unreadable we get involved to help restore the data.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "manufacturing company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4049,
+            4056
+          ],
+          "text": "company"
+        },
+        {
+          "entities": [
+            {
+              "text": "Minnesota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4033,
+            4042
+          ],
+          "text": "Minnesota"
+        }
+      ]
+    },
+    {
+      "score": 0.588919,
+      "sentence": "Make a hired Kroll ontrack a Minnesota based company that resurrects data from crashed computers all over the world any kind of media that actually store data on to anytime you lose access to this or for some reason becomes unreadable we get involved to help restore the data.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "manufacturing company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4049,
+            4056
+          ],
+          "text": "company"
+        },
+        {
+          "entities": [
+            {
+              "text": "world",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4114,
+            4119
+          ],
+          "text": "world"
+        }
+      ]
+    },
+    {
+      "score": 0.737876,
+      "sentence": "Reading the data would main examining the electronic contents contents that might reveal important evidence but make a management now wondered if the crash might have been sabotaged so to safeguard the hard drive they turned it over to the secret service experts in computer fraud the secret service new hunting for the lost programs might alter records on the drive.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "computer experts",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4955,
+            4962
+          ],
+          "text": "experts"
+        },
+        {
+          "entities": [
+            {
+              "text": "secret service",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4940,
+            4954
+          ],
+          "text": "secret service"
+        }
+      ]
+    },
+    {
+      "score": 0.492232,
+      "sentence": "The leading a computer file the races only the name of the file the data actually remains in the computer's memory until it is replaced by something else so it's often possible to recover the information but in this case investigators discovered that make this programs had not only been deleted.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5791,
+            5804
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            5786,
+            5790
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.429752,
+      "sentence": "Only the key manufacturing programs had been destroyed if it was intentional it could mean it was an inside job they would have to know where the specific programs are being kept it's not gonna be some kid home alone after school who chest randomly breaks into omega system and knows where those specific files are you need someone who's on the inside someone who knows where the keys to the castle are hidden and they know how to hurt the company.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "kid",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7241,
+            7244
+          ],
+          "text": "kid"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7245,
+            7249
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.251061,
+      "sentence": "Only the key manufacturing programs had been destroyed if it was intentional it could mean it was an inside job they would have to know where the specific programs are being kept it's not gonna be some kid home alone after school who chest randomly breaks into omega system and knows where those specific files are you need someone who's on the inside someone who knows where the keys to the castle are hidden and they know how to hurt the company.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7262,
+            7268
+          ],
+          "text": "school"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7245,
+            7249
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.455063,
+      "sentence": "Only the key manufacturing programs had been destroyed if it was intentional it could mean it was an inside job they would have to know where the specific programs are being kept it's not gonna be some kid home alone after school who chest randomly breaks into omega system and knows where those specific files are you need someone who's on the inside someone who knows where the keys to the castle are hidden and they know how to hurt the company.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "someone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7399,
+            7402
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "castle",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7431,
+            7437
+          ],
+          "text": "castle"
+        }
+      ]
+    },
+    {
+      "score": 0.330301,
+      "sentence": "The secret service first looked at Tim Lloyd the man who designed to make this computer system he had recently left omega for a job at another company supervisors had given him a positive reference the city was a good worker they said that he was excellent technically they didn't want to prevent him from getting another job.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7661,
+            7664
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "company supervisors",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7631,
+            7650
+          ],
+          "text": "company supervisors"
+        }
+      ]
+    },
+    {
+      "score": 0.995834,
+      "sentence": "The secret service first looked at Tim Lloyd the man who designed to make this computer system he had recently left omega for a job at another company supervisors had given him a positive reference the city was a good worker they said that he was excellent technically they didn't want to prevent him from getting another job.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7713,
+            7717
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7718,
+            7722
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.99264,
+      "sentence": "Lloyd had left to make it three weeks before the computer crash so he didn't have access to the building to purge the manufacturing programs on the day of the crash they were kind of in a quandary as to who else besides him could have done it they thought maybe hacked in from the outside but they said that they disconnected any contact from an outside modem so they know that couldn't have been done.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8108,
+            8112
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8113,
+            8117
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.735848,
+      "sentence": "Omega engineering manufacture high tech measurement devices for the United States Navy NASA and clients around the world.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "NASA",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            640,
+            644
+          ],
+          "text": "NASA"
+        },
+        {
+          "entities": [
+            {
+              "text": "Navy",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            635,
+            639
+          ],
+          "text": "Navy"
+        }
+      ]
+    },
+    {
+      "score": 0.601162,
+      "sentence": "Lloyd had left to make it three weeks before the computer crash so he didn't have access to the building to purge the manufacturing programs on the day of the crash they were kind of in a quandary as to who else besides him could have done it they thought maybe hacked in from the outside but they said that they disconnected any contact from an outside modem so they know that couldn't have been done.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7980,
+            7984
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "crash",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            7974,
+            7979
+          ],
+          "text": "crash"
+        }
+      ]
+    },
+    {
+      "score": 0.676414,
+      "sentence": "Hold on tracks Greg Olsen an expert in the developer aiding system that controlled the server sifted the electronic flight some of the companies hard drive the problem is is we do delete the purge the entire road map to know where the status is completely gone so it's literally a lead needle in the haystack and impossible to pieces information together all your scene is a collection of letters and numbers that don't really mean anything Olson relied on sophisticated software to help him search for any suspicious commands what I'm looking for is bits of code that I know in the computer world constellation in this particular case when I when I was zeroing in on was any type of a delete or even any type of a purge.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Greg Olsen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8797,
+            8803
+          ],
+          "text": "expert"
+        },
+        {
+          "entities": [
+            {
+              "text": "developer",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8811,
+            8820
+          ],
+          "text": "developer"
+        }
+      ]
+    },
+    {
+      "score": 0.487673,
+      "sentence": "Hold on tracks Greg Olsen an expert in the developer aiding system that controlled the server sifted the electronic flight some of the companies hard drive the problem is is we do delete the purge the entire road map to know where the status is completely gone so it's literally a lead needle in the haystack and impossible to pieces information together all your scene is a collection of letters and numbers that don't really mean anything Olson relied on sophisticated software to help him search for any suspicious commands what I'm looking for is bits of code that I know in the computer world constellation in this particular case when I when I was zeroing in on was any type of a delete or even any type of a purge.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Greg Olsen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9337,
+            9338
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            9399,
+            9403
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.406242,
+      "sentence": "It was a dangerously efficient bit of programming we called it a time bomb in the actual fuse with six lines of code and what it was is really a set of steps of the computer would go through some checks the first line simply check the date and compared it to July thirtieth nineteen ninety six the day before the server crash issues can be attached to anybody that's like yeah so when you come in with the fuse does a checks the date and if it's after the date on the fuse.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "day before",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            10012,
+            10022
+          ],
+          "text": "day before"
+        },
+        {
+          "entities": [
+            {
+              "text": "crash",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            10034,
+            10039
+          ],
+          "text": "crash"
+        }
+      ]
+    },
+    {
+      "score": 0.557994,
+      "sentence": "The code had been generated from a commonly available deletion programs but it had been reconfigured to fool anyone using the system didn't modify the intentional deletion but the message that appears on the screen that would normally say deleting this file delete this file actually said fixing this file fixing this file the code was also re written to ignore safeguards automatically answering yes to the question are you sure you want to delete these files the last line of code was the courage command making the material on recovery.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "answering",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11080,
+            11089
+          ],
+          "text": "answering"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10977,
+            10981
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.675637,
+      "sentence": "Three sets of code dated for February April and may but the only deleted a useless task folder which would have gone undetected by the company what I deduce from that is essentially this was somebody was doing some testing of the application this particular time bomb to make sure that it would work before it was truly implemented and ready to go.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11665,
+            11666
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "manufacturing company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11652,
+            11659
+          ],
+          "text": "company"
+        }
+      ]
+    },
+    {
+      "score": 0.142936,
+      "sentence": "It appeared the tests were done while lawmakers former computer manager Tim Lloyd was still at the counter the secret service ran a background check and learned that Lloyd had been disciplined for run ins with co workers shortly before leaving the company there was conflict that for a gap between other employees between management between supervisors he would bottleneck projects just because he was in charge of the projects that he hadn't tested projects before they went into production and so there were a lot of problems one person even testified that he had elbowed a female co worker in the workplace.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "workers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12079,
+            12086
+          ],
+          "text": "workers"
+        },
+        {
+          "entities": [
+            {
+              "text": "co",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12076,
+            12078
+          ],
+          "text": "co"
+        }
+      ]
+    },
+    {
+      "score": 0.721391,
+      "sentence": "It appeared the tests were done while lawmakers former computer manager Tim Lloyd was still at the counter the secret service ran a background check and learned that Lloyd had been disciplined for run ins with co workers shortly before leaving the company there was conflict that for a gap between other employees between management between supervisors he would bottleneck projects just because he was in charge of the projects that he hadn't tested projects before they went into production and so there were a lot of problems one person even testified that he had elbowed a female co worker in the workplace.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "person",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12398,
+            12404
+          ],
+          "text": "person"
+        },
+        {
+          "entities": [
+            {
+              "text": "testified",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12410,
+            12419
+          ],
+          "text": "testified"
+        }
+      ]
+    },
+    {
+      "score": 0.616674,
+      "sentence": "On August twenty first secret service agents searched Lloyd's home and garage looking for evidence to tie him to the malicious code they found circuit boards computers more than five hundred desks several hard drives and data tapes what immediately stuck out was to take place built back up with the dates may fourteenth nineteen ninety six and July first nineteen ninety six authorities suspected it was the missing backup tape from omega but it was blank that dates that we found on some of the tapes had a format date of early August we learned that the backup tape had been reformatted or essentially erased a matter of days before the search warrant was executed.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "agents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12515,
+            12521
+          ],
+          "text": "agents"
+        },
+        {
+          "entities": [
+            {
+              "text": "secret service",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12500,
+            12514
+          ],
+          "text": "secret service"
+        }
+      ]
+    },
+    {
+      "score": 0.517491,
+      "sentence": "On August twenty first secret service agents searched Lloyd's home and garage looking for evidence to tie him to the malicious code they found circuit boards computers more than five hundred desks several hard drives and data tapes what immediately stuck out was to take place built back up with the dates may fourteenth nineteen ninety six and July first nineteen ninety six authorities suspected it was the missing backup tape from omega but it was blank that dates that we found on some of the tapes had a format date of early August we learned that the backup tape had been reformatted or essentially erased a matter of days before the search warrant was executed.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12531,
+            12536
+          ],
+          "text": "Lloyd"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12539,
+            12543
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.642077,
+      "sentence": "Omega engineering manufacture high tech measurement devices for the United States Navy NASA and clients around the world.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "clients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            649,
+            656
+          ],
+          "text": "clients"
+        },
+        {
+          "entities": [
+            {
+              "text": "world",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            668,
+            673
+          ],
+          "text": "world"
+        }
+      ]
+    },
+    {
+      "score": 0.448332,
+      "sentence": "The next thing we had to do was try to establish additional evidence that would support our theory that Lloyd was the guy so what we did was for example when it was time cards.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13264,
+            13267
+          ],
+          "text": "guy"
+        },
+        {
+          "entities": [
+            {
+              "text": "workers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13276,
+            13278
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.684504,
+      "sentence": "Prosecutors in New Jersey say the computer crash devastated omega engineering leading to ten million dollars of lost business two million dollars of reprogramming costs and eighty employee layoffs problem we've done less damage to the company if you've done it with a real bomb doesn't matter really what happens the billing if your data is gonna.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14116,
+            14124
+          ],
+          "text": "employee"
+        },
+        {
+          "entities": [
+            {
+              "text": "workers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14141,
+            14143
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.409789,
+      "sentence": "So the same lines of code that on track had pieced together from the downed server they found those lines intact in Tim's home.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "workers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13623,
+            13627
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13662,
+            13666
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.475062,
+      "sentence": "So the same lines of code that on track had pieced together from the downed server they found those lines intact in Tim's home.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13656,
+            13659
+          ],
+          "text": "Tim"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13662,
+            13666
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.740838,
+      "sentence": "Tim Lloyd was indicted by a grand jury his case would be the first test of the new law.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13848,
+            13857
+          ],
+          "text": "Tim Lloyd"
+        },
+        {
+          "entities": [
+            {
+              "text": "indicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13862,
+            13870
+          ],
+          "text": "indicted"
+        }
+      ]
+    },
+    {
+      "score": 0.708799,
+      "sentence": "Tim Lloyd was indicted by a grand jury his case would be the first test of the new law.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "grand jury",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13876,
+            13886
+          ],
+          "text": "grand jury"
+        },
+        {
+          "entities": [
+            {
+              "text": "indicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13862,
+            13870
+          ],
+          "text": "indicted"
+        }
+      ]
+    },
+    {
+      "score": 0.553987,
+      "sentence": "Tim Lloyd was indicted by a grand jury his case would be the first test of the new law.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13887,
+            13890
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13891,
+            13895
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.504841,
+      "sentence": "Prosecutors in New Jersey say the computer crash devastated omega engineering leading to ten million dollars of lost business two million dollars of reprogramming costs and eighty employee layoffs problem we've done less damage to the company if you've done it with a real bomb doesn't matter really what happens the billing if your data is gonna.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13936,
+            13947
+          ],
+          "text": "Prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "New Jersey",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13951,
+            13961
+          ],
+          "text": "New Jersey"
+        }
+      ]
+    },
+    {
+      "score": 0.855093,
+      "sentence": "Prosecutors in New Jersey say the computer crash devastated omega engineering leading to ten million dollars of lost business two million dollars of reprogramming costs and eighty employee layoffs problem we've done less damage to the company if you've done it with a real bomb doesn't matter really what happens the billing if your data is gonna.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13936,
+            13947
+          ],
+          "text": "Prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13962,
+            13965
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.538959,
+      "sentence": "Prosecutors in New Jersey say the computer crash devastated omega engineering leading to ten million dollars of lost business two million dollars of reprogramming costs and eighty employee layoffs problem we've done less damage to the company if you've done it with a real bomb doesn't matter really what happens the billing if your data is gonna.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14116,
+            14124
+          ],
+          "text": "employee"
+        },
+        {
+          "entities": [
+            {
+              "text": "layoffs",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            14125,
+            14132
+          ],
+          "text": "layoffs"
+        }
+      ]
+    },
+    {
+      "score": 0.501463,
+      "sentence": "Prosecutors in New Jersey say the computer crash devastated omega engineering leading to ten million dollars of lost business two million dollars of reprogramming costs and eighty employee layoffs problem we've done less damage to the company if you've done it with a real bomb doesn't matter really what happens the billing if your data is gonna.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "workers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14141,
+            14143
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "layoffs",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            14125,
+            14132
+          ],
+          "text": "layoffs"
+        }
+      ]
+    },
+    {
+      "score": 0.509665,
+      "sentence": "A state of the art computer system at their New Jersey plant and able to make it to quickly customize their products to suit their customers needs the business was growing and revenues were up.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "customers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            713,
+            718
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "plant",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            730,
+            735
+          ],
+          "text": "plant"
+        }
+      ]
+    },
+    {
+      "score": 0.427377,
+      "sentence": "Timothy Lloyd's four week trial began in April nineteen ninety eight it would be one of the first criminal cases to explore the arcane world of computer code how would an attorney who hadn't before this had a lot of technical expertise go into a really high tech field and explain it to a jury you're not going to show them fingerprints not gonna show them smoking gun or a bag a coke at trial prosecutors argued that Lloyd had fallen out of favor with the supervisors and grown resentful when he was reassigned.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14972,
+            14983
+          ],
+          "text": "prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14966,
+            14971
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.953225,
+      "sentence": "Timothy Lloyd's four week trial began in April nineteen ninety eight it would be one of the first criminal cases to explore the arcane world of computer code how would an attorney who hadn't before this had a lot of technical expertise go into a really high tech field and explain it to a jury you're not going to show them fingerprints not gonna show them smoking gun or a bag a coke at trial prosecutors argued that Lloyd had fallen out of favor with the supervisors and grown resentful when he was reassigned.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14972,
+            14983
+          ],
+          "text": "prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "argued",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14984,
+            14990
+          ],
+          "text": "argued"
+        }
+      ]
+    },
+    {
+      "score": 0.494706,
+      "sentence": "Investigators had been able to prove that Lloyd developed the time bomb code at home then worked late so that he could install and test the code in secret he planned on quitting and was in the process of interviewing with another company when he was fired in fact he told a recruiter at his new company that everybody's job at omega is in jeopardy.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15133,
+            15138
+          ],
+          "text": "Lloyd"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            15171,
+            15175
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.820552,
+      "sentence": "Various appeals kept him free for almost four years but in two thousand two he began serving a prison term of three and a half years and ordered to pay two million dollars in restitution.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16507,
+            16509
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            16526,
+            16532
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.684047,
+      "sentence": "Investigators had been able to prove that Lloyd developed the time bomb code at home then worked late so that he could install and test the code in secret he planned on quitting and was in the process of interviewing with another company when he was fired in fact he told a recruiter at his new company that everybody's job at omega is in jeopardy.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15246,
+            15248
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviewing",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            15295,
+            15307
+          ],
+          "text": "interviewing"
+        }
+      ]
+    },
+    {
+      "score": 0.69908,
+      "sentence": "Investigators had been able to prove that Lloyd developed the time bomb code at home then worked late so that he could install and test the code in secret he planned on quitting and was in the process of interviewing with another company when he was fired in fact he told a recruiter at his new company that everybody's job at omega is in jeopardy.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15334,
+            15336
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviewing",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            15295,
+            15307
+          ],
+          "text": "interviewing"
+        }
+      ]
+    },
+    {
+      "score": 0.699895,
+      "sentence": "Investigators had been able to prove that Lloyd developed the time bomb code at home then worked late so that he could install and test the code in secret he planned on quitting and was in the process of interviewing with another company when he was fired in fact he told a recruiter at his new company that everybody's job at omega is in jeopardy.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "company supervisors",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            15321,
+            15328
+          ],
+          "text": "company"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviewing",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            15295,
+            15307
+          ],
+          "text": "interviewing"
+        }
+      ]
+    },
+    {
+      "score": 0.709013,
+      "sentence": "Investigators had been able to prove that Lloyd developed the time bomb code at home then worked late so that he could install and test the code in secret he planned on quitting and was in the process of interviewing with another company when he was fired in fact he told a recruiter at his new company that everybody's job at omega is in jeopardy.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15334,
+            15336
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "fired",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            15341,
+            15346
+          ],
+          "text": "fired"
+        }
+      ]
+    },
+    {
+      "score": 0.576175,
+      "sentence": "And he was gone being fired actually helped him any probably sat back there and said now they'll never connect me to this but we were able to find a a hard drive in his house that had that a command on had we not found that that he would have done away with once you find that in this house how do you explain that away.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16085,
+            16087
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "fired",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            16103,
+            16108
+          ],
+          "text": "fired"
+        }
+      ]
+    },
+    {
+      "score": 0.520995,
+      "sentence": "Investigators had been able to prove that Lloyd developed the time bomb code at home then worked late so that he could install and test the code in secret he planned on quitting and was in the process of interviewing with another company when he was fired in fact he told a recruiter at his new company that everybody's job at omega is in jeopardy.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15355,
+            15357
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "fired",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            15341,
+            15346
+          ],
+          "text": "fired"
+        }
+      ]
+    },
+    {
+      "score": 0.790511,
+      "sentence": "And he was gone being fired actually helped him any probably sat back there and said now they'll never connect me to this but we were able to find a a hard drive in his house that had that a command on had we not found that that he would have done away with once you find that in this house how do you explain that away.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16125,
+            16128
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "fired",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            16103,
+            16108
+          ],
+          "text": "fired"
+        }
+      ]
+    },
+    {
+      "score": 0.993893,
+      "sentence": "Investigators had been able to prove that Lloyd developed the time bomb code at home then worked late so that he could install and test the code in secret he planned on quitting and was in the process of interviewing with another company when he was fired in fact he told a recruiter at his new company that everybody's job at omega is in jeopardy.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15355,
+            15357
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            15358,
+            15362
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.581329,
+      "sentence": "Investigators had been able to prove that Lloyd developed the time bomb code at home then worked late so that he could install and test the code in secret he planned on quitting and was in the process of interviewing with another company when he was fired in fact he told a recruiter at his new company that everybody's job at omega is in jeopardy.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15365,
+            15374
+          ],
+          "text": "recruiter"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            15358,
+            15362
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.528687,
+      "sentence": "Investigators had been able to prove that Lloyd developed the time bomb code at home then worked late so that he could install and test the code in secret he planned on quitting and was in the process of interviewing with another company when he was fired in fact he told a recruiter at his new company that everybody's job at omega is in jeopardy.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "company supervisors",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            15386,
+            15393
+          ],
+          "text": "company"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            15358,
+            15362
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.90325,
+      "sentence": "A state of the art computer system at their New Jersey plant and able to make it to quickly customize their products to suit their customers needs the business was growing and revenues were up.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "plant",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            730,
+            735
+          ],
+          "text": "plant"
+        },
+        {
+          "entities": [
+            {
+              "text": "New Jersey",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            719,
+            729
+          ],
+          "text": "New Jersey"
+        }
+      ]
+    },
+    {
+      "score": 0.507532,
+      "sentence": "Investigators had been able to prove that Lloyd developed the time bomb code at home then worked late so that he could install and test the code in secret he planned on quitting and was in the process of interviewing with another company when he was fired in fact he told a recruiter at his new company that everybody's job at omega is in jeopardy.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15365,
+            15374
+          ],
+          "text": "recruiter"
+        },
+        {
+          "entities": [
+            {
+              "text": "everybody",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15399,
+            15408
+          ],
+          "text": "everybody"
+        }
+      ]
+    },
+    {
+      "score": 0.846017,
+      "sentence": "Investigators had been able to prove that Lloyd developed the time bomb code at home then worked late so that he could install and test the code in secret he planned on quitting and was in the process of interviewing with another company when he was fired in fact he told a recruiter at his new company that everybody's job at omega is in jeopardy.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15378,
+            15381
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "everybody",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15399,
+            15408
+          ],
+          "text": "everybody"
+        }
+      ]
+    },
+    {
+      "score": 0.58135,
+      "sentence": "Investigators had been able to prove that Lloyd developed the time bomb code at home then worked late so that he could install and test the code in secret he planned on quitting and was in the process of interviewing with another company when he was fired in fact he told a recruiter at his new company that everybody's job at omega is in jeopardy.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15378,
+            15381
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "company supervisors",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            15386,
+            15393
+          ],
+          "text": "company"
+        }
+      ]
+    },
+    {
+      "score": 0.527646,
+      "sentence": "He made the remark on July thirty first the same day the computer crashed.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "July thirty",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            15462,
+            15473
+          ],
+          "text": "July thirty"
+        },
+        {
+          "entities": [
+            {
+              "text": "crash",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            15506,
+            15513
+          ],
+          "text": "crashed"
+        }
+      ]
+    },
+    {
+      "score": 0.876539,
+      "sentence": "He made the remark on July thirty first the same day the computer crashed.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "same day",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            15484,
+            15492
+          ],
+          "text": "same day"
+        },
+        {
+          "entities": [
+            {
+              "text": "crash",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            15506,
+            15513
+          ],
+          "text": "crashed"
+        }
+      ]
+    },
+    {
+      "score": 0.9912,
+      "sentence": "On the day that that time bomb nobody even at home make them do that they said they thought they had a computer problem that's all they knew but everybody's job I think that that was a a remarkable find and something that the jurors were able to pick up on.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "jurors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15608,
+            15612
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            15613,
+            15617
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.332357,
+      "sentence": "And he was gone being fired actually helped him any probably sat back there and said now they'll never connect me to this but we were able to find a a hard drive in his house that had that a command on had we not found that that he would have done away with once you find that in this house how do you explain that away.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16246,
+            16249
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            16250,
+            16255
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.960263,
+      "sentence": "And he was gone being fired actually helped him any probably sat back there and said now they'll never connect me to this but we were able to find a a hard drive in his house that had that a command on had we not found that that he would have done away with once you find that in this house how do you explain that away.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16379,
+            16382
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "explain",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            16383,
+            16390
+          ],
+          "text": "explain"
+        }
+      ]
+    },
+    {
+      "score": 0.998956,
+      "sentence": "Lloyd claims he is innocent and that someone at omega accidentally deleted the programs he says he could have proved that a trial but his attorney advised him not to take the stand he's the consummate egotist I think he is absolutely livid that he was discovered I think that he was.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16619,
+            16624
+          ],
+          "text": "Lloyd"
+        },
+        {
+          "entities": [
+            {
+              "text": "ordered",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            16625,
+            16631
+          ],
+          "text": "claims"
+        }
+      ]
+    },
+    {
+      "score": 0.997108,
+      "sentence": "Lloyd claims he is innocent and that someone at omega accidentally deleted the programs he says he could have proved that a trial but his attorney advised him not to take the stand he's the consummate egotist I think he is absolutely livid that he was discovered I think that he was.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16707,
+            16709
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            16710,
+            16714
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.544308,
+      "sentence": "Lloyd claims he is innocent and that someone at omega accidentally deleted the programs he says he could have proved that a trial but his attorney advised him not to take the stand he's the consummate egotist I think he is absolutely livid that he was discovered I think that he was.",
+      "type": "clientOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16753,
+            16756
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16757,
+            16765
+          ],
+          "text": "attorney"
+        }
+      ]
+    },
+    {
+      "score": 0.604276,
+      "sentence": "A state of the art computer system at their New Jersey plant and able to make it to quickly customize their products to suit their customers needs the business was growing and revenues were up.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "customers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            806,
+            815
+          ],
+          "text": "customers"
+        },
+        {
+          "entities": [
+            {
+              "text": "Omega",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            800,
+            805
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.977319,
+      "sentence": "Lloyd claims he is innocent and that someone at omega accidentally deleted the programs he says he could have proved that a trial but his attorney advised him not to take the stand he's the consummate egotist I think he is absolutely livid that he was discovered I think that he was.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16757,
+            16765
+          ],
+          "text": "attorney"
+        },
+        {
+          "entities": [
+            {
+              "text": "advised",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            16766,
+            16773
+          ],
+          "text": "advised"
+        }
+      ]
+    },
+    {
+      "score": 0.858529,
+      "sentence": "Lloyd claims he is innocent and that someone at omega accidentally deleted the programs he says he could have proved that a trial but his attorney advised him not to take the stand he's the consummate egotist I think he is absolutely livid that he was discovered I think that he was.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16774,
+            16777
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "advised",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            16766,
+            16773
+          ],
+          "text": "advised"
+        }
+      ]
+    },
+    {
+      "score": 0.535468,
+      "sentence": "I think that there was a point in time when he was actually prepared to say I found it and and I'll ride to the rescue but I think when Ferguson says will bring in the secret service.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Lloyd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            17088,
+            17090
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            17116,
+            17119
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.949559,
+      "sentence": "I think that there was a point in time when he was actually prepared to say I found it and and I'll ride to the rescue but I think when Ferguson says will bring in the secret service.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jim Ferguson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            17180,
+            17188
+          ],
+          "text": "Ferguson"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            17189,
+            17193
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.637984,
+      "sentence": "Kroll ontrack was given an award by the secret service but the unique role they played in a case that paved new legal ground it was interesting simply because it was one of the first cases of its type you know that we had seen them make it made a lot of technical mistakes but the biggest mistakes are caused by human factors where is because they trusted him is because they had real effects in for Tim and they thought that he was family and you let family get away with a lot more than you would anybody else you give a lot more rope to hang themselves with.",
+      "type": "awardedTo",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "award",
+              "type": "EntertainmentAward"
+            }
+          ],
+          "location": [
+            17547,
+            17552
+          ],
+          "text": "award"
+        },
+        {
+          "entities": [
+            {
+              "text": "Kroll ontrack",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            17520,
+            17533
+          ],
+          "text": "Kroll ontrack"
+        }
+      ]
+    },
+    {
+      "score": 0.644651,
+      "sentence": "Kroll ontrack was given an award by the secret service but the unique role they played in a case that paved new legal ground it was interesting simply because it was one of the first cases of its type you know that we had seen them make it made a lot of technical mistakes but the biggest mistakes are caused by human factors where is because they trusted him is because they had real effects in for Tim and they thought that he was family and you let family get away with a lot more than you would anybody else you give a lot more rope to hang themselves with.",
+      "type": "awardedTo",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "award",
+              "type": "EntertainmentAward"
+            }
+          ],
+          "location": [
+            17547,
+            17552
+          ],
+          "text": "award"
+        },
+        {
+          "entities": [
+            {
+              "text": "secret service",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            17560,
+            17574
+          ],
+          "text": "secret service"
+        }
+      ]
+    },
+    {
+      "score": 0.949196,
+      "sentence": "Then came July thirty first nineteen ninety six it was a bad data make on July thirty first of ninety six one of the workers get in about eight eight thirty in the morning went to his or her work station like they always did and they slipped on the system they booted up the computer and instead of coming on though it said fixing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1185,
+            1187
+          ],
+          "text": "it"
+        },
+        {
+          "entities": [
+            {
+              "text": "argued",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1188,
+            1192
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.967092,
+      "sentence": "So you talk about everything that the company can make.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "your",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1730,
+            1733
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "talk",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1734,
+            1738
+          ],
+          "text": "talk"
+        }
+      ]
+    }
+  ]
+}

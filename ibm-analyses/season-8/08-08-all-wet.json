@@ -1,0 +1,5600 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 13925,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Marianne",
+      "relevance": 0.953347,
+      "confidence": 1,
+      "count": 10
+    },
+    {
+      "type": "Person",
+      "text": "Tim",
+      "relevance": 0.929457,
+      "confidence": 1,
+      "count": 12,
+      "disambiguation": {
+        "name": "Timbaland",
+        "dbpedia_resource": "http://dbpedia.org/resource/Timbaland",
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "BroadcastArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "VideoGameDesigner",
+          "TVActor"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Tim Boskalis",
+      "relevance": 0.618571,
+      "confidence": 0.999994,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Elaine",
+      "relevance": 0.616712,
+      "confidence": 1,
+      "count": 7
+    },
+    {
+      "type": "Quantity",
+      "text": "nineteen ninety four thirty six year",
+      "relevance": 0.429633,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty two year",
+      "relevance": 0.419244,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Randy sandy",
+      "relevance": 0.410262,
+      "confidence": 0.95986,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "nineteen ninety four ten pound",
+      "relevance": 0.395824,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one hundred four degrees",
+      "relevance": 0.372233,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Merion Bosco ski",
+      "relevance": 0.357598,
+      "confidence": 0.297354,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "four year",
+      "relevance": 0.35015,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Alain",
+      "relevance": 0.338472,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Caskey",
+      "relevance": 0.288653,
+      "confidence": 0.977688,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "North Carolina",
+      "relevance": 0.2881,
+      "confidence": 0.999635,
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Allegheny General Hospital",
+      "relevance": 0.285964,
+      "confidence": 0.508856,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Wesley long community hospital",
+      "relevance": 0.275204,
+      "confidence": 0.228611,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Brenda Vance",
+      "relevance": 0.264404,
+      "confidence": 0.999133,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kim",
+      "relevance": 0.256789,
+      "confidence": 0.996942,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "eighteen months",
+      "relevance": 0.226591,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "seven months",
+      "relevance": 0.223805,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Fullerton",
+      "relevance": 0.223201,
+      "confidence": 0.501236,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kim Bosco",
+      "relevance": 0.218904,
+      "confidence": 0.998898,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jambos kowski",
+      "relevance": 0.214953,
+      "confidence": 0.510141,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Greensboro",
+      "relevance": 0.211783,
+      "confidence": 0.999958,
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "ten second",
+      "relevance": 0.201588,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Pittsburgh",
+      "relevance": 0.199403,
+      "confidence": 0.999983,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "fifteen minutes",
+      "relevance": 0.197604,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "hematoma",
+      "relevance": 0.194861,
+      "confidence": 0.973158,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty minutes",
+      "relevance": 0.193631,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "four years",
+      "relevance": 0.181095,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Randy",
+      "relevance": 0.177136,
+      "confidence": 0.995097,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Todd",
+      "relevance": 0.174339,
+      "confidence": 0.999368,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Brady cardia",
+      "relevance": 0.173588,
+      "confidence": 0.972121,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Pennsylvania",
+      "relevance": 0.169057,
+      "confidence": 0.998952,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "forty six minutes",
+      "relevance": 0.164218,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kaski",
+      "relevance": 0.162359,
+      "confidence": 0.994613,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Wecht",
+      "relevance": 0.151433,
+      "confidence": 0.996341,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "St",
+      "relevance": 0.149755,
+      "confidence": 0.621236,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Marianne Boskalis",
+      "relevance": 0.137065,
+      "confidence": 0.999886,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Vance",
+      "relevance": 0.134393,
+      "confidence": 0.999051,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Merian",
+      "relevance": 0.132886,
+      "confidence": 0.996409,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bruce",
+      "relevance": 0.12873,
+      "confidence": 0.990504,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "six years",
+      "relevance": 0.128169,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Four years",
+      "relevance": 0.12135,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "sandy",
+      "relevance": 0.120654,
+      "confidence": 0.9856,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one hundred thousand dollar",
+      "relevance": 0.118052,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Tim Bosco ski",
+      "relevance": 0.108513,
+      "confidence": 0.842199,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jim",
+      "relevance": 0.09997,
+      "confidence": 0.988332,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Tim Forster",
+      "relevance": 0.09408,
+      "confidence": 0.995602,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Catholic Church",
+      "relevance": 0.08989,
+      "confidence": 0.671178,
+      "count": 1,
+      "disambiguation": {
+        "name": "Catholic_Church",
+        "dbpedia_resource": "http://dbpedia.org/resource/Catholic_Church",
+        "subtype": [
+          "Religion",
+          "ReligiousOrganization"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Timman merry",
+      "relevance": 0.079856,
+      "confidence": 0.518527,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mary",
+      "relevance": 0.076616,
+      "confidence": 0.999956,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "bush",
+      "relevance": 0.054631,
+      "confidence": 0.534558,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Greensboro case",
+      "relevance": 0.046792,
+      "confidence": 0.325619,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Moscow",
+      "relevance": 0.043145,
+      "confidence": 0.942325,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "five minutes",
+      "relevance": 0.039234,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "James",
+      "relevance": 0.037644,
+      "confidence": 0.999827,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Boskalis ski",
+      "relevance": 0.033537,
+      "confidence": 0.510632,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mary Ann",
+      "relevance": 0.032466,
+      "confidence": 0.771951,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.914313
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.756503
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.696983
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.680153
+    },
+    {
+      "label": "/family and parenting/babies and toddlers/baby clothes",
+      "score": 0.637823
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.63189
+    },
+    {
+      "label": "/sports/go kart",
+      "score": 0.60545
+    },
+    {
+      "label": "/society/dating",
+      "score": 0.605078
+    },
+    {
+      "label": "/society/unrest and war",
+      "score": 0.595986
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.988842,
+      "sentence": "Was it bad luck or as one forensic scientist asked was it too coincidental.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            126,
+            135
+          ],
+          "text": "scientist"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            136,
+            141
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.811962,
+      "sentence": "She met him at a dance she came home all excited St them she met the most wonderful man at the Catholic singles club that night in all her friends figured you know they hadn't seen her that excited in a while and it just might be the person.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            615,
+            618
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            639,
+            643
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.656565,
+      "sentence": "James first wife had no life insurance to speak on ten purchased a one hundred thousand dollar life insurance policy on his second wife.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10500,
+            10504
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "speak",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10530,
+            10535
+          ],
+          "text": "speak"
+        }
+      ]
+    },
+    {
+      "score": 0.681682,
+      "sentence": "Even after these two suspicious death the children steadfastly defended their father.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Bosco",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10836,
+            10842
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10830,
+            10835
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.88808,
+      "sentence": "Tim Bosco ski was arrested and charged with first degree murder in the deaths of his first wife Elaine and his second wife Marianne Moscow ski insisted he was innocent.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Bosco",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10844,
+            10853
+          ],
+          "text": "Tim Bosco"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrested",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            10862,
+            10870
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.617517,
+      "sentence": "Tim Bosco ski was arrested and charged with first degree murder in the deaths of his first wife Elaine and his second wife Marianne Moscow ski insisted he was innocent.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Bosco",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10844,
+            10853
+          ],
+          "text": "Tim Bosco"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10875,
+            10882
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.918656,
+      "sentence": "Tim Bosco ski was arrested and charged with first degree murder in the deaths of his first wife Elaine and his second wife Marianne Moscow ski insisted he was innocent.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Bosco",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10844,
+            10853
+          ],
+          "text": "Tim Bosco"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10901,
+            10907
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.299824,
+      "sentence": "Tim Bosco ski was arrested and charged with first degree murder in the deaths of his first wife Elaine and his second wife Marianne Moscow ski insisted he was innocent.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10935,
+            10939
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10901,
+            10907
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.592666,
+      "sentence": "In Greensboro North Carolina the jury found him Boskalis ski guilty in the first degree murder of a lane wife number one.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13051,
+            13055
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13034,
+            13040
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.537775,
+      "sentence": "In the murder trial of merry and wife number two it was the same verdict guilty.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13137,
+            13141
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13111,
+            13117
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.550478,
+      "sentence": "Tim Bosco ski was arrested and charged with first degree murder in the deaths of his first wife Elaine and his second wife Marianne Moscow ski insisted he was innocent.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Bosco",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10925,
+            10928
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10935,
+            10939
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.447398,
+      "sentence": "Tim Bosco ski was arrested and charged with first degree murder in the deaths of his first wife Elaine and his second wife Marianne Moscow ski insisted he was innocent.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Bosco",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10951,
+            10954
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Marianne Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10962,
+            10966
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.654898,
+      "sentence": "Tim Bosco ski was arrested and charged with first degree murder in the deaths of his first wife Elaine and his second wife Marianne Moscow ski insisted he was innocent.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Marianne Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10967,
+            10975
+          ],
+          "text": "Marianne"
+        },
+        {
+          "entities": [
+            {
+              "text": "insisted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10987,
+            10995
+          ],
+          "text": "insisted"
+        }
+      ]
+    },
+    {
+      "score": 0.92888,
+      "sentence": "Tim Bosco ski was arrested and charged with first degree murder in the deaths of his first wife Elaine and his second wife Marianne Moscow ski insisted he was innocent.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "ski",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10983,
+            10986
+          ],
+          "text": "ski"
+        },
+        {
+          "entities": [
+            {
+              "text": "Moscow",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10976,
+            10982
+          ],
+          "text": "Moscow"
+        }
+      ]
+    },
+    {
+      "score": 0.654297,
+      "sentence": "She met him at a dance she came home all excited St them she met the most wonderful man at the Catholic singles club that night in all her friends figured you know they hadn't seen her that excited in a while and it just might be the person.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            630,
+            633
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            639,
+            643
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.495554,
+      "sentence": "Prosecutors in Greensboro believed him follow the lane into the bathroom that night in nineteen ninety a later interview with one of the children revealed there was an argument.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11056,
+            11067
+          ],
+          "text": "Prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "Greensboro North Carolina",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11071,
+            11081
+          ],
+          "text": "Greensboro"
+        }
+      ]
+    },
+    {
+      "score": 0.822906,
+      "sentence": "Prosecutors in Greensboro believed him follow the lane into the bathroom that night in nineteen ninety a later interview with one of the children revealed there was an argument.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Bosco",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11091,
+            11094
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "bathroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11120,
+            11128
+          ],
+          "text": "bathroom"
+        }
+      ]
+    },
+    {
+      "score": 0.894106,
+      "sentence": "Prosecutors in Greensboro believed him follow the lane into the bathroom that night in nineteen ninety a later interview with one of the children revealed there was an argument.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Bosco",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11091,
+            11094
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            11167,
+            11176
+          ],
+          "text": "interview"
+        }
+      ]
+    },
+    {
+      "score": 0.540519,
+      "sentence": "Prosecutors in Greensboro believed him follow the lane into the bathroom that night in nineteen ninety a later interview with one of the children revealed there was an argument.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            11167,
+            11176
+          ],
+          "text": "interview"
+        },
+        {
+          "entities": [
+            {
+              "text": "bathroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11120,
+            11128
+          ],
+          "text": "bathroom"
+        }
+      ]
+    },
+    {
+      "score": 0.907423,
+      "sentence": "Prosecutors in Greensboro believed him follow the lane into the bathroom that night in nineteen ninety a later interview with one of the children revealed there was an argument.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11193,
+            11201
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            11167,
+            11176
+          ],
+          "text": "interview"
+        }
+      ]
+    },
+    {
+      "score": 0.510602,
+      "sentence": "The lack of water in and around the back top and the bruises on a plane's body told a tale of violence.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11515,
+            11519
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "plane",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11507,
+            11512
+          ],
+          "text": "plane"
+        }
+      ]
+    },
+    {
+      "score": 0.721616,
+      "sentence": "He knew from the first merger that strangulation victims sometimes vomit this may be why use the CPR mouth piece in Mary Ann's case as protection while performing CPR when paramedics arrived charade and all just to play the acting.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mary Ann",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12110,
+            12118
+          ],
+          "text": "Mary Ann"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12121,
+            12125
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.235098,
+      "sentence": "Team'S defense lawyer says that his client had no motive to kill his wife.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "defense lawyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12267,
+            12281
+          ],
+          "text": "defense lawyer"
+        },
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12260,
+            12264
+          ],
+          "text": "Team"
+        }
+      ]
+    },
+    {
+      "score": 0.992952,
+      "sentence": "Team'S defense lawyer says that his client had no motive to kill his wife.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "defense lawyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12267,
+            12281
+          ],
+          "text": "defense lawyer"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12282,
+            12286
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.33121,
+      "sentence": "Team'S defense lawyer says that his client had no motive to kill his wife.",
+      "type": "clientOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12296,
+            12302
+          ],
+          "text": "client"
+        },
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12292,
+            12295
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.396828,
+      "sentence": "She met him at a dance she came home all excited St them she met the most wonderful man at the Catholic singles club that night in all her friends figured you know they hadn't seen her that excited in a while and it just might be the person.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            691,
+            694
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "Catholic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            702,
+            710
+          ],
+          "text": "Catholic"
+        }
+      ]
+    },
+    {
+      "score": 0.720719,
+      "sentence": "Team'S defense lawyer says that his client had no motive to kill his wife.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12296,
+            12302
+          ],
+          "text": "client"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12320,
+            12324
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.952617,
+      "sentence": "Tim'S business up here was successful a new house things were going well for them the only bone of contention that anybody could point to at the time was that they had some arguments over the kids and if that's the other reason to charge a man with murder then we're in trouble.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12575,
+            12578
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12584,
+            12590
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.493778,
+      "sentence": "Tim'S business up here was successful a new house things were going well for them the only bone of contention that anybody could point to at the time was that they had some arguments over the kids and if that's the other reason to charge a man with murder then we're in trouble.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12494,
+            12498
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12584,
+            12590
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.784903,
+      "sentence": "In the Greensboro case and the Pittsburgh case teams defense claimed that both of his wives had underlying heart conditions cause accidental death.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Greensboro North Carolina",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12621,
+            12631
+          ],
+          "text": "Greensboro"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12632,
+            12636
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.680975,
+      "sentence": "In the Greensboro case and the Pittsburgh case teams defense claimed that both of his wives had underlying heart conditions cause accidental death.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Pittsburgh Pennsylvania",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12645,
+            12655
+          ],
+          "text": "Pittsburgh"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12656,
+            12660
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.400465,
+      "sentence": "In the Greensboro case and the Pittsburgh case teams defense claimed that both of his wives had underlying heart conditions cause accidental death.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "teams",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12661,
+            12666
+          ],
+          "text": "teams"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12656,
+            12660
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.379977,
+      "sentence": "In the Greensboro case and the Pittsburgh case teams defense claimed that both of his wives had underlying heart conditions cause accidental death.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12696,
+            12699
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "wives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12700,
+            12705
+          ],
+          "text": "wives"
+        }
+      ]
+    },
+    {
+      "score": 0.872153,
+      "sentence": "In Greensboro North Carolina the jury found him Boskalis ski guilty in the first degree murder of a lane wife number one.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "ski",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13003,
+            13006
+          ],
+          "text": "ski"
+        },
+        {
+          "entities": [
+            {
+              "text": "Greensboro North Carolina",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12949,
+            12974
+          ],
+          "text": "Greensboro North Carolina"
+        }
+      ]
+    },
+    {
+      "score": 0.55039,
+      "sentence": "In Greensboro North Carolina the jury found him Boskalis ski guilty in the first degree murder of a lane wife number one.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12994,
+            13002
+          ],
+          "text": "Boskalis"
+        },
+        {
+          "entities": [
+            {
+              "text": "ski",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13003,
+            13006
+          ],
+          "text": "ski"
+        }
+      ]
+    },
+    {
+      "score": 0.587435,
+      "sentence": "In Greensboro North Carolina the jury found him Boskalis ski guilty in the first degree murder of a lane wife number one.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13034,
+            13040
+          ],
+          "text": "murder"
+        },
+        {
+          "entities": [
+            {
+              "text": "ski",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13003,
+            13006
+          ],
+          "text": "ski"
+        }
+      ]
+    },
+    {
+      "score": 0.485841,
+      "sentence": "He was sentenced to life in prison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13068,
+            13070
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13075,
+            13084
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.653014,
+      "sentence": "She met him at a dance she came home all excited St them she met the most wonderful man at the Catholic singles club that night in all her friends figured you know they hadn't seen her that excited in a while and it just might be the person.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            691,
+            694
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "singles",
+              "type": "SportingEvent"
+            }
+          ],
+          "location": [
+            711,
+            718
+          ],
+          "text": "singles"
+        }
+      ]
+    },
+    {
+      "score": 0.591187,
+      "sentence": "He was sentenced to life in prison.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13068,
+            13070
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13096,
+            13102
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.580538,
+      "sentence": "In the murder trial of merry and wife number two it was the same verdict guilty.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13137,
+            13141
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13118,
+            13123
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.473376,
+      "sentence": "I was always against the death penalty.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13185,
+            13186
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "death penalty",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13210,
+            13223
+          ],
+          "text": "death penalty"
+        }
+      ]
+    },
+    {
+      "score": 0.725686,
+      "sentence": "Team boss because he continues to maintain his innocence.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "boss",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13266,
+            13270
+          ],
+          "text": "boss"
+        },
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13261,
+            13265
+          ],
+          "text": "Team"
+        }
+      ]
+    },
+    {
+      "score": 0.464843,
+      "sentence": "His children say their father didn't receive fair trials because jurors in both cases heard about both deaths well without forensics of course this case would have been missed and if a case like this happens in a jurisdiction in which there is no competent forensic pathologist it could well be best you know the marks on the neck very very subtle very minimal.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13319,
+            13322
+          ],
+          "text": "His"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13323,
+            13331
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.994654,
+      "sentence": "His children say their father didn't receive fair trials because jurors in both cases heard about both deaths well without forensics of course this case would have been missed and if a case like this happens in a jurisdiction in which there is no competent forensic pathologist it could well be best you know the marks on the neck very very subtle very minimal.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13323,
+            13331
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13332,
+            13335
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.646202,
+      "sentence": "His children say their father didn't receive fair trials because jurors in both cases heard about both deaths well without forensics of course this case would have been missed and if a case like this happens in a jurisdiction in which there is no competent forensic pathologist it could well be best you know the marks on the neck very very subtle very minimal.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13342,
+            13348
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13336,
+            13341
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.330301,
+      "sentence": "She met him at a dance she came home all excited St them she met the most wonderful man at the Catholic singles club that night in all her friends figured you know they hadn't seen her that excited in a while and it just might be the person.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Catholic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            702,
+            710
+          ],
+          "text": "Catholic"
+        },
+        {
+          "entities": [
+            {
+              "text": "singles",
+              "type": "SportingEvent"
+            }
+          ],
+          "location": [
+            711,
+            718
+          ],
+          "text": "singles"
+        }
+      ]
+    },
+    {
+      "score": 0.48184,
+      "sentence": "She met him at a dance she came home all excited St them she met the most wonderful man at the Catholic singles club that night in all her friends figured you know they hadn't seen her that excited in a while and it just might be the person.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Pittsburgh Pennsylvania",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            719,
+            723
+          ],
+          "text": "club"
+        },
+        {
+          "entities": [
+            {
+              "text": "singles",
+              "type": "SportingEvent"
+            }
+          ],
+          "location": [
+            711,
+            718
+          ],
+          "text": "singles"
+        }
+      ]
+    },
+    {
+      "score": 0.406502,
+      "sentence": "She met him at a dance she came home all excited St them she met the most wonderful man at the Catholic singles club that night in all her friends figured you know they hadn't seen her that excited in a while and it just might be the person.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            762,
+            765
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            771,
+            775
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.361013,
+      "sentence": "Merry and soon fell in love with him and his kids Randy sandy and taught.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            890,
+            893
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            894,
+            898
+          ],
+          "text": "kids"
+        }
+      ]
+    },
+    {
+      "score": 0.341805,
+      "sentence": "And the couple married merry and included Tim's children in the ceremony.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            965,
+            968
+          ],
+          "text": "Tim"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            971,
+            979
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.977799,
+      "sentence": "Merry and soon fell in love with him and his kids Randy sandy and taught.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Randy sandy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            899,
+            910
+          ],
+          "text": "Randy sandy"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            894,
+            898
+          ],
+          "text": "kids"
+        }
+      ]
+    },
+    {
+      "score": 0.668582,
+      "sentence": "And the couple married merry and included Tim's children in the ceremony.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Catholic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            931,
+            937
+          ],
+          "text": "couple"
+        },
+        {
+          "entities": [
+            {
+              "text": "ceremony",
+              "type": "EventPerformance"
+            }
+          ],
+          "location": [
+            987,
+            995
+          ],
+          "text": "ceremony"
+        }
+      ]
+    },
+    {
+      "score": 0.717006,
+      "sentence": "Just a few months earlier in North Carolina Tim suffered the deal loss of his business and the accidental death of his wife Elaine.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            347,
+            350
+          ],
+          "text": "Tim"
+        },
+        {
+          "entities": [
+            {
+              "text": "Greensboro North Carolina",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            332,
+            346
+          ],
+          "text": "North Carolina"
+        }
+      ]
+    },
+    {
+      "score": 0.909502,
+      "sentence": "And the couple married merry and included Tim's children in the ceremony.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            965,
+            968
+          ],
+          "text": "Tim"
+        },
+        {
+          "entities": [
+            {
+              "text": "ceremony",
+              "type": "EventPerformance"
+            }
+          ],
+          "location": [
+            987,
+            995
+          ],
+          "text": "ceremony"
+        }
+      ]
+    },
+    {
+      "score": 0.748327,
+      "sentence": "And the couple married merry and included Tim's children in the ceremony.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            971,
+            979
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "ceremony",
+              "type": "EventPerformance"
+            }
+          ],
+          "location": [
+            987,
+            995
+          ],
+          "text": "ceremony"
+        }
+      ]
+    },
+    {
+      "score": 0.996669,
+      "sentence": "She vowed to love them and cherish them and take care of them as long as she could she had to Randy.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            997,
+            1000
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "vowed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1001,
+            1006
+          ],
+          "text": "vowed"
+        }
+      ]
+    },
+    {
+      "score": 0.99834,
+      "sentence": "She kissed sandy she kissed Todd and his very emotional when she said this printer.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1159,
+            1162
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1163,
+            1167
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.411951,
+      "sentence": "She kissed sandy she kissed Todd and his very emotional when she said this printer.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Todd",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1173,
+            1180
+          ],
+          "text": "printer"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1163,
+            1167
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.448234,
+      "sentence": "Shortly after midnight on November seventh nineteen ninety four ten pound his wife unconscious in the family hot top.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1452,
+            1456
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1476,
+            1482
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.863396,
+      "sentence": "Marianne was rushed to the trauma center at Allegheny General Hospital but it was too late she was pronounced dead.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Marianne Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1492,
+            1500
+          ],
+          "text": "Marianne"
+        },
+        {
+          "entities": [
+            {
+              "text": "trauma center",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1519,
+            1532
+          ],
+          "text": "trauma center"
+        }
+      ]
+    },
+    {
+      "score": 0.997085,
+      "sentence": "Tim told police that he and merry and went into the hot tub together around eleven o'clock.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1656,
+            1659
+          ],
+          "text": "Tim"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1660,
+            1664
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.943436,
+      "sentence": "The lack of water in and around the back top and the bruises on a plane's body told a tale of violence.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11515,
+            11519
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11520,
+            11524
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.970713,
+      "sentence": "She left a message for all us with trauma but her body to prove that this was an accidental drowning he basically told the same story twice with two wives you know in both cases neither story hell water you know so it was basically just always.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13782,
+            13784
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13795,
+            13799
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.976782,
+      "sentence": "Tim told police that he and merry and went into the hot tub together around eleven o'clock.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1665,
+            1671
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1660,
+            1664
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.548599,
+      "sentence": "Tim told police that he and merry and went into the hot tub together around eleven o'clock.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1677,
+            1679
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "eleven",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1732,
+            1738
+          ],
+          "text": "eleven"
+        }
+      ]
+    },
+    {
+      "score": 0.731465,
+      "sentence": "Just a few months earlier in North Carolina Tim suffered the deal loss of his business and the accidental death of his wife Elaine.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            418,
+            421
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            422,
+            426
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.807608,
+      "sentence": "Shortly after midnight on November seventh nineteen ninety four ten pound his wife unconscious in the family hot top.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1448,
+            1451
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1452,
+            1456
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.317784,
+      "sentence": "Marianne'S family was suspicious they had heard rumors to Tim's first wife died under similar circumstances I ask Marianne I said I had heard that she had drowned in a bath.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4391,
+            4394
+          ],
+          "text": "Tim"
+        },
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4403,
+            4407
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.322465,
+      "sentence": "Brenda Vance was a rookie police officer in nineteen ninety and the same size as Tim's first wife Elaine.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6061,
+            6064
+          ],
+          "text": "Tim"
+        },
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6073,
+            6077
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.365674,
+      "sentence": "And that was another similarity both of them were very much involved in the Catholic Church the investigation into the death of Tim's first wife was inconclusive.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7920,
+            7923
+          ],
+          "text": "Tim"
+        },
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7932,
+            7936
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.7199,
+      "sentence": "Team'S defense lawyer says that his client had no motive to kill his wife.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12325,
+            12328
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12329,
+            12333
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.972244,
+      "sentence": "Leader Kim left to take a shower and he said merry and stayed behind.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2074,
+            2076
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2077,
+            2081
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.692753,
+      "sentence": "we had an episode where we had witnesses that were in the car with her church were concerned about her drinking once again Tim Boskalis gate was the weather where.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2905,
+            2914
+          ],
+          "text": "witnesses"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2932,
+            2935
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.476826,
+      "sentence": "On the night merry and Boskalis D. di police investigating the case were not sure whether it was a freak accident or something else.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Boskalis D. di",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3101,
+            3115
+          ],
+          "text": "Boskalis D. di"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigating",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            3123,
+            3136
+          ],
+          "text": "investigating"
+        }
+      ]
+    },
+    {
+      "score": 0.932605,
+      "sentence": "On the night merry and Boskalis D. di police investigating the case were not sure whether it was a freak accident or something else.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3116,
+            3122
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigating",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            3123,
+            3136
+          ],
+          "text": "investigating"
+        }
+      ]
+    },
+    {
+      "score": 0.288024,
+      "sentence": "On the deck officers also saw a weapon pack of cigarettes an ashtray two cops and a small box that held the breeding device team used to administer CPR on Marianne until paramedics arrived the device typically is used on strangers to prevent disease that was suspicious.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3382,
+            3390
+          ],
+          "text": "officers"
+        },
+        {
+          "entities": [
+            {
+              "text": "deck",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3377,
+            3381
+          ],
+          "text": "deck"
+        }
+      ]
+    },
+    {
+      "score": 0.373274,
+      "sentence": "Personals right mind would want to use this device on his own wife.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3695,
+            3698
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3703,
+            3707
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.45656,
+      "sentence": "And take the time to leave her alone atop the run down in the basement the farthest thing to bring it up.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Marianne Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3736,
+            3739
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3771,
+            3779
+          ],
+          "text": "basement"
+        }
+      ]
+    },
+    {
+      "score": 0.50302,
+      "sentence": "Something else bothered police a scratch on Tim Boskalis keys neck detectives asked him to remove his shirt they saw on multiple scratches on both sides of his waist and shoulder and left arm and his left cheek and was Bruce the superficial scratches on his back did not bleed okay they were not surrounded by bruising or black and blue or hematoma contusions on his body there were just little scratches didn't necessarily take a I I train police officers to to figure out that there was really something wrong here.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3839,
+            3845
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3893,
+            3898
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.452988,
+      "sentence": "Something else bothered police a scratch on Tim Boskalis keys neck detectives asked him to remove his shirt they saw on multiple scratches on both sides of his waist and shoulder and left arm and his left cheek and was Bruce the superficial scratches on his back did not bleed okay they were not surrounded by bruising or black and blue or hematoma contusions on his body there were just little scratches didn't necessarily take a I I train police officers to to figure out that there was really something wrong here.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3882,
+            3892
+          ],
+          "text": "detectives"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3893,
+            3898
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.759966,
+      "sentence": "Something else bothered police a scratch on Tim Boskalis keys neck detectives asked him to remove his shirt they saw on multiple scratches on both sides of his waist and shoulder and left arm and his left cheek and was Bruce the superficial scratches on his back did not bleed okay they were not surrounded by bruising or black and blue or hematoma contusions on his body there were just little scratches didn't necessarily take a I I train police officers to to figure out that there was really something wrong here.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3899,
+            3902
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3893,
+            3898
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.475107,
+      "sentence": "Tim started a small company to make crowns and bridges for local dentist.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            435,
+            438
+          ],
+          "text": "Tim"
+        },
+        {
+          "entities": [
+            {
+              "text": "Pittsburgh Pennsylvania",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            455,
+            462
+          ],
+          "text": "company"
+        }
+      ]
+    },
+    {
+      "score": 0.573331,
+      "sentence": "Something else bothered police a scratch on Tim Boskalis keys neck detectives asked him to remove his shirt they saw on multiple scratches on both sides of his waist and shoulder and left arm and his left cheek and was Bruce the superficial scratches on his back did not bleed okay they were not surrounded by bruising or black and blue or hematoma contusions on his body there were just little scratches didn't necessarily take a I I train police officers to to figure out that there was really something wrong here.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bruce",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4069,
+            4072
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4097,
+            4101
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.604759,
+      "sentence": "Something else bothered police a scratch on Tim Boskalis keys neck detectives asked him to remove his shirt they saw on multiple scratches on both sides of his waist and shoulder and left arm and his left cheek and was Bruce the superficial scratches on his back did not bleed okay they were not surrounded by bruising or black and blue or hematoma contusions on his body there were just little scratches didn't necessarily take a I I train police officers to to figure out that there was really something wrong here.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bruce",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4248,
+            4249
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "train",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            4250,
+            4255
+          ],
+          "text": "train"
+        }
+      ]
+    },
+    {
+      "score": 0.927743,
+      "sentence": "Something else bothered police a scratch on Tim Boskalis keys neck detectives asked him to remove his shirt they saw on multiple scratches on both sides of his waist and shoulder and left arm and his left cheek and was Bruce the superficial scratches on his back did not bleed okay they were not surrounded by bruising or black and blue or hematoma contusions on his body there were just little scratches didn't necessarily take a I I train police officers to to figure out that there was really something wrong here.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4263,
+            4271
+          ],
+          "text": "officers"
+        },
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4256,
+            4262
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.466637,
+      "sentence": "Marianne'S family was suspicious they had heard rumors to Tim's first wife died under similar circumstances I ask Marianne I said I had heard that she had drowned in a bath.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Marianne Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4333,
+            4341
+          ],
+          "text": "Marianne"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4344,
+            4350
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.402661,
+      "sentence": "Marianne'S family was suspicious they had heard rumors to Tim's first wife died under similar circumstances I ask Marianne I said I had heard that she had drowned in a bath.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4403,
+            4407
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "ask",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4443,
+            4446
+          ],
+          "text": "ask"
+        }
+      ]
+    },
+    {
+      "score": 0.556182,
+      "sentence": "Marianne'S family was suspicious they had heard rumors to Tim's first wife died under similar circumstances I ask Marianne I said I had heard that she had drowned in a bath.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4403,
+            4407
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4458,
+            4462
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.495971,
+      "sentence": "She choked on something and I said what in the world was she in the bathtub that she would choke on and she said I don't know she said ten doesn't like to talk about it it gets too upset.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4588,
+            4591
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4615,
+            4619
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.960375,
+      "sentence": "She choked on something and I said what in the world was she in the bathtub that she would choke on and she said I don't know she said ten doesn't like to talk about it it gets too upset.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4611,
+            4614
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4615,
+            4619
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.946585,
+      "sentence": "She choked on something and I said what in the world was she in the bathtub that she would choke on and she said I don't know she said ten doesn't like to talk about it it gets too upset.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4633,
+            4636
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4637,
+            4641
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.91316,
+      "sentence": "Marianne'S family was suspicious they had heard rumors to Tim's first wife died under similar circumstances I ask Marianne I said I had heard that she had drowned in a bath.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bruce",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4441,
+            4442
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "ask",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4443,
+            4446
+          ],
+          "text": "ask"
+        }
+      ]
+    },
+    {
+      "score": 0.571338,
+      "sentence": "Marianne'S family was suspicious they had heard rumors to Tim's first wife died under similar circumstances I ask Marianne I said I had heard that she had drowned in a bath.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Marianne Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4447,
+            4457
+          ],
+          "text": "Marianne I"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4458,
+            4462
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.980661,
+      "sentence": "She choked on something and I said what in the world was she in the bathtub that she would choke on and she said I don't know she said ten doesn't like to talk about it it gets too upset.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Marianne Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4535,
+            4536
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4537,
+            4541
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.454064,
+      "sentence": "Marianne'S family was suspicious they had heard rumors to Tim's first wife died under similar circumstances I ask Marianne I said I had heard that she had drowned in a bath.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bruce",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4463,
+            4464
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4458,
+            4462
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.28847,
+      "sentence": "Marianne'S family was suspicious they had heard rumors to Tim's first wife died under similar circumstances I ask Marianne I said I had heard that she had drowned in a bath.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bruce",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4463,
+            4464
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "bathroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4501,
+            4505
+          ],
+          "text": "bath"
+        }
+      ]
+    },
+    {
+      "score": 0.588958,
+      "sentence": "Tim started a small company to make crowns and bridges for local dentist.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            435,
+            438
+          ],
+          "text": "Tim"
+        },
+        {
+          "entities": [
+            {
+              "text": "bridges",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            482,
+            489
+          ],
+          "text": "bridges"
+        }
+      ]
+    },
+    {
+      "score": 0.583066,
+      "sentence": "Marianne'S family was suspicious they had heard rumors to Tim's first wife died under similar circumstances I ask Marianne I said I had heard that she had drowned in a bath.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4480,
+            4483
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "bathroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4501,
+            4505
+          ],
+          "text": "bath"
+        }
+      ]
+    },
+    {
+      "score": 0.681162,
+      "sentence": "Police in Greensboro North Carolina confirmed the team's first wife Elaine died in a bath tub accident.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4763,
+            4769
+          ],
+          "text": "Elaine"
+        },
+        {
+          "entities": [
+            {
+              "text": "bathroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4780,
+            4784
+          ],
+          "text": "bath"
+        }
+      ]
+    },
+    {
+      "score": 0.621306,
+      "sentence": "Police in Greensboro North Carolina confirmed the team's first wife Elaine died in a bath tub accident.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4695,
+            4701
+          ],
+          "text": "Police"
+        },
+        {
+          "entities": [
+            {
+              "text": "Greensboro North Carolina",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4705,
+            4730
+          ],
+          "text": "Greensboro North Carolina"
+        }
+      ]
+    },
+    {
+      "score": 0.394171,
+      "sentence": "Police in Greensboro North Carolina confirmed the team's first wife Elaine died in a bath tub accident.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4758,
+            4762
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "team",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4745,
+            4749
+          ],
+          "text": "team"
+        }
+      ]
+    },
+    {
+      "score": 0.494073,
+      "sentence": "Police in Greensboro North Carolina confirmed the team's first wife Elaine died in a bath tub accident.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4763,
+            4769
+          ],
+          "text": "Elaine"
+        },
+        {
+          "entities": [
+            {
+              "text": "accident",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            4789,
+            4797
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.512708,
+      "sentence": "Four years earlier team said Alain was intoxicated when she came home from a church social function.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Four years earlier",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            4799,
+            4817
+          ],
+          "text": "Four years earlier"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4823,
+            4827
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.941882,
+      "sentence": "Four years earlier team said Alain was intoxicated when she came home from a church social function.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4818,
+            4822
+          ],
+          "text": "team"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4823,
+            4827
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.563196,
+      "sentence": "Four years earlier team said Alain was intoxicated when she came home from a church social function.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Alain vomited",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4828,
+            4833
+          ],
+          "text": "Alain"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4864,
+            4868
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.455775,
+      "sentence": "Four years earlier team said Alain was intoxicated when she came home from a church social function.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4855,
+            4858
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4864,
+            4868
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.80957,
+      "sentence": "Alain went to take a bath Kim said he went to bed.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Alain vomited",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4900,
+            4905
+          ],
+          "text": "Alain"
+        },
+        {
+          "entities": [
+            {
+              "text": "bathroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4921,
+            4925
+          ],
+          "text": "bath"
+        }
+      ]
+    },
+    {
+      "score": 0.992648,
+      "sentence": "Alain went to take a bath Kim said he went to bed.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kim Bosco",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4926,
+            4929
+          ],
+          "text": "Kim"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4930,
+            4934
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.682694,
+      "sentence": "And just seven months after the death of his wife he met thirty two year old merry and Fullerton.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Caskey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            550,
+            553
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            554,
+            558
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.578655,
+      "sentence": "At the time the couple's daughter sandy was six years old both she and her father said they heard a loud noise in the bathroom I remember hearing.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4976,
+            4984
+          ],
+          "text": "daughter"
+        },
+        {
+          "entities": [
+            {
+              "text": "Catholic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4967,
+            4973
+          ],
+          "text": "couple"
+        }
+      ]
+    },
+    {
+      "score": 0.942486,
+      "sentence": "At the time the couple's daughter sandy was six years old both she and her father said they heard a loud noise in the bathroom I remember hearing.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Randy sandy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4985,
+            4990
+          ],
+          "text": "sandy"
+        },
+        {
+          "entities": [
+            {
+              "text": "six years old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            4995,
+            5008
+          ],
+          "text": "six years old"
+        }
+      ]
+    },
+    {
+      "score": 0.694981,
+      "sentence": "At the time the couple's daughter sandy was six years old both she and her father said they heard a loud noise in the bathroom I remember hearing.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Randy sandy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5026,
+            5032
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5022,
+            5025
+          ],
+          "text": "her"
+        }
+      ]
+    },
+    {
+      "score": 0.470031,
+      "sentence": "At the time the couple's daughter sandy was six years old both she and her father said they heard a loud noise in the bathroom I remember hearing.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5022,
+            5025
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Catholic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5038,
+            5042
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.969199,
+      "sentence": "At the time the couple's daughter sandy was six years old both she and her father said they heard a loud noise in the bathroom I remember hearing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Randy sandy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5026,
+            5032
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5033,
+            5037
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.509934,
+      "sentence": "At the time the couple's daughter sandy was six years old both she and her father said they heard a loud noise in the bathroom I remember hearing.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Randy sandy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5026,
+            5032
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "Catholic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5038,
+            5042
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.564619,
+      "sentence": "At the time the couple's daughter sandy was six years old both she and her father said they heard a loud noise in the bathroom I remember hearing.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Catholic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5038,
+            5042
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "bathroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5069,
+            5077
+          ],
+          "text": "bathroom"
+        }
+      ]
+    },
+    {
+      "score": 0.382905,
+      "sentence": "I remember getting up and being the one who with my dad at.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5147,
+            5149
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "dad",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5150,
+            5153
+          ],
+          "text": "dad"
+        }
+      ]
+    },
+    {
+      "score": 0.948781,
+      "sentence": "Teams at the bathroom door was locked which he forced open with a screwdriver.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5158,
+            5163
+          ],
+          "text": "Teams"
+        },
+        {
+          "entities": [
+            {
+              "text": "bathroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5171,
+            5179
+          ],
+          "text": "bathroom"
+        }
+      ]
+    },
+    {
+      "score": 0.729354,
+      "sentence": "Inside he found his wife on her back in the bathtub unconscious submerged in the water Jim said he pulled her out of the top and placed her over the shower door tracks to try to revive her he later across the two thinking that he could get the water out of.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kim Bosco",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5253,
+            5256
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5257,
+            5261
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.889796,
+      "sentence": "She met him at a dance she came home all excited St them she met the most wonderful man at the Catholic singles club that night in all her friends figured you know they hadn't seen her that excited in a while and it just might be the person.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            607,
+            610
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "met",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            611,
+            614
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.997836,
+      "sentence": "Inside he found his wife on her back in the bathtub unconscious submerged in the water Jim said he pulled her out of the top and placed her over the shower door tracks to try to revive her he later across the two thinking that he could get the water out of.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5324,
+            5327
+          ],
+          "text": "Jim"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5328,
+            5332
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.423209,
+      "sentence": "Because he felt like she had swallowed water and that was keeping her from breathing paramedics rushed to lane to the Wesley long community hospital where she was pronounced dead.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wesley",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5613,
+            5619
+          ],
+          "text": "Wesley"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5635,
+            5643
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.825285,
+      "sentence": "Because he felt like she had swallowed water and that was keeping her from breathing paramedics rushed to lane to the Wesley long community hospital where she was pronounced dead.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5650,
+            5653
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "pronounced",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5658,
+            5668
+          ],
+          "text": "pronounced"
+        }
+      ]
+    },
+    {
+      "score": 0.714786,
+      "sentence": "Disturbed by the lack of water in the bus the bathroom.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            6124,
+            6127
+          ],
+          "text": "bus"
+        },
+        {
+          "entities": [
+            {
+              "text": "bathroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6132,
+            6140
+          ],
+          "text": "bathroom"
+        }
+      ]
+    },
+    {
+      "score": 0.420274,
+      "sentence": "Vance conducted an experiment in your own home back.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Vance",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6142,
+            6147
+          ],
+          "text": "Vance"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6184,
+            6188
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.428139,
+      "sentence": "Vance conducted an experiment in your own home back.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6175,
+            6179
+          ],
+          "text": "your"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6184,
+            6188
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.998557,
+      "sentence": "The explanations that he offered for the marks on the body couldn't be refuted by the autopsy findings when he said I put her over the edge of the tub to to try to resuscitate or or an attempt to save her life well we we have a mark that's consistent with putting a body over the edge of the tub the toxicology report showed Elaine alcohol level was zero she was not in the brigade against him.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6674,
+            6676
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "argued",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6677,
+            6681
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.463881,
+      "sentence": "The explanations that he offered for the marks on the body couldn't be refuted by the autopsy findings when he said I put her over the edge of the tub to to try to resuscitate or or an attempt to save her life well we we have a mark that's consistent with putting a body over the edge of the tub the toxicology report showed Elaine alcohol level was zero she was not in the brigade against him.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6767,
+            6770
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6781,
+            6783
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.918015,
+      "sentence": "Kim Bosco ski got away with murder the first time.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kim Bosco",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7459,
+            7468
+          ],
+          "text": "Kim Bosco"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7487,
+            7493
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.993618,
+      "sentence": "Friends and relatives say the two wives strongly resembled each other.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "relatives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7733,
+            7742
+          ],
+          "text": "relatives"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7743,
+            7746
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.887708,
+      "sentence": "She met him at a dance she came home all excited St them she met the most wonderful man at the Catholic singles club that night in all her friends figured you know they hadn't seen her that excited in a while and it just might be the person.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            615,
+            618
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "met",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            611,
+            614
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.503785,
+      "sentence": "Friends and relatives say the two wives strongly resembled each other.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "wives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7755,
+            7760
+          ],
+          "text": "wives"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7743,
+            7746
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.690227,
+      "sentence": "And that was another similarity both of them were very much involved in the Catholic Church the investigation into the death of Tim's first wife was inconclusive.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Catholic Church",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7868,
+            7883
+          ],
+          "text": "Catholic Church"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            7888,
+            7901
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.511154,
+      "sentence": "And that was another similarity both of them were very much involved in the Catholic Church the investigation into the death of Tim's first wife was inconclusive.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7920,
+            7923
+          ],
+          "text": "Tim"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            7888,
+            7901
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.777029,
+      "sentence": "And that was another similarity both of them were very much involved in the Catholic Church the investigation into the death of Tim's first wife was inconclusive.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7932,
+            7936
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            7888,
+            7901
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.614131,
+      "sentence": "Investigators were hoping for more in the autopsy of ten second wife it is impossible to know exactly what happened but we can piece together some things in.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8019,
+            8023
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "wives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8075,
+            8077
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.579256,
+      "sentence": "Brady cardia as we call it that slowing of the heart can set the stage in some instances uncontrollably unpredictably quite a radically of a cardiac a review and abnormal beating of the heart in other words the heart just stopped beating belongs and stop functioning and in a matter of forty six minutes your debt.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brady cardia",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8881,
+            8893
+          ],
+          "text": "Brady cardia"
+        },
+        {
+          "entities": [
+            {
+              "text": "wives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8897,
+            8899
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.899771,
+      "sentence": "I think you know that Mister bush Kaski strangled her I think he pride pressure to her neck I think that he and held her arms he may well have held her underwater although we don't have any definitive evidence of prolonged immersion in water I think that day was a staged and drowning I think that the death was due to strangulation.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brady cardia",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9322,
+            9324
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "wives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9368,
+            9370
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.674289,
+      "sentence": "I think you know that Mister bush Kaski strangled her I think he pride pressure to her neck I think that he and held her arms he may well have held her underwater although we don't have any definitive evidence of prolonged immersion in water I think that day was a staged and drowning I think that the death was due to strangulation.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9344,
+            9347
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "wives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9368,
+            9370
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.98566,
+      "sentence": "Dr Wecht says being intoxicated made it difficult for Mary and to fight off her attacker the official ruling.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wecht",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9565,
+            9570
+          ],
+          "text": "Wecht"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9571,
+            9575
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.781659,
+      "sentence": "Dr Wecht says being intoxicated made it difficult for Mary and to fight off her attacker the official ruling.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mary Ann",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9642,
+            9650
+          ],
+          "text": "attacker"
+        },
+        {
+          "entities": [
+            {
+              "text": "ruling",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            9664,
+            9670
+          ],
+          "text": "ruling"
+        }
+      ]
+    },
+    {
+      "score": 0.548545,
+      "sentence": "As negotiations you to compression of the neck as the medical evidence incontrovertible in our minds indicated he strangled her.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "wives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9763,
+            9766
+          ],
+          "text": "our"
+        },
+        {
+          "entities": [
+            {
+              "text": "strangled",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9786,
+            9795
+          ],
+          "text": "strangled"
+        }
+      ]
+    },
+    {
+      "score": 0.455313,
+      "sentence": "She met him at a dance she came home all excited St them she met the most wonderful man at the Catholic singles club that night in all her friends figured you know they hadn't seen her that excited in a while and it just might be the person.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "met",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            611,
+            614
+          ],
+          "text": "met"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            639,
+            643
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.961461,
+      "sentence": "As negotiations you to compression of the neck as the medical evidence incontrovertible in our minds indicated he strangled her.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brady cardia",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9783,
+            9785
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "strangled",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9786,
+            9795
+          ],
+          "text": "strangled"
+        }
+      ]
+    },
+    {
+      "score": 0.515367,
+      "sentence": "As negotiations you to compression of the neck as the medical evidence incontrovertible in our minds indicated he strangled her.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9796,
+            9799
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "strangled",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9786,
+            9795
+          ],
+          "text": "strangled"
+        }
+      ]
+    },
+    {
+      "score": 0.919018,
+      "sentence": "Gift him murdered both of his wives as alleged what was the motive.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brady cardia",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9900,
+            9903
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9904,
+            9912
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.950606,
+      "sentence": "If then when the time came if he ever had to kill or he would do it next time you have a lot more money than you got the first time.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brady cardia",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10655,
+            10657
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10670,
+            10674
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.686155,
+      "sentence": "Gift him murdered both of his wives as alleged what was the motive.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "wives",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            9913,
+            9917
+          ],
+          "text": "both"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9904,
+            9912
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.51435,
+      "sentence": "Gift him murdered both of his wives as alleged what was the motive.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "wives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9925,
+            9930
+          ],
+          "text": "wives"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9904,
+            9912
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.915693,
+      "sentence": "When prosecutors interviewed Marianne Boskalis keys family and friends they learned that came and merry and had recently been on a cruise and all was not happy Merian said if things don't get better.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9968,
+            9979
+          ],
+          "text": "prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            9980,
+            9991
+          ],
+          "text": "interviewed"
+        }
+      ]
+    },
+    {
+      "score": 0.5995,
+      "sentence": "When prosecutors interviewed Marianne Boskalis keys family and friends they learned that came and merry and had recently been on a cruise and all was not happy Merian said if things don't get better.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Marianne Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9992,
+            10009
+          ],
+          "text": "Marianne Boskalis"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            9980,
+            9991
+          ],
+          "text": "interviewed"
+        }
+      ]
+    },
+    {
+      "score": 0.990542,
+      "sentence": "When prosecutors interviewed Marianne Boskalis keys family and friends they learned that came and merry and had recently been on a cruise and all was not happy Merian said if things don't get better.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Merian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10123,
+            10129
+          ],
+          "text": "Merian"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10130,
+            10134
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.806829,
+      "sentence": "When I by the time I get back I can always leave and I'm taking the children with me there was evidence Tim's first wife Elaine was planning to divorce him as well.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tim Boskalis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10267,
+            10270
+          ],
+          "text": "Tim"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10231,
+            10239
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.645427,
+      "sentence": "When I by the time I get back I can always leave and I'm taking the children with me there was evidence Tim's first wife Elaine was planning to divorce him as well.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10279,
+            10283
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10231,
+            10239
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.437065,
+      "sentence": "James first wife had no life insurance to speak on ten purchased a one hundred thousand dollar life insurance policy on his second wife.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "James",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10488,
+            10493
+          ],
+          "text": "James"
+        },
+        {
+          "entities": [
+            {
+              "text": "Elaine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10500,
+            10504
+          ],
+          "text": "wife"
+        }
+      ]
+    }
+  ]
+}

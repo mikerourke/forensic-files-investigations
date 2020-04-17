@@ -1,0 +1,6235 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 16020,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Steve",
+      "relevance": 0.965259,
+      "confidence": 1,
+      "count": 26
+    },
+    {
+      "type": "Person",
+      "text": "Kim",
+      "relevance": 0.624138,
+      "confidence": 1,
+      "count": 15
+    },
+    {
+      "type": "Person",
+      "text": "Steve Rico",
+      "relevance": 0.567768,
+      "confidence": 0.999768,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Kimberly",
+      "relevance": 0.38397,
+      "confidence": 1,
+      "count": 9
+    },
+    {
+      "type": "Quantity",
+      "text": "eight year",
+      "relevance": 0.352126,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Kim Rico",
+      "relevance": 0.290673,
+      "confidence": 0.999984,
+      "count": 2
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "miles river",
+      "relevance": 0.272058,
+      "confidence": 0.550851,
+      "count": 1,
+      "disambiguation": {
+        "name": "Miles_River",
+        "dbpedia_resource": "http://dbpedia.org/resource/Miles_River",
+        "subtype": [
+          "Location",
+          "BodyOfWater",
+          "River"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Maryland",
+      "relevance": 0.266613,
+      "confidence": 0.994282,
+      "count": 3,
+      "disambiguation": {
+        "name": "Province_of_Maryland",
+        "dbpedia_resource": "http://dbpedia.org/resource/Province_of_Maryland"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Stephen Kim Rico",
+      "relevance": 0.262429,
+      "confidence": 0.704298,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Steve house",
+      "relevance": 0.257736,
+      "confidence": 0.555802,
+      "count": 1,
+      "disambiguation": {
+        "name": "Steve_House",
+        "dbpedia_resource": "http://dbpedia.org/resource/Steve_House",
+        "subtype": [
+          "Mountaineer"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty five year",
+      "relevance": 0.243143,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Steve Bannon",
+      "relevance": 0.225152,
+      "confidence": 0.999924,
+      "count": 1
+    },
+    {
+      "type": "Sport",
+      "text": "golf",
+      "relevance": 0.221824,
+      "confidence": 1,
+      "count": 4,
+      "disambiguation": {
+        "name": "Golf",
+        "dbpedia_resource": "http://dbpedia.org/resource/Golf",
+        "subtype": [
+          "BroadcastContent",
+          "OrganizationSector",
+          "TouristAttraction"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Michael Mulligan",
+      "relevance": 0.206623,
+      "confidence": 0.542518,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr David Fowler",
+      "relevance": 0.195001,
+      "confidence": 0.993498,
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "playboy",
+      "relevance": 0.190948,
+      "confidence": 0.999919,
+      "count": 3,
+      "disambiguation": {
+        "name": "Playboy",
+        "dbpedia_resource": "http://dbpedia.org/resource/Playboy",
+        "subtype": [
+          "AwardPresentingOrganization",
+          "Magazine"
+        ]
+      }
+    },
+    {
+      "type": "Facility",
+      "text": "St Michael",
+      "relevance": 0.160213,
+      "confidence": 0.307416,
+      "count": 1,
+      "disambiguation": {
+        "name": "St_Michael_Paternoster_Royal",
+        "dbpedia_resource": "http://dbpedia.org/resource/St_Michael_Paternoster_Royal",
+        "subtype": [
+          "Location",
+          "Building"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "four hundred thousand dollars",
+      "relevance": 0.156124,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two hundred fifty thousand dollar",
+      "relevance": 0.153785,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Chesapeake Bay",
+      "relevance": 0.14499,
+      "confidence": 0.59949,
+      "count": 1,
+      "disambiguation": {
+        "name": "Chesapeake_Bay",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chesapeake_Bay"
+      }
+    },
+    {
+      "type": "Location",
+      "text": "laurel",
+      "relevance": 0.124233,
+      "confidence": 0.992921,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "S. marcada",
+      "relevance": 0.11199,
+      "confidence": 0.922638,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Valentine",
+      "relevance": 0.110857,
+      "confidence": 0.776544,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Sergeant Joe gamble",
+      "relevance": 0.105771,
+      "confidence": 0.614635,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Taylor",
+      "relevance": 0.104142,
+      "confidence": 0.999856,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Stephen Kim",
+      "relevance": 0.102754,
+      "confidence": 0.997033,
+      "count": 1
+    },
+    {
+      "type": "Sport",
+      "text": "Tennis",
+      "relevance": 0.102446,
+      "confidence": 0.993065,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kerr",
+      "relevance": 0.083094,
+      "confidence": 0.772147,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Thirty two year",
+      "relevance": 0.080428,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Meryl",
+      "relevance": 0.066272,
+      "confidence": 0.994901,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Coleen",
+      "relevance": 0.064699,
+      "confidence": 0.915366,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ten years",
+      "relevance": 0.059723,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two hundred fifty thousand dollars",
+      "relevance": 0.059457,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mr Rico",
+      "relevance": 0.054754,
+      "confidence": 0.9764,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Colin",
+      "relevance": 0.047814,
+      "confidence": 0.944244,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "relevance": 0.03244,
+      "confidence": 0.999953,
+      "count": 2,
+      "disambiguation": {
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    },
+    {
+      "type": "HealthCondition",
+      "text": "cold",
+      "relevance": 0.025351,
+      "confidence": 0.848179,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Stevens",
+      "relevance": 0.01996,
+      "confidence": 0.878637,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Stephen Rico",
+      "relevance": 0.01898,
+      "confidence": 0.82663,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Florida",
+      "relevance": 0.017542,
+      "confidence": 0.9814,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Houston",
+      "relevance": 0.015836,
+      "confidence": 0.759371,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jim",
+      "relevance": 0.012325,
+      "confidence": 0.999116,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Stephen",
+      "relevance": 0.0118,
+      "confidence": 0.987638,
+      "count": 1,
+      "disambiguation": {
+        "name": "Sheamus",
+        "dbpedia_resource": "http://dbpedia.org/resource/Sheamus"
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Rico",
+      "relevance": 0.009368,
+      "confidence": 0.783178,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Karolinska institute",
+      "relevance": 0.004136,
+      "confidence": 0.975818,
+      "count": 1,
+      "disambiguation": {
+        "name": "Karolinska_Institutet",
+        "dbpedia_resource": "http://dbpedia.org/resource/Karolinska_Institutet",
+        "subtype": [
+          "AwardPresentingOrganization",
+          "CollegeUniversity",
+          "University"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Sweden",
+      "relevance": 0.001505,
+      "confidence": 0.999937,
+      "count": 1,
+      "disambiguation": {
+        "name": "Sweden",
+        "dbpedia_resource": "http://dbpedia.org/resource/Sweden",
+        "subtype": [
+          "SportsTeam",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "Kingdom"
+        ]
+      }
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.885351
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.73609
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.73459
+    },
+    {
+      "label": "/art and entertainment/shows and events",
+      "score": 0.726759
+    },
+    {
+      "label": "/society/dating",
+      "score": 0.651236
+    },
+    {
+      "label": "/family and parenting/babies and toddlers/baby clothes",
+      "score": 0.649928
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.635733
+    },
+    {
+      "label": "/family and parenting/parenting teens",
+      "score": 0.583868
+    },
+    {
+      "label": "/society/senior living",
+      "score": 0.576371
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.566367
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.459956,
+      "sentence": "This is the story of a man killed just hours after leaving the theater.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "man",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            159,
+            162
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "leaving",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            187,
+            194
+          ],
+          "text": "leaving"
+        }
+      ]
+    },
+    {
+      "score": 0.512905,
+      "sentence": "The first hour is generally a cocktail hour and the actors are unloading during this whole hour and that had the audience can very readily see who is who is the bad guy who hates to reply in the audience that night were Stephen Kim Rico from laurel Maryland.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Kim Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            997,
+            1013
+          ],
+          "text": "Stephen Kim Rico"
+        },
+        {
+          "entities": [
+            {
+              "text": "Maryland",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1026,
+            1034
+          ],
+          "text": "Maryland"
+        }
+      ]
+    },
+    {
+      "score": 0.759095,
+      "sentence": "National pension really got very upset whether told her this is my natural color.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10878,
+            10881
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10873,
+            10877
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.714756,
+      "sentence": "But the state's case was very weak without scientific proof that an excel or it was you or that Steve had been injected with succinylcholine.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Florida",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11361,
+            11366
+          ],
+          "text": "state"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11369,
+            11373
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.728239,
+      "sentence": "She'S married a man that she loved and then she won about a cold calculating way to kill this man in his prime of life leads me to believe that she's one of the most cold blooded murders that I've been involved with.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Kim Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11589,
+            11592
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            11579,
+            11583
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.886829,
+      "sentence": "She'S married a man that she loved and then she won about a cold calculating way to kill this man in his prime of life leads me to believe that she's one of the most cold blooded murders that I've been involved with.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            11645,
+            11648
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "murders",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11674,
+            11681
+          ],
+          "text": "murders"
+        }
+      ]
+    },
+    {
+      "score": 0.377239,
+      "sentence": "Thirty two year old Kimberly recall was arrested and charged with first degree murder and arson in the death of her husband she pleaded not guilty.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "cigars",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            11719,
+            11722
+          ],
+          "text": "two"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11765,
+            11772
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.877382,
+      "sentence": "Thirty two year old Kimberly recall was arrested and charged with first degree murder and arson in the death of her husband she pleaded not guilty.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11732,
+            11740
+          ],
+          "text": "Kimberly"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrested",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            11752,
+            11760
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.512332,
+      "sentence": "Thirty two year old Kimberly recall was arrested and charged with first degree murder and arson in the death of her husband she pleaded not guilty.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11732,
+            11740
+          ],
+          "text": "Kimberly"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11765,
+            11772
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.836204,
+      "sentence": "Thirty two year old Kimberly recall was arrested and charged with first degree murder and arson in the death of her husband she pleaded not guilty.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11836,
+            11839
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "pleaded",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11840,
+            11847
+          ],
+          "text": "pleaded"
+        }
+      ]
+    },
+    {
+      "score": 0.350554,
+      "sentence": "With no way to prove succinylcholine was in Steve's body and no scientific evidence and excel it was used to start the fire prosecutors were forced to use a process of conclusion by exclusion they had to rule out all other possibilities for how the fire started in an effort to convince the jury that Steve recall was merger.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11904,
+            11909
+          ],
+          "text": "Steve"
+        },
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11912,
+            11916
+          ],
+          "text": "body"
+        }
+      ]
+    },
+    {
+      "score": 0.717898,
+      "sentence": "With no way to prove succinylcholine was in Steve's body and no scientific evidence and excel it was used to start the fire prosecutors were forced to use a process of conclusion by exclusion they had to rule out all other possibilities for how the fire started in an effort to convince the jury that Steve recall was merger.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11984,
+            11995
+          ],
+          "text": "prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "accident",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            11979,
+            11983
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.770826,
+      "sentence": "Can and her husband Steve we're sitting there and she jumped right off of the high my name's Kim and this is Steve house like us is gonna be a good table set up yeah she's friendly person she was very active in terms of trying to figure out what was going on to play talking to various of the actors trying to get insights into who might be about to commit the murder that was gonna happen in the play and later on who did.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1193,
+            1196
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1197,
+            1204
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.86867,
+      "sentence": "Kim Rico denied she was involved in her husband's death but admitted the couple was having marital problems.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7834,
+            7837
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7838,
+            7845
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.748316,
+      "sentence": "Thirty two year old Kimberly recall was arrested and charged with first degree murder and arson in the death of her husband she pleaded not guilty.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11824,
+            11827
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11828,
+            11835
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.797173,
+      "sentence": "Prosecutors believe Kimberly recall planned her husband's murder long in advance the evidence the purchase of the additional two hundred fifty thousand dollars worth of life insurance the purchase of the beer and cigars and were sexual affair with another man.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12767,
+            12770
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12771,
+            12778
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.845835,
+      "sentence": "She called her husband's T. shirt over his head Houston excel orange identified by the excellent sniffing dogs and started the fire.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13647,
+            13650
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13651,
+            13658
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.66592,
+      "sentence": "The motive Kim wanted to get rid of her husband so she would be free to pursue the relationship with her lover.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14214,
+            14217
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14218,
+            14225
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.329406,
+      "sentence": "With no way to prove succinylcholine was in Steve's body and no scientific evidence and excel it was used to start the fire prosecutors were forced to use a process of conclusion by exclusion they had to rule out all other possibilities for how the fire started in an effort to convince the jury that Steve recall was merger.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12161,
+            12166
+          ],
+          "text": "Steve"
+        },
+        {
+          "entities": [
+            {
+              "text": "state",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12151,
+            12155
+          ],
+          "text": "jury"
+        }
+      ]
+    },
+    {
+      "score": 0.799719,
+      "sentence": "With no way to prove succinylcholine was in Steve's body and no scientific evidence and excel it was used to start the fire prosecutors were forced to use a process of conclusion by exclusion they had to rule out all other possibilities for how the fire started in an effort to convince the jury that Steve recall was merger.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "state",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12151,
+            12155
+          ],
+          "text": "jury"
+        },
+        {
+          "entities": [
+            {
+              "text": "merger",
+              "type": "EventBusiness"
+            }
+          ],
+          "location": [
+            12178,
+            12184
+          ],
+          "text": "merger"
+        }
+      ]
+    },
+    {
+      "score": 0.490856,
+      "sentence": "This was a healthy young man who was in his mid thirties worked as a council person very fits who had died suddenly unexpectedly there was absolutely no medical disease process on actual disease process that was identifiable in his death.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "person",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12263,
+            12269
+          ],
+          "text": "person"
+        },
+        {
+          "entities": [
+            {
+              "text": "council",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12255,
+            12262
+          ],
+          "text": "council"
+        }
+      ]
+    },
+    {
+      "score": 0.315124,
+      "sentence": "And in fact he had died before the fire and so.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12478,
+            12480
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "accident",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            12501,
+            12505
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.564419,
+      "sentence": "From my point of view I could come up with a launch list of exclusions which led me to believe that in fact she had been always end with succinylcholine or some similar type of agent which we could not trace.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "person",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12622,
+            12625
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12703,
+            12705
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.917992,
+      "sentence": "Prosecutors believe Kimberly recall planned her husband's murder long in advance the evidence the purchase of the additional two hundred fifty thousand dollars worth of life insurance the purchase of the beer and cigars and were sexual affair with another man.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12771,
+            12778
+          ],
+          "text": "husband"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12781,
+            12787
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.818932,
+      "sentence": "Florida hearing court was many of her friends testified because she spoke to several of her friends and told them her plans to kill Mr Rico some in detail couple for friend she told in detail for plans.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Florida",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12984,
+            12991
+          ],
+          "text": "Florida"
+        },
+        {
+          "entities": [
+            {
+              "text": "hearing",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12992,
+            12999
+          ],
+          "text": "hearing"
+        }
+      ]
+    },
+    {
+      "score": 0.926194,
+      "sentence": "Florida hearing court was many of her friends testified because she spoke to several of her friends and told them her plans to kill Mr Rico some in detail couple for friend she told in detail for plans.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "court",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13000,
+            13005
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "text": "Florida",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12984,
+            12991
+          ],
+          "text": "Florida"
+        }
+      ]
+    },
+    {
+      "score": 0.435554,
+      "sentence": "Florida hearing court was many of her friends testified because she spoke to several of her friends and told them her plans to kill Mr Rico some in detail couple for friend she told in detail for plans.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "court",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13000,
+            13005
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "text": "hearing",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12992,
+            12999
+          ],
+          "text": "hearing"
+        }
+      ]
+    },
+    {
+      "score": 0.500089,
+      "sentence": "Florida hearing court was many of her friends testified because she spoke to several of her friends and told them her plans to kill Mr Rico some in detail couple for friend she told in detail for plans.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "court",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13000,
+            13005
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "text": "testified",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13030,
+            13039
+          ],
+          "text": "testified"
+        }
+      ]
+    },
+    {
+      "score": 0.491238,
+      "sentence": "Can and her husband Steve we're sitting there and she jumped right off of the high my name's Kim and this is Steve house like us is gonna be a good table set up yeah she's friendly person she was very active in terms of trying to figure out what was going on to play talking to various of the actors trying to get insights into who might be about to commit the murder that was gonna happen in the play and later on who did.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1205,
+            1210
+          ],
+          "text": "Steve"
+        },
+        {
+          "entities": [
+            {
+              "text": "us",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1211,
+            1213
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.483153,
+      "sentence": "Can and her husband Steve we're sitting there and she jumped right off of the high my name's Kim and this is Steve house like us is gonna be a good table set up yeah she's friendly person she was very active in terms of trying to figure out what was going on to play talking to various of the actors trying to get insights into who might be about to commit the murder that was gonna happen in the play and later on who did.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1294,
+            1299
+          ],
+          "text": "Steve"
+        },
+        {
+          "entities": [
+            {
+              "text": "us",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1311,
+            1313
+          ],
+          "text": "us"
+        }
+      ]
+    },
+    {
+      "score": 0.565204,
+      "sentence": "Florida hearing court was many of her friends testified because she spoke to several of her friends and told them her plans to kill Mr Rico some in detail couple for friend she told in detail for plans.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13022,
+            13029
+          ],
+          "text": "friends"
+        },
+        {
+          "entities": [
+            {
+              "text": "testified",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13030,
+            13039
+          ],
+          "text": "testified"
+        }
+      ]
+    },
+    {
+      "score": 0.765837,
+      "sentence": "Florida hearing court was many of her friends testified because she spoke to several of her friends and told them her plans to kill Mr Rico some in detail couple for friend she told in detail for plans.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13093,
+            13097
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13088,
+            13092
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.631987,
+      "sentence": "Florida hearing court was many of her friends testified because she spoke to several of her friends and told them her plans to kill Mr Rico some in detail couple for friend she told in detail for plans.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Kim Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13116,
+            13118
+          ],
+          "text": "Mr"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            13111,
+            13115
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.592365,
+      "sentence": "Prosecutors believe Kim confiscated a pile of succinylcholine from the hospital where she worked.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13207,
+            13210
+          ],
+          "text": "Kim"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13258,
+            13266
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.465943,
+      "sentence": "She then staged the scene to make it look like an accident.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "waterfront",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13436,
+            13441
+          ],
+          "text": "scene"
+        },
+        {
+          "entities": [
+            {
+              "text": "accident",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            13466,
+            13474
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.994641,
+      "sentence": "She called her husband's T. shirt over his head Houston excel orange identified by the excellent sniffing dogs and started the fire.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13636,
+            13639
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13640,
+            13646
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.800482,
+      "sentence": "Jim left the resort to create an alibi and returned around one thirty A. M. and reported the fire to hotel employees.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14060,
+            14063
+          ],
+          "text": "Jim"
+        },
+        {
+          "entities": [
+            {
+              "text": "waterfront",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14073,
+            14079
+          ],
+          "text": "resort"
+        }
+      ]
+    },
+    {
+      "score": 0.714825,
+      "sentence": "Jim left the resort to create an alibi and returned around one thirty A. M. and reported the fire to hotel employees.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "employees",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14167,
+            14176
+          ],
+          "text": "employees"
+        },
+        {
+          "entities": [
+            {
+              "text": "reported",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14140,
+            14148
+          ],
+          "text": "reported"
+        }
+      ]
+    },
+    {
+      "score": 0.605182,
+      "sentence": "Jim left the resort to create an alibi and returned around one thirty A. M. and reported the fire to hotel employees.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "employees",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14167,
+            14176
+          ],
+          "text": "employees"
+        },
+        {
+          "entities": [
+            {
+              "text": "accident",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            14153,
+            14157
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.534794,
+      "sentence": "Jim left the resort to create an alibi and returned around one thirty A. M. and reported the fire to hotel employees.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "employees",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14167,
+            14176
+          ],
+          "text": "employees"
+        },
+        {
+          "entities": [
+            {
+              "text": "hotel",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14161,
+            14166
+          ],
+          "text": "hotel"
+        }
+      ]
+    },
+    {
+      "score": 0.383433,
+      "sentence": "Can and her husband Steve we're sitting there and she jumped right off of the high my name's Kim and this is Steve house like us is gonna be a good table set up yeah she's friendly person she was very active in terms of trying to figure out what was going on to play talking to various of the actors trying to get insights into who might be about to commit the murder that was gonna happen in the play and later on who did.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1294,
+            1299
+          ],
+          "text": "Steve"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1300,
+            1305
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.326687,
+      "sentence": "The motive Kim wanted to get rid of her husband so she would be free to pursue the relationship with her lover.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14279,
+            14282
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Stephen Kim Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14283,
+            14288
+          ],
+          "text": "lover"
+        }
+      ]
+    },
+    {
+      "score": 0.885348,
+      "sentence": "The defense argued that Stephen recalls death could have been caused by the fire and that his lack of consciousness might have been caused by the accumulation of chemicals he inhaled through his work at the golf course.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "defense",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14294,
+            14301
+          ],
+          "text": "defense"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14302,
+            14308
+          ],
+          "text": "argued"
+        }
+      ]
+    },
+    {
+      "score": 0.802208,
+      "sentence": "Kim was the last one in the room and she had a motive because of the insurance the science really provided a whole lot of negatives we excluded a lot of things but we did not provide anybody with a smoking gun and so I think that this case was done largely and really hinged on the superb investigation that was done by the state police troopers.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14510,
+            14513
+          ],
+          "text": "Kim"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14538,
+            14542
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.851117,
+      "sentence": "Kim was the last one in the room and she had a motive because of the insurance the science really provided a whole lot of negatives we excluded a lot of things but we did not provide anybody with a smoking gun and so I think that this case was done largely and really hinged on the superb investigation that was done by the state police troopers.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            14527,
+            14530
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14538,
+            14542
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.692513,
+      "sentence": "Kim was the last one in the room and she had a motive because of the insurance the science really provided a whole lot of negatives we excluded a lot of things but we did not provide anybody with a smoking gun and so I think that this case was done largely and really hinged on the superb investigation that was done by the state police troopers.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14727,
+            14728
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14745,
+            14749
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.655205,
+      "sentence": "Kim was the last one in the room and she had a motive because of the insurance the science really provided a whole lot of negatives we excluded a lot of things but we did not provide anybody with a smoking gun and so I think that this case was done largely and really hinged on the superb investigation that was done by the state police troopers.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14727,
+            14728
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14799,
+            14812
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.989962,
+      "sentence": "Kim was the last one in the room and she had a motive because of the insurance the science really provided a whole lot of negatives we excluded a lot of things but we did not provide anybody with a smoking gun and so I think that this case was done largely and really hinged on the superb investigation that was done by the state police troopers.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14840,
+            14846
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "state",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14834,
+            14839
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.919482,
+      "sentence": "Kim was the last one in the room and she had a motive because of the insurance the science really provided a whole lot of negatives we excluded a lot of things but we did not provide anybody with a smoking gun and so I think that this case was done largely and really hinged on the superb investigation that was done by the state police troopers.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "troopers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14847,
+            14855
+          ],
+          "text": "troopers"
+        },
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14840,
+            14846
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.67247,
+      "sentence": "The jury found him Rico guilty of first degree murder and first degree arson.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Kim Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14876,
+            14880
+          ],
+          "text": "Rico"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            14904,
+            14910
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.488399,
+      "sentence": "She was sentenced to life in prison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14935,
+            14938
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14943,
+            14952
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.720062,
+      "sentence": "Can and her husband Steve we're sitting there and she jumped right off of the high my name's Kim and this is Steve house like us is gonna be a good table set up yeah she's friendly person she was very active in terms of trying to figure out what was going on to play talking to various of the actors trying to get insights into who might be about to commit the murder that was gonna happen in the play and later on who did.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "person",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1373,
+            1376
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "talking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1452,
+            1459
+          ],
+          "text": "talking"
+        }
+      ]
+    },
+    {
+      "score": 0.584424,
+      "sentence": "She was sentenced to life in prison.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14935,
+            14938
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14964,
+            14970
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.601477,
+      "sentence": "Now in the hands of the jury without the science Stephen Rico probably would have been buried and and we would've all thought this was this was just a horrible tragic fire death and and his case probably would have been labeled accidental death and he would have been buried and nobody would have ever known that's really sad how how this all ended what she put him through at the end she let him on to believe that that there was a chance and just I guess she was just thinking about doing a minute.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Kim Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15158,
+            15161
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            15162,
+            15166
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.404979,
+      "sentence": "And he loved his family and we loved him very much and we're very proud of him and I'd give anything to have him back.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Kim Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15640,
+            15643
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15644,
+            15650
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.562144,
+      "sentence": "Since this case went to trial scientists at the Karolinska institute in Sweden and now in the United States have developed protocols enabling the identification of succinylcholine even in and bomb tissue.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15776,
+            15786
+          ],
+          "text": "scientists"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            15770,
+            15775
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.486301,
+      "sentence": "Since this case went to trial scientists at the Karolinska institute in Sweden and now in the United States have developed protocols enabling the identification of succinylcholine even in and bomb tissue.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karolinska institute",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            15794,
+            15814
+          ],
+          "text": "Karolinska institute"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            15770,
+            15775
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.658571,
+      "sentence": "Since this case went to trial scientists at the Karolinska institute in Sweden and now in the United States have developed protocols enabling the identification of succinylcholine even in and bomb tissue.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15776,
+            15786
+          ],
+          "text": "scientists"
+        },
+        {
+          "entities": [
+            {
+              "text": "Karolinska institute",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            15794,
+            15814
+          ],
+          "text": "Karolinska institute"
+        }
+      ]
+    },
+    {
+      "score": 0.429714,
+      "sentence": "Since this case went to trial scientists at the Karolinska institute in Sweden and now in the United States have developed protocols enabling the identification of succinylcholine even in and bomb tissue.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Karolinska institute",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            15794,
+            15814
+          ],
+          "text": "Karolinska institute"
+        },
+        {
+          "entities": [
+            {
+              "text": "Sweden",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            15818,
+            15824
+          ],
+          "text": "Sweden"
+        }
+      ]
+    },
+    {
+      "score": 0.494538,
+      "sentence": "Can and her husband Steve we're sitting there and she jumped right off of the high my name's Kim and this is Steve house like us is gonna be a good table set up yeah she's friendly person she was very active in terms of trying to figure out what was going on to play talking to various of the actors trying to get insights into who might be about to commit the murder that was gonna happen in the play and later on who did.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "actors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1478,
+            1484
+          ],
+          "text": "actors"
+        },
+        {
+          "entities": [
+            {
+              "text": "talking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1452,
+            1459
+          ],
+          "text": "talking"
+        }
+      ]
+    },
+    {
+      "score": 0.8609,
+      "sentence": "Can and her husband Steve we're sitting there and she jumped right off of the high my name's Kim and this is Steve house like us is gonna be a good table set up yeah she's friendly person she was very active in terms of trying to figure out what was going on to play talking to various of the actors trying to get insights into who might be about to commit the murder that was gonna happen in the play and later on who did.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1513,
+            1516
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            1546,
+            1552
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.645367,
+      "sentence": "Thirty two year old Kimberly recall was arrested and charged with first degree murder and arson in the death of her husband she pleaded not guilty.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11732,
+            11740
+          ],
+          "text": "Kimberly"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11802,
+            11807
+          ],
+          "text": "arson"
+        }
+      ]
+    },
+    {
+      "score": 0.297674,
+      "sentence": "My murders are.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "probation officer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1677,
+            1679
+          ],
+          "text": "My"
+        },
+        {
+          "entities": [
+            {
+              "text": "murders",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1680,
+            1687
+          ],
+          "text": "murders"
+        }
+      ]
+    },
+    {
+      "score": 0.659664,
+      "sentence": "Afterwards Steve Rico went back to the hotel room and Kim left the resort briefly to run an errand.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2014,
+            2024
+          ],
+          "text": "Steve Rico"
+        },
+        {
+          "entities": [
+            {
+              "text": "hotel",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2042,
+            2047
+          ],
+          "text": "hotel"
+        }
+      ]
+    },
+    {
+      "score": 0.400563,
+      "sentence": "The cigars in Steve's hotel room at a price sticker printed with ink that match the printing and use by this convenience store confirming the cigars were purchased here.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11197,
+            11202
+          ],
+          "text": "Steve"
+        },
+        {
+          "entities": [
+            {
+              "text": "hotel",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11205,
+            11210
+          ],
+          "text": "hotel"
+        }
+      ]
+    },
+    {
+      "score": 0.674618,
+      "sentence": "Afterwards Steve Rico went back to the hotel room and Kim left the resort briefly to run an errand.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2014,
+            2024
+          ],
+          "text": "Steve Rico"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2048,
+            2052
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.520825,
+      "sentence": "This is the story of a man killed just hours after leaving the theater.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hours after",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            175,
+            186
+          ],
+          "text": "hours after"
+        },
+        {
+          "entities": [
+            {
+              "text": "leaving",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            187,
+            194
+          ],
+          "text": "leaving"
+        }
+      ]
+    },
+    {
+      "score": 0.679022,
+      "sentence": "Afterwards Steve Rico went back to the hotel room and Kim left the resort briefly to run an errand.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2048,
+            2052
+          ],
+          "text": "room"
+        },
+        {
+          "entities": [
+            {
+              "text": "hotel",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2042,
+            2047
+          ],
+          "text": "hotel"
+        }
+      ]
+    },
+    {
+      "score": 0.339974,
+      "sentence": "Firefighters thirty five year old Steve we call from the floor of the hotel room he was in his pajamas.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2264,
+            2268
+          ],
+          "text": "room"
+        },
+        {
+          "entities": [
+            {
+              "text": "hotel",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2258,
+            2263
+          ],
+          "text": "hotel"
+        }
+      ]
+    },
+    {
+      "score": 0.379585,
+      "sentence": "The physical fire damage to the hotel room was minimal it was so well insulated but the fire didn't have enough oxygen to spread.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4528,
+            4532
+          ],
+          "text": "room"
+        },
+        {
+          "entities": [
+            {
+              "text": "hotel",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4522,
+            4527
+          ],
+          "text": "hotel"
+        }
+      ]
+    },
+    {
+      "score": 0.427612,
+      "sentence": "The cigars in Steve's hotel room at a price sticker printed with ink that match the printing and use by this convenience store confirming the cigars were purchased here.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11211,
+            11215
+          ],
+          "text": "room"
+        },
+        {
+          "entities": [
+            {
+              "text": "hotel",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11205,
+            11210
+          ],
+          "text": "hotel"
+        }
+      ]
+    },
+    {
+      "score": 0.464425,
+      "sentence": "Afterwards Steve Rico went back to the hotel room and Kim left the resort briefly to run an errand.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2057,
+            2060
+          ],
+          "text": "Kim"
+        },
+        {
+          "entities": [
+            {
+              "text": "waterfront",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2070,
+            2076
+          ],
+          "text": "resort"
+        }
+      ]
+    },
+    {
+      "score": 0.463739,
+      "sentence": "Her story was that he wanted to have sex with her that night and she had turned him down they had an argument and she left the scene because.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8147,
+            8150
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "waterfront",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8160,
+            8165
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.949846,
+      "sentence": "Firefighters thirty five year old Steve we call from the floor of the hotel room he was in his pajamas.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2222,
+            2227
+          ],
+          "text": "Steve"
+        },
+        {
+          "entities": [
+            {
+              "text": "thirty five year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            2201,
+            2221
+          ],
+          "text": "thirty five year old"
+        }
+      ]
+    },
+    {
+      "score": 0.393426,
+      "sentence": "They were empty beer bottles and some cigars found in the hotel room.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "cigars",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2330,
+            2336
+          ],
+          "text": "cigars"
+        },
+        {
+          "entities": [
+            {
+              "text": "hotel",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2350,
+            2355
+          ],
+          "text": "hotel"
+        }
+      ]
+    },
+    {
+      "score": 0.426809,
+      "sentence": "Investigators tried to locate the store where Steve purchased the cigars found in the hotel room.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "cigars",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10270,
+            10276
+          ],
+          "text": "cigars"
+        },
+        {
+          "entities": [
+            {
+              "text": "hotel",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10290,
+            10295
+          ],
+          "text": "hotel"
+        }
+      ]
+    },
+    {
+      "score": 0.826432,
+      "sentence": "They were empty beer bottles and some cigars found in the hotel room.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "cigars",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2330,
+            2336
+          ],
+          "text": "cigars"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2356,
+            2360
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.847761,
+      "sentence": "The cigars in Steve's hotel room at a price sticker printed with ink that match the printing and use by this convenience store confirming the cigars were purchased here.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "cigars",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11187,
+            11193
+          ],
+          "text": "cigars"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11211,
+            11215
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.322103,
+      "sentence": "They were empty beer bottles and some cigars found in the hotel room.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hotel",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2350,
+            2355
+          ],
+          "text": "hotel"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2356,
+            2360
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.316785,
+      "sentence": "Investigators tried to locate the store where Steve purchased the cigars found in the hotel room.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hotel",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10290,
+            10295
+          ],
+          "text": "hotel"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10296,
+            10300
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.427259,
+      "sentence": "I remembered just coming back from a walk with my family and getting a phone call from my sister and physically collapsing to the ground so it was very tough and but it was an accident still it was just hard there's too many questions that were unanswered and it just it really was a shock.",
+      "type": "relative",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2556,
+            2558
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2559,
+            2565
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.250391,
+      "sentence": "I remembered just coming back from a walk with my family and getting a phone call from my sister and physically collapsing to the ground so it was very tough and but it was an accident still it was just hard there's too many questions that were unanswered and it just it really was a shock.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2596,
+            2598
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2599,
+            2605
+          ],
+          "text": "sister"
+        }
+      ]
+    },
+    {
+      "score": 0.499206,
+      "sentence": "At at at at a fire started in the smoker died and that's kind of how the police took it in and then understood it to be in addition to his wife Steve recalled left behind an eight year old daughter and.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "smoker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2946,
+            2952
+          ],
+          "text": "smoker"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3062,
+            3070
+          ],
+          "text": "recalled"
+        }
+      ]
+    },
+    {
+      "score": 0.78949,
+      "sentence": "At at at at a fire started in the smoker died and that's kind of how the police took it in and then understood it to be in addition to his wife Steve recalled left behind an eight year old daughter and.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "smoker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3047,
+            3050
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "wife",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3051,
+            3055
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.642739,
+      "sentence": "St Michael's a small waterfront community on the Maryland shore.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael Mulligan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            305,
+            312
+          ],
+          "text": "Michael"
+        },
+        {
+          "entities": [
+            {
+              "text": "St",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            302,
+            304
+          ],
+          "text": "St"
+        }
+      ]
+    },
+    {
+      "score": 0.231836,
+      "sentence": "At at at at a fire started in the smoker died and that's kind of how the police took it in and then understood it to be in addition to his wife Steve recalled left behind an eight year old daughter and.",
+      "type": "relative",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "wife",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3051,
+            3055
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3056,
+            3061
+          ],
+          "text": "Steve"
+        }
+      ]
+    },
+    {
+      "score": 0.458514,
+      "sentence": "At at at at a fire started in the smoker died and that's kind of how the police took it in and then understood it to be in addition to his wife Steve recalled left behind an eight year old daughter and.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3056,
+            3061
+          ],
+          "text": "Steve"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3062,
+            3070
+          ],
+          "text": "recalled"
+        }
+      ]
+    },
+    {
+      "score": 0.297897,
+      "sentence": "Is a great man cared a lot about his family the most important things in his life for his daughter his wife means job.",
+      "type": "relative",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "man",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3148,
+            3151
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3152,
+            3158
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.848595,
+      "sentence": "Is a great man cared a lot about his family the most important things in his life for his daughter his wife means job.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "man",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3201,
+            3204
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3205,
+            3213
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.607594,
+      "sentence": "Is a great man cared a lot about his family the most important things in his life for his daughter his wife means job.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "man",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3214,
+            3217
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "wife",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3218,
+            3222
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.636571,
+      "sentence": "Fire investigators noticed a melted plastic soda bottle on the table next to Steve Bannon.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3239,
+            3252
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "accident",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            3234,
+            3238
+          ],
+          "text": "Fire"
+        }
+      ]
+    },
+    {
+      "score": 0.560728,
+      "sentence": "News of Steve Rico's death shocked friends and coworkers who recalled how much Steve was looking forward to the weekend get away with his wife.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3623,
+            3626
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "wife",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3627,
+            3631
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.276297,
+      "sentence": "Sometimes it's hard to get past thinking right now it's just his last moments but I tried to get bass and a lot of time specially when my family gets together we think of a good time still and I remember just ten like I said he was my Big Brother I mean I remember dancing with him at my wedding and.",
+      "type": "relative",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3768,
+            3770
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3771,
+            3777
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.997879,
+      "sentence": "Sometimes it's hard to get past thinking right now it's just his last moments but I tried to get bass and a lot of time specially when my family gets together we think of a good time still and I remember just ten like I said he was my Big Brother I mean I remember dancing with him at my wedding and.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3851,
+            3852
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3853,
+            3857
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.987092,
+      "sentence": "Excuse me I'm always telling me that he'd always be there for me and now there's been a lot of times I needed him so it's been tough and I'm for everything we've been through it's just I know there's no bringing him back but so fast it's hard.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3944,
+            3945
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "telling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3955,
+            3962
+          ],
+          "text": "telling"
+        }
+      ]
+    },
+    {
+      "score": 0.456198,
+      "sentence": "St Michael's a small waterfront community on the Maryland shore.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael Mulligan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            305,
+            312
+          ],
+          "text": "Michael"
+        },
+        {
+          "entities": [
+            {
+              "text": "waterfront",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            323,
+            333
+          ],
+          "text": "waterfront"
+        }
+      ]
+    },
+    {
+      "score": 0.747043,
+      "sentence": "Excuse me I'm always telling me that he'd always be there for me and now there's been a lot of times I needed him so it's been tough and I'm for everything we've been through it's just I know there's no bringing him back but so fast it's hard.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3963,
+            3965
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "telling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3955,
+            3962
+          ],
+          "text": "telling"
+        }
+      ]
+    },
+    {
+      "score": 0.57753,
+      "sentence": "Excuse me I'm always telling me that he'd always be there for me and now there's been a lot of times I needed him so it's been tough and I'm for everything we've been through it's just I know there's no bringing him back but so fast it's hard.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4071,
+            4072
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4090,
+            4092
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.54958,
+      "sentence": "I can recall he said what was the name of that guy that was sitting at the table with us and that was Steve so that was the guy that got killed in this fire like a god.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4293,
+            4296
+          ],
+          "text": "guy"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4332,
+            4334
+          ],
+          "text": "us"
+        }
+      ]
+    },
+    {
+      "score": 0.713702,
+      "sentence": "Co worker thought that she was joking felt that they had just been having normal Meryl problem so the co worker.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9226,
+            9235
+          ],
+          "text": "Co worker"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9274,
+            9278
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.988535,
+      "sentence": "I can recall he said what was the name of that guy that was sitting at the table with us and that was Steve so that was the guy that got killed in this fire like a god.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4259,
+            4261
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4262,
+            4266
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.501626,
+      "sentence": "Kim Rico denied she was involved in her husband's death but admitted the couple was having marital problems.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7838,
+            7845
+          ],
+          "text": "husband"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7858,
+            7866
+          ],
+          "text": "admitted"
+        }
+      ]
+    },
+    {
+      "score": 0.550189,
+      "sentence": "The physical fire damage to the hotel room was minimal it was so well insulated but the fire didn't have enough oxygen to spread.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4528,
+            4532
+          ],
+          "text": "room"
+        },
+        {
+          "entities": [
+            {
+              "text": "accident",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            4503,
+            4507
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.834619,
+      "sentence": "One cigar was missing from a new pack near the bad it appeared that the fire started on the bedroom floor where Steve was lounging at the time of the fire.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4712,
+            4719
+          ],
+          "text": "bedroom"
+        },
+        {
+          "entities": [
+            {
+              "text": "accident",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            4692,
+            4696
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.635825,
+      "sentence": "We eliminated a possible electric.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4776,
+            4778
+          ],
+          "text": "We"
+        },
+        {
+          "entities": [
+            {
+              "text": "eliminated",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            4779,
+            4789
+          ],
+          "text": "eliminated"
+        }
+      ]
+    },
+    {
+      "score": 0.840466,
+      "sentence": "Dr David Fowler the deputy chief medical examiner for the state of Maryland immediately performed the autopsy.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David Fowler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5154,
+            5183
+          ],
+          "text": "deputy chief medical examiner"
+        },
+        {
+          "entities": [
+            {
+              "text": "Maryland",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5192,
+            5197
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.456495,
+      "sentence": "Well now I have two tests which are both telling me exactly the same thing that she was not breathing at the time of the fire.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5799,
+            5801
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "telling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5791,
+            5798
+          ],
+          "text": "telling"
+        }
+      ]
+    },
+    {
+      "score": 0.673229,
+      "sentence": "To see if it was possible for a lit cigar to start a hotel fire investigators conducted an experiment we got a pillow and pillowcase and we did our own burn test one out and got a hold of some backwoods cigars.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5941,
+            5954
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "hotel fire",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5930,
+            5940
+          ],
+          "text": "hotel fire"
+        }
+      ]
+    },
+    {
+      "score": 0.324263,
+      "sentence": "Hotels usually use bed coverings treated with flame retardant chemicals in order to prevent this very scenario.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "chemicals",
+              "type": "Substance"
+            }
+          ],
+          "location": [
+            6287,
+            6296
+          ],
+          "text": "chemicals"
+        },
+        {
+          "entities": [
+            {
+              "text": "Hotels",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6225,
+            6231
+          ],
+          "text": "Hotels"
+        }
+      ]
+    },
+    {
+      "score": 0.581079,
+      "sentence": "Even smoke in smoke at all in fact at one time during a golf banquet a sales meeting he was offered some very fine cigars by one of the salesmen were selling some some equipment for long Kerr and he refused and told his friend I I don't know why people even smoke those things but it's Steve Rico was dead when the fire started.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6536,
+            6540
+          ],
+          "text": "golf"
+        },
+        {
+          "entities": [
+            {
+              "text": "offered",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6572,
+            6579
+          ],
+          "text": "offered"
+        }
+      ]
+    },
+    {
+      "score": 0.735063,
+      "sentence": "Even smoke in smoke at all in fact at one time during a golf banquet a sales meeting he was offered some very fine cigars by one of the salesmen were selling some some equipment for long Kerr and he refused and told his friend I I don't know why people even smoke those things but it's Steve Rico was dead when the fire started.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6565,
+            6567
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "offered",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6572,
+            6579
+          ],
+          "text": "offered"
+        }
+      ]
+    },
+    {
+      "score": 0.605475,
+      "sentence": "Spectacular views of the miles river and Chesapeake Bay provide a relaxing escape from the hectic pace of daily life.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "river",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            398,
+            403
+          ],
+          "text": "river"
+        },
+        {
+          "entities": [
+            {
+              "text": "Chesapeake Bay",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            408,
+            422
+          ],
+          "text": "Chesapeake Bay"
+        }
+      ]
+    },
+    {
+      "score": 0.893285,
+      "sentence": "Even smoke in smoke at all in fact at one time during a golf banquet a sales meeting he was offered some very fine cigars by one of the salesmen were selling some some equipment for long Kerr and he refused and told his friend I I don't know why people even smoke those things but it's Steve Rico was dead when the fire started.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6565,
+            6567
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "meeting",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            6557,
+            6564
+          ],
+          "text": "meeting"
+        }
+      ]
+    },
+    {
+      "score": 0.994621,
+      "sentence": "Even smoke in smoke at all in fact at one time during a golf banquet a sales meeting he was offered some very fine cigars by one of the salesmen were selling some some equipment for long Kerr and he refused and told his friend I I don't know why people even smoke those things but it's Steve Rico was dead when the fire started.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6676,
+            6678
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "refused",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6679,
+            6686
+          ],
+          "text": "refused"
+        }
+      ]
+    },
+    {
+      "score": 0.918005,
+      "sentence": "Even smoke in smoke at all in fact at one time during a golf banquet a sales meeting he was offered some very fine cigars by one of the salesmen were selling some some equipment for long Kerr and he refused and told his friend I I don't know why people even smoke those things but it's Steve Rico was dead when the fire started.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6676,
+            6678
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6691,
+            6695
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.558277,
+      "sentence": "Even smoke in smoke at all in fact at one time during a golf banquet a sales meeting he was offered some very fine cigars by one of the salesmen were selling some some equipment for long Kerr and he refused and told his friend I I don't know why people even smoke those things but it's Steve Rico was dead when the fire started.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kerr",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6700,
+            6706
+          ],
+          "text": "friend"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6691,
+            6695
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.560586,
+      "sentence": "As investigators continue their look into the mysterious hotel fire that killed Steve recall XLON sniffing dogs identified a flammable liquid on the bedroom floor at the foot of the bed.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6906,
+            6911
+          ],
+          "text": "Steve"
+        },
+        {
+          "entities": [
+            {
+              "text": "hotel fire",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6883,
+            6893
+          ],
+          "text": "hotel fire"
+        }
+      ]
+    },
+    {
+      "score": 0.746901,
+      "sentence": "But chemical tests on the debris from the hotel room could not identify the itself.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hotel fire",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7055,
+            7060
+          ],
+          "text": "hotel"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7061,
+            7065
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.588453,
+      "sentence": "Therefore the findings of the excellent sniffing dogs would not be admissible in court.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "dogs",
+              "type": "Animal"
+            }
+          ],
+          "location": [
+            7146,
+            7150
+          ],
+          "text": "dogs"
+        },
+        {
+          "entities": [
+            {
+              "text": "court",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7178,
+            7183
+          ],
+          "text": "court"
+        }
+      ]
+    },
+    {
+      "score": 0.576987,
+      "sentence": "None the less the fire marshal ruled the fire arson.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7208,
+            7215
+          ],
+          "text": "marshal"
+        },
+        {
+          "entities": [
+            {
+              "text": "accident",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            7203,
+            7207
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.955296,
+      "sentence": "None the less the fire marshal ruled the fire arson.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7208,
+            7215
+          ],
+          "text": "marshal"
+        },
+        {
+          "entities": [
+            {
+              "text": "ruled",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            7216,
+            7221
+          ],
+          "text": "ruled"
+        }
+      ]
+    },
+    {
+      "score": 0.531956,
+      "sentence": "They were empty beer bottles in the hotel room and Kim said Steve was drinking heavily at dinner.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7238,
+            7242
+          ],
+          "text": "They"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7280,
+            7284
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.597618,
+      "sentence": "On Valentine's day in nineteen ninety eight a local resort offers couples the opportunity for a romantic getaway weekend chance to unwind relax play some golf.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valentine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            488,
+            497
+          ],
+          "text": "Valentine"
+        },
+        {
+          "entities": [
+            {
+              "text": "waterfront",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            537,
+            543
+          ],
+          "text": "resort"
+        }
+      ]
+    },
+    {
+      "score": 0.538954,
+      "sentence": "They were empty beer bottles in the hotel room and Kim said Steve was drinking heavily at dinner.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hotel",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7274,
+            7279
+          ],
+          "text": "hotel"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7280,
+            7284
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.986247,
+      "sentence": "They were empty beer bottles in the hotel room and Kim said Steve was drinking heavily at dinner.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7289,
+            7292
+          ],
+          "text": "Kim"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7293,
+            7297
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.996698,
+      "sentence": "Kim said they went to the resort to work on their marriage.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7907,
+            7910
+          ],
+          "text": "Kim"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7911,
+            7915
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.993341,
+      "sentence": "Florida hearing court was many of her friends testified because she spoke to several of her friends and told them her plans to kill Mr Rico some in detail couple for friend she told in detail for plans.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13048,
+            13051
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13052,
+            13057
+          ],
+          "text": "spoke"
+        }
+      ]
+    },
+    {
+      "score": 0.697434,
+      "sentence": "Background check revealed Steve had over four hundred thousand dollars worth of life insurance with his wife Kim as the beneficiary.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7480,
+            7483
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7484,
+            7488
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.992675,
+      "sentence": "Kim Rico denied she was involved in her husband's death but admitted the couple was having marital problems.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Kim Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7798,
+            7806
+          ],
+          "text": "Kim Rico"
+        },
+        {
+          "entities": [
+            {
+              "text": "denied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7807,
+            7813
+          ],
+          "text": "denied"
+        }
+      ]
+    },
+    {
+      "score": 0.584255,
+      "sentence": "Kim Rico denied she was involved in her husband's death but admitted the couple was having marital problems.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7814,
+            7817
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "denied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7807,
+            7813
+          ],
+          "text": "denied"
+        }
+      ]
+    },
+    {
+      "score": 0.419311,
+      "sentence": "Kim Rico denied she was involved in her husband's death but admitted the couple was having marital problems.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7871,
+            7877
+          ],
+          "text": "couple"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7858,
+            7866
+          ],
+          "text": "admitted"
+        }
+      ]
+    },
+    {
+      "score": 0.474162,
+      "sentence": "Kim said they went to the resort to work on their marriage.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7916,
+            7920
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "waterfront",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7933,
+            7939
+          ],
+          "text": "resort"
+        }
+      ]
+    },
+    {
+      "score": 0.937208,
+      "sentence": "But after the dinner theater performance the two argued over sex.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            8012,
+            8015
+          ],
+          "text": "two"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8016,
+            8022
+          ],
+          "text": "argued"
+        }
+      ]
+    },
+    {
+      "score": 0.695668,
+      "sentence": "Her story was that he wanted to have sex with her that night and she had turned him down they had an argument and she left the scene because.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8098,
+            8101
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8122,
+            8126
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.746795,
+      "sentence": "His frustration and his disappointment with her and Steve stayed behind according to Kim he was drinking waiting a playboy magazine and smoking a cigar but investigators discovered evidence that Kim was seeking to end their eight year old marriage not fix it.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8370,
+            8373
+          ],
+          "text": "Kim"
+        },
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8393,
+            8398
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.527686,
+      "sentence": "Her story was that he wanted to have sex with her that night and she had turned him down they had an argument and she left the scene because.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Kim Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8113,
+            8116
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8122,
+            8126
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.583274,
+      "sentence": "Florida hearing court was many of her friends testified because she spoke to several of her friends and told them her plans to kill Mr Rico some in detail couple for friend she told in detail for plans.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Kim Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13119,
+            13123
+          ],
+          "text": "Rico"
+        },
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13139,
+            13145
+          ],
+          "text": "couple"
+        }
+      ]
+    },
+    {
+      "score": 0.483879,
+      "sentence": "The weekend also included an audience participation event a murder mystery dinner theater production.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "audience",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            704,
+            712
+          ],
+          "text": "audience"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            735,
+            741
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.951867,
+      "sentence": "His frustration and his disappointment with her and Steve stayed behind according to Kim he was drinking waiting a playboy magazine and smoking a cigar but investigators discovered evidence that Kim was seeking to end their eight year old marriage not fix it.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8370,
+            8373
+          ],
+          "text": "Kim"
+        },
+        {
+          "entities": [
+            {
+              "text": "eight year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            8399,
+            8413
+          ],
+          "text": "eight year old"
+        }
+      ]
+    },
+    {
+      "score": 0.992844,
+      "sentence": "Kim was an extrovert Steve a homebody and Kim told friends and relatives the two were incompatible.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8477,
+            8480
+          ],
+          "text": "Kim"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8481,
+            8485
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.992674,
+      "sentence": "She kind of played games with him at the end because she told him she was not happy and she I think she told us that she was considering divorce and then she said that he's got to work on himself he's got to make improvements he's got a do a bunch of things and he did start doing all those things because he did want to save the marriage and he admitted okay I need to spend more time with my family I need it you know if that's what you know I do love them and he started working on all those things.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8588,
+            8591
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8592,
+            8596
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.981384,
+      "sentence": "She kind of played games with him at the end because she told him she was not happy and she I think she told us that she was considering divorce and then she said that he's got to work on himself he's got to make improvements he's got a do a bunch of things and he did start doing all those things because he did want to save the marriage and he admitted okay I need to spend more time with my family I need it you know if that's what you know I do love them and he started working on all those things.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8635,
+            8638
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8639,
+            8643
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.997414,
+      "sentence": "She kind of played games with him at the end because she told him she was not happy and she I think she told us that she was considering divorce and then she said that he's got to work on himself he's got to make improvements he's got a do a bunch of things and he did start doing all those things because he did want to save the marriage and he admitted okay I need to spend more time with my family I need it you know if that's what you know I do love them and he started working on all those things.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8689,
+            8692
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8693,
+            8697
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.988598,
+      "sentence": "Florida hearing court was many of her friends testified because she spoke to several of her friends and told them her plans to kill Mr Rico some in detail couple for friend she told in detail for plans.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13157,
+            13160
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13161,
+            13165
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.5546,
+      "sentence": "Kim was an extrovert Steve a homebody and Kim told friends and relatives the two were incompatible.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "relatives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8498,
+            8507
+          ],
+          "text": "relatives"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8481,
+            8485
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.789023,
+      "sentence": "She kind of played games with him at the end because she told him she was not happy and she I think she told us that she was considering divorce and then she said that he's got to work on himself he's got to make improvements he's got a do a bunch of things and he did start doing all those things because he did want to save the marriage and he admitted okay I need to spend more time with my family I need it you know if that's what you know I do love them and he started working on all those things.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Kim Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8597,
+            8600
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8592,
+            8596
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.834346,
+      "sentence": "She kind of played games with him at the end because she told him she was not happy and she I think she told us that she was considering divorce and then she said that he's got to work on himself he's got to make improvements he's got a do a bunch of things and he did start doing all those things because he did want to save the marriage and he admitted okay I need to spend more time with my family I need it you know if that's what you know I do love them and he started working on all those things.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8644,
+            8646
+          ],
+          "text": "us"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8639,
+            8643
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.997773,
+      "sentence": "She kind of played games with him at the end because she told him she was not happy and she I think she told us that she was considering divorce and then she said that he's got to work on himself he's got to make improvements he's got a do a bunch of things and he did start doing all those things because he did want to save the marriage and he admitted okay I need to spend more time with my family I need it you know if that's what you know I do love them and he started working on all those things.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Kim Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8878,
+            8880
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8881,
+            8889
+          ],
+          "text": "admitted"
+        }
+      ]
+    },
+    {
+      "score": 0.988446,
+      "sentence": "When the clerk was shown pictures of Stephen Kim recalled.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephen Kim Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10475,
+            10486
+          ],
+          "text": "Stephen Kim"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10487,
+            10495
+          ],
+          "text": "recalled"
+        }
+      ]
+    },
+    {
+      "score": 0.502232,
+      "sentence": "She kind of played games with him at the end because she told him she was not happy and she I think she told us that she was considering divorce and then she said that he's got to work on himself he's got to make improvements he's got a do a bunch of things and he did start doing all those things because he did want to save the marriage and he admitted okay I need to spend more time with my family I need it you know if that's what you know I do love them and he started working on all those things.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8895,
+            8896
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8881,
+            8889
+          ],
+          "text": "admitted"
+        }
+      ]
+    },
+    {
+      "score": 0.436002,
+      "sentence": "She kind of played games with him at the end because she told him she was not happy and she I think she told us that she was considering divorce and then she said that he's got to work on himself he's got to make improvements he's got a do a bunch of things and he did start doing all those things because he did want to save the marriage and he admitted okay I need to spend more time with my family I need it you know if that's what you know I do love them and he started working on all those things.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8926,
+            8928
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8929,
+            8935
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.992817,
+      "sentence": "Kimberly'S co worker informed us that Kimberly had come to him she believes what he believed in a joking manner that can really wanted this co worker to kill Steve.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9072,
+            9081
+          ],
+          "text": "co worker"
+        },
+        {
+          "entities": [
+            {
+              "text": "informed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9082,
+            9090
+          ],
+          "text": "informed"
+        }
+      ]
+    },
+    {
+      "score": 0.902338,
+      "sentence": "Kimberly'S co worker informed us that Kimberly had come to him she believes what he believed in a joking manner that can really wanted this co worker to kill Steve.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9091,
+            9093
+          ],
+          "text": "us"
+        },
+        {
+          "entities": [
+            {
+              "text": "informed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9082,
+            9090
+          ],
+          "text": "informed"
+        }
+      ]
+    },
+    {
+      "score": 0.917505,
+      "sentence": "The first hour is generally a cocktail hour and the actors are unloading during this whole hour and that had the audience can very readily see who is who is the bad guy who hates to reply in the audience that night were Stephen Kim Rico from laurel Maryland.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            946,
+            949
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "reply",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            959,
+            964
+          ],
+          "text": "reply"
+        }
+      ]
+    },
+    {
+      "score": 0.562802,
+      "sentence": "Kimberly'S co worker informed us that Kimberly had come to him she believes what he believed in a joking manner that can really wanted this co worker to kill Steve.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9201,
+            9210
+          ],
+          "text": "co worker"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            9214,
+            9218
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.512418,
+      "sentence": "Kimberly'S co worker informed us that Kimberly had come to him she believes what he believed in a joking manner that can really wanted this co worker to kill Steve.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9219,
+            9224
+          ],
+          "text": "Steve"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            9214,
+            9218
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.736488,
+      "sentence": "Co worker thought that she was joking felt that they had just been having normal Meryl problem so the co worker.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9249,
+            9252
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9274,
+            9278
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.71647,
+      "sentence": "Told Kimberly you know just laughed and said all just want to just put in the sleep.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9344,
+            9352
+          ],
+          "text": "Kimberly"
+        },
+        {
+          "entities": [
+            {
+              "text": "Told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9339,
+            9343
+          ],
+          "text": "Told"
+        }
+      ]
+    },
+    {
+      "score": 0.879545,
+      "sentence": "Kimberly being a medical technician assisted in surgery and we we knew that and we learned that sexual Colin is on the court there but it's not accounted for S. marcada drugs required to be accounted for Steve's autopsy found no traces of succinylcholine.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Colin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9902,
+            9907
+          ],
+          "text": "Colin"
+        },
+        {
+          "entities": [
+            {
+              "text": "court",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9918,
+            9923
+          ],
+          "text": "court"
+        }
+      ]
+    },
+    {
+      "score": 0.455904,
+      "sentence": "Kimberly being a medical technician assisted in surgery and we we knew that and we learned that sexual Colin is on the court there but it's not accounted for S. marcada drugs required to be accounted for Steve's autopsy found no traces of succinylcholine.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "carbon monoxide",
+              "type": "Substance"
+            }
+          ],
+          "location": [
+            9968,
+            9973
+          ],
+          "text": "drugs"
+        },
+        {
+          "entities": [
+            {
+              "text": "court",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9918,
+            9923
+          ],
+          "text": "court"
+        }
+      ]
+    },
+    {
+      "score": 0.197948,
+      "sentence": "Investigators tried to locate the store where Steve purchased the cigars found in the hotel room.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10250,
+            10255
+          ],
+          "text": "Steve"
+        },
+        {
+          "entities": [
+            {
+              "text": "store",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10244,
+            10249
+          ],
+          "text": "where"
+        }
+      ]
+    },
+    {
+      "score": 0.386631,
+      "sentence": "Investigators tried to locate the store where Steve purchased the cigars found in the hotel room.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10296,
+            10300
+          ],
+          "text": "room"
+        },
+        {
+          "entities": [
+            {
+              "text": "store",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10244,
+            10249
+          ],
+          "text": "where"
+        }
+      ]
+    },
+    {
+      "score": 0.735406,
+      "sentence": "Sergeant Joe gamble visited twenty six convenience stores in the vicinity of the recalls home in one he found the same brand of cigars.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sergeant Joe gamble",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10302,
+            10321
+          ],
+          "text": "Sergeant Joe gamble"
+        },
+        {
+          "entities": [
+            {
+              "text": "stores",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10353,
+            10359
+          ],
+          "text": "stores"
+        }
+      ]
+    },
+    {
+      "score": 0.752148,
+      "sentence": "Sergeant Joe gamble visited twenty six convenience stores in the vicinity of the recalls home in one he found the same brand of cigars.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "stores",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10353,
+            10359
+          ],
+          "text": "stores"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10391,
+            10395
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.886768,
+      "sentence": "The first hour is generally a cocktail hour and the actors are unloading during this whole hour and that had the audience can very readily see who is who is the bad guy who hates to reply in the audience that night were Stephen Kim Rico from laurel Maryland.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "that night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            981,
+            991
+          ],
+          "text": "that night"
+        },
+        {
+          "entities": [
+            {
+              "text": "reply",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            959,
+            964
+          ],
+          "text": "reply"
+        }
+      ]
+    },
+    {
+      "score": 0.379423,
+      "sentence": "Sergeant Joe gamble visited twenty six convenience stores in the vicinity of the recalls home in one he found the same brand of cigars.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10403,
+            10405
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10391,
+            10395
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.474305,
+      "sentence": "Sergeant Joe gamble visited twenty six convenience stores in the vicinity of the recalls home in one he found the same brand of cigars.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "cigars",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10430,
+            10436
+          ],
+          "text": "cigars"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10391,
+            10395
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.548713,
+      "sentence": "She identified him as the one who purchased the cigars and beer.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            10523,
+            10526
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "cigars",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10545,
+            10551
+          ],
+          "text": "cigars"
+        }
+      ]
+    },
+    {
+      "score": 0.600509,
+      "sentence": "She identified him as the one who purchased the cigars and beer.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10527,
+            10530
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "cigars",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10545,
+            10551
+          ],
+          "text": "cigars"
+        }
+      ]
+    },
+    {
+      "score": 0.99807,
+      "sentence": "She remembered she came in and bought a package of cigars and beer and I asked her why did you remember that.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10562,
+            10565
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "remembered",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10566,
+            10576
+          ],
+          "text": "remembered"
+        }
+      ]
+    },
+    {
+      "score": 0.980639,
+      "sentence": "She remembered she came in and bought a package of cigars and beer and I asked her why did you remember that.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10633,
+            10634
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10635,
+            10640
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.902806,
+      "sentence": "She remembered she came in and bought a package of cigars and beer and I asked her why did you remember that.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10641,
+            10644
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10635,
+            10640
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.76972,
+      "sentence": "The lady told me that she would like the color of Kimberly spare Kimberly has red hair and she asked him really where it was where she had her hair dyed.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10686,
+            10688
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10681,
+            10685
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.996671,
+      "sentence": "The lady told me that she would like the color of Kimberly spare Kimberly has red hair and she asked him really where it was where she had her hair dyed.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kimberly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10763,
+            10766
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10767,
+            10772
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.788427,
+      "sentence": "The lady told me that she would like the color of Kimberly spare Kimberly has red hair and she asked him really where it was where she had her hair dyed.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Steve Rico",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10773,
+            10776
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10767,
+            10772
+          ],
+          "text": "asked"
+        }
+      ]
+    }
+  ]
+}

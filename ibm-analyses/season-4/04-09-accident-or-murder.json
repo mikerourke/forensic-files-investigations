@@ -1,0 +1,5311 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 14164,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Janice Johnson",
+      "relevance": 0.955153,
+      "confidence": 1,
+      "count": 14
+    },
+    {
+      "type": "Person",
+      "text": "Clayton Johnson",
+      "relevance": 0.87774,
+      "confidence": 1,
+      "count": 13
+    },
+    {
+      "type": "Person",
+      "text": "Janice",
+      "relevance": 0.44491,
+      "confidence": 1,
+      "count": 11
+    },
+    {
+      "type": "Person",
+      "text": "Clayton",
+      "relevance": 0.365189,
+      "confidence": 1,
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "Johnson",
+      "relevance": 0.289307,
+      "confidence": 1,
+      "count": 11
+    },
+    {
+      "type": "Person",
+      "text": "Johnsons",
+      "relevance": 0.261355,
+      "confidence": 0.999121,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Claire Thompson",
+      "relevance": 0.194683,
+      "confidence": 0.999995,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Janice goodbye",
+      "relevance": 0.193859,
+      "confidence": 0.883194,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty five year",
+      "relevance": 0.158759,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eleven year",
+      "relevance": 0.154192,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "nine year",
+      "relevance": 0.153924,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Platon",
+      "relevance": 0.145224,
+      "confidence": 0.979522,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "James Lockyer",
+      "relevance": 0.140959,
+      "confidence": 1,
+      "count": 3,
+      "disambiguation": {
+        "name": "James_Lockyer",
+        "dbpedia_resource": "http://dbpedia.org/resource/James_Lockyer"
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty five years",
+      "relevance": 0.137457,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Shelburne",
+      "relevance": 0.135842,
+      "confidence": 0.443295,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Dr Roland Perry",
+      "relevance": 0.132258,
+      "confidence": 0.945151,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Thompson",
+      "relevance": 0.130692,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Dr Perry",
+      "relevance": 0.124526,
+      "confidence": 0.983425,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ten minutes",
+      "relevance": 0.112781,
+      "confidence": 0.992,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Dan Clayton",
+      "relevance": 0.110586,
+      "confidence": 0.847442,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty two year",
+      "relevance": 0.110066,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty years",
+      "relevance": 0.107253,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "one hundred twenty thousand dollar",
+      "relevance": 0.106989,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Shelburne",
+      "relevance": 0.089538,
+      "confidence": 0.975057,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Atlantic maximum security institution",
+      "relevance": 0.087823,
+      "confidence": 0.21328,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Darla",
+      "relevance": 0.08568,
+      "confidence": 0.982375,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Trumbull",
+      "relevance": 0.075165,
+      "confidence": 0.761706,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "forty years",
+      "relevance": 0.073204,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Scotia",
+      "relevance": 0.071631,
+      "confidence": 0.91312,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "herb macdonell",
+      "relevance": 0.071283,
+      "confidence": 0.984215,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "twentieth",
+      "relevance": 0.066642,
+      "confidence": 0.749012,
+      "count": 1,
+      "disambiguation": {
+        "name": "20th_Century_Fox",
+        "dbpedia_resource": "http://dbpedia.org/resource/20th_Century_Fox",
+        "subtype": [
+          "Organization",
+          "FilmCompany",
+          "FilmDistributor",
+          "ProductionCompany",
+          "VideoGameDeveloper",
+          "VideoGamePublisher",
+          "AwardNominee",
+          "AwardWinner",
+          "FilmEditor",
+          "FilmMusicContributor"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Nova",
+      "relevance": 0.066337,
+      "confidence": 0.925648,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "James lock",
+      "relevance": 0.06185,
+      "confidence": 0.741693,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Linda",
+      "relevance": 0.06084,
+      "confidence": 0.961138,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eighteen months",
+      "relevance": 0.060835,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr James Ferris",
+      "relevance": 0.060432,
+      "confidence": 0.767596,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Satan",
+      "relevance": 0.059958,
+      "confidence": 0.544521,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "fifty percent",
+      "relevance": 0.04429,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two months",
+      "relevance": 0.043916,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Janis",
+      "relevance": 0.03936,
+      "confidence": 0.890795,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Herbert macdonell",
+      "relevance": 0.038284,
+      "confidence": 0.999308,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "INEC",
+      "relevance": 0.037203,
+      "confidence": 0.573034,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Three years",
+      "relevance": 0.035123,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two years",
+      "relevance": 0.034408,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Toronto",
+      "relevance": 0.030935,
+      "confidence": 0.999711,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Canada",
+      "relevance": 0.028754,
+      "confidence": 0.999521,
+      "count": 1,
+      "disambiguation": {
+        "name": "Canada",
+        "dbpedia_resource": "http://dbpedia.org/resource/Canada",
+        "subtype": [
+          "Country",
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "AwardDiscipline",
+          "FilmScreeningVenue"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "England",
+      "relevance": 0.026773,
+      "confidence": 0.99977,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "relevance": 0.024147,
+      "confidence": 0.993266,
+      "count": 1,
+      "disambiguation": {
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "six years",
+      "relevance": 0.023675,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Donald",
+      "relevance": 0.02345,
+      "confidence": 0.999997,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Jenna Johnson",
+      "relevance": 0.022577,
+      "confidence": 0.939854,
+      "count": 1,
+      "disambiguation": {
+        "name": "Jenna_Johnson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jenna_Johnson",
+        "subtype": [
+          "OlympicAthlete"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Vancouver",
+      "relevance": 0.022339,
+      "confidence": 0.989797,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Dallas",
+      "relevance": 0.022057,
+      "confidence": 0.924303,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Two years",
+      "relevance": 0.02172,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "west high school",
+      "relevance": 0.019799,
+      "confidence": 0.10039,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Texas",
+      "relevance": 0.01856,
+      "confidence": 0.976947,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Peter Pan",
+      "relevance": 0.015982,
+      "confidence": 0.39386,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "McDonald",
+      "relevance": 0.015711,
+      "confidence": 0.799187,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "justice Freeman",
+      "relevance": 0.011076,
+      "confidence": 0.711214,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Gloucester",
+      "relevance": 0.008041,
+      "confidence": 0.511785,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Six years",
+      "relevance": 0.002469,
+      "confidence": 0.8,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.934077
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.752067
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.726769
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.712383
+    },
+    {
+      "label": "/society/dating",
+      "score": 0.658704
+    },
+    {
+      "label": "/society/unrest and war",
+      "score": 0.635839
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.602934
+    },
+    {
+      "label": "/sports/go kart",
+      "score": 0.592584
+    },
+    {
+      "label": "/society/crime/sexual offence/rape",
+      "score": 0.581687
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.860534,
+      "sentence": "What are you going to do on the morning of February twentieth nineteen eighty nine something terrible happened to Janice Johnson a thirty five year old housewife and mother of two children.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            114,
+            128
+          ],
+          "text": "Janice Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "thirty five year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            131,
+            151
+          ],
+          "text": "thirty five year old"
+        }
+      ]
+    },
+    {
+      "score": 0.816523,
+      "sentence": "What are you going to do on the morning of February twentieth nineteen eighty nine something terrible happened to Janice Johnson a thirty five year old housewife and mother of two children.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            152,
+            161
+          ],
+          "text": "housewife"
+        },
+        {
+          "entities": [
+            {
+              "text": "thirty five year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            131,
+            151
+          ],
+          "text": "thirty five year old"
+        }
+      ]
+    },
+    {
+      "score": 0.469392,
+      "sentence": "Clayton was an industrial arts teacher at the local high school Janice was a homemaker the Johnsons were deeply religious family and very active in their church volunteering much of their free time to church activities they are always facing people and doing this and then my mom was the type of person that she didn't like to just sit around and do nothing so we were always busy doing something.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mom",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1082,
+            1085
+          ],
+          "text": "mom"
+        },
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1079,
+            1081
+          ],
+          "text": "my"
+        }
+      ]
+    },
+    {
+      "score": 0.2806,
+      "sentence": "In the production of the musical Peter Pan various characters fly across the stage in a harness.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peter Pan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11585,
+            11594
+          ],
+          "text": "Peter Pan"
+        },
+        {
+          "entities": [
+            {
+              "text": "characters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11603,
+            11613
+          ],
+          "text": "characters"
+        }
+      ]
+    },
+    {
+      "score": 0.995555,
+      "sentence": "Donald called the high school borrowed the transom and the operator and hired a model the same height and weight as Janice Johnson.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "McDonald",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11649,
+            11655
+          ],
+          "text": "Donald"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11656,
+            11662
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.648201,
+      "sentence": "Donald called the high school borrowed the transom and the operator and hired a model the same height and weight as Janice Johnson.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Johnsons Shelburne",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11667,
+            11678
+          ],
+          "text": "high school"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11656,
+            11662
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.43658,
+      "sentence": "Donald called the high school borrowed the transom and the operator and hired a model the same height and weight as Janice Johnson.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11765,
+            11779
+          ],
+          "text": "Janice Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "hired",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            11721,
+            11726
+          ],
+          "text": "hired"
+        }
+      ]
+    },
+    {
+      "score": 0.274923,
+      "sentence": "But Donald then built a replica of the Johnsons basement steps he videotaped the entire procedure and put blue chalk on the wall and step where witnesses saw the blood.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Johnsons Shelburne",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11820,
+            11828
+          ],
+          "text": "Johnsons"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11829,
+            11837
+          ],
+          "text": "basement"
+        }
+      ]
+    },
+    {
+      "score": 0.632531,
+      "sentence": "And the call ended at seven fifty just as our neighbor was arriving at the house you know I've got to go.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "our",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12605,
+            12608
+          ],
+          "text": "our"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12638,
+            12643
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.698985,
+      "sentence": "And the call ended at seven fifty just as our neighbor was arriving at the house you know I've got to go.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "neighbor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12609,
+            12617
+          ],
+          "text": "neighbor"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12638,
+            12643
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.858793,
+      "sentence": "When all of this information came to light Canadian prosecutors took the unusual step of releasing Clayton Johnson from prison.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13032,
+            13043
+          ],
+          "text": "prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "Canadian",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13023,
+            13031
+          ],
+          "text": "Canadian"
+        }
+      ]
+    },
+    {
+      "score": 0.753575,
+      "sentence": "When all of this information came to light Canadian prosecutors took the unusual step of releasing Clayton Johnson from prison.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13079,
+            13094
+          ],
+          "text": "Clayton Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13100,
+            13106
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.192689,
+      "sentence": "And I couldn't ask for better legal team one of god.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            13287,
+            13290
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "defense team",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13282,
+            13286
+          ],
+          "text": "team"
+        }
+      ]
+    },
+    {
+      "score": 0.492597,
+      "sentence": "After the children left for school Platon carried some laundry to the basement for his wife.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "characters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1371,
+            1379
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1431,
+            1439
+          ],
+          "text": "basement"
+        }
+      ]
+    },
+    {
+      "score": 0.294088,
+      "sentence": "And I just wanna get back my family currently have right now because that means my dad's actually gonna see me graduate.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13325,
+            13327
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13328,
+            13334
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.320593,
+      "sentence": "And I just wanna get back my family currently have right now because that means my dad's actually gonna see me graduate.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13379,
+            13381
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "graduate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13382,
+            13385
+          ],
+          "text": "dad"
+        }
+      ]
+    },
+    {
+      "score": 0.631263,
+      "sentence": "I'Ve got my father back in my life.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13432,
+            13438
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13429,
+            13431
+          ],
+          "text": "my"
+        }
+      ]
+    },
+    {
+      "score": 0.950282,
+      "sentence": "For a crime forensic experts say didn't happen.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "experts",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13629,
+            13636
+          ],
+          "text": "experts"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13637,
+            13640
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.696566,
+      "sentence": "We'Ve made an error so once you recognize you've made an error you do the best you can to rectify it the best way to rectify this case is simply too with this man exonerate him and let him go on with his life was given all different opinions version of justice system's concerned.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ve",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13690,
+            13692
+          ],
+          "text": "Ve"
+        },
+        {
+          "entities": [
+            {
+              "text": "experts",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13687,
+            13689
+          ],
+          "text": "We"
+        }
+      ]
+    },
+    {
+      "score": 0.55716,
+      "sentence": "Because I mean I've always been brought up right from the time most walk around the place for your friend to call them on a certain level and the distracted all through this makes you think twice.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "graduate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14067,
+            14073
+          ],
+          "text": "friend"
+        },
+        {
+          "entities": [
+            {
+              "text": "call",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14077,
+            14081
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.657649,
+      "sentence": "Because I mean I've always been brought up right from the time most walk around the place for your friend to call them on a certain level and the distracted all through this makes you think twice.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "experts",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14082,
+            14086
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "call",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14077,
+            14081
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.346691,
+      "sentence": "After the children left for school Platon carried some laundry to the basement for his wife.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1448,
+            1452
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1431,
+            1439
+          ],
+          "text": "basement"
+        }
+      ]
+    },
+    {
+      "score": 0.818617,
+      "sentence": "Since Janice Johnson was thought to be in the house alone at the time of the incident foul play was ruled out.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3710,
+            3724
+          ],
+          "text": "Janice Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3750,
+            3755
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.864365,
+      "sentence": "A minute or two later a neighbor found Janice in the basement and called paramedics the call was logged in at seven fifty two.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4161,
+            4167
+          ],
+          "text": "Janice"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4175,
+            4183
+          ],
+          "text": "basement"
+        }
+      ]
+    },
+    {
+      "score": 0.539204,
+      "sentence": "James Lockyer believes the Janice Johnson was still on the telephone when Clayton was at the gas station.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12484,
+            12498
+          ],
+          "text": "Janice Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12554,
+            12561
+          ],
+          "text": "station"
+        }
+      ]
+    },
+    {
+      "score": 0.407222,
+      "sentence": "And the call ended at seven fifty just as our neighbor was arriving at the house you know I've got to go.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12644,
+            12647
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12638,
+            12643
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.473392,
+      "sentence": "Her feet older head from the gap flipping her body over on to the basement floor producing the gash found on the top of her head.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12896,
+            12900
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12916,
+            12924
+          ],
+          "text": "basement"
+        }
+      ]
+    },
+    {
+      "score": 0.617573,
+      "sentence": "After the children left for school Platon carried some laundry to the basement for his wife.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dan Clayton",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1444,
+            1447
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1448,
+            1452
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.700276,
+      "sentence": "Clayton was aware the Janis was expecting company that morning any series that he would kill his wife in a time span of seconds all minutes when he could legitimately expect three different people to show up at the house in that very time that he was supposedly assaulting his wife you put all that together the theory echoed his wife was in my view a completely ridiculous.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dan Clayton",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7758,
+            7761
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7762,
+            7766
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.749042,
+      "sentence": "Clayton was aware the Janis was expecting company that morning any series that he would kill his wife in a time span of seconds all minutes when he could legitimately expect three different people to show up at the house in that very time that he was supposedly assaulting his wife you put all that together the theory echoed his wife was in my view a completely ridiculous.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dan Clayton",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7938,
+            7941
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7942,
+            7946
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.767147,
+      "sentence": "Clayton was aware the Janis was expecting company that morning any series that he would kill his wife in a time span of seconds all minutes when he could legitimately expect three different people to show up at the house in that very time that he was supposedly assaulting his wife you put all that together the theory echoed his wife was in my view a completely ridiculous.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dan Clayton",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7991,
+            7994
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7995,
+            7999
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.625584,
+      "sentence": "But then left for work stopping along the way at the local gas station.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "gas",
+              "type": "Substance"
+            }
+          ],
+          "location": [
+            1646,
+            1649
+          ],
+          "text": "gas"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1650,
+            1657
+          ],
+          "text": "station"
+        }
+      ]
+    },
+    {
+      "score": 0.643101,
+      "sentence": "Witnesses saw Clayton Johnson at the gas station at the same time.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "gas",
+              "type": "Substance"
+            }
+          ],
+          "location": [
+            4092,
+            4095
+          ],
+          "text": "gas"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4096,
+            4103
+          ],
+          "text": "station"
+        }
+      ]
+    },
+    {
+      "score": 0.758582,
+      "sentence": "A witness said Clayton Johnson was at the gas station at the same time seven fifty one clear Thompson said she was sending her call to Janice.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "gas",
+              "type": "Substance"
+            }
+          ],
+          "location": [
+            7477,
+            7480
+          ],
+          "text": "gas"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7481,
+            7488
+          ],
+          "text": "station"
+        }
+      ]
+    },
+    {
+      "score": 0.643101,
+      "sentence": "James Lockyer believes the Janice Johnson was still on the telephone when Clayton was at the gas station.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "gas",
+              "type": "Substance"
+            }
+          ],
+          "location": [
+            12550,
+            12553
+          ],
+          "text": "gas"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12554,
+            12561
+          ],
+          "text": "station"
+        }
+      ]
+    },
+    {
+      "score": 0.501388,
+      "sentence": "A few minutes later the neighbors stopped by the Johnsons home.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "neighbors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1683,
+            1692
+          ],
+          "text": "neighbors"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1717,
+            1721
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.56042,
+      "sentence": "A few minutes later the neighbors stopped by the Johnsons home.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Johnsons Shelburne",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1708,
+            1716
+          ],
+          "text": "Johnsons"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1717,
+            1721
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.515955,
+      "sentence": "Clayton heard the news but he arrived at work and rushed to the hospital.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dan Clayton",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1848,
+            1850
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1885,
+            1893
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.82522,
+      "sentence": "James Lockyer believes the Janice Johnson was still on the telephone when Clayton was at the gas station.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dan Clayton",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12531,
+            12538
+          ],
+          "text": "Clayton"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12554,
+            12561
+          ],
+          "text": "station"
+        }
+      ]
+    },
+    {
+      "score": 0.588992,
+      "sentence": "Despite the best of medical treatment Janice died of a head wound several hours later she was just thirty five years old.",
+      "type": "diedOn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2047,
+            2053
+          ],
+          "text": "Janice"
+        },
+        {
+          "entities": [
+            {
+              "text": "thirty five years old",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            2108,
+            2129
+          ],
+          "text": "thirty five years old"
+        }
+      ]
+    },
+    {
+      "score": 0.721329,
+      "sentence": "I think it was the first time I've ever seen my father cry.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2179,
+            2185
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2176,
+            2178
+          ],
+          "text": "my"
+        }
+      ]
+    },
+    {
+      "score": 0.432333,
+      "sentence": "What are you going to do on the morning of February twentieth nineteen eighty nine something terrible happened to Janice Johnson a thirty five year old housewife and mother of two children.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            166,
+            172
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "characters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            180,
+            188
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.541507,
+      "sentence": "The small community of Shelburne rallied around Johnson and his two daughters as they paid their last respects to a loving wife and mother.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "conservative community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2301,
+            2310
+          ],
+          "text": "community"
+        },
+        {
+          "entities": [
+            {
+              "text": "Shelburne Nova Scotia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2314,
+            2323
+          ],
+          "text": "Shelburne"
+        }
+      ]
+    },
+    {
+      "score": 0.764495,
+      "sentence": "In the close knit conservative community of Shelburne this new relationship raised a few eyebrows police also discovered that Clayton Johnson had purchased a one hundred twenty thousand dollar life insurance policy on Janice two months before she died.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "conservative community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4735,
+            4757
+          ],
+          "text": "conservative community"
+        },
+        {
+          "entities": [
+            {
+              "text": "Shelburne Nova Scotia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4761,
+            4770
+          ],
+          "text": "Shelburne"
+        }
+      ]
+    },
+    {
+      "score": 0.602524,
+      "sentence": "The small community of Shelburne rallied around Johnson and his two daughters as they paid their last respects to a loving wife and mother.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "conservative community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2301,
+            2310
+          ],
+          "text": "community"
+        },
+        {
+          "entities": [
+            {
+              "text": "rallied",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            2324,
+            2331
+          ],
+          "text": "rallied"
+        }
+      ]
+    },
+    {
+      "score": 0.501902,
+      "sentence": "The small community of Shelburne rallied around Johnson and his two daughters as they paid their last respects to a loving wife and mother.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2339,
+            2346
+          ],
+          "text": "Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "rallied",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            2324,
+            2331
+          ],
+          "text": "rallied"
+        }
+      ]
+    },
+    {
+      "score": 0.271919,
+      "sentence": "He was hampered to some extent by the fact that there were no photographs of the accident scene.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            2715,
+            2720
+          ],
+          "text": "scene"
+        },
+        {
+          "entities": [
+            {
+              "text": "accident",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            2706,
+            2714
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.79632,
+      "sentence": "In a misguided effort to be helpful to family friends had washed the blood from the basement before photographs could be taken.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2768,
+            2775
+          ],
+          "text": "friends"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2761,
+            2767
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.5416,
+      "sentence": "In a misguided effort to be helpful to family friends had washed the blood from the basement before photographs could be taken.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "blood",
+              "type": "Substance"
+            }
+          ],
+          "location": [
+            2791,
+            2796
+          ],
+          "text": "blood"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2806,
+            2814
+          ],
+          "text": "basement"
+        }
+      ]
+    },
+    {
+      "score": 0.985202,
+      "sentence": "This is a police video shop later as the women describe the blood stains.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "women",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2891,
+            2896
+          ],
+          "text": "women"
+        },
+        {
+          "entities": [
+            {
+              "text": "describe",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2897,
+            2905
+          ],
+          "text": "describe"
+        }
+      ]
+    },
+    {
+      "score": 0.991073,
+      "sentence": "They said there was a small blood stain on the floor at the bottom of the steps and the blood stained with blood the hair on the concrete wall next to the third step.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "They",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2924,
+            2928
+          ],
+          "text": "They"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2929,
+            2933
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.609151,
+      "sentence": "In her left hand she was holding her car keys.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3275,
+            3278
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            3279,
+            3282
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.921366,
+      "sentence": "Although Dr Perry found Janice Johnson's wounds to be unusual he ruled the death a freak accident concluding that she had fallen down the steps to her death.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roland Perry",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3351,
+            3353
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "ruled",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            3354,
+            3359
+          ],
+          "text": "ruled"
+        }
+      ]
+    },
+    {
+      "score": 0.628862,
+      "sentence": "For the Johnsons Shelburne was the ideal place to raise their two young daughters eleven year old Darla and nine year old on the two of the girls trip star this winter we were always together like even ask anybody running in one of the scenes were forty years ago it's got some very very rarely ever when they were in division.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            550,
+            559
+          ],
+          "text": "daughters"
+        },
+        {
+          "entities": [
+            {
+              "text": "eleven year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            560,
+            575
+          ],
+          "text": "eleven year old"
+        }
+      ]
+    },
+    {
+      "score": 0.463129,
+      "sentence": "Although Dr Perry found Janice Johnson's wounds to be unusual he ruled the death a freak accident concluding that she had fallen down the steps to her death.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3403,
+            3406
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "accident",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            3378,
+            3386
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.992007,
+      "sentence": "Janice was on the telephone with player Thompson who said she heard Clayton case Janice goodbye before leaving for work.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Claire Thompson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3864,
+            3867
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3868,
+            3872
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.997281,
+      "sentence": "Claire Thompson said they talked for ten minutes and that the call ended around seven fifty.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Claire Thompson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3962,
+            3977
+          ],
+          "text": "Claire Thompson"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3978,
+            3982
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.457579,
+      "sentence": "Janice was on the telephone with player Thompson who said she heard Clayton case Janice goodbye before leaving for work.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dan Clayton",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3883,
+            3890
+          ],
+          "text": "Clayton"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            3891,
+            3895
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.492794,
+      "sentence": "Janice was on the telephone with player Thompson who said she heard Clayton case Janice goodbye before leaving for work.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3896,
+            3902
+          ],
+          "text": "Janice"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            3891,
+            3895
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.984246,
+      "sentence": "Claire Thompson said they talked for ten minutes and that the call ended around seven fifty.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3983,
+            3987
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "talked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3988,
+            3994
+          ],
+          "text": "talked"
+        }
+      ]
+    },
+    {
+      "score": 0.487071,
+      "sentence": "Claire Thompson said they talked for ten minutes and that the call ended around seven fifty.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "ten minutes",
+              "type": "Duration"
+            }
+          ],
+          "location": [
+            3999,
+            4010
+          ],
+          "text": "ten minutes"
+        },
+        {
+          "entities": [
+            {
+              "text": "talked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3988,
+            3994
+          ],
+          "text": "talked"
+        }
+      ]
+    },
+    {
+      "score": 0.670609,
+      "sentence": "Witnesses saw Clayton Johnson at the gas station at the same time.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4055,
+            4064
+          ],
+          "text": "Witnesses"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4096,
+            4103
+          ],
+          "text": "station"
+        }
+      ]
+    },
+    {
+      "score": 0.757604,
+      "sentence": "Witnesses saw Clayton Johnson at the gas station at the same time.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4069,
+            4084
+          ],
+          "text": "Clayton Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4096,
+            4103
+          ],
+          "text": "station"
+        }
+      ]
+    },
+    {
+      "score": 0.950776,
+      "sentence": "A witness said Clayton Johnson was at the gas station at the same time seven fifty one clear Thompson said she was sending her call to Janice.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7450,
+            7465
+          ],
+          "text": "Clayton Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7481,
+            7488
+          ],
+          "text": "station"
+        }
+      ]
+    },
+    {
+      "score": 0.303208,
+      "sentence": "That was so to speak the end of that of course Clayton and his daughters had to deal with the the great losses they have suffered it was only off to some eighteen months have passed that Clayton really made what might be called a dreadful mistake.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dan Clayton",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4308,
+            4311
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "daughters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4312,
+            4321
+          ],
+          "text": "daughters"
+        }
+      ]
+    },
+    {
+      "score": 0.761335,
+      "sentence": "Clayton Johnson's mistake was to fall in love soon after genesis Dan Clayton started dating and later married twenty two year old Tino way print.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dan Clayton",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4562,
+            4573
+          ],
+          "text": "Dan Clayton"
+        },
+        {
+          "entities": [
+            {
+              "text": "twenty two year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            4607,
+            4626
+          ],
+          "text": "twenty two year old"
+        }
+      ]
+    },
+    {
+      "score": 0.941956,
+      "sentence": "For the Johnsons Shelburne was the ideal place to raise their two young daughters eleven year old Darla and nine year old on the two of the girls trip star this winter we were always together like even ask anybody running in one of the scenes were forty years ago it's got some very very rarely ever when they were in division.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Darla",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            576,
+            581
+          ],
+          "text": "Darla"
+        },
+        {
+          "entities": [
+            {
+              "text": "eleven year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            560,
+            575
+          ],
+          "text": "eleven year old"
+        }
+      ]
+    },
+    {
+      "score": 0.936208,
+      "sentence": "Clayton Johnson's mistake was to fall in love soon after genesis Dan Clayton started dating and later married twenty two year old Tino way print.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tino",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4627,
+            4631
+          ],
+          "text": "Tino"
+        },
+        {
+          "entities": [
+            {
+              "text": "twenty two year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            4607,
+            4626
+          ],
+          "text": "twenty two year old"
+        }
+      ]
+    },
+    {
+      "score": 0.714804,
+      "sentence": "She was a member of the Johnson's church and was thirty years his junior.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tino",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4653,
+            4659
+          ],
+          "text": "member"
+        },
+        {
+          "entities": [
+            {
+              "text": "church",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4677,
+            4683
+          ],
+          "text": "church"
+        }
+      ]
+    },
+    {
+      "score": 0.443016,
+      "sentence": "She was a member of the Johnson's church and was thirty years his junior.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4667,
+            4674
+          ],
+          "text": "Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "church",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4677,
+            4683
+          ],
+          "text": "church"
+        }
+      ]
+    },
+    {
+      "score": 0.698424,
+      "sentence": "A background check revealed that Clayton Johnson was also having financial difficulties and that utility services were sometimes cut off in their home for non payment and pretty soon fact became confused the rumor rumor was fact and the more people talked the more people wondered whether this lovable teddy bear Clayton Johnson was a white color.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5110,
+            5115
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5116,
+            5120
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.968735,
+      "sentence": "A background check revealed that Clayton Johnson was also having financial difficulties and that utility services were sometimes cut off in their home for non payment and pretty soon fact became confused the rumor rumor was fact and the more people talked the more people wondered whether this lovable teddy bear Clayton Johnson was a white color.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5212,
+            5218
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "talked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5219,
+            5225
+          ],
+          "text": "talked"
+        }
+      ]
+    },
+    {
+      "score": 0.887852,
+      "sentence": "So police decided to re opened their investigation into Janice Johnson's death.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5349,
+            5354
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            5355,
+            5368
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.7958,
+      "sentence": "So police decided to re opened their investigation into Janice Johnson's death.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5374,
+            5388
+          ],
+          "text": "Janice Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            5355,
+            5368
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.732352,
+      "sentence": "Homicide investigators went back to re interview the woman who cleaned up the blood after Janice Johnson's death.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5451,
+            5456
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            5437,
+            5446
+          ],
+          "text": "interview"
+        }
+      ]
+    },
+    {
+      "score": 0.955724,
+      "sentence": "To their surprise two years later one of the women recalled seeing more blood in the basement then she originally reported.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            5546,
+            5549
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "women",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5557,
+            5562
+          ],
+          "text": "women"
+        }
+      ]
+    },
+    {
+      "score": 0.636498,
+      "sentence": "To their surprise two years later one of the women recalled seeing more blood in the basement then she originally reported.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "women",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5557,
+            5562
+          ],
+          "text": "women"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5597,
+            5605
+          ],
+          "text": "basement"
+        }
+      ]
+    },
+    {
+      "score": 0.676183,
+      "sentence": "For the Johnsons Shelburne was the ideal place to raise their two young daughters eleven year old Darla and nine year old on the two of the girls trip star this winter we were always together like even ask anybody running in one of the scenes were forty years ago it's got some very very rarely ever when they were in division.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "two",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            607,
+            610
+          ],
+          "text": "two"
+        },
+        {
+          "entities": [
+            {
+              "text": "girls",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            618,
+            623
+          ],
+          "text": "girls"
+        }
+      ]
+    },
+    {
+      "score": 0.582855,
+      "sentence": "To their surprise two years later one of the women recalled seeing more blood in the basement then she originally reported.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5611,
+            5614
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "reported",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5626,
+            5634
+          ],
+          "text": "reported"
+        }
+      ]
+    },
+    {
+      "score": 0.688763,
+      "sentence": "Investigators took this new information along with the autopsy photos the two of Canada's most respected pathologist.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Investigators",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            5784,
+            5787
+          ],
+          "text": "two"
+        },
+        {
+          "entities": [
+            {
+              "text": "pathologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5815,
+            5826
+          ],
+          "text": "pathologist"
+        }
+      ]
+    },
+    {
+      "score": 0.589257,
+      "sentence": "Investigators took this new information along with the autopsy photos the two of Canada's most respected pathologist.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "pathologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5815,
+            5826
+          ],
+          "text": "pathologist"
+        },
+        {
+          "entities": [
+            {
+              "text": "Canada",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5791,
+            5797
+          ],
+          "text": "Canada"
+        }
+      ]
+    },
+    {
+      "score": 0.827391,
+      "sentence": "Three years after his wife's death Clayton Johnson was arrested and charged with first degree murder.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5846,
+            5849
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5850,
+            5854
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.750727,
+      "sentence": "This created the window of opportunity for Johnson to have murdered his wife.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8877,
+            8880
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8881,
+            8885
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.600741,
+      "sentence": "It'S a rude awakening Johnson's team of forensic experts did not believe that his wife's injuries were consistent with the bludgeoning death.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10585,
+            10588
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10589,
+            10593
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.592392,
+      "sentence": "Three years after his wife's death Clayton Johnson was arrested and charged with first degree murder.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5850,
+            5854
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "charge",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            5896,
+            5903
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.962457,
+      "sentence": "Three years after his wife's death Clayton Johnson was arrested and charged with first degree murder.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5863,
+            5878
+          ],
+          "text": "Clayton Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrested",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            5883,
+            5891
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.459483,
+      "sentence": "Three years after his wife's death Clayton Johnson was arrested and charged with first degree murder.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5863,
+            5878
+          ],
+          "text": "Clayton Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "charge",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            5896,
+            5903
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.955575,
+      "sentence": "Three years after his wife's death Clayton Johnson was arrested and charged with first degree murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5863,
+            5878
+          ],
+          "text": "Clayton Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5922,
+            5928
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.792923,
+      "sentence": "Prosecutors introduced a new blood spatter testimony and also raised the issue of Johnson's new love interest Clayton Johnson was on trial for events that happened after the accident he was on trial for the insurance money that is collected he was on trial for this it new girlfriend that he that he that he had left move in with them Clayton Johnson was found guilty of first degree murder and was sentenced to life in prison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6307,
+            6322
+          ],
+          "text": "Clayton Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6356,
+            6362
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.862236,
+      "sentence": "This created the window of opportunity for Johnson to have murdered his wife.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8852,
+            8859
+          ],
+          "text": "Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            8868,
+            8876
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.964867,
+      "sentence": "Johnson pleaded not guilty to the charge.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5930,
+            5937
+          ],
+          "text": "Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "pleaded",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            5938,
+            5945
+          ],
+          "text": "pleaded"
+        }
+      ]
+    },
+    {
+      "score": 0.643252,
+      "sentence": "Prosecutors introduced a new blood spatter testimony and also raised the issue of Johnson's new love interest Clayton Johnson was on trial for events that happened after the accident he was on trial for the insurance money that is collected he was on trial for this it new girlfriend that he that he that he had left move in with them Clayton Johnson was found guilty of first degree murder and was sentenced to life in prison.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6082,
+            6097
+          ],
+          "text": "Clayton Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6105,
+            6110
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.790287,
+      "sentence": "Prosecutors introduced a new blood spatter testimony and also raised the issue of Johnson's new love interest Clayton Johnson was on trial for events that happened after the accident he was on trial for the insurance money that is collected he was on trial for this it new girlfriend that he that he that he had left move in with them Clayton Johnson was found guilty of first degree murder and was sentenced to life in prison.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6155,
+            6157
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6165,
+            6170
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.689218,
+      "sentence": "Prosecutors introduced a new blood spatter testimony and also raised the issue of Johnson's new love interest Clayton Johnson was on trial for events that happened after the accident he was on trial for the insurance money that is collected he was on trial for this it new girlfriend that he that he that he had left move in with them Clayton Johnson was found guilty of first degree murder and was sentenced to life in prison.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6213,
+            6215
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6223,
+            6228
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.830072,
+      "sentence": "Clayton was an industrial arts teacher at the local high school Janice was a homemaker the Johnsons were deeply religious family and very active in their church volunteering much of their free time to church activities they are always facing people and doing this and then my mom was the type of person that she didn't like to just sit around and do nothing so we were always busy doing something.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dan Clayton",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            837,
+            844
+          ],
+          "text": "teacher"
+        },
+        {
+          "entities": [
+            {
+              "text": "Johnsons Shelburne",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            858,
+            869
+          ],
+          "text": "high school"
+        }
+      ]
+    },
+    {
+      "score": 0.570866,
+      "sentence": "Prosecutors introduced a new blood spatter testimony and also raised the issue of Johnson's new love interest Clayton Johnson was on trial for events that happened after the accident he was on trial for the insurance money that is collected he was on trial for this it new girlfriend that he that he that he had left move in with them Clayton Johnson was found guilty of first degree murder and was sentenced to life in prison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "them",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6302,
+            6306
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6356,
+            6362
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.985637,
+      "sentence": "Johnson was ordered to serve his sentence in the Atlantic maximum security institution.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6539,
+            6546
+          ],
+          "text": "Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "ordered",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6551,
+            6558
+          ],
+          "text": "ordered"
+        }
+      ]
+    },
+    {
+      "score": 0.474899,
+      "sentence": "Johnson was ordered to serve his sentence in the Atlantic maximum security institution.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6568,
+            6571
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentence",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6572,
+            6580
+          ],
+          "text": "sentence"
+        }
+      ]
+    },
+    {
+      "score": 0.340546,
+      "sentence": "Johnson was ordered to serve his sentence in the Atlantic maximum security institution.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Johnsons Shelburne",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6614,
+            6625
+          ],
+          "text": "institution"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentence",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6572,
+            6580
+          ],
+          "text": "sentence"
+        }
+      ]
+    },
+    {
+      "score": 0.986735,
+      "sentence": "From there he contacted the association in defense of the wrongfully convicted in Toronto.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6638,
+            6640
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "contacted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6641,
+            6650
+          ],
+          "text": "contacted"
+        }
+      ]
+    },
+    {
+      "score": 0.563004,
+      "sentence": "From there he contacted the association in defense of the wrongfully convicted in Toronto.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Johnsons Shelburne",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6655,
+            6666
+          ],
+          "text": "association"
+        },
+        {
+          "entities": [
+            {
+              "text": "contacted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6641,
+            6650
+          ],
+          "text": "contacted"
+        }
+      ]
+    },
+    {
+      "score": 0.553274,
+      "sentence": "From there he contacted the association in defense of the wrongfully convicted in Toronto.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Johnsons Shelburne",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6655,
+            6666
+          ],
+          "text": "association"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6696,
+            6705
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.721495,
+      "sentence": "From there he contacted the association in defense of the wrongfully convicted in Toronto.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6696,
+            6705
+          ],
+          "text": "convicted"
+        },
+        {
+          "entities": [
+            {
+              "text": "Toronto",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6709,
+            6716
+          ],
+          "text": "Toronto"
+        }
+      ]
+    },
+    {
+      "score": 0.630731,
+      "sentence": "His story caught the attention of the director of the organization James Lockyer as you go back through the miscarriages of justice in both our countries in the town of that is in the United States and in England.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "director",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6756,
+            6764
+          ],
+          "text": "director"
+        },
+        {
+          "entities": [
+            {
+              "text": "Johnsons Shelburne",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6772,
+            6784
+          ],
+          "text": "organization"
+        }
+      ]
+    },
+    {
+      "score": 0.753117,
+      "sentence": "His story caught the attention of the director of the organization James Lockyer as you go back through the miscarriages of justice in both our countries in the town of that is in the United States and in England.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "James Lockyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6785,
+            6798
+          ],
+          "text": "James Lockyer"
+        },
+        {
+          "entities": [
+            {
+              "text": "Johnsons Shelburne",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6772,
+            6784
+          ],
+          "text": "organization"
+        }
+      ]
+    },
+    {
+      "score": 0.366414,
+      "sentence": "Clayton was an industrial arts teacher at the local high school Janice was a homemaker the Johnsons were deeply religious family and very active in their church volunteering much of their free time to church activities they are always facing people and doing this and then my mom was the type of person that she didn't like to just sit around and do nothing so we were always busy doing something.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            883,
+            892
+          ],
+          "text": "homemaker"
+        },
+        {
+          "entities": [
+            {
+              "text": "Johnsons Shelburne",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            897,
+            905
+          ],
+          "text": "Johnsons"
+        }
+      ]
+    },
+    {
+      "score": 0.88092,
+      "sentence": "His story caught the attention of the director of the organization James Lockyer as you go back through the miscarriages of justice in both our countries in the town of that is in the United States and in England.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "James Lockyer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6785,
+            6798
+          ],
+          "text": "James Lockyer"
+        },
+        {
+          "entities": [
+            {
+              "text": "our",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6858,
+            6861
+          ],
+          "text": "our"
+        }
+      ]
+    },
+    {
+      "score": 0.259962,
+      "sentence": "His story caught the attention of the director of the organization James Lockyer as you go back through the miscarriages of justice in both our countries in the town of that is in the United States and in England.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "our",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6858,
+            6861
+          ],
+          "text": "our"
+        },
+        {
+          "entities": [
+            {
+              "text": "countries",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6862,
+            6871
+          ],
+          "text": "countries"
+        }
+      ]
+    },
+    {
+      "score": 0.644742,
+      "sentence": "His story caught the attention of the director of the organization James Lockyer as you go back through the miscarriages of justice in both our countries in the town of that is in the United States and in England.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "countries",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6862,
+            6871
+          ],
+          "text": "countries"
+        },
+        {
+          "entities": [
+            {
+              "text": "town of",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6879,
+            6886
+          ],
+          "text": "town of"
+        }
+      ]
+    },
+    {
+      "score": 0.998152,
+      "sentence": "Claire Thompson said she was on the telephone with Janice Johnson on the morning of her death.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Claire Thompson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7166,
+            7181
+          ],
+          "text": "Claire Thompson"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7182,
+            7186
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.925922,
+      "sentence": "In her original statement Thompson said she heard Janice goodbye at approximately seven forty.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Claire Thompson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7287,
+            7295
+          ],
+          "text": "Thompson"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7296,
+            7300
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.990631,
+      "sentence": "Sure she said the call with Janice lasted ten minutes until about seven fifty.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Claire Thompson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7361,
+            7364
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7365,
+            7369
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.944816,
+      "sentence": "A witness said Clayton Johnson was at the gas station at the same time seven fifty one clear Thompson said she was sending her call to Janice.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Claire Thompson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7528,
+            7536
+          ],
+          "text": "Thompson"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7537,
+            7541
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.932656,
+      "sentence": "A witness said Clayton Johnson was at the gas station at the same time seven fifty one clear Thompson said she was sending her call to Janice.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witness",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7437,
+            7444
+          ],
+          "text": "witness"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7445,
+            7449
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.525104,
+      "sentence": "Clayton was aware the Janis was expecting company that morning any series that he would kill his wife in a time span of seconds all minutes when he could legitimately expect three different people to show up at the house in that very time that he was supposedly assaulting his wife you put all that together the theory echoed his wife was in my view a completely ridiculous.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Johnsons Shelburne",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7707,
+            7714
+          ],
+          "text": "company"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            7753,
+            7757
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.681223,
+      "sentence": "Clayton was aware the Janis was expecting company that morning any series that he would kill his wife in a time span of seconds all minutes when he could legitimately expect three different people to show up at the house in that very time that he was supposedly assaulting his wife you put all that together the theory echoed his wife was in my view a completely ridiculous.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dan Clayton",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7744,
+            7746
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            7753,
+            7757
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.60352,
+      "sentence": "Clayton was aware the Janis was expecting company that morning any series that he would kill his wife in a time span of seconds all minutes when he could legitimately expect three different people to show up at the house in that very time that he was supposedly assaulting his wife you put all that together the theory echoed his wife was in my view a completely ridiculous.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7762,
+            7766
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            7753,
+            7757
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.782499,
+      "sentence": "Clayton was aware the Janis was expecting company that morning any series that he would kill his wife in a time span of seconds all minutes when he could legitimately expect three different people to show up at the house in that very time that he was supposedly assaulting his wife you put all that together the theory echoed his wife was in my view a completely ridiculous.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7855,
+            7861
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7880,
+            7885
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.997464,
+      "sentence": "Another story that changed was clear Thompson in her original statement she said she called Janice around seven forty and that the call lasted for ten minutes.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Claire Thompson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8649,
+            8652
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8653,
+            8657
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.998745,
+      "sentence": "Two years later she said she may have called it closer to seven thirty.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Claire Thompson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8753,
+            8756
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8757,
+            8761
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.748453,
+      "sentence": "Clayton was an industrial arts teacher at the local high school Janice was a homemaker the Johnsons were deeply religious family and very active in their church volunteering much of their free time to church activities they are always facing people and doing this and then my mom was the type of person that she didn't like to just sit around and do nothing so we were always busy doing something.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            883,
+            892
+          ],
+          "text": "homemaker"
+        },
+        {
+          "entities": [
+            {
+              "text": "Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            928,
+            934
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.777789,
+      "sentence": "Two years later she said she may have called it closer to seven thirty.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Two years later",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            8737,
+            8752
+          ],
+          "text": "Two years later"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8757,
+            8761
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.784979,
+      "sentence": "Two years later she said she may have called it closer to seven thirty.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Claire Thompson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8762,
+            8765
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "called it",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8775,
+            8784
+          ],
+          "text": "called it"
+        }
+      ]
+    },
+    {
+      "score": 0.62,
+      "sentence": "This created the window of opportunity for Johnson to have murdered his wife.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8881,
+            8885
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            8868,
+            8876
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.925934,
+      "sentence": "Dr Linda north Dallas Texas and Dr James Ferris to Vancouver.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "north",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            8985,
+            8990
+          ],
+          "text": "north"
+        },
+        {
+          "entities": [
+            {
+              "text": "Dallas Texas",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8991,
+            9003
+          ],
+          "text": "Dallas Texas"
+        }
+      ]
+    },
+    {
+      "score": 0.510524,
+      "sentence": "Dr Linda north Dallas Texas and Dr James Ferris to Vancouver.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "James Ferris",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9011,
+            9023
+          ],
+          "text": "James Ferris"
+        },
+        {
+          "entities": [
+            {
+              "text": "Vancouver",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9027,
+            9036
+          ],
+          "text": "Vancouver"
+        }
+      ]
+    },
+    {
+      "score": 0.639875,
+      "sentence": "Janice Johnson's car keys were in her hand when paramedics arrived.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9605,
+            9619
+          ],
+          "text": "Janice Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9622,
+            9625
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.695983,
+      "sentence": "She grabbed the car keys ran up the steps and Gloucester forty.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12669,
+            12672
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            12685,
+            12688
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.371978,
+      "sentence": "Clayton Johnson's new defense team now had two major hurdles first to prove to the court that Johnson was innocent and also to show how Janice Johnson really dont.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10093,
+            10108
+          ],
+          "text": "Clayton Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "defense team",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10115,
+            10127
+          ],
+          "text": "defense team"
+        }
+      ]
+    },
+    {
+      "score": 0.435297,
+      "sentence": "By the time Clayton Johnson's new defense team gathered their information he had spent six years behind bars.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10269,
+            10284
+          ],
+          "text": "Clayton Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "defense team",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10291,
+            10303
+          ],
+          "text": "defense team"
+        }
+      ]
+    },
+    {
+      "score": 0.575293,
+      "sentence": "It'S a rude awakening Johnson's team of forensic experts did not believe that his wife's injuries were consistent with the bludgeoning death.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10529,
+            10536
+          ],
+          "text": "Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "defense team",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10539,
+            10543
+          ],
+          "text": "team"
+        }
+      ]
+    },
+    {
+      "score": 0.384447,
+      "sentence": "It'S a rude awakening Johnson's team of forensic experts did not believe that his wife's injuries were consistent with the bludgeoning death.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "experts",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10556,
+            10563
+          ],
+          "text": "experts"
+        },
+        {
+          "entities": [
+            {
+              "text": "defense team",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10539,
+            10543
+          ],
+          "text": "team"
+        }
+      ]
+    },
+    {
+      "score": 0.374933,
+      "sentence": "And they did not think she had fallen for words as was originally reported they believe that Janice had fallen backwards to get Johnson's conviction overturned his lawyers needed to find a way to show how the accident really happened.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10724,
+            10728
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "reported",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10715,
+            10723
+          ],
+          "text": "reported"
+        }
+      ]
+    },
+    {
+      "score": 0.762692,
+      "sentence": "And they did not think she had fallen for words as was originally reported they believe that Janice had fallen backwards to get Johnson's conviction overturned his lawyers needed to find a way to show how the accident really happened.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10777,
+            10784
+          ],
+          "text": "Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "conviction",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10787,
+            10797
+          ],
+          "text": "conviction"
+        }
+      ]
+    },
+    {
+      "score": 0.677662,
+      "sentence": "Clayton was an industrial arts teacher at the local high school Janice was a homemaker the Johnsons were deeply religious family and very active in their church volunteering much of their free time to church activities they are always facing people and doing this and then my mom was the type of person that she didn't like to just sit around and do nothing so we were always busy doing something.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            954,
+            959
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "church",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            960,
+            966
+          ],
+          "text": "church"
+        }
+      ]
+    },
+    {
+      "score": 0.605205,
+      "sentence": "And they did not think she had fallen for words as was originally reported they believe that Janice had fallen backwards to get Johnson's conviction overturned his lawyers needed to find a way to show how the accident really happened.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "lawyers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10813,
+            10820
+          ],
+          "text": "lawyers"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10798,
+            10808
+          ],
+          "text": "overturned"
+        }
+      ]
+    },
+    {
+      "score": 0.601008,
+      "sentence": "And they did not think she had fallen for words as was originally reported they believe that Janice had fallen backwards to get Johnson's conviction overturned his lawyers needed to find a way to show how the accident really happened.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10809,
+            10812
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "lawyers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10813,
+            10820
+          ],
+          "text": "lawyers"
+        }
+      ]
+    },
+    {
+      "score": 0.638264,
+      "sentence": "They turned to blood spatter expert Herbert macdonell but after studying the case file McDonald couldn't figure out a way to recreate an accidental fall down the basement steps.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "McDonald",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10971,
+            10979
+          ],
+          "text": "McDonald"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10961,
+            10965
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.691252,
+      "sentence": "The very night that I was about ready to call James Lockyer and advise him that I just I could not do my recreation and I've done many of these reconstructions or re creations if you like I was very disappointed and I told him I was about to tell them that I I just couldn't do it and that night I read the morning paper I frequently don't read the paper until a day late and on the front page here's Peter Pan at west high school and of course I thought Hey.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11133,
+            11136
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "advise",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11126,
+            11132
+          ],
+          "text": "advise"
+        }
+      ]
+    },
+    {
+      "score": 0.994124,
+      "sentence": "The very night that I was about ready to call James Lockyer and advise him that I just I could not do my recreation and I've done many of these reconstructions or re creations if you like I was very disappointed and I told him I was about to tell them that I I just couldn't do it and that night I read the morning paper I frequently don't read the paper until a day late and on the front page here's Peter Pan at west high school and of course I thought Hey.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11278,
+            11279
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11280,
+            11284
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.848889,
+      "sentence": "The very night that I was about ready to call James Lockyer and advise him that I just I could not do my recreation and I've done many of these reconstructions or re creations if you like I was very disappointed and I told him I was about to tell them that I I just couldn't do it and that night I read the morning paper I frequently don't read the paper until a day late and on the front page here's Peter Pan at west high school and of course I thought Hey.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11285,
+            11288
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11280,
+            11284
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.501483,
+      "sentence": "The very night that I was about ready to call James Lockyer and advise him that I just I could not do my recreation and I've done many of these reconstructions or re creations if you like I was very disappointed and I told him I was about to tell them that I I just couldn't do it and that night I read the morning paper I frequently don't read the paper until a day late and on the front page here's Peter Pan at west high school and of course I thought Hey.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11289,
+            11290
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "tell",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11304,
+            11308
+          ],
+          "text": "tell"
+        }
+      ]
+    },
+    {
+      "score": 0.688677,
+      "sentence": "The very night that I was about ready to call James Lockyer and advise him that I just I could not do my recreation and I've done many of these reconstructions or re creations if you like I was very disappointed and I told him I was about to tell them that I I just couldn't do it and that night I read the morning paper I frequently don't read the paper until a day late and on the front page here's Peter Pan at west high school and of course I thought Hey.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11309,
+            11313
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "tell",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11304,
+            11308
+          ],
+          "text": "tell"
+        }
+      ]
+    },
+    {
+      "score": 0.439354,
+      "sentence": "The very night that I was about ready to call James Lockyer and advise him that I just I could not do my recreation and I've done many of these reconstructions or re creations if you like I was very disappointed and I told him I was about to tell them that I I just couldn't do it and that night I read the morning paper I frequently don't read the paper until a day late and on the front page here's Peter Pan at west high school and of course I thought Hey.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clayton Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11383,
+            11384
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "operator",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11377,
+            11382
+          ],
+          "text": "paper"
+        }
+      ]
+    },
+    {
+      "score": 0.431242,
+      "sentence": "The very night that I was about ready to call James Lockyer and advise him that I just I could not do my recreation and I've done many of these reconstructions or re creations if you like I was very disappointed and I told him I was about to tell them that I I just couldn't do it and that night I read the morning paper I frequently don't read the paper until a day late and on the front page here's Peter Pan at west high school and of course I thought Hey.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Johnsons Shelburne",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11481,
+            11492
+          ],
+          "text": "high school"
+        },
+        {
+          "entities": [
+            {
+              "text": "west",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            11476,
+            11480
+          ],
+          "text": "west"
+        }
+      ]
+    }
+  ]
+}

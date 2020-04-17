@@ -1,0 +1,5887 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 14986,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Lori",
+      "relevance": 0.962694,
+      "confidence": 1,
+      "count": 24
+    },
+    {
+      "type": "Person",
+      "text": "Laurie",
+      "relevance": 0.755143,
+      "confidence": 1,
+      "count": 16
+    },
+    {
+      "type": "Person",
+      "text": "Robert",
+      "relevance": 0.604421,
+      "confidence": 1,
+      "count": 24
+    },
+    {
+      "type": "Quantity",
+      "text": "nineteen year",
+      "relevance": 0.438228,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Laurie Walker",
+      "relevance": 0.410002,
+      "confidence": 1,
+      "count": 3,
+      "disambiguation": {
+        "name": "Laurie_Walker",
+        "dbpedia_resource": "http://dbpedia.org/resource/Laurie_Walker"
+      }
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Susquehanna River",
+      "relevance": 0.290936,
+      "confidence": 0.993157,
+      "count": 2,
+      "disambiguation": {
+        "name": "Susquehanna_River",
+        "dbpedia_resource": "http://dbpedia.org/resource/Susquehanna_River",
+        "subtype": [
+          "Location",
+          "BodyOfWater",
+          "River"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Robert Walker",
+      "relevance": 0.248284,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Matthew",
+      "relevance": 0.24092,
+      "confidence": 0.999999,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Mister Walker",
+      "relevance": 0.191062,
+      "confidence": 0.750475,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Bloomsburg Sears mall",
+      "relevance": 0.187498,
+      "confidence": 0.732635,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Laurie OFC",
+      "relevance": 0.181348,
+      "confidence": 0.521964,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Pennsylvania",
+      "relevance": 0.174162,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "MusicGroup",
+      "text": "Metallica",
+      "relevance": 0.168039,
+      "confidence": 0.80265,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Dennis basin",
+      "relevance": 0.167804,
+      "confidence": 0.853039,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Laurie ocas",
+      "relevance": 0.166038,
+      "confidence": 0.999421,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Lori aka",
+      "relevance": 0.157884,
+      "confidence": 0.787208,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Laurie aka",
+      "relevance": 0.155389,
+      "confidence": 0.922732,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Lori di",
+      "relevance": 0.154025,
+      "confidence": 0.951834,
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Pocono mountains",
+      "relevance": 0.151714,
+      "confidence": 0.891801,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Kate Chong Kim",
+      "relevance": 0.149109,
+      "confidence": 0.83349,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Kim",
+      "relevance": 0.144198,
+      "confidence": 0.982587,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Pennsylvania state police laboratory",
+      "relevance": 0.130076,
+      "confidence": 0.34084,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ten seconds",
+      "relevance": 0.127852,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "eighteen months",
+      "relevance": 0.120762,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kerr",
+      "relevance": 0.117114,
+      "confidence": 0.98578,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Lewisburg",
+      "relevance": 0.111017,
+      "confidence": 0.996891,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Lori akhir",
+      "relevance": 0.108886,
+      "confidence": 0.99958,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "NASA",
+      "relevance": 0.10792,
+      "confidence": 1,
+      "count": 3,
+      "disambiguation": {
+        "name": "NASA",
+        "dbpedia_resource": "http://dbpedia.org/resource/NASA",
+        "subtype": [
+          "Company",
+          "GovernmentAgency",
+          "AirportOperator",
+          "AwardPresentingOrganization",
+          "SoftwareDeveloper",
+          "SpaceAgency",
+          "SpacecraftManufacturer"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Lorenz",
+      "relevance": 0.1074,
+      "confidence": 0.999632,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Laurie wore",
+      "relevance": 0.107027,
+      "confidence": 0.876386,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Weis",
+      "relevance": 0.106408,
+      "confidence": 0.939217,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "nineteen days",
+      "relevance": 0.1004,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ten years",
+      "relevance": 0.091487,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Hanzal",
+      "relevance": 0.087946,
+      "confidence": 0.994855,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three weeks",
+      "relevance": 0.08025,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Robert akhir",
+      "relevance": 0.078587,
+      "confidence": 0.998644,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Matt",
+      "relevance": 0.077758,
+      "confidence": 0.998662,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Robert strong",
+      "relevance": 0.07448,
+      "confidence": 0.604171,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Nasser",
+      "relevance": 0.06929,
+      "confidence": 0.989233,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Hitchcock",
+      "relevance": 0.065477,
+      "confidence": 0.69834,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Robert Dr Louis",
+      "relevance": 0.060871,
+      "confidence": 0.985681,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "FBI",
+      "relevance": 0.054535,
+      "confidence": 0.999539,
+      "count": 1,
+      "disambiguation": {
+        "name": "Federal_Bureau_of_Investigation",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation",
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Alan",
+      "relevance": 0.047778,
+      "confidence": 0.982378,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "AutoZone",
+      "relevance": 0.035579,
+      "confidence": 0.948512,
+      "count": 1,
+      "disambiguation": {
+        "name": "AutoZone",
+        "dbpedia_resource": "http://dbpedia.org/resource/AutoZone"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Robert Oscar",
+      "relevance": 0.034782,
+      "confidence": 0.997809,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Lori Robert",
+      "relevance": 0.032988,
+      "confidence": 0.959989,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Brown",
+      "relevance": 0.032342,
+      "confidence": 0.724847,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Chevrolet",
+      "relevance": 0.020758,
+      "confidence": 0.764224,
+      "count": 1,
+      "disambiguation": {
+        "name": "Chevrolet",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chevrolet",
+        "subtype": [
+          "Organization",
+          "AwardWinner"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Parker",
+      "relevance": 0.015988,
+      "confidence": 0.999845,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "loris",
+      "relevance": 0.008827,
+      "confidence": 0.971435,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.935506
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.754101
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.732279
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.725334
+    },
+    {
+      "label": "/automotive and vehicles/auto parts",
+      "score": 0.690861
+    },
+    {
+      "label": "/society/dating",
+      "score": 0.608932
+    },
+    {
+      "label": "/society/crime/personal offense/kidnapping",
+      "score": 0.606587
+    },
+    {
+      "label": "/society/senior living",
+      "score": 0.562811
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.973831,
+      "sentence": "In nineteen eighty nine near the Pocono mountains in Pennsylvania nineteen year old glory all Kerr left for work.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Pocono mountains",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            33,
+            49
+          ],
+          "text": "Pocono mountains"
+        },
+        {
+          "entities": [
+            {
+              "text": "Pennsylvania nineteen",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            53,
+            74
+          ],
+          "text": "Pennsylvania nineteen"
+        }
+      ]
+    },
+    {
+      "score": 0.992022,
+      "sentence": "The couple argued and friends say they were unable to resolve their differences.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1138,
+            1144
+          ],
+          "text": "couple"
+        },
+        {
+          "entities": [
+            {
+              "text": "questions",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1145,
+            1151
+          ],
+          "text": "argued"
+        }
+      ]
+    },
+    {
+      "score": 0.296044,
+      "sentence": "Robert Dr Louis parents were going to be trading that vehicle in within a matter of days in my opinion that's why he is that vehicle and AutoZone to a doctor Laurie with this evidence in hand police arrested Robert Walker for the murder of his estranged wife my rest Robert Walker he said to me you've got to be kidding.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Dr Louis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11373,
+            11388
+          ],
+          "text": "Robert Dr Louis"
+        },
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11389,
+            11396
+          ],
+          "text": "parents"
+        }
+      ]
+    },
+    {
+      "score": 0.450117,
+      "sentence": "Robert Dr Louis parents were going to be trading that vehicle in within a matter of days in my opinion that's why he is that vehicle and AutoZone to a doctor Laurie with this evidence in hand police arrested Robert Walker for the murder of his estranged wife my rest Robert Walker he said to me you've got to be kidding.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11531,
+            11537
+          ],
+          "text": "Laurie"
+        },
+        {
+          "entities": [
+            {
+              "text": "captured",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            11572,
+            11580
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.761376,
+      "sentence": "Robert Dr Louis parents were going to be trading that vehicle in within a matter of days in my opinion that's why he is that vehicle and AutoZone to a doctor Laurie with this evidence in hand police arrested Robert Walker for the murder of his estranged wife my rest Robert Walker he said to me you've got to be kidding.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11565,
+            11571
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "captured",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            11572,
+            11580
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.96104,
+      "sentence": "Robert Dr Louis parents were going to be trading that vehicle in within a matter of days in my opinion that's why he is that vehicle and AutoZone to a doctor Laurie with this evidence in hand police arrested Robert Walker for the murder of his estranged wife my rest Robert Walker he said to me you've got to be kidding.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11581,
+            11594
+          ],
+          "text": "Robert Walker"
+        },
+        {
+          "entities": [
+            {
+              "text": "captured",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            11572,
+            11580
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.73825,
+      "sentence": "Robert Dr Louis parents were going to be trading that vehicle in within a matter of days in my opinion that's why he is that vehicle and AutoZone to a doctor Laurie with this evidence in hand police arrested Robert Walker for the murder of his estranged wife my rest Robert Walker he said to me you've got to be kidding.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11581,
+            11594
+          ],
+          "text": "Robert Walker"
+        },
+        {
+          "entities": [
+            {
+              "text": "kidnapping",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11603,
+            11609
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.531923,
+      "sentence": "While there Robert ordered a book that described in detail how to commit a murder and get away with it.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13163,
+            13169
+          ],
+          "text": "Robert"
+        },
+        {
+          "entities": [
+            {
+              "text": "kidnapping",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13226,
+            13232
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.410234,
+      "sentence": "Robert Dr Louis parents were going to be trading that vehicle in within a matter of days in my opinion that's why he is that vehicle and AutoZone to a doctor Laurie with this evidence in hand police arrested Robert Walker for the murder of his estranged wife my rest Robert Walker he said to me you've got to be kidding.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "teller machine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11627,
+            11631
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "kidnapping",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11603,
+            11609
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.442935,
+      "sentence": "Robert Dr Louis parents were going to be trading that vehicle in within a matter of days in my opinion that's why he is that vehicle and AutoZone to a doctor Laurie with this evidence in hand police arrested Robert Walker for the murder of his estranged wife my rest Robert Walker he said to me you've got to be kidding.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11613,
+            11616
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "teller machine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11627,
+            11631
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.997514,
+      "sentence": "Robert Dr Louis parents were going to be trading that vehicle in within a matter of days in my opinion that's why he is that vehicle and AutoZone to a doctor Laurie with this evidence in hand police arrested Robert Walker for the murder of his estranged wife my rest Robert Walker he said to me you've got to be kidding.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11654,
+            11656
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11657,
+            11661
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.551676,
+      "sentence": "Robert Dr Louis parents were going to be trading that vehicle in within a matter of days in my opinion that's why he is that vehicle and AutoZone to a doctor Laurie with this evidence in hand police arrested Robert Walker for the murder of his estranged wife my rest Robert Walker he said to me you've got to be kidding.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11665,
+            11667
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11657,
+            11661
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.783666,
+      "sentence": "To me other than the fact that she died was when we were told that he had thrown her party in the dump.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11752,
+            11755
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11770,
+            11772
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.990355,
+      "sentence": "The couple argued and friends say they were unable to resolve their differences.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1156,
+            1163
+          ],
+          "text": "friends"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1164,
+            1167
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.678144,
+      "sentence": "To me other than the fact that she died was when we were told that he had thrown her party in the dump.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11770,
+            11772
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11778,
+            11782
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.684257,
+      "sentence": "To me other than the fact that she died was when we were told that he had thrown her party in the dump.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11802,
+            11805
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "party",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11806,
+            11811
+          ],
+          "text": "party"
+        }
+      ]
+    },
+    {
+      "score": 0.860011,
+      "sentence": "Prosecutors believe the surveillance photographs supported their theory that Robert ducted Laurie in the mall parking lot.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11956,
+            11962
+          ],
+          "text": "Robert"
+        },
+        {
+          "entities": [
+            {
+              "text": "mall parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11984,
+            12000
+          ],
+          "text": "mall parking lot"
+        }
+      ]
+    },
+    {
+      "score": 0.71422,
+      "sentence": "So they reconstructed the crime they place the Chevrolet Robert was driving in the mall parking lot and took photographs from the same position hi and at the same millimeter as the surveillance camera but this time.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12194,
+            12200
+          ],
+          "text": "Robert"
+        },
+        {
+          "entities": [
+            {
+              "text": "mall parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12220,
+            12236
+          ],
+          "text": "mall parking lot"
+        }
+      ]
+    },
+    {
+      "score": 0.833672,
+      "sentence": "Prosecutors believe the surveillance photographs supported their theory that Robert ducted Laurie in the mall parking lot.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11970,
+            11976
+          ],
+          "text": "Laurie"
+        },
+        {
+          "entities": [
+            {
+              "text": "mall parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11984,
+            12000
+          ],
+          "text": "mall parking lot"
+        }
+      ]
+    },
+    {
+      "score": 0.873071,
+      "sentence": "To convince a jury prosecutors needed to prove that the automobile in the pictures was the Chevrolet owned by Robert Walker's parents.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12021,
+            12032
+          ],
+          "text": "prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "jury",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12016,
+            12020
+          ],
+          "text": "jury"
+        }
+      ]
+    },
+    {
+      "score": 0.820413,
+      "sentence": "Parker had taken out an insurance policy on Laurie and on his son listing himself as a beneficiary he had taken that policy out after they separate.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12661,
+            12667
+          ],
+          "text": "Laurie"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12751,
+            12755
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.814232,
+      "sentence": "Parker had taken out an insurance policy on Laurie and on his son listing himself as a beneficiary he had taken that policy out after they separate.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Parker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12675,
+            12678
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Matthew",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12679,
+            12682
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.763416,
+      "sentence": "Parker had taken out an insurance policy on Laurie and on his son listing himself as a beneficiary he had taken that policy out after they separate.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Matthew",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12679,
+            12682
+          ],
+          "text": "son"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12751,
+            12755
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.540976,
+      "sentence": "Parker had taken out an insurance policy on Laurie and on his son listing himself as a beneficiary he had taken that policy out after they separate.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Parker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12716,
+            12718
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12751,
+            12755
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.910955,
+      "sentence": "And Robert and Lori had been engaged in a custody dispute over their son another possible motive.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12770,
+            12776
+          ],
+          "text": "Robert"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12829,
+            12834
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.548549,
+      "sentence": "The couple argued and friends say they were unable to resolve their differences.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1168,
+            1172
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1164,
+            1167
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.924657,
+      "sentence": "And Robert and Lori had been engaged in a custody dispute over their son another possible motive.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lori Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12781,
+            12785
+          ],
+          "text": "Lori"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12829,
+            12834
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.616753,
+      "sentence": "And Robert and Lori had been engaged in a custody dispute over their son another possible motive.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12829,
+            12834
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "Matthew",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12835,
+            12838
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.995493,
+      "sentence": "A background check the proper doctor revealed that he had a troubled past.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12894,
+            12900
+          ],
+          "text": "doctor"
+        },
+        {
+          "entities": [
+            {
+              "text": "revealed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12901,
+            12909
+          ],
+          "text": "revealed"
+        }
+      ]
+    },
+    {
+      "score": 0.592216,
+      "sentence": "Shortly after he married Lori Robert was convicted for driving under the influence of alcohol and served a brief stint in prison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lori Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13046,
+            13057
+          ],
+          "text": "Lori Robert"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13062,
+            13071
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.997803,
+      "sentence": "While there Robert ordered a book that described in detail how to commit a murder and get away with it.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13163,
+            13169
+          ],
+          "text": "Robert"
+        },
+        {
+          "entities": [
+            {
+              "text": "ordered",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13170,
+            13177
+          ],
+          "text": "ordered"
+        }
+      ]
+    },
+    {
+      "score": 0.981709,
+      "sentence": "The title of the book will not be revealed in this program for obvious reasons police officials blocked the delivery of this order.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13341,
+            13350
+          ],
+          "text": "officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13334,
+            13340
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.742596,
+      "sentence": "I need you to come with me right away when Robert drove up and opened the door he may have used some type of excuse to get Lori in sight possibly their son was sick and he needed her help.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lori Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13643,
+            13647
+          ],
+          "text": "Lori"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13666,
+            13671
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.578863,
+      "sentence": "I need you to come with me right away when Robert drove up and opened the door he may have used some type of excuse to get Lori in sight possibly their son was sick and he needed her help.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13666,
+            13671
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "Matthew",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13672,
+            13675
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.872641,
+      "sentence": "Prosecutors admit they don't know where the murder took place the forensic evidence doesn't say all they know is that Lori was in Robert's trunk sometime that day and was stabbed numerous times in the chest and back before her body was left at the dock.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13727,
+            13731
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "kidnapping",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13753,
+            13759
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.797682,
+      "sentence": "Prosecutors admit they don't know where the murder took place the forensic evidence doesn't say all they know is that Lori was in Robert's trunk sometime that day and was stabbed numerous times in the chest and back before her body was left at the dock.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lori Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13827,
+            13831
+          ],
+          "text": "Lori"
+        },
+        {
+          "entities": [
+            {
+              "text": "stabbed",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            13880,
+            13887
+          ],
+          "text": "stabbed"
+        }
+      ]
+    },
+    {
+      "score": 0.430638,
+      "sentence": "Lori and the baby moved in with her parents Robert moved in with his aunt had visitation rights she wasn't happy with him because he was had a very controlling type nature about.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "child",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1290,
+            1294
+          ],
+          "text": "baby"
+        },
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1313,
+            1320
+          ],
+          "text": "parents"
+        }
+      ]
+    },
+    {
+      "score": 0.240106,
+      "sentence": "Prosecutors admit they don't know where the murder took place the forensic evidence doesn't say all they know is that Lori was in Robert's trunk sometime that day and was stabbed numerous times in the chest and back before her body was left at the dock.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lori Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13932,
+            13935
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13936,
+            13940
+          ],
+          "text": "body"
+        }
+      ]
+    },
+    {
+      "score": 0.542051,
+      "sentence": "Prosecutors admit they don't know where the murder took place the forensic evidence doesn't say all they know is that Lori was in Robert's trunk sometime that day and was stabbed numerous times in the chest and back before her body was left at the dock.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13936,
+            13940
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "dock",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13957,
+            13961
+          ],
+          "text": "dock"
+        }
+      ]
+    },
+    {
+      "score": 0.522157,
+      "sentence": "When Robert leader please the problem he couldn't see the almost microscopic evidence Laurie left behind.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "leader",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13975,
+            13981
+          ],
+          "text": "leader"
+        },
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13968,
+            13974
+          ],
+          "text": "Robert"
+        }
+      ]
+    },
+    {
+      "score": 0.85397,
+      "sentence": "Robert order was found guilty of first degree murder and kidnapping and was sentenced to death.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14199,
+            14205
+          ],
+          "text": "Robert"
+        },
+        {
+          "entities": [
+            {
+              "text": "order",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14206,
+            14211
+          ],
+          "text": "order"
+        }
+      ]
+    },
+    {
+      "score": 0.424887,
+      "sentence": "Robert order was found guilty of first degree murder and kidnapping and was sentenced to death.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14199,
+            14205
+          ],
+          "text": "Robert"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentence",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14275,
+            14284
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.677631,
+      "sentence": "NASA'S help was an important forensic breakthrough since it was one of the first times at crime scene photo had undergone digital video enhancement.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "S",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14369,
+            14370
+          ],
+          "text": "S"
+        },
+        {
+          "entities": [
+            {
+              "text": "NASA",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14364,
+            14368
+          ],
+          "text": "NASA"
+        }
+      ]
+    },
+    {
+      "score": 0.529801,
+      "sentence": "Lori and the baby moved in with her parents Robert moved in with his aunt had visitation rights she wasn't happy with him because he was had a very controlling type nature about.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lori Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1309,
+            1312
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1313,
+            1320
+          ],
+          "text": "parents"
+        }
+      ]
+    },
+    {
+      "score": 0.808153,
+      "sentence": "Lori and the baby moved in with her parents Robert moved in with his aunt had visitation rights she wasn't happy with him because he was had a very controlling type nature about.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1321,
+            1327
+          ],
+          "text": "Robert"
+        },
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1313,
+            1320
+          ],
+          "text": "parents"
+        }
+      ]
+    },
+    {
+      "score": 0.613289,
+      "sentence": "This was significant since the cap belonged to Lori's parents Robert didn't have access to this cat and the cat never resided with Robert and Lori when they lived together.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11023,
+            11029
+          ],
+          "text": "Robert"
+        },
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11015,
+            11022
+          ],
+          "text": "parents"
+        }
+      ]
+    },
+    {
+      "score": 0.992536,
+      "sentence": "She had to answer all his questions before she could go anywhere.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1478,
+            1481
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "questions",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1482,
+            1491
+          ],
+          "text": "questions"
+        }
+      ]
+    },
+    {
+      "score": 0.874542,
+      "sentence": "On may twenty fourth nineteen eighty nine while Matthew was at Robert's house Laurie prepared for her usual four to nine shift at the pet store.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Matthew",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1690,
+            1697
+          ],
+          "text": "Matthew"
+        },
+        {
+          "entities": [
+            {
+              "text": "warehouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1714,
+            1719
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.454562,
+      "sentence": "On may twenty fourth nineteen eighty nine while Matthew was at Robert's house Laurie prepared for her usual four to nine shift at the pet store.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1720,
+            1726
+          ],
+          "text": "Laurie"
+        },
+        {
+          "entities": [
+            {
+              "text": "warehouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1714,
+            1719
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.374209,
+      "sentence": "On may twenty fourth nineteen eighty nine while Matthew was at Robert's house Laurie prepared for her usual four to nine shift at the pet store.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1740,
+            1743
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "pet store",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1776,
+            1785
+          ],
+          "text": "pet store"
+        }
+      ]
+    },
+    {
+      "score": 0.434117,
+      "sentence": "Susquehanna valley in central Pennsylvania is a quiet agricultural area.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Susquehanna valley",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            223,
+            241
+          ],
+          "text": "Susquehanna valley"
+        },
+        {
+          "entities": [
+            {
+              "text": "Pennsylvania nineteen",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            253,
+            265
+          ],
+          "text": "Pennsylvania"
+        }
+      ]
+    },
+    {
+      "score": 0.288282,
+      "sentence": "After packing a snack Laurie left for work.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1809,
+            1815
+          ],
+          "text": "Laurie"
+        },
+        {
+          "entities": [
+            {
+              "text": "snack",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1803,
+            1808
+          ],
+          "text": "snack"
+        }
+      ]
+    },
+    {
+      "score": 0.986397,
+      "sentence": "The supervisor called looking for.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1835,
+            1845
+          ],
+          "text": "supervisor"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1846,
+            1852
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.995381,
+      "sentence": "And I asked them if Lori had left for work and and her father said that she had been and I said well has she called or anything because she's she's not here at the story and she is scheduled to start.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1870,
+            1871
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1872,
+            1877
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.923061,
+      "sentence": "And I asked them if Lori had left for work and and her father said that she had been and I said well has she called or anything because she's she's not here at the story and she is scheduled to start.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "them",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1878,
+            1882
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1872,
+            1877
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.698934,
+      "sentence": "And I asked them if Lori had left for work and and her father said that she had been and I said well has she called or anything because she's she's not here at the story and she is scheduled to start.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lori Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1886,
+            1890
+          ],
+          "text": "Lori"
+        },
+        {
+          "entities": [
+            {
+              "text": "them",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1878,
+            1882
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.637856,
+      "sentence": "And I asked them if Lori had left for work and and her father said that she had been and I said well has she called or anything because she's she's not here at the story and she is scheduled to start.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1921,
+            1927
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "them",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1878,
+            1882
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.652788,
+      "sentence": "And I asked them if Lori had left for work and and her father said that she had been and I said well has she called or anything because she's she's not here at the story and she is scheduled to start.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1921,
+            1927
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1917,
+            1920
+          ],
+          "text": "her"
+        }
+      ]
+    },
+    {
+      "score": 0.38459,
+      "sentence": "Laurie'S father drove the route that she usually took to work he thought she might have had car trouble along the way.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2183,
+            2189
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2174,
+            2182
+          ],
+          "text": "Laurie'S"
+        }
+      ]
+    },
+    {
+      "score": 0.857589,
+      "sentence": "And I asked them if Lori had left for work and and her father said that she had been and I said well has she called or anything because she's she's not here at the story and she is scheduled to start.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1921,
+            1927
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1928,
+            1932
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.995315,
+      "sentence": "About a half an hour ago he said no he said that this makes me very worried he said that she left on time.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2092,
+            2094
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2095,
+            2099
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.9822,
+      "sentence": "About a half an hour ago he said no he said that this makes me very worried he said that she left on time.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2103,
+            2105
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2106,
+            2110
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.985984,
+      "sentence": "About a half an hour ago he said no he said that this makes me very worried he said that she left on time.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2143,
+            2145
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2146,
+            2150
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.970302,
+      "sentence": "And I asked them if Lori had left for work and and her father said that she had been and I said well has she called or anything because she's she's not here at the story and she is scheduled to start.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1955,
+            1956
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1957,
+            1961
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.93617,
+      "sentence": "And I asked them if Lori had left for work and and her father said that she had been and I said well has she called or anything because she's she's not here at the story and she is scheduled to start.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1971,
+            1974
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1975,
+            1981
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.474326,
+      "sentence": "Susquehanna valley in central Pennsylvania is a quiet agricultural area.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            290,
+            294
+          ],
+          "text": "area"
+        },
+        {
+          "entities": [
+            {
+              "text": "Pennsylvania nineteen",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            253,
+            265
+          ],
+          "text": "Pennsylvania"
+        }
+      ]
+    },
+    {
+      "score": 0.822153,
+      "sentence": "Laurie'S father drove the route that she usually took to work he thought she might have had car trouble along the way.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2247,
+            2250
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2266,
+            2269
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.560543,
+      "sentence": "You can see that Laurie is bent over looking into the car.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8990,
+            8996
+          ],
+          "text": "Laurie"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9027,
+            9030
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.583273,
+      "sentence": "Eventually found Lori's car in the parking lot near the pet shop where she usually parked.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lori Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2310,
+            2314
+          ],
+          "text": "Lori"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2317,
+            2320
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.469961,
+      "sentence": "The camera was aimed in the direction of Lori's car at first glance the images look on important.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lori Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6563,
+            6567
+          ],
+          "text": "Lori"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            6570,
+            6573
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.597408,
+      "sentence": "But in the background out of focus there appeared to be an automobile near Lori's car with an unidentified person standing nearby.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lori Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6736,
+            6740
+          ],
+          "text": "Lori"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            6743,
+            6746
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.587705,
+      "sentence": "The digitally enhanced surveillance photos of the parking lot where Lori akhir disappeared showed Lori's car in its parking spot standing behind it was the person in the same clothing Laurie wore that day the film was in black and white on that particular scene we knew that Lori had been wearing a windbreaker that day wearing jeans and carrying a white person she was of medium build she at the shore.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lori Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8447,
+            8451
+          ],
+          "text": "Lori"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            8454,
+            8457
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.643585,
+      "sentence": "The final picture shows Lori's car still in its parking spot but Laurie is gone the car Lori was standing next to his leaving the parking lot.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lori Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9056,
+            9060
+          ],
+          "text": "Lori"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9063,
+            9066
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.911296,
+      "sentence": "Eventually found Lori's car in the parking lot near the pet shop where she usually parked.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2317,
+            2320
+          ],
+          "text": "car"
+        },
+        {
+          "entities": [
+            {
+              "text": "mall parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2328,
+            2339
+          ],
+          "text": "parking lot"
+        }
+      ]
+    },
+    {
+      "score": 0.373783,
+      "sentence": "Eventually found Lori's car in the parking lot near the pet shop where she usually parked.",
+      "type": "near",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mall parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2328,
+            2339
+          ],
+          "text": "parking lot"
+        },
+        {
+          "entities": [
+            {
+              "text": "shop",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2353,
+            2357
+          ],
+          "text": "shop"
+        }
+      ]
+    },
+    {
+      "score": 0.511978,
+      "sentence": "Eventually found Lori's car in the parking lot near the pet shop where she usually parked.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "animals",
+              "type": "Animal"
+            }
+          ],
+          "location": [
+            2349,
+            2352
+          ],
+          "text": "pet"
+        },
+        {
+          "entities": [
+            {
+              "text": "shop",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2353,
+            2357
+          ],
+          "text": "shop"
+        }
+      ]
+    },
+    {
+      "score": 0.587323,
+      "sentence": "Purse and keys were not in the car the disappearance frightened people the thought that some young woman could go to a mall a very busy mall in broad daylight and suddenly disappear presumably being abducted.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2483,
+            2489
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2450,
+            2453
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.569132,
+      "sentence": "Police canvassed the area and questioned employees and shoppers in the mall but no one saw anything suspicious.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "employees",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2748,
+            2757
+          ],
+          "text": "employees"
+        },
+        {
+          "entities": [
+            {
+              "text": "questioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2737,
+            2747
+          ],
+          "text": "questioned"
+        }
+      ]
+    },
+    {
+      "score": 0.742166,
+      "sentence": "Police canvassed the area and questioned employees and shoppers in the mall but no one saw anything suspicious.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shoppers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2762,
+            2770
+          ],
+          "text": "shoppers"
+        },
+        {
+          "entities": [
+            {
+              "text": "questioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2737,
+            2747
+          ],
+          "text": "questioned"
+        }
+      ]
+    },
+    {
+      "score": 0.78454,
+      "sentence": "Police canvassed the area and questioned employees and shoppers in the mall but no one saw anything suspicious.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shoppers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2762,
+            2770
+          ],
+          "text": "shoppers"
+        },
+        {
+          "entities": [
+            {
+              "text": "mall",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2778,
+            2782
+          ],
+          "text": "mall"
+        }
+      ]
+    },
+    {
+      "score": 0.976592,
+      "sentence": "But Robert said he hadn't seen Laurie at all that day and he had an alibi he said he was babysitting their son went shopping and then went to scheduled appointments Mister Walker told me that on the day of Lorenz disappearance that he had been over to Weis markets to get a disability claim form.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2944,
+            2950
+          ],
+          "text": "Robert"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2951,
+            2955
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.540127,
+      "sentence": "But Robert said he hadn't seen Laurie at all that day and he had an alibi he said he was babysitting their son went shopping and then went to scheduled appointments Mister Walker told me that on the day of Lorenz disappearance that he had been over to Weis markets to get a disability claim form.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2998,
+            3000
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3017,
+            3021
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.96657,
+      "sentence": "But Robert said he hadn't seen Laurie at all that day and he had an alibi he said he was babysitting their son went shopping and then went to scheduled appointments Mister Walker told me that on the day of Lorenz disappearance that he had been over to Weis markets to get a disability claim form.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3014,
+            3016
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3017,
+            3021
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.652953,
+      "sentence": "Just out of high school Laurie married Robert Walker he was almost ten years older and worked in a warehouse.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            613,
+            615
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "warehouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            659,
+            668
+          ],
+          "text": "warehouse"
+        }
+      ]
+    },
+    {
+      "score": 0.377037,
+      "sentence": "On may twenty fourth nineteen eighty nine while Matthew was at Robert's house Laurie prepared for her usual four to nine shift at the pet store.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1705,
+            1711
+          ],
+          "text": "Robert"
+        },
+        {
+          "entities": [
+            {
+              "text": "warehouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1714,
+            1719
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.540034,
+      "sentence": "But Robert said he hadn't seen Laurie at all that day and he had an alibi he said he was babysitting their son went shopping and then went to scheduled appointments Mister Walker told me that on the day of Lorenz disappearance that he had been over to Weis markets to get a disability claim form.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3022,
+            3024
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3041,
+            3046
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.595926,
+      "sentence": "But Robert said he hadn't seen Laurie at all that day and he had an alibi he said he was babysitting their son went shopping and then went to scheduled appointments Mister Walker told me that on the day of Lorenz disappearance that he had been over to Weis markets to get a disability claim form.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3041,
+            3046
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "Matthew",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3047,
+            3050
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.926346,
+      "sentence": "But Robert said he hadn't seen Laurie at all that day and he had an alibi he said he was babysitting their son went shopping and then went to scheduled appointments Mister Walker told me that on the day of Lorenz disappearance that he had been over to Weis markets to get a disability claim form.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mister Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3105,
+            3118
+          ],
+          "text": "Mister Walker"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3119,
+            3123
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.935349,
+      "sentence": "But Robert said he hadn't seen Laurie at all that day and he had an alibi he said he was babysitting their son went shopping and then went to scheduled appointments Mister Walker told me that on the day of Lorenz disappearance that he had been over to Weis markets to get a disability claim form.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3124,
+            3126
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3119,
+            3123
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.358607,
+      "sentence": "And he took that form to an office in Lewisburg an orthopedic surgeon.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3241,
+            3243
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lewisburg",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3275,
+            3284
+          ],
+          "text": "Lewisburg"
+        }
+      ]
+    },
+    {
+      "score": 0.373942,
+      "sentence": "And he took that form to an office in Lewisburg an orthopedic surgeon.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "orthopedic surgeon",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3288,
+            3306
+          ],
+          "text": "orthopedic surgeon"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lewisburg",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3275,
+            3284
+          ],
+          "text": "Lewisburg"
+        }
+      ]
+    },
+    {
+      "score": 0.881044,
+      "sentence": "And from there he went to the Bloomsburg Sears mall in price the dishwasher for his mother police are now asking for the public's help for the next three weeks police family members friends and volunteers continue to search with no success.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3323,
+            3325
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "mall",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3355,
+            3359
+          ],
+          "text": "mall"
+        }
+      ]
+    },
+    {
+      "score": 0.468871,
+      "sentence": "And from there he went to the Bloomsburg Sears mall in price the dishwasher for his mother police are now asking for the public's help for the next three weeks police family members friends and volunteers continue to search with no success.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bloomsburg Sears",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3338,
+            3354
+          ],
+          "text": "Bloomsburg Sears"
+        },
+        {
+          "entities": [
+            {
+              "text": "mall",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3355,
+            3359
+          ],
+          "text": "mall"
+        }
+      ]
+    },
+    {
+      "score": 0.676892,
+      "sentence": "And from there he went to the Bloomsburg Sears mall in price the dishwasher for his mother police are now asking for the public's help for the next three weeks police family members friends and volunteers continue to search with no success.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lori Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3392,
+            3398
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3388,
+            3391
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.52776,
+      "sentence": "And from there he went to the Bloomsburg Sears mall in price the dishwasher for his mother police are now asking for the public's help for the next three weeks police family members friends and volunteers continue to search with no success.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lori Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3392,
+            3398
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3399,
+            3405
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.905711,
+      "sentence": "Laurie took a job at a local store to earn extra money she shared her love of animals with their son Matthew at every opportunity when she wasn't working she commented on show him he particularly like kittens and should bring in showing the kittens and he liked watching the fish playing with the puppies she was a good mother.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            720,
+            726
+          ],
+          "text": "Laurie"
+        },
+        {
+          "entities": [
+            {
+              "text": "store",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            749,
+            754
+          ],
+          "text": "store"
+        }
+      ]
+    },
+    {
+      "score": 0.48972,
+      "sentence": "And from there he went to the Bloomsburg Sears mall in price the dishwasher for his mother police are now asking for the public's help for the next three weeks police family members friends and volunteers continue to search with no success.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3399,
+            3405
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "asking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3414,
+            3420
+          ],
+          "text": "asking"
+        }
+      ]
+    },
+    {
+      "score": 0.484393,
+      "sentence": "And from there he went to the Bloomsburg Sears mall in price the dishwasher for his mother police are now asking for the public's help for the next three weeks police family members friends and volunteers continue to search with no success.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "public",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3429,
+            3435
+          ],
+          "text": "public"
+        },
+        {
+          "entities": [
+            {
+              "text": "asking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3414,
+            3420
+          ],
+          "text": "asking"
+        }
+      ]
+    },
+    {
+      "score": 0.545467,
+      "sentence": "And from there he went to the Bloomsburg Sears mall in price the dishwasher for his mother police are now asking for the public's help for the next three weeks police family members friends and volunteers continue to search with no success.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3475,
+            3481
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3468,
+            3474
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.664007,
+      "sentence": "And from there he went to the Bloomsburg Sears mall in price the dishwasher for his mother police are now asking for the public's help for the next three weeks police family members friends and volunteers continue to search with no success.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "members",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3482,
+            3489
+          ],
+          "text": "members"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3475,
+            3481
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.543885,
+      "sentence": "On June twelfth a woman jogging a few miles from the mall spotted something in an area known as slow days down.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "teller machine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3567,
+            3572
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "mall",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3602,
+            3606
+          ],
+          "text": "mall"
+        }
+      ]
+    },
+    {
+      "score": 0.786816,
+      "sentence": "In an incredible stroke of luck police learned that an automated teller machine near the entrance to the mall was equipped with the surveillance camera which took pictures every ten seconds.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "teller machine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6396,
+            6410
+          ],
+          "text": "teller machine"
+        },
+        {
+          "entities": [
+            {
+              "text": "mall",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6436,
+            6440
+          ],
+          "text": "mall"
+        }
+      ]
+    },
+    {
+      "score": 0.623674,
+      "sentence": "Doctor Metallica's concluded that this woman had been stabbed in the chest and back at least seven times possibly as many as eleven.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "teller machine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4418,
+            4423
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "stabbed",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            4433,
+            4440
+          ],
+          "text": "stabbed"
+        }
+      ]
+    },
+    {
+      "score": 0.426576,
+      "sentence": "Doctor Metallica's concluded that this woman had been stabbed in the chest and back at least seven times possibly as many as eleven.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "eleven",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4504,
+            4510
+          ],
+          "text": "eleven"
+        },
+        {
+          "entities": [
+            {
+              "text": "stabbed",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            4433,
+            4440
+          ],
+          "text": "stabbed"
+        }
+      ]
+    },
+    {
+      "score": 0.985336,
+      "sentence": "For that doctor Metallica's asked forensic odontology just doctor Dennis basin to make the dental comparison without the benefit of forensic dentistry when you have a victim such as Laurie ocas in Lori out because there are are no fingerprints that you can use the body is unrecognizable because of the disintegration of dishes very often the only thing it does remain is the dental evidence that we can compare to before death records and and establish a positive identification after comparing the teeth of the victim to Lori's dental records and X.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Metallica",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4591,
+            4600
+          ],
+          "text": "Metallica"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4603,
+            4608
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.530543,
+      "sentence": "No murder weapon was found at the scene investigators now wanted to know when Lori di.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5503,
+            5516
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5497,
+            5502
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.516075,
+      "sentence": "No murder weapon was found at the scene investigators now wanted to know when Lori di.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lori Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5541,
+            5548
+          ],
+          "text": "Lori di"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5503,
+            5516
+          ],
+          "text": "investigators"
+        }
+      ]
+    },
+    {
+      "score": 0.774804,
+      "sentence": "Laurie took a job at a local store to earn extra money she shared her love of animals with their son Matthew at every opportunity when she wasn't working she commented on show him he particularly like kittens and should bring in showing the kittens and he liked watching the fish playing with the puppies she was a good mother.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Matthew",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            817,
+            820
+          ],
+          "text": "son"
+        },
+        {
+          "entities": [
+            {
+              "text": "kittens",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            811,
+            816
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.997299,
+      "sentence": "Dr Kim calculated that the larvae deposited by the flies have been on the body for nineteen days which meant they were on the body the day Lori disappear.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kate Chong Kim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6179,
+            6182
+          ],
+          "text": "Kim"
+        },
+        {
+          "entities": [
+            {
+              "text": "calculated",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6183,
+            6193
+          ],
+          "text": "calculated"
+        }
+      ]
+    },
+    {
+      "score": 0.684794,
+      "sentence": "Dr Kim calculated that the larvae deposited by the flies have been on the body for nineteen days which meant they were on the body the day Lori disappear.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kate Chong Kim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6179,
+            6182
+          ],
+          "text": "Kim"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6285,
+            6289
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.59891,
+      "sentence": "Dr Kim calculated that the larvae deposited by the flies have been on the body for nineteen days which meant they were on the body the day Lori disappear.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6250,
+            6254
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6285,
+            6289
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.50691,
+      "sentence": "The bridge to the parking lot was a scene that was captured on this video the scene was a little blurry I would like it to like a an offer Hitchcock kind of movies.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mall parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6810,
+            6821
+          ],
+          "text": "parking lot"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            6828,
+            6833
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.984603,
+      "sentence": "The images look promising but we're not clear enough for any kind of analysis so prosecutors asked both the Pennsylvania state police laboratory and the FBI for help but neither one could improve the photographs.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7038,
+            7049
+          ],
+          "text": "prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7050,
+            7055
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.987281,
+      "sentence": "The images look promising but we're not clear enough for any kind of analysis so prosecutors asked both the Pennsylvania state police laboratory and the FBI for help but neither one could improve the photographs.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7084,
+            7090
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "Pennsylvania state",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7065,
+            7083
+          ],
+          "text": "Pennsylvania state"
+        }
+      ]
+    },
+    {
+      "score": 0.977032,
+      "sentence": "Hanzal within the used car industry a few times and was ultimately purchased first consumer the purchase that was a retired state police officer.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9852,
+            9858
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "Pennsylvania state",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9846,
+            9851
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.468268,
+      "sentence": "The images look promising but we're not clear enough for any kind of analysis so prosecutors asked both the Pennsylvania state police laboratory and the FBI for help but neither one could improve the photographs.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7084,
+            7090
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "laboratory",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7091,
+            7101
+          ],
+          "text": "laboratory"
+        }
+      ]
+    },
+    {
+      "score": 0.963384,
+      "sentence": "With nowhere else to turn the F. B. I. suggested they asked NASA for help.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7219,
+            7223
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7224,
+            7229
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.747334,
+      "sentence": "With nowhere else to turn the F. B. I. suggested they asked NASA for help.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "NASA",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7230,
+            7234
+          ],
+          "text": "NASA"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7224,
+            7229
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.994481,
+      "sentence": "Nasser referred the case to research scientist Alan teaching of the ballistic missile defense organization.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Nasser",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7346,
+            7352
+          ],
+          "text": "Nasser"
+        },
+        {
+          "entities": [
+            {
+              "text": "referred",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7353,
+            7361
+          ],
+          "text": "referred"
+        }
+      ]
+    },
+    {
+      "score": 0.996561,
+      "sentence": "Laurie took a job at a local store to earn extra money she shared her love of animals with their son Matthew at every opportunity when she wasn't working she commented on show him he particularly like kittens and should bring in showing the kittens and he liked watching the fish playing with the puppies she was a good mother.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "She",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            874,
+            877
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "commented",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            878,
+            887
+          ],
+          "text": "commented"
+        }
+      ]
+    },
+    {
+      "score": 0.117021,
+      "sentence": "Nasser referred the case to research scientist Alan teaching of the ballistic missile defense organization.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "defense organization",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7432,
+            7452
+          ],
+          "text": "defense organization"
+        },
+        {
+          "entities": [
+            {
+              "text": "ballistic missile",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            7414,
+            7431
+          ],
+          "text": "ballistic missile"
+        }
+      ]
+    },
+    {
+      "score": 0.435491,
+      "sentence": "Going to the gym used a technique similar to the one used to determine the cause of the challenger explosion in nineteen eighty six.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "teller machine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7542,
+            7552
+          ],
+          "text": "challenger"
+        },
+        {
+          "entities": [
+            {
+              "text": "explosion",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            7553,
+            7562
+          ],
+          "text": "explosion"
+        }
+      ]
+    },
+    {
+      "score": 0.503117,
+      "sentence": "Prosecutors hoped that these enhanced photographs would tell the story of Laurie Walker's disappear.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8248,
+            8259
+          ],
+          "text": "Prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "tell",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8304,
+            8308
+          ],
+          "text": "tell"
+        }
+      ]
+    },
+    {
+      "score": 0.214443,
+      "sentence": "The digitally enhanced surveillance photos of the parking lot where Lori akhir disappeared showed Lori's car in its parking spot standing behind it was the person in the same clothing Laurie wore that day the film was in black and white on that particular scene we knew that Lori had been wearing a windbreaker that day wearing jeans and carrying a white person she was of medium build she at the shore.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lori Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8417,
+            8427
+          ],
+          "text": "Lori akhir"
+        },
+        {
+          "entities": [
+            {
+              "text": "mall parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8411,
+            8416
+          ],
+          "text": "where"
+        }
+      ]
+    },
+    {
+      "score": 0.736502,
+      "sentence": "Prosecutors believe that on may twenty fourth nineteen eighty nine as Lori drove into the mall parking lot Robert was there waiting.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lori Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13457,
+            13461
+          ],
+          "text": "Lori"
+        },
+        {
+          "entities": [
+            {
+              "text": "mall parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13477,
+            13493
+          ],
+          "text": "mall parking lot"
+        }
+      ]
+    },
+    {
+      "score": 0.758278,
+      "sentence": "The digitally enhanced surveillance photos of the parking lot where Lori akhir disappeared showed Lori's car in its parking spot standing behind it was the person in the same clothing Laurie wore that day the film was in black and white on that particular scene we knew that Lori had been wearing a windbreaker that day wearing jeans and carrying a white person she was of medium build she at the shore.",
+      "type": "authorOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8533,
+            8539
+          ],
+          "text": "Laurie"
+        },
+        {
+          "entities": [
+            {
+              "text": "film",
+              "type": "TitleWork"
+            }
+          ],
+          "location": [
+            8558,
+            8562
+          ],
+          "text": "film"
+        }
+      ]
+    },
+    {
+      "score": 0.718491,
+      "sentence": "The digitally enhanced surveillance photos of the parking lot where Lori akhir disappeared showed Lori's car in its parking spot standing behind it was the person in the same clothing Laurie wore that day the film was in black and white on that particular scene we knew that Lori had been wearing a windbreaker that day wearing jeans and carrying a white person she was of medium build she at the shore.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8533,
+            8539
+          ],
+          "text": "Laurie"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8611,
+            8613
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.86288,
+      "sentence": "Brown hair that person that we see in the picture there fits that description precisely.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8753,
+            8758
+          ],
+          "text": "Brown"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8781,
+            8783
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.264279,
+      "sentence": "The final picture shows Lori's car still in its parking spot but Laurie is gone the car Lori was standing next to his leaving the parking lot.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lori Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9120,
+            9124
+          ],
+          "text": "Lori"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9116,
+            9119
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.572275,
+      "sentence": "Robert'S parents didn't own attacked and Lori had never been in Robert's parents car before her disappearance investigators believed that this cashier was proof that Laurie had been in the trunk of Robert's car.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lori Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11202,
+            11206
+          ],
+          "text": "Lori"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11242,
+            11245
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.636842,
+      "sentence": "The final picture shows Lori's car still in its parking spot but Laurie is gone the car Lori was standing next to his leaving the parking lot.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9146,
+            9149
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "leaving",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            9150,
+            9157
+          ],
+          "text": "leaving"
+        }
+      ]
+    },
+    {
+      "score": 0.450039,
+      "sentence": "The final picture shows Lori's car still in its parking spot but Laurie is gone the car Lori was standing next to his leaving the parking lot.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9146,
+            9149
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "mall parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9162,
+            9173
+          ],
+          "text": "parking lot"
+        }
+      ]
+    },
+    {
+      "score": 0.9375,
+      "sentence": "Although Lori and Robert loved their child problems between the two began to surface.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lori Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1057,
+            1061
+          ],
+          "text": "Lori"
+        },
+        {
+          "entities": [
+            {
+              "text": "kittens",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1079,
+            1084
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.588144,
+      "sentence": "The person was described as Laurie Walker cannot be seen and we know circumstantially that she never made it into the door so that we believe was a depiction of her abduction.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9306,
+            9308
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "kidnapping",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9340,
+            9349
+          ],
+          "text": "abduction"
+        }
+      ]
+    },
+    {
+      "score": 0.846423,
+      "sentence": "The person was described as Laurie Walker cannot be seen and we know circumstantially that she never made it into the door so that we believe was a depiction of her abduction.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9336,
+            9339
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "kidnapping",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9340,
+            9349
+          ],
+          "text": "abduction"
+        }
+      ]
+    },
+    {
+      "score": 0.910707,
+      "sentence": "Robert Dr Louis parents were going to be trading that vehicle in within a matter of days in my opinion that's why he is that vehicle and AutoZone to a doctor Laurie with this evidence in hand police arrested Robert Walker for the murder of his estranged wife my rest Robert Walker he said to me you've got to be kidding.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laurie Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11531,
+            11537
+          ],
+          "text": "Laurie"
+        },
+        {
+          "entities": [
+            {
+              "text": "kidnapping",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11603,
+            11609
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.469011,
+      "sentence": "An automobile expert identified the get away car as a Chevrolet celebrity.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kate Chong Kim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9365,
+            9371
+          ],
+          "text": "expert"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9396,
+            9399
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.222449,
+      "sentence": "An automobile expert identified the get away car as a Chevrolet celebrity.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9415,
+            9424
+          ],
+          "text": "celebrity"
+        },
+        {
+          "entities": [
+            {
+              "text": "Chevrolet",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9405,
+            9414
+          ],
+          "text": "Chevrolet"
+        }
+      ]
+    },
+    {
+      "score": 0.184718,
+      "sentence": "All the lorries estranged husband Robert didn't own a Chevrolet celebrity his parents did Robert's parents told police that Robert had borrowed their car on the day Lori disappeared they said they sold the car a week after Robert return police tracked it through three different car dealerships.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9490,
+            9499
+          ],
+          "text": "celebrity"
+        },
+        {
+          "entities": [
+            {
+              "text": "Chevrolet",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9480,
+            9489
+          ],
+          "text": "Chevrolet"
+        }
+      ]
+    },
+    {
+      "score": 0.474315,
+      "sentence": "All the lorries estranged husband Robert didn't own a Chevrolet celebrity his parents did Robert's parents told police that Robert had borrowed their car on the day Lori disappeared they said they sold the car a week after Robert return police tracked it through three different car dealerships.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9490,
+            9499
+          ],
+          "text": "celebrity"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9533,
+            9537
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.476946,
+      "sentence": "All the lorries estranged husband Robert didn't own a Chevrolet celebrity his parents did Robert's parents told police that Robert had borrowed their car on the day Lori disappeared they said they sold the car a week after Robert return police tracked it through three different car dealerships.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9500,
+            9503
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9504,
+            9511
+          ],
+          "text": "parents"
+        }
+      ]
+    },
+    {
+      "score": 0.373689,
+      "sentence": "Robert'S parents didn't own attacked and Lori had never been in Robert's parents car before her disappearance investigators believed that this cashier was proof that Laurie had been in the trunk of Robert's car.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11161,
+            11169
+          ],
+          "text": "Robert'S"
+        },
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11170,
+            11177
+          ],
+          "text": "parents"
+        }
+      ]
+    },
+    {
+      "score": 0.53911,
+      "sentence": "Robert'S parents didn't own attacked and Lori had never been in Robert's parents car before her disappearance investigators believed that this cashier was proof that Laurie had been in the trunk of Robert's car.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11225,
+            11231
+          ],
+          "text": "Robert"
+        },
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11234,
+            11241
+          ],
+          "text": "parents"
+        }
+      ]
+    },
+    {
+      "score": 0.599228,
+      "sentence": "All the lorries estranged husband Robert didn't own a Chevrolet celebrity his parents did Robert's parents told police that Robert had borrowed their car on the day Lori disappeared they said they sold the car a week after Robert return police tracked it through three different car dealerships.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9525,
+            9532
+          ],
+          "text": "parents"
+        },
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9516,
+            9522
+          ],
+          "text": "Robert"
+        }
+      ]
+    },
+    {
+      "score": 0.305489,
+      "sentence": "To convince a jury prosecutors needed to prove that the automobile in the pictures was the Chevrolet owned by Robert Walker's parents.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12128,
+            12135
+          ],
+          "text": "parents"
+        },
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12112,
+            12125
+          ],
+          "text": "Robert Walker"
+        }
+      ]
+    },
+    {
+      "score": 0.767941,
+      "sentence": "All the lorries estranged husband Robert didn't own a Chevrolet celebrity his parents did Robert's parents told police that Robert had borrowed their car on the day Lori disappeared they said they sold the car a week after Robert return police tracked it through three different car dealerships.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9525,
+            9532
+          ],
+          "text": "parents"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9533,
+            9537
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.977817,
+      "sentence": "All the lorries estranged husband Robert didn't own a Chevrolet celebrity his parents did Robert's parents told police that Robert had borrowed their car on the day Lori disappeared they said they sold the car a week after Robert return police tracked it through three different car dealerships.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9538,
+            9544
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9533,
+            9537
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.77536,
+      "sentence": "All the lorries estranged husband Robert didn't own a Chevrolet celebrity his parents did Robert's parents told police that Robert had borrowed their car on the day Lori disappeared they said they sold the car a week after Robert return police tracked it through three different car dealerships.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9550,
+            9556
+          ],
+          "text": "Robert"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9576,
+            9579
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.802176,
+      "sentence": "Robert Dr Louis parents were going to be trading that vehicle in within a matter of days in my opinion that's why he is that vehicle and AutoZone to a doctor Laurie with this evidence in hand police arrested Robert Walker for the murder of his estranged wife my rest Robert Walker he said to me you've got to be kidding.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11487,
+            11489
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11498,
+            11505
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.958542,
+      "sentence": "Although Lori and Robert loved their child problems between the two began to surface.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1066,
+            1072
+          ],
+          "text": "Robert"
+        },
+        {
+          "entities": [
+            {
+              "text": "kittens",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1079,
+            1084
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.802417,
+      "sentence": "All the lorries estranged husband Robert didn't own a Chevrolet celebrity his parents did Robert's parents told police that Robert had borrowed their car on the day Lori disappeared they said they sold the car a week after Robert return police tracked it through three different car dealerships.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9570,
+            9575
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9576,
+            9579
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.624661,
+      "sentence": "Robert'S parents didn't own attacked and Lori had never been in Robert's parents car before her disappearance investigators believed that this cashier was proof that Laurie had been in the trunk of Robert's car.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11234,
+            11241
+          ],
+          "text": "parents"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11242,
+            11245
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.986269,
+      "sentence": "All the lorries estranged husband Robert didn't own a Chevrolet celebrity his parents did Robert's parents told police that Robert had borrowed their car on the day Lori disappeared they said they sold the car a week after Robert return police tracked it through three different car dealerships.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9608,
+            9612
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9613,
+            9617
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.824097,
+      "sentence": "Hanzal within the used car industry a few times and was ultimately purchased first consumer the purchase that was a retired state police officer.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "stepdaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9859,
+            9866
+          ],
+          "text": "officer"
+        },
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9852,
+            9858
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.871761,
+      "sentence": "The police officer bought the vehicle for a stepdaughter who have not yet reached driving age so it'd been sitting in a garage a lucky break for investigators.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "stepdaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9879,
+            9886
+          ],
+          "text": "officer"
+        },
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9872,
+            9878
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.684606,
+      "sentence": "The police officer bought the vehicle for a stepdaughter who have not yet reached driving age so it'd been sitting in a garage a lucky break for investigators.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "stepdaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9879,
+            9886
+          ],
+          "text": "officer"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9898,
+            9905
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.404847,
+      "sentence": "The police officer bought the vehicle for a stepdaughter who have not yet reached driving age so it'd been sitting in a garage a lucky break for investigators.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "stepdaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9912,
+            9924
+          ],
+          "text": "stepdaughter"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9898,
+            9905
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.594096,
+      "sentence": "The police officer bought the vehicle for a stepdaughter who have not yet reached driving age so it'd been sitting in a garage a lucky break for investigators.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "stepdaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9925,
+            9928
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "garage",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9988,
+            9994
+          ],
+          "text": "garage"
+        }
+      ]
+    },
+    {
+      "score": 0.597237,
+      "sentence": "It still maintains its integrity by the time we got to it we were able to access the vehicle tested scientifically for prince for trace evidence.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10086,
+            10088
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10113,
+            10120
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.569914,
+      "sentence": "It still maintains its integrity by the time we got to it we were able to access the vehicle tested scientifically for prince for trace evidence.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prince",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10147,
+            10153
+          ],
+          "text": "prince"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10113,
+            10120
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.710728,
+      "sentence": "But in the trunk of the car they found.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10399,
+            10403
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10395,
+            10398
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.376859,
+      "sentence": "Investigators compared that hair to a cat hair from Lori's parents capped and found they were microscopically similar.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10901,
+            10908
+          ],
+          "text": "parents"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lori Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10894,
+            10898
+          ],
+          "text": "Lori"
+        }
+      ]
+    },
+    {
+      "score": 0.743123,
+      "sentence": "This was significant since the cap belonged to Lori's parents Robert didn't have access to this cat and the cat never resided with Robert and Lori when they lived together.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11015,
+            11022
+          ],
+          "text": "parents"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lori Robert",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11008,
+            11012
+          ],
+          "text": "Lori"
+        }
+      ]
+    },
+    {
+      "score": 0.448347,
+      "sentence": "Robert'S parents didn't own attacked and Lori had never been in Robert's parents car before her disappearance investigators believed that this cashier was proof that Laurie had been in the trunk of Robert's car.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11225,
+            11231
+          ],
+          "text": "Robert"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11242,
+            11245
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.62402,
+      "sentence": "Robert'S parents didn't own attacked and Lori had never been in Robert's parents car before her disappearance investigators believed that this cashier was proof that Laurie had been in the trunk of Robert's car.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Walker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11359,
+            11365
+          ],
+          "text": "Robert"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11368,
+            11371
+          ],
+          "text": "car"
+        }
+      ]
+    }
+  ]
+}

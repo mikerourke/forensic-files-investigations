@@ -1,0 +1,4314 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 11335,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Peggy",
+      "relevance": 0.952545,
+      "confidence": 1,
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Peggy Carr",
+      "relevance": 0.59854,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Peggy Carly",
+      "relevance": 0.469088,
+      "confidence": 0.997454,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "forty one year",
+      "relevance": 0.457661,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Diana car",
+      "relevance": 0.452004,
+      "confidence": 0.995082,
+      "count": 3
+    },
+    {
+      "type": "HealthCondition",
+      "text": "coma",
+      "relevance": 0.41485,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Peggy became L.",
+      "relevance": 0.410005,
+      "confidence": 0.48836,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Robert van hook",
+      "relevance": 0.376029,
+      "confidence": 0.887113,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Peggy stepson Travis",
+      "relevance": 0.352863,
+      "confidence": 0.650926,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "FBI",
+      "relevance": 0.344871,
+      "confidence": 1,
+      "count": 5,
+      "disambiguation": {
+        "name": "Federal_Bureau_of_Investigation",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation",
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ]
+      }
+    },
+    {
+      "type": "HealthCondition",
+      "text": "thallium poisoning",
+      "relevance": 0.336464,
+      "confidence": 0.682063,
+      "count": 1,
+      "disambiguation": {
+        "name": "Thallium_poisoning",
+        "dbpedia_resource": "http://dbpedia.org/resource/Thallium_poisoning"
+      }
+    },
+    {
+      "type": "Facility",
+      "text": "R. ange Grove",
+      "relevance": 0.329279,
+      "confidence": 0.089846,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "F. B. I.",
+      "relevance": 0.203273,
+      "confidence": 0.58039,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "delirium",
+      "relevance": 0.20208,
+      "confidence": 0.950606,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "pi",
+      "relevance": 0.198181,
+      "confidence": 0.537245,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "six months",
+      "relevance": 0.189341,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "paralysis",
+      "relevance": 0.182895,
+      "confidence": 0.997719,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Duane",
+      "relevance": 0.182389,
+      "confidence": 0.901006,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Liam",
+      "relevance": 0.182095,
+      "confidence": 0.975781,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "I. cues",
+      "relevance": 0.157087,
+      "confidence": 0.497432,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Susan gore",
+      "relevance": 0.155808,
+      "confidence": 0.999958,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "hill",
+      "relevance": 0.150013,
+      "confidence": 0.764718,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "relevance": 0.14734,
+      "confidence": 0.999648,
+      "count": 2,
+      "disambiguation": {
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "tree Paul",
+      "relevance": 0.136138,
+      "confidence": 0.551809,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "George",
+      "relevance": 0.123607,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Casey",
+      "relevance": 0.122061,
+      "confidence": 0.948577,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two weeks",
+      "relevance": 0.121549,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Susan gory",
+      "relevance": 0.118335,
+      "confidence": 0.983042,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "George Street Palin",
+      "relevance": 0.113865,
+      "confidence": 0.479801,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Diana",
+      "relevance": 0.112633,
+      "confidence": 0.999999,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "pine",
+      "relevance": 0.111333,
+      "confidence": 0.844176,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kerr",
+      "relevance": 0.109379,
+      "confidence": 0.99668,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Tammy",
+      "relevance": 0.103728,
+      "confidence": 0.997719,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Florida",
+      "relevance": 0.100554,
+      "confidence": 0.964011,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "George Street",
+      "relevance": 0.096629,
+      "confidence": 0.588012,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "George DePaul",
+      "relevance": 0.0933,
+      "confidence": 0.95811,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "George tree Powell",
+      "relevance": 0.090688,
+      "confidence": 0.791588,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "George Street Powell",
+      "relevance": 0.08884,
+      "confidence": 0.490098,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two percent",
+      "relevance": 0.086496,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Atticus",
+      "relevance": 0.083389,
+      "confidence": 0.603094,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "IBM",
+      "relevance": 0.081653,
+      "confidence": 0.996711,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Susan glory",
+      "relevance": 0.080877,
+      "confidence": 0.939101,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Wisconsin",
+      "relevance": 0.05743,
+      "confidence": 0.990607,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Four months",
+      "relevance": 0.056076,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Goring",
+      "relevance": 0.055379,
+      "confidence": 0.311683,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Peggy Kerr",
+      "relevance": 0.055047,
+      "confidence": 0.997688,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "North Carolina",
+      "relevance": 0.050977,
+      "confidence": 0.99061,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Powell",
+      "relevance": 0.044258,
+      "confidence": 0.988044,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "gore",
+      "relevance": 0.026877,
+      "confidence": 0.963978,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.904209
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.807997
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.674601
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.634949
+    },
+    {
+      "label": "/society/dating",
+      "score": 0.628245
+    },
+    {
+      "label": "/family and parenting/babies and toddlers/baby clothes",
+      "score": 0.606275
+    },
+    {
+      "label": "/family and parenting/parenting teens",
+      "score": 0.599481
+    },
+    {
+      "label": "/society/senior living",
+      "score": 0.590526
+    },
+    {
+      "label": "/health and fitness",
+      "score": 0.561129
+    },
+    {
+      "label": "/automotive and vehicles/auto parts",
+      "score": 0.559461
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.345351,
+      "sentence": "As Peggy Carly ill in the hospital intensive care unit doctors were baffled.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peggy stepson Travis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3,
+            14
+          ],
+          "text": "Peggy Carly"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            26,
+            34
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.599384,
+      "sentence": "She kept complaining never hands and our feet she said she can open our eyes she was nauseated by the time he was taken to the hospital and doctors noticed some weakness in both sides of her face but when lab tests were negative and they couldn't diagnose her problem Peggy was released the next day I went up to check on her and she was even worse and I I told possibly need to take her to the to the hospital again because she's not getting any better.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peggy stepson Travis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2221,
+            2224
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2239,
+            2247
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.76069,
+      "sentence": "The children drove her to the hospital once again this time one of the physicians who examined her noticed a tiny clues I noticed that our hair simply raising her up off the pillow to listen to her back.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peggy stepson Travis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2333,
+            2336
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2344,
+            2352
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.825038,
+      "sentence": "He was he was in but soon after their marriage Peggy began to question the long hours hi I was working at the mine he worked all the time.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peggy stepson Travis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            732,
+            733
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "mine",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            753,
+            757
+          ],
+          "text": "mine"
+        }
+      ]
+    },
+    {
+      "score": 0.501728,
+      "sentence": "Similar to the type found in the soda bottles in the car home we had a lot of circumstantial evidence but this was the only piece of real evidence that you could actually put your hands on the police then searched three thousand new homes and discovered a notebook George caption general poisoning guy.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10699,
+            10701
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "cars",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10690,
+            10693
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.387457,
+      "sentence": "Similar to the type found in the soda bottles in the car home we had a lot of circumstantial evidence but this was the only piece of real evidence that you could actually put your hands on the police then searched three thousand new homes and discovered a notebook George caption general poisoning guy.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10699,
+            10701
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10694,
+            10698
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.780913,
+      "sentence": "George tree Powell was arrested for the murder of Peggy Carr and the attempted murder of the entire car family.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George Street Palin Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11095,
+            11101
+          ],
+          "text": "Powell"
+        },
+        {
+          "entities": [
+            {
+              "text": "released",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            11106,
+            11114
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.410707,
+      "sentence": "George tree Powell was arrested for the murder of Peggy Carr and the attempted murder of the entire car family.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peggy Carr",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11133,
+            11143
+          ],
+          "text": "Peggy Carr"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11123,
+            11129
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.48044,
+      "sentence": "George tree Powell was arrested for the murder of Peggy Carr and the attempted murder of the entire car family.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peggy Carr",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11133,
+            11143
+          ],
+          "text": "Peggy Carr"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11162,
+            11168
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.633584,
+      "sentence": "George tree Powell was arrested for the murder of Peggy Carr and the attempted murder of the entire car family.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11187,
+            11193
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11162,
+            11168
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.891975,
+      "sentence": "George tree Powell was arrested for the murder of Peggy Carr and the attempted murder of the entire car family.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11187,
+            11193
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "cars",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11183,
+            11186
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.647776,
+      "sentence": "When you get to use similar phraseology in an interview with the police.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Susan gore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11200,
+            11203
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            11241,
+            11250
+          ],
+          "text": "interview"
+        }
+      ]
+    },
+    {
+      "score": 0.920475,
+      "sentence": "When you get to use similar phraseology in an interview with the police.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11260,
+            11266
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            11241,
+            11250
+          ],
+          "text": "interview"
+        }
+      ]
+    },
+    {
+      "score": 0.887956,
+      "sentence": "One night when pi said he was working late Peggy drove out to the mine.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            859,
+            864
+          ],
+          "text": "night"
+        },
+        {
+          "entities": [
+            {
+              "text": "addressed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            873,
+            877
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.426765,
+      "sentence": "One night when pi said he was working late Peggy drove out to the mine.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            878,
+            880
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "addressed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            873,
+            877
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.527898,
+      "sentence": "One night when pi said he was working late Peggy drove out to the mine.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            878,
+            880
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "mine",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            921,
+            925
+          ],
+          "text": "mine"
+        }
+      ]
+    },
+    {
+      "score": 0.260144,
+      "sentence": "In the parking lot she saw only two cars one was pines the other belonged to one of his former girlfriend's.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peggy stepson Travis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            946,
+            949
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            934,
+            945
+          ],
+          "text": "parking lot"
+        }
+      ]
+    },
+    {
+      "score": 0.902842,
+      "sentence": "things started you know going down hill when he learned of the affair she took her children to a nearby motel and left her husband a note.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1217,
+            1225
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "motel",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1238,
+            1243
+          ],
+          "text": "motel"
+        }
+      ]
+    },
+    {
+      "score": 0.734476,
+      "sentence": "things started you know going down hill when he learned of the affair she took her children to a nearby motel and left her husband a note.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peggy stepson Travis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1253,
+            1256
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "husband",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1257,
+            1264
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.399297,
+      "sentence": "After a brief separation the couple resolve their differences and Peggy enter children moved back home.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peggy stepson Travis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1518,
+            1523
+          ],
+          "text": "Peggy"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1530,
+            1538
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.352724,
+      "sentence": "After a brief separation the couple resolve their differences and Peggy enter children moved back home.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1530,
+            1538
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1550,
+            1554
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.993444,
+      "sentence": "Peggy became L. complaining of an upset stomach and an intense burning sensation when pi returned home he told the children he thought it was only a virus she was sick.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1753,
+            1755
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1756,
+            1760
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.852434,
+      "sentence": "For me now lab tests were all negative but one of the doctors noticed tiny clues.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            120,
+            123
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "doctors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            131,
+            138
+          ],
+          "text": "doctors"
+        }
+      ]
+    },
+    {
+      "score": 0.771522,
+      "sentence": "Peggy became L. complaining of an upset stomach and an intense burning sensation when pi returned home he told the children he thought it was only a virus she was sick.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1765,
+            1773
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1756,
+            1760
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.996758,
+      "sentence": "She kept complaining never hands and our feet she said she can open our eyes she was nauseated by the time he was taken to the hospital and doctors noticed some weakness in both sides of her face but when lab tests were negative and they couldn't diagnose her problem Peggy was released the next day I went up to check on her and she was even worse and I I told possibly need to take her to the to the hospital again because she's not getting any better.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peggy stepson Travis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1883,
+            1886
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1887,
+            1891
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.485497,
+      "sentence": "She kept complaining never hands and our feet she said she can open our eyes she was nauseated by the time he was taken to the hospital and doctors noticed some weakness in both sides of her face but when lab tests were negative and they couldn't diagnose her problem Peggy was released the next day I went up to check on her and she was even worse and I I told possibly need to take her to the to the hospital again because she's not getting any better.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peggy stepson Travis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1914,
+            1917
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "our",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1905,
+            1908
+          ],
+          "text": "our"
+        }
+      ]
+    },
+    {
+      "score": 0.495459,
+      "sentence": "She kept complaining never hands and our feet she said she can open our eyes she was nauseated by the time he was taken to the hospital and doctors noticed some weakness in both sides of her face but when lab tests were negative and they couldn't diagnose her problem Peggy was released the next day I went up to check on her and she was even worse and I I told possibly need to take her to the to the hospital again because she's not getting any better.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1944,
+            1946
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1964,
+            1972
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.790355,
+      "sentence": "She kept complaining never hands and our feet she said she can open our eyes she was nauseated by the time he was taken to the hospital and doctors noticed some weakness in both sides of her face but when lab tests were negative and they couldn't diagnose her problem Peggy was released the next day I went up to check on her and she was even worse and I I told possibly need to take her to the to the hospital again because she's not getting any better.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peggy stepson Travis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2105,
+            2110
+          ],
+          "text": "Peggy"
+        },
+        {
+          "entities": [
+            {
+              "text": "released",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            2115,
+            2123
+          ],
+          "text": "released"
+        }
+      ]
+    },
+    {
+      "score": 0.899512,
+      "sentence": "She kept complaining never hands and our feet she said she can open our eyes she was nauseated by the time he was taken to the hospital and doctors noticed some weakness in both sides of her face but when lab tests were negative and they couldn't diagnose her problem Peggy was released the next day I went up to check on her and she was even worse and I I told possibly need to take her to the to the hospital again because she's not getting any better.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "next day",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            2128,
+            2136
+          ],
+          "text": "next day"
+        },
+        {
+          "entities": [
+            {
+              "text": "released",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            2115,
+            2123
+          ],
+          "text": "released"
+        }
+      ]
+    },
+    {
+      "score": 0.98422,
+      "sentence": "She kept complaining never hands and our feet she said she can open our eyes she was nauseated by the time he was taken to the hospital and doctors noticed some weakness in both sides of her face but when lab tests were negative and they couldn't diagnose her problem Peggy was released the next day I went up to check on her and she was even worse and I I told possibly need to take her to the to the hospital again because she's not getting any better.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2192,
+            2193
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2194,
+            2198
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.461221,
+      "sentence": "The children drove her to the hospital once again this time one of the physicians who examined her noticed a tiny clues I noticed that our hair simply raising her up off the pillow to listen to her back.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2318,
+            2326
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2344,
+            2352
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.734806,
+      "sentence": "The children drove her to the hospital once again this time one of the physicians who examined her noticed a tiny clues I noticed that our hair simply raising her up off the pillow to listen to her back.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            2374,
+            2377
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "physicians",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2385,
+            2395
+          ],
+          "text": "physicians"
+        }
+      ]
+    },
+    {
+      "score": 0.535179,
+      "sentence": "Quite a bit of her hair was left on the pillow Dr Robert van hook and his colleagues thought it might be a place in a very rare one which doesn't show up in normal lab tests.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert van",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2568,
+            2578
+          ],
+          "text": "Robert van"
+        },
+        {
+          "entities": [
+            {
+              "text": "colleagues",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2592,
+            2602
+          ],
+          "text": "colleagues"
+        }
+      ]
+    },
+    {
+      "score": 0.650249,
+      "sentence": "Peggy Carr was a forty one year old restaurant worker who had been married to her second husband hi for the last six months.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peggy Carr",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            309,
+            319
+          ],
+          "text": "Peggy Carr"
+        },
+        {
+          "entities": [
+            {
+              "text": "restaurant",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            345,
+            355
+          ],
+          "text": "restaurant"
+        }
+      ]
+    },
+    {
+      "score": 0.687632,
+      "sentence": "Quite a bit of her hair was left on the pillow Dr Robert van hook and his colleagues thought it might be a place in a very rare one which doesn't show up in normal lab tests.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2588,
+            2591
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "colleagues",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2592,
+            2602
+          ],
+          "text": "colleagues"
+        }
+      ]
+    },
+    {
+      "score": 0.750941,
+      "sentence": "Actual test confirmed his suspicion it was valium poisoning that Liam is a highly toxic metal widely used as a pesticide before it was banned in the United States in nineteen seventy two once inside the body down the attacks nerve endings and muscles causing them to atrophy and die in severe cases it can cause delirium paralysis coma and even death.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Liam",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2758,
+            2762
+          ],
+          "text": "Liam"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2952,
+            2956
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.868022,
+      "sentence": "Actual test confirmed his suspicion it was valium poisoning that Liam is a highly toxic metal widely used as a pesticide before it was banned in the United States in nineteen seventy two once inside the body down the attacks nerve endings and muscles causing them to atrophy and die in severe cases it can cause delirium paralysis coma and even death.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert van",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2896,
+            2900
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2952,
+            2956
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.407251,
+      "sentence": "Actual test confirmed his suspicion it was valium poisoning that Liam is a highly toxic metal widely used as a pesticide before it was banned in the United States in nineteen seventy two once inside the body down the attacks nerve endings and muscles causing them to atrophy and die in severe cases it can cause delirium paralysis coma and even death.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2952,
+            2956
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "attacks",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            2910,
+            2917
+          ],
+          "text": "attacks"
+        }
+      ]
+    },
+    {
+      "score": 0.680476,
+      "sentence": "Tests revealed that he had fifty times the maximum human exposure in her system and there is no known cure or antidote within days Peggy stepson Travis and son Duane were hospitalized as well date tue at Dally M. poisoning was like some money taken a thousand needles putting your feet in a minute just press and all at once and real real painful something that you just couldn't you know let go how did take a car and the two boys in jazz such large amounts of valley.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3425,
+            3428
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "cars",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            3456,
+            3459
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.449946,
+      "sentence": "Or was someone trying to kill.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "someone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3541,
+            3548
+          ],
+          "text": "someone"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            3559,
+            3563
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.551414,
+      "sentence": "The R. ange Grove next to the car's home was tested to determine what the tally in had been sprayed on the our industry.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "cars",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            3818,
+            3821
+          ],
+          "text": "car"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3824,
+            3828
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.773425,
+      "sentence": "The drinking water wells in the area was also tested the Dally M. wasn't found next health officials gathered air and dust samples from inside the cars home and took more than four hundred household items for laboratory analysis.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "cars",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            4056,
+            4060
+          ],
+          "text": "cars"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4061,
+            4065
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.666085,
+      "sentence": "The drinking water wells in the area was also tested the Dally M. wasn't found next health officials gathered air and dust samples from inside the cars home and took more than four hundred household items for laboratory analysis.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "health officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3993,
+            4009
+          ],
+          "text": "health officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "cars",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            4056,
+            4060
+          ],
+          "text": "cars"
+        }
+      ]
+    },
+    {
+      "score": 0.93437,
+      "sentence": "Friends told police that the family received an anonymous threatening letter just a few months earlier it was addressed to hi kar misspelling pies name.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4139,
+            4146
+          ],
+          "text": "Friends"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4147,
+            4151
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.969338,
+      "sentence": "Friends told police that the family received an anonymous threatening letter just a few months earlier it was addressed to hi kar misspelling pies name.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4152,
+            4158
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4147,
+            4151
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.197177,
+      "sentence": "Peggy Carr was a forty one year old restaurant worker who had been married to her second husband hi for the last six months.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peggy Carr",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            356,
+            362
+          ],
+          "text": "worker"
+        },
+        {
+          "entities": [
+            {
+              "text": "restaurant",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            345,
+            355
+          ],
+          "text": "restaurant"
+        }
+      ]
+    },
+    {
+      "score": 0.18347,
+      "sentence": "Police were suspicious of pipe car not only because he failed to mention the threatening letter but also because of his extramarital affair the fact that he was away when Peggy first got sick and his hesitation and taking it to the hospital we dug very deep at that point yet to pack cars background anything that would show motivation on his part two portions while we thought you know pi has some to do that because the way he was acting as actors who.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4617,
+            4619
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4608,
+            4616
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.949684,
+      "sentence": "He was always so secretive it was always it's like he always had something to hide all of the remaining family members were asked to undergo tally in testing as well just as a precaution.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "members",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4969,
+            4976
+          ],
+          "text": "members"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4962,
+            4968
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.997346,
+      "sentence": "Doctor says he and her child Casey both had traces of valium in their systems and so did high.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5079,
+            5085
+          ],
+          "text": "Doctor"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5086,
+            5090
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.285131,
+      "sentence": "Doctor says he and her child Casey both had traces of valium in their systems and so did high.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peggy stepson Travis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5098,
+            5101
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Casey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5102,
+            5107
+          ],
+          "text": "child"
+        }
+      ]
+    },
+    {
+      "score": 0.565317,
+      "sentence": "Doctor says he and her child Casey both had traces of valium in their systems and so did high.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Casey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5108,
+            5113
+          ],
+          "text": "Casey"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            5114,
+            5118
+          ],
+          "text": "both"
+        }
+      ]
+    },
+    {
+      "score": 0.657593,
+      "sentence": "The only family member found not to have him in her system was pine's daughter ten.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Casey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5190,
+            5196
+          ],
+          "text": "member"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5183,
+            5189
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.328682,
+      "sentence": "When the laboratory analyzed the items from the cars home.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "laboratory",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5267,
+            5277
+          ],
+          "text": "laboratory"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5311,
+            5315
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.471905,
+      "sentence": "When the laboratory analyzed the items from the cars home.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "cars",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            5306,
+            5310
+          ],
+          "text": "cars"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5311,
+            5315
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.411935,
+      "sentence": "In some empty soda bottles detectives returned to the car home and found three full bottles from the same carton the FBI found no fingerprints on the full bottles recovered from the cars home but under a scanning electron microscope magnified one hundred times the FBI discovered tiny scratch marks on the caps an indication that they had been jealously removed and replaced using a process called flame atomic absorption spectroscopy the soda produced a distinctive greenish color to the flame a positive indication that tally was present.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "cars",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            5408,
+            5411
+          ],
+          "text": "car"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5412,
+            5416
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.57448,
+      "sentence": "In some empty soda bottles detectives returned to the car home and found three full bottles from the same carton the FBI found no fingerprints on the full bottles recovered from the cars home but under a scanning electron microscope magnified one hundred times the FBI discovered tiny scratch marks on the caps an indication that they had been jealously removed and replaced using a process called flame atomic absorption spectroscopy the soda produced a distinctive greenish color to the flame a positive indication that tally was present.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "cars",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            5536,
+            5540
+          ],
+          "text": "cars"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5541,
+            5545
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.735615,
+      "sentence": "They found the source of the valley.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5317,
+            5321
+          ],
+          "text": "They"
+        },
+        {
+          "entities": [
+            {
+              "text": "valley",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5346,
+            5352
+          ],
+          "text": "valley"
+        }
+      ]
+    },
+    {
+      "score": 0.931332,
+      "sentence": "Professional removal and re attachment of the bottle caps told the FBI that the killer was very smart very organized and would be very difficult to catch.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "FBI",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6384,
+            6387
+          ],
+          "text": "FBI"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6375,
+            6379
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.444308,
+      "sentence": "Peggy Carr was a forty one year old restaurant worker who had been married to her second husband hi for the last six months.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peggy Carr",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            387,
+            390
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "husband",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            398,
+            405
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.67084,
+      "sentence": "When picking Kerr slipped into a coma her doctors had little if any hope for her recovery her son and stepson were both in serious condition but expected to recover.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peggy Kerr",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6562,
+            6565
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Duane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6566,
+            6569
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.670821,
+      "sentence": "Pies daughter Tammy was the only family member without valium in her system.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tammy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6678,
+            6684
+          ],
+          "text": "member"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6671,
+            6677
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.996149,
+      "sentence": "She told police she didn't drink the soda because she consumed only diet.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tammy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6715,
+            6718
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6719,
+            6723
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.960078,
+      "sentence": "She told police she didn't drink the soda because she consumed only diet.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6724,
+            6730
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6719,
+            6723
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.53394,
+      "sentence": "And when thou IBM was found in pies system he was no longer considered a suspect with no other leads the F. B. I. was asked to provide a psychological profile of the place and the profiling unit believed that the poisoner was highly intelligent a white male in his mid thirties who resolves conflict without direct confrontation he likes to read about merger watch violent movies and with them fantasize about committing murder it's more of a passive type person and it's been more of a cowardly type of crime you don't have to look for the intended victim in the eye it's that pretty is very similar to a to a bomber very similar type of personality the F. B. I.'s suggested police questioned the neighbors because whoever poisoned the family knew their comings and goings and planted the soda without being C.. The",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "F. B. I. N. U",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6894,
+            6902
+          ],
+          "text": "F. B. I."
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6907,
+            6912
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.772379,
+      "sentence": "And when thou IBM was found in pies system he was no longer considered a suspect with no other leads the F. B. I. was asked to provide a psychological profile of the place and the profiling unit believed that the poisoner was highly intelligent a white male in his mid thirties who resolves conflict without direct confrontation he likes to read about merger watch violent movies and with them fantasize about committing murder it's more of a passive type person and it's been more of a cowardly type of crime you don't have to look for the intended victim in the eye it's that pretty is very similar to a to a bomber very similar type of personality the F. B. I.'s suggested police questioned the neighbors because whoever poisoned the family knew their comings and goings and planted the soda without being C.. The",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "F. B. I. N. U",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7444,
+            7452
+          ],
+          "text": "F. B. I."
+        },
+        {
+          "entities": [
+            {
+              "text": "suggested",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7455,
+            7464
+          ],
+          "text": "suggested"
+        }
+      ]
+    },
+    {
+      "score": 0.970981,
+      "sentence": "And when thou IBM was found in pies system he was no longer considered a suspect with no other leads the F. B. I. was asked to provide a psychological profile of the place and the profiling unit believed that the poisoner was highly intelligent a white male in his mid thirties who resolves conflict without direct confrontation he likes to read about merger watch violent movies and with them fantasize about committing murder it's more of a passive type person and it's been more of a cowardly type of crime you don't have to look for the intended victim in the eye it's that pretty is very similar to a to a bomber very similar type of personality the F. B. I.'s suggested police questioned the neighbors because whoever poisoned the family knew their comings and goings and planted the soda without being C.. The",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7465,
+            7471
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "questioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7472,
+            7482
+          ],
+          "text": "questioned"
+        }
+      ]
+    },
+    {
+      "score": 0.725016,
+      "sentence": "And when thou IBM was found in pies system he was no longer considered a suspect with no other leads the F. B. I. was asked to provide a psychological profile of the place and the profiling unit believed that the poisoner was highly intelligent a white male in his mid thirties who resolves conflict without direct confrontation he likes to read about merger watch violent movies and with them fantasize about committing murder it's more of a passive type person and it's been more of a cowardly type of crime you don't have to look for the intended victim in the eye it's that pretty is very similar to a to a bomber very similar type of personality the F. B. I.'s suggested police questioned the neighbors because whoever poisoned the family knew their comings and goings and planted the soda without being C.. The",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "neighbors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7487,
+            7496
+          ],
+          "text": "neighbors"
+        },
+        {
+          "entities": [
+            {
+              "text": "questioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7472,
+            7482
+          ],
+          "text": "questioned"
+        }
+      ]
+    },
+    {
+      "score": 0.305028,
+      "sentence": "car's only neighbor was doctor Diana car no relation to Peggy Carr and her husband George Street.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "neighbor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7617,
+            7625
+          ],
+          "text": "neighbor"
+        },
+        {
+          "entities": [
+            {
+              "text": "cars",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            7606,
+            7609
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.589408,
+      "sentence": "car's only neighbor was doctor Diana car no relation to Peggy Carr and her husband George Street.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7637,
+            7642
+          ],
+          "text": "Diana"
+        },
+        {
+          "entities": [
+            {
+              "text": "cars",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            7643,
+            7646
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.69223,
+      "sentence": "Diana car had a master's degree in chemistry and graduated from medical school as an orthopedic surgeon her husband George was a freelance writer for a computer magazine both were highly intelligent and members of mensa an organisation for individuals with I. cues in the top two percent of the population police learned that Diana car had a fight with Peggy just a week before she was poisoned to Wisconsin rant and rave about my two brothers have been music on in the front yard telling him to turn it down my mom had enough of this lady you know yell and scream and Atticus matter so she turned around walked off said I'm done talking with you this is this ain't over yet this ain't over yet a background check revealed that tree Paul had been arrested in North Carolina in the mid seventies for running",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7704,
+            7709
+          ],
+          "text": "Diana"
+        },
+        {
+          "entities": [
+            {
+              "text": "cars",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            7710,
+            7713
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.717562,
+      "sentence": "Diana car had a master's degree in chemistry and graduated from medical school as an orthopedic surgeon her husband George was a freelance writer for a computer magazine both were highly intelligent and members of mensa an organisation for individuals with I. cues in the top two percent of the population police learned that Diana car had a fight with Peggy just a week before she was poisoned to Wisconsin rant and rave about my two brothers have been music on in the front yard telling him to turn it down my mom had enough of this lady you know yell and scream and Atticus matter so she turned around walked off said I'm done talking with you this is this ain't over yet this ain't over yet a background check revealed that tree Paul had been arrested in North Carolina in the mid seventies for running",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8030,
+            8035
+          ],
+          "text": "Diana"
+        },
+        {
+          "entities": [
+            {
+              "text": "cars",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            8036,
+            8039
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.569175,
+      "sentence": "Peggy worked as a waitress at a drive in restaurant and had three children from a previous marriage I had two children and work at a phosphate mine they seem to be happy my mom.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peggy stepson Travis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            452,
+            460
+          ],
+          "text": "waitress"
+        },
+        {
+          "entities": [
+            {
+              "text": "restaurant",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            475,
+            485
+          ],
+          "text": "restaurant"
+        }
+      ]
+    },
+    {
+      "score": 0.774785,
+      "sentence": "car's only neighbor was doctor Diana car no relation to Peggy Carr and her husband George Street.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peggy Carr",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7677,
+            7680
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "George Street Palin Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7681,
+            7688
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.837738,
+      "sentence": "Diana car had a master's degree in chemistry and graduated from medical school as an orthopedic surgeon her husband George was a freelance writer for a computer magazine both were highly intelligent and members of mensa an organisation for individuals with I. cues in the top two percent of the population police learned that Diana car had a fight with Peggy just a week before she was poisoned to Wisconsin rant and rave about my two brothers have been music on in the front yard telling him to turn it down my mom had enough of this lady you know yell and scream and Atticus matter so she turned around walked off said I'm done talking with you this is this ain't over yet this ain't over yet a background check revealed that tree Paul had been arrested in North Carolina in the mid seventies for running",
+      "type": "awardedTo",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "master's degree in chemistry",
+              "type": "Degree"
+            }
+          ],
+          "location": [
+            7720,
+            7748
+          ],
+          "text": "master's degree in chemistry"
+        },
+        {
+          "entities": [
+            {
+              "text": "Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7704,
+            7709
+          ],
+          "text": "Diana"
+        }
+      ]
+    },
+    {
+      "score": 0.545596,
+      "sentence": "Diana car had a master's degree in chemistry and graduated from medical school as an orthopedic surgeon her husband George was a freelance writer for a computer magazine both were highly intelligent and members of mensa an organisation for individuals with I. cues in the top two percent of the population police learned that Diana car had a fight with Peggy just a week before she was poisoned to Wisconsin rant and rave about my two brothers have been music on in the front yard telling him to turn it down my mom had enough of this lady you know yell and scream and Atticus matter so she turned around walked off said I'm done talking with you this is this ain't over yet this ain't over yet a background check revealed that tree Paul had been arrested in North Carolina in the mid seventies for running",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7704,
+            7709
+          ],
+          "text": "Diana"
+        },
+        {
+          "entities": [
+            {
+              "text": "graduated",
+              "type": "EventEducation"
+            }
+          ],
+          "location": [
+            7753,
+            7762
+          ],
+          "text": "graduated"
+        }
+      ]
+    },
+    {
+      "score": 0.820316,
+      "sentence": "Diana car had a master's degree in chemistry and graduated from medical school as an orthopedic surgeon her husband George was a freelance writer for a computer magazine both were highly intelligent and members of mensa an organisation for individuals with I. cues in the top two percent of the population police learned that Diana car had a fight with Peggy just a week before she was poisoned to Wisconsin rant and rave about my two brothers have been music on in the front yard telling him to turn it down my mom had enough of this lady you know yell and scream and Atticus matter so she turned around walked off said I'm done talking with you this is this ain't over yet this ain't over yet a background check revealed that tree Paul had been arrested in North Carolina in the mid seventies for running",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7808,
+            7811
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "George Street Palin Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7812,
+            7819
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.269242,
+      "sentence": "Diana car had a master's degree in chemistry and graduated from medical school as an orthopedic surgeon her husband George was a freelance writer for a computer magazine both were highly intelligent and members of mensa an organisation for individuals with I. cues in the top two percent of the population police learned that Diana car had a fight with Peggy just a week before she was poisoned to Wisconsin rant and rave about my two brothers have been music on in the front yard telling him to turn it down my mom had enough of this lady you know yell and scream and Atticus matter so she turned around walked off said I'm done talking with you this is this ain't over yet this ain't over yet a background check revealed that tree Paul had been arrested in North Carolina in the mid seventies for running",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "population",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7999,
+            8009
+          ],
+          "text": "population"
+        },
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8010,
+            8016
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.626869,
+      "sentence": "Diana car had a master's degree in chemistry and graduated from medical school as an orthopedic surgeon her husband George was a freelance writer for a computer magazine both were highly intelligent and members of mensa an organisation for individuals with I. cues in the top two percent of the population police learned that Diana car had a fight with Peggy just a week before she was poisoned to Wisconsin rant and rave about my two brothers have been music on in the front yard telling him to turn it down my mom had enough of this lady you know yell and scream and Atticus matter so she turned around walked off said I'm done talking with you this is this ain't over yet this ain't over yet a background check revealed that tree Paul had been arrested in North Carolina in the mid seventies for running",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8082,
+            8085
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8102,
+            8111
+          ],
+          "text": "Wisconsin"
+        }
+      ]
+    },
+    {
+      "score": 0.30871,
+      "sentence": "Diana car had a master's degree in chemistry and graduated from medical school as an orthopedic surgeon her husband George was a freelance writer for a computer magazine both were highly intelligent and members of mensa an organisation for individuals with I. cues in the top two percent of the population police learned that Diana car had a fight with Peggy just a week before she was poisoned to Wisconsin rant and rave about my two brothers have been music on in the front yard telling him to turn it down my mom had enough of this lady you know yell and scream and Atticus matter so she turned around walked off said I'm done talking with you this is this ain't over yet this ain't over yet a background check revealed that tree Paul had been arrested in North Carolina in the mid seventies for running",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8132,
+            8134
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "brothers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8139,
+            8147
+          ],
+          "text": "brothers"
+        }
+      ]
+    },
+    {
+      "score": 0.538441,
+      "sentence": "Diana car had a master's degree in chemistry and graduated from medical school as an orthopedic surgeon her husband George was a freelance writer for a computer magazine both were highly intelligent and members of mensa an organisation for individuals with I. cues in the top two percent of the population police learned that Diana car had a fight with Peggy just a week before she was poisoned to Wisconsin rant and rave about my two brothers have been music on in the front yard telling him to turn it down my mom had enough of this lady you know yell and scream and Atticus matter so she turned around walked off said I'm done talking with you this is this ain't over yet this ain't over yet a background check revealed that tree Paul had been arrested in North Carolina in the mid seventies for running",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mom",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8216,
+            8219
+          ],
+          "text": "mom"
+        },
+        {
+          "entities": [
+            {
+              "text": "Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8213,
+            8215
+          ],
+          "text": "my"
+        }
+      ]
+    },
+    {
+      "score": 0.980417,
+      "sentence": "Diana car had a master's degree in chemistry and graduated from medical school as an orthopedic surgeon her husband George was a freelance writer for a computer magazine both were highly intelligent and members of mensa an organisation for individuals with I. cues in the top two percent of the population police learned that Diana car had a fight with Peggy just a week before she was poisoned to Wisconsin rant and rave about my two brothers have been music on in the front yard telling him to turn it down my mom had enough of this lady you know yell and scream and Atticus matter so she turned around walked off said I'm done talking with you this is this ain't over yet this ain't over yet a background check revealed that tree Paul had been arrested in North Carolina in the mid seventies for running",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8291,
+            8294
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "addressed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8320,
+            8324
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.931038,
+      "sentence": "Diana car had a master's degree in chemistry and graduated from medical school as an orthopedic surgeon her husband George was a freelance writer for a computer magazine both were highly intelligent and members of mensa an organisation for individuals with I. cues in the top two percent of the population police learned that Diana car had a fight with Peggy just a week before she was poisoned to Wisconsin rant and rave about my two brothers have been music on in the front yard telling him to turn it down my mom had enough of this lady you know yell and scream and Atticus matter so she turned around walked off said I'm done talking with you this is this ain't over yet this ain't over yet a background check revealed that tree Paul had been arrested in North Carolina in the mid seventies for running",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George DePaul",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8437,
+            8441
+          ],
+          "text": "Paul"
+        },
+        {
+          "entities": [
+            {
+              "text": "released",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            8451,
+            8459
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.615549,
+      "sentence": "Peggy worked as a waitress at a drive in restaurant and had three children from a previous marriage I had two children and work at a phosphate mine they seem to be happy my mom.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mom",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            607,
+            610
+          ],
+          "text": "mom"
+        },
+        {
+          "entities": [
+            {
+              "text": "Peggy stepson Travis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            604,
+            606
+          ],
+          "text": "my"
+        }
+      ]
+    },
+    {
+      "score": 0.895952,
+      "sentence": "Diana car had a master's degree in chemistry and graduated from medical school as an orthopedic surgeon her husband George was a freelance writer for a computer magazine both were highly intelligent and members of mensa an organisation for individuals with I. cues in the top two percent of the population police learned that Diana car had a fight with Peggy just a week before she was poisoned to Wisconsin rant and rave about my two brothers have been music on in the front yard telling him to turn it down my mom had enough of this lady you know yell and scream and Atticus matter so she turned around walked off said I'm done talking with you this is this ain't over yet this ain't over yet a background check revealed that tree Paul had been arrested in North Carolina in the mid seventies for running",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "released",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            8451,
+            8459
+          ],
+          "text": "arrested"
+        },
+        {
+          "entities": [
+            {
+              "text": "North Carolina",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8463,
+            8477
+          ],
+          "text": "North Carolina"
+        }
+      ]
+    },
+    {
+      "score": 0.78185,
+      "sentence": "one of the largest methamphetamine labs in the eastern United States the drug agent who arrested three pals called him the smartest chemist he had ever known.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "labs",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8546,
+            8550
+          ],
+          "text": "labs"
+        },
+        {
+          "entities": [
+            {
+              "text": "eastern",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            8558,
+            8565
+          ],
+          "text": "eastern"
+        }
+      ]
+    },
+    {
+      "score": 0.980248,
+      "sentence": "one of the largest methamphetamine labs in the eastern United States the drug agent who arrested three pals called him the smartest chemist he had ever known.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "eastern",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            8558,
+            8565
+          ],
+          "text": "eastern"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8566,
+            8579
+          ],
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "score": 0.449332,
+      "sentence": "one of the largest methamphetamine labs in the eastern United States the drug agent who arrested three pals called him the smartest chemist he had ever known.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bomber",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8589,
+            8594
+          ],
+          "text": "agent"
+        },
+        {
+          "entities": [
+            {
+              "text": "eastern",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            8558,
+            8565
+          ],
+          "text": "eastern"
+        }
+      ]
+    },
+    {
+      "score": 0.604061,
+      "sentence": "one of the largest methamphetamine labs in the eastern United States the drug agent who arrested three pals called him the smartest chemist he had ever known.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bomber",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8595,
+            8598
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "released",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            8599,
+            8607
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.794331,
+      "sentence": "one of the largest methamphetamine labs in the eastern United States the drug agent who arrested three pals called him the smartest chemist he had ever known.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bomber",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8595,
+            8598
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8619,
+            8625
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.746988,
+      "sentence": "one of the largest methamphetamine labs in the eastern United States the drug agent who arrested three pals called him the smartest chemist he had ever known.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "pals",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8614,
+            8618
+          ],
+          "text": "pals"
+        },
+        {
+          "entities": [
+            {
+              "text": "released",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            8599,
+            8607
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.771283,
+      "sentence": "one of the largest methamphetamine labs in the eastern United States the drug agent who arrested three pals called him the smartest chemist he had ever known.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George Street Palin Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8626,
+            8629
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8619,
+            8625
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.596286,
+      "sentence": "The sheriff's department assigned special agent Susan gory to the case she was asked to go under cover to infiltrate the mensa group to which George Street Palin Diana car belonged and experience she vividly described in her best selling book plays in mine.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sheriff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8783,
+            8790
+          ],
+          "text": "sheriff"
+        },
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8793,
+            8803
+          ],
+          "text": "department"
+        }
+      ]
+    },
+    {
+      "score": 0.365657,
+      "sentence": "The sheriff's department assigned special agent Susan gory to the case she was asked to go under cover to infiltrate the mensa group to which George Street Palin Diana car belonged and experience she vividly described in her best selling book plays in mine.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Susan gore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8827,
+            8832
+          ],
+          "text": "Susan"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8845,
+            8849
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.765551,
+      "sentence": "He was he was in but soon after their marriage Peggy began to question the long hours hi I was working at the mine he worked all the time.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            650,
+            652
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            675,
+            680
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.492093,
+      "sentence": "The sheriff's department assigned special agent Susan gory to the case she was asked to go under cover to infiltrate the mensa group to which George Street Palin Diana car belonged and experience she vividly described in her best selling book plays in mine.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Susan gore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8850,
+            8853
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8845,
+            8849
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.923096,
+      "sentence": "The sheriff's department assigned special agent Susan gory to the case she was asked to go under cover to infiltrate the mensa group to which George Street Palin Diana car belonged and experience she vividly described in her best selling book plays in mine.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Susan gore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8850,
+            8853
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8858,
+            8863
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.670833,
+      "sentence": "The sheriff's department assigned special agent Susan gory to the case she was asked to go under cover to infiltrate the mensa group to which George Street Palin Diana car belonged and experience she vividly described in her best selling book plays in mine.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George Street Palin Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8921,
+            8946
+          ],
+          "text": "George Street Palin Diana"
+        },
+        {
+          "entities": [
+            {
+              "text": "cars",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            8947,
+            8950
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.989041,
+      "sentence": "The sheriff's department assigned special agent Susan gory to the case she was asked to go under cover to infiltrate the mensa group to which George Street Palin Diana car belonged and experience she vividly described in her best selling book plays in mine.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Susan gore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8975,
+            8978
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "described",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8987,
+            8996
+          ],
+          "text": "described"
+        }
+      ]
+    },
+    {
+      "score": 0.689274,
+      "sentence": "The sheriff's department assigned special agent Susan gory to the case she was asked to go under cover to infiltrate the mensa group to which George Street Palin Diana car belonged and experience she vividly described in her best selling book plays in mine.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Susan gore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9000,
+            9003
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "mine",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9031,
+            9035
+          ],
+          "text": "mine"
+        }
+      ]
+    },
+    {
+      "score": 0.493341,
+      "sentence": "Under an assumed name and identity Susan gore attended a mensa murder mystery weekend which George and his wife Diana were hosting before I went to the weekend I spoke with the people up at the FBI behavioral science unit to see if I can get some tips on the type of person or type of personality that I should develop if I was to meet George DePaul when Goring arrive for the weekend she received a copy of the merger scenarios George Street Powell wrote for the participants one was a murder by poison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Susan gore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9072,
+            9082
+          ],
+          "text": "Susan gore"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9100,
+            9106
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.389807,
+      "sentence": "Under an assumed name and identity Susan gore attended a mensa murder mystery weekend which George and his wife Diana were hosting before I went to the weekend I spoke with the people up at the FBI behavioral science unit to see if I can get some tips on the type of person or type of personality that I should develop if I was to meet George DePaul when Goring arrive for the weekend she received a copy of the merger scenarios George Street Powell wrote for the participants one was a murder by poison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George Street Palin Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9129,
+            9135
+          ],
+          "text": "George"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9100,
+            9106
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.760156,
+      "sentence": "George tree Powell was arrested for the murder of Peggy Carr and the attempted murder of the entire car family.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George Street Palin Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11095,
+            11101
+          ],
+          "text": "Powell"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11123,
+            11129
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.737573,
+      "sentence": "Under an assumed name and identity Susan gore attended a mensa murder mystery weekend which George and his wife Diana were hosting before I went to the weekend I spoke with the people up at the FBI behavioral science unit to see if I can get some tips on the type of person or type of personality that I should develop if I was to meet George DePaul when Goring arrive for the weekend she received a copy of the merger scenarios George Street Powell wrote for the participants one was a murder by poison.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George Street Palin Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9140,
+            9143
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9144,
+            9148
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.726152,
+      "sentence": "George and his wife Diana moved they rented their old home to George's new friend Susan gore.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George Street Palin Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10223,
+            10226
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10227,
+            10231
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.993266,
+      "sentence": "Under an assumed name and identity Susan gore attended a mensa murder mystery weekend which George and his wife Diana were hosting before I went to the weekend I spoke with the people up at the FBI behavioral science unit to see if I can get some tips on the type of person or type of personality that I should develop if I was to meet George DePaul when Goring arrive for the weekend she received a copy of the merger scenarios George Street Powell wrote for the participants one was a murder by poison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George Street Palin Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9197,
+            9198
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "addressed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9199,
+            9204
+          ],
+          "text": "spoke"
+        }
+      ]
+    },
+    {
+      "score": 0.770333,
+      "sentence": "She moved in before all of the couple's belongings had been removed and when she did homicide detectives moved in with her they searched the house and the shed three Powell used at the workshop we said everything from the the workshop garage to the laboratory for them to examine inside one of the bottles the FBI discovered that.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George Street Palin Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10472,
+            10478
+          ],
+          "text": "Powell"
+        },
+        {
+          "entities": [
+            {
+              "text": "addressed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10503,
+            10507
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.716302,
+      "sentence": "Under an assumed name and identity Susan gore attended a mensa murder mystery weekend which George and his wife Diana were hosting before I went to the weekend I spoke with the people up at the FBI behavioral science unit to see if I can get some tips on the type of person or type of personality that I should develop if I was to meet George DePaul when Goring arrive for the weekend she received a copy of the merger scenarios George Street Powell wrote for the participants one was a murder by poison.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9214,
+            9220
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "addressed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9199,
+            9204
+          ],
+          "text": "spoke"
+        }
+      ]
+    },
+    {
+      "score": 0.536579,
+      "sentence": "He was he was in but soon after their marriage Peggy began to question the long hours hi I was working at the mine he worked all the time.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peggy stepson Travis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            690,
+            695
+          ],
+          "text": "Peggy"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            675,
+            680
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.795291,
+      "sentence": "Under an assumed name and identity Susan gore attended a mensa murder mystery weekend which George and his wife Diana were hosting before I went to the weekend I spoke with the people up at the FBI behavioral science unit to see if I can get some tips on the type of person or type of personality that I should develop if I was to meet George DePaul when Goring arrive for the weekend she received a copy of the merger scenarios George Street Powell wrote for the participants one was a murder by poison.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "F. B. I. N. U",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9254,
+            9258
+          ],
+          "text": "unit"
+        },
+        {
+          "entities": [
+            {
+              "text": "FBI",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9231,
+            9234
+          ],
+          "text": "FBI"
+        }
+      ]
+    },
+    {
+      "score": 0.90122,
+      "sentence": "Under an assumed name and identity Susan gore attended a mensa murder mystery weekend which George and his wife Diana were hosting before I went to the weekend I spoke with the people up at the FBI behavioral science unit to see if I can get some tips on the type of person or type of personality that I should develop if I was to meet George DePaul when Goring arrive for the weekend she received a copy of the merger scenarios George Street Powell wrote for the participants one was a murder by poison.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George Street Palin Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9359,
+            9360
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "meet",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            9368,
+            9372
+          ],
+          "text": "meet"
+        }
+      ]
+    },
+    {
+      "score": 0.901387,
+      "sentence": "Under an assumed name and identity Susan gore attended a mensa murder mystery weekend which George and his wife Diana were hosting before I went to the weekend I spoke with the people up at the FBI behavioral science unit to see if I can get some tips on the type of person or type of personality that I should develop if I was to meet George DePaul when Goring arrive for the weekend she received a copy of the merger scenarios George Street Powell wrote for the participants one was a murder by poison.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George DePaul",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9373,
+            9386
+          ],
+          "text": "George DePaul"
+        },
+        {
+          "entities": [
+            {
+              "text": "meet",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            9368,
+            9372
+          ],
+          "text": "meet"
+        }
+      ]
+    },
+    {
+      "score": 0.946356,
+      "sentence": "Under an assumed name and identity Susan gore attended a mensa murder mystery weekend which George and his wife Diana were hosting before I went to the weekend I spoke with the people up at the FBI behavioral science unit to see if I can get some tips on the type of person or type of personality that I should develop if I was to meet George DePaul when Goring arrive for the weekend she received a copy of the merger scenarios George Street Powell wrote for the participants one was a murder by poison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George Street Palin Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9466,
+            9486
+          ],
+          "text": "George Street Powell"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9487,
+            9492
+          ],
+          "text": "wrote"
+        }
+      ]
+    },
+    {
+      "score": 0.592742,
+      "sentence": "George and his wife Diana moved they rented their old home to George's new friend Susan gore.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Diana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10232,
+            10237
+          ],
+          "text": "Diana"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10244,
+            10248
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.27558,
+      "sentence": "George and his wife Diana moved they rented their old home to George's new friend Susan gore.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10256,
+            10261
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10266,
+            10270
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.479113,
+      "sentence": "She moved in before all of the couple's belongings had been removed and when she did homicide detectives moved in with her they searched the house and the shed three Powell used at the workshop we said everything from the the workshop garage to the laboratory for them to examine inside one of the bottles the FBI discovered that.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Susan gore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10425,
+            10428
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10429,
+            10433
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.288028,
+      "sentence": "She moved in before all of the couple's belongings had been removed and when she did homicide detectives moved in with her they searched the house and the shed three Powell used at the workshop we said everything from the the workshop garage to the laboratory for them to examine inside one of the bottles the FBI discovered that.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10429,
+            10433
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10447,
+            10452
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.95117,
+      "sentence": "She moved in before all of the couple's belongings had been removed and when she did homicide detectives moved in with her they searched the house and the shed three Powell used at the workshop we said everything from the the workshop garage to the laboratory for them to examine inside one of the bottles the FBI discovered that.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10500,
+            10502
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "addressed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10503,
+            10507
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.439057,
+      "sentence": "Similar to the type found in the soda bottles in the car home we had a lot of circumstantial evidence but this was the only piece of real evidence that you could actually put your hands on the police then searched three thousand new homes and discovered a notebook George caption general poisoning guy.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "cars",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10690,
+            10693
+          ],
+          "text": "car"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10694,
+            10698
+          ],
+          "text": "home"
+        }
+      ]
+    }
+  ]
+}

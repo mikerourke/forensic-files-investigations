@@ -1,0 +1,4810 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 13890,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Donald ruby",
+      "relevance": 0.958061,
+      "confidence": 1,
+      "count": 15
+    },
+    {
+      "type": "Person",
+      "text": "Randy",
+      "relevance": 0.622335,
+      "confidence": 1,
+      "count": 18
+    },
+    {
+      "type": "Person",
+      "text": "Dr Haskell",
+      "relevance": 0.285434,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Edna",
+      "relevance": 0.253621,
+      "confidence": 1,
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Edna Posey",
+      "relevance": 0.217517,
+      "confidence": 0.999998,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Aetna Posey",
+      "relevance": 0.197632,
+      "confidence": 0.977083,
+      "count": 2
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Juniata river",
+      "relevance": 0.195889,
+      "confidence": 0.765376,
+      "count": 1,
+      "disambiguation": {
+        "name": "Juniata_River",
+        "dbpedia_resource": "http://dbpedia.org/resource/Juniata_River",
+        "subtype": [
+          "Location",
+          "BodyOfWater",
+          "River"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Jane doe",
+      "relevance": 0.184505,
+      "confidence": 0.983358,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Edna Posies",
+      "relevance": 0.162407,
+      "confidence": 0.994484,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty one year",
+      "relevance": 0.152273,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eleven year",
+      "relevance": 0.151743,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Forty two year",
+      "relevance": 0.137046,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Pennsylvania",
+      "relevance": 0.129865,
+      "confidence": 0.999764,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "One year",
+      "relevance": 0.121657,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Donald",
+      "relevance": 0.113714,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Donal ruby",
+      "relevance": 0.108395,
+      "confidence": 0.996926,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Posey",
+      "relevance": 0.101588,
+      "confidence": 0.999833,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Virginia",
+      "relevance": 0.087242,
+      "confidence": 1,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty four hours",
+      "relevance": 0.082721,
+      "confidence": 0.992,
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "Seven months",
+      "relevance": 0.082626,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Neil Haskell",
+      "relevance": 0.081235,
+      "confidence": 0.983995,
+      "count": 1,
+      "disambiguation": {
+        "name": "Neil_Haskell",
+        "dbpedia_resource": "http://dbpedia.org/resource/Neil_Haskell",
+        "subtype": [
+          "Actor",
+          "TVActor"
+        ]
+      }
+    },
+    {
+      "type": "HealthCondition",
+      "text": "scar",
+      "relevance": 0.080581,
+      "confidence": 0.985219,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Keller",
+      "relevance": 0.076184,
+      "confidence": 0.681435,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Harrisburg",
+      "relevance": 0.074743,
+      "confidence": 0.999008,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "ruby",
+      "relevance": 0.0722,
+      "confidence": 0.999798,
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "two days",
+      "relevance": 0.068846,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bob",
+      "relevance": 0.065932,
+      "confidence": 0.981348,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "relevance": 0.050899,
+      "confidence": 0.990654,
+      "count": 1,
+      "disambiguation": {
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    },
+    {
+      "type": "Organization",
+      "text": "peta",
+      "relevance": 0.041495,
+      "confidence": 0.896426,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Three years",
+      "relevance": 0.033938,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Ruby",
+      "relevance": 0.033795,
+      "confidence": 0.78162,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "cold",
+      "relevance": 0.028405,
+      "confidence": 0.695022,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three years",
+      "relevance": 0.025839,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "six years",
+      "relevance": 0.022999,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Middletown",
+      "relevance": 0.021084,
+      "confidence": 0.988833,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "nine day",
+      "relevance": 0.019229,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Haskell",
+      "relevance": 0.017242,
+      "confidence": 0.737703,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty one years",
+      "relevance": 0.016642,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "don",
+      "relevance": 0.014944,
+      "confidence": 0.965994,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eight years",
+      "relevance": 0.011152,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mr ruby",
+      "relevance": 0.009377,
+      "confidence": 0.96112,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "six hours",
+      "relevance": 0.009182,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Greece",
+      "relevance": 0.007652,
+      "confidence": 0.999579,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Oliver",
+      "relevance": 0.004602,
+      "confidence": 0.989887,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Saddam",
+      "relevance": 0.002955,
+      "confidence": 0.995019,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Adam",
+      "relevance": 0.002262,
+      "confidence": 0.971327,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.969346
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.799175
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.741374
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.693904
+    },
+    {
+      "label": "/society/crime/sexual offence/rape",
+      "score": 0.669192
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.609331
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.91497,
+      "sentence": "On a Sunday morning a fisherman and join the Juniata river in central Pennsylvania saw a large cardboard box at the river's edge.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "river",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            383,
+            388
+          ],
+          "text": "river"
+        },
+        {
+          "entities": [
+            {
+              "text": "central",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            392,
+            399
+          ],
+          "text": "central"
+        }
+      ]
+    },
+    {
+      "score": 0.831549,
+      "sentence": "One year after Jane doe the unidentified murder victim was buried in a pauper's grave in Pennsylvania police received what at first was a routine telephone calls.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "zodiac",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3046,
+            3052
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "Pennsylvania",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3033,
+            3045
+          ],
+          "text": "Pennsylvania"
+        }
+      ]
+    },
+    {
+      "score": 0.830872,
+      "sentence": "Randy clearly did not remember hearing a thump we asked him about it he said he had no independent recollection of it and thus we did not have the bump in the night to use as testimony.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Randy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12326,
+            12329
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12320,
+            12325
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.861391,
+      "sentence": "The defense also claimed that the hole in the car carrying at this body could have been made by thousands of vehicles with the same type of latch and Greece as was in ruby's car.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "defense team",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12460,
+            12467
+          ],
+          "text": "defense"
+        },
+        {
+          "entities": [
+            {
+              "text": "claimed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12473,
+            12480
+          ],
+          "text": "claimed"
+        }
+      ]
+    },
+    {
+      "score": 0.494368,
+      "sentence": "The defense also claimed that the hole in the car carrying at this body could have been made by thousands of vehicles with the same type of latch and Greece as was in ruby's car.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donal ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12623,
+            12627
+          ],
+          "text": "ruby"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            12630,
+            12633
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.295927,
+      "sentence": "After a nine day trial and six hours of deliberations the jury found Donald group the not guilty verdict which baffled as friends and family.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12704,
+            12710
+          ],
+          "text": "Donald"
+        },
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12711,
+            12716
+          ],
+          "text": "group"
+        }
+      ]
+    },
+    {
+      "score": 0.759729,
+      "sentence": "Just a total state of shock they could not like that that proved the case and then to have it thrown out like that and mother a lock in the streets I think it was a concern to a lot of people in there especially people who testified against him.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane doe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12896,
+            12902
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "streets",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12917,
+            12924
+          ],
+          "text": "streets"
+        }
+      ]
+    },
+    {
+      "score": 0.891007,
+      "sentence": "Just a total state of shock they could not like that that proved the case and then to have it thrown out like that and mother a lock in the streets I think it was a concern to a lot of people in there especially people who testified against him.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12996,
+            12999
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "testimony",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13000,
+            13009
+          ],
+          "text": "testified"
+        }
+      ]
+    },
+    {
+      "score": 0.850858,
+      "sentence": "Just a total state of shock they could not like that that proved the case and then to have it thrown out like that and mother a lock in the streets I think it was a concern to a lot of people in there especially people who testified against him.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Randy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13018,
+            13021
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "testimony",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13000,
+            13009
+          ],
+          "text": "testified"
+        }
+      ]
+    },
+    {
+      "score": 0.619656,
+      "sentence": "Virtually anyone with children.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "anyone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13301,
+            13307
+          ],
+          "text": "anyone"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13313,
+            13321
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.69141,
+      "sentence": "I don't propose to be an expert in the area but certainly.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "forensic entomologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13348,
+            13354
+          ],
+          "text": "expert"
+        },
+        {
+          "entities": [
+            {
+              "text": "area",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            13362,
+            13366
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.737432,
+      "sentence": "The lady opinion the leopard doesn't change its spots I'm convinced Saddam did not.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "forensic entomologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13436,
+            13437
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "its",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13426,
+            13429
+          ],
+          "text": "its"
+        }
+      ]
+    },
+    {
+      "score": 0.994448,
+      "sentence": "A woman told police that her ex sister in law at not Posey had been missing for a year.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane doe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3109,
+            3114
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3115,
+            3119
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.983131,
+      "sentence": "Not all the next date will be on his wife said they took it not shopping and dropped her off downtown.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane doe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5866,
+            5870
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5871,
+            5875
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.664139,
+      "sentence": "Donald ruby left town soon after the trial and no one not even his own lawyers know where he is today.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13583,
+            13594
+          ],
+          "text": "Donald ruby"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13620,
+            13625
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.331215,
+      "sentence": "Donald ruby left town soon after the trial and no one not even his own lawyers know where he is today.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13646,
+            13649
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "lawyers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13654,
+            13661
+          ],
+          "text": "lawyers"
+        }
+      ]
+    },
+    {
+      "score": 0.563868,
+      "sentence": "I basically thank me for testifying on his behalf and that.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "forensic entomologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13757,
+            13759
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "testifying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13764,
+            13774
+          ],
+          "text": "testifying"
+        }
+      ]
+    },
+    {
+      "score": 0.976782,
+      "sentence": "A woman told police that her ex sister in law at not Posey had been missing for a year.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3120,
+            3126
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3115,
+            3119
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.971864,
+      "sentence": "We'Ll be told police that Aetna Posey had come to their home to visit Wednesday on Friday night and planned to stay for the entire Memorial Day weekend.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5690,
+            5696
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5685,
+            5689
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.959592,
+      "sentence": "But Edna son Randy told police a slightly different story.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6200,
+            6206
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6195,
+            6199
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.949263,
+      "sentence": "Should start explaining how right now I would say I can't wear a bikini because of my molds this sounded strikingly similar to the birth marks found on the body there Jane doe a year earlier.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane doe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3305,
+            3306
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3313,
+            3316
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.833673,
+      "sentence": "The caller also said Edna Posey always wore a belt with the zodiac buckle.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "caller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3463,
+            3469
+          ],
+          "text": "caller"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3475,
+            3479
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.902108,
+      "sentence": "The policy was a thirty one year old single mother of an eleven year old boy Randy.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane doe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3578,
+            3584
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "thirty one year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            3551,
+            3570
+          ],
+          "text": "thirty one year old"
+        }
+      ]
+    },
+    {
+      "score": 0.522878,
+      "sentence": "The policy was a thirty one year old single mother of an eleven year old boy Randy.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane doe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3578,
+            3584
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "eleven year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            3591,
+            3606
+          ],
+          "text": "eleven year old"
+        }
+      ]
+    },
+    {
+      "score": 0.469436,
+      "sentence": "The policy was a thirty one year old single mother of an eleven year old boy Randy.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane doe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3578,
+            3584
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "forensic entomologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3607,
+            3610
+          ],
+          "text": "boy"
+        }
+      ]
+    },
+    {
+      "score": 0.902592,
+      "sentence": "The policy was a thirty one year old single mother of an eleven year old boy Randy.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "forensic entomologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3607,
+            3610
+          ],
+          "text": "boy"
+        },
+        {
+          "entities": [
+            {
+              "text": "eleven year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            3591,
+            3606
+          ],
+          "text": "eleven year old"
+        }
+      ]
+    },
+    {
+      "score": 0.199987,
+      "sentence": "The policy was a thirty one year old single mother of an eleven year old boy Randy.",
+      "type": "relative",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "forensic entomologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3607,
+            3610
+          ],
+          "text": "boy"
+        },
+        {
+          "entities": [
+            {
+              "text": "Randy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3611,
+            3616
+          ],
+          "text": "Randy"
+        }
+      ]
+    },
+    {
+      "score": 0.446717,
+      "sentence": "On a Sunday morning a fisherman and join the Juniata river in central Pennsylvania saw a large cardboard box at the river's edge.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "river",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            383,
+            388
+          ],
+          "text": "river"
+        },
+        {
+          "entities": [
+            {
+              "text": "Pennsylvania",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            400,
+            412
+          ],
+          "text": "Pennsylvania"
+        }
+      ]
+    },
+    {
+      "score": 0.583638,
+      "sentence": "She would meet men in bars quickly move in with them and just as quickly move out only to repeat the same pattern again and again.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3937,
+            3940
+          ],
+          "text": "men"
+        },
+        {
+          "entities": [
+            {
+              "text": "bars",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            3944,
+            3948
+          ],
+          "text": "bars"
+        }
+      ]
+    },
+    {
+      "score": 0.509218,
+      "sentence": "And she would sometimes disappear for months at a time without saying a word to anyone.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "anyone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4133,
+            4139
+          ],
+          "text": "anyone"
+        },
+        {
+          "entities": [
+            {
+              "text": "saying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4116,
+            4122
+          ],
+          "text": "saying"
+        }
+      ]
+    },
+    {
+      "score": 0.329673,
+      "sentence": "And no was able to admit that her life was out of control and it asked Donald ruby first on Randy's boy scout leader if Randy could move in with him.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Randy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4233,
+            4238
+          ],
+          "text": "Randy"
+        },
+        {
+          "entities": [
+            {
+              "text": "forensic entomologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4241,
+            4244
+          ],
+          "text": "boy"
+        }
+      ]
+    },
+    {
+      "score": 0.445517,
+      "sentence": "Donald ruby how to boy scout troop that was comprised largely of of boys who had.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4291,
+            4302
+          ],
+          "text": "Donald ruby"
+        },
+        {
+          "entities": [
+            {
+              "text": "troop",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4320,
+            4325
+          ],
+          "text": "troop"
+        }
+      ]
+    },
+    {
+      "score": 0.287881,
+      "sentence": "Donald ruby how to boy scout troop that was comprised largely of of boys who had.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "forensic entomologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4310,
+            4319
+          ],
+          "text": "boy scout"
+        },
+        {
+          "entities": [
+            {
+              "text": "troop",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4320,
+            4325
+          ],
+          "text": "troop"
+        }
+      ]
+    },
+    {
+      "score": 0.437042,
+      "sentence": "Problems in their lives most of them were in families with both mothers only the boys had been into trouble and Donald took this group of boys and formed his own troupe with it.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4405,
+            4409
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "families",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4418,
+            4426
+          ],
+          "text": "families"
+        }
+      ]
+    },
+    {
+      "score": 0.84531,
+      "sentence": "Randy moved in with Donald ruby and his wife and live with them as if he were on sun.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Randy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4551,
+            4556
+          ],
+          "text": "Randy"
+        },
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4610,
+            4614
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.68201,
+      "sentence": "Randy moved in with Donald ruby and his wife and live with them as if he were on sun.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4587,
+            4590
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Jane doe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4591,
+            4595
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.603717,
+      "sentence": "Not all the next date will be on his wife said they took it not shopping and dropped her off downtown.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5862,
+            5865
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Jane doe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5866,
+            5870
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.765098,
+      "sentence": "Donald ruby second trial his defense was the same as the first product that he and his wife dropped at the off on Saturday morning to go shopping.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11255,
+            11258
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Jane doe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11259,
+            11263
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.74588,
+      "sentence": "Randy moved in with Donald ruby and his wife and live with them as if he were on sun.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane doe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4591,
+            4595
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4610,
+            4614
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.617836,
+      "sentence": "While many applauded him for his efforts with troubled youngsters some questioned his motives.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "forensic entomologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4747,
+            4750
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "questioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4789,
+            4799
+          ],
+          "text": "questioned"
+        }
+      ]
+    },
+    {
+      "score": 0.963738,
+      "sentence": "On a Sunday morning a fisherman and join the Juniata river in central Pennsylvania saw a large cardboard box at the river's edge.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "central",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            392,
+            399
+          ],
+          "text": "central"
+        },
+        {
+          "entities": [
+            {
+              "text": "Pennsylvania",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            400,
+            412
+          ],
+          "text": "Pennsylvania"
+        }
+      ]
+    },
+    {
+      "score": 0.464612,
+      "sentence": "That number over a hundred fifty miles away to Virginia where she took a job as a dental technician while trying to get her life back on track.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "she",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5062,
+            5065
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "Virginia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5047,
+            5055
+          ],
+          "text": "Virginia"
+        }
+      ]
+    },
+    {
+      "score": 0.987517,
+      "sentence": "This is admins co worker who asked not to be identified for fear of her safety.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "forensic entomologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5169,
+            5172
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5173,
+            5178
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.645057,
+      "sentence": "She was saving her money and sometimes in that particular time period she met a young soldier in the army band in Virginia and now they became quite close to and not all was going to move in together and bring Randy down.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "she",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5294,
+            5297
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5355,
+            5359
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.384579,
+      "sentence": "She was saving her money and sometimes in that particular time period she met a young soldier in the army band in Virginia and now they became quite close to and not all was going to move in together and bring Randy down.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "forensic entomologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5310,
+            5317
+          ],
+          "text": "soldier"
+        },
+        {
+          "entities": [
+            {
+              "text": "army band",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5325,
+            5334
+          ],
+          "text": "army band"
+        }
+      ]
+    },
+    {
+      "score": 0.793552,
+      "sentence": "She was saving her money and sometimes in that particular time period she met a young soldier in the army band in Virginia and now they became quite close to and not all was going to move in together and bring Randy down.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "forensic entomologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5310,
+            5317
+          ],
+          "text": "soldier"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5355,
+            5359
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.536426,
+      "sentence": "She was saving her money and sometimes in that particular time period she met a young soldier in the army band in Virginia and now they became quite close to and not all was going to move in together and bring Randy down.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "army band",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5325,
+            5334
+          ],
+          "text": "army band"
+        },
+        {
+          "entities": [
+            {
+              "text": "Virginia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5338,
+            5346
+          ],
+          "text": "Virginia"
+        }
+      ]
+    },
+    {
+      "score": 0.940746,
+      "sentence": "To be with them and police believe that Donald ruby was threatened by the loss of Randy.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5486,
+            5497
+          ],
+          "text": "Donald ruby"
+        },
+        {
+          "entities": [
+            {
+              "text": "threatened",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5502,
+            5512
+          ],
+          "text": "threatened"
+        }
+      ]
+    },
+    {
+      "score": 0.905184,
+      "sentence": "We believed and argued that Donald did not want to give up Randy as his son.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5599,
+            5601
+          ],
+          "text": "We"
+        },
+        {
+          "entities": [
+            {
+              "text": "argued",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5615,
+            5621
+          ],
+          "text": "argued"
+        }
+      ]
+    },
+    {
+      "score": 0.844555,
+      "sentence": "We believed and argued that Donald did not want to give up Randy as his son.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5667,
+            5670
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "forensic entomologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5671,
+            5674
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.551862,
+      "sentence": "We'Ll be told police that Aetna Posey had come to their home to visit Wednesday on Friday night and planned to stay for the entire Memorial Day weekend.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Friday night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            5759,
+            5771
+          ],
+          "text": "Friday night"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5685,
+            5689
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.96458,
+      "sentence": "He identified the eggs as those of the blue bottle fly and the black blow fly both common in many areas of the United States.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "fisherman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1883,
+            1885
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "identified",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1886,
+            1896
+          ],
+          "text": "identified"
+        }
+      ]
+    },
+    {
+      "score": 0.800094,
+      "sentence": "We'Ll be told police that Aetna Posey had come to their home to visit Wednesday on Friday night and planned to stay for the entire Memorial Day weekend.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Edna Posies",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5708,
+            5713
+          ],
+          "text": "Posey"
+        },
+        {
+          "entities": [
+            {
+              "text": "Aetna Posey",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5702,
+            5707
+          ],
+          "text": "Aetna"
+        }
+      ]
+    },
+    {
+      "score": 0.483274,
+      "sentence": "We'Ll be told police that Aetna Posey had come to their home to visit Wednesday on Friday night and planned to stay for the entire Memorial Day weekend.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5726,
+            5731
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5732,
+            5736
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.502813,
+      "sentence": "Not all the next date will be on his wife said they took it not shopping and dropped her off downtown.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "next date",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            5841,
+            5850
+          ],
+          "text": "next date"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5871,
+            5875
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.499263,
+      "sentence": "Not all the next date will be on his wife said they took it not shopping and dropped her off downtown.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5862,
+            5865
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5876,
+            5880
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.8808,
+      "sentence": "Not all the next date will be on his wife said they took it not shopping and dropped her off downtown.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane doe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5866,
+            5870
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5876,
+            5880
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.996821,
+      "sentence": "But Edna son Randy told police a slightly different story.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Edna son Randy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6180,
+            6194
+          ],
+          "text": "Edna son Randy"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6195,
+            6199
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.9981,
+      "sentence": "He said he last saw his mother on Friday night when she kissed him good night.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6235,
+            6237
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6238,
+            6242
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.997927,
+      "sentence": "He said he heard a loud noise coming from the bedroom where his mother was.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6334,
+            6336
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6337,
+            6341
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.997832,
+      "sentence": "He said when he woke up the next day his mother was gone.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6410,
+            6412
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6413,
+            6417
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.599185,
+      "sentence": "He said he last saw his mother on Friday night when she kissed him good night.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane doe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6259,
+            6265
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6255,
+            6258
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.668572,
+      "sentence": "He said he heard a loud noise coming from the bedroom where his mother was.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane doe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6398,
+            6404
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6394,
+            6397
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.729894,
+      "sentence": "He said when he woke up the next day his mother was gone.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane doe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6451,
+            6457
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6447,
+            6450
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.826883,
+      "sentence": "He said he last saw his mother on Friday night when she kissed him good night.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Friday night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            6269,
+            6281
+          ],
+          "text": "Friday night"
+        },
+        {
+          "entities": [
+            {
+              "text": "kissed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6291,
+            6297
+          ],
+          "text": "kissed"
+        }
+      ]
+    },
+    {
+      "score": 0.994811,
+      "sentence": "He said he last saw his mother on Friday night when she kissed him good night.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane doe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6287,
+            6290
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "kissed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6291,
+            6297
+          ],
+          "text": "kissed"
+        }
+      ]
+    },
+    {
+      "score": 0.510901,
+      "sentence": "The pathologist found semen present during the autopsy but there was no evidence of rape and there was no way to identify the man since this was before DNA testing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "pathologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2394,
+            2405
+          ],
+          "text": "pathologist"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            2474,
+            2478
+          ],
+          "text": "rape"
+        }
+      ]
+    },
+    {
+      "score": 0.912663,
+      "sentence": "He said he last saw his mother on Friday night when she kissed him good night.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6298,
+            6301
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "kissed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6291,
+            6297
+          ],
+          "text": "kissed"
+        }
+      ]
+    },
+    {
+      "score": 0.830488,
+      "sentence": "He said he last saw his mother on Friday night when she kissed him good night.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            6307,
+            6312
+          ],
+          "text": "night"
+        },
+        {
+          "entities": [
+            {
+              "text": "kissed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6291,
+            6297
+          ],
+          "text": "kissed"
+        }
+      ]
+    },
+    {
+      "score": 0.208107,
+      "sentence": "He said he heard a loud noise coming from the bedroom where his mother was.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane doe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6398,
+            6404
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6388,
+            6393
+          ],
+          "text": "where"
+        }
+      ]
+    },
+    {
+      "score": 0.487693,
+      "sentence": "If the forensic entomologist with corrected his estimate of the time of that the staff the noise Randy heard on Friday night may have been his mother's murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Randy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6565,
+            6570
+          ],
+          "text": "Randy"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6620,
+            6626
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.757032,
+      "sentence": "If the forensic entomologist with corrected his estimate of the time of that the staff the noise Randy heard on Friday night may have been his mother's murder.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane doe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6611,
+            6617
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Randy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6607,
+            6610
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.71889,
+      "sentence": "At the original trial Randy said he heard a loud thump from his mother's bedroom late on Friday night.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane doe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12145,
+            12151
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Randy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12141,
+            12144
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.483717,
+      "sentence": "When police searched Donal ruby's trunk they found the same type of grease that was found on the box holding at the Posies for so.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donal ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6649,
+            6659
+          ],
+          "text": "Donal ruby"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6668,
+            6672
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.950675,
+      "sentence": "Prosecutors now believe that Donald ruby murdered the policy on Friday.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6892,
+            6903
+          ],
+          "text": "Donald ruby"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6904,
+            6912
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.695121,
+      "sentence": "When Donald ruby was charged with the murder of that not policy.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6940,
+            6951
+          ],
+          "text": "Donald ruby"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6973,
+            6979
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.771356,
+      "sentence": "How could you do this to another person I bet it wasn't a lie he just shot her and you know there was no pain and his dad if the cruel cruel way that he killed her and it was just almost unbelievable to me that you could do that to another human being.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7951,
+            7953
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7959,
+            7963
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.940433,
+      "sentence": "How could you do this to another person I bet it wasn't a lie he just shot her and you know there was no pain and his dad if the cruel cruel way that he killed her and it was just almost unbelievable to me that you could do that to another human being.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8039,
+            8041
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            8042,
+            8048
+          ],
+          "text": "killed"
+        }
+      ]
+    },
+    {
+      "score": 0.947641,
+      "sentence": "Prosecutors now believe that Donald ruby murdered the policy on Friday.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Friday",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            6927,
+            6933
+          ],
+          "text": "Friday"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6904,
+            6912
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.664351,
+      "sentence": "When Donald ruby was charged with the murder of that not policy.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6940,
+            6951
+          ],
+          "text": "Donald ruby"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6956,
+            6963
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.584539,
+      "sentence": "He'S heard some unsettling news about his life with Edna's son Randy.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Edna Posies",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7052,
+            7056
+          ],
+          "text": "Edna"
+        },
+        {
+          "entities": [
+            {
+              "text": "Randy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7059,
+            7062
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.4034,
+      "sentence": "The pathologist found semen present during the autopsy but there was no evidence of rape and there was no way to identify the man since this was before DNA testing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "forensic entomologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2516,
+            2519
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            2474,
+            2478
+          ],
+          "text": "rape"
+        }
+      ]
+    },
+    {
+      "score": 0.468808,
+      "sentence": "One year after Jane doe the unidentified murder victim was buried in a pauper's grave in Pennsylvania police received what at first was a routine telephone calls.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "forensic entomologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2992,
+            2998
+          ],
+          "text": "victim"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            2985,
+            2991
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.92729,
+      "sentence": "We'Ll explore prosecutors said that was evidence of pedophile.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7405,
+            7416
+          ],
+          "text": "prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7417,
+            7421
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.986948,
+      "sentence": "They said that the grease and styrofoam evidence on the box containing at those body those circumstantial tied ruby to the crime.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7560,
+            7564
+          ],
+          "text": "They"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7565,
+            7569
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.874343,
+      "sentence": "That ruby had a sexual fixation with Randy and killed Edna to keep her from regaining custody of her son.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donal ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7551,
+            7554
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "forensic entomologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7555,
+            7558
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.487824,
+      "sentence": "Three years after Edna Posies disappearance Donald ruby was convicted of her murder and sentenced to life in prison.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Edna Posies",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7708,
+            7719
+          ],
+          "text": "Edna Posies"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            7778,
+            7787
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.605934,
+      "sentence": "Three years after Edna Posies disappearance Donald ruby was convicted of her murder and sentenced to life in prison.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Edna Posies",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7763,
+            7766
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            7778,
+            7787
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.447934,
+      "sentence": "Three years after Edna Posies disappearance Donald ruby was convicted of her murder and sentenced to life in prison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7734,
+            7745
+          ],
+          "text": "Donald ruby"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            7750,
+            7759
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.529511,
+      "sentence": "Three years after Edna Posies disappearance Donald ruby was convicted of her murder and sentenced to life in prison.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7734,
+            7745
+          ],
+          "text": "Donald ruby"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7799,
+            7805
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.829477,
+      "sentence": "Three years after Edna Posies disappearance Donald ruby was convicted of her murder and sentenced to life in prison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Edna Posies",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7763,
+            7766
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7767,
+            7773
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.773665,
+      "sentence": "Dr Haskell believes these ads were on at the Posies body for only a short time meaning that Edna Posey was killed sometime late Saturday night or early Sunday morning not Friday night as the original entomologist estimated.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Edna Posies",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9384,
+            9394
+          ],
+          "text": "Edna Posey"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9399,
+            9405
+          ],
+          "text": "killed"
+        }
+      ]
+    },
+    {
+      "score": 0.58994,
+      "sentence": "And as family and friends believed that a cold blooded killer had gotten justice.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7825,
+            7832
+          ],
+          "text": "friends"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            7862,
+            7868
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.524905,
+      "sentence": "How could you do this to another person I bet it wasn't a lie he just shot her and you know there was no pain and his dad if the cruel cruel way that he killed her and it was just almost unbelievable to me that you could do that to another human being.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Edna Posies",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7964,
+            7967
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7959,
+            7963
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.51658,
+      "sentence": "How could you do this to another person I bet it wasn't a lie he just shot her and you know there was no pain and his dad if the cruel cruel way that he killed her and it was just almost unbelievable to me that you could do that to another human being.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Edna Posies",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8049,
+            8052
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            8042,
+            8048
+          ],
+          "text": "killed"
+        }
+      ]
+    },
+    {
+      "score": 0.236407,
+      "sentence": "From behind bars Donald ruby maintained his innocence he said had not had countless low life lovers and anyone could have committed the crime.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8159,
+            8170
+          ],
+          "text": "Donald ruby"
+        },
+        {
+          "entities": [
+            {
+              "text": "bars",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            8154,
+            8158
+          ],
+          "text": "bars"
+        }
+      ]
+    },
+    {
+      "score": 0.99456,
+      "sentence": "From behind bars Donald ruby maintained his innocence he said had not had countless low life lovers and anyone could have committed the crime.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8196,
+            8198
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8199,
+            8203
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.992885,
+      "sentence": "We said from the very beginning if we if we find out who she is will find out who who Keller missing persons reports were checked but no one the description of the torso.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspects",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2650,
+            2652
+          ],
+          "text": "We"
+        },
+        {
+          "entities": [
+            {
+              "text": "argued",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2653,
+            2657
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.915139,
+      "sentence": "They claimed there was no proof Donald ruby was a peta files and that his rights were violated when jurors heard that testimony.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "lovers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8285,
+            8289
+          ],
+          "text": "They"
+        },
+        {
+          "entities": [
+            {
+              "text": "claimed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8290,
+            8297
+          ],
+          "text": "claimed"
+        }
+      ]
+    },
+    {
+      "score": 0.985535,
+      "sentence": "But in reading the medical examiner's report Dr Haskell noticed an inconsistency.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "forensic entomologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8661,
+            8677
+          ],
+          "text": "medical examiner"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8680,
+            8686
+          ],
+          "text": "report"
+        }
+      ]
+    },
+    {
+      "score": 0.633663,
+      "sentence": "But in reading the medical examiner's report Dr Haskell noticed an inconsistency.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Haskell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8687,
+            8689
+          ],
+          "text": "Dr"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8680,
+            8686
+          ],
+          "text": "report"
+        }
+      ]
+    },
+    {
+      "score": 0.988431,
+      "sentence": "At the autopsy the medical examiner said he found eggs but not large.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "forensic entomologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8743,
+            8759
+          ],
+          "text": "medical examiner"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8760,
+            8764
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.5371,
+      "sentence": "This meant that the eggs had three additional days to feed on the flash and develop before they were analyzed I'm trying to avoid saying the coppers.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "forensic entomologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9076,
+            9077
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "saying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9096,
+            9102
+          ],
+          "text": "saying"
+        }
+      ]
+    },
+    {
+      "score": 0.414669,
+      "sentence": "Dr Haskell believes these ads were on at the Posies body for only a short time meaning that Edna Posey was killed sometime late Saturday night or early Sunday morning not Friday night as the original entomologist estimated.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "forensic entomologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9344,
+            9348
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "Posies",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9337,
+            9343
+          ],
+          "text": "Posies"
+        }
+      ]
+    },
+    {
+      "score": 0.712827,
+      "sentence": "Dr Haskell believes these ads were on at the Posies body for only a short time meaning that Edna Posey was killed sometime late Saturday night or early Sunday morning not Friday night as the original entomologist estimated.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Edna Posies",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9384,
+            9394
+          ],
+          "text": "Edna Posey"
+        },
+        {
+          "entities": [
+            {
+              "text": "Posies",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9337,
+            9343
+          ],
+          "text": "Posies"
+        }
+      ]
+    },
+    {
+      "score": 0.864015,
+      "sentence": "Dr Haskell believes these ads were on at the Posies body for only a short time meaning that Edna Posey was killed sometime late Saturday night or early Sunday morning not Friday night as the original entomologist estimated.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Saturday night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            9420,
+            9434
+          ],
+          "text": "Saturday night"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9399,
+            9405
+          ],
+          "text": "killed"
+        }
+      ]
+    },
+    {
+      "score": 0.865955,
+      "sentence": "Dr Haskell believes these ads were on at the Posies body for only a short time meaning that Edna Posey was killed sometime late Saturday night or early Sunday morning not Friday night as the original entomologist estimated.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "early Sunday morning",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            9438,
+            9458
+          ],
+          "text": "early Sunday morning"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9399,
+            9405
+          ],
+          "text": "killed"
+        }
+      ]
+    },
+    {
+      "score": 0.901039,
+      "sentence": "Dr Haskell believes these ads were on at the Posies body for only a short time meaning that Edna Posey was killed sometime late Saturday night or early Sunday morning not Friday night as the original entomologist estimated.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Friday night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            9463,
+            9475
+          ],
+          "text": "Friday night"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9399,
+            9405
+          ],
+          "text": "killed"
+        }
+      ]
+    },
+    {
+      "score": 0.573837,
+      "sentence": "We said from the very beginning if we if we find out who she is will find out who who Keller missing persons reports were checked but no one the description of the torso.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Keller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2736,
+            2742
+          ],
+          "text": "Keller"
+        },
+        {
+          "entities": [
+            {
+              "text": "entomologists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2732,
+            2735
+          ],
+          "text": "who"
+        }
+      ]
+    },
+    {
+      "score": 0.509215,
+      "sentence": "When the fisherman found the body on Sunday morning he said there was no deal or condensation along the path the box traveled down the embankment.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sunday morning",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            9831,
+            9845
+          ],
+          "text": "Sunday morning"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9849,
+            9853
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.990108,
+      "sentence": "When the fisherman found the body on Sunday morning he said there was no deal or condensation along the path the box traveled down the embankment.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "forensic entomologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9846,
+            9848
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9849,
+            9853
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.991239,
+      "sentence": "The medical examiner said there was smoke toll or moving sperm in Edna's body at the autopsy.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "forensic entomologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10015,
+            10031
+          ],
+          "text": "medical examiner"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10032,
+            10036
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.545851,
+      "sentence": "After six years in prison Donald ruby was granted a new trial.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10274,
+            10285
+          ],
+          "text": "Donald ruby"
+        },
+        {
+          "entities": [
+            {
+              "text": "granted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10290,
+            10297
+          ],
+          "text": "granted"
+        }
+      ]
+    },
+    {
+      "score": 0.432115,
+      "sentence": "And ruby's new defense team had a surprise piece of evidence.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donal ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10315,
+            10319
+          ],
+          "text": "ruby"
+        },
+        {
+          "entities": [
+            {
+              "text": "defense team",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10326,
+            10338
+          ],
+          "text": "defense team"
+        }
+      ]
+    },
+    {
+      "score": 0.756571,
+      "sentence": "This time using new DNA technology which wasn't available at Donald ruby's first trial.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10545,
+            10556
+          ],
+          "text": "Donald ruby"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10565,
+            10570
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.700004,
+      "sentence": "Donald ruby second trial his defense was the same as the first product that he and his wife dropped at the off on Saturday morning to go shopping.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11172,
+            11183
+          ],
+          "text": "Donald ruby"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11191,
+            11196
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.464188,
+      "sentence": "Permit remain mobile in a dead person for only twenty four hours we had at least three people by the evidence who were with her and had sex with her less than twenty four hours before her body was discovered we were able to exploit that in the trial by planting the suggestion that that Edna true to form had.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donal ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10915,
+            10918
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10901,
+            10904
+          ],
+          "text": "who"
+        }
+      ]
+    },
+    {
+      "score": 0.569119,
+      "sentence": "gotten on the wild side when she was dropped off in Middletown by don.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donal ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11130,
+            11133
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "Middletown",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11153,
+            11163
+          ],
+          "text": "Middletown"
+        }
+      ]
+    },
+    {
+      "score": 0.581114,
+      "sentence": "His attorneys implied that one or more of the unidentified men who had sex with her on Saturday night may have been the killer.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11375,
+            11378
+          ],
+          "text": "His"
+        },
+        {
+          "entities": [
+            {
+              "text": "attorneys",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11379,
+            11388
+          ],
+          "text": "attorneys"
+        }
+      ]
+    },
+    {
+      "score": 0.878818,
+      "sentence": "We might have committed this murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11616,
+            11618
+          ],
+          "text": "We"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11645,
+            11651
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.939427,
+      "sentence": "The other new piece of forensic evidence with doctor Haskell's testimony with his view that the original time of death was inaccurate.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Haskell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11706,
+            11713
+          ],
+          "text": "Haskell"
+        },
+        {
+          "entities": [
+            {
+              "text": "testimony",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11716,
+            11725
+          ],
+          "text": "testimony"
+        }
+      ]
+    },
+    {
+      "score": 0.767903,
+      "sentence": "One year after Jane doe the unidentified murder victim was buried in a pauper's grave in Pennsylvania police received what at first was a routine telephone calls.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane doe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2959,
+            2963
+          ],
+          "text": "Jane"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            2985,
+            2991
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.755558,
+      "sentence": "If the forensic entomologist with corrected his estimate of the time of that the staff the noise Randy heard on Friday night may have been his mother's murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane doe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6611,
+            6617
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6620,
+            6626
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.972496,
+      "sentence": "He testified that improper preservation of the entomological evidence because an accurate estimation of the time of day.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11788,
+            11790
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11791,
+            11800
+          ],
+          "text": "testified"
+        }
+      ]
+    },
+    {
+      "score": 0.971517,
+      "sentence": "He told the jury at the Posey died late Saturday night or early Sunday morning not on Friday night as originally claimed.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11909,
+            11911
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11912,
+            11916
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.613462,
+      "sentence": "He told the jury at the Posey died late Saturday night or early Sunday morning not on Friday night as originally claimed.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "jury",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11921,
+            11925
+          ],
+          "text": "jury"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11912,
+            11916
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.822847,
+      "sentence": "He told the jury at the Posey died late Saturday night or early Sunday morning not on Friday night as originally claimed.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Friday night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            11995,
+            12007
+          ],
+          "text": "Friday night"
+        },
+        {
+          "entities": [
+            {
+              "text": "claimed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12022,
+            12029
+          ],
+          "text": "claimed"
+        }
+      ]
+    },
+    {
+      "score": 0.897909,
+      "sentence": "Further helping ruby's case was at the sun Randy.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donal ruby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12047,
+            12051
+          ],
+          "text": "ruby"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12054,
+            12058
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.427239,
+      "sentence": "At the original trial Randy said he heard a loud thump from his mother's bedroom late on Friday night.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Randy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12103,
+            12108
+          ],
+          "text": "Randy"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12097,
+            12102
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.99711,
+      "sentence": "At the original trial Randy said he heard a loud thump from his mother's bedroom late on Friday night.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Randy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12103,
+            12108
+          ],
+          "text": "Randy"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12109,
+            12113
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.996912,
+      "sentence": "Randy clearly did not remember hearing a thump we asked him about it he said he had no independent recollection of it and thus we did not have the bump in the night to use as testimony.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Randy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12339,
+            12341
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12342,
+            12346
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.692037,
+      "sentence": "At the original trial Randy said he heard a loud thump from his mother's bedroom late on Friday night.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane doe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12145,
+            12151
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12154,
+            12161
+          ],
+          "text": "bedroom"
+        }
+      ]
+    },
+    {
+      "score": 0.982978,
+      "sentence": "But eight years later Randy now twenty one years old recalled nothing about the fact.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Randy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12206,
+            12211
+          ],
+          "text": "Randy"
+        },
+        {
+          "entities": [
+            {
+              "text": "twenty one years old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            12216,
+            12236
+          ],
+          "text": "twenty one years old"
+        }
+      ]
+    },
+    {
+      "score": 0.99455,
+      "sentence": "Randy clearly did not remember hearing a thump we asked him about it he said he had no independent recollection of it and thus we did not have the bump in the night to use as testimony.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12317,
+            12319
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12320,
+            12325
+          ],
+          "text": "asked"
+        }
+      ]
+    }
+  ]
+}

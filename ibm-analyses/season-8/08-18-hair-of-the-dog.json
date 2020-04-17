@@ -1,0 +1,4802 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 14862,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "John",
+      "relevance": 0.96202,
+      "confidence": 1,
+      "count": 27
+    },
+    {
+      "type": "Person",
+      "text": "John Hubbell",
+      "relevance": 0.865157,
+      "confidence": 1,
+      "count": 8
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty eight year",
+      "relevance": 0.448683,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty second",
+      "relevance": 0.382622,
+      "confidence": 0.992,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Sharon",
+      "relevance": 0.356228,
+      "confidence": 1,
+      "count": 9
+    },
+    {
+      "type": "Location",
+      "text": "Greybull",
+      "relevance": 0.342501,
+      "confidence": 0.99995,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Sharon Snyder",
+      "relevance": 0.327773,
+      "confidence": 0.99955,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Havel",
+      "relevance": 0.30025,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "John apples",
+      "relevance": 0.266971,
+      "confidence": 0.938197,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "apple",
+      "relevance": 0.254636,
+      "confidence": 1,
+      "count": 5,
+      "disambiguation": {
+        "name": "Apple_Inc.",
+        "dbpedia_resource": "http://dbpedia.org/resource/Apple_Inc.",
+        "subtype": [
+          "Brand",
+          "OperatingSystemDeveloper",
+          "ProcessorManufacturer",
+          "ProgrammingLanguageDesigner",
+          "ProgrammingLanguageDeveloper",
+          "ProtocolProvider",
+          "SoftwareDeveloper",
+          "VentureFundedCompany",
+          "VideoGameDeveloper",
+          "VideoGamePublisher"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Wyoming",
+      "relevance": 0.247849,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Quantity",
+      "text": "three year",
+      "relevance": 0.228037,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "kisha",
+      "relevance": 0.227718,
+      "confidence": 0.91693,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kisha",
+      "relevance": 0.21902,
+      "confidence": 0.952683,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "John Heppell",
+      "relevance": 0.210763,
+      "confidence": 0.997579,
+      "count": 1,
+      "disambiguation": {
+        "name": "John_Heppell",
+        "dbpedia_resource": "http://dbpedia.org/resource/John_Heppell",
+        "subtype": [
+          "Politician",
+          "MemberOfParliament"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Andrew rich",
+      "relevance": 0.19908,
+      "confidence": 0.999993,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Andrew Richmond",
+      "relevance": 0.189329,
+      "confidence": 0.996993,
+      "count": 1,
+      "disambiguation": {
+        "name": "Andrew_Richmond",
+        "dbpedia_resource": "http://dbpedia.org/resource/Andrew_Richmond"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Sherin Schneider",
+      "relevance": 0.189037,
+      "confidence": 0.974577,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eighteen hour",
+      "relevance": 0.188034,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "John Hipple",
+      "relevance": 0.18633,
+      "confidence": 0.994899,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Harding",
+      "relevance": 0.186063,
+      "confidence": 0.999963,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Andy riches",
+      "relevance": 0.171754,
+      "confidence": 0.965312,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "rich",
+      "relevance": 0.160064,
+      "confidence": 0.985696,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Andy rich",
+      "relevance": 0.15395,
+      "confidence": 0.999412,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "cold",
+      "relevance": 0.146949,
+      "confidence": 0.963259,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Mike Harding",
+      "relevance": 0.12288,
+      "confidence": 0.999469,
+      "count": 1,
+      "disambiguation": {
+        "name": "Mike_Harding",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mike_Harding",
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Douglass",
+      "relevance": 0.121915,
+      "confidence": 0.982612,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two months",
+      "relevance": 0.110875,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Texas",
+      "relevance": 0.095559,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Alverson",
+      "relevance": 0.091862,
+      "confidence": 0.853327,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Johns",
+      "relevance": 0.085029,
+      "confidence": 0.436522,
+      "count": 1,
+      "disambiguation": {
+        "name": "Valjean",
+        "dbpedia_resource": "http://dbpedia.org/resource/Valjean",
+        "subtype": [
+          "MusicalArtist"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Hubble",
+      "relevance": 0.079788,
+      "confidence": 0.993563,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "FBI",
+      "relevance": 0.075894,
+      "confidence": 0.995602,
+      "count": 1,
+      "disambiguation": {
+        "name": "Federal_Bureau_of_Investigation",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation",
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "pistole",
+      "relevance": 0.074398,
+      "confidence": 0.980426,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Richard",
+      "relevance": 0.073808,
+      "confidence": 0.999975,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Adams",
+      "relevance": 0.071571,
+      "confidence": 0.933984,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Andy",
+      "relevance": 0.070229,
+      "confidence": 0.99982,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "sprint",
+      "relevance": 0.069357,
+      "confidence": 0.365148,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Snyder",
+      "relevance": 0.065464,
+      "confidence": 0.98286,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mike",
+      "relevance": 0.063802,
+      "confidence": 0.994625,
+      "count": 1
+    },
+    {
+      "type": "Sport",
+      "text": "gold Cup",
+      "relevance": 0.061915,
+      "confidence": 0.207056,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "prince",
+      "relevance": 0.061693,
+      "confidence": 0.881296,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "blik",
+      "relevance": 0.054716,
+      "confidence": 0.920206,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three days",
+      "relevance": 0.052903,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "John Havel",
+      "relevance": 0.048913,
+      "confidence": 0.997301,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Securus",
+      "relevance": 0.043629,
+      "confidence": 0.909013,
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Amazon",
+      "relevance": 0.043037,
+      "confidence": 0.4414,
+      "count": 1,
+      "disambiguation": {
+        "name": "Amazon_River",
+        "dbpedia_resource": "http://dbpedia.org/resource/Amazon_River"
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "hundred years",
+      "relevance": 0.042011,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Heppell",
+      "relevance": 0.031944,
+      "confidence": 0.994905,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kerr",
+      "relevance": 0.030134,
+      "confidence": 0.998561,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "California",
+      "relevance": 0.029548,
+      "confidence": 0.997636,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Gary",
+      "relevance": 0.025659,
+      "confidence": 0.999675,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "stroke",
+      "relevance": 0.022085,
+      "confidence": 0.881483,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Handel",
+      "relevance": 0.017449,
+      "confidence": 0.918948,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty five years",
+      "relevance": 0.010314,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Sharon Schneider",
+      "relevance": 0.009091,
+      "confidence": 0.809396,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Rich",
+      "relevance": 0.003766,
+      "confidence": 0.993145,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "six months",
+      "relevance": 0.00292,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Keesha",
+      "relevance": 0.002492,
+      "confidence": 0.998204,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.961067
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.74575
+    },
+    {
+      "label": "/sports/hunting and shooting",
+      "score": 0.68106
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.67826
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.668493
+    },
+    {
+      "label": "/society/dating",
+      "score": 0.632605
+    },
+    {
+      "label": "/society/crime/property crime/robbery",
+      "score": 0.620025
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.407453,
+      "sentence": "With no forensic evidence found at the murder scene investigators were baffled.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            39,
+            45
+          ],
+          "text": "murder"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            46,
+            51
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.792998,
+      "sentence": "Trying to reach my son and that he wasn't answering and we were afraid something was wrong.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "veterinarian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            826,
+            829
+          ],
+          "text": "son"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            863,
+            865
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.737854,
+      "sentence": "Securus believe rich killed couple after he fell asleep in the living room watching TV.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "user",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12721,
+            12723
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "living room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12743,
+            12754
+          ],
+          "text": "living room"
+        }
+      ]
+    },
+    {
+      "score": 0.640966,
+      "sentence": "To stop the barking rich put kisha in Havel's van then drove her several miles away before letting her out in a strange neighborhood.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Havel",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12952,
+            12957
+          ],
+          "text": "Havel"
+        },
+        {
+          "entities": [
+            {
+              "text": "trailer",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            12960,
+            12963
+          ],
+          "text": "van"
+        }
+      ]
+    },
+    {
+      "score": 0.414458,
+      "sentence": "To stop the barking rich put kisha in Havel's van then drove her several miles away before letting her out in a strange neighborhood.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12975,
+            12978
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "trailer",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            12960,
+            12963
+          ],
+          "text": "van"
+        }
+      ]
+    },
+    {
+      "score": 0.741144,
+      "sentence": "To stop the barking rich put kisha in Havel's van then drove her several miles away before letting her out in a strange neighborhood.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13013,
+            13016
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            13034,
+            13046
+          ],
+          "text": "neighborhood"
+        }
+      ]
+    },
+    {
+      "score": 0.646703,
+      "sentence": "Little did he realize that quiches hair would be found in the stolen box of ammunition and the canine DNA testing would prove it came from Handel's beloved dog.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Handel",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13187,
+            13193
+          ],
+          "text": "Handel"
+        },
+        {
+          "entities": [
+            {
+              "text": "dog",
+              "type": "Animal"
+            }
+          ],
+          "location": [
+            13204,
+            13207
+          ],
+          "text": "dog"
+        }
+      ]
+    },
+    {
+      "score": 0.798284,
+      "sentence": "When rich sold Heppell surprised pistol in Texas he left a note inside with handwriting that match temples known handwriting samples.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Heppell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13270,
+            13277
+          ],
+          "text": "Heppell"
+        },
+        {
+          "entities": [
+            {
+              "text": "pistol",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            13288,
+            13294
+          ],
+          "text": "pistol"
+        }
+      ]
+    },
+    {
+      "score": 0.805325,
+      "sentence": "When rich sold Heppell surprised pistol in Texas he left a note inside with handwriting that match temples known handwriting samples.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "pistol",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            13288,
+            13294
+          ],
+          "text": "pistol"
+        },
+        {
+          "entities": [
+            {
+              "text": "Texas",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13298,
+            13303
+          ],
+          "text": "Texas"
+        }
+      ]
+    },
+    {
+      "score": 0.668376,
+      "sentence": "The witness testimony and the forensic testimony pile together just added up like bricks in this case and it was because of the two and putting those two together that we were able to be able to solve this case in the first place.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witness",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13393,
+            13400
+          ],
+          "text": "witness"
+        },
+        {
+          "entities": [
+            {
+              "text": "testimony",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13401,
+            13410
+          ],
+          "text": "testimony"
+        }
+      ]
+    },
+    {
+      "score": 0.664032,
+      "sentence": "On the day before his murder trial was to start.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "day before",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            13627,
+            13637
+          ],
+          "text": "day before"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13649,
+            13654
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.51109,
+      "sentence": "On the day before his murder trial was to start.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Heppell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13638,
+            13641
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13642,
+            13648
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.994233,
+      "sentence": "So she called the local sheriff who found John's van parked in his driveway.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John apples",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            902,
+            905
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            906,
+            912
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.513508,
+      "sentence": "On the day before his murder trial was to start.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Heppell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13638,
+            13641
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13649,
+            13654
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.57204,
+      "sentence": "Never apologized for what he had done or or showed any remorse.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Heppell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13787,
+            13789
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "apologized",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13767,
+            13777
+          ],
+          "text": "apologized"
+        }
+      ]
+    },
+    {
+      "score": 0.62702,
+      "sentence": "John was one of his five best friends in this world.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            14143,
+            14146
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14164,
+            14171
+          ],
+          "text": "friends"
+        }
+      ]
+    },
+    {
+      "score": 0.893377,
+      "sentence": "Thank you so much peace a tri city killed one of his best friends.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            14229,
+            14232
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14245,
+            14252
+          ],
+          "text": "friends"
+        }
+      ]
+    },
+    {
+      "score": 0.958682,
+      "sentence": "Rich pleaded guilty to first degree robbery involuntary manslaughter and was sentenced to thirty five years in prison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14254,
+            14258
+          ],
+          "text": "Rich"
+        },
+        {
+          "entities": [
+            {
+              "text": "pleaded guilty",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14259,
+            14273
+          ],
+          "text": "pleaded guilty"
+        }
+      ]
+    },
+    {
+      "score": 0.478104,
+      "sentence": "Rich pleaded guilty to first degree robbery involuntary manslaughter and was sentenced to thirty five years in prison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14254,
+            14258
+          ],
+          "text": "Rich"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14331,
+            14340
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.424199,
+      "sentence": "In exchange for her cooperation Sharon Schneider was charged for drug possession and was sentenced to six months and a half way house and two and a half years probation.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sharon Schneider",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14405,
+            14421
+          ],
+          "text": "Sharon Schneider"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14426,
+            14433
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.361148,
+      "sentence": "In exchange for her cooperation Sharon Schneider was charged for drug possession and was sentenced to six months and a half way house and two and a half years probation.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sharon Schneider",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14405,
+            14421
+          ],
+          "text": "Sharon Schneider"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14462,
+            14471
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.442867,
+      "sentence": "I think it's very interesting how Keesha helped ultimately to be able to solve the crime of the homicide of her master I feel that cations solve the case along with the detectives and she provided the evidence against Andrew rich.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14801,
+            14811
+          ],
+          "text": "detectives"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14781,
+            14785
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.925735,
+      "sentence": "So she called the local sheriff who found John's van parked in his driveway.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sheriff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            923,
+            930
+          ],
+          "text": "sheriff"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            906,
+            912
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.636222,
+      "sentence": "So she called the local sheriff who found John's van parked in his driveway.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sheriff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            931,
+            934
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "trailer",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            948,
+            951
+          ],
+          "text": "van"
+        }
+      ]
+    },
+    {
+      "score": 0.565679,
+      "sentence": "They smelled an odor coming from inside the trailer he described that order is being the owner of death.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sheriff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1058,
+            1060
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "trailer",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1050,
+            1057
+          ],
+          "text": "trailer"
+        }
+      ]
+    },
+    {
+      "score": 0.469466,
+      "sentence": "That indicated to us that someone actually left the residence and took the time to use the key to hold that door shut again keeping other individuals from being able to easily access and enter the trailer.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sheriff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1702,
+            1709
+          ],
+          "text": "someone"
+        },
+        {
+          "entities": [
+            {
+              "text": "trailer",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1873,
+            1880
+          ],
+          "text": "trailer"
+        }
+      ]
+    },
+    {
+      "score": 0.487629,
+      "sentence": "So she called the local sheriff who found John's van parked in his driveway.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John apples",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            941,
+            945
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "trailer",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            948,
+            951
+          ],
+          "text": "van"
+        }
+      ]
+    },
+    {
+      "score": 0.470017,
+      "sentence": "They smelled an odor coming from inside the trailer he described that order is being the owner of death.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1006,
+            1010
+          ],
+          "text": "They"
+        },
+        {
+          "entities": [
+            {
+              "text": "trailer",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1050,
+            1057
+          ],
+          "text": "trailer"
+        }
+      ]
+    },
+    {
+      "score": 0.948959,
+      "sentence": "They smelled an odor coming from inside the trailer he described that order is being the owner of death.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sheriff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1058,
+            1060
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "described",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1061,
+            1070
+          ],
+          "text": "described"
+        }
+      ]
+    },
+    {
+      "score": 0.41266,
+      "sentence": "The officers forced their way through the trailer door and found helpful dead slumped in a chair.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1131,
+            1136
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "trailer",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1153,
+            1160
+          ],
+          "text": "trailer"
+        }
+      ]
+    },
+    {
+      "score": 0.814705,
+      "sentence": "He had been shot twice in the back of the head with a twenty two caliber pistol.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "head",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1506,
+            1510
+          ],
+          "text": "head"
+        },
+        {
+          "entities": [
+            {
+              "text": "trailer",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1518,
+            1524
+          ],
+          "text": "twenty"
+        }
+      ]
+    },
+    {
+      "score": 0.787112,
+      "sentence": "He had been shot twice in the back of the head with a twenty two caliber pistol.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "pistol",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            1537,
+            1543
+          ],
+          "text": "pistol"
+        },
+        {
+          "entities": [
+            {
+              "text": "trailer",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1518,
+            1524
+          ],
+          "text": "twenty"
+        }
+      ]
+    },
+    {
+      "score": 0.505285,
+      "sentence": "With no forensic evidence found at the murder scene investigators were baffled.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            52,
+            65
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            46,
+            51
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.61238,
+      "sentence": "The composition revealed the murder happened weeks earlier.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "weeks earlier",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            1590,
+            1603
+          ],
+          "text": "weeks earlier"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            1574,
+            1580
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.572405,
+      "sentence": "That indicated to us that someone actually left the residence and took the time to use the key to hold that door shut again keeping other individuals from being able to easily access and enter the trailer.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individuals",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1814,
+            1825
+          ],
+          "text": "individuals"
+        },
+        {
+          "entities": [
+            {
+              "text": "trailer",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1873,
+            1880
+          ],
+          "text": "trailer"
+        }
+      ]
+    },
+    {
+      "score": 0.42893,
+      "sentence": "John didn't deserve to have this happen to him you may not have been the perfect person in the world he may not have had the best lifestyle in the world but I could almost guarantee would give you the shirt off his back.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "veterinarian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2046,
+            2052
+          ],
+          "text": "person"
+        },
+        {
+          "entities": [
+            {
+              "text": "world",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2060,
+            2065
+          ],
+          "text": "world"
+        }
+      ]
+    },
+    {
+      "score": 0.490098,
+      "sentence": "This cold gold Cup was described to me from one of John's friends is you would have to pry that gun away from his cold dead fingers.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "veterinarian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2347,
+            2349
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "described",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2334,
+            2343
+          ],
+          "text": "described"
+        }
+      ]
+    },
+    {
+      "score": 0.462574,
+      "sentence": "This cold gold Cup was described to me from one of John's friends is you would have to pry that gun away from his cold dead fingers.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            2355,
+            2358
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "described",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2334,
+            2343
+          ],
+          "text": "described"
+        }
+      ]
+    },
+    {
+      "score": 0.799121,
+      "sentence": "This cold gold Cup was described to me from one of John's friends is you would have to pry that gun away from his cold dead fingers.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            2355,
+            2358
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2369,
+            2376
+          ],
+          "text": "friends"
+        }
+      ]
+    },
+    {
+      "score": 0.762445,
+      "sentence": "And another one of John's prized possessions was missing his three year old husky kisha he loved his dog is Douglass's life he she was his baby she had a lot of hamburgers a lot of pizza hot dogs things like that I think she ate mostly people food she was very spoiled.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "veterinarian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2704,
+            2707
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "dog",
+              "type": "Animal"
+            }
+          ],
+          "location": [
+            2708,
+            2711
+          ],
+          "text": "dog"
+        }
+      ]
+    },
+    {
+      "score": 0.310487,
+      "sentence": "And another one of John's prized possessions was missing his three year old husky kisha he loved his dog is Douglass's life he she was his baby she had a lot of hamburgers a lot of pizza hot dogs things like that I think she ate mostly people food she was very spoiled.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "veterinarian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2742,
+            2745
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "John apples",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2746,
+            2750
+          ],
+          "text": "baby"
+        }
+      ]
+    },
+    {
+      "score": 0.795266,
+      "sentence": "She was just down in the middle street days looking around like where am I what am I doing here John's parents identified.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John apples",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3003,
+            3006
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "street",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3035,
+            3041
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.444686,
+      "sentence": "She was just down in the middle street days looking around like where am I what am I doing here John's parents identified.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3106,
+            3113
+          ],
+          "text": "parents"
+        },
+        {
+          "entities": [
+            {
+              "text": "here",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3094,
+            3098
+          ],
+          "text": "here"
+        }
+      ]
+    },
+    {
+      "score": 0.313231,
+      "sentence": "North liberty ia is such a small town it doesn't take much effort to know your neighbors.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John apples",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            294,
+            298
+          ],
+          "text": "your"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighbors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            299,
+            308
+          ],
+          "text": "neighbors"
+        }
+      ]
+    },
+    {
+      "score": 0.507864,
+      "sentence": "She was just down in the middle street days looking around like where am I what am I doing here John's parents identified.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3106,
+            3113
+          ],
+          "text": "parents"
+        },
+        {
+          "entities": [
+            {
+              "text": "John apples",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3099,
+            3103
+          ],
+          "text": "John"
+        }
+      ]
+    },
+    {
+      "score": 0.389415,
+      "sentence": "Kisha was found during January when the roads are typically dirty and muddy vacations condition was was pretty clean the crime scene showed that the dog's leash which normally was kept inside the trailer next to the door was actually in the victim's van is suggested to the victim's van had been used to transport the dog.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John apples",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3433,
+            3439
+          ],
+          "text": "victim"
+        },
+        {
+          "entities": [
+            {
+              "text": "trailer",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            3442,
+            3445
+          ],
+          "text": "van"
+        }
+      ]
+    },
+    {
+      "score": 0.396154,
+      "sentence": "Kisha was found during January when the roads are typically dirty and muddy vacations condition was was pretty clean the crime scene showed that the dog's leash which normally was kept inside the trailer next to the door was actually in the victim's van is suggested to the victim's van had been used to transport the dog.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John apples",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3466,
+            3472
+          ],
+          "text": "victim"
+        },
+        {
+          "entities": [
+            {
+              "text": "trailer",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            3475,
+            3478
+          ],
+          "text": "van"
+        }
+      ]
+    },
+    {
+      "score": 0.948061,
+      "sentence": "An autopsy on twenty eight year old John Heppell revealed he had been killed long before his body was found.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Heppell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3663,
+            3675
+          ],
+          "text": "John Heppell"
+        },
+        {
+          "entities": [
+            {
+              "text": "twenty eight year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            3641,
+            3662
+          ],
+          "text": "twenty eight year old"
+        }
+      ]
+    },
+    {
+      "score": 0.994822,
+      "sentence": "An autopsy on twenty eight year old John Heppell revealed he had been killed long before his body was found.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Heppell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3663,
+            3675
+          ],
+          "text": "John Heppell"
+        },
+        {
+          "entities": [
+            {
+              "text": "revealed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3676,
+            3684
+          ],
+          "text": "revealed"
+        }
+      ]
+    },
+    {
+      "score": 0.23175,
+      "sentence": "An autopsy on twenty eight year old John Heppell revealed he had been killed long before his body was found.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Heppell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3716,
+            3719
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "body",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3720,
+            3724
+          ],
+          "text": "body"
+        }
+      ]
+    },
+    {
+      "score": 0.606216,
+      "sentence": "John would not use the answer machine to screen his telephone calls if someone called John one to talk to so therefore we knew that January twenty second twenty third.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Heppell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4222,
+            4225
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "We",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4293,
+            4295
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.990874,
+      "sentence": "John would not use the answer machine to screen his telephone calls if someone called John one to talk to so therefore we knew that January twenty second twenty third.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John apples",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4245,
+            4252
+          ],
+          "text": "someone"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4253,
+            4259
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.94908,
+      "sentence": "John would not use the answer machine to screen his telephone calls if someone called John one to talk to so therefore we knew that January twenty second twenty third.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John apples",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4260,
+            4264
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "talk",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4272,
+            4276
+          ],
+          "text": "talk"
+        }
+      ]
+    },
+    {
+      "score": 0.624607,
+      "sentence": "John would not use the answer machine to screen his telephone calls if someone called John one to talk to so therefore we knew that January twenty second twenty third.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John apples",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4260,
+            4264
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "We",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4293,
+            4295
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.9882,
+      "sentence": "With this information authorities questioned John's friends and family.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4379,
+            4390
+          ],
+          "text": "authorities"
+        },
+        {
+          "entities": [
+            {
+              "text": "questioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4391,
+            4401
+          ],
+          "text": "questioned"
+        }
+      ]
+    },
+    {
+      "score": 0.744431,
+      "sentence": "One resident the townspeople seldom saw was twenty eight year old John apples.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John apples",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            314,
+            322
+          ],
+          "text": "resident"
+        },
+        {
+          "entities": [
+            {
+              "text": "twenty eight year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            354,
+            375
+          ],
+          "text": "twenty eight year old"
+        }
+      ]
+    },
+    {
+      "score": 0.898292,
+      "sentence": "One resident the townspeople seldom saw was twenty eight year old John apples.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John apples",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            376,
+            387
+          ],
+          "text": "John apples"
+        },
+        {
+          "entities": [
+            {
+              "text": "twenty eight year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            354,
+            375
+          ],
+          "text": "twenty eight year old"
+        }
+      ]
+    },
+    {
+      "score": 0.569857,
+      "sentence": "With this information authorities questioned John's friends and family.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John apples",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4402,
+            4406
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "questioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4391,
+            4401
+          ],
+          "text": "questioned"
+        }
+      ]
+    },
+    {
+      "score": 0.672393,
+      "sentence": "We had three primary suspects in this case Mike Harding Andrew rich and Sharon Snyder.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mike Harding Andrew",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4472,
+            4491
+          ],
+          "text": "Mike Harding Andrew"
+        },
+        {
+          "entities": [
+            {
+              "text": "suspects",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4450,
+            4458
+          ],
+          "text": "suspects"
+        }
+      ]
+    },
+    {
+      "score": 0.80231,
+      "sentence": "We had three primary suspects in this case Mike Harding Andrew rich and Sharon Snyder.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sharon Schneider",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4501,
+            4514
+          ],
+          "text": "Sharon Snyder"
+        },
+        {
+          "entities": [
+            {
+              "text": "suspects",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4450,
+            4458
+          ],
+          "text": "suspects"
+        }
+      ]
+    },
+    {
+      "score": 0.563224,
+      "sentence": "We had three primary suspects in this case Mike Harding Andrew rich and Sharon Snyder.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mike Harding Andrew",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4472,
+            4491
+          ],
+          "text": "Mike Harding Andrew"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            4467,
+            4471
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.844155,
+      "sentence": "The first suspect my karting a friend of John Hubbell's a witness recalled seeing Harding's truck parked near apple's home around the time of the murder.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Hubbell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4557,
+            4569
+          ],
+          "text": "John Hubbell"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            4608,
+            4613
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.498119,
+      "sentence": "The first suspect my karting a friend of John Hubbell's a witness recalled seeing Harding's truck parked near apple's home around the time of the murder.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Harding",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4598,
+            4605
+          ],
+          "text": "Harding"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            4608,
+            4613
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.544646,
+      "sentence": "The first suspect my karting a friend of John Hubbell's a witness recalled seeing Harding's truck parked near apple's home around the time of the murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Harding",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4598,
+            4605
+          ],
+          "text": "Harding"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4662,
+            4668
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.733939,
+      "sentence": "Harding had an alibi for the time of the murder and he passed a polygraph test.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Harding",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4778,
+            4785
+          ],
+          "text": "Harding"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4819,
+            4825
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.749445,
+      "sentence": "The first suspect my karting a friend of John Hubbell's a witness recalled seeing Harding's truck parked near apple's home around the time of the murder.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            4608,
+            4613
+          ],
+          "text": "truck"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4634,
+            4638
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.49258,
+      "sentence": "The next two suspects Andrew Richmond Sherin Schneider were friends of Johns who lived about an eighteen hour drive away in Greybull Wyoming.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Andrew Richmond Sherin Schneider",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4880,
+            4912
+          ],
+          "text": "Andrew Richmond Sherin Schneider"
+        },
+        {
+          "entities": [
+            {
+              "text": "suspects",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4871,
+            4879
+          ],
+          "text": "suspects"
+        }
+      ]
+    },
+    {
+      "score": 0.508268,
+      "sentence": "We learned from a good friend to saw into rich and John Hipple together on January eighteenth of nineteen ninety nine that in fact I encourage had been at the trailer house of John Hubbell.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Hubbell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5176,
+            5188
+          ],
+          "text": "John Hubbell"
+        },
+        {
+          "entities": [
+            {
+              "text": "trailer house",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5159,
+            5172
+          ],
+          "text": "trailer house"
+        }
+      ]
+    },
+    {
+      "score": 0.754619,
+      "sentence": "It wasn't unusual if we didn't see him for a month it be doing things said at his home or repairing things are out with his friends at one point in time in John's life he was a narcotics user and very possibly also in a context dealer.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "himself",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            530,
+            533
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            522,
+            526
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.992456,
+      "sentence": "But Andy said John was alive and well when he and Sharon left to return home.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Andy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5194,
+            5198
+          ],
+          "text": "Andy"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5199,
+            5203
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.69446,
+      "sentence": "Police searched the couple's apartment and found marijuana methamphetamine and several twenty two caliber bullets the same caliber used to kill have all.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5288,
+            5294
+          ],
+          "text": "couple"
+        },
+        {
+          "entities": [
+            {
+              "text": "authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5268,
+            5274
+          ],
+          "text": "Police"
+        }
+      ]
+    },
+    {
+      "score": 0.711026,
+      "sentence": "Police searched the couple's apartment and found marijuana methamphetamine and several twenty two caliber bullets the same caliber used to kill have all.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5288,
+            5294
+          ],
+          "text": "couple"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5297,
+            5306
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.44743,
+      "sentence": "Police searched the couple's apartment and found marijuana methamphetamine and several twenty two caliber bullets the same caliber used to kill have all.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "narcotics",
+              "type": "Substance"
+            }
+          ],
+          "location": [
+            5317,
+            5326
+          ],
+          "text": "marijuana"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5297,
+            5306
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.692579,
+      "sentence": "The results showed us that the more that we have recovered from John were not the same ball it's that was removed from Andy riches house in Greybull Wyoming.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Andy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5867,
+            5871
+          ],
+          "text": "Andy"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5879,
+            5884
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.983451,
+      "sentence": "The results showed us that the more that we have recovered from John were not the same ball it's that was removed from Andy riches house in Greybull Wyoming.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5879,
+            5884
+          ],
+          "text": "house"
+        },
+        {
+          "entities": [
+            {
+              "text": "Greybull Wyoming",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5888,
+            5904
+          ],
+          "text": "Greybull Wyoming"
+        }
+      ]
+    },
+    {
+      "score": 0.919346,
+      "sentence": "Was it possible that rich used his car to transport Havel's dog across town after the murder.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Andy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6085,
+            6088
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "trailer",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            6089,
+            6092
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.84871,
+      "sentence": "Was it possible that rich used his car to transport Havel's dog across town after the murder.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Havel",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6106,
+            6111
+          ],
+          "text": "Havel"
+        },
+        {
+          "entities": [
+            {
+              "text": "dog",
+              "type": "Animal"
+            }
+          ],
+          "location": [
+            6114,
+            6117
+          ],
+          "text": "dog"
+        }
+      ]
+    },
+    {
+      "score": 0.523273,
+      "sentence": "Was it possible that rich used his car to transport Havel's dog across town after the murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Havel",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6106,
+            6111
+          ],
+          "text": "Havel"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6140,
+            6146
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.480255,
+      "sentence": "Unfortunately we weren't able to get the type of smudges or prince actually from the other vehicle that would enable us to do that but it certainly was an interesting element that we pursued for some time.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6399,
+            6401
+          ],
+          "text": "us"
+        },
+        {
+          "entities": [
+            {
+              "text": "trailer",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            6373,
+            6380
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.572835,
+      "sentence": "It wasn't unusual if we didn't see him for a month it be doing things said at his home or repairing things are out with his friends at one point in time in John's life he was a narcotics user and very possibly also in a context dealer.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "himself",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            530,
+            533
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            534,
+            538
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.676262,
+      "sentence": "After several months with no forensic evidence and very few leads the investigation at the John Hubbell's murder was starting to turn coal.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Hubbell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6579,
+            6591
+          ],
+          "text": "John Hubbell"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6558,
+            6571
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.494269,
+      "sentence": "After several months with no forensic evidence and very few leads the investigation at the John Hubbell's murder was starting to turn coal.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Hubbell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6579,
+            6591
+          ],
+          "text": "John Hubbell"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6594,
+            6600
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.861438,
+      "sentence": "A year after John Hubbell's murder police suspected Hubble's best friend Andy rich was somehow involved in his death but they had no proof.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Hubbell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6793,
+            6805
+          ],
+          "text": "John Hubbell"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6808,
+            6814
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.85396,
+      "sentence": "So investigators turned the Havel's dog for more information.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Havel",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6656,
+            6661
+          ],
+          "text": "Havel"
+        },
+        {
+          "entities": [
+            {
+              "text": "dog",
+              "type": "Animal"
+            }
+          ],
+          "location": [
+            6664,
+            6667
+          ],
+          "text": "dog"
+        }
+      ]
+    },
+    {
+      "score": 0.922383,
+      "sentence": "A year after John Hubbell's murder police suspected Hubble's best friend Andy rich was somehow involved in his death but they had no proof.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Hubbell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6793,
+            6805
+          ],
+          "text": "John Hubbell"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6901,
+            6905
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.800574,
+      "sentence": "A year after John Hubbell's murder police suspected Hubble's best friend Andy rich was somehow involved in his death but they had no proof.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Andy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6853,
+            6857
+          ],
+          "text": "Andy"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6901,
+            6905
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.836063,
+      "sentence": "A year after John Hubbell's murder police suspected Hubble's best friend Andy rich was somehow involved in his death but they had no proof.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Andy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6887,
+            6890
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6901,
+            6905
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.586745,
+      "sentence": "We knew that his lifelong goal was to be a hit man for the mafia we had interviewed past girlfriends who had interviewed other associates a venue rich.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Andy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7041,
+            7044
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7059,
+            7061
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.841269,
+      "sentence": "We knew that his lifelong goal was to be a hit man for the mafia we had interviewed past girlfriends who had interviewed other associates a venue rich.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "girlfriends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7095,
+            7098
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviewed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7103,
+            7114
+          ],
+          "text": "interviewed"
+        }
+      ]
+    },
+    {
+      "score": 0.791363,
+      "sentence": "We knew that his lifelong goal was to be a hit man for the mafia we had interviewed past girlfriends who had interviewed other associates a venue rich.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "associates",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7121,
+            7131
+          ],
+          "text": "associates"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviewed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7103,
+            7114
+          ],
+          "text": "interviewed"
+        }
+      ]
+    },
+    {
+      "score": 0.988004,
+      "sentence": "Sharon told a different story about that visit with John have.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sharon Schneider",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7992,
+            7998
+          ],
+          "text": "Sharon"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7999,
+            8003
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.99822,
+      "sentence": "Sharon said she dropped and he offered Havel's home about three days before the merger then left to visit her daughter about an hour's drive away.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sharon Schneider",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8156,
+            8162
+          ],
+          "text": "Sharon"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8163,
+            8167
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.988259,
+      "sentence": "After a brief stay in Wyoming Sharon said that and the left alone with the guns.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sharon Schneider",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8540,
+            8546
+          ],
+          "text": "Sharon"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8547,
+            8551
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.988708,
+      "sentence": "Sharon said she dropped and he offered Havel's home about three days before the merger then left to visit her daughter about an hour's drive away.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8184,
+            8186
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "offered",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8187,
+            8194
+          ],
+          "text": "offered"
+        }
+      ]
+    },
+    {
+      "score": 0.533154,
+      "sentence": "Sharon said she dropped and he offered Havel's home about three days before the merger then left to visit her daughter about an hour's drive away.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8184,
+            8186
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8203,
+            8207
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.603271,
+      "sentence": "In February of nineteen ninety nine John's mother was really worried she hadn't heard from her son in over two months.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            731,
+            737
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "John apples",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            724,
+            728
+          ],
+          "text": "John"
+        }
+      ]
+    },
+    {
+      "score": 0.270735,
+      "sentence": "Sharon said she dropped and he offered Havel's home about three days before the merger then left to visit her daughter about an hour's drive away.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Havel",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8195,
+            8200
+          ],
+          "text": "Havel"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8203,
+            8207
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.850983,
+      "sentence": "Sharon said she dropped and he offered Havel's home about three days before the merger then left to visit her daughter about an hour's drive away.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sharon Schneider",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8262,
+            8265
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8266,
+            8274
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.753146,
+      "sentence": "They put some of these guns into their car took John's fan to his home and then drove their car back to Wyoming.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8336,
+            8341
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "trailer",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            8342,
+            8345
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.62063,
+      "sentence": "They put some of these guns into their car took John's fan to his home and then drove their car back to Wyoming.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John apples",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8351,
+            8355
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8369,
+            8373
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.670515,
+      "sentence": "They put some of these guns into their car took John's fan to his home and then drove their car back to Wyoming.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8365,
+            8368
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8369,
+            8373
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.698956,
+      "sentence": "They put some of these guns into their car took John's fan to his home and then drove their car back to Wyoming.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8389,
+            8394
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "Greybull Wyoming",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8407,
+            8414
+          ],
+          "text": "Wyoming"
+        }
+      ]
+    },
+    {
+      "score": 0.319061,
+      "sentence": "I had no idea that John's dad no I had no idea about that have wonders why he had these guns.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "dad",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8442,
+            8445
+          ],
+          "text": "dad"
+        },
+        {
+          "entities": [
+            {
+              "text": "John apples",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8435,
+            8439
+          ],
+          "text": "John"
+        }
+      ]
+    },
+    {
+      "score": 0.627743,
+      "sentence": "After a brief stay in Wyoming Sharon said that and the left alone with the guns.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sharon Schneider",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8540,
+            8546
+          ],
+          "text": "Sharon"
+        },
+        {
+          "entities": [
+            {
+              "text": "Greybull Wyoming",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8532,
+            8539
+          ],
+          "text": "Wyoming"
+        }
+      ]
+    },
+    {
+      "score": 0.55136,
+      "sentence": "Took off in the middle of the night around four o'clock in the morning and headed to Texas he was gone three weeks it was the Amazon stupidity for telling me where he was going.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sharon Schneider",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8746,
+            8748
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "telling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8738,
+            8745
+          ],
+          "text": "telling"
+        }
+      ]
+    },
+    {
+      "score": 0.527823,
+      "sentence": "We started to learn things from Sharon that we had suspected all along and at that point in time it became really important for us to find any information that we could that was going to corroborate what Sharon had to say.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sharon Schneider",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8801,
+            8807
+          ],
+          "text": "Sharon"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8813,
+            8815
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.86077,
+      "sentence": "In February of nineteen ninety nine John's mother was really worried she hadn't heard from her son in over two months.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John apples",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            779,
+            782
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "veterinarian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            783,
+            786
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.707881,
+      "sentence": "Police visited the man and the rate stayed with during that trip to Texas he said Richard given him an unusual gold Cup forty five caliber semi automatic pistol to pay off a drug debt but by this time a year later he no longer had the gun.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Andy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9011,
+            9014
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "Texas",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9060,
+            9065
+          ],
+          "text": "Texas"
+        }
+      ]
+    },
+    {
+      "score": 0.99753,
+      "sentence": "Police visited the man and the rate stayed with during that trip to Texas he said Richard given him an unusual gold Cup forty five caliber semi automatic pistol to pay off a drug debt but by this time a year later he no longer had the gun.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Andy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9066,
+            9068
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9069,
+            9073
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.512594,
+      "sentence": "Join how person a California veterinarian specializes in animal DNA.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "veterinarian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9730,
+            9736
+          ],
+          "text": "person"
+        },
+        {
+          "entities": [
+            {
+              "text": "California",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9739,
+            9749
+          ],
+          "text": "California"
+        }
+      ]
+    },
+    {
+      "score": 0.689831,
+      "sentence": "Join how person a California veterinarian specializes in animal DNA.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "veterinarian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9750,
+            9762
+          ],
+          "text": "veterinarian"
+        },
+        {
+          "entities": [
+            {
+              "text": "California",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9739,
+            9749
+          ],
+          "text": "California"
+        }
+      ]
+    },
+    {
+      "score": 0.71452,
+      "sentence": "It will not be as unique a profile as I might get from blood or saliva or hair with a route but it will still allow me to say yes this sample matches the reference dog or it doesn't match the reference stock breeds of dogs and to some extent caps today are really only a few hundred years old and so they don't differ that much that you could determinative we say for example well that's a donation.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "veterinarian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9906,
+            9908
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9912,
+            9915
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.51238,
+      "sentence": "The man who was given the gold Cup pistole said he still had the gun by.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Andy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11071,
+            11074
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11110,
+            11114
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.546399,
+      "sentence": "The man who was given the gold Cup pistole said he still had the gun by.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Andy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11115,
+            11117
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "pistol",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            11132,
+            11135
+          ],
+          "text": "gun"
+        }
+      ]
+    },
+    {
+      "score": 0.996403,
+      "sentence": "Inside was a note listing all of the custom alterations made to the pistol as well as the costs down when I asked me if I thought that was John's hand writing and I thought it was.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "she",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11246,
+            11247
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11248,
+            11253
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.706494,
+      "sentence": "Inside was a note listing all of the custom alterations made to the pistol as well as the costs down when I asked me if I thought that was John's hand writing and I thought it was.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "she",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11254,
+            11256
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11248,
+            11253
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.993325,
+      "sentence": "He compared the note to known samples of apple's hand writing the question material was written with someone heavy pressure in the known writings.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Andy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11417,
+            11419
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "compared",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11420,
+            11428
+          ],
+          "text": "compared"
+        }
+      ]
+    },
+    {
+      "score": 0.652924,
+      "sentence": "He compared the note to known samples of apple's hand writing the question material was written with someone heavy pressure in the known writings.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Andy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11518,
+            11525
+          ],
+          "text": "someone"
+        },
+        {
+          "entities": [
+            {
+              "text": "writings",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11554,
+            11562
+          ],
+          "text": "writings"
+        }
+      ]
+    },
+    {
+      "score": 0.521406,
+      "sentence": "He looked for unique features and individual letters in John's known writings features he then tried to locate in the questions document.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Andy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11723,
+            11725
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "writings",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11792,
+            11800
+          ],
+          "text": "writings"
+        }
+      ]
+    },
+    {
+      "score": 0.763232,
+      "sentence": "Trying to reach my son and that he wasn't answering and we were afraid something was wrong.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "himself",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            823,
+            825
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "veterinarian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            826,
+            829
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.990842,
+      "sentence": "That was also written with that same sort of pressure they were also all hand printed and is known writings also relied heavily on printing and not Kerr said.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kerr",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11712,
+            11716
+          ],
+          "text": "Kerr"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11717,
+            11721
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.391433,
+      "sentence": "He looked for unique features and individual letters in John's known writings features he then tried to locate in the questions document.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John apples",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11779,
+            11783
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "writings",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11792,
+            11800
+          ],
+          "text": "writings"
+        }
+      ]
+    },
+    {
+      "score": 0.869722,
+      "sentence": "That it was Havel's gone and no other that and they took with him to Texas.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Havel",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12252,
+            12257
+          ],
+          "text": "Havel"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12287,
+            12291
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.507431,
+      "sentence": "That it was Havel's gone and no other that and they took with him to Texas.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12287,
+            12291
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "Texas",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12309,
+            12314
+          ],
+          "text": "Texas"
+        }
+      ]
+    },
+    {
+      "score": 0.430248,
+      "sentence": "That it was Havel's gone and no other that and they took with him to Texas.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Andy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12302,
+            12305
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "Texas",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12309,
+            12314
+          ],
+          "text": "Texas"
+        }
+      ]
+    },
+    {
+      "score": 0.620263,
+      "sentence": "Based on the hand writing analysis and the dog DNA and the rich was arrested and charged with John Havel's market.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Havel",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12410,
+            12420
+          ],
+          "text": "John Havel"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrested",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            12384,
+            12392
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.707056,
+      "sentence": "Based on the hand writing analysis and the dog DNA and the rich was arrested and charged with John Havel's market.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Havel",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12410,
+            12420
+          ],
+          "text": "John Havel"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12397,
+            12404
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.515019,
+      "sentence": "There was nothing he was a user of people.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "user",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12458,
+            12462
+          ],
+          "text": "user"
+        },
+        {
+          "entities": [
+            {
+              "text": "townspeople",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12466,
+            12472
+          ],
+          "text": "people"
+        }
+      ]
+    },
+    {
+      "score": 0.418681,
+      "sentence": "The forensic evidence showed that anti rich was in John Hubbell's home around the time of this merger.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Hubbell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12593,
+            12605
+          ],
+          "text": "John Hubbell"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12608,
+            12612
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.496584,
+      "sentence": "Securus believe rich killed couple after he fell asleep in the living room watching TV.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12708,
+            12714
+          ],
+          "text": "couple"
+        },
+        {
+          "entities": [
+            {
+              "text": "living room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12743,
+            12754
+          ],
+          "text": "living room"
+        }
+      ]
+    }
+  ]
+}

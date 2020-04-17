@@ -1,0 +1,5206 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 14809,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Eric Sri",
+      "relevance": 0.955328,
+      "confidence": 0.996616,
+      "count": 8
+    },
+    {
+      "type": "Location",
+      "text": "Sri",
+      "relevance": 0.371901,
+      "confidence": 0.99994,
+      "count": 6
+    },
+    {
+      "type": "Quantity",
+      "text": "eighty yards",
+      "relevance": 0.361713,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty seven year",
+      "relevance": 0.247264,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "sixty eight hours",
+      "relevance": 0.243922,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Officer Ryan temple",
+      "relevance": 0.242548,
+      "confidence": 0.716545,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Boilermakers union",
+      "relevance": 0.237617,
+      "confidence": 0.511262,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Joseph",
+      "relevance": 0.237148,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Wakeman",
+      "relevance": 0.204407,
+      "confidence": 0.999995,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Dr Donald com dole",
+      "relevance": 0.19097,
+      "confidence": 0.70504,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Khan",
+      "relevance": 0.181726,
+      "confidence": 0.977666,
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Saint Louis river",
+      "relevance": 0.178497,
+      "confidence": 0.828559,
+      "count": 2,
+      "disambiguation": {
+        "name": "Saint_Louis_River",
+        "dbpedia_resource": "http://dbpedia.org/resource/Saint_Louis_River",
+        "subtype": [
+          "Location",
+          "BodyOfWater",
+          "River"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Charlie Johnson",
+      "relevance": 0.165777,
+      "confidence": 0.998958,
+      "count": 1,
+      "disambiguation": {
+        "name": "Charlie_Johnson_%28baseball%29",
+        "dbpedia_resource": "http://dbpedia.org/resource/Charlie_Johnson_%28baseball%29"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Joseph Whelan",
+      "relevance": 0.158806,
+      "confidence": 0.997812,
+      "count": 1,
+      "disambiguation": {
+        "name": "Joseph_Whelan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Joseph_Whelan"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Joseph Lehman",
+      "relevance": 0.140407,
+      "confidence": 0.988704,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eight inches",
+      "relevance": 0.127367,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Duluth",
+      "relevance": 0.126569,
+      "confidence": 0.986766,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "St Louis river",
+      "relevance": 0.121853,
+      "confidence": 0.206012,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "forty five minutes",
+      "relevance": 0.118674,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "four days",
+      "relevance": 0.114379,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "MusicGroup",
+      "text": "hell's angels",
+      "relevance": 0.110703,
+      "confidence": 0.302824,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Eric",
+      "relevance": 0.107844,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Minnesota",
+      "relevance": 0.095015,
+      "confidence": 0.990814,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "four hours",
+      "relevance": 0.084559,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "hypothermia",
+      "relevance": 0.064659,
+      "confidence": 0.964701,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Schriever",
+      "relevance": 0.056293,
+      "confidence": 0.865637,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kenny Rogers",
+      "relevance": 0.041075,
+      "confidence": 0.970476,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "six months",
+      "relevance": 0.037576,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Joe",
+      "relevance": 0.034997,
+      "confidence": 0.765622,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two days",
+      "relevance": 0.033849,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "John",
+      "relevance": 0.018707,
+      "confidence": 0.997111,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Wisconsin",
+      "relevance": 0.017811,
+      "confidence": 0.963888,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Twelve years",
+      "relevance": 0.016285,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eight years",
+      "relevance": 0.014383,
+      "confidence": 0.8,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.974591
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.836278
+    },
+    {
+      "label": "/law, govt and politics/law enforcement",
+      "score": 0.702948
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.680794
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.65698
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.989675,
+      "sentence": "Hi witnesses said they saw a man in a pickup truck deliberately run over another man not once but twice.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3,
+            12
+          ],
+          "text": "witnesses"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13,
+            17
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.988938,
+      "sentence": "The witnesses admitted they were drinking heavily that night and weren't sure of all the details and the alleged fight took place almost a week earlier and the inclement weather complicated the investigation.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2093,
+            2102
+          ],
+          "text": "witnesses"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2103,
+            2111
+          ],
+          "text": "admitted"
+        }
+      ]
+    },
+    {
+      "score": 0.700457,
+      "sentence": "During police questioning both witnesses admitted they were in the pre dated at the time of the alleged accident.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6697,
+            6706
+          ],
+          "text": "witnesses"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6707,
+            6715
+          ],
+          "text": "admitted"
+        }
+      ]
+    },
+    {
+      "score": 0.545092,
+      "sentence": "On January twenty ninth two thousand one a member of a motorcycle gang in Duluth Minnesota called police to report his roommate twenty seven year old Eric Sri for missing he said he hadn't seen Sri for for the last four days and he was worried usually that doesn't happen people that report missing persons usually call in within the first sixty eight hours in a panic.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            403,
+            409
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            413,
+            419
+          ],
+          "text": "report"
+        }
+      ]
+    },
+    {
+      "score": 0.875767,
+      "sentence": "He also said he didn't realize Schriever was stuck under the truck until you reach the end of the parking lot.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Schriever",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11757,
+            11766
+          ],
+          "text": "Schriever"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11787,
+            11792
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.434052,
+      "sentence": "He also said he didn't realize Schriever was stuck under the truck until you reach the end of the parking lot.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11787,
+            11792
+          ],
+          "text": "truck"
+        },
+        {
+          "entities": [
+            {
+              "text": "parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11824,
+            11835
+          ],
+          "text": "parking lot"
+        }
+      ]
+    },
+    {
+      "score": 0.392258,
+      "sentence": "Women and said he put you first in the back of his truck and dumped him into the river the next day.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wakeman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11905,
+            11908
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "river",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            11918,
+            11923
+          ],
+          "text": "river"
+        }
+      ]
+    },
+    {
+      "score": 0.93008,
+      "sentence": "He said the police had searched the correct spot in the Saint Louis river but the body may have drifted.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "river",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            12006,
+            12011
+          ],
+          "text": "river"
+        },
+        {
+          "entities": [
+            {
+              "text": "Saint Louis",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11994,
+            12005
+          ],
+          "text": "Saint Louis"
+        }
+      ]
+    },
+    {
+      "score": 0.558095,
+      "sentence": "A few weeks later after the plea agreement was signed Sri first bodies surfaced by itself on the Wisconsin side of the river.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "few weeks later after",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            12125,
+            12146
+          ],
+          "text": "few weeks later after"
+        },
+        {
+          "entities": [
+            {
+              "text": "plea agreement",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12151,
+            12165
+          ],
+          "text": "plea agreement"
+        }
+      ]
+    },
+    {
+      "score": 0.408663,
+      "sentence": "A few weeks later after the plea agreement was signed Sri first bodies surfaced by itself on the Wisconsin side of the river.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12177,
+            12180
+          ],
+          "text": "Sri"
+        },
+        {
+          "entities": [
+            {
+              "text": "plea agreement",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12151,
+            12165
+          ],
+          "text": "plea agreement"
+        }
+      ]
+    },
+    {
+      "score": 0.484668,
+      "sentence": "A few weeks later after the plea agreement was signed Sri first bodies surfaced by itself on the Wisconsin side of the river.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bodies",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12187,
+            12193
+          ],
+          "text": "bodies"
+        },
+        {
+          "entities": [
+            {
+              "text": "plea agreement",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12151,
+            12165
+          ],
+          "text": "plea agreement"
+        }
+      ]
+    },
+    {
+      "score": 0.557253,
+      "sentence": "A few weeks later after the plea agreement was signed Sri first bodies surfaced by itself on the Wisconsin side of the river.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12177,
+            12180
+          ],
+          "text": "Sri"
+        },
+        {
+          "entities": [
+            {
+              "text": "bodies",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12187,
+            12193
+          ],
+          "text": "bodies"
+        }
+      ]
+    },
+    {
+      "score": 0.636,
+      "sentence": "A few weeks later after the plea agreement was signed Sri first bodies surfaced by itself on the Wisconsin side of the river.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bodies",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12187,
+            12193
+          ],
+          "text": "bodies"
+        },
+        {
+          "entities": [
+            {
+              "text": "Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12220,
+            12229
+          ],
+          "text": "Wisconsin"
+        }
+      ]
+    },
+    {
+      "score": 0.623132,
+      "sentence": "A few weeks later after the plea agreement was signed Sri first bodies surfaced by itself on the Wisconsin side of the river.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bodies",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12187,
+            12193
+          ],
+          "text": "bodies"
+        },
+        {
+          "entities": [
+            {
+              "text": "river",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            12242,
+            12247
+          ],
+          "text": "river"
+        }
+      ]
+    },
+    {
+      "score": 0.577112,
+      "sentence": "On January twenty ninth two thousand one a member of a motorcycle gang in Duluth Minnesota called police to report his roommate twenty seven year old Eric Sri for missing he said he hadn't seen Sri for for the last four days and he was worried usually that doesn't happen people that report missing persons usually call in within the first sixty eight hours in a panic.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "roommate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            424,
+            432
+          ],
+          "text": "roommate"
+        },
+        {
+          "entities": [
+            {
+              "text": "twenty seven year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            433,
+            454
+          ],
+          "text": "twenty seven year old"
+        }
+      ]
+    },
+    {
+      "score": 0.583102,
+      "sentence": "In women's mother's garage police found a cinder block its size and shape are consistent with three for his head injury.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12341,
+            12347
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Women",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12333,
+            12338
+          ],
+          "text": "women"
+        }
+      ]
+    },
+    {
+      "score": 0.232331,
+      "sentence": "In women's mother's garage police found a cinder block its size and shape are consistent with three for his head injury.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12341,
+            12347
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "garage",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12350,
+            12356
+          ],
+          "text": "garage"
+        }
+      ]
+    },
+    {
+      "score": 0.571639,
+      "sentence": "Prosecutors were skeptical he says he hit him with a block when he was wrapping up his body and his mother's garage and hit him with a block of cement just out of frustration expressing anger at Eric Sri for for having caused him to do this doesn't make a lot of sense.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12664,
+            12670
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "garage",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12673,
+            12679
+          ],
+          "text": "garage"
+        }
+      ]
+    },
+    {
+      "score": 0.539639,
+      "sentence": "Women didn't deny striking Sri for in the head with the block but said he did it after Sri for was already dead.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12522,
+            12524
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12517,
+            12521
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.997641,
+      "sentence": "Prosecutors were skeptical he says he hit him with a block when he was wrapping up his body and his mother's garage and hit him with a block of cement just out of frustration expressing anger at Eric Sri for for having caused him to do this doesn't make a lot of sense.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12591,
+            12593
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12594,
+            12598
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.176101,
+      "sentence": "Prosecutors were skeptical he says he hit him with a block when he was wrapping up his body and his mother's garage and hit him with a block of cement just out of frustration expressing anger at Eric Sri for for having caused him to do this doesn't make a lot of sense.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12651,
+            12655
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12647,
+            12650
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.739847,
+      "sentence": "Prosecutors were skeptical he says he hit him with a block when he was wrapping up his body and his mother's garage and hit him with a block of cement just out of frustration expressing anger at Eric Sri for for having caused him to do this doesn't make a lot of sense.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12664,
+            12670
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12660,
+            12663
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.589348,
+      "sentence": "Prosecutors were skeptical he says he hit him with a block when he was wrapping up his body and his mother's garage and hit him with a block of cement just out of frustration expressing anger at Eric Sri for for having caused him to do this doesn't make a lot of sense.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12688,
+            12691
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "expressing",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12739,
+            12749
+          ],
+          "text": "expressing"
+        }
+      ]
+    },
+    {
+      "score": 0.573808,
+      "sentence": "Because of the plea agreement Joseph way man and was sentenced to twelve and a half years in prison for Eric Sri for staff.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph Whelan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12864,
+            12870
+          ],
+          "text": "Joseph"
+        },
+        {
+          "entities": [
+            {
+              "text": "plea agreement",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12849,
+            12863
+          ],
+          "text": "plea agreement"
+        }
+      ]
+    },
+    {
+      "score": 0.624588,
+      "sentence": "Because of the plea agreement Joseph way man and was sentenced to twelve and a half years in prison for Eric Sri for staff.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wakeman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12875,
+            12878
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12887,
+            12896
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.466221,
+      "sentence": "Because of the plea agreement Joseph way man and was sentenced to twelve and a half years in prison for Eric Sri for staff.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12938,
+            12946
+          ],
+          "text": "Eric Sri"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12927,
+            12933
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.545709,
+      "sentence": "On January twenty ninth two thousand one a member of a motorcycle gang in Duluth Minnesota called police to report his roommate twenty seven year old Eric Sri for missing he said he hadn't seen Sri for for the last four days and he was worried usually that doesn't happen people that report missing persons usually call in within the first sixty eight hours in a panic.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            455,
+            463
+          ],
+          "text": "Eric Sri"
+        },
+        {
+          "entities": [
+            {
+              "text": "roommate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            424,
+            432
+          ],
+          "text": "roommate"
+        }
+      ]
+    },
+    {
+      "score": 0.487941,
+      "sentence": "Because of the plea agreement Joseph way man and was sentenced to twelve and a half years in prison for Eric Sri for staff.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "staff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12951,
+            12956
+          ],
+          "text": "staff"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12927,
+            12933
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.726703,
+      "sentence": "Because of the plea agreement Joseph way man and was sentenced to twelve and a half years in prison for Eric Sri for staff.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12938,
+            12946
+          ],
+          "text": "Eric Sri"
+        },
+        {
+          "entities": [
+            {
+              "text": "staff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12951,
+            12956
+          ],
+          "text": "staff"
+        }
+      ]
+    },
+    {
+      "score": 0.412257,
+      "sentence": "Twelve years in prison for a murder were you drive your vehicle over a body one time then back over again if the witnesses are to both be believed to me that's not justice.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13035,
+            13041
+          ],
+          "text": "murder"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13022,
+            13028
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.645224,
+      "sentence": "Twelve years in prison for a murder were you drive your vehicle over a body one time then back over again if the witnesses are to both be believed to me that's not justice.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13047,
+            13050
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            13062,
+            13069
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.585882,
+      "sentence": "Twelve years in prison for a murder were you drive your vehicle over a body one time then back over again if the witnesses are to both be believed to me that's not justice.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13057,
+            13061
+          ],
+          "text": "your"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            13062,
+            13069
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.983187,
+      "sentence": "And in return for recovery of the body I remember even telling Eric's mom and dad.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13306,
+            13307
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "telling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13322,
+            13329
+          ],
+          "text": "telling"
+        }
+      ]
+    },
+    {
+      "score": 0.810902,
+      "sentence": "And in return for recovery of the body I remember even telling Eric's mom and dad.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13330,
+            13334
+          ],
+          "text": "Eric"
+        },
+        {
+          "entities": [
+            {
+              "text": "telling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13322,
+            13329
+          ],
+          "text": "telling"
+        }
+      ]
+    },
+    {
+      "score": 0.971084,
+      "sentence": "I made that very clear to them and that's what I even told the court at sentencing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13478,
+            13479
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13485,
+            13489
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.968386,
+      "sentence": "I made that very clear to them and that's what I even told the court at sentencing.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "court",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13494,
+            13499
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13485,
+            13489
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.571393,
+      "sentence": "I made that very clear to them and that's what I even told the court at sentencing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "court",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13494,
+            13499
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentencing",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13503,
+            13513
+          ],
+          "text": "sentencing"
+        }
+      ]
+    },
+    {
+      "score": 0.922508,
+      "sentence": "On January twenty ninth two thousand one a member of a motorcycle gang in Duluth Minnesota called police to report his roommate twenty seven year old Eric Sri for missing he said he hadn't seen Sri for for the last four days and he was worried usually that doesn't happen people that report missing persons usually call in within the first sixty eight hours in a panic.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            455,
+            463
+          ],
+          "text": "Eric Sri"
+        },
+        {
+          "entities": [
+            {
+              "text": "twenty seven year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            433,
+            454
+          ],
+          "text": "twenty seven year old"
+        }
+      ]
+    },
+    {
+      "score": 0.761806,
+      "sentence": "But we were willing to make a compromise in order to recover the body put the case behind.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13580,
+            13584
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13593,
+            13597
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.998312,
+      "sentence": "On January twenty ninth two thousand one a member of a motorcycle gang in Duluth Minnesota called police to report his roommate twenty seven year old Eric Sri for missing he said he hadn't seen Sri for for the last four days and he was worried usually that doesn't happen people that report missing persons usually call in within the first sixty eight hours in a panic.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "member",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            476,
+            478
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            479,
+            483
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.44955,
+      "sentence": "On January twenty ninth two thousand one a member of a motorcycle gang in Duluth Minnesota called police to report his roommate twenty seven year old Eric Sri for missing he said he hadn't seen Sri for for the last four days and he was worried usually that doesn't happen people that report missing persons usually call in within the first sixty eight hours in a panic.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "member",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            484,
+            486
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "Sri",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            499,
+            502
+          ],
+          "text": "Sri"
+        }
+      ]
+    },
+    {
+      "score": 0.744089,
+      "sentence": "Officer Ryan temple was assigned to the case.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ryan temple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            739,
+            750
+          ],
+          "text": "Ryan temple"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            771,
+            775
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.838865,
+      "sentence": "Attempted to contact all the area hospitals all the county jails in the area do you dilute detoxification center also tried to contact the victim's family his mother his father also his employer.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            806,
+            810
+          ],
+          "text": "area"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospitals",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            811,
+            820
+          ],
+          "text": "hospitals"
+        }
+      ]
+    },
+    {
+      "score": 0.468802,
+      "sentence": "Attempted to contact all the area hospitals all the county jails in the area do you dilute detoxification center also tried to contact the victim's family his mother his father also his employer.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospitals",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            811,
+            820
+          ],
+          "text": "hospitals"
+        },
+        {
+          "entities": [
+            {
+              "text": "jails",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            836,
+            841
+          ],
+          "text": "jails"
+        }
+      ]
+    },
+    {
+      "score": 0.508418,
+      "sentence": "Attempted to contact all the area hospitals all the county jails in the area do you dilute detoxification center also tried to contact the victim's family his mother his father also his employer.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Boilermakers",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            829,
+            835
+          ],
+          "text": "county"
+        },
+        {
+          "entities": [
+            {
+              "text": "jails",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            836,
+            841
+          ],
+          "text": "jails"
+        }
+      ]
+    },
+    {
+      "score": 0.527134,
+      "sentence": "Hi witnesses said they saw a man in a pickup truck deliberately run over another man not once but twice.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wakeman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            29,
+            32
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "pickup",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            38,
+            44
+          ],
+          "text": "pickup"
+        }
+      ]
+    },
+    {
+      "score": 0.926772,
+      "sentence": "Attempted to contact all the area hospitals all the county jails in the area do you dilute detoxification center also tried to contact the victim's family his mother his father also his employer.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "jails",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            836,
+            841
+          ],
+          "text": "jails"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            849,
+            853
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.294368,
+      "sentence": "Attempted to contact all the area hospitals all the county jails in the area do you dilute detoxification center also tried to contact the victim's family his mother his father also his employer.",
+      "type": "relative",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wakeman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            916,
+            922
+          ],
+          "text": "victim"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            925,
+            931
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.466085,
+      "sentence": "Attempted to contact all the area hospitals all the county jails in the area do you dilute detoxification center also tried to contact the victim's family his mother his father also his employer.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            936,
+            942
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            925,
+            931
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.644609,
+      "sentence": "Attempted to contact all the area hospitals all the county jails in the area do you dilute detoxification center also tried to contact the victim's family his mother his father also his employer.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            947,
+            953
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            925,
+            931
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.807032,
+      "sentence": "Attempted to contact all the area hospitals all the county jails in the area do you dilute detoxification center also tried to contact the victim's family his mother his father also his employer.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            936,
+            942
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Wakeman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            932,
+            935
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.848518,
+      "sentence": "Attempted to contact all the area hospitals all the county jails in the area do you dilute detoxification center also tried to contact the victim's family his mother his father also his employer.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            947,
+            953
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "Wakeman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            943,
+            946
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.81538,
+      "sentence": "Attempted to contact all the area hospitals all the county jails in the area do you dilute detoxification center also tried to contact the victim's family his mother his father also his employer.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wakeman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            959,
+            962
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "employer",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            963,
+            971
+          ],
+          "text": "employer"
+        }
+      ]
+    },
+    {
+      "score": 0.723947,
+      "sentence": "No one had heard from Eric Sri for he worked as an apprentice for the Boilermakers union six forty seven Eric was very quiet and reserved.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1024,
+            1034
+          ],
+          "text": "apprentice"
+        },
+        {
+          "entities": [
+            {
+              "text": "Boilermakers",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1043,
+            1055
+          ],
+          "text": "Boilermakers"
+        }
+      ]
+    },
+    {
+      "score": 0.555233,
+      "sentence": "Police found Sri first three automobiles still in his driveway his wallet and winter coats were inside his house.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1289,
+            1292
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "clubhouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1293,
+            1298
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.304218,
+      "sentence": "He came across a nice house weren't quite sure what that was the one that we are necessarily looking for but as he was looking into his house he found a hole that was larger than your normal ice fishing all probably the size of one that a human could be slipped into.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7851,
+            7854
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "clubhouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7855,
+            7860
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.690351,
+      "sentence": "Police discovered that Sri for was last seen at a party in a motorcycle clubhouse.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1323,
+            1326
+          ],
+          "text": "Sri"
+        },
+        {
+          "entities": [
+            {
+              "text": "clubhouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1372,
+            1381
+          ],
+          "text": "clubhouse"
+        }
+      ]
+    },
+    {
+      "score": 0.844989,
+      "sentence": "He came across a nice house weren't quite sure what that was the one that we are necessarily looking for but as he was looking into his house he found a hole that was larger than your normal ice fishing all probably the size of one that a human could be slipped into.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7719,
+            7721
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "clubhouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7741,
+            7746
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.488498,
+      "sentence": "Hi witnesses said they saw a man in a pickup truck deliberately run over another man not once but twice.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wakeman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            29,
+            32
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            45,
+            50
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.532467,
+      "sentence": "He also said he didn't realize Schriever was stuck under the truck until you reach the end of the parking lot.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wakeman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11726,
+            11728
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11787,
+            11792
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.470053,
+      "sentence": "He also said he didn't realize Schriever was stuck under the truck until you reach the end of the parking lot.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wakeman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11739,
+            11741
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11787,
+            11792
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.529223,
+      "sentence": "Two motorcycle club members who were at that party Charlie Johnson and her single said that Sri for got into an altercation with Joseph.",
+      "type": "memberOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "members",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1403,
+            1410
+          ],
+          "text": "members"
+        },
+        {
+          "entities": [
+            {
+              "text": "club",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1398,
+            1402
+          ],
+          "text": "club"
+        }
+      ]
+    },
+    {
+      "score": 0.989229,
+      "sentence": "The witnesses say women easily won the fight.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1606,
+            1615
+          ],
+          "text": "witnesses"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1616,
+            1619
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.576719,
+      "sentence": "He got into his truck.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1719,
+            1721
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1735,
+            1740
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.590423,
+      "sentence": "He got into his truck.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1731,
+            1734
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1735,
+            1740
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.796868,
+      "sentence": "Women and then put his truck in reverse and ran over him a second time.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1844,
+            1847
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1848,
+            1853
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.740623,
+      "sentence": "Police wanted to find some way to verify the claims of two eye witnesses that Eric Sri for was run over twice by Joseph women and in his truck from the very beginning we had to try and put the case together to understand exactly what happened and then attempt to try and locate where possible the body had gone to after that period of time so initially were trying to put the puzzle together before the final where the body may have gone to.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2993,
+            2996
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2997,
+            3002
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.490119,
+      "sentence": "The witnesses admitted they were drinking heavily that night and weren't sure of all the details and the alleged fight took place almost a week earlier and the inclement weather complicated the investigation.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2112,
+            2116
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2103,
+            2111
+          ],
+          "text": "admitted"
+        }
+      ]
+    },
+    {
+      "score": 0.712425,
+      "sentence": "The witnesses admitted they were drinking heavily that night and weren't sure of all the details and the alleged fight took place almost a week earlier and the inclement weather complicated the investigation.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            2144,
+            2149
+          ],
+          "text": "night"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2103,
+            2111
+          ],
+          "text": "admitted"
+        }
+      ]
+    },
+    {
+      "score": 0.287395,
+      "sentence": "When police looked into Joseph women's background they discovered he had never been in trouble with the law he was an ex marine who had served during the Gulf War and was a member of the Thunderbird motorcycle gang although not an active member.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph Whelan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2550,
+            2556
+          ],
+          "text": "Joseph"
+        },
+        {
+          "entities": [
+            {
+              "text": "women",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2557,
+            2562
+          ],
+          "text": "women"
+        }
+      ]
+    },
+    {
+      "score": 0.631305,
+      "sentence": "When police looked into Joseph women's background they discovered he had never been in trouble with the law he was an ex marine who had served during the Gulf War and was a member of the Thunderbird motorcycle gang although not an active member.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph Whelan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2654,
+            2657
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "Gulf War",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            2680,
+            2688
+          ],
+          "text": "Gulf War"
+        }
+      ]
+    },
+    {
+      "score": 0.287282,
+      "sentence": "When police looked into Joseph women's background they discovered he had never been in trouble with the law he was an ex marine who had served during the Gulf War and was a member of the Thunderbird motorcycle gang although not an active member.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph Whelan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2699,
+            2705
+          ],
+          "text": "member"
+        },
+        {
+          "entities": [
+            {
+              "text": "Thunderbird",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2713,
+            2724
+          ],
+          "text": "Thunderbird"
+        }
+      ]
+    },
+    {
+      "score": 0.879799,
+      "sentence": "When police looked into Joseph women's background they discovered he had never been in trouble with the law he was an ex marine who had served during the Gulf War and was a member of the Thunderbird motorcycle gang although not an active member.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "gang",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2736,
+            2740
+          ],
+          "text": "gang"
+        },
+        {
+          "entities": [
+            {
+              "text": "motorcycle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2725,
+            2735
+          ],
+          "text": "motorcycle"
+        }
+      ]
+    },
+    {
+      "score": 0.261571,
+      "sentence": "Hi witnesses said they saw a man in a pickup truck deliberately run over another man not once but twice.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "pickup",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            38,
+            44
+          ],
+          "text": "pickup"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            45,
+            50
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.3371,
+      "sentence": "Police could not find the victim's body for the pickup truck and when police tried to talk to the two eye witnesses they had disappeared to.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "pickup",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            153,
+            159
+          ],
+          "text": "pickup"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            160,
+            165
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.470245,
+      "sentence": "Police wanted to find some way to verify the claims of two eye witnesses that Eric Sri for was run over twice by Joseph women and in his truck from the very beginning we had to try and put the case together to understand exactly what happened and then attempt to try and locate where possible the body had gone to after that period of time so initially were trying to put the puzzle together before the final where the body may have gone to.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3027,
+            3029
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2997,
+            3002
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.546072,
+      "sentence": "I think I used the analogy in one of my stories it was like they were cutting their lawn with tweezers they went over that vehicle inch by inch.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10068,
+            10072
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10088,
+            10095
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.574538,
+      "sentence": "Once the state could tie of the body to Mr women instruct the case I changed dramatically and I talked to John I I and I told him so ultimately it comes down to the Kenny Rogers song you gotta know when to hold em and know when to fold and I felt it was when they found that blood in the truck it was time to fold.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11117,
+            11121
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11146,
+            11151
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.60315,
+      "sentence": "Twelve years in prison for a murder were you drive your vehicle over a body one time then back over again if the witnesses are to both be believed to me that's not justice.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13119,
+            13128
+          ],
+          "text": "witnesses"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            13062,
+            13069
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.726771,
+      "sentence": "They discovered a blood trail that led from the alley all the way to the end of the parking area nearly eighty yards away.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "yards",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3623,
+            3628
+          ],
+          "text": "yards"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            3604,
+            3608
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.987465,
+      "sentence": "Medical examiner Dr Donald com dole was called to the scene.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald com dole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3938,
+            3953
+          ],
+          "text": "Donald com dole"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3958,
+            3964
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.72871,
+      "sentence": "Medical examiner Dr Donald com dole was called to the scene.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            3972,
+            3977
+          ],
+          "text": "scene"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3958,
+            3964
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.973706,
+      "sentence": "However Dr Khan told told police that without immediate medical attention the victim would have died within four hours.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Khan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4505,
+            4509
+          ],
+          "text": "Khan"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4510,
+            4514
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.934592,
+      "sentence": "However Dr Khan told told police that without immediate medical attention the victim would have died within four hours.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Khan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4505,
+            4509
+          ],
+          "text": "Khan"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4515,
+            4519
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.732709,
+      "sentence": "However Dr Khan told told police that without immediate medical attention the victim would have died within four hours.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4520,
+            4526
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4515,
+            4519
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.943609,
+      "sentence": "They learned that Sri for had undergone hand surgery a few years earlier when he had accidentally shot himself.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5100,
+            5102
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5120,
+            5124
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.477148,
+      "sentence": "They learned that Sri for had undergone hand surgery a few years earlier when he had accidentally shot himself.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5125,
+            5132
+          ],
+          "text": "himself"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5120,
+            5124
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.602827,
+      "sentence": "The hospital shade tree first tissue sample that had been sent to the pathology lab for analysis.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5138,
+            5146
+          ],
+          "text": "hospital"
+        },
+        {
+          "entities": [
+            {
+              "text": "sample",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5171,
+            5177
+          ],
+          "text": "sample"
+        }
+      ]
+    },
+    {
+      "score": 0.345856,
+      "sentence": "Police campus area hospitals health clinics and doctors offices no one with the type of injury Sri for would have sustained had been treated.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospitals health clinics",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5463,
+            5487
+          ],
+          "text": "hospitals health clinics"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5458,
+            5462
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.670165,
+      "sentence": "Police could not find the victim's body for the pickup truck and when police tried to talk to the two eye witnesses they had disappeared to.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            175,
+            181
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "talk",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            191,
+            195
+          ],
+          "text": "talk"
+        }
+      ]
+    },
+    {
+      "score": 0.53579,
+      "sentence": "Police campus area hospitals health clinics and doctors offices no one with the type of injury Sri for would have sustained had been treated.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "offices",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5500,
+            5507
+          ],
+          "text": "offices"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5458,
+            5462
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.323193,
+      "sentence": "Police campus area hospitals health clinics and doctors offices no one with the type of injury Sri for would have sustained had been treated.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5492,
+            5499
+          ],
+          "text": "doctors"
+        },
+        {
+          "entities": [
+            {
+              "text": "offices",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5500,
+            5507
+          ],
+          "text": "offices"
+        }
+      ]
+    },
+    {
+      "score": 0.588947,
+      "sentence": "The next step was for police to speak with the driver of the truck Joseph Whelan but he was uncooperative he started to shut the door on at that point I reached over and grabbed him by the shirt informed him that he was under arrest for murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5830,
+            5836
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "speak",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5840,
+            5845
+          ],
+          "text": "speak"
+        }
+      ]
+    },
+    {
+      "score": 0.714903,
+      "sentence": "The next step was for police to speak with the driver of the truck Joseph Whelan but he was uncooperative he started to shut the door on at that point I reached over and grabbed him by the shirt informed him that he was under arrest for murder.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "driver",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5855,
+            5861
+          ],
+          "text": "driver"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            5869,
+            5874
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.317998,
+      "sentence": "The next step was for police to speak with the driver of the truck Joseph Whelan but he was uncooperative he started to shut the door on at that point I reached over and grabbed him by the shirt informed him that he was under arrest for murder.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph Whelan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5875,
+            5888
+          ],
+          "text": "Joseph Whelan"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            5869,
+            5874
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.94989,
+      "sentence": "The next step was for police to speak with the driver of the truck Joseph Whelan but he was uncooperative he started to shut the door on at that point I reached over and grabbed him by the shirt informed him that he was under arrest for murder.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph Whelan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6021,
+            6023
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrest",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            6034,
+            6040
+          ],
+          "text": "arrest"
+        }
+      ]
+    },
+    {
+      "score": 0.980806,
+      "sentence": "The next step was for police to speak with the driver of the truck Joseph Whelan but he was uncooperative he started to shut the door on at that point I reached over and grabbed him by the shirt informed him that he was under arrest for murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph Whelan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6021,
+            6023
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6045,
+            6051
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.500706,
+      "sentence": "Police impounded women's vehicles.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "women",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6070,
+            6075
+          ],
+          "text": "women"
+        },
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6053,
+            6059
+          ],
+          "text": "Police"
+        }
+      ]
+    },
+    {
+      "score": 0.41672,
+      "sentence": "Police impounded women's vehicles.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "women",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6070,
+            6075
+          ],
+          "text": "women"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            6078,
+            6086
+          ],
+          "text": "vehicles"
+        }
+      ]
+    },
+    {
+      "score": 0.496848,
+      "sentence": "Crime lab is well respected by law enforcement agencies in the state they've got the best equipment more sophisticated gear if they couldn't find any evidence in the truck and then you start wondering well how could that be how could somebody drive a truck over somebody twice and has no hair no blood nothing and that didn't seem right to me.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "agencies",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6279,
+            6287
+          ],
+          "text": "agencies"
+        },
+        {
+          "entities": [
+            {
+              "text": "state",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6295,
+            6300
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.620275,
+      "sentence": "Police could not find the victim's body for the pickup truck and when police tried to talk to the two eye witnesses they had disappeared to.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            211,
+            220
+          ],
+          "text": "witnesses"
+        },
+        {
+          "entities": [
+            {
+              "text": "talk",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            191,
+            195
+          ],
+          "text": "talk"
+        }
+      ]
+    },
+    {
+      "score": 0.981302,
+      "sentence": "During police questioning both witnesses admitted they were in the pre dated at the time of the alleged accident.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6673,
+            6679
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "questioning",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6680,
+            6691
+          ],
+          "text": "questioning"
+        }
+      ]
+    },
+    {
+      "score": 0.646579,
+      "sentence": "One said quote I don't remember who was at the house who came back we were sitting there drinking I know there was people in and out like I say I'm drunk I stayed drunk as I can.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6789,
+            6794
+          ],
+          "text": "quote"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6784,
+            6788
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.54668,
+      "sentence": "One said quote I don't remember who was at the house who came back we were sitting there drinking I know there was people in and out like I say I'm drunk I stayed drunk as I can.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph Whelan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6833,
+            6836
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6847,
+            6849
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.96544,
+      "sentence": "One said quote I don't remember who was at the house who came back we were sitting there drinking I know there was people in and out like I say I'm drunk I stayed drunk as I can.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph Whelan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6918,
+            6919
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6920,
+            6923
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.459421,
+      "sentence": "Investigators needed more evidence in the Eric Sri for case and the search for his body intensified.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eric Sri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7115,
+            7123
+          ],
+          "text": "Eric Sri"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            7128,
+            7132
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.364336,
+      "sentence": "Police decided to find out how old their prime suspect Joseph women and spent his leisure time and with home.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph Whelan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7229,
+            7235
+          ],
+          "text": "Joseph"
+        },
+        {
+          "entities": [
+            {
+              "text": "women",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7236,
+            7241
+          ],
+          "text": "women"
+        }
+      ]
+    },
+    {
+      "score": 0.347334,
+      "sentence": "Police decided to find out how old their prime suspect Joseph women and spent his leisure time and with home.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph Whelan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7252,
+            7255
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7278,
+            7282
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.130671,
+      "sentence": "Police had a general description of the ice house at women and his friend to use but they weren't sure where it was located on the bass St Louis river.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "St Louis",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7647,
+            7655
+          ],
+          "text": "St Louis"
+        },
+        {
+          "entities": [
+            {
+              "text": "river",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            7656,
+            7661
+          ],
+          "text": "river"
+        }
+      ]
+    },
+    {
+      "score": 0.580159,
+      "sentence": "An underwater dive team searched the frigid waters of the St Louis river for Sri first body.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "waters",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            8031,
+            8037
+          ],
+          "text": "waters"
+        },
+        {
+          "entities": [
+            {
+              "text": "river",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            8054,
+            8059
+          ],
+          "text": "river"
+        }
+      ]
+    },
+    {
+      "score": 0.759196,
+      "sentence": "Then investigators got more bad news their case against women was based almost entirely on the testimony of two witnesses who claimed they saw a fight between Sri for and women.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8357,
+            8362
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8363,
+            8367
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.403297,
+      "sentence": "On January twenty ninth two thousand one a member of a motorcycle gang in Duluth Minnesota called police to report his roommate twenty seven year old Eric Sri for missing he said he hadn't seen Sri for for the last four days and he was worried usually that doesn't happen people that report missing persons usually call in within the first sixty eight hours in a panic.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "member",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            348,
+            354
+          ],
+          "text": "member"
+        },
+        {
+          "entities": [
+            {
+              "text": "Duluth Minnesota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            379,
+            395
+          ],
+          "text": "Duluth Minnesota"
+        }
+      ]
+    },
+    {
+      "score": 0.474514,
+      "sentence": "Then investigators got more bad news their case against women was based almost entirely on the testimony of two witnesses who claimed they saw a fight between Sri for and women.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8357,
+            8362
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "women",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8376,
+            8381
+          ],
+          "text": "women"
+        }
+      ]
+    },
+    {
+      "score": 0.837123,
+      "sentence": "Then investigators got more bad news their case against women was based almost entirely on the testimony of two witnesses who claimed they saw a fight between Sri for and women.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "women",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8376,
+            8381
+          ],
+          "text": "women"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8363,
+            8367
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.973604,
+      "sentence": "Then investigators got more bad news their case against women was based almost entirely on the testimony of two witnesses who claimed they saw a fight between Sri for and women.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8442,
+            8445
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "claimed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8446,
+            8453
+          ],
+          "text": "claimed"
+        }
+      ]
+    },
+    {
+      "score": 0.399251,
+      "sentence": "But when police want to question them further the two had vanished we have actually documented testimony from family members of the two witnesses that the Thunderbirds were approached by the hell's angels and in turn approached the two witnesses and asked them to leave the community.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8565,
+            8567
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "testimony",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8593,
+            8602
+          ],
+          "text": "testimony"
+        }
+      ]
+    },
+    {
+      "score": 0.445527,
+      "sentence": "But when police want to question them further the two had vanished we have actually documented testimony from family members of the two witnesses that the Thunderbirds were approached by the hell's angels and in turn approached the two witnesses and asked them to leave the community.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8608,
+            8614
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "testimony",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8593,
+            8602
+          ],
+          "text": "testimony"
+        }
+      ]
+    },
+    {
+      "score": 0.504219,
+      "sentence": "But when police want to question them further the two had vanished we have actually documented testimony from family members of the two witnesses that the Thunderbirds were approached by the hell's angels and in turn approached the two witnesses and asked them to leave the community.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "members",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8615,
+            8622
+          ],
+          "text": "members"
+        },
+        {
+          "entities": [
+            {
+              "text": "testimony",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8593,
+            8602
+          ],
+          "text": "testimony"
+        }
+      ]
+    },
+    {
+      "score": 0.962802,
+      "sentence": "But when police want to question them further the two had vanished we have actually documented testimony from family members of the two witnesses that the Thunderbirds were approached by the hell's angels and in turn approached the two witnesses and asked them to leave the community.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "members",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8615,
+            8622
+          ],
+          "text": "members"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8608,
+            8614
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.499182,
+      "sentence": "But when police want to question them further the two had vanished we have actually documented testimony from family members of the two witnesses that the Thunderbirds were approached by the hell's angels and in turn approached the two witnesses and asked them to leave the community.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "members",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8615,
+            8622
+          ],
+          "text": "members"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8634,
+            8643
+          ],
+          "text": "witnesses"
+        }
+      ]
+    },
+    {
+      "score": 0.791009,
+      "sentence": "But when police want to question them further the two had vanished we have actually documented testimony from family members of the two witnesses that the Thunderbirds were approached by the hell's angels and in turn approached the two witnesses and asked them to leave the community.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8754,
+            8758
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8748,
+            8753
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.488169,
+      "sentence": "The more police thought about women and struck in the eye witness testimony the more they realized how unlikely it was that the undercarriage of the strike would be so please especially in the middle of winter.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "women",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9197,
+            9202
+          ],
+          "text": "women"
+        },
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9176,
+            9182
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.971099,
+      "sentence": "On January twenty ninth two thousand one a member of a motorcycle gang in Duluth Minnesota called police to report his roommate twenty seven year old Eric Sri for missing he said he hadn't seen Sri for for the last four days and he was worried usually that doesn't happen people that report missing persons usually call in within the first sixty eight hours in a panic.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "member",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            348,
+            354
+          ],
+          "text": "member"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            396,
+            402
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.564984,
+      "sentence": "The more police thought about women and struck in the eye witness testimony the more they realized how unlikely it was that the undercarriage of the strike would be so please especially in the middle of winter.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witness",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9225,
+            9232
+          ],
+          "text": "witness"
+        },
+        {
+          "entities": [
+            {
+              "text": "testimony",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            9233,
+            9242
+          ],
+          "text": "testimony"
+        }
+      ]
+    },
+    {
+      "score": 0.844626,
+      "sentence": "So nearly six months after the murder they examine the truck once again.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "women",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9472,
+            9476
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9465,
+            9471
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.432947,
+      "sentence": "So nearly six months after the murder they examine the truck once again.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "women",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9472,
+            9476
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9489,
+            9494
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.533991,
+      "sentence": "there always has to be some type of forensic evidence left behind or or in any kind of crime scene I am but I strongly believe that there's always friend sick evidence that's left behind in any crime scene.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9857,
+            9858
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            9851,
+            9856
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.516966,
+      "sentence": "And when they removed the covering of the trucks cargo area they found several small blood stains in the crevices.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10347,
+            10351
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10329,
+            10335
+          ],
+          "text": "trucks"
+        }
+      ]
+    },
+    {
+      "score": 0.474974,
+      "sentence": "Police now suspected that women in power sprayed his truck after the merger and the water pushed the victim's blood into the tiny crevices between the sheets of metal.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "women",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10428,
+            10433
+          ],
+          "text": "women"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10455,
+            10460
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.865793,
+      "sentence": "Police now suspected that women in power sprayed his truck after the merger and the water pushed the victim's blood into the tiny crevices between the sheets of metal.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wakeman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10451,
+            10454
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10455,
+            10460
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.805874,
+      "sentence": "Women and said he put you first in the back of his truck and dumped him into the river the next day.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wakeman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11884,
+            11887
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11888,
+            11893
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.501569,
+      "sentence": "When police found blood stains and a strand of hair in the undercarriage of Joseph waiting instruct they promptly inform the way millions of tourney that they would be sending the materials for forensic testing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph Whelan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10722,
+            10728
+          ],
+          "text": "Joseph"
+        },
+        {
+          "entities": [
+            {
+              "text": "inform",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10760,
+            10766
+          ],
+          "text": "inform"
+        }
+      ]
+    },
+    {
+      "score": 0.721791,
+      "sentence": "When police found blood stains and a strand of hair in the undercarriage of Joseph waiting instruct they promptly inform the way millions of tourney that they would be sending the materials for forensic testing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10746,
+            10750
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "inform",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10760,
+            10766
+          ],
+          "text": "inform"
+        }
+      ]
+    },
+    {
+      "score": 0.998192,
+      "sentence": "Once the state could tie of the body to Mr women instruct the case I changed dramatically and I talked to John I I and I told him so ultimately it comes down to the Kenny Rogers song you gotta know when to hold em and know when to fold and I felt it was when they found that blood in the truck it was time to fold.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wakeman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10952,
+            10953
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "talked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10954,
+            10960
+          ],
+          "text": "talked"
+        }
+      ]
+    },
+    {
+      "score": 0.960609,
+      "sentence": "On January twenty ninth two thousand one a member of a motorcycle gang in Duluth Minnesota called police to report his roommate twenty seven year old Eric Sri for missing he said he hadn't seen Sri for for the last four days and he was worried usually that doesn't happen people that report missing persons usually call in within the first sixty eight hours in a panic.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            403,
+            409
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            396,
+            402
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.992009,
+      "sentence": "Once the state could tie of the body to Mr women instruct the case I changed dramatically and I talked to John I I and I told him so ultimately it comes down to the Kenny Rogers song you gotta know when to hold em and know when to fold and I felt it was when they found that blood in the truck it was time to fold.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John I I",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10977,
+            10978
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10979,
+            10983
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.846099,
+      "sentence": "Once the state could tie of the body to Mr women instruct the case I changed dramatically and I talked to John I I and I told him so ultimately it comes down to the Kenny Rogers song you gotta know when to hold em and know when to fold and I felt it was when they found that blood in the truck it was time to fold.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wakeman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10984,
+            10987
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10979,
+            10983
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.78411,
+      "sentence": "Once the state could tie of the body to Mr women instruct the case I changed dramatically and I talked to John I I and I told him so ultimately it comes down to the Kenny Rogers song you gotta know when to hold em and know when to fold and I felt it was when they found that blood in the truck it was time to fold.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kenny Rogers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11023,
+            11035
+          ],
+          "text": "Kenny Rogers"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11117,
+            11121
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.773801,
+      "sentence": "Once the state could tie of the body to Mr women instruct the case I changed dramatically and I talked to John I I and I told him so ultimately it comes down to the Kenny Rogers song you gotta know when to hold em and know when to fold and I felt it was when they found that blood in the truck it was time to fold.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wakeman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11041,
+            11044
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11117,
+            11121
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.746667,
+      "sentence": "Once the state could tie of the body to Mr women instruct the case I changed dramatically and I talked to John I I and I told him so ultimately it comes down to the Kenny Rogers song you gotta know when to hold em and know when to fold and I felt it was when they found that blood in the truck it was time to fold.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John I I",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11098,
+            11099
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11117,
+            11121
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.760713,
+      "sentence": "Once the state could tie of the body to Mr women instruct the case I changed dramatically and I talked to John I I and I told him so ultimately it comes down to the Kenny Rogers song you gotta know when to hold em and know when to fold and I felt it was when they found that blood in the truck it was time to fold.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John I I",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11098,
+            11099
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11146,
+            11151
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.523184,
+      "sentence": "Women and said he put you first in the back of his truck and dumped him into the river the next day.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John I I",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11859,
+            11862
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11888,
+            11893
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.460534,
+      "sentence": "The prosecution agreed and women and confessed it's my opinion that this forensic evidence was so powerful.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John I I",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11413,
+            11415
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "confessed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11398,
+            11407
+          ],
+          "text": "confessed"
+        }
+      ]
+    },
+    {
+      "score": 0.329307,
+      "sentence": "Mr women knew what the outcome would be when we sent it to the lab.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wakeman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11469,
+            11471
+          ],
+          "text": "Mr"
+        },
+        {
+          "entities": [
+            {
+              "text": "Women",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11472,
+            11477
+          ],
+          "text": "women"
+        }
+      ]
+    },
+    {
+      "score": 0.741814,
+      "sentence": "Wakeman and admitted running over Sri for in the alley but said it was an accident.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wakeman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11642,
+            11649
+          ],
+          "text": "Wakeman"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11701,
+            11705
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.989761,
+      "sentence": "He also said he didn't realize Schriever was stuck under the truck until you reach the end of the parking lot.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wakeman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11726,
+            11728
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11734,
+            11738
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.521985,
+      "sentence": "Women and said he put you first in the back of his truck and dumped him into the river the next day.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wakeman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11852,
+            11854
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11847,
+            11851
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.973754,
+      "sentence": "He said the police had searched the correct spot in the Saint Louis river but the body may have drifted.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wakeman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11938,
+            11940
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11941,
+            11945
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.424218,
+      "sentence": "He also said he didn't realize Schriever was stuck under the truck until you reach the end of the parking lot.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Wakeman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11739,
+            11741
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11734,
+            11738
+          ],
+          "text": "said"
+        }
+      ]
+    }
+  ]
+}

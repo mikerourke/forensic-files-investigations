@@ -1,0 +1,5382 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 14994,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Laura",
+      "relevance": 0.970195,
+      "confidence": 1,
+      "count": 35
+    },
+    {
+      "type": "Person",
+      "text": "Laura Hotaling",
+      "relevance": 0.604426,
+      "confidence": 1,
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "Clark",
+      "relevance": 0.359935,
+      "confidence": 1,
+      "count": 21
+    },
+    {
+      "type": "Person",
+      "text": "Hotaling",
+      "relevance": 0.27068,
+      "confidence": 0.999397,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Warren",
+      "relevance": 0.219608,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "penny Hotaling",
+      "relevance": 0.182752,
+      "confidence": 0.998061,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "nineteen ninety two twenty three year",
+      "relevance": 0.157928,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mar Hotaling",
+      "relevance": 0.155704,
+      "confidence": 0.988601,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Sherlock",
+      "relevance": 0.132842,
+      "confidence": 0.999734,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Laura Wharton",
+      "relevance": 0.131767,
+      "confidence": 0.953149,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty three year",
+      "relevance": 0.128005,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Laura hall",
+      "relevance": 0.127816,
+      "confidence": 0.742388,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Lara hotel",
+      "relevance": 0.122731,
+      "confidence": 0.649754,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Hatton Clark",
+      "relevance": 0.112271,
+      "confidence": 0.995559,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Susan blue",
+      "relevance": 0.105267,
+      "confidence": 0.980245,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "penny",
+      "relevance": 0.098427,
+      "confidence": 0.999762,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty four year",
+      "relevance": 0.094564,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Laura Clark",
+      "relevance": 0.085973,
+      "confidence": 0.996808,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Forty year",
+      "relevance": 0.085736,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Bethesda",
+      "relevance": 0.077919,
+      "confidence": 0.990876,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Harvard University",
+      "relevance": 0.075604,
+      "confidence": 0.596212,
+      "count": 1,
+      "disambiguation": {
+        "name": "Harvard_University",
+        "dbpedia_resource": "http://dbpedia.org/resource/Harvard_University",
+        "subtype": [
+          "Location",
+          "CollegeUniversity",
+          "University"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "DC",
+      "relevance": 0.07361,
+      "confidence": 0.967932,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Lawrence mattress",
+      "relevance": 0.071398,
+      "confidence": 0.482982,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Four days",
+      "relevance": 0.064635,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Washington",
+      "relevance": 0.063474,
+      "confidence": 0.99999,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Morris",
+      "relevance": 0.062475,
+      "confidence": 0.648343,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Maryland",
+      "relevance": 0.059947,
+      "confidence": 0.995415,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Lawrence",
+      "relevance": 0.056941,
+      "confidence": 0.157983,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "paranoid schizophrenic",
+      "relevance": 0.054032,
+      "confidence": 0.547033,
+      "count": 1,
+      "disambiguation": {
+        "name": "Schizophrenia",
+        "dbpedia_resource": "http://dbpedia.org/resource/Schizophrenia",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "DiseaseCause",
+          "RiskFactor",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Virginia",
+      "relevance": 0.052431,
+      "confidence": 0.99769,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Lee",
+      "relevance": 0.048733,
+      "confidence": 0.802972,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Weeknd fiber",
+      "relevance": 0.046078,
+      "confidence": 0.235689,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Morris",
+      "relevance": 0.045926,
+      "confidence": 0.403445,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "United States Navy",
+      "relevance": 0.045553,
+      "confidence": 0.463168,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Ten days",
+      "relevance": 0.045378,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Lawrence",
+      "relevance": 0.0446,
+      "confidence": 0.921653,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one week",
+      "relevance": 0.03326,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Warwick",
+      "relevance": 0.033136,
+      "confidence": 0.99133,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Rhode Island",
+      "relevance": 0.030245,
+      "confidence": 0.453702,
+      "count": 1,
+      "disambiguation": {
+        "name": "Colony_of_Rhode_Island_and_Providence_Plantations",
+        "dbpedia_resource": "http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Kevin Clark",
+      "relevance": 0.027951,
+      "confidence": 0.999402,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two days",
+      "relevance": 0.027141,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Lauren",
+      "relevance": 0.025858,
+      "confidence": 0.999831,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "FBI",
+      "relevance": 0.022411,
+      "confidence": 0.818742,
+      "count": 1,
+      "disambiguation": {
+        "name": "Federal_Bureau_of_Investigation",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation",
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Clark new penny Hotaling",
+      "relevance": 0.020673,
+      "confidence": 0.352036,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eight months",
+      "relevance": 0.015872,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "relevance": 0.014761,
+      "confidence": 0.991443,
+      "count": 1,
+      "disambiguation": {
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    },
+    {
+      "type": "Facility",
+      "text": "daybreak park",
+      "relevance": 0.012949,
+      "confidence": 0.909569,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Hadn",
+      "relevance": 0.01279,
+      "confidence": 0.898211,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.928309
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.713798
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.700062
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.689852
+    },
+    {
+      "label": "/style and fashion/clothing",
+      "score": 0.68626
+    },
+    {
+      "label": "/society/dating",
+      "score": 0.631762
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.589919
+    },
+    {
+      "label": "/society/crime/personal offense/kidnapping",
+      "score": 0.587529
+    },
+    {
+      "label": "/sports/go kart",
+      "score": 0.578447
+    },
+    {
+      "label": "/style and fashion/clothing/pants",
+      "score": 0.567864
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.902166,
+      "sentence": "Early Monday morning on October nineteenth nineteen ninety two twenty three year old Laura Hotaling was seen leaving her Bethesda Maryland home walking to the train station on her way to work.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "station",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            139,
+            143
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "Bethesda Maryland",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            121,
+            138
+          ],
+          "text": "Bethesda Maryland"
+        }
+      ]
+    },
+    {
+      "score": 0.703667,
+      "sentence": "Worker called the house but there was no answer Laura's mother was out of town on a business trip.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mar Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            734,
+            740
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            726,
+            731
+          ],
+          "text": "Laura"
+        }
+      ]
+    },
+    {
+      "score": 0.449548,
+      "sentence": "Using a DNA test called restriction fragment length polymorphism RFLP scientists concluded that the blood came from a biological offspring of Laura's mother penny and was that of a biological sibling of Laura's brother Warren the blood on the hello was that of Lara hotel next scientists used another illuminating test on the mattress to look for blood that may have been cleaned up with water.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mar Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3424,
+            3430
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3416,
+            3421
+          ],
+          "text": "Laura"
+        }
+      ]
+    },
+    {
+      "score": 0.606396,
+      "sentence": "Police theorize that Clark was angry over the disagreement he had with Laura's mother over the missing tools from the shed looking into hands background we found anytime it expressly a female.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mar Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12731,
+            12737
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12723,
+            12728
+          ],
+          "text": "Laura"
+        }
+      ]
+    },
+    {
+      "score": 0.499117,
+      "sentence": "Was the merger with the first degree murder trial was set to begin on June fourteenth nineteen ninety three but the trial never place the defendant in the Hotaling case just played guilty the plea was accepted.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mar Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11740,
+            11749
+          ],
+          "text": "defendant"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11766,
+            11770
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.709613,
+      "sentence": "Was the merger with the first degree murder trial was set to begin on June fourteenth nineteen ninety three but the trial never place the defendant in the Hotaling case just played guilty the plea was accepted.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11757,
+            11765
+          ],
+          "text": "Hotaling"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11766,
+            11770
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.487169,
+      "sentence": "As part of the plea bargain Clark revealed to prosecutors where he had buried the body.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hatton Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11883,
+            11888
+          ],
+          "text": "Clark"
+        },
+        {
+          "entities": [
+            {
+              "text": "plea bargain",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11870,
+            11882
+          ],
+          "text": "plea bargain"
+        }
+      ]
+    },
+    {
+      "score": 0.997374,
+      "sentence": "As part of the plea bargain Clark revealed to prosecutors where he had buried the body.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hatton Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11883,
+            11888
+          ],
+          "text": "Clark"
+        },
+        {
+          "entities": [
+            {
+              "text": "revealed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11889,
+            11897
+          ],
+          "text": "revealed"
+        }
+      ]
+    },
+    {
+      "score": 0.942219,
+      "sentence": "As part of the plea bargain Clark revealed to prosecutors where he had buried the body.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11901,
+            11912
+          ],
+          "text": "prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "revealed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11889,
+            11897
+          ],
+          "text": "revealed"
+        }
+      ]
+    },
+    {
+      "score": 0.445623,
+      "sentence": "He led them through a shallow grave less than half a mile from Laura's home.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12006,
+            12011
+          ],
+          "text": "Laura"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12014,
+            12018
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.94907,
+      "sentence": "It had been eight months since Laura Hotaling disappearance there was a skeletal part of the body that was sticking out of the ground the rest of the body was still intact under the ground the autopsy report also listed suffocation as a possible cause of death since Clark told prosecutors that he suffocated her.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hatton Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12287,
+            12292
+          ],
+          "text": "Clark"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12293,
+            12297
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.966799,
+      "sentence": "It had been eight months since Laura Hotaling disappearance there was a skeletal part of the body that was sticking out of the ground the rest of the body was still intact under the ground the autopsy report also listed suffocation as a possible cause of death since Clark told prosecutors that he suffocated her.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12298,
+            12309
+          ],
+          "text": "prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12293,
+            12297
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.495708,
+      "sentence": "It had been eight months since Laura Hotaling disappearance there was a skeletal part of the body that was sticking out of the ground the rest of the body was still intact under the ground the autopsy report also listed suffocation as a possible cause of death since Clark told prosecutors that he suffocated her.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12298,
+            12309
+          ],
+          "text": "prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12318,
+            12328
+          ],
+          "text": "suffocated"
+        }
+      ]
+    },
+    {
+      "score": 0.962569,
+      "sentence": "It had been eight months since Laura Hotaling disappearance there was a skeletal part of the body that was sticking out of the ground the rest of the body was still intact under the ground the autopsy report also listed suffocation as a possible cause of death since Clark told prosecutors that he suffocated her.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hatton Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12315,
+            12317
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12318,
+            12328
+          ],
+          "text": "suffocated"
+        }
+      ]
+    },
+    {
+      "score": 0.984726,
+      "sentence": "Next Morris brother Warren was called he lived nearby.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Warren",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            797,
+            803
+          ],
+          "text": "Warren"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            808,
+            814
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.513969,
+      "sentence": "It had been eight months since Laura Hotaling disappearance there was a skeletal part of the body that was sticking out of the ground the rest of the body was still intact under the ground the autopsy report also listed suffocation as a possible cause of death since Clark told prosecutors that he suffocated her.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12329,
+            12332
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12318,
+            12328
+          ],
+          "text": "suffocated"
+        }
+      ]
+    },
+    {
+      "score": 0.95227,
+      "sentence": "Clark also admitted using a knife from the kitchen and a pair of scissors consistent with the bloody imprints found on the discarded pillowcase when you call the pair sisters to these marks band fact Albrighton lined with the outline impression of the marks on the pillow.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hatton Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12334,
+            12339
+          ],
+          "text": "Clark"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12345,
+            12353
+          ],
+          "text": "admitted"
+        }
+      ]
+    },
+    {
+      "score": 0.673272,
+      "sentence": "Clark also admitted using a knife from the kitchen and a pair of scissors consistent with the bloody imprints found on the discarded pillowcase when you call the pair sisters to these marks band fact Albrighton lined with the outline impression of the marks on the pillow.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "knife",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            12362,
+            12367
+          ],
+          "text": "knife"
+        },
+        {
+          "entities": [
+            {
+              "text": "kitchen",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12377,
+            12384
+          ],
+          "text": "kitchen"
+        }
+      ]
+    },
+    {
+      "score": 0.582346,
+      "sentence": "He picked up a knife from the kitchen.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "knife",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            13245,
+            13250
+          ],
+          "text": "knife"
+        },
+        {
+          "entities": [
+            {
+              "text": "kitchen",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13260,
+            13267
+          ],
+          "text": "kitchen"
+        }
+      ]
+    },
+    {
+      "score": 0.980041,
+      "sentence": "Police theorize that Clark was angry over the disagreement he had with Laura's mother over the missing tools from the shed looking into hands background we found anytime it expressly a female.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12652,
+            12658
+          ],
+          "text": "Police"
+        },
+        {
+          "entities": [
+            {
+              "text": "theorize",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12659,
+            12667
+          ],
+          "text": "theorize"
+        }
+      ]
+    },
+    {
+      "score": 0.609941,
+      "sentence": "Police theorize that Clark was angry over the disagreement he had with Laura's mother over the missing tools from the shed looking into hands background we found anytime it expressly a female.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hatton Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12673,
+            12678
+          ],
+          "text": "Clark"
+        },
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12805,
+            12807
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.897792,
+      "sentence": "Police theorize that Clark was angry over the disagreement he had with Laura's mother over the missing tools from the shed looking into hands background we found anytime it expressly a female.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12723,
+            12728
+          ],
+          "text": "Laura"
+        },
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12805,
+            12807
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.564674,
+      "sentence": "Police theorize that Clark was angry over the disagreement he had with Laura's mother over the missing tools from the shed looking into hands background we found anytime it expressly a female.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mar Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12731,
+            12737
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "shed",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            12770,
+            12774
+          ],
+          "text": "shed"
+        }
+      ]
+    },
+    {
+      "score": 0.662089,
+      "sentence": "Police theorize that Clark was angry over the disagreement he had with Laura's mother over the missing tools from the shed looking into hands background we found anytime it expressly a female.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mar Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12731,
+            12737
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12805,
+            12807
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.926281,
+      "sentence": "Clark'S confession and evidence gathered by the police told prosecutors all they needed to know about what happened to Laura Hotaling in the early hours of October nineteenth nineteen ninety two.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12968,
+            12974
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12975,
+            12979
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.895526,
+      "sentence": "Clark'S confession and evidence gathered by the police told prosecutors all they needed to know about what happened to Laura Hotaling in the early hours of October nineteenth nineteen ninety two.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12980,
+            12991
+          ],
+          "text": "prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12975,
+            12979
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.680419,
+      "sentence": "Next Morris brother Warren was called he lived nearby.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Morris dresser",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            815,
+            817
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            808,
+            814
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.587985,
+      "sentence": "Hadn'T Clark new penny Hotaling was away when he entered the home through the back door some time after midnight.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13139,
+            13147
+          ],
+          "text": "Hotaling"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13177,
+            13181
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.579912,
+      "sentence": "Hadn'T Clark new penny Hotaling was away when he entered the home through the back door some time after midnight.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hatton Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13162,
+            13164
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13177,
+            13181
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.522171,
+      "sentence": "He picked up a knife from the kitchen.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hatton Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13230,
+            13232
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "kitchen",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13260,
+            13267
+          ],
+          "text": "kitchen"
+        }
+      ]
+    },
+    {
+      "score": 0.607076,
+      "sentence": "There was no blood trail in the house since Clark wrapped the body in bed linens and plastic.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hatton Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13543,
+            13548
+          ],
+          "text": "Clark"
+        },
+        {
+          "entities": [
+            {
+              "text": "station",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13531,
+            13536
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.732247,
+      "sentence": "While transporting the body to the woods he accidentally dropped the bloody pillowcase with his thumb print later found by police.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13616,
+            13620
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "woods",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            13628,
+            13633
+          ],
+          "text": "woods"
+        }
+      ]
+    },
+    {
+      "score": 0.43347,
+      "sentence": "While transporting the body to the woods he accidentally dropped the bloody pillowcase with his thumb print later found by police.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hatton Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13634,
+            13636
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "woods",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            13628,
+            13633
+          ],
+          "text": "woods"
+        }
+      ]
+    },
+    {
+      "score": 0.991225,
+      "sentence": "Before dawn he returned the clean up as much blood from the mattress city court found the luminol.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "court",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13798,
+            13803
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "text": "city",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13793,
+            13797
+          ],
+          "text": "city"
+        }
+      ]
+    },
+    {
+      "score": 0.432075,
+      "sentence": "You may have been on his way to replace it when he encountered Laura's brother outside the home the next.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hatton Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14079,
+            14081
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14122,
+            14126
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.324695,
+      "sentence": "You may have been on his way to replace it when he encountered Laura's brother outside the home the next.",
+      "type": "siblingOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14094,
+            14099
+          ],
+          "text": "Laura"
+        },
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14102,
+            14109
+          ],
+          "text": "brother"
+        }
+      ]
+    },
+    {
+      "score": 0.574008,
+      "sentence": "You may have been on his way to replace it when he encountered Laura's brother outside the home the next.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14094,
+            14099
+          ],
+          "text": "Laura"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14122,
+            14126
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.779371,
+      "sentence": "When he arrived at the house he found the back door was unlocked.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Morris dresser",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            837,
+            839
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "station",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            855,
+            860
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.357044,
+      "sentence": "You may have been on his way to replace it when he encountered Laura's brother outside the home the next.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14102,
+            14109
+          ],
+          "text": "brother"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14122,
+            14126
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.542979,
+      "sentence": "When it is there have those tools able to find that little bit of evidence makes all the difference in the world allows you to get people off the street.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14972,
+            14978
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "street",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14987,
+            14993
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.994682,
+      "sentence": "Where she had withdrawn money work she said she would have needed to survive somewhere else flyers with Laura's photographs were distributed at the train station in the hope that someone might have seen her.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1166,
+            1169
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1170,
+            1174
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.996775,
+      "sentence": "Media at Lee I I recognized the pattern on the pillow case was identical to what I had remembered and Laura Hotaling said a few days earlier.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1938,
+            1952
+          ],
+          "text": "Laura Hotaling"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1953,
+            1957
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.376986,
+      "sentence": "Police also searched the walk in between the train station and Laura's home looking for possible clues but found nothing.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1402,
+            1407
+          ],
+          "text": "Laura"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1410,
+            1414
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.438047,
+      "sentence": "When detectives searched Laura's bedroom they noticed that a fitted sheets and mattress pad were missing from her bad.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1486,
+            1491
+          ],
+          "text": "Laura"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1494,
+            1501
+          ],
+          "text": "bedroom"
+        }
+      ]
+    },
+    {
+      "score": 0.424885,
+      "sentence": "Although police suspected the flora Hotaling had been murdered in her bedroom they were unable to find her body and had no solid leads Laura's brother Warren told police of an incident he had with the part time gardener who worked at his mother's home had clocked.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6684,
+            6687
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6688,
+            6695
+          ],
+          "text": "bedroom"
+        }
+      ]
+    },
+    {
+      "score": 0.418357,
+      "sentence": "Laura'S mother said the floor always made her bed before leaving for work.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1580,
+            1585
+          ],
+          "text": "Laura"
+        },
+        {
+          "entities": [
+            {
+              "text": "Mar Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1588,
+            1594
+          ],
+          "text": "mother"
+        }
+      ]
+    },
+    {
+      "score": 0.930072,
+      "sentence": "Laura'S mother said the floor always made her bed before leaving for work.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mar Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1588,
+            1594
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1595,
+            1599
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.66441,
+      "sentence": "Four days after Laura Hotaling disappeared investigators made a grim discovery in the woods near Lawrence home at the base of the tree.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1698,
+            1711
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "woods",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1741,
+            1746
+          ],
+          "text": "woods"
+        }
+      ]
+    },
+    {
+      "score": 0.827074,
+      "sentence": "Early Monday morning on October nineteenth nineteen ninety two twenty three year old Laura Hotaling was seen leaving her Bethesda Maryland home walking to the train station on her way to work.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "train",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            159,
+            164
+          ],
+          "text": "train"
+        },
+        {
+          "entities": [
+            {
+              "text": "station",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            165,
+            172
+          ],
+          "text": "station"
+        }
+      ]
+    },
+    {
+      "score": 0.773491,
+      "sentence": "Where she had withdrawn money work she said she would have needed to survive somewhere else flyers with Laura's photographs were distributed at the train station in the hope that someone might have seen her.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "train",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1279,
+            1284
+          ],
+          "text": "train"
+        },
+        {
+          "entities": [
+            {
+              "text": "station",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1285,
+            1292
+          ],
+          "text": "station"
+        }
+      ]
+    },
+    {
+      "score": 0.728943,
+      "sentence": "Police also searched the walk in between the train station and Laura's home looking for possible clues but found nothing.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "train",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1384,
+            1389
+          ],
+          "text": "train"
+        },
+        {
+          "entities": [
+            {
+              "text": "station",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1390,
+            1397
+          ],
+          "text": "station"
+        }
+      ]
+    },
+    {
+      "score": 0.618382,
+      "sentence": "Four days after Laura Hotaling disappeared investigators made a grim discovery in the woods near Lawrence home at the base of the tree.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "woods",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1741,
+            1746
+          ],
+          "text": "woods"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lawrence",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1752,
+            1760
+          ],
+          "text": "Lawrence"
+        }
+      ]
+    },
+    {
+      "score": 0.515091,
+      "sentence": "Four days after Laura Hotaling disappeared investigators made a grim discovery in the woods near Lawrence home at the base of the tree.",
+      "type": "near",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "woods",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1741,
+            1746
+          ],
+          "text": "woods"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1761,
+            1765
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.912682,
+      "sentence": "Four days after Laura Hotaling disappeared investigators made a grim discovery in the woods near Lawrence home at the base of the tree.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1761,
+            1765
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lawrence",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1752,
+            1760
+          ],
+          "text": "Lawrence"
+        }
+      ]
+    },
+    {
+      "score": 0.771116,
+      "sentence": "Media at Lee I I recognized the pattern on the pillow case was identical to what I had remembered and Laura Hotaling said a few days earlier.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Media",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1836,
+            1841
+          ],
+          "text": "Media"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lee",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1845,
+            1848
+          ],
+          "text": "Lee"
+        }
+      ]
+    },
+    {
+      "score": 0.684808,
+      "sentence": "Media at Lee I I recognized the pattern on the pillow case was identical to what I had remembered and Laura Hotaling said a few days earlier.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "few days earlier",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            1960,
+            1976
+          ],
+          "text": "few days earlier"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1953,
+            1957
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.640106,
+      "sentence": "The blood on the pillow case was tight a Lawrence blood type.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "protein",
+              "type": "Substance"
+            }
+          ],
+          "location": [
+            2028,
+            2033
+          ],
+          "text": "blood"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lawrence",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2019,
+            2027
+          ],
+          "text": "Lawrence"
+        }
+      ]
+    },
+    {
+      "score": 0.793167,
+      "sentence": "A police bloodhound named Sherlock was given some of Laura's clothing to establish your scent when Sherlock was released from his cage he went directly to the tree where police have found the bloody hello case.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sherlock",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2139,
+            2147
+          ],
+          "text": "Sherlock"
+        },
+        {
+          "entities": [
+            {
+              "text": "released",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            2152,
+            2160
+          ],
+          "text": "released"
+        }
+      ]
+    },
+    {
+      "score": 0.583792,
+      "sentence": "A police bloodhound named Sherlock was given some of Laura's clothing to establish your scent when Sherlock was released from his cage he went directly to the tree where police have found the bloody hello case.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sherlock",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2175,
+            2177
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            2245,
+            2249
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.984293,
+      "sentence": "Police suspected foul play but they had no suspects we spoke to everyone that we could that had seen Laura Wharton knew Laura within the last year or two and no one could give us any reason for anyone to want to do any harm to her have any harm to come to her.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2600,
+            2602
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "spoke",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2603,
+            2608
+          ],
+          "text": "spoke"
+        }
+      ]
+    },
+    {
+      "score": 0.680832,
+      "sentence": "Police suspected foul play but they had no suspects we spoke to everyone that we could that had seen Laura Wharton knew Laura within the last year or two and no one could give us any reason for anyone to want to do any harm to her have any harm to come to her.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "everyone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2612,
+            2620
+          ],
+          "text": "everyone"
+        },
+        {
+          "entities": [
+            {
+              "text": "spoke",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2603,
+            2608
+          ],
+          "text": "spoke"
+        }
+      ]
+    },
+    {
+      "score": 0.640186,
+      "sentence": "Mar Hotaling was an ambitious young woman with a bright future she had recently graduated from Harvard University I did move back home with their mother.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mar Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            341,
+            344
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "graduated",
+              "type": "EventEducation"
+            }
+          ],
+          "location": [
+            358,
+            367
+          ],
+          "text": "graduated"
+        }
+      ]
+    },
+    {
+      "score": 0.432669,
+      "sentence": "Police wondered why the bloodhound track Laura sent to our back door when she was seen leaving the front door of her home on the morning she disappeared.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2850,
+            2855
+          ],
+          "text": "Laura"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2864,
+            2867
+          ],
+          "text": "our"
+        }
+      ]
+    },
+    {
+      "score": 0.557897,
+      "sentence": "Police wondered why the bloodhound track Laura sent to our back door when she was seen leaving the front door of her home on the morning she disappeared.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2922,
+            2925
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2926,
+            2930
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.393781,
+      "sentence": "Police suspected foul play in the disappearance of a twenty three year old Laura hall coming when the bloody hello from Laura's bedroom was found in the woods near her home.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3083,
+            3088
+          ],
+          "text": "Laura"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3091,
+            3098
+          ],
+          "text": "bedroom"
+        }
+      ]
+    },
+    {
+      "score": 0.482085,
+      "sentence": "So I was scanning through several the hairs that are recovered from the brush and also the one that I looked at I realized was not a human hair in fact was a synthetic fiber the fiber was identified as a strand of artificial hair from a week penny Hotaling told police that her daughter never wore a wig and it never owned one so now that put greater value on this particular piece of evidence while I was awake fiber and that hairbrush sitting on the dresser from her bedroom forensic examiner Susan blue also examined the bloody pillowcase found in the woods she noticed blood stains that looked like the impression of the night which had been wiped on the pillow case and another blood stain on the pillow case was different than the rest D. ridges that I was saying was different from the weave of the fabric",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5198,
+            5201
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5202,
+            5209
+          ],
+          "text": "bedroom"
+        }
+      ]
+    },
+    {
+      "score": 0.476261,
+      "sentence": "Police suspected foul play in the disappearance of a twenty three year old Laura hall coming when the bloody hello from Laura's bedroom was found in the woods near her home.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3091,
+            3098
+          ],
+          "text": "bedroom"
+        },
+        {
+          "entities": [
+            {
+              "text": "woods",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            3116,
+            3121
+          ],
+          "text": "woods"
+        }
+      ]
+    },
+    {
+      "score": 0.595756,
+      "sentence": "Police suspected foul play in the disappearance of a twenty three year old Laura hall coming when the bloody hello from Laura's bedroom was found in the woods near her home.",
+      "type": "near",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "woods",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            3116,
+            3121
+          ],
+          "text": "woods"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3131,
+            3135
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.415857,
+      "sentence": "Police suspected foul play in the disappearance of a twenty three year old Laura hall coming when the bloody hello from Laura's bedroom was found in the woods near her home.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3127,
+            3130
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3131,
+            3135
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.480306,
+      "sentence": "To find out whether the blood on the pillow belonged to Laura blood samples were taken from Laura's mother penny and her brother Warren.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lara",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3237,
+            3243
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3229,
+            3234
+          ],
+          "text": "Laura"
+        }
+      ]
+    },
+    {
+      "score": 0.340731,
+      "sentence": "To find out whether the blood on the pillow belonged to Laura blood samples were taken from Laura's mother penny and her brother Warren.",
+      "type": "siblingOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3254,
+            3257
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Warren",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3258,
+            3265
+          ],
+          "text": "brother"
+        }
+      ]
+    },
+    {
+      "score": 0.563327,
+      "sentence": "Although police suspected the flora Hotaling had been murdered in her bedroom they were unable to find her body and had no solid leads Laura's brother Warren told police of an incident he had with the part time gardener who worked at his mother's home had clocked.",
+      "type": "siblingOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6753,
+            6758
+          ],
+          "text": "Laura"
+        },
+        {
+          "entities": [
+            {
+              "text": "Warren",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6761,
+            6768
+          ],
+          "text": "brother"
+        }
+      ]
+    },
+    {
+      "score": 0.989226,
+      "sentence": "Using a DNA test called restriction fragment length polymorphism RFLP scientists concluded that the blood came from a biological offspring of Laura's mother penny and was that of a biological sibling of Laura's brother Warren the blood on the hello was that of Lara hotel next scientists used another illuminating test on the mattress to look for blood that may have been cleaned up with water.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3344,
+            3354
+          ],
+          "text": "scientists"
+        },
+        {
+          "entities": [
+            {
+              "text": "concluded",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3355,
+            3364
+          ],
+          "text": "concluded"
+        }
+      ]
+    },
+    {
+      "score": 0.257086,
+      "sentence": "Using a DNA test called restriction fragment length polymorphism RFLP scientists concluded that the blood came from a biological offspring of Laura's mother penny and was that of a biological sibling of Laura's brother Warren the blood on the hello was that of Lara hotel next scientists used another illuminating test on the mattress to look for blood that may have been cleaned up with water.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3477,
+            3482
+          ],
+          "text": "Laura"
+        },
+        {
+          "entities": [
+            {
+              "text": "Warren",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3485,
+            3492
+          ],
+          "text": "brother"
+        }
+      ]
+    },
+    {
+      "score": 0.396485,
+      "sentence": "Mar Hotaling was an ambitious young woman with a bright future she had recently graduated from Harvard University I did move back home with their mother.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mar Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            392,
+            393
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "station",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            408,
+            412
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.447903,
+      "sentence": "Using a DNA test called restriction fragment length polymorphism RFLP scientists concluded that the blood came from a biological offspring of Laura's mother penny and was that of a biological sibling of Laura's brother Warren the blood on the hello was that of Lara hotel next scientists used another illuminating test on the mattress to look for blood that may have been cleaned up with water.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lara",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3535,
+            3539
+          ],
+          "text": "Lara"
+        },
+        {
+          "entities": [
+            {
+              "text": "hotel",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3540,
+            3545
+          ],
+          "text": "hotel"
+        }
+      ]
+    },
+    {
+      "score": 0.969383,
+      "sentence": "So I was scanning through several the hairs that are recovered from the brush and also the one that I looked at I realized was not a human hair in fact was a synthetic fiber the fiber was identified as a strand of artificial hair from a week penny Hotaling told police that her daughter never wore a wig and it never owned one so now that put greater value on this particular piece of evidence while I was awake fiber and that hairbrush sitting on the dresser from her bedroom forensic examiner Susan blue also examined the bloody pillowcase found in the woods she noticed blood stains that looked like the impression of the night which had been wiped on the pillow case and another blood stain on the pillow case was different than the rest D. ridges that I was saying was different from the weave of the fabric",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4981,
+            4989
+          ],
+          "text": "Hotaling"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4990,
+            4994
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.997242,
+      "sentence": "Any Hotaling told police something about Laura's a tire that they hadn't heard before Lauren never ever.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9216,
+            9224
+          ],
+          "text": "Hotaling"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9225,
+            9229
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.505451,
+      "sentence": "It had been eight months since Laura Hotaling disappearance there was a skeletal part of the body that was sticking out of the ground the rest of the body was still intact under the ground the autopsy report also listed suffocation as a possible cause of death since Clark told prosecutors that he suffocated her.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12170,
+            12174
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12293,
+            12297
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.9478,
+      "sentence": "So I was scanning through several the hairs that are recovered from the brush and also the one that I looked at I realized was not a human hair in fact was a synthetic fiber the fiber was identified as a strand of artificial hair from a week penny Hotaling told police that her daughter never wore a wig and it never owned one so now that put greater value on this particular piece of evidence while I was awake fiber and that hairbrush sitting on the dresser from her bedroom forensic examiner Susan blue also examined the bloody pillowcase found in the woods she noticed blood stains that looked like the impression of the night which had been wiped on the pillow case and another blood stain on the pillow case was different than the rest D. ridges that I was saying was different from the weave of the fabric",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4995,
+            5001
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4990,
+            4994
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.972019,
+      "sentence": "Any Hotaling told police something about Laura's a tire that they hadn't heard before Lauren never ever.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9230,
+            9236
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9225,
+            9229
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.685437,
+      "sentence": "So I was scanning through several the hairs that are recovered from the brush and also the one that I looked at I realized was not a human hair in fact was a synthetic fiber the fiber was identified as a strand of artificial hair from a week penny Hotaling told police that her daughter never wore a wig and it never owned one so now that put greater value on this particular piece of evidence while I was awake fiber and that hairbrush sitting on the dresser from her bedroom forensic examiner Susan blue also examined the bloody pillowcase found in the woods she noticed blood stains that looked like the impression of the night which had been wiped on the pillow case and another blood stain on the pillow case was different than the rest D. ridges that I was saying was different from the weave of the fabric",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5007,
+            5010
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5011,
+            5019
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.761267,
+      "sentence": "So I was scanning through several the hairs that are recovered from the brush and also the one that I looked at I realized was not a human hair in fact was a synthetic fiber the fiber was identified as a strand of artificial hair from a week penny Hotaling told police that her daughter never wore a wig and it never owned one so now that put greater value on this particular piece of evidence while I was awake fiber and that hairbrush sitting on the dresser from her bedroom forensic examiner Susan blue also examined the bloody pillowcase found in the woods she noticed blood stains that looked like the impression of the night which had been wiped on the pillow case and another blood stain on the pillow case was different than the rest D. ridges that I was saying was different from the weave of the fabric",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5490,
+            5491
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "saying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5496,
+            5502
+          ],
+          "text": "saying"
+        }
+      ]
+    },
+    {
+      "score": 0.738675,
+      "sentence": "For a closer look scientists used a protein stain called me double black.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5809,
+            5811
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "explained",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5802,
+            5808
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.661064,
+      "sentence": "We then sat down with the family with the lord's brother and his and her mother and explained to her that we felt that lower possibly may have been murdered in the bedroom based on the amount of blood and based on the circumstances.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6004,
+            6006
+          ],
+          "text": "We"
+        },
+        {
+          "entities": [
+            {
+              "text": "explained",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6088,
+            6097
+          ],
+          "text": "explained"
+        }
+      ]
+    },
+    {
+      "score": 0.71686,
+      "sentence": "We then sat down with the family with the lord's brother and his and her mother and explained to her that we felt that lower possibly may have been murdered in the bedroom based on the amount of blood and based on the circumstances.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6077,
+            6083
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6073,
+            6076
+          ],
+          "text": "her"
+        }
+      ]
+    },
+    {
+      "score": 0.797246,
+      "sentence": "We then sat down with the family with the lord's brother and his and her mother and explained to her that we felt that lower possibly may have been murdered in the bedroom based on the amount of blood and based on the circumstances.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6101,
+            6104
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "explained",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6088,
+            6097
+          ],
+          "text": "explained"
+        }
+      ]
+    },
+    {
+      "score": 0.56482,
+      "sentence": "We then sat down with the family with the lord's brother and his and her mother and explained to her that we felt that lower possibly may have been murdered in the bedroom based on the amount of blood and based on the circumstances.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6101,
+            6104
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6152,
+            6160
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.368503,
+      "sentence": "Mar Hotaling was an ambitious young woman with a bright future she had recently graduated from Harvard University I did move back home with their mother.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            424,
+            430
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "station",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            408,
+            412
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.467849,
+      "sentence": "Worker called the house but there was no answer Laura's mother was out of town on a business trip.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            678,
+            684
+          ],
+          "text": "Worker"
+        },
+        {
+          "entities": [
+            {
+              "text": "station",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            696,
+            701
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.581187,
+      "sentence": "Clark got into an argument with penny Hotaling just one week before Laura disappeared over some tools and he said were missing from her to check the holdings also capped a spare house key in the shed.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7907,
+            7910
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "station",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7953,
+            7958
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.595746,
+      "sentence": "We then sat down with the family with the lord's brother and his and her mother and explained to her that we felt that lower possibly may have been murdered in the bedroom based on the amount of blood and based on the circumstances.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6110,
+            6112
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6152,
+            6160
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.710236,
+      "sentence": "We then sat down with the family with the lord's brother and his and her mother and explained to her that we felt that lower possibly may have been murdered in the bedroom based on the amount of blood and based on the circumstances.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6152,
+            6160
+          ],
+          "text": "murdered"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6168,
+            6175
+          ],
+          "text": "bedroom"
+        }
+      ]
+    },
+    {
+      "score": 0.646681,
+      "sentence": "Although police suspected the flora Hotaling had been murdered in her bedroom they were unable to find her body and had no solid leads Laura's brother Warren told police of an incident he had with the part time gardener who worked at his mother's home had clocked.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6672,
+            6680
+          ],
+          "text": "murdered"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6688,
+            6695
+          ],
+          "text": "bedroom"
+        }
+      ]
+    },
+    {
+      "score": 0.526895,
+      "sentence": "We then sat down with the family with the lord's brother and his and her mother and explained to her that we felt that lower possibly may have been murdered in the bedroom based on the amount of blood and based on the circumstances.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "protein",
+              "type": "Substance"
+            }
+          ],
+          "location": [
+            6199,
+            6204
+          ],
+          "text": "blood"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6168,
+            6175
+          ],
+          "text": "bedroom"
+        }
+      ]
+    },
+    {
+      "score": 0.410079,
+      "sentence": "Ten days after twenty four year old lore Hotaling disappear from her but that's the home or family tells reporters they believe they know what happened to her.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6302,
+            6305
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6321,
+            6325
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.901092,
+      "sentence": "Ten days after twenty four year old lore Hotaling disappear from her but that's the home or family tells reporters they believe they know what happened to her.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6329,
+            6335
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "tells",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6336,
+            6341
+          ],
+          "text": "tells"
+        }
+      ]
+    },
+    {
+      "score": 0.928879,
+      "sentence": "Ten days after twenty four year old lore Hotaling disappear from her but that's the home or family tells reporters they believe they know what happened to her.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "reporters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6342,
+            6351
+          ],
+          "text": "reporters"
+        },
+        {
+          "entities": [
+            {
+              "text": "tells",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6336,
+            6341
+          ],
+          "text": "tells"
+        }
+      ]
+    },
+    {
+      "score": 0.570374,
+      "sentence": "To the police have shown is that she died here.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6537,
+            6540
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "here",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6546,
+            6550
+          ],
+          "text": "here"
+        }
+      ]
+    },
+    {
+      "score": 0.404654,
+      "sentence": "Police now had solid evidence that might lead them to the merger.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6552,
+            6558
+          ],
+          "text": "Police"
+        },
+        {
+          "entities": [
+            {
+              "text": "merger",
+              "type": "EventBusiness"
+            }
+          ],
+          "location": [
+            6610,
+            6616
+          ],
+          "text": "merger"
+        }
+      ]
+    },
+    {
+      "score": 0.496337,
+      "sentence": "Although police suspected the flora Hotaling had been murdered in her bedroom they were unable to find her body and had no solid leads Laura's brother Warren told police of an incident he had with the part time gardener who worked at his mother's home had clocked.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6627,
+            6633
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6672,
+            6680
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.807711,
+      "sentence": "Although police suspected the flora Hotaling had been murdered in her bedroom they were unable to find her body and had no solid leads Laura's brother Warren told police of an incident he had with the part time gardener who worked at his mother's home had clocked.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6654,
+            6662
+          ],
+          "text": "Hotaling"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6672,
+            6680
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.49443,
+      "sentence": "Mar Hotaling was an ambitious young woman with a bright future she had recently graduated from Harvard University I did move back home with their mother.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            424,
+            430
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            418,
+            423
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.738972,
+      "sentence": "Although police suspected the flora Hotaling had been murdered in her bedroom they were unable to find her body and had no solid leads Laura's brother Warren told police of an incident he had with the part time gardener who worked at his mother's home had clocked.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6684,
+            6687
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6696,
+            6700
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.382546,
+      "sentence": "Although police suspected the flora Hotaling had been murdered in her bedroom they were unable to find her body and had no solid leads Laura's brother Warren told police of an incident he had with the part time gardener who worked at his mother's home had clocked.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6696,
+            6700
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6688,
+            6695
+          ],
+          "text": "bedroom"
+        }
+      ]
+    },
+    {
+      "score": 0.986047,
+      "sentence": "Although police suspected the flora Hotaling had been murdered in her bedroom they were unable to find her body and had no solid leads Laura's brother Warren told police of an incident he had with the part time gardener who worked at his mother's home had clocked.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Warren",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6769,
+            6775
+          ],
+          "text": "Warren"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6776,
+            6780
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.913264,
+      "sentence": "Although police suspected the flora Hotaling had been murdered in her bedroom they were unable to find her body and had no solid leads Laura's brother Warren told police of an incident he had with the part time gardener who worked at his mother's home had clocked.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6781,
+            6787
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6776,
+            6780
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.966138,
+      "sentence": "From Clark's financial records police also learned that he rented a storage locker in Warwick Rhode Island four hundred fifty miles away an employee at the storage unit told police the Clark visited his storage locker two days after Laura disappeared.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8640,
+            8646
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8635,
+            8639
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.733742,
+      "sentence": "Although police suspected the flora Hotaling had been murdered in her bedroom they were unable to find her body and had no solid leads Laura's brother Warren told police of an incident he had with the part time gardener who worked at his mother's home had clocked.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6856,
+            6862
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Warren",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6852,
+            6855
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.762426,
+      "sentence": "The night after Laura disappeared Warren was outside his mother's home and saw hadn't clocked driving through the neighborhood.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6940,
+            6946
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Warren",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6936,
+            6939
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.478546,
+      "sentence": "Although police suspected the flora Hotaling had been murdered in her bedroom they were unable to find her body and had no solid leads Laura's brother Warren told police of an incident he had with the part time gardener who worked at his mother's home had clocked.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6856,
+            6862
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6865,
+            6869
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.299417,
+      "sentence": "The night after Laura disappeared Warren was outside his mother's home and saw hadn't clocked driving through the neighborhood.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6940,
+            6946
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6949,
+            6953
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.792608,
+      "sentence": "When he attempted to speak with clock to asking if you'd seen Laura Clark sped away.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Warren",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7016,
+            7018
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "speak",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7032,
+            7037
+          ],
+          "text": "speak"
+        }
+      ]
+    },
+    {
+      "score": 0.65026,
+      "sentence": "When he attempted to speak with clock to asking if you'd seen Laura Clark sped away.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7062,
+            7065
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "asking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7052,
+            7058
+          ],
+          "text": "asking"
+        }
+      ]
+    },
+    {
+      "score": 0.542093,
+      "sentence": "Forty year old hadn't Clark was known to police because of the past arrests for burglary a few years earlier pocket also been a suspect in the investigation of a missing young girls a case that has never been solved Clark was born with brain damage and had difficulty throughout his life he trained as a chef but had difficulty keeping jobs he was currently working as a gardener and other odd jobs he was at one time in the United States Navy and he was discharged and diagnosis of paranoid schizophrenic.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hatton Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7118,
+            7123
+          ],
+          "text": "Clark"
+        },
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7137,
+            7143
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.737539,
+      "sentence": "Laura work for a public relations firm in Washington DC and was contemplating law school.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "law school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            510,
+            520
+          ],
+          "text": "law school"
+        },
+        {
+          "entities": [
+            {
+              "text": "Washington DC",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            474,
+            487
+          ],
+          "text": "Washington DC"
+        }
+      ]
+    },
+    {
+      "score": 0.562105,
+      "sentence": "Forty year old hadn't Clark was known to police because of the past arrests for burglary a few years earlier pocket also been a suspect in the investigation of a missing young girls a case that has never been solved Clark was born with brain damage and had difficulty throughout his life he trained as a chef but had difficulty keeping jobs he was currently working as a gardener and other odd jobs he was at one time in the United States Navy and he was discharged and diagnosis of paranoid schizophrenic.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hatton Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7118,
+            7123
+          ],
+          "text": "Clark"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrests",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            7164,
+            7171
+          ],
+          "text": "arrests"
+        }
+      ]
+    },
+    {
+      "score": 0.565889,
+      "sentence": "Forty year old hadn't Clark was known to police because of the past arrests for burglary a few years earlier pocket also been a suspect in the investigation of a missing young girls a case that has never been solved Clark was born with brain damage and had difficulty throughout his life he trained as a chef but had difficulty keeping jobs he was currently working as a gardener and other odd jobs he was at one time in the United States Navy and he was discharged and diagnosis of paranoid schizophrenic.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hatton Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7118,
+            7123
+          ],
+          "text": "Clark"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            7239,
+            7252
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.75772,
+      "sentence": "Forty year old hadn't Clark was known to police because of the past arrests for burglary a few years earlier pocket also been a suspect in the investigation of a missing young girls a case that has never been solved Clark was born with brain damage and had difficulty throughout his life he trained as a chef but had difficulty keeping jobs he was currently working as a gardener and other odd jobs he was at one time in the United States Navy and he was discharged and diagnosis of paranoid schizophrenic.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "a few years",
+              "type": "Duration"
+            }
+          ],
+          "location": [
+            7185,
+            7196
+          ],
+          "text": "a few years"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrests",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            7164,
+            7171
+          ],
+          "text": "arrests"
+        }
+      ]
+    },
+    {
+      "score": 0.791982,
+      "sentence": "Forty year old hadn't Clark was known to police because of the past arrests for burglary a few years earlier pocket also been a suspect in the investigation of a missing young girls a case that has never been solved Clark was born with brain damage and had difficulty throughout his life he trained as a chef but had difficulty keeping jobs he was currently working as a gardener and other odd jobs he was at one time in the United States Navy and he was discharged and diagnosis of paranoid schizophrenic.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7224,
+            7231
+          ],
+          "text": "suspect"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            7239,
+            7252
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.392026,
+      "sentence": "Forty year old hadn't Clark was known to police because of the past arrests for burglary a few years earlier pocket also been a suspect in the investigation of a missing young girls a case that has never been solved Clark was born with brain damage and had difficulty throughout his life he trained as a chef but had difficulty keeping jobs he was currently working as a gardener and other odd jobs he was at one time in the United States Navy and he was discharged and diagnosis of paranoid schizophrenic.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "girls",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7272,
+            7277
+          ],
+          "text": "girls"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            7280,
+            7284
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.911593,
+      "sentence": "Forty year old hadn't Clark was known to police because of the past arrests for burglary a few years earlier pocket also been a suspect in the investigation of a missing young girls a case that has never been solved Clark was born with brain damage and had difficulty throughout his life he trained as a chef but had difficulty keeping jobs he was currently working as a gardener and other odd jobs he was at one time in the United States Navy and he was discharged and diagnosis of paranoid schizophrenic.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hatton Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7312,
+            7317
+          ],
+          "text": "Clark"
+        },
+        {
+          "entities": [
+            {
+              "text": "brain damage",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            7332,
+            7344
+          ],
+          "text": "brain damage"
+        }
+      ]
+    },
+    {
+      "score": 0.846292,
+      "sentence": "Forty year old hadn't Clark was known to police because of the past arrests for burglary a few years earlier pocket also been a suspect in the investigation of a missing young girls a case that has never been solved Clark was born with brain damage and had difficulty throughout his life he trained as a chef but had difficulty keeping jobs he was currently working as a gardener and other odd jobs he was at one time in the United States Navy and he was discharged and diagnosis of paranoid schizophrenic.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hatton Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7384,
+            7386
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "trained",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            7387,
+            7394
+          ],
+          "text": "trained"
+        }
+      ]
+    },
+    {
+      "score": 0.62652,
+      "sentence": "Forty year old hadn't Clark was known to police because of the past arrests for burglary a few years earlier pocket also been a suspect in the investigation of a missing young girls a case that has never been solved Clark was born with brain damage and had difficulty throughout his life he trained as a chef but had difficulty keeping jobs he was currently working as a gardener and other odd jobs he was at one time in the United States Navy and he was discharged and diagnosis of paranoid schizophrenic.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Navy",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7535,
+            7539
+          ],
+          "text": "Navy"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7521,
+            7534
+          ],
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "score": 0.810288,
+      "sentence": "Clark was basically homeless often sleeping in the back of his truck which she parked in a church parking lot not far from the woods where the bloody hello had been found.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7678,
+            7681
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "church parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7694,
+            7712
+          ],
+          "text": "church parking lot"
+        }
+      ]
+    },
+    {
+      "score": 0.576358,
+      "sentence": "Clark was basically homeless often sleeping in the back of his truck which she parked in a church parking lot not far from the woods where the bloody hello had been found.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "church parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7694,
+            7712
+          ],
+          "text": "church parking lot"
+        },
+        {
+          "entities": [
+            {
+              "text": "woods",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            7730,
+            7735
+          ],
+          "text": "woods"
+        }
+      ]
+    },
+    {
+      "score": 0.451703,
+      "sentence": "Clark was basically homeless often sleeping in the back of his truck which she parked in a church parking lot not far from the woods where the bloody hello had been found.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "church parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7694,
+            7712
+          ],
+          "text": "church parking lot"
+        },
+        {
+          "entities": [
+            {
+              "text": "woods",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            7736,
+            7741
+          ],
+          "text": "where"
+        }
+      ]
+    },
+    {
+      "score": 0.539861,
+      "sentence": "The way they go on the Saturday before she disappeared Laura attended the gold Cup steeplechase horse races in Virginia when Laura didn't show up for work.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            577,
+            582
+          ],
+          "text": "Laura"
+        },
+        {
+          "entities": [
+            {
+              "text": "Virginia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            633,
+            641
+          ],
+          "text": "Virginia"
+        }
+      ]
+    },
+    {
+      "score": 0.520305,
+      "sentence": "Clark got into an argument with penny Hotaling just one week before Laura disappeared over some tools and he said were missing from her to check the holdings also capped a spare house key in the shed.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hatton Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7775,
+            7780
+          ],
+          "text": "Clark"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7884,
+            7888
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.957161,
+      "sentence": "Clark got into an argument with penny Hotaling just one week before Laura disappeared over some tools and he said were missing from her to check the holdings also capped a spare house key in the shed.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hatton Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7881,
+            7883
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7884,
+            7888
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.671528,
+      "sentence": "When police research Clark's financial records they learned that he had purchased duct tape braided rope and nylon cord several days before Laura's disappearance and paid for the items with a personal check investigators were alarmed with what they saw in the memo section one word.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hatton Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7997,
+            8002
+          ],
+          "text": "Clark"
+        },
+        {
+          "entities": [
+            {
+              "text": "police research",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7981,
+            7996
+          ],
+          "text": "police research"
+        }
+      ]
+    },
+    {
+      "score": 0.708396,
+      "sentence": "On the day Laura disappeared Clark purchased the queen size sheet from the department store the size it was too large for the mattress in the back of his truck but it was the same size as Lawrence mattress.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hatton Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8409,
+            8412
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            8413,
+            8418
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.698719,
+      "sentence": "From Clark's financial records police also learned that he rented a storage locker in Warwick Rhode Island four hundred fifty miles away an employee at the storage unit told police the Clark visited his storage locker two days after Laura disappeared.",
+      "type": "populationOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "four hundred",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            8573,
+            8585
+          ],
+          "text": "four hundred"
+        },
+        {
+          "entities": [
+            {
+              "text": "Warwick Rhode Island",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8552,
+            8572
+          ],
+          "text": "Warwick Rhode Island"
+        }
+      ]
+    },
+    {
+      "score": 0.629997,
+      "sentence": "From Clark's financial records police also learned that he rented a storage locker in Warwick Rhode Island four hundred fifty miles away an employee at the storage unit told police the Clark visited his storage locker two days after Laura disappeared.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mar Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8606,
+            8614
+          ],
+          "text": "employee"
+        },
+        {
+          "entities": [
+            {
+              "text": "storage unit",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8622,
+            8634
+          ],
+          "text": "storage unit"
+        }
+      ]
+    },
+    {
+      "score": 0.541061,
+      "sentence": "Armed with a warrant police searched Clark storage unit and discovered a secret side of Hatton Clark's life he had sol sees that he would place in the broad apparently had brought she had dresses he had a female shoes she had female coach she had wigs every everything that he could wear and look like a female.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8739,
+            8745
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "warrant",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8731,
+            8738
+          ],
+          "text": "warrant"
+        }
+      ]
+    },
+    {
+      "score": 0.481432,
+      "sentence": "Armed with a warrant police searched Clark storage unit and discovered a secret side of Hatton Clark's life he had sol sees that he would place in the broad apparently had brought she had dresses he had a female shoes she had female coach she had wigs every everything that he could wear and look like a female.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "storage unit",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8761,
+            8773
+          ],
+          "text": "storage unit"
+        },
+        {
+          "entities": [
+            {
+              "text": "warrant",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8731,
+            8738
+          ],
+          "text": "warrant"
+        }
+      ]
+    },
+    {
+      "score": 0.740849,
+      "sentence": "Armed with a warrant police searched Clark storage unit and discovered a secret side of Hatton Clark's life he had sol sees that he would place in the broad apparently had brought she had dresses he had a female shoes she had female coach she had wigs every everything that he could wear and look like a female.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hatton Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8755,
+            8760
+          ],
+          "text": "Clark"
+        },
+        {
+          "entities": [
+            {
+              "text": "storage unit",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8761,
+            8773
+          ],
+          "text": "storage unit"
+        }
+      ]
+    },
+    {
+      "score": 0.727895,
+      "sentence": "Any Hotaling told police something about Laura's a tire that they hadn't heard before Lauren never ever.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9253,
+            9258
+          ],
+          "text": "Laura"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9273,
+            9277
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.68708,
+      "sentence": "Fibers from all of the wigs and Clark storage locker were compared to the weight fiber found on Laura's here brush is very easy to remove some of these wings as being B. contributor does from color very blind or other colors were not a possibility since we were dealing with a brown tone as far as the dye goes for this week fiber then doing microscopic exam narrowed it down to one particular way that was identical in all respects to this particular fiber hadn't Clark's wig and the fiber from Laura's hair brush former bedroom were sent to the trace evidence unit at the FBI laboratory in Washington DC.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "FBI",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10066,
+            10069
+          ],
+          "text": "FBI"
+        },
+        {
+          "entities": [
+            {
+              "text": "laboratory",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10070,
+            10080
+          ],
+          "text": "laboratory"
+        }
+      ]
+    },
+    {
+      "score": 0.98653,
+      "sentence": "Worker called the house but there was no answer Laura's mother was out of town on a business trip.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            678,
+            684
+          ],
+          "text": "Worker"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            685,
+            691
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.934616,
+      "sentence": "Fibers from all of the wigs and Clark storage locker were compared to the weight fiber found on Laura's here brush is very easy to remove some of these wings as being B. contributor does from color very blind or other colors were not a possibility since we were dealing with a brown tone as far as the dye goes for this week fiber then doing microscopic exam narrowed it down to one particular way that was identical in all respects to this particular fiber hadn't Clark's wig and the fiber from Laura's hair brush former bedroom were sent to the trace evidence unit at the FBI laboratory in Washington DC.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "laboratory",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10070,
+            10080
+          ],
+          "text": "laboratory"
+        },
+        {
+          "entities": [
+            {
+              "text": "Washington DC",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10084,
+            10097
+          ],
+          "text": "Washington DC"
+        }
+      ]
+    },
+    {
+      "score": 0.399944,
+      "sentence": "Dyes are proprietary and their trademark by the manufacturer to protect against duplication the dive from the Weeknd fiber found in Laura's hair brush was identical to the fibers from Hatton Clark's wake indicated to us that they exhibited the exact same color optically therefore the question fibers consistent coming from that way they were died of the same color the same industry standard and probably from the same dialogue.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10829,
+            10834
+          ],
+          "text": "Laura"
+        },
+        {
+          "entities": [
+            {
+              "text": "Weeknd fiber",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10807,
+            10819
+          ],
+          "text": "Weeknd fiber"
+        }
+      ]
+    },
+    {
+      "score": 0.45056,
+      "sentence": "Finally police turned their attention to the bloody palm print found on the pillow case in the woods.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11210,
+            11214
+          ],
+          "text": "case"
+        },
+        {
+          "entities": [
+            {
+              "text": "woods",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            11222,
+            11227
+          ],
+          "text": "woods"
+        }
+      ]
+    },
+    {
+      "score": 0.940346,
+      "sentence": "Kevin Clark was arrested and charged with first degree murder in the death of Laura Hotaling.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kevin Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11352,
+            11363
+          ],
+          "text": "Kevin Clark"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrests",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            11368,
+            11376
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.413837,
+      "sentence": "Kevin Clark was arrested and charged with first degree murder in the death of Laura Hotaling.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kevin Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11352,
+            11363
+          ],
+          "text": "Kevin Clark"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11381,
+            11388
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.967414,
+      "sentence": "Kevin Clark was arrested and charged with first degree murder in the death of Laura Hotaling.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kevin Clark",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11352,
+            11363
+          ],
+          "text": "Kevin Clark"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11407,
+            11413
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.494605,
+      "sentence": "Kevin Clark was arrested and charged with first degree murder in the death of Laura Hotaling.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11430,
+            11444
+          ],
+          "text": "Laura Hotaling"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrests",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            11368,
+            11376
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.464821,
+      "sentence": "Kevin Clark was arrested and charged with first degree murder in the death of Laura Hotaling.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11430,
+            11444
+          ],
+          "text": "Laura Hotaling"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11407,
+            11413
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.350321,
+      "sentence": "Although her body had never been found prosecutors hope that they had enough evidence to convince a jury that Laura Hotaling was in fact dead and that has.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Laura Hotaling",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11556,
+            11570
+          ],
+          "text": "Laura Hotaling"
+        },
+        {
+          "entities": [
+            {
+              "text": "city",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11546,
+            11550
+          ],
+          "text": "jury"
+        }
+      ]
+    },
+    {
+      "score": 0.544792,
+      "sentence": "Was the merger with the first degree murder trial was set to begin on June fourteenth nineteen ninety three but the trial never place the defendant in the Hotaling case just played guilty the plea was accepted.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "June",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            11672,
+            11676
+          ],
+          "text": "June"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11646,
+            11651
+          ],
+          "text": "trial"
+        }
+      ]
+    }
+  ]
+}

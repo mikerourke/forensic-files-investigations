@@ -1,0 +1,4920 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 22938,
+    "text_units": 3
+  },
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Milwaukee",
+      "relevance": 0.962601,
+      "confidence": 1,
+      "count": 31
+    },
+    {
+      "type": "Person",
+      "text": "Becky Fuhrman",
+      "relevance": 0.575645,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Antonio Claudio",
+      "relevance": 0.266247,
+      "confidence": 0.999971,
+      "count": 2,
+      "disambiguation": {
+        "name": "Antonio_Claudio",
+        "dbpedia_resource": "http://dbpedia.org/resource/Antonio_Claudio"
+      }
+    },
+    {
+      "type": "HealthCondition",
+      "text": "diarrhea",
+      "relevance": 0.247912,
+      "confidence": 1,
+      "count": 4,
+      "disambiguation": {
+        "name": "Diarrhea",
+        "dbpedia_resource": "http://dbpedia.org/resource/Diarrhea",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "DiseaseCause",
+          "RiskFactor",
+          "Symptom",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Paul mana",
+      "relevance": 0.22202,
+      "confidence": 0.897275,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Dr Davis",
+      "relevance": 0.216522,
+      "confidence": 0.987999,
+      "count": 2
+    },
+    {
+      "type": "HealthCondition",
+      "text": "HIV",
+      "relevance": 0.215917,
+      "confidence": 1,
+      "count": 5,
+      "disambiguation": {
+        "name": "HIV",
+        "dbpedia_resource": "http://dbpedia.org/resource/HIV",
+        "subtype": [
+          "OrganismClassification",
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "InfectiousDisease",
+          "RiskFactor",
+          "MedicalSpecialty"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "nineteen ninety three minutes",
+      "relevance": 0.198403,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eleven million barrels",
+      "relevance": 0.194315,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "elderly cancer",
+      "relevance": 0.1906,
+      "confidence": 0.399177,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "four year",
+      "relevance": 0.189907,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "diarrhea gastrointestinal",
+      "relevance": 0.187172,
+      "confidence": 0.90593,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "forty year",
+      "relevance": 0.184875,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Milwaukee journal",
+      "relevance": 0.180853,
+      "confidence": 0.923587,
+      "count": 1,
+      "disambiguation": {
+        "name": "Milwaukee_Journal_Sentinel",
+        "dbpedia_resource": "http://dbpedia.org/resource/Milwaukee_Journal_Sentinel",
+        "subtype": [
+          "AwardWinner",
+          "Newspaper"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "eighty percent",
+      "relevance": 0.180357,
+      "confidence": 0.992,
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "G. party",
+      "relevance": 0.178537,
+      "confidence": 0.444045,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "environmental protection agency",
+      "relevance": 0.174587,
+      "confidence": 0.999194,
+      "count": 4,
+      "disambiguation": {
+        "name": "United_States_Environmental_Protection_Agency",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Environmental_Protection_Agency"
+      }
+    },
+    {
+      "type": "Facility",
+      "text": "common distribution center",
+      "relevance": 0.167281,
+      "confidence": 0.295992,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "sandy Schrader",
+      "relevance": 0.158737,
+      "confidence": 0.798086,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Schrader S.",
+      "relevance": 0.152674,
+      "confidence": 0.839525,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Wisconsin",
+      "relevance": 0.147896,
+      "confidence": 0.999971,
+      "count": 2
+    },
+    {
+      "type": "HealthCondition",
+      "text": "aids",
+      "relevance": 0.14321,
+      "confidence": 0.999999,
+      "count": 3,
+      "disambiguation": {
+        "name": "AIDS",
+        "dbpedia_resource": "http://dbpedia.org/resource/AIDS",
+        "subtype": [
+          "Organization",
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "DiseaseCause",
+          "RiskFactor",
+          "Disease",
+          "OrganizationSector"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "sandy Schrader S.",
+      "relevance": 0.132789,
+      "confidence": 0.742911,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty four hours",
+      "relevance": 0.130759,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "relevance": 0.112772,
+      "confidence": 1,
+      "count": 4,
+      "disambiguation": {
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Dr Jeffrey Davis",
+      "relevance": 0.112157,
+      "confidence": 0.938994,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "HIV positive",
+      "relevance": 0.103917,
+      "confidence": 0.487616,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "southside",
+      "relevance": 0.10375,
+      "confidence": 0.988644,
+      "count": 2
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Lake Michigan",
+      "relevance": 0.101918,
+      "confidence": 0.778745,
+      "count": 3,
+      "disambiguation": {
+        "name": "Lake_Michigan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lake_Michigan",
+        "subtype": [
+          "Location",
+          "BodyOfWater",
+          "Lake"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Doug Nelson",
+      "relevance": 0.098784,
+      "confidence": 0.99813,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "aids resource center of Wisconsin",
+      "relevance": 0.098273,
+      "confidence": 0.396372,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Becky",
+      "relevance": 0.087983,
+      "confidence": 0.999306,
+      "count": 2
+    },
+    {
+      "type": "HealthCondition",
+      "text": "nausea",
+      "relevance": 0.086906,
+      "confidence": 0.989581,
+      "count": 1,
+      "disambiguation": {
+        "name": "Nausea",
+        "dbpedia_resource": "http://dbpedia.org/resource/Nausea",
+        "subtype": [
+          "Symptom"
+        ]
+      }
+    },
+    {
+      "type": "HealthCondition",
+      "text": "constant chronic",
+      "relevance": 0.086479,
+      "confidence": 0.364867,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "fever",
+      "relevance": 0.07921,
+      "confidence": 0.98144,
+      "count": 1,
+      "disambiguation": {
+        "name": "Fever",
+        "dbpedia_resource": "http://dbpedia.org/resource/Fever",
+        "subtype": [
+          "CauseOfDeath",
+          "DiseaseCause",
+          "RiskFactor",
+          "Symptom"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "one week",
+      "relevance": 0.077829,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "two days",
+      "relevance": 0.077467,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "four dollars",
+      "relevance": 0.072786,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "confusion",
+      "relevance": 0.071339,
+      "confidence": 0.930417,
+      "count": 1,
+      "disambiguation": {
+        "name": "Mental_confusion",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mental_confusion",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "Symptom"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Caribbean",
+      "relevance": 0.070011,
+      "confidence": 0.999963,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Maryland",
+      "relevance": 0.06951,
+      "confidence": 0.894431,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ten minutes",
+      "relevance": 0.0607,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "HealthCondition",
+      "text": "cramps",
+      "relevance": 0.057832,
+      "confidence": 0.788696,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Tonio",
+      "relevance": 0.055607,
+      "confidence": 0.960668,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Amir",
+      "relevance": 0.055378,
+      "confidence": 0.764248,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty years",
+      "relevance": 0.054319,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "meridian",
+      "relevance": 0.048378,
+      "confidence": 0.472932,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Spain",
+      "relevance": 0.048238,
+      "confidence": 0.995736,
+      "count": 2,
+      "disambiguation": {
+        "name": "Spanish_West_Indies",
+        "dbpedia_resource": "http://dbpedia.org/resource/Spanish_West_Indies"
+      }
+    },
+    {
+      "type": "Facility",
+      "text": "common food distribution center",
+      "relevance": 0.048156,
+      "confidence": 0.351991,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "flu",
+      "relevance": 0.046973,
+      "confidence": 0.950689,
+      "count": 1,
+      "disambiguation": {
+        "name": "Influenza",
+        "dbpedia_resource": "http://dbpedia.org/resource/Influenza",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "InfectiousDisease",
+          "RiskFactor",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "five minutes",
+      "relevance": 0.045946,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three days",
+      "relevance": 0.042611,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Davis",
+      "relevance": 0.041279,
+      "confidence": 0.541175,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "coma",
+      "relevance": 0.040305,
+      "confidence": 0.99597,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "India",
+      "relevance": 0.037019,
+      "confidence": 0.999673,
+      "count": 1,
+      "disambiguation": {
+        "name": "India",
+        "dbpedia_resource": "http://dbpedia.org/resource/India",
+        "subtype": [
+          "HumanLanguage",
+          "Region",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    },
+    {
+      "type": "HealthCondition",
+      "text": "Cancer",
+      "relevance": 0.035727,
+      "confidence": 0.997857,
+      "count": 1,
+      "disambiguation": {
+        "name": "Cancer",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cancer",
+        "subtype": [
+          "FieldOfStudy",
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "DiseaseCause",
+          "MedicalSpecialty",
+          "RiskFactor",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "Organization",
+      "text": "centers for disease control",
+      "relevance": 0.035381,
+      "confidence": 0.304256,
+      "count": 1,
+      "disambiguation": {
+        "name": "Centers_for_Disease_Control_and_Prevention",
+        "dbpedia_resource": "http://dbpedia.org/resource/Centers_for_Disease_Control_and_Prevention",
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ]
+      }
+    },
+    {
+      "type": "Company",
+      "text": "Miller",
+      "relevance": 0.0349,
+      "confidence": 0.887418,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Houston",
+      "relevance": 0.032149,
+      "confidence": 0.999704,
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "churn river",
+      "relevance": 0.029002,
+      "confidence": 0.458277,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "CDC",
+      "relevance": 0.02862,
+      "confidence": 0.993517,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "four years",
+      "relevance": 0.027902,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Atlanta",
+      "relevance": 0.026031,
+      "confidence": 0.999927,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Georgia",
+      "relevance": 0.025231,
+      "confidence": 0.998947,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Lori",
+      "relevance": 0.012117,
+      "confidence": 0.999683,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/health and fitness/disease",
+      "score": 0.929788
+    },
+    {
+      "label": "/health and fitness/disease/epidemic",
+      "score": 0.762494
+    },
+    {
+      "label": "/health and fitness/disease/aids and hiv",
+      "score": 0.731555
+    },
+    {
+      "label": "/food and drink",
+      "score": 0.61763
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.499544,
+      "sentence": "The residents of Milwaukee Wisconsin.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "residents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            38,
+            47
+          ],
+          "text": "residents"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            51,
+            70
+          ],
+          "text": "Milwaukee Wisconsin"
+        }
+      ]
+    },
+    {
+      "score": 0.324543,
+      "sentence": "Milwaukee is the home of several large breweries producing eleven million barrels of beer annually.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "eleven",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            513,
+            519
+          ],
+          "text": "eleven"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            471,
+            475
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.444701,
+      "sentence": "A clean break gastrointestinal illness would spread rapidly throughout the community four thousand people rushed to area hospitals all with the same symptoms severe cramps diarrhea nausea and fever by editorial phenomenal week missed two days of work.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            735,
+            741
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "area",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            752,
+            756
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.441215,
+      "sentence": "A clean break gastrointestinal illness would spread rapidly throughout the community four thousand people rushed to area hospitals all with the same symptoms severe cramps diarrhea nausea and fever by editorial phenomenal week missed two days of work.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            735,
+            741
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospitals",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            757,
+            766
+          ],
+          "text": "hospitals"
+        }
+      ]
+    },
+    {
+      "score": 0.745568,
+      "sentence": "A clean break gastrointestinal illness would spread rapidly throughout the community four thousand people rushed to area hospitals all with the same symptoms severe cramps diarrhea nausea and fever by editorial phenomenal week missed two days of work.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            735,
+            741
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "diarrhea nausea",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            808,
+            823
+          ],
+          "text": "diarrhea nausea"
+        }
+      ]
+    },
+    {
+      "score": 0.778161,
+      "sentence": "A clean break gastrointestinal illness would spread rapidly throughout the community four thousand people rushed to area hospitals all with the same symptoms severe cramps diarrhea nausea and fever by editorial phenomenal week missed two days of work.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            735,
+            741
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "fever",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            828,
+            833
+          ],
+          "text": "fever"
+        }
+      ]
+    },
+    {
+      "score": 0.917932,
+      "sentence": "A clean break gastrointestinal illness would spread rapidly throughout the community four thousand people rushed to area hospitals all with the same symptoms severe cramps diarrhea nausea and fever by editorial phenomenal week missed two days of work.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospitals",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            757,
+            766
+          ],
+          "text": "hospitals"
+        },
+        {
+          "entities": [
+            {
+              "text": "area",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            752,
+            756
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.558429,
+      "sentence": "And I thought it was gonna came back again hardest hit were individuals with systems in elderly cancer and aids patients and those who had organ or bone marrow transplant list four year old Becky Fuhrman suffered from a particularly bad case she was just a vibrant child she demanded the center attention five we gave it to her willingly but very healthy get one once she caught up on on the normal things like infants do on.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1000,
+            1008
+          ],
+          "text": "patients"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV aids",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            984,
+            990
+          ],
+          "text": "cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.833,
+      "sentence": "And I thought it was gonna came back again hardest hit were individuals with systems in elderly cancer and aids patients and those who had organ or bone marrow transplant list four year old Becky Fuhrman suffered from a particularly bad case she was just a vibrant child she demanded the center attention five we gave it to her willingly but very healthy get one once she caught up on on the normal things like infants do on.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1000,
+            1008
+          ],
+          "text": "patients"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV aids",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            995,
+            999
+          ],
+          "text": "aids"
+        }
+      ]
+    },
+    {
+      "score": 0.990643,
+      "sentence": "And I thought it was gonna came back again hardest hit were individuals with systems in elderly cancer and aids patients and those who had organ or bone marrow transplant list four year old Becky Fuhrman suffered from a particularly bad case she was just a vibrant child she demanded the center attention five we gave it to her willingly but very healthy get one once she caught up on on the normal things like infants do on.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Becky Fuhrman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1159,
+            1162
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "demanded",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1163,
+            1171
+          ],
+          "text": "demanded"
+        }
+      ]
+    },
+    {
+      "score": 0.823305,
+      "sentence": "Becky Fuhrman was born HIV positive which made her particularly susceptible to the mysterious outbreak there's got to be absolute water turning from brown to yellow to green.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Becky Fuhrman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1424,
+            1437
+          ],
+          "text": "Becky Fuhrman"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV aids",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            1447,
+            1450
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.949321,
+      "sentence": "The visuals like Becky who had HIV.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Becky Fuhrman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5158,
+            5161
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV aids",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            5166,
+            5169
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.949321,
+      "sentence": "Visuals like Becky who had HIV.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Becky Fuhrman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            18969,
+            18972
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV aids",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            18977,
+            18980
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.557443,
+      "sentence": "Eight nine ten eleven twelve ball movements today forty year old Antonio Claudio was also affected by back to his H. I. V. positive but the severity of the cramps and diarrhea he developed during the outbreak was a lot.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "H. I. V.",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1747,
+            1755
+          ],
+          "text": "H. I. V."
+        },
+        {
+          "entities": [
+            {
+              "text": "salmonella",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            1800,
+            1808
+          ],
+          "text": "diarrhea"
+        }
+      ]
+    },
+    {
+      "score": 0.400556,
+      "sentence": "Much more difficult for medical detectives in one country.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            214,
+            224
+          ],
+          "text": "detectives"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            232,
+            239
+          ],
+          "text": "country"
+        }
+      ]
+    },
+    {
+      "score": 0.794061,
+      "sentence": "Eight nine ten eleven twelve ball movements today forty year old Antonio Claudio was also affected by back to his H. I. V. positive but the severity of the cramps and diarrhea he developed during the outbreak was a lot.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Antonio Claudio",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1809,
+            1811
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "salmonella",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            1800,
+            1808
+          ],
+          "text": "diarrhea"
+        }
+      ]
+    },
+    {
+      "score": 0.919342,
+      "sentence": "What'S happened to the nature of course of the virus itself of the HIV aids was it something else the only spread rapidly throughout Milwaukee pharmacies ran out of anti diarrheal medicine schools were close and absenteeism was at record levels in the business community Maryland marshy own coverage the operator of the Milwaukee journal newspaper for us in the paper it's like having a serial killer lives for medical reporter because it was a lot of confusion not a lot of information about what could be causing the outbreak people were calling alarmed and concerned the primary suspects were should gala G. party Campylobacter or salmonella common bacteria and parasites which cause these symptoms of samples from the infected individuals were all negative we knew this was big and we knew a lot of people sick kids were sick getting reports from hospitals.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "journal newspaper",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2183,
+            2200
+          ],
+          "text": "journal newspaper"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2173,
+            2182
+          ],
+          "text": "Milwaukee"
+        }
+      ]
+    },
+    {
+      "score": 0.870414,
+      "sentence": "What'S happened to the nature of course of the virus itself of the HIV aids was it something else the only spread rapidly throughout Milwaukee pharmacies ran out of anti diarrheal medicine schools were close and absenteeism was at record levels in the business community Maryland marshy own coverage the operator of the Milwaukee journal newspaper for us in the paper it's like having a serial killer lives for medical reporter because it was a lot of confusion not a lot of information about what could be causing the outbreak people were calling alarmed and concerned the primary suspects were should gala G. party Campylobacter or salmonella common bacteria and parasites which cause these symptoms of samples from the infected individuals were all negative we knew this was big and we knew a lot of people sick kids were sick getting reports from hospitals.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2381,
+            2387
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            2372,
+            2380
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.895549,
+      "sentence": "What'S happened to the nature of course of the virus itself of the HIV aids was it something else the only spread rapidly throughout Milwaukee pharmacies ran out of anti diarrheal medicine schools were close and absenteeism was at record levels in the business community Maryland marshy own coverage the operator of the Milwaukee journal newspaper for us in the paper it's like having a serial killer lives for medical reporter because it was a lot of confusion not a lot of information about what could be causing the outbreak people were calling alarmed and concerned the primary suspects were should gala G. party Campylobacter or salmonella common bacteria and parasites which cause these symptoms of samples from the infected individuals were all negative we knew this was big and we knew a lot of people sick kids were sick getting reports from hospitals.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2381,
+            2387
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "calling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2393,
+            2400
+          ],
+          "text": "calling"
+        }
+      ]
+    },
+    {
+      "score": 0.224633,
+      "sentence": "What'S happened to the nature of course of the virus itself of the HIV aids was it something else the only spread rapidly throughout Milwaukee pharmacies ran out of anti diarrheal medicine schools were close and absenteeism was at record levels in the business community Maryland marshy own coverage the operator of the Milwaukee journal newspaper for us in the paper it's like having a serial killer lives for medical reporter because it was a lot of confusion not a lot of information about what could be causing the outbreak people were calling alarmed and concerned the primary suspects were should gala G. party Campylobacter or salmonella common bacteria and parasites which cause these symptoms of samples from the infected individuals were all negative we knew this was big and we knew a lot of people sick kids were sick getting reports from hospitals.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "residents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2435,
+            2443
+          ],
+          "text": "suspects"
+        },
+        {
+          "entities": [
+            {
+              "text": "primary",
+              "type": "EventElection"
+            }
+          ],
+          "location": [
+            2427,
+            2434
+          ],
+          "text": "primary"
+        }
+      ]
+    },
+    {
+      "score": 0.894263,
+      "sentence": "Within twenty four hours of the outbreak the mayor of Milwaukee knew he faced a serious dilemma no American city had ever faced this type of crisis before the concert in the health department.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul mana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2976,
+            2981
+          ],
+          "text": "mayor"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2985,
+            2994
+          ],
+          "text": "Milwaukee"
+        }
+      ]
+    },
+    {
+      "score": 0.346522,
+      "sentence": "Within twenty four hours of the outbreak the mayor of Milwaukee knew he faced a serious dilemma no American city had ever faced this type of crisis before the concert in the health department.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul mana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3000,
+            3002
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3039,
+            3043
+          ],
+          "text": "city"
+        }
+      ]
+    },
+    {
+      "score": 0.900884,
+      "sentence": "Within twenty four hours of the outbreak the mayor of Milwaukee knew he faced a serious dilemma no American city had ever faced this type of crisis before the concern in the health department is the beginning of you know a real concern what is this you know how could so many people get sick all at one time city health commissioner Paul mana so learned that stool samples from the sick patients were all negative.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul mana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16804,
+            16809
+          ],
+          "text": "mayor"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            16813,
+            16822
+          ],
+          "text": "Milwaukee"
+        }
+      ]
+    },
+    {
+      "score": 0.274527,
+      "sentence": "Within twenty four hours of the outbreak the mayor of Milwaukee knew he faced a serious dilemma no American city had ever faced this type of crisis before the concern in the health department is the beginning of you know a real concern what is this you know how could so many people get sick all at one time city health commissioner Paul mana so learned that stool samples from the sick patients were all negative.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul mana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            17072,
+            17091
+          ],
+          "text": "health commissioner"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            17067,
+            17071
+          ],
+          "text": "city"
+        }
+      ]
+    },
+    {
+      "score": 0.366669,
+      "sentence": "Within twenty four hours of the outbreak the mayor of Milwaukee knew he faced a serious dilemma no American city had ever faced this type of crisis before the concert in the health department.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3039,
+            3043
+          ],
+          "text": "city"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3030,
+            3038
+          ],
+          "text": "American"
+        }
+      ]
+    },
+    {
+      "score": 0.395112,
+      "sentence": "Within twenty four hours of the outbreak the mayor of Milwaukee knew he faced a serious dilemma no American city had ever faced this type of crisis before the concern in the health department is the beginning of you know a real concern what is this you know how could so many people get sick all at one time city health commissioner Paul mana so learned that stool samples from the sick patients were all negative.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            16867,
+            16871
+          ],
+          "text": "city"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            16858,
+            16866
+          ],
+          "text": "American"
+        }
+      ]
+    },
+    {
+      "score": 0.356382,
+      "sentence": "Within twenty four hours of the outbreak the mayor of Milwaukee knew he faced a serious dilemma no American city had ever faced this type of crisis before the concert in the health department.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3112,
+            3122
+          ],
+          "text": "department"
+        },
+        {
+          "entities": [
+            {
+              "text": "concert",
+              "type": "EventPerformance"
+            }
+          ],
+          "location": [
+            3090,
+            3097
+          ],
+          "text": "concert"
+        }
+      ]
+    },
+    {
+      "score": 0.40182,
+      "sentence": "The beginning of you know a real concern what is this you know how could so many people get sick all at one time city health commissioner Paul mana so learn that stool samples from the sick patients were all negative no scientifically knowing that outbreak of this size is we're recognizing certain large with you they would either have to be food water there is no other common connector road after that would have had occasion to.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul mana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3242,
+            3261
+          ],
+          "text": "health commissioner"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3237,
+            3241
+          ],
+          "text": "city"
+        }
+      ]
+    },
+    {
+      "score": 0.559388,
+      "sentence": "The beginning of you know a real concern what is this you know how could so many people get sick all at one time city health commissioner Paul mana so learn that stool samples from the sick patients were all negative no scientifically knowing that outbreak of this size is we're recognizing certain large with you they would either have to be food water there is no other common connector road after that would have had occasion to.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3314,
+            3322
+          ],
+          "text": "patients"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            3372,
+            3380
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.568619,
+      "sentence": "Milwaukee Wisconsin the seventeenth largest city in the United States the population of almost one million people.",
+      "type": "populationOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "almost one million",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            329,
+            347
+          ],
+          "text": "almost one million"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            285,
+            289
+          ],
+          "text": "city"
+        }
+      ]
+    },
+    {
+      "score": 0.63341,
+      "sentence": "makes so many people sick all at once if the outbreak was caused by contaminated food source stool samples would contain the bacteria which cause and health officials could find no common food source that all of the sick individuals.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3571,
+            3577
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            3602,
+            3610
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.88915,
+      "sentence": "Officials analyze the water quality records at the city's municipal water supply but all of the water quality levels were within guidelines established by the environmental protection agency for safe drinking water everything that was awful is that our process was working real well in that we're meeting all the state and federal mandates we went back and indicated that the health department and they continued on with their investigation into other areas the only remaining elements common among the infected individuals was the air with a noose was suspected that this was some kind of fast acting.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individuals",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4359,
+            4364
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            4365,
+            4378
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.843703,
+      "sentence": "Officials analyze the water quality records at the city's municipal water supply but all of the water quality levels were within guidelines established by the environmental protection agency for safe drinking water everything that we saw in our process was working real well and that we are meeting all the state and federal mandates we went back and indicated that the health department and they continued on with their investigation into other areas the only remaining elements common among the infected individuals was the air with a noose was suspected that this was some kind of fast acting.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individuals",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            18176,
+            18181
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            18182,
+            18195
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.685359,
+      "sentence": "Iris that might be out there because it wasn't packed full season but when scientists looked at the distribution pattern of the outbreak they noticed that most of the cases were clustered in the south side of the city we believe.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4678,
+            4682
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            4669,
+            4677
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.685359,
+      "sentence": "Iris that might be out there because it wasn't backed season but when scientists looked at the distribution pattern of the outbreak they noticed that most of the cases were clustered in the south side of the city we believe.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            18490,
+            18494
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            18481,
+            18489
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.755276,
+      "sentence": "Iris that might be out there because it wasn't packed full season but when scientists looked at the distribution pattern of the outbreak they noticed that most of the cases were clustered in the south side of the city we believe.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "south side",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            4736,
+            4746
+          ],
+          "text": "south side"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4754,
+            4758
+          ],
+          "text": "city"
+        }
+      ]
+    },
+    {
+      "score": 0.749298,
+      "sentence": "Becky Fuhrman lived on Milwaukee's south side.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "south side",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5044,
+            5054
+          ],
+          "text": "south side"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5032,
+            5041
+          ],
+          "text": "Milwaukee"
+        }
+      ]
+    },
+    {
+      "score": 0.695616,
+      "sentence": "The single food water plant supplied Milwaukee's south side reported the only unusual read out was a P. contributed one week before the outbreak turbidity measures the amount of foreign particles in the water.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "south side",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5703,
+            5713
+          ],
+          "text": "south side"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5691,
+            5700
+          ],
+          "text": "Milwaukee"
+        }
+      ]
+    },
+    {
+      "score": 0.834262,
+      "sentence": "Antonio Claudio was living in Houston when he tested positive for cryptos for radios he believes he was infected while visiting his mother who lived on the south side of Milwaukee since there is no cure for cryptos for radio says side to help the immune system and Tonio lives each day with constant chronic diarrhea once discover you have this is the your life change and this is no way to get around it helps a lot.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "south side",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            13211,
+            13221
+          ],
+          "text": "south side"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13225,
+            13234
+          ],
+          "text": "Milwaukee"
+        }
+      ]
+    },
+    {
+      "score": 0.794588,
+      "sentence": "Wind and water currents were in the south westerly direction pushing the water south towards the Howard Avenue water plant which serves the south side of Milwaukee and away from the network water plant serving the city's north side in nineteen ninety three there were no filters or masks disinfectants used anywhere in the United States which could eliminate the cryptos peridium water.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "south side",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            14502,
+            14512
+          ],
+          "text": "south side"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14516,
+            14525
+          ],
+          "text": "Milwaukee"
+        }
+      ]
+    },
+    {
+      "score": 0.737393,
+      "sentence": "Iris that might be out there because it wasn't backed season but when scientists looked at the distribution pattern of the outbreak they noticed that most of the cases were clustered in the south side of the city we believe.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "south side",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            18548,
+            18558
+          ],
+          "text": "south side"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            18566,
+            18570
+          ],
+          "text": "city"
+        }
+      ]
+    },
+    {
+      "score": 0.749298,
+      "sentence": "Becky Fuhrman lived on Milwaukee's south side.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "south side",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            18859,
+            18869
+          ],
+          "text": "south side"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            18847,
+            18856
+          ],
+          "text": "Milwaukee"
+        }
+      ]
+    },
+    {
+      "score": 0.762048,
+      "sentence": "The single food the water plant supplied Milwaukee's south side reported the only unusual read out was a peak in turbidity one week before the outbreak turbidity measures the amount of foreign particles in the water.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "south side",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            19534,
+            19544
+          ],
+          "text": "south side"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            19522,
+            19531
+          ],
+          "text": "Milwaukee"
+        }
+      ]
+    },
+    {
+      "score": 0.587265,
+      "sentence": "More normal uniform distribution of illness had been an airborne virus because it would have started at a point in moved outward since the outbreak seems to be centered in Milwaukee's southside this narrow the focus of the investigation.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4943,
+            4952
+          ],
+          "text": "Milwaukee"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            4910,
+            4918
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.445973,
+      "sentence": "That theory held for four years during that time the centers for disease control in Atlanta Georgia continue to investigate Milwaukee's cryptosporidium outbreak since it was the largest waterborne outbreak in United States history in nineteen ninety seven scientists we tested for stool samples from individuals infected during that outbreak.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            15044,
+            15053
+          ],
+          "text": "Milwaukee"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            15072,
+            15080
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.313484,
+      "sentence": "They conducted DNA testing on the crypt those ready and when they did it was a shocking discovery the type of those peridium found in the four stool samples from the Milwaukee outbreak did not come from farm animals it was a new strain one which came from human ways suggest on the basis of the limited number of samples that we looked at that the the walkie outbreak was was not from pastor run off but was from a sewage contamination when investigators look more closely at Milwaukee's water supply they found that the Howard Avenue water plants intake was less than two miles down comment from the sewage treatment plant overflowed valve in Lake Michigan the CDC's discovery suggested that human waste containing cryptosporidium was released from the sewage treatment plant travel two miles downstream into the water intake of the Howard Avenue water plant today sewage",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            15429,
+            15438
+          ],
+          "text": "Milwaukee"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            15439,
+            15447
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.587265,
+      "sentence": "More normal uniform distribution of illness had it been an airborne virus because it would have started at a point in moved outward since the outbreak seems to be centered in Milwaukee's southside this narrow the focus of the investigation.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            18758,
+            18767
+          ],
+          "text": "Milwaukee"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            18725,
+            18733
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.368215,
+      "sentence": "Becky Fuhrman lived on Milwaukee's south side.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Becky Fuhrman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5009,
+            5022
+          ],
+          "text": "Becky Fuhrman"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5032,
+            5041
+          ],
+          "text": "Milwaukee"
+        }
+      ]
+    },
+    {
+      "score": 0.368215,
+      "sentence": "Becky Fuhrman lived on Milwaukee's south side.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Becky Fuhrman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            18824,
+            18837
+          ],
+          "text": "Becky Fuhrman"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            18847,
+            18856
+          ],
+          "text": "Milwaukee"
+        }
+      ]
+    },
+    {
+      "score": 0.457924,
+      "sentence": "Becky Fuhrman lived on Milwaukee's south side.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Becky Fuhrman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5009,
+            5022
+          ],
+          "text": "Becky Fuhrman"
+        },
+        {
+          "entities": [
+            {
+              "text": "south side",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5044,
+            5054
+          ],
+          "text": "south side"
+        }
+      ]
+    },
+    {
+      "score": 0.602036,
+      "sentence": "Antonio Claudio was living in Houston when he tested positive for cryptos for radios he believes he was infected while visiting his mother who lived on the south side of Milwaukee since there is no cure for cryptos for radio says side to help the immune system and Tonio lives each day with constant chronic diarrhea once discover you have this is the your life change and this is no way to get around it helps a lot.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Becky Fuhrman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13194,
+            13197
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "south side",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            13211,
+            13221
+          ],
+          "text": "south side"
+        }
+      ]
+    },
+    {
+      "score": 0.457924,
+      "sentence": "Becky Fuhrman lived on Milwaukee's south side.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Becky Fuhrman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            18824,
+            18837
+          ],
+          "text": "Becky Fuhrman"
+        },
+        {
+          "entities": [
+            {
+              "text": "south side",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            18859,
+            18869
+          ],
+          "text": "south side"
+        }
+      ]
+    },
+    {
+      "score": 0.531956,
+      "sentence": "Doctors had no idea what caused her illness and soon discovered they couldn't.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doctors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5056,
+            5063
+          ],
+          "text": "Doctors"
+        },
+        {
+          "entities": [
+            {
+              "text": "scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5120,
+            5124
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.531956,
+      "sentence": "Doctors had no idea what caused her illness and soon discovered they couldn't.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doctors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            18871,
+            18878
+          ],
+          "text": "Doctors"
+        },
+        {
+          "entities": [
+            {
+              "text": "scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            18935,
+            18939
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.524039,
+      "sentence": "Doctors had no idea what caused her illness and soon discovered they couldn't.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Becky Fuhrman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5088,
+            5091
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5120,
+            5124
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.524039,
+      "sentence": "Doctors had no idea what caused her illness and soon discovered they couldn't.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Becky Fuhrman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            18903,
+            18906
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            18935,
+            18939
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.955532,
+      "sentence": "Would not kill if so the entire city would be at risk and one of the city's largest industries could also be affected the brewing industry.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "industries",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6349,
+            6359
+          ],
+          "text": "industries"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6334,
+            6338
+          ],
+          "text": "city"
+        }
+      ]
+    },
+    {
+      "score": 0.955532,
+      "sentence": "Would not kill if so the entire city would be at risk and one of the city's largest industries could also be affected the brewing industry.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "industries",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            20194,
+            20204
+          ],
+          "text": "industries"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            20179,
+            20183
+          ],
+          "text": "city"
+        }
+      ]
+    },
+    {
+      "score": 0.491421,
+      "sentence": "Milwaukee Wisconsin the seventeenth largest city in the United States the population of almost one million people.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "population",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            315,
+            325
+          ],
+          "text": "population"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            297,
+            310
+          ],
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "score": 0.557306,
+      "sentence": "Health officials suspected that something in Milwaukee's water supply was causing the outbreak of thousands of cases of gastrointestinal pills.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Health officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6583,
+            6599
+          ],
+          "text": "Health officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            6669,
+            6677
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.927024,
+      "sentence": "The water department insisted that the water quality levels were all within standards set by the environmental protection agency and that the water was safe to drink hospitals and laboratories throughout Milwaukee continue to analyze stool samples from the thousands of individuals affected everything in life was a dead end everywhere we looked was everything was negative sandy Schrader wrist was doing some of those tasked at a local hospital as a microbiologist she was performing the routine tests on patients hospitalized with the mysterious illness the standard test wasn't iodine stains when added to the stool samples the iodine would show if parasites were present but all of the I dined tests were negative on her own sandy Schrader S. decided to go one step further she remembered something she learned earlier in her training that microbiologists should be on the lookout for parasites which do not show up",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6737,
+            6747
+          ],
+          "text": "department"
+        },
+        {
+          "entities": [
+            {
+              "text": "insisted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6748,
+            6756
+          ],
+          "text": "insisted"
+        }
+      ]
+    },
+    {
+      "score": 0.808471,
+      "sentence": "The water department insisted that the water quality levels were all within standards set by the environmental protection agency and that the water was safe to drink hospitals and laboratories throughout Milwaukee continue to analyze stool samples from the thousands of individuals affected everything in life was a dead end everywhere we looked was everything was negative sandy Schrader wrist was doing some of those tasked at a local hospital as a microbiologist she was performing the routine tests on patients hospitalized with the mysterious illness the standard test wasn't iodine stains when added to the stool samples the iodine would show if parasites were present but all of the I dined tests were negative on her own sandy Schrader S. decided to go one step further she remembered something she learned earlier in her training that microbiologist should be on the lookout for parasites which do not show up",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            20582,
+            20592
+          ],
+          "text": "department"
+        },
+        {
+          "entities": [
+            {
+              "text": "insisted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            20593,
+            20601
+          ],
+          "text": "insisted"
+        }
+      ]
+    },
+    {
+      "score": 0.255477,
+      "sentence": "It was the fluorescent agent attached to be ninety five proof that a parasite was present it was kryptos peridium little is known about cryptos Caribbean since it first infected humans just over twenty years ago it's a one celled organism a protozoan parasites which is found in feces from young farm animals particularly cats cryptos meridian is an eighty percent of surface water largely due to animal feces wash from farms into nearby streams by heavy rains and melting snow.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "animals",
+              "type": "Animal"
+            }
+          ],
+          "location": [
+            8992,
+            8999
+          ],
+          "text": "animals"
+        },
+        {
+          "entities": [
+            {
+              "text": "farm",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8987,
+            8991
+          ],
+          "text": "farm"
+        }
+      ]
+    },
+    {
+      "score": 0.487103,
+      "sentence": "It was the fluorescent agent attached to be ninety five proof that a parasite was present it was kryptos peridium little is known about cryptos Caribbean since it first infected humans just over twenty years ago it's a one celled organism a protozoan parasites which is found in feces from young farm animals particularly cats cryptos meridian is an eighty percent of surface water largely due to animal feces wash from farms into nearby streams by heavy rains and melting snow.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "animal",
+              "type": "Animal"
+            }
+          ],
+          "location": [
+            9088,
+            9094
+          ],
+          "text": "animal"
+        },
+        {
+          "entities": [
+            {
+              "text": "streams",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9129,
+            9136
+          ],
+          "text": "streams"
+        }
+      ]
+    },
+    {
+      "score": 0.881406,
+      "sentence": "Cancer patients and individuals with organ and bone marrow transplant when lab technicians we tested father stool samples confirmed with century.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9842,
+            9850
+          ],
+          "text": "patients"
+        },
+        {
+          "entities": [
+            {
+              "text": "Cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            9835,
+            9841
+          ],
+          "text": "Cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.805327,
+      "sentence": "Cancer patients and individuals with organ and bone marrow transplant when lab technicians we tested father stool samples confirmed with century.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9936,
+            9942
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "Cancer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            9835,
+            9841
+          ],
+          "text": "Cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.407348,
+      "sentence": "Cancer patients and individuals with organ and bone marrow transplant when lab technicians we tested father stool samples confirmed with century.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9936,
+            9942
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "lab technicians",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9910,
+            9925
+          ],
+          "text": "lab technicians"
+        }
+      ]
+    },
+    {
+      "score": 0.991909,
+      "sentence": "The mayor called an emergency meeting of both city and state health officials during that meeting the mere noticed one of the participants Dr Jeffrey Davis the state seventeen the other just was drinking diet soda and water when the mayor turned to Dr Davis and asked if he would drink the city's water Dr Davis said now wasn't difficult once yes doctor Davis if you drink the water I mean if you suspect he's a scientist he's an expert at it and at a very honest person.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul mana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10247,
+            10252
+          ],
+          "text": "mayor"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10253,
+            10259
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.486185,
+      "sentence": "The mayor called an emergency meeting of both city and state health officials during that meeting the mere noticed one of the participants Dr Jeffrey Davis the state seventeen the other just was drinking diet soda and water when the mayor turned to Dr Davis and asked if he would drink the city's water Dr Davis said now wasn't difficult once yes doctor Davis if you drink the water I mean if you suspect he's a scientist he's an expert at it and at a very honest person.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Health officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10304,
+            10320
+          ],
+          "text": "health officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "meeting",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            10273,
+            10280
+          ],
+          "text": "meeting"
+        }
+      ]
+    },
+    {
+      "score": 0.396608,
+      "sentence": "The mayor called an emergency meeting of both city and state health officials during that meeting the mere noticed one of the participants Dr Jeffrey Davis the state seventeen the other just was drinking diet soda and water when the mayor turned to Dr Davis and asked if he would drink the city's water Dr Davis said now wasn't difficult once yes doctor Davis if you drink the water I mean if you suspect he's a scientist he's an expert at it and at a very honest person.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10289,
+            10293
+          ],
+          "text": "city"
+        },
+        {
+          "entities": [
+            {
+              "text": "meeting",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            10333,
+            10340
+          ],
+          "text": "meeting"
+        }
+      ]
+    },
+    {
+      "score": 0.744286,
+      "sentence": "It'S a city known rich German culture summer festival.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "culture",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            386,
+            393
+          ],
+          "text": "culture"
+        },
+        {
+          "entities": [
+            {
+              "text": "German",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            379,
+            385
+          ],
+          "text": "German"
+        }
+      ]
+    },
+    {
+      "score": 0.936544,
+      "sentence": "The mayor called an emergency meeting of both city and state health officials during that meeting the mere noticed one of the participants Dr Jeffrey Davis the state seventeen the other just was drinking diet soda and water when the mayor turned to Dr Davis and asked if he would drink the city's water Dr Davis said now wasn't difficult once yes doctor Davis if you drink the water I mean if you suspect he's a scientist he's an expert at it and at a very honest person.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Health officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10304,
+            10320
+          ],
+          "text": "health officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "environmental protection agency",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10298,
+            10303
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.555429,
+      "sentence": "The mayor called an emergency meeting of both city and state health officials during that meeting the mere noticed one of the participants Dr Jeffrey Davis the state seventeen the other just was drinking diet soda and water when the mayor turned to Dr Davis and asked if he would drink the city's water Dr Davis said now wasn't difficult once yes doctor Davis if you drink the water I mean if you suspect he's a scientist he's an expert at it and at a very honest person.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Health officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10304,
+            10320
+          ],
+          "text": "health officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "meeting",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            10333,
+            10340
+          ],
+          "text": "meeting"
+        }
+      ]
+    },
+    {
+      "score": 0.31172,
+      "sentence": "The mayor called an emergency meeting of both city and state health officials during that meeting the mere noticed one of the participants Dr Jeffrey Davis the state seventeen the other just was drinking diet soda and water when the mayor turned to Dr Davis and asked if he would drink the city's water Dr Davis said now wasn't difficult once yes doctor Davis if you drink the water I mean if you suspect he's a scientist he's an expert at it and at a very honest person.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jeffrey Davis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10382,
+            10384
+          ],
+          "text": "Dr"
+        },
+        {
+          "entities": [
+            {
+              "text": "participants",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10369,
+            10381
+          ],
+          "text": "participants"
+        }
+      ]
+    },
+    {
+      "score": 0.687349,
+      "sentence": "The mayor called an emergency meeting of both city and state health officials during that meeting the mere noticed one of the participants Dr Jeffrey Davis the state seventeen the other just was drinking diet soda and water when the mayor turned to Dr Davis and asked if he would drink the city's water Dr Davis said now wasn't difficult once yes doctor Davis if you drink the water I mean if you suspect he's a scientist he's an expert at it and at a very honest person.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul mana",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10476,
+            10481
+          ],
+          "text": "mayor"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10505,
+            10510
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.953658,
+      "sentence": "The mayor called an emergency meeting of both city and state health officials during that meeting the mere noticed one of the participants Dr Jeffrey Davis the state seventeen the other just was drinking diet soda and water when the mayor turned to Dr Davis and asked if he would drink the city's water Dr Davis said now wasn't difficult once yes doctor Davis if you drink the water I mean if you suspect he's a scientist he's an expert at it and at a very honest person.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jeffrey Davis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10549,
+            10554
+          ],
+          "text": "Davis"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10555,
+            10559
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.662722,
+      "sentence": "On Milwaukee's water done by an independent laboratory confirmed to redeem those present your fight water from the Howard Avenue water.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "laboratory",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11346,
+            11356
+          ],
+          "text": "laboratory"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11305,
+            11314
+          ],
+          "text": "Milwaukee"
+        }
+      ]
+    },
+    {
+      "score": 0.550226,
+      "sentence": "The news of cryptos meridian contamination was a specially terrifying to one segment of the population of people with HIV infections or aids for these patients it was life threatening immediately they knew what crypto was this was not a new illness to them it was something they dreaded that they may be heard or seen and friends from around the country and they knew exactly how serious it was found that this body else's for someone with a severely compromised immune system is a death sentence Doug Nelson and the organization he directs the aids resource center of Wisconsin went into crisis mode he knew that individuals with HIV aids would never get rid of the parasite but his goal was to make sure no one else became infected with the local breweries learned about parasites in the water they had no concerns about their products the breweries had",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "population",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11544,
+            11550
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV aids",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            11556,
+            11559
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.57514,
+      "sentence": "The news of cryptos meridian contamination was a specially terrifying to one segment of the population of people with HIV infections or aids for these patients it was life threatening immediately they knew what crypto was this was not a new illness to them it was something they dreaded that they may be heard or seen and friends from around the country and they knew exactly how serious it was found that this body else's for someone with a severely compromised immune system is a death sentence Doug Nelson and the organization he directs the aids resource center of Wisconsin went into crisis mode he knew that individuals with HIV aids would never get rid of the parasite but his goal was to make sure no one else became infected with the local breweries learned about parasites in the water they had no concerns about their products the breweries had",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "population",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11544,
+            11550
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV aids",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            11574,
+            11578
+          ],
+          "text": "aids"
+        }
+      ]
+    },
+    {
+      "score": 0.48202,
+      "sentence": "The news of cryptos meridian contamination was a specially terrifying to one segment of the population of people with HIV infections or aids for these patients it was life threatening immediately they knew what crypto was this was not a new illness to them it was something they dreaded that they may be heard or seen and friends from around the country and they knew exactly how serious it was found that this body else's for someone with a severely compromised immune system is a death sentence Doug Nelson and the organization he directs the aids resource center of Wisconsin went into crisis mode he knew that individuals with HIV aids would never get rid of the parasite but his goal was to make sure no one else became infected with the local breweries learned about parasites in the water they had no concerns about their products the breweries had",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11589,
+            11597
+          ],
+          "text": "patients"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV aids",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            11560,
+            11570
+          ],
+          "text": "infections"
+        }
+      ]
+    },
+    {
+      "score": 0.67424,
+      "sentence": "The news of cryptos meridian contamination was a specially terrifying to one segment of the population of people with HIV infections or aids for these patients it was life threatening immediately they knew what crypto was this was not a new illness to them it was something they dreaded that they may be heard or seen and friends from around the country and they knew exactly how serious it was found that this body else's for someone with a severely compromised immune system is a death sentence Doug Nelson and the organization he directs the aids resource center of Wisconsin went into crisis mode he knew that individuals with HIV aids would never get rid of the parasite but his goal was to make sure no one else became infected with the local breweries learned about parasites in the water they had no concerns about their products the breweries had",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11589,
+            11597
+          ],
+          "text": "patients"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV aids",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            11574,
+            11578
+          ],
+          "text": "aids"
+        }
+      ]
+    },
+    {
+      "score": 0.414444,
+      "sentence": "The news of cryptos meridian contamination was a specially terrifying to one segment of the population of people with HIV infections or aids for these patients it was life threatening immediately they knew what crypto was this was not a new illness to them it was something they dreaded that they may be heard or seen and friends from around the country and they knew exactly how serious it was found that this body else's for someone with a severely compromised immune system is a death sentence Doug Nelson and the organization he directs the aids resource center of Wisconsin went into crisis mode he knew that individuals with HIV aids would never get rid of the parasite but his goal was to make sure no one else became infected with the local breweries learned about parasites in the water they had no concerns about their products the breweries had",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11760,
+            11767
+          ],
+          "text": "friends"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11730,
+            11734
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.430971,
+      "sentence": "The news of cryptos meridian contamination was a specially terrifying to one segment of the population of people with HIV infections or aids for these patients it was life threatening immediately they knew what crypto was this was not a new illness to them it was something they dreaded that they may be heard or seen and friends from around the country and they knew exactly how serious it was found that this body else's for someone with a severely compromised immune system is a death sentence Doug Nelson and the organization he directs the aids resource center of Wisconsin went into crisis mode he knew that individuals with HIV aids would never get rid of the parasite but his goal was to make sure no one else became infected with the local breweries learned about parasites in the water they had no concerns about their products the breweries had",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11760,
+            11767
+          ],
+          "text": "friends"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11784,
+            11791
+          ],
+          "text": "country"
+        }
+      ]
+    },
+    {
+      "score": 0.578258,
+      "sentence": "It'S a city known rich German culture summer festival.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "culture",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            386,
+            393
+          ],
+          "text": "culture"
+        },
+        {
+          "entities": [
+            {
+              "text": "festival",
+              "type": "EventPerformance"
+            }
+          ],
+          "location": [
+            401,
+            409
+          ],
+          "text": "festival"
+        }
+      ]
+    },
+    {
+      "score": 0.551791,
+      "sentence": "The news of cryptos meridian contamination was a specially terrifying to one segment of the population of people with HIV infections or aids for these patients it was life threatening immediately they knew what crypto was this was not a new illness to them it was something they dreaded that they may be heard or seen and friends from around the country and they knew exactly how serious it was found that this body else's for someone with a severely compromised immune system is a death sentence Doug Nelson and the organization he directs the aids resource center of Wisconsin went into crisis mode he knew that individuals with HIV aids would never get rid of the parasite but his goal was to make sure no one else became infected with the local breweries learned about parasites in the water they had no concerns about their products the breweries had",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doug Nelson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11935,
+            11946
+          ],
+          "text": "Doug Nelson"
+        },
+        {
+          "entities": [
+            {
+              "text": "death sentence",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11920,
+            11934
+          ],
+          "text": "death sentence"
+        }
+      ]
+    },
+    {
+      "score": 0.484256,
+      "sentence": "The news of cryptos meridian contamination was a specially terrifying to one segment of the population of people with HIV infections or aids for these patients it was life threatening immediately they knew what crypto was this was not a new illness to them it was something they dreaded that they may be heard or seen and friends from around the country and they knew exactly how serious it was found that this body else's for someone with a severely compromised immune system is a death sentence Doug Nelson and the organization he directs the aids resource center of Wisconsin went into crisis mode he knew that individuals with HIV aids would never get rid of the parasite but his goal was to make sure no one else became infected with the local breweries learned about parasites in the water they had no concerns about their products the breweries had",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doug Nelson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11968,
+            11970
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "Dental offices",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11955,
+            11967
+          ],
+          "text": "organization"
+        }
+      ]
+    },
+    {
+      "score": 0.828512,
+      "sentence": "The news of cryptos meridian contamination was a specially terrifying to one segment of the population of people with HIV infections or aids for these patients it was life threatening immediately they knew what crypto was this was not a new illness to them it was something they dreaded that they may be heard or seen and friends from around the country and they knew exactly how serious it was found that this body else's for someone with a severely compromised immune system is a death sentence Doug Nelson and the organization he directs the aids resource center of Wisconsin went into crisis mode he knew that individuals with HIV aids would never get rid of the parasite but his goal was to make sure no one else became infected with the local breweries learned about parasites in the water they had no concerns about their products the breweries had",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doug Nelson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11968,
+            11970
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV aids",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            11983,
+            11987
+          ],
+          "text": "aids"
+        }
+      ]
+    },
+    {
+      "score": 0.625389,
+      "sentence": "The news of cryptos meridian contamination was a specially terrifying to one segment of the population of people with HIV infections or aids for these patients it was life threatening immediately they knew what crypto was this was not a new illness to them it was something they dreaded that they may be heard or seen and friends from around the country and they knew exactly how serious it was found that this body else's for someone with a severely compromised immune system is a death sentence Doug Nelson and the organization he directs the aids resource center of Wisconsin went into crisis mode he knew that individuals with HIV aids would never get rid of the parasite but his goal was to make sure no one else became infected with the local breweries learned about parasites in the water they had no concerns about their products the breweries had",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doug Nelson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12039,
+            12041
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV aids",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            12069,
+            12077
+          ],
+          "text": "HIV aids"
+        }
+      ]
+    },
+    {
+      "score": 0.569366,
+      "sentence": "The news of cryptos meridian contamination was a specially terrifying to one segment of the population of people with HIV infections or aids for these patients it was life threatening immediately they knew what crypto was this was not a new illness to them it was something they dreaded that they may be heard or seen and friends from around the country and they knew exactly how serious it was found that this body else's for someone with a severely compromised immune system is a death sentence Doug Nelson and the organization he directs the aids resource center of Wisconsin went into crisis mode he knew that individuals with HIV aids would never get rid of the parasite but his goal was to make sure no one else became infected with the local breweries learned about parasites in the water they had no concerns about their products the breweries had",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doug Nelson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12039,
+            12041
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "individuals",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12052,
+            12063
+          ],
+          "text": "individuals"
+        }
+      ]
+    },
+    {
+      "score": 0.662386,
+      "sentence": "The news of cryptos meridian contamination was a specially terrifying to one segment of the population of people with HIV infections or aids for these patients it was life threatening immediately they knew what crypto was this was not a new illness to them it was something they dreaded that they may be heard or seen and friends from around the country and they knew exactly how serious it was found that this body else's for someone with a severely compromised immune system is a death sentence Doug Nelson and the organization he directs the aids resource center of Wisconsin went into crisis mode he knew that individuals with HIV aids would never get rid of the parasite but his goal was to make sure no one else became infected with the local breweries learned about parasites in the water they had no concerns about their products the breweries had",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individuals",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12052,
+            12063
+          ],
+          "text": "individuals"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV aids",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            12069,
+            12077
+          ],
+          "text": "HIV aids"
+        }
+      ]
+    },
+    {
+      "score": 0.27709,
+      "sentence": "The news of cryptos meridian contamination was a specially terrifying to one segment of the population of people with HIV infections or aids for these patients it was life threatening immediately they knew what crypto was this was not a new illness to them it was something they dreaded that they may be heard or seen and friends from around the country and they knew exactly how serious it was found that this body else's for someone with a severely compromised immune system is a death sentence Doug Nelson and the organization he directs the aids resource center of Wisconsin went into crisis mode he knew that individuals with HIV aids would never get rid of the parasite but his goal was to make sure no one else became infected with the local breweries learned about parasites in the water they had no concerns about their products the breweries had",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12261,
+            12266
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "breweries",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12280,
+            12289
+          ],
+          "text": "breweries"
+        }
+      ]
+    },
+    {
+      "score": 0.820164,
+      "sentence": "their own water purification process which included boiling the water before brewing this would have eliminated for those ready and and any other signs the Miller brewing company made available to the public emergency supplies of purified water as a gesture of goodwill to the community.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12450,
+            12456
+          ],
+          "text": "Miller"
+        },
+        {
+          "entities": [
+            {
+              "text": "those",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12410,
+            12415
+          ],
+          "text": "those"
+        }
+      ]
+    },
+    {
+      "score": 0.276428,
+      "sentence": "their own water purification process which included boiling the water before brewing this would have eliminated for those ready and and any other signs the Miller brewing company made available to the public emergency supplies of purified water as a gesture of goodwill to the community.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12450,
+            12456
+          ],
+          "text": "Miller"
+        },
+        {
+          "entities": [
+            {
+              "text": "journal newspaper",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12465,
+            12472
+          ],
+          "text": "company"
+        }
+      ]
+    },
+    {
+      "score": 0.623284,
+      "sentence": "Businessmen traveling through Milwaukee's airport reported getting sick after drinking just enough water to swallow a few aspirin.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Businessmen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12924,
+            12935
+          ],
+          "text": "Businessmen"
+        },
+        {
+          "entities": [
+            {
+              "text": "reported",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12974,
+            12982
+          ],
+          "text": "reported"
+        }
+      ]
+    },
+    {
+      "score": 0.976084,
+      "sentence": "Businessmen traveling through Milwaukee's airport reported getting sick after drinking just enough water to swallow a few aspirin.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "airport",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12966,
+            12973
+          ],
+          "text": "airport"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12954,
+            12963
+          ],
+          "text": "Milwaukee"
+        }
+      ]
+    },
+    {
+      "score": 0.970955,
+      "sentence": "It'S a city known rich German culture summer festival.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "summer",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            394,
+            400
+          ],
+          "text": "summer"
+        },
+        {
+          "entities": [
+            {
+              "text": "festival",
+              "type": "EventPerformance"
+            }
+          ],
+          "location": [
+            401,
+            409
+          ],
+          "text": "festival"
+        }
+      ]
+    },
+    {
+      "score": 0.772191,
+      "sentence": "Businessmen traveling through Milwaukee's airport reported getting sick after drinking just enough water to swallow a few aspirin.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "airport",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12966,
+            12973
+          ],
+          "text": "airport"
+        },
+        {
+          "entities": [
+            {
+              "text": "reported",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12974,
+            12982
+          ],
+          "text": "reported"
+        }
+      ]
+    },
+    {
+      "score": 0.628086,
+      "sentence": "Antonio Claudio was living in Houston when he tested positive for cryptos for radios he believes he was infected while visiting his mother who lived on the south side of Milwaukee since there is no cure for cryptos for radio says side to help the immune system and Tonio lives each day with constant chronic diarrhea once discover you have this is the your life change and this is no way to get around it helps a lot.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Antonio Claudio",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13055,
+            13070
+          ],
+          "text": "Antonio Claudio"
+        },
+        {
+          "entities": [
+            {
+              "text": "Houston",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13085,
+            13092
+          ],
+          "text": "Houston"
+        }
+      ]
+    },
+    {
+      "score": 0.66503,
+      "sentence": "Antonio Claudio was living in Houston when he tested positive for cryptos for radios he believes he was infected while visiting his mother who lived on the south side of Milwaukee since there is no cure for cryptos for radio says side to help the immune system and Tonio lives each day with constant chronic diarrhea once discover you have this is the your life change and this is no way to get around it helps a lot.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Becky Fuhrman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13187,
+            13193
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Antonio Claudio",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13183,
+            13186
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.825099,
+      "sentence": "Antonio Claudio was living in Houston when he tested positive for cryptos for radios he believes he was infected while visiting his mother who lived on the south side of Milwaukee since there is no cure for cryptos for radio says side to help the immune system and Tonio lives each day with constant chronic diarrhea once discover you have this is the your life change and this is no way to get around it helps a lot.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tonio",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13320,
+            13325
+          ],
+          "text": "Tonio"
+        },
+        {
+          "entities": [
+            {
+              "text": "salmonella",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            13363,
+            13371
+          ],
+          "text": "diarrhea"
+        }
+      ]
+    },
+    {
+      "score": 0.768598,
+      "sentence": "Antonio Claudio was living in Houston when he tested positive for cryptos for radios he believes he was infected while visiting his mother who lived on the south side of Milwaukee since there is no cure for cryptos for radio says side to help the immune system and Tonio lives each day with constant chronic diarrhea once discover you have this is the your life change and this is no way to get around it helps a lot.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Becky Fuhrman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13386,
+            13389
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "salmonella",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            13363,
+            13371
+          ],
+          "text": "diarrhea"
+        }
+      ]
+    },
+    {
+      "score": 0.753118,
+      "sentence": "After an intensive investigation health officials developed a theory as to how cryptos peridium contaminated Milwaukee's water supply in early April of nineteen ninety three heavy rains in the spring snowmelt caused water run off the ground was still frozen and unable to absorb the water manure from the farms and fields might have washed into nearby streams when your which contain those parading.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "health officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13851,
+            13867
+          ],
+          "text": "health officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13837,
+            13850
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.673466,
+      "sentence": "The crypto spur radio then made their way from the streams into Lake Michigan the source of Milwaukee's drinking water shortly before the hour.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14250,
+            14255
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "streams",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14269,
+            14276
+          ],
+          "text": "streams"
+        }
+      ]
+    },
+    {
+      "score": 0.82281,
+      "sentence": "The crypto spur radio then made their way from the streams into Lake Michigan the source of Milwaukee's drinking water shortly before the hour.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14250,
+            14255
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lake Michigan",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            14282,
+            14295
+          ],
+          "text": "Lake Michigan"
+        }
+      ]
+    },
+    {
+      "score": 0.750581,
+      "sentence": "The crypto spur radio then made their way from the streams into Lake Michigan the source of Milwaukee's drinking water shortly before the hour.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "streams",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14269,
+            14276
+          ],
+          "text": "streams"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lake Michigan",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            14282,
+            14295
+          ],
+          "text": "Lake Michigan"
+        }
+      ]
+    },
+    {
+      "score": 0.487863,
+      "sentence": "Wind and water currents were in the south westerly direction pushing the water south towards the Howard Avenue water plant which serves the south side of Milwaukee and away from the network water plant serving the city's north side in nineteen ninety three there were no filters or masks disinfectants used anywhere in the United States which could eliminate the cryptos peridium water.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "south",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            14441,
+            14446
+          ],
+          "text": "south"
+        },
+        {
+          "entities": [
+            {
+              "text": "south side",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            14502,
+            14512
+          ],
+          "text": "south side"
+        }
+      ]
+    },
+    {
+      "score": 0.896401,
+      "sentence": "Milwaukee is the home of several large breweries producing eleven million barrels of beer annually.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            471,
+            475
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            454,
+            463
+          ],
+          "text": "Milwaukee"
+        }
+      ]
+    },
+    {
+      "score": 0.466523,
+      "sentence": "Wind and water currents were in the south westerly direction pushing the water south towards the Howard Avenue water plant which serves the south side of Milwaukee and away from the network water plant serving the city's north side in nineteen ninety three there were no filters or masks disinfectants used anywhere in the United States which could eliminate the cryptos peridium water.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Avenue",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14459,
+            14472
+          ],
+          "text": "Howard Avenue"
+        },
+        {
+          "entities": [
+            {
+              "text": "south side",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            14502,
+            14512
+          ],
+          "text": "south side"
+        }
+      ]
+    },
+    {
+      "score": 0.498537,
+      "sentence": "Wind and water currents were in the south westerly direction pushing the water south towards the Howard Avenue water plant which serves the south side of Milwaukee and away from the network water plant serving the city's north side in nineteen ninety three there were no filters or masks disinfectants used anywhere in the United States which could eliminate the cryptos peridium water.",
+      "type": "near",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "north side",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            14583,
+            14593
+          ],
+          "text": "north side"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14576,
+            14580
+          ],
+          "text": "city"
+        }
+      ]
+    },
+    {
+      "score": 0.535825,
+      "sentence": "Chlorine was ineffective against over four hundred thousand people who ingested water from the Howard Avenue plant became ill four thousand.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Avenue",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14844,
+            14857
+          ],
+          "text": "Howard Avenue"
+        },
+        {
+          "entities": [
+            {
+              "text": "Howard Avenue",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14858,
+            14863
+          ],
+          "text": "plant"
+        }
+      ]
+    },
+    {
+      "score": 0.496368,
+      "sentence": "That theory held for four years during that time the centers for disease control in Atlanta Georgia continue to investigate Milwaukee's cryptosporidium outbreak since it was the largest waterborne outbreak in United States history in nineteen ninety seven scientists we tested for stool samples from individuals infected during that outbreak.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            15117,
+            15125
+          ],
+          "text": "outbreak"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            15129,
+            15142
+          ],
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "score": 0.297902,
+      "sentence": "They conducted DNA testing on the crypt those ready and when they did it was a shocking discovery the type of those peridium found in the four stool samples from the Milwaukee outbreak did not come from farm animals it was a new strain one which came from human ways suggest on the basis of the limited number of samples that we looked at that the the walkie outbreak was was not from pastor run off but was from a sewage contamination when investigators look more closely at Milwaukee's water supply they found that the Howard Avenue water plants intake was less than two miles down comment from the sewage treatment plant overflowed valve in Lake Michigan the CDC's discovery suggested that human waste containing cryptosporidium was released from the sewage treatment plant travel two miles downstream into the water intake of the Howard Avenue water plant today sewage",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "animals",
+              "type": "Animal"
+            }
+          ],
+          "location": [
+            15471,
+            15478
+          ],
+          "text": "animals"
+        },
+        {
+          "entities": [
+            {
+              "text": "farm",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            15466,
+            15470
+          ],
+          "text": "farm"
+        }
+      ]
+    },
+    {
+      "score": 0.543524,
+      "sentence": "They conducted DNA testing on the crypt those ready and when they did it was a shocking discovery the type of those peridium found in the four stool samples from the Milwaukee outbreak did not come from farm animals it was a new strain one which came from human ways suggest on the basis of the limited number of samples that we looked at that the the walkie outbreak was was not from pastor run off but was from a sewage contamination when investigators look more closely at Milwaukee's water supply they found that the Howard Avenue water plants intake was less than two miles down comment from the sewage treatment plant overflowed valve in Lake Michigan the CDC's discovery suggested that human waste containing cryptosporidium was released from the sewage treatment plant travel two miles downstream into the water intake of the Howard Avenue water plant today sewage",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sewage treatment plant",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            15864,
+            15886
+          ],
+          "text": "sewage treatment plant"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lake Michigan",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            15907,
+            15920
+          ],
+          "text": "Lake Michigan"
+        }
+      ]
+    },
+    {
+      "score": 0.528793,
+      "sentence": "They conducted DNA testing on the crypt those ready and when they did it was a shocking discovery the type of those peridium found in the four stool samples from the Milwaukee outbreak did not come from farm animals it was a new strain one which came from human ways suggest on the basis of the limited number of samples that we looked at that the the walkie outbreak was was not from pastor run off but was from a sewage contamination when investigators look more closely at Milwaukee's water supply they found that the Howard Avenue water plants intake was less than two miles down comment from the sewage treatment plant overflowed valve in Lake Michigan the CDC's discovery suggested that human waste containing cryptosporidium was released from the sewage treatment plant travel two miles downstream into the water intake of the Howard Avenue water plant today sewage",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lake Michigan",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            16111,
+            16116
+          ],
+          "text": "water"
+        },
+        {
+          "entities": [
+            {
+              "text": "Howard Avenue",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            16097,
+            16110
+          ],
+          "text": "Howard Avenue"
+        }
+      ]
+    },
+    {
+      "score": 0.519306,
+      "sentence": "They conducted DNA testing on the crypt those ready and when they did it was a shocking discovery the type of those peridium found in the four stool samples from the Milwaukee outbreak did not come from farm animals it was a new strain one which came from human ways suggest on the basis of the limited number of samples that we looked at that the the walkie outbreak was was not from pastor run off but was from a sewage contamination when investigators look more closely at Milwaukee's water supply they found that the Howard Avenue water plants intake was less than two miles down comment from the sewage treatment plant overflowed valve in Lake Michigan the CDC's discovery suggested that human waste containing cryptosporidium was released from the sewage treatment plant travel two miles downstream into the water intake of the Howard Avenue water plant today sewage",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Avenue",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            16117,
+            16122
+          ],
+          "text": "plant"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lake Michigan",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            16111,
+            16116
+          ],
+          "text": "water"
+        }
+      ]
+    },
+    {
+      "score": 0.617613,
+      "sentence": "from that plant is no longer released into Lake Michigan.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Avenue",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            16146,
+            16151
+          ],
+          "text": "plant"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lake Michigan",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            16179,
+            16192
+          ],
+          "text": "Lake Michigan"
+        }
+      ]
+    },
+    {
+      "score": 0.574718,
+      "sentence": "The Howard Avenue water plant moved their intake further out into the lake away from possible pollutants and Milwaukee is building an organization facility ozone is a form of oxygen which kills more micro organisms than chlorine it's the only mass disinfecting process known to kill those Caribbean and water when the facility is completed Milwaukee will be the only major city in the United States two thousand eight its water since eighty percent of surface water contains cryptosporidium Milwaukee health officials believe it is an expensive but necessary step.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16230,
+            16235
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lake Michigan",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            16264,
+            16268
+          ],
+          "text": "lake"
+        }
+      ]
+    },
+    {
+      "score": 0.485837,
+      "sentence": "The Howard Avenue water plant moved their intake further out into the lake away from possible pollutants and Milwaukee is building an organization facility ozone is a form of oxygen which kills more micro organisms than chlorine it's the only mass disinfecting process known to kill those Caribbean and water when the facility is completed Milwaukee will be the only major city in the United States two thousand eight its water since eighty percent of surface water contains cryptosporidium Milwaukee health officials believe it is an expensive but necessary step.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "organization facility",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            16328,
+            16349
+          ],
+          "text": "organization facility"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            16303,
+            16312
+          ],
+          "text": "Milwaukee"
+        }
+      ]
+    },
+    {
+      "score": 0.70799,
+      "sentence": "Milwaukee is the home of several large breweries producing eleven million barrels of beer annually.",
+      "type": "populationOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "several",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            479,
+            486
+          ],
+          "text": "several"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            454,
+            463
+          ],
+          "text": "Milwaukee"
+        }
+      ]
+    },
+    {
+      "score": 0.676604,
+      "sentence": "The Howard Avenue water plant moved their intake further out into the lake away from possible pollutants and Milwaukee is building an organization facility ozone is a form of oxygen which kills more micro organisms than chlorine it's the only mass disinfecting process known to kill those Caribbean and water when the facility is completed Milwaukee will be the only major city in the United States two thousand eight its water since eighty percent of surface water contains cryptosporidium Milwaukee health officials believe it is an expensive but necessary step.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "oxygen",
+              "type": "Substance"
+            }
+          ],
+          "location": [
+            16369,
+            16375
+          ],
+          "text": "oxygen"
+        },
+        {
+          "entities": [
+            {
+              "text": "Caribbean",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            16483,
+            16492
+          ],
+          "text": "Caribbean"
+        }
+      ]
+    },
+    {
+      "score": 0.748897,
+      "sentence": "The Howard Avenue water plant moved their intake further out into the lake away from possible pollutants and Milwaukee is building an organization facility ozone is a form of oxygen which kills more micro organisms than chlorine it's the only mass disinfecting process known to kill those Caribbean and water when the facility is completed Milwaukee will be the only major city in the United States two thousand eight its water since eighty percent of surface water contains cryptosporidium Milwaukee health officials believe it is an expensive but necessary step.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Avenue",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            16512,
+            16520
+          ],
+          "text": "facility"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            16534,
+            16543
+          ],
+          "text": "Milwaukee"
+        }
+      ]
+    },
+    {
+      "score": 0.915531,
+      "sentence": "The single food the water plant supplied Milwaukee's south side reported the only unusual read out was a peak in turbidity one week before the outbreak turbidity measures the amount of foreign particles in the water.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Avenue",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            19507,
+            19512
+          ],
+          "text": "plant"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            19522,
+            19531
+          ],
+          "text": "Milwaukee"
+        }
+      ]
+    },
+    {
+      "score": 0.52634,
+      "sentence": "The Howard Avenue water plant moved their intake further out into the lake away from possible pollutants and Milwaukee is building an organization facility ozone is a form of oxygen which kills more micro organisms than chlorine it's the only mass disinfecting process known to kill those Caribbean and water when the facility is completed Milwaukee will be the only major city in the United States two thousand eight its water since eighty percent of surface water contains cryptosporidium Milwaukee health officials believe it is an expensive but necessary step.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "health officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16695,
+            16711
+          ],
+          "text": "health officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "Milwaukee Wisconsin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            16685,
+            16694
+          ],
+          "text": "Milwaukee"
+        }
+      ]
+    },
+    {
+      "score": 0.671556,
+      "sentence": "makes so many people sick all at once if the outbreak was caused by contaminated food source stool samples would contain the bacteria which cause and health officials could find no common food source that all the sick individuals.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            17411,
+            17417
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            17442,
+            17450
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.549505,
+      "sentence": "Officials analyze the water quality records at the city's municipal water supply but all of the water quality levels were within guidelines established by the environmental protection agency for safe drinking water everything that we saw in our process was working real well and that we are meeting all the state and federal mandates we went back and indicated that the health department and they continued on with their investigation into other areas the only remaining elements common among the infected individuals was the air with a noose was suspected that this was some kind of fast acting.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            18045,
+            18047
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "meeting",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            18052,
+            18059
+          ],
+          "text": "meeting"
+        }
+      ]
+    },
+    {
+      "score": 0.516402,
+      "sentence": "The single food the water plant supplied Milwaukee's south side reported the only unusual read out was a peak in turbidity one week before the outbreak turbidity measures the amount of foreign particles in the water.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Avenue",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            19507,
+            19512
+          ],
+          "text": "plant"
+        },
+        {
+          "entities": [
+            {
+              "text": "south side",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            19534,
+            19544
+          ],
+          "text": "south side"
+        }
+      ]
+    },
+    {
+      "score": 0.328888,
+      "sentence": "Melting snow will often gather particles as it runs into streams health officials wondered if the increase in turbidity levels cause for concern.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Health officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            19867,
+            19883
+          ],
+          "text": "health officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "streams",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            19859,
+            19866
+          ],
+          "text": "streams"
+        }
+      ]
+    },
+    {
+      "score": 0.793049,
+      "sentence": "If there was an unknown organisms in the water.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "organisms",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            20317,
+            20326
+          ],
+          "text": "organisms"
+        },
+        {
+          "entities": [
+            {
+              "text": "water",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            20334,
+            20339
+          ],
+          "text": "water"
+        }
+      ]
+    },
+    {
+      "score": 0.557306,
+      "sentence": "Health officials suspected that something in Milwaukee's water supply was causing the outbreak of thousands of cases of gastrointestinal pills.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Health officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            20428,
+            20444
+          ],
+          "text": "Health officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            20514,
+            20522
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.255477,
+      "sentence": "It was the fluorescent agent attached to the ninety five proof that a parasite was present it was kryptos peridium little is known about cryptos peridium since it first infected humans just over twenty years ago it's a one celled organism a protozoan parasites which is found in feces from young farm animals particularly cats cryptos meridian is an eighty percent of surface water largely due to animal feces wash from farms into nearby streams.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "animals",
+              "type": "Animal"
+            }
+          ],
+          "location": [
+            22793,
+            22800
+          ],
+          "text": "animals"
+        },
+        {
+          "entities": [
+            {
+              "text": "farm",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            22788,
+            22792
+          ],
+          "text": "farm"
+        }
+      ]
+    }
+  ]
+}

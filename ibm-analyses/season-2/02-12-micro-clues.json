@@ -1,0 +1,5187 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 13888,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Dario",
+      "relevance": 0.96903,
+      "confidence": 1,
+      "count": 29
+    },
+    {
+      "type": "Person",
+      "text": "Dr Herman",
+      "relevance": 0.287337,
+      "confidence": 0.999465,
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Switzerland",
+      "relevance": 0.275751,
+      "confidence": 1,
+      "count": 9,
+      "disambiguation": {
+        "name": "Switzerland",
+        "dbpedia_resource": "http://dbpedia.org/resource/Switzerland"
+      }
+    },
+    {
+      "type": "Organization",
+      "text": "Swiss police",
+      "relevance": 0.191824,
+      "confidence": 0.799345,
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Dario",
+      "relevance": 0.185832,
+      "confidence": 0.967368,
+      "count": 4
+    },
+    {
+      "type": "Quantity",
+      "text": "thirteen year",
+      "relevance": 0.16236,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Berrios T.",
+      "relevance": 0.152715,
+      "confidence": 0.515603,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Daniel Wyler",
+      "relevance": 0.125788,
+      "confidence": 0.947702,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty five percent",
+      "relevance": 0.121302,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Wyler",
+      "relevance": 0.119134,
+      "confidence": 0.950444,
+      "count": 2
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "the Rhine river",
+      "relevance": 0.096509,
+      "confidence": 0.576109,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Madeline",
+      "relevance": 0.075276,
+      "confidence": 0.989175,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Germany",
+      "relevance": 0.075193,
+      "confidence": 1,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Claudia",
+      "relevance": 0.074538,
+      "confidence": 0.997336,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "five year",
+      "relevance": 0.073892,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Roland",
+      "relevance": 0.073501,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Dario Ciccone",
+      "relevance": 0.06608,
+      "confidence": 0.999308,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Lechia Interpol",
+      "relevance": 0.065898,
+      "confidence": 0.269711,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty five year",
+      "relevance": 0.0638,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Two days",
+      "relevance": 0.063665,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "G. blur",
+      "relevance": 0.062076,
+      "confidence": 0.908525,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mott",
+      "relevance": 0.061488,
+      "confidence": 0.497873,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dario Ciccone lackey",
+      "relevance": 0.061265,
+      "confidence": 0.96464,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Roland key",
+      "relevance": 0.060582,
+      "confidence": 0.507772,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Hooman",
+      "relevance": 0.05759,
+      "confidence": 0.829233,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Keebler",
+      "relevance": 0.051199,
+      "confidence": 0.998598,
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Titans",
+      "relevance": 0.050095,
+      "confidence": 0.935345,
+      "count": 1,
+      "disambiguation": {
+        "name": "Teen_Titans",
+        "dbpedia_resource": "http://dbpedia.org/resource/Teen_Titans",
+        "subtype": [
+          "ComicBookSeries"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Derry",
+      "relevance": 0.048335,
+      "confidence": 0.635748,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "France",
+      "relevance": 0.044693,
+      "confidence": 1,
+      "count": 2,
+      "disambiguation": {
+        "name": "France",
+        "dbpedia_resource": "http://dbpedia.org/resource/France",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmDirector"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Herman",
+      "relevance": 0.040752,
+      "confidence": 0.554282,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Roland Keebler",
+      "relevance": 0.040288,
+      "confidence": 0.974421,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Roland keeper",
+      "relevance": 0.037369,
+      "confidence": 0.519075,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Interpol",
+      "relevance": 0.036522,
+      "confidence": 0.67516,
+      "count": 1,
+      "disambiguation": {
+        "name": "Interpol_%28band%29",
+        "dbpedia_resource": "http://dbpedia.org/resource/Interpol_%28band%29",
+        "subtype": [
+          "MusicalGroup",
+          "BroadcastArtist",
+          "Composer",
+          "Lyricist",
+          "MusicalArtist"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Dario spike",
+      "relevance": 0.029628,
+      "confidence": 0.971947,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kerr",
+      "relevance": 0.028539,
+      "confidence": 0.93742,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three months",
+      "relevance": 0.02656,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "barrios",
+      "relevance": 0.025302,
+      "confidence": 0.99801,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Diane tones",
+      "relevance": 0.019029,
+      "confidence": 0.934191,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr wonders",
+      "relevance": 0.017538,
+      "confidence": 0.513209,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Little",
+      "relevance": 0.005413,
+      "confidence": 0.503944,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dario di",
+      "relevance": 0.00391,
+      "confidence": 0.823553,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ten years",
+      "relevance": 0.002099,
+      "confidence": 0.8,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.93725
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.758401
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.721079
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.657383
+    },
+    {
+      "label": "/society/unrest and war",
+      "score": 0.616811
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.60234
+    },
+    {
+      "label": "/society/senior living",
+      "score": 0.585421
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.603611,
+      "sentence": "After a day of fishing in a small village in Switzerland a teenage boy did not return home as planned the investigation revealed some important microscopic evidence in the water near where he was last seen.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "village",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            34,
+            41
+          ],
+          "text": "village"
+        },
+        {
+          "entities": [
+            {
+              "text": "Switzerland",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            45,
+            56
+          ],
+          "text": "Switzerland"
+        }
+      ]
+    },
+    {
+      "score": 0.604597,
+      "sentence": "What interpose attention was the fact that G. blur lived in Switzerland not far from the village where Dario Ciccone lackey was murdered when doctor Wyler heard of Roland key players a rest he suggested something unusual he told the Swiss police to examine key players Kerr.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "village",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8950,
+            8957
+          ],
+          "text": "village"
+        },
+        {
+          "entities": [
+            {
+              "text": "Switzerland",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8921,
+            8932
+          ],
+          "text": "Switzerland"
+        }
+      ]
+    },
+    {
+      "score": 0.647569,
+      "sentence": "Two days passed and the search intensified with more than a hundred policemen patrolling the area with search dogs.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "policemen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            774,
+            783
+          ],
+          "text": "policemen"
+        },
+        {
+          "entities": [
+            {
+              "text": "area",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            799,
+            803
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.624498,
+      "sentence": "He left his bike near the main road and headed down to the water.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11345,
+            11347
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "bike",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11357,
+            11361
+          ],
+          "text": "bike"
+        }
+      ]
+    },
+    {
+      "score": 0.826713,
+      "sentence": "He left his bike near the main road and headed down to the water.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11353,
+            11356
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "bike",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11357,
+            11361
+          ],
+          "text": "bike"
+        }
+      ]
+    },
+    {
+      "score": 0.784136,
+      "sentence": "He left his bike near the main road and headed down to the water.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11353,
+            11356
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "road",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11376,
+            11380
+          ],
+          "text": "road"
+        }
+      ]
+    },
+    {
+      "score": 0.747298,
+      "sentence": "He left his bike near the main road and headed down to the water.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bike",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11357,
+            11361
+          ],
+          "text": "bike"
+        },
+        {
+          "entities": [
+            {
+              "text": "road",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11376,
+            11380
+          ],
+          "text": "road"
+        }
+      ]
+    },
+    {
+      "score": 0.500755,
+      "sentence": "Role who was on vacation and had been drinking heavily when he drove in the area where Dario was fishing.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11471,
+            11473
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "area",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            11487,
+            11491
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.778189,
+      "sentence": "Keebler spotted Dario spike and told police just a young boy he was in the area excited great.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roland Keebler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11517,
+            11524
+          ],
+          "text": "Keebler"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11549,
+            11553
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.980272,
+      "sentence": "Keebler spotted Dario spike and told police just a young boy he was in the area excited great.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11554,
+            11560
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11549,
+            11553
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.862527,
+      "sentence": "Keebler spotted Dario spike and told police just a young boy he was in the area excited great.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roland Keebler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11578,
+            11580
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "area",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            11592,
+            11596
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.687918,
+      "sentence": "He parked his car and walked to where Dario was fishing pressure the next.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roland Keebler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11612,
+            11614
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11626,
+            11629
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.865515,
+      "sentence": "He parked his car and walked to where Dario was fishing pressure the next.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roland Keebler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11622,
+            11625
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11626,
+            11629
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.628458,
+      "sentence": "Search teams combed the field next to the creek where Dario swim trunks and fishing pole had been found farther downstream police found Berrios T. shirt on the bank.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Berrios T.",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1214,
+            1224
+          ],
+          "text": "Berrios T."
+        },
+        {
+          "entities": [
+            {
+              "text": "Titans",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1238,
+            1242
+          ],
+          "text": "bank"
+        }
+      ]
+    },
+    {
+      "score": 0.609163,
+      "sentence": "After a brief conversation Keebler approach Dario again.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Keebler",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11714,
+            11721
+          ],
+          "text": "Keebler"
+        },
+        {
+          "entities": [
+            {
+              "text": "conversation",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            11701,
+            11713
+          ],
+          "text": "conversation"
+        }
+      ]
+    },
+    {
+      "score": 0.904521,
+      "sentence": "After a brief conversation Keebler approach Dario again.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11731,
+            11736
+          ],
+          "text": "Dario"
+        },
+        {
+          "entities": [
+            {
+              "text": "conversation",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            11701,
+            11713
+          ],
+          "text": "conversation"
+        }
+      ]
+    },
+    {
+      "score": 0.485685,
+      "sentence": "After a brief conversation Keebler approach Dario again.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11731,
+            11736
+          ],
+          "text": "Dario"
+        },
+        {
+          "entities": [
+            {
+              "text": "Keebler",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11714,
+            11721
+          ],
+          "text": "Keebler"
+        }
+      ]
+    },
+    {
+      "score": 0.957143,
+      "sentence": "Keebler decided not to leave the body at the scene of the crime instead he placed the boy's body into the trunk of his car and left for a social engagement with his ex wife.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11777,
+            11781
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11789,
+            11794
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.773331,
+      "sentence": "Keebler decided not to leave the body at the scene of the crime instead he placed the boy's body into the trunk of his car and left for a social engagement with his ex wife.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11859,
+            11862
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11863,
+            11866
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.808538,
+      "sentence": "People are transferred those diet homes from the shoes to the pedals of his car when he drove away.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12347,
+            12350
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            12351,
+            12354
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.36639,
+      "sentence": "Keebler decided not to leave the body at the scene of the crime instead he placed the boy's body into the trunk of his car and left for a social engagement with his ex wife.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11905,
+            11908
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Diane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11912,
+            11916
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.543648,
+      "sentence": "Little did he realize he had left behind a trail of evidence microscopic single celled evidence which we came to the scene of the crime.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roland Keebler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11940,
+            11942
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12035,
+            12040
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.56253,
+      "sentence": "People are transferred those diet homes from the shoes to the pedals of his car when he drove away.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "People",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12275,
+            12281
+          ],
+          "text": "People"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12309,
+            12314
+          ],
+          "text": "homes"
+        }
+      ]
+    },
+    {
+      "score": 0.615244,
+      "sentence": "People are transferred those diet homes from the shoes to the pedals of his car when he drove away.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "People",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12275,
+            12281
+          ],
+          "text": "People"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            12351,
+            12354
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.696873,
+      "sentence": "Dr wonders discovery of the diet tones and doctor in species identification in the laboratory were essential elements in tracking down vicious killer Roland team player at silenced.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12541,
+            12547
+          ],
+          "text": "doctor"
+        },
+        {
+          "entities": [
+            {
+              "text": "laboratory",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12581,
+            12591
+          ],
+          "text": "laboratory"
+        }
+      ]
+    },
+    {
+      "score": 0.910596,
+      "sentence": "Two nights after Dario was reported missing two women were walking the dog along the field path your Switzerland's border with Germany.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1420,
+            1425
+          ],
+          "text": "Dario"
+        },
+        {
+          "entities": [
+            {
+              "text": "reported",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1430,
+            1438
+          ],
+          "text": "reported"
+        }
+      ]
+    },
+    {
+      "score": 0.677462,
+      "sentence": "Dr wonders discovery of the diet tones and doctor in species identification in the laboratory were essential elements in tracking down vicious killer Roland team player at silenced.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roland Keebler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12648,
+            12654
+          ],
+          "text": "Roland"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            12641,
+            12647
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.387947,
+      "sentence": "Dr wonders discovery of the diet tones and doctor in species identification in the laboratory were essential elements in tracking down vicious killer Roland team player at silenced.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roland Keebler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12648,
+            12654
+          ],
+          "text": "Roland"
+        },
+        {
+          "entities": [
+            {
+              "text": "Titans",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12655,
+            12659
+          ],
+          "text": "team"
+        }
+      ]
+    },
+    {
+      "score": 0.45449,
+      "sentence": "Dr wonders discovery of the diet tones and doctor in species identification in the laboratory were essential elements in tracking down vicious killer Roland team player at silenced.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roland Keebler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12660,
+            12666
+          ],
+          "text": "player"
+        },
+        {
+          "entities": [
+            {
+              "text": "Titans",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12655,
+            12659
+          ],
+          "text": "team"
+        }
+      ]
+    },
+    {
+      "score": 0.627963,
+      "sentence": "Or errors in into determination or the preparation of the older samples so it was at this moment it was a good feeling of course is a five year term of this case therefore became sort of a model case also worldwide and particularly in Switzerland it had never been done in this way before we were pioneers and we certainly hope that it will be possible to solve other cases in the same way for the future.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "it",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13170,
+            13172
+          ],
+          "text": "it"
+        },
+        {
+          "entities": [
+            {
+              "text": "Switzerland",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13158,
+            13169
+          ],
+          "text": "Switzerland"
+        }
+      ]
+    },
+    {
+      "score": 0.810768,
+      "sentence": "Ohnehin K. fast not only to the murder of Dario to collect but also admitted killing another in the same area Switzerland ten years earlier.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ohnehin K.",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13329,
+            13339
+          ],
+          "text": "Ohnehin K."
+        },
+        {
+          "entities": [
+            {
+              "text": "mutilation",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13361,
+            13367
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.54278,
+      "sentence": "Ohnehin K. fast not only to the murder of Dario to collect but also admitted killing another in the same area Switzerland ten years earlier.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13371,
+            13376
+          ],
+          "text": "Dario"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13397,
+            13405
+          ],
+          "text": "admitted"
+        }
+      ]
+    },
+    {
+      "score": 0.963296,
+      "sentence": "Ohnehin K. fast not only to the murder of Dario to collect but also admitted killing another in the same area Switzerland ten years earlier.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "area",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            13434,
+            13438
+          ],
+          "text": "area"
+        },
+        {
+          "entities": [
+            {
+              "text": "Switzerland",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13439,
+            13450
+          ],
+          "text": "Switzerland"
+        }
+      ]
+    },
+    {
+      "score": 0.337506,
+      "sentence": "Key player was convicted of crimes and was sentenced to life in prison.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario Ciccone lackey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13470,
+            13473
+          ],
+          "text": "Key"
+        },
+        {
+          "entities": [
+            {
+              "text": "Roland Keebler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13474,
+            13480
+          ],
+          "text": "player"
+        }
+      ]
+    },
+    {
+      "score": 0.745393,
+      "sentence": "Key player was convicted of crimes and was sentenced to life in prison.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roland Keebler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13474,
+            13480
+          ],
+          "text": "player"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13485,
+            13494
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.597125,
+      "sentence": "Key player was convicted of crimes and was sentenced to life in prison.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roland Keebler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13474,
+            13480
+          ],
+          "text": "player"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13513,
+            13522
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.349897,
+      "sentence": "In the nearby church yard where Dario is buried.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13678,
+            13683
+          ],
+          "text": "Dario"
+        },
+        {
+          "entities": [
+            {
+              "text": "church yard",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13660,
+            13671
+          ],
+          "text": "church yard"
+        }
+      ]
+    },
+    {
+      "score": 0.307217,
+      "sentence": "Two nights after Dario was reported missing two women were walking the dog along the field path your Switzerland's border with Germany.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1499,
+            1503
+          ],
+          "text": "your"
+        },
+        {
+          "entities": [
+            {
+              "text": "border",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1518,
+            1524
+          ],
+          "text": "border"
+        }
+      ]
+    },
+    {
+      "score": 0.450796,
+      "sentence": "As the body was found so close to the border it was possible that the murder might have come from or going to a foreign country it was a difficult case Interpol was also informed of the case three months after the murder of Dario Ciccone Lechia Interpol notified Swiss police of a possible lease a man has been arrested in France for sexually assaulting a hitchhiker and trying to kill me he was identified as thirty five year old Roland.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8355,
+            8359
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "border",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            8386,
+            8392
+          ],
+          "text": "border"
+        }
+      ]
+    },
+    {
+      "score": 0.496059,
+      "sentence": "Two nights after Dario was reported missing two women were walking the dog along the field path your Switzerland's border with Germany.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "border",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1518,
+            1524
+          ],
+          "text": "border"
+        },
+        {
+          "entities": [
+            {
+              "text": "Switzerland",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1504,
+            1515
+          ],
+          "text": "Switzerland"
+        }
+      ]
+    },
+    {
+      "score": 0.543579,
+      "sentence": "Two nights after Dario was reported missing two women were walking the dog along the field path your Switzerland's border with Germany.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "border",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1518,
+            1524
+          ],
+          "text": "border"
+        },
+        {
+          "entities": [
+            {
+              "text": "Germany",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1530,
+            1537
+          ],
+          "text": "Germany"
+        }
+      ]
+    },
+    {
+      "score": 0.845596,
+      "sentence": "Mmhm honestly Madeline when I got the message from these two women we immediately sent a police officer to check the site was because she when he reported that the body was that of a young man we realize that it might be Dario the body was positively identified as Dario should collect.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1746,
+            1753
+          ],
+          "text": "officer"
+        },
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1739,
+            1745
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.983633,
+      "sentence": "Mmhm honestly Madeline when I got the message from these two women we immediately sent a police officer to check the site was because she when he reported that the body was that of a young man we realize that it might be Dario the body was positively identified as Dario should collect.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Herman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1793,
+            1795
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "reported",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1796,
+            1804
+          ],
+          "text": "reported"
+        }
+      ]
+    },
+    {
+      "score": 0.475113,
+      "sentence": "Mmhm honestly Madeline when I got the message from these two women we immediately sent a police officer to check the site was because she when he reported that the body was that of a young man we realize that it might be Dario the body was positively identified as Dario should collect.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Herman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1839,
+            1842
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "women",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1843,
+            1845
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.842789,
+      "sentence": "He had been sexually very soon I certainly will never forget this all of my life that terrible site it was quite obvious from the beginning that it was a sex crime this could be seen from the injuries there were cuts and bruises also in the genital area when the medical examiner arrived at the scene he concluded that the cuts on the body were consistent with the pocket knife but were made some time after the boy was found on the body a lot of long Cox side by side.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2232,
+            2237
+          ],
+          "text": "scene"
+        },
+        {
+          "entities": [
+            {
+              "text": "area",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            2186,
+            2190
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.755402,
+      "sentence": "After a day of fishing in a small village in Switzerland a teenage boy did not return home as planned the investigation revealed some important microscopic evidence in the water near where he was last seen.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            67,
+            70
+          ],
+          "text": "boy"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            106,
+            119
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.397541,
+      "sentence": "He discovered some microscopic evidence it was a discovery that would change the course of the investigation and launch a new era in crime science.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3324,
+            3326
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            3419,
+            3432
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.50041,
+      "sentence": "He had been sexually very soon I certainly will never forget this all of my life that terrible site it was quite obvious from the beginning that it was a sex crime this could be seen from the injuries there were cuts and bruises also in the genital area when the medical examiner arrived at the scene he concluded that the cuts on the body were consistent with the pocket knife but were made some time after the boy was found on the body a lot of long Cox side by side.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2200,
+            2216
+          ],
+          "text": "medical examiner"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2232,
+            2237
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.996381,
+      "sentence": "He had been sexually very soon I certainly will never forget this all of my life that terrible site it was quite obvious from the beginning that it was a sex crime this could be seen from the injuries there were cuts and bruises also in the genital area when the medical examiner arrived at the scene he concluded that the cuts on the body were consistent with the pocket knife but were made some time after the boy was found on the body a lot of long Cox side by side.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2238,
+            2240
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "concluded",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2241,
+            2250
+          ],
+          "text": "concluded"
+        }
+      ]
+    },
+    {
+      "score": 0.84017,
+      "sentence": "When there is no hard action no circulation in the body there is no possibility to to please very much with no evidence of a struggle police suspected the Dario had been murdered somewhere else and the body transported to the corn field.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2757,
+            2762
+          ],
+          "text": "Dario"
+        },
+        {
+          "entities": [
+            {
+              "text": "mutilation",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            2772,
+            2780
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.816158,
+      "sentence": "And this helped me to see that he has been in water with a lot of Mott so it's come to be a very deep lake or something like that it must be a creek or a small river something like that diet tones were also found on Dario sneakers which were in the corn field near his body the next step was to see if the diet tones in Dario salons and on his sneakers could help determine the exact body of water where Dario had been murdered.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4873,
+            4878
+          ],
+          "text": "Dario"
+        },
+        {
+          "entities": [
+            {
+              "text": "mutilation",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4888,
+            4896
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.77956,
+      "sentence": "The next step was for doctor Herman to count and identify the diatom populations from the various water samples using an elaborate chart it was a tedious process but eventually he found one body of water which had as its dominant species fragile area not the same dominant species found in Dario salons and on his sneakers it was from a water sample taken from the creek just a few feet away from where Dario his bicycle was found this discovery lead doctor her lemon to one conclusion we can say that the items found into Laos of dog you must be from the same place we have taken samples from the creek was it possible that the diet tone evidence could tell investigators more than simply where Dario was murdered.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7353,
+            7358
+          ],
+          "text": "Dario"
+        },
+        {
+          "entities": [
+            {
+              "text": "mutilation",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7363,
+            7371
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.866805,
+      "sentence": "Police found Dario sneakers in the corn field but they did not find the knife used in the mutilation is it is all this is not the only we were greatly alarmed there's such crimes are frequently repeated if the killer still at large intensity we therefore started immediately with a very thorough search of the environment and.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2975,
+            2977
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "mutilation",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            3012,
+            3018
+          ],
+          "text": "crimes"
+        }
+      ]
+    },
+    {
+      "score": 0.974298,
+      "sentence": "Police could find no foreign here fibers or seen a doctor whiners swab the inside of Dario smiles for possible forensic evidence when he analyzed that sent.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3301,
+            3303
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "analyzed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3304,
+            3312
+          ],
+          "text": "analyzed"
+        }
+      ]
+    },
+    {
+      "score": 0.997809,
+      "sentence": "After Dario check a lackey is mutilated body was found lying in a corn field Dr Daniel Wyler analyzed the forensic evidence from Dario smile.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Daniel Wyler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3552,
+            3564
+          ],
+          "text": "Daniel Wyler"
+        },
+        {
+          "entities": [
+            {
+              "text": "analyzed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3565,
+            3573
+          ],
+          "text": "analyzed"
+        }
+      ]
+    },
+    {
+      "score": 0.371301,
+      "sentence": "Diet tones can tell scientists about past environmental conditions in fresh water and marine environments as long ago as tens of thousands of years and in the case of Dario check collection here Dr wonderful at the diet tones found in his body would reveal something about his merger I was absolutely sure that this boy was drowned in the lungs I found a lot of smart.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4267,
+            4272
+          ],
+          "text": "Dario"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            4259,
+            4263
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.374875,
+      "sentence": "Diet tones can tell scientists about past environmental conditions in fresh water and marine environments as long ago as tens of thousands of years and in the case of Dario check collection here Dr wonderful at the diet tones found in his body would reveal something about his merger I was absolutely sure that this boy was drowned in the lungs I found a lot of smart.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Daniel Wyler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4373,
+            4376
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "merger",
+              "type": "EventBusiness"
+            }
+          ],
+          "location": [
+            4377,
+            4383
+          ],
+          "text": "merger"
+        }
+      ]
+    },
+    {
+      "score": 0.547424,
+      "sentence": "And this helped me to see that he has been in water with a lot of Mott so it's come to be a very deep lake or something like that it must be a creek or a small river something like that diet tones were also found on Dario sneakers which were in the corn field near his body the next step was to see if the diet tones in Dario salons and on his sneakers could help determine the exact body of water where Dario had been murdered.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario salons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4789,
+            4801
+          ],
+          "text": "Dario salons"
+        },
+        {
+          "entities": [
+            {
+              "text": "sneakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4813,
+            4821
+          ],
+          "text": "sneakers"
+        }
+      ]
+    },
+    {
+      "score": 0.528357,
+      "sentence": "The next step was for doctor Herman to count and identify the diatom populations from the various water samples using an elaborate chart it was a tedious process but eventually he found one body of water which had as its dominant species fragile area not the same dominant species found in Dario salons and on his sneakers it was from a water sample taken from the creek just a few feet away from where Dario his bicycle was found this discovery lead doctor her lemon to one conclusion we can say that the items found into Laos of dog you must be from the same place we have taken samples from the creek was it possible that the diet tone evidence could tell investigators more than simply where Dario was murdered.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario salons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6947,
+            6959
+          ],
+          "text": "Dario salons"
+        },
+        {
+          "entities": [
+            {
+              "text": "sneakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6971,
+            6979
+          ],
+          "text": "sneakers"
+        }
+      ]
+    },
+    {
+      "score": 0.437993,
+      "sentence": "A biologist who specializes in the study of diet tones you can look to the Titans in the long and you see this PCS and species give you information about the the type of a river or lake the water quality Dr Herman was asked to analyze the diatom populations in Dario salons and sneakers as well as those found in water samples from the region if he could find significant similarities investigators would know the exact location of his murder if you have a high similarity you note that.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "lake",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            5147,
+            5151
+          ],
+          "text": "lake"
+        },
+        {
+          "entities": [
+            {
+              "text": "river",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            5138,
+            5143
+          ],
+          "text": "river"
+        }
+      ]
+    },
+    {
+      "score": 0.622102,
+      "sentence": "In the small Swiss village of noise parodies thirteen year old Dario to collect.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "village",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            338,
+            345
+          ],
+          "text": "village"
+        },
+        {
+          "entities": [
+            {
+              "text": "Swiss",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            332,
+            337
+          ],
+          "text": "Swiss"
+        }
+      ]
+    },
+    {
+      "score": 0.958332,
+      "sentence": "A biologist who specializes in the study of diet tones you can look to the Titans in the long and you see this PCS and species give you information about the the type of a river or lake the water quality Dr Herman was asked to analyze the diatom populations in Dario salons and sneakers as well as those found in water samples from the region if he could find significant similarities investigators would know the exact location of his murder if you have a high similarity you note that.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Herman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5173,
+            5179
+          ],
+          "text": "Herman"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5184,
+            5189
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.399807,
+      "sentence": "A biologist who specializes in the study of diet tones you can look to the Titans in the long and you see this PCS and species give you information about the the type of a river or lake the water quality Dr Herman was asked to analyze the diatom populations in Dario salons and sneakers as well as those found in water samples from the region if he could find significant similarities investigators would know the exact location of his murder if you have a high similarity you note that.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "those",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5264,
+            5269
+          ],
+          "text": "those"
+        },
+        {
+          "entities": [
+            {
+              "text": "village",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5302,
+            5308
+          ],
+          "text": "region"
+        }
+      ]
+    },
+    {
+      "score": 0.846535,
+      "sentence": "A biologist who specializes in the study of diet tones you can look to the Titans in the long and you see this PCS and species give you information about the the type of a river or lake the water quality Dr Herman was asked to analyze the diatom populations in Dario salons and sneakers as well as those found in water samples from the region if he could find significant similarities investigators would know the exact location of his murder if you have a high similarity you note that.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Herman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5398,
+            5401
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "mutilation",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5402,
+            5408
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.953713,
+      "sentence": "Two samples must come from the same place but with as many as three thousand different species of diet homes in Switzerland alone Dr Herman would have to test water samples from the nearby bodies of water to make an accurate comparison to be very sure that there is no order on the river or creek which has to similar.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5557,
+            5562
+          ],
+          "text": "homes"
+        },
+        {
+          "entities": [
+            {
+              "text": "Switzerland",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5566,
+            5577
+          ],
+          "text": "Switzerland"
+        }
+      ]
+    },
+    {
+      "score": 0.580425,
+      "sentence": "The same type of community so if you look to order volatilities and you won't find the communities then you are quite sure that the the special place was the place of the of the drowning in water samples were collected from the surrounding bodies of water including the Rhine river which flows between the creek and the corn field where Dario body had been found the water samples were treated with acid to kill any organic matter in the diet homes leaving their glass like skeletal remains a necessary step and identification according to species.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5841,
+            5844
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "communities",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5860,
+            5871
+          ],
+          "text": "communities"
+        }
+      ]
+    },
+    {
+      "score": 0.992383,
+      "sentence": "Under the microscope Dr Herman compared the diet tone populations found in Derry those lines and on his sneakers to the thousands of known species in his reference journals he found one dominant species the diet tones were identified as fragile area.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Herman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6346,
+            6352
+          ],
+          "text": "Herman"
+        },
+        {
+          "entities": [
+            {
+              "text": "compared",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6353,
+            6361
+          ],
+          "text": "compared"
+        }
+      ]
+    },
+    {
+      "score": 0.553848,
+      "sentence": "Under the microscope Dr Herman compared the diet tone populations found in Derry those lines and on his sneakers to the thousands of known species in his reference journals he found one dominant species the diet tones were identified as fragile area.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Herman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6495,
+            6497
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "area",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            6567,
+            6571
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.441957,
+      "sentence": "The next step was for doctor Herman to count and identify the diatom populations from the various water samples using an elaborate chart it was a tedious process but eventually he found one body of water which had as its dominant species fragile area not the same dominant species found in Dario salons and on his sneakers it was from a water sample taken from the creek just a few feet away from where Dario his bicycle was found this discovery lead doctor her lemon to one conclusion we can say that the items found into Laos of dog you must be from the same place we have taken samples from the creek was it possible that the diet tone evidence could tell investigators more than simply where Dario was murdered.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Herman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6686,
+            6692
+          ],
+          "text": "Herman"
+        },
+        {
+          "entities": [
+            {
+              "text": "count",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6696,
+            6701
+          ],
+          "text": "count"
+        }
+      ]
+    },
+    {
+      "score": 0.348469,
+      "sentence": "The next step was for doctor Herman to count and identify the diatom populations from the various water samples using an elaborate chart it was a tedious process but eventually he found one body of water which had as its dominant species fragile area not the same dominant species found in Dario salons and on his sneakers it was from a water sample taken from the creek just a few feet away from where Dario his bicycle was found this discovery lead doctor her lemon to one conclusion we can say that the items found into Laos of dog you must be from the same place we have taken samples from the creek was it possible that the diet tone evidence could tell investigators more than simply where Dario was murdered.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Titans",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6874,
+            6877
+          ],
+          "text": "its"
+        },
+        {
+          "entities": [
+            {
+              "text": "area",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            6903,
+            6907
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.562346,
+      "sentence": "The next step was for doctor Herman to count and identify the diatom populations from the various water samples using an elaborate chart it was a tedious process but eventually he found one body of water which had as its dominant species fragile area not the same dominant species found in Dario salons and on his sneakers it was from a water sample taken from the creek just a few feet away from where Dario his bicycle was found this discovery lead doctor her lemon to one conclusion we can say that the items found into Laos of dog you must be from the same place we have taken samples from the creek was it possible that the diet tone evidence could tell investigators more than simply where Dario was murdered.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario salons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6947,
+            6959
+          ],
+          "text": "Dario salons"
+        },
+        {
+          "entities": [
+            {
+              "text": "area",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            6903,
+            6907
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.710936,
+      "sentence": "Left his home to go fishing in a nearby creek.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            405,
+            408
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            409,
+            413
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.937052,
+      "sentence": "The next step was for doctor Herman to count and identify the diatom populations from the various water samples using an elaborate chart it was a tedious process but eventually he found one body of water which had as its dominant species fragile area not the same dominant species found in Dario salons and on his sneakers it was from a water sample taken from the creek just a few feet away from where Dario his bicycle was found this discovery lead doctor her lemon to one conclusion we can say that the items found into Laos of dog you must be from the same place we have taken samples from the creek was it possible that the diet tone evidence could tell investigators more than simply where Dario was murdered.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sneakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7143,
+            7145
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7150,
+            7153
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.405843,
+      "sentence": "Could the diet tomes lead investigators to the killer.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7399,
+            7412
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            7420,
+            7426
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.984381,
+      "sentence": "Armed with the diet tome evidence found inside Dario check a lackey is lines and on his sneakers police concluded that he had been forcefully drowned in the creek what he had been fishing before being mutilated and dumped in the corn field.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7525,
+            7531
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "concluded",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7532,
+            7541
+          ],
+          "text": "concluded"
+        }
+      ]
+    },
+    {
+      "score": 0.83963,
+      "sentence": "And how was the body transported to the corn field a few kilometers away.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7685,
+            7689
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "field",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7714,
+            7719
+          ],
+          "text": "field"
+        }
+      ]
+    },
+    {
+      "score": 0.825024,
+      "sentence": "Police questioned friends and acquaintances of the victim you help people stay home the puzzlement we questioned about two hundred persons both in Switzerland and Germany of course the family were also investigated as it is always done in such cases also in case no responsible person is bound to clear the family that no suspicions remain with them with no strong leads or suspects Swiss police informed Interpol of the case interpose an international agency headquartered in France the shares information about criminal investigations with one hundred seventy eight nations were members of the network.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7743,
+            7749
+          ],
+          "text": "Police"
+        },
+        {
+          "entities": [
+            {
+              "text": "questioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7750,
+            7760
+          ],
+          "text": "questioned"
+        }
+      ]
+    },
+    {
+      "score": 0.985362,
+      "sentence": "Police questioned friends and acquaintances of the victim you help people stay home the puzzlement we questioned about two hundred persons both in Switzerland and Germany of course the family were also investigated as it is always done in such cases also in case no responsible person is bound to clear the family that no suspicions remain with them with no strong leads or suspects Swiss police informed Interpol of the case interpose an international agency headquartered in France the shares information about criminal investigations with one hundred seventy eight nations were members of the network.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sneakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7842,
+            7844
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "questioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7845,
+            7855
+          ],
+          "text": "questioned"
+        }
+      ]
+    },
+    {
+      "score": 0.483836,
+      "sentence": "Police questioned friends and acquaintances of the victim you help people stay home the puzzlement we questioned about two hundred persons both in Switzerland and Germany of course the family were also investigated as it is always done in such cases also in case no responsible person is bound to clear the family that no suspicions remain with them with no strong leads or suspects Swiss police informed Interpol of the case interpose an international agency headquartered in France the shares information about criminal investigations with one hundred seventy eight nations were members of the network.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sneakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7874,
+            7881
+          ],
+          "text": "persons"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7928,
+            7934
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.997902,
+      "sentence": "Police questioned friends and acquaintances of the victim you help people stay home the puzzlement we questioned about two hundred persons both in Switzerland and Germany of course the family were also investigated as it is always done in such cases also in case no responsible person is bound to clear the family that no suspicions remain with them with no strong leads or suspects Swiss police informed Interpol of the case interpose an international agency headquartered in France the shares information about criminal investigations with one hundred seventy eight nations were members of the network.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8132,
+            8138
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "Swiss",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8126,
+            8131
+          ],
+          "text": "Swiss"
+        }
+      ]
+    },
+    {
+      "score": 0.9984,
+      "sentence": "As the body was found so close to the border it was possible that the murder might have come from or going to a foreign country it was a difficult case Interpol was also informed of the case three months after the murder of Dario Ciccone Lechia Interpol notified Swiss police of a possible lease a man has been arrested in France for sexually assaulting a hitchhiker and trying to kill me he was identified as thirty five year old Roland.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8617,
+            8623
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "Swiss",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8611,
+            8616
+          ],
+          "text": "Swiss"
+        }
+      ]
+    },
+    {
+      "score": 0.997324,
+      "sentence": "What interpose attention was the fact that G. blur lived in Switzerland not far from the village where Dario Ciccone lackey was murdered when doctor Wyler heard of Roland key players a rest he suggested something unusual he told the Swiss police to examine key players Kerr.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9100,
+            9106
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "Swiss",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9094,
+            9099
+          ],
+          "text": "Swiss"
+        }
+      ]
+    },
+    {
+      "score": 0.998239,
+      "sentence": "Most common or is similar to the to the one of the long fifty are you and with the material found in the creek armed with this microscopic evidence Swiss police confronted Roland keyboard.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10332,
+            10338
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "Swiss",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10326,
+            10331
+          ],
+          "text": "Swiss"
+        }
+      ]
+    },
+    {
+      "score": 0.94139,
+      "sentence": "Police questioned friends and acquaintances of the victim you help people stay home the puzzlement we questioned about two hundred persons both in Switzerland and Germany of course the family were also investigated as it is always done in such cases also in case no responsible person is bound to clear the family that no suspicions remain with them with no strong leads or suspects Swiss police informed Interpol of the case interpose an international agency headquartered in France the shares information about criminal investigations with one hundred seventy eight nations were members of the network.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8132,
+            8138
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "informed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8139,
+            8147
+          ],
+          "text": "informed"
+        }
+      ]
+    },
+    {
+      "score": 0.833138,
+      "sentence": "Police questioned friends and acquaintances of the victim you help people stay home the puzzlement we questioned about two hundred persons both in Switzerland and Germany of course the family were also investigated as it is always done in such cases also in case no responsible person is bound to clear the family that no suspicions remain with them with no strong leads or suspects Swiss police informed Interpol of the case interpose an international agency headquartered in France the shares information about criminal investigations with one hundred seventy eight nations were members of the network.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Interpol",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8148,
+            8156
+          ],
+          "text": "Interpol"
+        },
+        {
+          "entities": [
+            {
+              "text": "informed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8139,
+            8147
+          ],
+          "text": "informed"
+        }
+      ]
+    },
+    {
+      "score": 0.603574,
+      "sentence": "And his mother called the police to report her son missing.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            482,
+            488
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            478,
+            481
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.726746,
+      "sentence": "And his mother called the police to report her son missing.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            517,
+            520
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            521,
+            524
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.594317,
+      "sentence": "Police questioned friends and acquaintances of the victim you help people stay home the puzzlement we questioned about two hundred persons both in Switzerland and Germany of course the family were also investigated as it is always done in such cases also in case no responsible person is bound to clear the family that no suspicions remain with them with no strong leads or suspects Swiss police informed Interpol of the case interpose an international agency headquartered in France the shares information about criminal investigations with one hundred seventy eight nations were members of the network.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Interpol",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8148,
+            8156
+          ],
+          "text": "Interpol"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8164,
+            8168
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.520628,
+      "sentence": "Police questioned friends and acquaintances of the victim you help people stay home the puzzlement we questioned about two hundred persons both in Switzerland and Germany of course the family were also investigated as it is always done in such cases also in case no responsible person is bound to clear the family that no suspicions remain with them with no strong leads or suspects Swiss police informed Interpol of the case interpose an international agency headquartered in France the shares information about criminal investigations with one hundred seventy eight nations were members of the network.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "international agency",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8182,
+            8202
+          ],
+          "text": "international agency"
+        },
+        {
+          "entities": [
+            {
+              "text": "France",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8220,
+            8226
+          ],
+          "text": "France"
+        }
+      ]
+    },
+    {
+      "score": 0.448835,
+      "sentence": "As the body was found so close to the border it was possible that the murder might have come from or going to a foreign country it was a difficult case Interpol was also informed of the case three months after the murder of Dario Ciccone Lechia Interpol notified Swiss police of a possible lease a man has been arrested in France for sexually assaulting a hitchhiker and trying to kill me he was identified as thirty five year old Roland.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Interpol",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8500,
+            8508
+          ],
+          "text": "Interpol"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8495,
+            8499
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.748173,
+      "sentence": "As the body was found so close to the border it was possible that the murder might have come from or going to a foreign country it was a difficult case Interpol was also informed of the case three months after the murder of Dario Ciccone Lechia Interpol notified Swiss police of a possible lease a man has been arrested in France for sexually assaulting a hitchhiker and trying to kill me he was identified as thirty five year old Roland.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Interpol",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8500,
+            8508
+          ],
+          "text": "Interpol"
+        },
+        {
+          "entities": [
+            {
+              "text": "informed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8518,
+            8526
+          ],
+          "text": "informed"
+        }
+      ]
+    },
+    {
+      "score": 0.562043,
+      "sentence": "As the body was found so close to the border it was possible that the murder might have come from or going to a foreign country it was a difficult case Interpol was also informed of the case three months after the murder of Dario Ciccone Lechia Interpol notified Swiss police of a possible lease a man has been arrested in France for sexually assaulting a hitchhiker and trying to kill me he was identified as thirty five year old Roland.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "three months after",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            8539,
+            8557
+          ],
+          "text": "three months after"
+        },
+        {
+          "entities": [
+            {
+              "text": "informed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8518,
+            8526
+          ],
+          "text": "informed"
+        }
+      ]
+    },
+    {
+      "score": 0.50785,
+      "sentence": "As the body was found so close to the border it was possible that the murder might have come from or going to a foreign country it was a difficult case Interpol was also informed of the case three months after the murder of Dario Ciccone Lechia Interpol notified Swiss police of a possible lease a man has been arrested in France for sexually assaulting a hitchhiker and trying to kill me he was identified as thirty five year old Roland.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario Ciccone Lechia Interpol",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8572,
+            8601
+          ],
+          "text": "Dario Ciccone Lechia Interpol"
+        },
+        {
+          "entities": [
+            {
+              "text": "mutilation",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            8562,
+            8568
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.888362,
+      "sentence": "As the body was found so close to the border it was possible that the murder might have come from or going to a foreign country it was a difficult case Interpol was also informed of the case three months after the murder of Dario Ciccone Lechia Interpol notified Swiss police of a possible lease a man has been arrested in France for sexually assaulting a hitchhiker and trying to kill me he was identified as thirty five year old Roland.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario Ciccone Lechia Interpol",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8572,
+            8601
+          ],
+          "text": "Dario Ciccone Lechia Interpol"
+        },
+        {
+          "entities": [
+            {
+              "text": "notified",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8602,
+            8610
+          ],
+          "text": "notified"
+        }
+      ]
+    },
+    {
+      "score": 0.82693,
+      "sentence": "As the body was found so close to the border it was possible that the murder might have come from or going to a foreign country it was a difficult case Interpol was also informed of the case three months after the murder of Dario Ciccone Lechia Interpol notified Swiss police of a possible lease a man has been arrested in France for sexually assaulting a hitchhiker and trying to kill me he was identified as thirty five year old Roland.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8617,
+            8623
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "notified",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8602,
+            8610
+          ],
+          "text": "notified"
+        }
+      ]
+    },
+    {
+      "score": 0.878078,
+      "sentence": "As the body was found so close to the border it was possible that the murder might have come from or going to a foreign country it was a difficult case Interpol was also informed of the case three months after the murder of Dario Ciccone Lechia Interpol notified Swiss police of a possible lease a man has been arrested in France for sexually assaulting a hitchhiker and trying to kill me he was identified as thirty five year old Roland.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Herman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8646,
+            8649
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrested",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            8659,
+            8667
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.90796,
+      "sentence": "As the body was found so close to the border it was possible that the murder might have come from or going to a foreign country it was a difficult case Interpol was also informed of the case three months after the murder of Dario Ciccone Lechia Interpol notified Swiss police of a possible lease a man has been arrested in France for sexually assaulting a hitchhiker and trying to kill me he was identified as thirty five year old Roland.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "arrested",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            8659,
+            8667
+          ],
+          "text": "arrested"
+        },
+        {
+          "entities": [
+            {
+              "text": "France",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8671,
+            8677
+          ],
+          "text": "France"
+        }
+      ]
+    },
+    {
+      "score": 0.963086,
+      "sentence": "And his mother called the police to report her son missing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            482,
+            488
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            489,
+            495
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.263708,
+      "sentence": "As the body was found so close to the border it was possible that the murder might have come from or going to a foreign country it was a difficult case Interpol was also informed of the case three months after the murder of Dario Ciccone Lechia Interpol notified Swiss police of a possible lease a man has been arrested in France for sexually assaulting a hitchhiker and trying to kill me he was identified as thirty five year old Roland.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Herman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8734,
+            8736
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            8729,
+            8733
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.962821,
+      "sentence": "As the body was found so close to the border it was possible that the murder might have come from or going to a foreign country it was a difficult case Interpol was also informed of the case three months after the murder of Dario Ciccone Lechia Interpol notified Swiss police of a possible lease a man has been arrested in France for sexually assaulting a hitchhiker and trying to kill me he was identified as thirty five year old Roland.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roland Keebler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8779,
+            8785
+          ],
+          "text": "Roland"
+        },
+        {
+          "entities": [
+            {
+              "text": "thirty five year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            8758,
+            8778
+          ],
+          "text": "thirty five year old"
+        }
+      ]
+    },
+    {
+      "score": 0.423005,
+      "sentence": "Psychiatric nurse who is divorced and the father of a five year old girl.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roland Keebler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8829,
+            8835
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "G.",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8855,
+            8859
+          ],
+          "text": "girl"
+        }
+      ]
+    },
+    {
+      "score": 0.596385,
+      "sentence": "What interpose attention was the fact that G. blur lived in Switzerland not far from the village where Dario Ciccone lackey was murdered when doctor Wyler heard of Roland key players a rest he suggested something unusual he told the Swiss police to examine key players Kerr.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "G.",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8904,
+            8906
+          ],
+          "text": "G."
+        },
+        {
+          "entities": [
+            {
+              "text": "Switzerland",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8921,
+            8932
+          ],
+          "text": "Switzerland"
+        }
+      ]
+    },
+    {
+      "score": 0.376402,
+      "sentence": "What interpose attention was the fact that G. blur lived in Switzerland not far from the village where Dario Ciccone lackey was murdered when doctor Wyler heard of Roland key players a rest he suggested something unusual he told the Swiss police to examine key players Kerr.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario Ciccone lackey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8964,
+            8984
+          ],
+          "text": "Dario Ciccone lackey"
+        },
+        {
+          "entities": [
+            {
+              "text": "village",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8950,
+            8957
+          ],
+          "text": "village"
+        }
+      ]
+    },
+    {
+      "score": 0.965426,
+      "sentence": "What interpose attention was the fact that G. blur lived in Switzerland not far from the village where Dario Ciccone lackey was murdered when doctor Wyler heard of Roland key players a rest he suggested something unusual he told the Swiss police to examine key players Kerr.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario Ciccone lackey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8964,
+            8984
+          ],
+          "text": "Dario Ciccone lackey"
+        },
+        {
+          "entities": [
+            {
+              "text": "mutilation",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            8989,
+            8997
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.300192,
+      "sentence": "What interpose attention was the fact that G. blur lived in Switzerland not far from the village where Dario Ciccone lackey was murdered when doctor Wyler heard of Roland key players a rest he suggested something unusual he told the Swiss police to examine key players Kerr.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Daniel Wyler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9010,
+            9015
+          ],
+          "text": "Wyler"
+        },
+        {
+          "entities": [
+            {
+              "text": "Roland Keebler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9025,
+            9031
+          ],
+          "text": "Roland"
+        }
+      ]
+    },
+    {
+      "score": 0.537861,
+      "sentence": "What interpose attention was the fact that G. blur lived in Switzerland not far from the village where Dario Ciccone lackey was murdered when doctor Wyler heard of Roland key players a rest he suggested something unusual he told the Swiss police to examine key players Kerr.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Daniel Wyler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9010,
+            9015
+          ],
+          "text": "Wyler"
+        },
+        {
+          "entities": [
+            {
+              "text": "players",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9036,
+            9043
+          ],
+          "text": "players"
+        }
+      ]
+    },
+    {
+      "score": 0.581065,
+      "sentence": "What interpose attention was the fact that G. blur lived in Switzerland not far from the village where Dario Ciccone lackey was murdered when doctor Wyler heard of Roland key players a rest he suggested something unusual he told the Swiss police to examine key players Kerr.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roland Keebler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9025,
+            9031
+          ],
+          "text": "Roland"
+        },
+        {
+          "entities": [
+            {
+              "text": "players",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9036,
+            9043
+          ],
+          "text": "players"
+        }
+      ]
+    },
+    {
+      "score": 0.997625,
+      "sentence": "What interpose attention was the fact that G. blur lived in Switzerland not far from the village where Dario Ciccone lackey was murdered when doctor Wyler heard of Roland key players a rest he suggested something unusual he told the Swiss police to examine key players Kerr.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roland Keebler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9051,
+            9053
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "suggested",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9054,
+            9063
+          ],
+          "text": "suggested"
+        }
+      ]
+    },
+    {
+      "score": 0.965186,
+      "sentence": "And his mother called the police to report her son missing.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            500,
+            506
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            489,
+            495
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.995786,
+      "sentence": "What interpose attention was the fact that G. blur lived in Switzerland not far from the village where Dario Ciccone lackey was murdered when doctor Wyler heard of Roland key players a rest he suggested something unusual he told the Swiss police to examine key players Kerr.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roland Keebler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9082,
+            9084
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9085,
+            9089
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.9153,
+      "sentence": "What interpose attention was the fact that G. blur lived in Switzerland not far from the village where Dario Ciccone lackey was murdered when doctor Wyler heard of Roland key players a rest he suggested something unusual he told the Swiss police to examine key players Kerr.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9100,
+            9106
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9085,
+            9089
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.442961,
+      "sentence": "So I also the police whether it's possible to get the petals off the car and the carpet in the trunk to bring all that stuff too doctor Hooman it was clear that the people who has done that the surrounding that them he must have tightens on his shoes and his clothes or in his car forensic scientists collected microscopic debris from inside the car including material from both the gas and brake pedals the carpet in the passenger compartment and the carpet from the.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Herman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9409,
+            9412
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9413,
+            9416
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.506874,
+      "sentence": "So I also the police whether it's possible to get the petals off the car and the carpet in the trunk to bring all that stuff too doctor Hooman it was clear that the people who has done that the surrounding that them he must have tightens on his shoes and his clothes or in his car forensic scientists collected microscopic debris from inside the car including material from both the gas and brake pedals the carpet in the passenger compartment and the carpet from the.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "forensic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9417,
+            9425
+          ],
+          "text": "forensic"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9413,
+            9416
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.153156,
+      "sentence": "So I also the police whether it's possible to get the petals off the car and the carpet in the trunk to bring all that stuff too doctor Hooman it was clear that the people who has done that the surrounding that them he must have tightens on his shoes and his clothes or in his car forensic scientists collected microscopic debris from inside the car including material from both the gas and brake pedals the carpet in the passenger compartment and the carpet from the.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9426,
+            9436
+          ],
+          "text": "scientists"
+        },
+        {
+          "entities": [
+            {
+              "text": "forensic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9417,
+            9425
+          ],
+          "text": "forensic"
+        }
+      ]
+    },
+    {
+      "score": 0.997676,
+      "sentence": "When he analyzed the diet tones found in the car he discovered they were fragile area I'm not.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Daniel Wyler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9831,
+            9833
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "analyzed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9834,
+            9842
+          ],
+          "text": "analyzed"
+        }
+      ]
+    },
+    {
+      "score": 0.687379,
+      "sentence": "When he analyzed the diet tones found in the car he discovered they were fragile area I'm not.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Daniel Wyler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9831,
+            9833
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9871,
+            9874
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.496758,
+      "sentence": "When he analyzed the diet tones found in the car he discovered they were fragile area I'm not.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Daniel Wyler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9875,
+            9877
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9871,
+            9874
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.532617,
+      "sentence": "When he analyzed the diet tones found in the car he discovered they were fragile area I'm not.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Daniel Wyler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9875,
+            9877
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9889,
+            9893
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.480234,
+      "sentence": "When he analyzed the diet tones found in the car he discovered they were fragile area I'm not.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Daniel Wyler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9875,
+            9877
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "area",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            9907,
+            9911
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.757122,
+      "sentence": "When he analyzed the diet tones found in the car he discovered they were fragile area I'm not.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9889,
+            9893
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "area",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            9907,
+            9911
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.427036,
+      "sentence": "The mobile stuff when we found the bike and his clothing we concluded that he had last been fishing there.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            578,
+            581
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            591,
+            593
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.63067,
+      "sentence": "The same dominant species found in Dario salons on his sneakers and in the creek with three thousand different species of diet tones in Switzerland the similarities in the diet tone evidence was significant you know now thanks to material found in the car.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "G.",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10128,
+            10131
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10173,
+            10176
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.983487,
+      "sentence": "Most common or is similar to the to the one of the long fifty are you and with the material found in the creek armed with this microscopic evidence Swiss police confronted Roland keyboard.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10332,
+            10338
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "confronted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10339,
+            10349
+          ],
+          "text": "confronted"
+        }
+      ]
+    },
+    {
+      "score": 0.99844,
+      "sentence": "He denied he had anything to do with barrios merger and said he only knew about the crime from what he read in the newspaper but during questioning.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Daniel Wyler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10367,
+            10369
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "denied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10370,
+            10376
+          ],
+          "text": "denied"
+        }
+      ]
+    },
+    {
+      "score": 0.905111,
+      "sentence": "He denied he had anything to do with barrios merger and said he only knew about the crime from what he read in the newspaper but during questioning.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Daniel Wyler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10377,
+            10379
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10423,
+            10427
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.551407,
+      "sentence": "He denied he had anything to do with barrios merger and said he only knew about the crime from what he read in the newspaper but during questioning.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Daniel Wyler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10428,
+            10430
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10423,
+            10427
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.471981,
+      "sentence": "He denied he had anything to do with barrios merger and said he only knew about the crime from what he read in the newspaper but during questioning.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Daniel Wyler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10467,
+            10469
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "newspapers",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10482,
+            10491
+          ],
+          "text": "newspaper"
+        }
+      ]
+    },
+    {
+      "score": 0.572656,
+      "sentence": "He denied he had anything to do with barrios merger and said he only knew about the crime from what he read in the newspaper but during questioning.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "newspapers",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10482,
+            10491
+          ],
+          "text": "newspaper"
+        },
+        {
+          "entities": [
+            {
+              "text": "questioning",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10503,
+            10514
+          ],
+          "text": "questioning"
+        }
+      ]
+    },
+    {
+      "score": 0.989843,
+      "sentence": "He revealed details of Dario saloons details which had never been reported in the newspapers.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Daniel Wyler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10516,
+            10518
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "revealed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10519,
+            10527
+          ],
+          "text": "revealed"
+        }
+      ]
+    },
+    {
+      "score": 0.491082,
+      "sentence": "He revealed details of Dario saloons details which had never been reported in the newspapers.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "newspapers",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10598,
+            10608
+          ],
+          "text": "newspapers"
+        },
+        {
+          "entities": [
+            {
+              "text": "reported",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10582,
+            10590
+          ],
+          "text": "reported"
+        }
+      ]
+    },
+    {
+      "score": 0.931197,
+      "sentence": "When confronted with the discrepancy Roland Keebler confessed to the murder of Dario check collecting.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roland Keebler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10674,
+            10688
+          ],
+          "text": "Roland Keebler"
+        },
+        {
+          "entities": [
+            {
+              "text": "confessed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10689,
+            10698
+          ],
+          "text": "confessed"
+        }
+      ]
+    },
+    {
+      "score": 0.737783,
+      "sentence": "During police interrogation Roland keeper confessed to both the murder and mutilation of Dario check collecting and his long standing sexual fantasies about young boys.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roland Keebler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10910,
+            10916
+          ],
+          "text": "Roland"
+        },
+        {
+          "entities": [
+            {
+              "text": "confessed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10924,
+            10933
+          ],
+          "text": "confessed"
+        }
+      ]
+    },
+    {
+      "score": 0.995503,
+      "sentence": "The mobile stuff when we found the bike and his clothing we concluded that he had last been fishing there.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            591,
+            593
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "concluded",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            594,
+            603
+          ],
+          "text": "concluded"
+        }
+      ]
+    },
+    {
+      "score": 0.600827,
+      "sentence": "When confronted with the discrepancy Roland Keebler confessed to the murder of Dario check collecting.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roland Keebler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10674,
+            10688
+          ],
+          "text": "Roland Keebler"
+        },
+        {
+          "entities": [
+            {
+              "text": "mutilation",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10706,
+            10712
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.794905,
+      "sentence": "Key player was convicted of crimes and was sentenced to life in prison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roland Keebler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13474,
+            13480
+          ],
+          "text": "player"
+        },
+        {
+          "entities": [
+            {
+              "text": "mutilation",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13498,
+            13504
+          ],
+          "text": "crimes"
+        }
+      ]
+    },
+    {
+      "score": 0.527683,
+      "sentence": "When confronted with the discrepancy Roland Keebler confessed to the murder of Dario check collecting.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10716,
+            10721
+          ],
+          "text": "Dario"
+        },
+        {
+          "entities": [
+            {
+              "text": "mutilation",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10706,
+            10712
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.352318,
+      "sentence": "During police interrogation Roland keeper confessed to both the murder and mutilation of Dario check collecting and his long standing sexual fantasies about young boys.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10971,
+            10976
+          ],
+          "text": "Dario"
+        },
+        {
+          "entities": [
+            {
+              "text": "mutilation",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10957,
+            10967
+          ],
+          "text": "mutilation"
+        }
+      ]
+    },
+    {
+      "score": 0.493811,
+      "sentence": "Ohnehin K. fast not only to the murder of Dario to collect but also admitted killing another in the same area Switzerland ten years earlier.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13371,
+            13376
+          ],
+          "text": "Dario"
+        },
+        {
+          "entities": [
+            {
+              "text": "mutilation",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13361,
+            13367
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.927879,
+      "sentence": "A picture now emerged of what took place at the creek the day Dario disappear and how his killer left behind a microscopic trail of evidence.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10826,
+            10829
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            10830,
+            10836
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.804578,
+      "sentence": "During police interrogation Roland keeper confessed to both the murder and mutilation of Dario check collecting and his long standing sexual fantasies about young boys.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10889,
+            10895
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "interrogation",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            10896,
+            10909
+          ],
+          "text": "interrogation"
+        }
+      ]
+    },
+    {
+      "score": 0.778516,
+      "sentence": "During police interrogation Roland keeper confessed to both the murder and mutilation of Dario check collecting and his long standing sexual fantasies about young boys.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roland Keebler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10910,
+            10916
+          ],
+          "text": "Roland"
+        },
+        {
+          "entities": [
+            {
+              "text": "interrogation",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            10896,
+            10909
+          ],
+          "text": "interrogation"
+        }
+      ]
+    },
+    {
+      "score": 0.821624,
+      "sentence": "He is in simple terms a pet a file and he is suppressed as homosexual tendencies for years and when he lived his fantasies he had to kill the victim in order to keep a secret.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Daniel Wyler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11193,
+            11199
+          ],
+          "text": "victim"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            11184,
+            11188
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.440003,
+      "sentence": "On August fourth nineteen ninety three Dario rode his bicycle to the creek near his home for an afternoon of fishing.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11266,
+            11271
+          ],
+          "text": "Dario"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11311,
+            11315
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.701673,
+      "sentence": "On August fourth nineteen ninety three Dario rode his bicycle to the creek near his home for an afternoon of fishing.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11307,
+            11310
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11311,
+            11315
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.738211,
+      "sentence": "On August fourth nineteen ninety three Dario rode his bicycle to the creek near his home for an afternoon of fishing.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "afternoon of",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            11323,
+            11335
+          ],
+          "text": "afternoon of"
+        },
+        {
+          "entities": [
+            {
+              "text": "mutilation",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11336,
+            11343
+          ],
+          "text": "fishing"
+        }
+      ]
+    },
+    {
+      "score": 0.949753,
+      "sentence": "He left his bike near the main road and headed down to the water.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dario swim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11345,
+            11347
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "left",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            11348,
+            11352
+          ],
+          "text": "left"
+        }
+      ]
+    }
+  ]
+}

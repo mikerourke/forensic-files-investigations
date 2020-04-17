@@ -1,0 +1,4506 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 14159,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Carla brown",
+      "relevance": 0.95746,
+      "confidence": 1,
+      "count": 15,
+      "disambiguation": {
+        "name": "Carla_Brown",
+        "dbpedia_resource": "http://dbpedia.org/resource/Carla_Brown"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Dr Campbell",
+      "relevance": 0.425018,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "karla brown",
+      "relevance": 0.407066,
+      "confidence": 0.999997,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Carlos",
+      "relevance": 0.20107,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "nineteen seventy eight twenty two year",
+      "relevance": 0.181481,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Twenty two year",
+      "relevance": 0.177375,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Carl brown",
+      "relevance": 0.174299,
+      "confidence": 0.993339,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Douglas",
+      "relevance": 0.143427,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "John Francie",
+      "relevance": 0.132919,
+      "confidence": 0.997361,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "John Douglas",
+      "relevance": 0.126468,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "wood river",
+      "relevance": 0.109744,
+      "confidence": 0.469767,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "FBI",
+      "relevance": 0.107284,
+      "confidence": 0.999999,
+      "count": 2,
+      "disambiguation": {
+        "name": "Federal_Bureau_of_Investigation",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation",
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Marquardt",
+      "relevance": 0.106274,
+      "confidence": 0.944351,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Homer Campbell",
+      "relevance": 0.105027,
+      "confidence": 0.971371,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Carless",
+      "relevance": 0.1046,
+      "confidence": 0.986753,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Levine",
+      "relevance": 0.093605,
+      "confidence": 0.999939,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty two year",
+      "relevance": 0.079456,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Volkswagen",
+      "relevance": 0.074932,
+      "confidence": 1,
+      "count": 3,
+      "disambiguation": {
+        "name": "Volkswagen",
+        "dbpedia_resource": "http://dbpedia.org/resource/Volkswagen",
+        "subtype": [
+          "Organization",
+          "AutomobileCompany",
+          "AwardWinner"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "John Plantae",
+      "relevance": 0.074225,
+      "confidence": 0.999202,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Luckless",
+      "relevance": 0.074053,
+      "confidence": 0.651399,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jop Randy",
+      "relevance": 0.07358,
+      "confidence": 0.944499,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Carla",
+      "relevance": 0.069236,
+      "confidence": 0.999962,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "bush",
+      "relevance": 0.067117,
+      "confidence": 0.97687,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Illinois",
+      "relevance": 0.064095,
+      "confidence": 0.996322,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Mary",
+      "relevance": 0.060715,
+      "confidence": 0.981388,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "St Louis county",
+      "relevance": 0.060084,
+      "confidence": 0.756642,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "university of New Mexico",
+      "relevance": 0.059534,
+      "confidence": 0.620569,
+      "count": 1,
+      "disambiguation": {
+        "name": "University_of_New_Mexico",
+        "dbpedia_resource": "http://dbpedia.org/resource/University_of_New_Mexico",
+        "subtype": [
+          "Location",
+          "CollegeUniversity",
+          "University"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Marc Webb",
+      "relevance": 0.058689,
+      "confidence": 0.997414,
+      "count": 1,
+      "disambiguation": {
+        "name": "Marc_Webb",
+        "dbpedia_resource": "http://dbpedia.org/resource/Marc_Webb",
+        "subtype": [
+          "FilmDirector"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Dr case",
+      "relevance": 0.055657,
+      "confidence": 0.875284,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Levin",
+      "relevance": 0.045051,
+      "confidence": 0.987229,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "New Mexico",
+      "relevance": 0.042639,
+      "confidence": 0.854858,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Campbell",
+      "relevance": 0.039639,
+      "confidence": 0.516658,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Carly",
+      "relevance": 0.038559,
+      "confidence": 0.877523,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "John Prine T.",
+      "relevance": 0.036291,
+      "confidence": 0.986847,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two years",
+      "relevance": 0.030993,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Two years",
+      "relevance": 0.02744,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "John twenty",
+      "relevance": 0.017218,
+      "confidence": 0.870335,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Douglass",
+      "relevance": 0.015861,
+      "confidence": 0.9994,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Randy",
+      "relevance": 0.014613,
+      "confidence": 0.999927,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "New York",
+      "relevance": 0.013468,
+      "confidence": 0.571008,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Carlo",
+      "relevance": 0.011992,
+      "confidence": 0.96291,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Ana S.",
+      "relevance": 0.011498,
+      "confidence": 0.523601,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "seventy five years",
+      "relevance": 0.011329,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Don Weber",
+      "relevance": 0.007464,
+      "confidence": 0.999404,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "John",
+      "relevance": 0.007098,
+      "confidence": 0.990683,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Charles Bosworth",
+      "relevance": 0.006979,
+      "confidence": 0.996485,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "dom Weber",
+      "relevance": 0.004083,
+      "confidence": 0.976189,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Carl",
+      "relevance": 0.002251,
+      "confidence": 0.999968,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "John printing",
+      "relevance": 0.000089,
+      "confidence": 0.716501,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.973695
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.771423
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.671966
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.668444
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.660859
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.693893,
+      "sentence": "On June twenty first nineteen seventy eight twenty two year old karla brown was found brutally murdered in the basement of a home.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            95,
+            103
+          ],
+          "text": "murdered"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            111,
+            119
+          ],
+          "text": "basement"
+        }
+      ]
+    },
+    {
+      "score": 0.92166,
+      "sentence": "Right and spoke to one of her friends on the telephone maybe we can have you over for dinner they had talked for a few minutes to talk about getting together later on that afternoon what is a good match herbs.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            1019,
+            1022
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "spoke",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1010,
+            1015
+          ],
+          "text": "spoke"
+        }
+      ]
+    },
+    {
+      "score": 0.740403,
+      "sentence": "During the autopsy more photographs were taken of the suspected bite wounds which were sent to the New York state police forensic unit for an independent evaluation.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10571,
+            10577
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "New York state",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10556,
+            10570
+          ],
+          "text": "New York state"
+        }
+      ]
+    },
+    {
+      "score": 0.974053,
+      "sentence": "Dr Levine was asked to compare the bite wound to three different dental casts prosecutors sent along for analysis Dr Levine no idea to whom the cast along.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Levine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10626,
+            10632
+          ],
+          "text": "Levine"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10637,
+            10642
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.37235,
+      "sentence": "After making wax impressions of the models Dr Levin concluded two of the models were not consistent with the bite wound I took the third model.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Levine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10822,
+            10824
+          ],
+          "text": "Dr"
+        },
+        {
+          "entities": [
+            {
+              "text": "models",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10815,
+            10821
+          ],
+          "text": "models"
+        }
+      ]
+    },
+    {
+      "score": 0.616546,
+      "sentence": "After making wax impressions of the models Dr Levin concluded two of the models were not consistent with the bite wound I took the third model.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Levine",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10825,
+            10830
+          ],
+          "text": "Levin"
+        },
+        {
+          "entities": [
+            {
+              "text": "models",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            10841,
+            10844
+          ],
+          "text": "two"
+        }
+      ]
+    },
+    {
+      "score": 0.996388,
+      "sentence": "And examine the only individual characteristics that those teeth would have cost compared those characteristics with the characteristics on the clarified photograph of Carla brown's neck that I had and came to the opinion that only that model was consistent with having caused of that pattern injury that bite mark he measured the teeth he went back to the photograph he turned in different ways he held them up in the air finally he laid the downward pressures on the table and he pointed to a man he said that year my.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11402,
+            11404
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "pointed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11405,
+            11412
+          ],
+          "text": "pointed"
+        }
+      ]
+    },
+    {
+      "score": 0.756058,
+      "sentence": "And examine the only individual characteristics that those teeth would have cost compared those characteristics with the characteristics on the clarified photograph of Carla brown's neck that I had and came to the opinion that only that model was consistent with having caused of that pattern injury that bite mark he measured the teeth he went back to the photograph he turned in different ways he held them up in the air finally he laid the downward pressures on the table and he pointed to a man he said that year my.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11418,
+            11421
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "pointed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11405,
+            11412
+          ],
+          "text": "pointed"
+        }
+      ]
+    },
+    {
+      "score": 0.555728,
+      "sentence": "And examine the only individual characteristics that those teeth would have cost compared those characteristics with the characteristics on the clarified photograph of Carla brown's neck that I had and came to the opinion that only that model was consistent with having caused of that pattern injury that bite mark he measured the teeth he went back to the photograph he turned in different ways he held them up in the air finally he laid the downward pressures on the table and he pointed to a man he said that year my.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11418,
+            11421
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11425,
+            11429
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.980809,
+      "sentence": "And examine the only individual characteristics that those teeth would have cost compared those characteristics with the characteristics on the clarified photograph of Carla brown's neck that I had and came to the opinion that only that model was consistent with having caused of that pattern injury that bite mark he measured the teeth he went back to the photograph he turned in different ways he held them up in the air finally he laid the downward pressures on the table and he pointed to a man he said that year my.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11422,
+            11424
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11425,
+            11429
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.755156,
+      "sentence": "where that came from the only job I could say but in fact it turned out that the individual did have Volkswagen.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Prine T..\nRandy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12019,
+            12020
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12027,
+            12030
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.307416,
+      "sentence": "Prosecutors believe that when Carla brown's fiancee left for work John.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carla brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12128,
+            12139
+          ],
+          "text": "Carla brown"
+        },
+        {
+          "entities": [
+            {
+              "text": "fiancee",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12142,
+            12149
+          ],
+          "text": "fiancee"
+        }
+      ]
+    },
+    {
+      "score": 0.923399,
+      "sentence": "In some kind of argument or struggle possibly after she had rejected twenty sexual advances.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carla brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12369,
+            12372
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "rejected",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12377,
+            12385
+          ],
+          "text": "rejected"
+        }
+      ]
+    },
+    {
+      "score": 0.779546,
+      "sentence": "He staged the scene to make it appear to be a sexual assault.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "your",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12477,
+            12479
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            12491,
+            12496
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.734886,
+      "sentence": "Right and spoke to one of her friends on the telephone maybe we can have you over for dinner they had talked for a few minutes to talk about getting together later on that afternoon what is a good match herbs.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "talked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1102,
+            1108
+          ],
+          "text": "talked"
+        },
+        {
+          "entities": [
+            {
+              "text": "spoke",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1010,
+            1015
+          ],
+          "text": "spoke"
+        }
+      ]
+    },
+    {
+      "score": 0.561191,
+      "sentence": "Right to remove the blood stains on the sofa with water carried from the kitchen and the coffee carafe which she left in the rafters above the sub. In July of nineteen eighty three John twenty was tried and convicted of first degree murder and was sentenced to seventy five years in the state penitentiary.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "July of nineteen eighty",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            12862,
+            12885
+          ],
+          "text": "July of nineteen eighty"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12918,
+            12927
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.581987,
+      "sentence": "Right to remove the blood stains on the sofa with water carried from the kitchen and the coffee carafe which she left in the rafters above the sub. In July of nineteen eighty three John twenty was tried and convicted of first degree murder and was sentenced to seventy five years in the state penitentiary.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John twenty",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12892,
+            12903
+          ],
+          "text": "John twenty"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12944,
+            12950
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.836394,
+      "sentence": "Right to remove the blood stains on the sofa with water carried from the kitchen and the coffee carafe which she left in the rafters above the sub. In July of nineteen eighty three John twenty was tried and convicted of first degree murder and was sentenced to seventy five years in the state penitentiary.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "seventy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12972,
+            12979
+          ],
+          "text": "seventy"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12959,
+            12968
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.430261,
+      "sentence": "After five long years Carla brown's family finally has some closure I would like to tell him that he he took away a very wonderful person who had a lot to offer an up in a family who cared very much about Carla.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carla brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13040,
+            13051
+          ],
+          "text": "Carla brown"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13054,
+            13060
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.72204,
+      "sentence": "After five long years Carla brown's family finally has some closure I would like to tell him that he he took away a very wonderful person who had a lot to offer an up in a family who cared very much about Carla.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "your",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13107,
+            13110
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "tell",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13102,
+            13106
+          ],
+          "text": "tell"
+        }
+      ]
+    },
+    {
+      "score": 0.472307,
+      "sentence": "After five long years Carla brown's family finally has some closure I would like to tell him that he he took away a very wonderful person who had a lot to offer an up in a family who cared very much about Carla.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "person",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13156,
+            13159
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13190,
+            13196
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.913238,
+      "sentence": "Carl'S family was so intrigued by the bite mark evidence that she embroidered wool tapestry that she presented to dom Weber as a token of appreciation and it offers the slogan that don had used you can lie through your teeth that your teams don't lie and around the border is the pattern of rectangles space rectangle space triangle which is the bite mark pattern that dont have proved had been made by John printing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John printing",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14145,
+            14158
+          ],
+          "text": "John printing"
+        },
+        {
+          "entities": [
+            {
+              "text": "made",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14137,
+            14141
+          ],
+          "text": "made"
+        }
+      ]
+    },
+    {
+      "score": 0.526748,
+      "sentence": "Right and spoke to one of her friends on the telephone maybe we can have you over for dinner they had talked for a few minutes to talk about getting together later on that afternoon what is a good match herbs.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            1019,
+            1022
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1030,
+            1037
+          ],
+          "text": "friends"
+        }
+      ]
+    },
+    {
+      "score": 0.881371,
+      "sentence": "Right and spoke to one of her friends on the telephone maybe we can have you over for dinner they had talked for a few minutes to talk about getting together later on that afternoon what is a good match herbs.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1093,
+            1097
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "talked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1102,
+            1108
+          ],
+          "text": "talked"
+        }
+      ]
+    },
+    {
+      "score": 0.580683,
+      "sentence": "Right and spoke to one of her friends on the telephone maybe we can have you over for dinner they had talked for a few minutes to talk about getting together later on that afternoon what is a good match herbs.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "afternoon",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            1172,
+            1181
+          ],
+          "text": "afternoon"
+        },
+        {
+          "entities": [
+            {
+              "text": "talked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1102,
+            1108
+          ],
+          "text": "talked"
+        }
+      ]
+    },
+    {
+      "score": 0.706796,
+      "sentence": "Right and spoke to one of her friends on the telephone maybe we can have you over for dinner they had talked for a few minutes to talk about getting together later on that afternoon what is a good match herbs.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "afternoon",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            1172,
+            1181
+          ],
+          "text": "afternoon"
+        },
+        {
+          "entities": [
+            {
+              "text": "talk",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1130,
+            1134
+          ],
+          "text": "talk"
+        }
+      ]
+    },
+    {
+      "score": 0.894043,
+      "sentence": "And Carlos right to the conversation and said listen I'll have to call you back I'll see you later somebody at the door and that was the last their friend never talked to.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carlos",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1214,
+            1220
+          ],
+          "text": "Carlos"
+        },
+        {
+          "entities": [
+            {
+              "text": "conversation",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            1234,
+            1246
+          ],
+          "text": "conversation"
+        }
+      ]
+    },
+    {
+      "score": 0.457704,
+      "sentence": "And Carlos right to the conversation and said listen I'll have to call you back I'll see you later somebody at the door and that was the last their friend never talked to.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1263,
+            1264
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "spoke",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1251,
+            1255
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.50847,
+      "sentence": "And Carlos right to the conversation and said listen I'll have to call you back I'll see you later somebody at the door and that was the last their friend never talked to.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1290,
+            1291
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1352,
+            1357
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.78912,
+      "sentence": "And Carlos right to the conversation and said listen I'll have to call you back I'll see you later somebody at the door and that was the last their friend never talked to.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carla brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1309,
+            1317
+          ],
+          "text": "somebody"
+        },
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1352,
+            1357
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.368775,
+      "sentence": "On June twenty first nineteen seventy eight twenty two year old karla brown was found brutally murdered in the basement of a home.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            95,
+            103
+          ],
+          "text": "murdered"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            125,
+            129
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.703629,
+      "sentence": "And Carlos right to the conversation and said listen I'll have to call you back I'll see you later somebody at the door and that was the last their friend never talked to.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carlos",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1358,
+            1364
+          ],
+          "text": "friend"
+        },
+        {
+          "entities": [
+            {
+              "text": "talked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1371,
+            1377
+          ],
+          "text": "talked"
+        }
+      ]
+    },
+    {
+      "score": 0.558692,
+      "sentence": "Around five thirty that afternoon Carless fiance and his friends stop by the house after work.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1435,
+            1438
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1459,
+            1464
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.610074,
+      "sentence": "Around five thirty that afternoon Carless fiance and his friends stop by the house after work.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1439,
+            1446
+          ],
+          "text": "friends"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1459,
+            1464
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.566828,
+      "sentence": "When they walk into the basement they saw a horrible sight.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1482,
+            1486
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1501,
+            1509
+          ],
+          "text": "basement"
+        }
+      ]
+    },
+    {
+      "score": 0.995097,
+      "sentence": "Carlos lying face down in a bucket of water.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carlos",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1537,
+            1543
+          ],
+          "text": "Carlos"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1544,
+            1549
+          ],
+          "text": "lying"
+        }
+      ]
+    },
+    {
+      "score": 0.604747,
+      "sentence": "She had her hands tied behind her there was evidence of struggle a death struggle in the basement and and the suit is very strong suggestion of a sexual rape.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carla brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1612,
+            1615
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1671,
+            1679
+          ],
+          "text": "basement"
+        }
+      ]
+    },
+    {
+      "score": 0.678503,
+      "sentence": "She had her hands tied behind her there was evidence of struggle a death struggle in the basement and and the suit is very strong suggestion of a sexual rape.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carla brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1612,
+            1615
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            1735,
+            1739
+          ],
+          "text": "rape"
+        }
+      ]
+    },
+    {
+      "score": 0.391276,
+      "sentence": "The white electrical cord used to tied the victim's hands was not tight enough to effectively restrain an individual during an assault there was too much length of cord behind her to wear her hands could come up in front of her it would seem like to me that she would have access to the attacker given that much freedom.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2062,
+            2072
+          ],
+          "text": "individual"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            2083,
+            2090
+          ],
+          "text": "assault"
+        }
+      ]
+    },
+    {
+      "score": 0.872995,
+      "sentence": "She was found wearing a sweater fiancee said she would never wear in the summer.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "fiancee",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2367,
+            2374
+          ],
+          "text": "fiancee"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2375,
+            2379
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.58999,
+      "sentence": "The attack occurred near the sofa and the body was later moved into an adjacent room and placed into the barrel of water.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2931,
+            2935
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2969,
+            2973
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.468304,
+      "sentence": "On June twenty first nineteen seventy eight twenty two year old karla brown was found brutally murdered in the basement of a home.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            111,
+            119
+          ],
+          "text": "basement"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            125,
+            129
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.929709,
+      "sentence": "The crime scene staging told investigators that the perpetrator spent a great deal of time inside the house after the murders but who knew that Carla brown was home and the loan on the date of the merger and who would have felt free to spend so much time in the home cleaning up and staging the C.. Police began their investigation with a close look at Carla brown's fiancee.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3040,
+            3053
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3035,
+            3039
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.879577,
+      "sentence": "Luckless also told investigators that they may have already interviewed the murderer and that he was capable of passing a polygraph test and then it got kind of spooky I mean I was sitting there and I wasn't sure I was believing what he was saying after a certain point he started talking about.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5300,
+            5313
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5295,
+            5299
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.460765,
+      "sentence": "The crime scene staging told investigators that the perpetrator spent a great deal of time inside the house after the murders but who knew that Carla brown was home and the loan on the date of the merger and who would have felt free to spend so much time in the home cleaning up and staging the C.. Police began their investigation with a close look at Carla brown's fiancee.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carla brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3155,
+            3166
+          ],
+          "text": "Carla brown"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3171,
+            3175
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.904456,
+      "sentence": "The crime scene staging told investigators that the perpetrator spent a great deal of time inside the house after the murders but who knew that Carla brown was home and the loan on the date of the merger and who would have felt free to spend so much time in the home cleaning up and staging the C.. Police began their investigation with a close look at Carla brown's fiancee.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3323,
+            3328
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            3329,
+            3342
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.492636,
+      "sentence": "The crime scene staging told investigators that the perpetrator spent a great deal of time inside the house after the murders but who knew that Carla brown was home and the loan on the date of the merger and who would have felt free to spend so much time in the home cleaning up and staging the C.. Police began their investigation with a close look at Carla brown's fiancee.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "fiancee",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3378,
+            3385
+          ],
+          "text": "fiancee"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            3329,
+            3342
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.348887,
+      "sentence": "The crime scene staging told investigators that the perpetrator spent a great deal of time inside the house after the murders but who knew that Carla brown was home and the loan on the date of the merger and who would have felt free to spend so much time in the home cleaning up and staging the C.. Police began their investigation with a close look at Carla brown's fiancee.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carla brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3364,
+            3375
+          ],
+          "text": "Carla brown"
+        },
+        {
+          "entities": [
+            {
+              "text": "fiancee",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3378,
+            3385
+          ],
+          "text": "fiancee"
+        }
+      ]
+    },
+    {
+      "score": 0.985109,
+      "sentence": "The autopsy report on Carla brown indicated death by strangulation although she was found nude from the waist down there were no signs of sexual assault.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carla brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3409,
+            3420
+          ],
+          "text": "Carla brown"
+        },
+        {
+          "entities": [
+            {
+              "text": "indicated",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3421,
+            3430
+          ],
+          "text": "indicated"
+        }
+      ]
+    },
+    {
+      "score": 0.789428,
+      "sentence": "The autopsy report on Carla brown indicated death by strangulation although she was found nude from the waist down there were no signs of sexual assault.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carla brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3463,
+            3466
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "strangulation",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            3440,
+            3453
+          ],
+          "text": "strangulation"
+        }
+      ]
+    },
+    {
+      "score": 0.229491,
+      "sentence": "Investigators were convinced that the killer spent a great deal of time in the house after the merger staging the crime scene.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "merger",
+              "type": "EventBusiness"
+            }
+          ],
+          "location": [
+            3636,
+            3642
+          ],
+          "text": "merger"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3620,
+            3625
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.614274,
+      "sentence": "AZ about him anyway police also questioned to neighbors who had been sitting in the yard next door on the day Carla and her fiance removing it.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3858,
+            3861
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "questioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3881,
+            3891
+          ],
+          "text": "questioned"
+        }
+      ]
+    },
+    {
+      "score": 0.605227,
+      "sentence": "AZ about him anyway police also questioned to neighbors who had been sitting in the yard next door on the day Carla and her fiance removing it.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3869,
+            3875
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "questioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3881,
+            3891
+          ],
+          "text": "questioned"
+        }
+      ]
+    },
+    {
+      "score": 0.442481,
+      "sentence": "Twenty two year old karla brown and her fiance a man we'll call Marquardt had recently purchased a home together in wood river Illinois.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            422,
+            425
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            426,
+            428
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.848736,
+      "sentence": "AZ about him anyway police also questioned to neighbors who had been sitting in the yard next door on the day Carla and her fiance removing it.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "neighbors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3895,
+            3904
+          ],
+          "text": "neighbors"
+        },
+        {
+          "entities": [
+            {
+              "text": "questioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3881,
+            3891
+          ],
+          "text": "questioned"
+        }
+      ]
+    },
+    {
+      "score": 0.512991,
+      "sentence": "AZ about him anyway police also questioned to neighbors who had been sitting in the yard next door on the day Carla and her fiance removing it.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "neighbors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3905,
+            3908
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "yard",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3933,
+            3937
+          ],
+          "text": "yard"
+        }
+      ]
+    },
+    {
+      "score": 0.816279,
+      "sentence": "I'M John Francie we went to school together remember me.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carla brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3993,
+            3994
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4010,
+            4012
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.758296,
+      "sentence": "I'M John Francie we went to school together remember me.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Francie",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3997,
+            4009
+          ],
+          "text": "John Francie"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4010,
+            4012
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.91548,
+      "sentence": "Both men had alibis as to where they were on the day of the murder and they both willingly took lie detector test and passed.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "neighbors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4082,
+            4086
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4110,
+            4116
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.974142,
+      "sentence": "With no other leads police asked the FBI for a psychological profile of the killer and turned to FBI behavioral analyst John Douglas in my restriction began to break down crimes by disorganized and organized disorganized means extra extremely sloppy carelessness on the part of the offender the crime could be very very impulsive organize means that there's a high degree high level of criminal sophistication on the part of the subject to Douglas this crime scene was disorganized an indication that the killer was inexperienced and probably had never killed before he came to the home with no intention of committing murder but did so after some sort of confrontation or rejection.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4196,
+            4202
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4203,
+            4208
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.777151,
+      "sentence": "With no other leads police asked the FBI for a psychological profile of the killer and turned to FBI behavioral analyst John Douglas in my restriction began to break down crimes by disorganized and organized disorganized means extra extremely sloppy carelessness on the part of the offender the crime could be very very impulsive organize means that there's a high degree high level of criminal sophistication on the part of the subject to Douglas this crime scene was disorganized an indication that the killer was inexperienced and probably had never killed before he came to the home with no intention of committing murder but did so after some sort of confrontation or rejection.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "FBI",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4213,
+            4216
+          ],
+          "text": "FBI"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4203,
+            4208
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.824321,
+      "sentence": "With no other leads police asked the FBI for a psychological profile of the killer and turned to FBI behavioral analyst John Douglas in my restriction began to break down crimes by disorganized and organized disorganized means extra extremely sloppy carelessness on the part of the offender the crime could be very very impulsive organize means that there's a high degree high level of criminal sophistication on the part of the subject to Douglas this crime scene was disorganized an indication that the killer was inexperienced and probably had never killed before he came to the home with no intention of committing murder but did so after some sort of confrontation or rejection.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Douglas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4277,
+            4295
+          ],
+          "text": "behavioral analyst"
+        },
+        {
+          "entities": [
+            {
+              "text": "FBI",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4273,
+            4276
+          ],
+          "text": "FBI"
+        }
+      ]
+    },
+    {
+      "score": 0.528035,
+      "sentence": "With no other leads police asked the FBI for a psychological profile of the killer and turned to FBI behavioral analyst John Douglas in my restriction began to break down crimes by disorganized and organized disorganized means extra extremely sloppy carelessness on the part of the offender the crime could be very very impulsive organize means that there's a high degree high level of criminal sophistication on the part of the subject to Douglas this crime scene was disorganized an indication that the killer was inexperienced and probably had never killed before he came to the home with no intention of committing murder but did so after some sort of confrontation or rejection.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carla brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4312,
+            4314
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "crimes",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4347,
+            4353
+          ],
+          "text": "crimes"
+        }
+      ]
+    },
+    {
+      "score": 0.376887,
+      "sentence": "With no other leads police asked the FBI for a psychological profile of the killer and turned to FBI behavioral analyst John Douglas in my restriction began to break down crimes by disorganized and organized disorganized means extra extremely sloppy carelessness on the part of the offender the crime could be very very impulsive organize means that there's a high degree high level of criminal sophistication on the part of the subject to Douglas this crime scene was disorganized an indication that the killer was inexperienced and probably had never killed before he came to the home with no intention of committing murder but did so after some sort of confrontation or rejection.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4743,
+            4745
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4758,
+            4762
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.431515,
+      "sentence": "Twenty two year old karla brown and her fiance a man we'll call Marquardt had recently purchased a home together in wood river Illinois.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Marquardt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            437,
+            446
+          ],
+          "text": "Marquardt"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            472,
+            476
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.562431,
+      "sentence": "With no other leads police asked the FBI for a psychological profile of the killer and turned to FBI behavioral analyst John Douglas in my restriction began to break down crimes by disorganized and organized disorganized means extra extremely sloppy carelessness on the part of the offender the crime could be very very impulsive organize means that there's a high degree high level of criminal sophistication on the part of the subject to Douglas this crime scene was disorganized an indication that the killer was inexperienced and probably had never killed before he came to the home with no intention of committing murder but did so after some sort of confrontation or rejection.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4743,
+            4745
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4795,
+            4801
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.431263,
+      "sentence": "Since we spend so much time inside the home Douglas believed that he was familiar with the dementor routine and might be living in the neighborhood or very close by.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4866,
+            4868
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4899,
+            4903
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.380402,
+      "sentence": "Since we spend so much time inside the home Douglas believed that he was familiar with the dementor routine and might be living in the neighborhood or very close by.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Douglas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4904,
+            4911
+          ],
+          "text": "Douglas"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4899,
+            4903
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.992242,
+      "sentence": "Douglas said the killer was a non married white male in his mid to late twenties high school educated with a sloppy appearance.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Douglas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5026,
+            5033
+          ],
+          "text": "Douglas"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5034,
+            5038
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.583875,
+      "sentence": "Douglas said the killer was a non married white male in his mid to late twenties high school educated with a sloppy appearance.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Douglas",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5026,
+            5033
+          ],
+          "text": "Douglas"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            5043,
+            5049
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.854341,
+      "sentence": "Luckless also told investigators that they may have already interviewed the murderer and that he was capable of passing a polygraph test and then it got kind of spooky I mean I was sitting there and I wasn't sure I was believing what he was saying after a certain point he started talking about.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5319,
+            5323
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviewed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5341,
+            5352
+          ],
+          "text": "interviewed"
+        }
+      ]
+    },
+    {
+      "score": 0.575899,
+      "sentence": "Luckless also told investigators that they may have already interviewed the murderer and that he was capable of passing a polygraph test and then it got kind of spooky I mean I was sitting there and I wasn't sure I was believing what he was saying after a certain point he started talking about.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5357,
+            5365
+          ],
+          "text": "murderer"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviewed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5341,
+            5352
+          ],
+          "text": "interviewed"
+        }
+      ]
+    },
+    {
+      "score": 0.978565,
+      "sentence": "Luckless also told investigators that they may have already interviewed the murderer and that he was capable of passing a polygraph test and then it got kind of spooky I mean I was sitting there and I wasn't sure I was believing what he was saying after a certain point he started talking about.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5515,
+            5517
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "saying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5522,
+            5528
+          ],
+          "text": "saying"
+        }
+      ]
+    },
+    {
+      "score": 0.775079,
+      "sentence": "Luckless also told investigators that they may have already interviewed the murderer and that he was capable of passing a polygraph test and then it got kind of spooky I mean I was sitting there and I wasn't sure I was believing what he was saying after a certain point he started talking about.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5551,
+            5553
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "talking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5562,
+            5569
+          ],
+          "text": "talking"
+        }
+      ]
+    },
+    {
+      "score": 0.930423,
+      "sentence": "He started talking about a volts wagon there is high probability this guy I'd be able to drive a Volkswagen.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5652,
+            5654
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "talking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5663,
+            5670
+          ],
+          "text": "talking"
+        }
+      ]
+    },
+    {
+      "score": 0.484075,
+      "sentence": "And what kind of vehicle he'd be driving.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5635,
+            5637
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            5627,
+            5634
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.5875,
+      "sentence": "Twenty two year old karla brown and her fiance a man we'll call Marquardt had recently purchased a home together in wood river Illinois.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            472,
+            476
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "river",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            494,
+            499
+          ],
+          "text": "river"
+        }
+      ]
+    },
+    {
+      "score": 0.607782,
+      "sentence": "But investigators needed more than just a psychological profile they needed hard.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5933,
+            5946
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5993,
+            5997
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.493809,
+      "sentence": "For one thing he and his colleagues could not determine what caused the.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6032,
+            6035
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "colleagues",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6036,
+            6046
+          ],
+          "text": "colleagues"
+        }
+      ]
+    },
+    {
+      "score": 0.294626,
+      "sentence": "The first real break in the case occurred when bush attended a seminar on image enhancement at the university of New Mexico Dr Homer Campbell taught that seminar he worked for the state of New Mexico as a medical investigation.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Homer Campbell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6208,
+            6210
+          ],
+          "text": "Dr"
+        },
+        {
+          "entities": [
+            {
+              "text": "university",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6183,
+            6193
+          ],
+          "text": "university"
+        }
+      ]
+    },
+    {
+      "score": 0.431225,
+      "sentence": "The first real break in the case occurred when bush attended a seminar on image enhancement at the university of New Mexico Dr Homer Campbell taught that seminar he worked for the state of New Mexico as a medical investigation.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Homer Campbell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6208,
+            6210
+          ],
+          "text": "Dr"
+        },
+        {
+          "entities": [
+            {
+              "text": "New Mexico",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6197,
+            6207
+          ],
+          "text": "New Mexico"
+        }
+      ]
+    },
+    {
+      "score": 0.35939,
+      "sentence": "The first real break in the case occurred when bush attended a seminar on image enhancement at the university of New Mexico Dr Homer Campbell taught that seminar he worked for the state of New Mexico as a medical investigation.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Homer Campbell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6246,
+            6248
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "New York state",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6264,
+            6269
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.67021,
+      "sentence": "The first real break in the case occurred when bush attended a seminar on image enhancement at the university of New Mexico Dr Homer Campbell taught that seminar he worked for the state of New Mexico as a medical investigation.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Homer Campbell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6246,
+            6248
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6297,
+            6310
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.357507,
+      "sentence": "The first real break in the case occurred when bush attended a seminar on image enhancement at the university of New Mexico Dr Homer Campbell taught that seminar he worked for the state of New Mexico as a medical investigation.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "New York state",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6264,
+            6269
+          ],
+          "text": "state"
+        },
+        {
+          "entities": [
+            {
+              "text": "New Mexico",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6273,
+            6283
+          ],
+          "text": "New Mexico"
+        }
+      ]
+    },
+    {
+      "score": 0.647671,
+      "sentence": "After the seminar bush told doctor Campbell about the Carla brown case and I said Dr do I have a case for you.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Homer Campbell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6706,
+            6712
+          ],
+          "text": "doctor"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6701,
+            6705
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.657415,
+      "sentence": "After the seminar bush told doctor Campbell about the Carla brown case and I said Dr do I have a case for you.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Homer Campbell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6760,
+            6762
+          ],
+          "text": "Dr"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6755,
+            6759
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.638211,
+      "sentence": "After the seminar bush told doctor Campbell about the Carla brown case and I said Dr do I have a case for you.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carla brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6732,
+            6743
+          ],
+          "text": "Carla brown"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6744,
+            6748
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.571457,
+      "sentence": "And I told them about the color brown case in that.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carla brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6821,
+            6826
+          ],
+          "text": "brown"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6827,
+            6831
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.981118,
+      "sentence": "After the seminar bush told doctor Campbell about the Carla brown case and I said Dr do I have a case for you.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carla brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6753,
+            6754
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6755,
+            6759
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.993126,
+      "sentence": "And I told them about the color brown case in that.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carla brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6793,
+            6794
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6795,
+            6799
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.614196,
+      "sentence": "Twenty two year old karla brown and her fiance a man we'll call Marquardt had recently purchased a home together in wood river Illinois.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            472,
+            476
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "Illinois",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            500,
+            508
+          ],
+          "text": "Illinois"
+        }
+      ]
+    },
+    {
+      "score": 0.912719,
+      "sentence": "And I told them about the color brown case in that.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "them",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6800,
+            6804
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6795,
+            6799
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.994905,
+      "sentence": "We were never able to identify what type instrument hadn't damaged her face I asked him to please send me the photographs.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carla brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6917,
+            6918
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6919,
+            6924
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.811841,
+      "sentence": "We were never able to identify what type instrument hadn't damaged her face I asked him to please send me the photographs.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Homer Campbell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6925,
+            6928
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6919,
+            6924
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.996387,
+      "sentence": "And what Dr Campbell said next with even more with the.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Homer Campbell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7537,
+            7545
+          ],
+          "text": "Campbell"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7546,
+            7550
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.971359,
+      "sentence": "And a half by Marc Webb by mark what are you talking about.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7656,
+            7659
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "talking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7660,
+            7667
+          ],
+          "text": "talking"
+        }
+      ]
+    },
+    {
+      "score": 0.464676,
+      "sentence": "Present on the shoulder was a bite injury on the show and by looking at that by the injury you could actually pick out individual T. all the way across.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7766,
+            7769
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "show",
+              "type": "EventPerformance"
+            }
+          ],
+          "location": [
+            7724,
+            7728
+          ],
+          "text": "show"
+        }
+      ]
+    },
+    {
+      "score": 0.4942,
+      "sentence": "Two years after the brutal murder of a twenty two year old karla brown investigators got the break they needed one of photographic enhancement revealed a bite mark on Carly shoulder police now turned to the two men sitting in the yard next door when Carla brown moved into our new home.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Two years after",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            8160,
+            8175
+          ],
+          "text": "Two years after"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            8187,
+            8193
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.521652,
+      "sentence": "Two years after the brutal murder of a twenty two year old karla brown investigators got the break they needed one of photographic enhancement revealed a bite mark on Carly shoulder police now turned to the two men sitting in the yard next door when Carla brown moved into our new home.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8371,
+            8374
+          ],
+          "text": "men"
+        },
+        {
+          "entities": [
+            {
+              "text": "yard",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8390,
+            8394
+          ],
+          "text": "yard"
+        }
+      ]
+    },
+    {
+      "score": 0.516487,
+      "sentence": "Two years after the brutal murder of a twenty two year old karla brown investigators got the break they needed one of photographic enhancement revealed a bite mark on Carly shoulder police now turned to the two men sitting in the yard next door when Carla brown moved into our new home.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carla brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8410,
+            8421
+          ],
+          "text": "Carla brown"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8441,
+            8445
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.949983,
+      "sentence": "Both match the F. B. I.'s behavioral profile of the killer police check their alibis again although both had passed a polygraph test police discovered that John Plantae had spoken about the merger to others Jop Randy had mentioned to his friends that he had seen her body that day that he looked over the shoulder of some policemen while they were investigating in the basement and he described the condition of her body and he even mentioned that she had bite marks on her neck and collarbone.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Plantae",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8603,
+            8615
+          ],
+          "text": "John Plantae"
+        },
+        {
+          "entities": [
+            {
+              "text": "spoken",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8620,
+            8626
+          ],
+          "text": "spoken"
+        }
+      ]
+    },
+    {
+      "score": 0.807823,
+      "sentence": "Twenty two year old karla brown and her fiance a man we'll call Marquardt had recently purchased a home together in wood river Illinois.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "river",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            494,
+            499
+          ],
+          "text": "river"
+        },
+        {
+          "entities": [
+            {
+              "text": "Illinois",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            500,
+            508
+          ],
+          "text": "Illinois"
+        }
+      ]
+    },
+    {
+      "score": 0.682581,
+      "sentence": "Both match the F. B. I.'s behavioral profile of the killer police check their alibis again although both had passed a polygraph test police discovered that John Plantae had spoken about the merger to others Jop Randy had mentioned to his friends that he had seen her body that day that he looked over the shoulder of some policemen while they were investigating in the basement and he described the condition of her body and he even mentioned that she had bite marks on her neck and collarbone.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Plantae",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8603,
+            8615
+          ],
+          "text": "John Plantae"
+        },
+        {
+          "entities": [
+            {
+              "text": "others",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8647,
+            8653
+          ],
+          "text": "others"
+        }
+      ]
+    },
+    {
+      "score": 0.583897,
+      "sentence": "Both match the F. B. I.'s behavioral profile of the killer police check their alibis again although both had passed a polygraph test police discovered that John Plantae had spoken about the merger to others Jop Randy had mentioned to his friends that he had seen her body that day that he looked over the shoulder of some policemen while they were investigating in the basement and he described the condition of her body and he even mentioned that she had bite marks on her neck and collarbone.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "others",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8647,
+            8653
+          ],
+          "text": "others"
+        },
+        {
+          "entities": [
+            {
+              "text": "spoken",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8620,
+            8626
+          ],
+          "text": "spoken"
+        }
+      ]
+    },
+    {
+      "score": 0.72408,
+      "sentence": "Both match the F. B. I.'s behavioral profile of the killer police check their alibis again although both had passed a polygraph test police discovered that John Plantae had spoken about the merger to others Jop Randy had mentioned to his friends that he had seen her body that day that he looked over the shoulder of some policemen while they were investigating in the basement and he described the condition of her body and he even mentioned that she had bite marks on her neck and collarbone.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Prine T..\nRandy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8658,
+            8663
+          ],
+          "text": "Randy"
+        },
+        {
+          "entities": [
+            {
+              "text": "others",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8647,
+            8653
+          ],
+          "text": "others"
+        }
+      ]
+    },
+    {
+      "score": 0.488682,
+      "sentence": "Both match the F. B. I.'s behavioral profile of the killer police check their alibis again although both had passed a polygraph test police discovered that John Plantae had spoken about the merger to others Jop Randy had mentioned to his friends that he had seen her body that day that he looked over the shoulder of some policemen while they were investigating in the basement and he described the condition of her body and he even mentioned that she had bite marks on her neck and collarbone.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "others",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8647,
+            8653
+          ],
+          "text": "others"
+        },
+        {
+          "entities": [
+            {
+              "text": "mentioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8668,
+            8677
+          ],
+          "text": "mentioned"
+        }
+      ]
+    },
+    {
+      "score": 0.742116,
+      "sentence": "Both match the F. B. I.'s behavioral profile of the killer police check their alibis again although both had passed a polygraph test police discovered that John Plantae had spoken about the merger to others Jop Randy had mentioned to his friends that he had seen her body that day that he looked over the shoulder of some policemen while they were investigating in the basement and he described the condition of her body and he even mentioned that she had bite marks on her neck and collarbone.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Prine T..\nRandy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8658,
+            8663
+          ],
+          "text": "Randy"
+        },
+        {
+          "entities": [
+            {
+              "text": "mentioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8668,
+            8677
+          ],
+          "text": "mentioned"
+        }
+      ]
+    },
+    {
+      "score": 0.844369,
+      "sentence": "Both match the F. B. I.'s behavioral profile of the killer police check their alibis again although both had passed a polygraph test police discovered that John Plantae had spoken about the merger to others Jop Randy had mentioned to his friends that he had seen her body that day that he looked over the shoulder of some policemen while they were investigating in the basement and he described the condition of her body and he even mentioned that she had bite marks on her neck and collarbone.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8685,
+            8692
+          ],
+          "text": "friends"
+        },
+        {
+          "entities": [
+            {
+              "text": "mentioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8668,
+            8677
+          ],
+          "text": "mentioned"
+        }
+      ]
+    },
+    {
+      "score": 0.647792,
+      "sentence": "Both match the F. B. I.'s behavioral profile of the killer police check their alibis again although both had passed a polygraph test police discovered that John Plantae had spoken about the merger to others Jop Randy had mentioned to his friends that he had seen her body that day that he looked over the shoulder of some policemen while they were investigating in the basement and he described the condition of her body and he even mentioned that she had bite marks on her neck and collarbone.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8785,
+            8789
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8795,
+            8808
+          ],
+          "text": "investigating"
+        }
+      ]
+    },
+    {
+      "score": 0.687659,
+      "sentence": "Both match the F. B. I.'s behavioral profile of the killer police check their alibis again although both had passed a polygraph test police discovered that John Plantae had spoken about the merger to others Jop Randy had mentioned to his friends that he had seen her body that day that he looked over the shoulder of some policemen while they were investigating in the basement and he described the condition of her body and he even mentioned that she had bite marks on her neck and collarbone.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8785,
+            8789
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8816,
+            8824
+          ],
+          "text": "basement"
+        }
+      ]
+    },
+    {
+      "score": 0.994336,
+      "sentence": "Both match the F. B. I.'s behavioral profile of the killer police check their alibis again although both had passed a polygraph test police discovered that John Plantae had spoken about the merger to others Jop Randy had mentioned to his friends that he had seen her body that day that he looked over the shoulder of some policemen while they were investigating in the basement and he described the condition of her body and he even mentioned that she had bite marks on her neck and collarbone.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Prine T..\nRandy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8829,
+            8831
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "described",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8832,
+            8841
+          ],
+          "text": "described"
+        }
+      ]
+    },
+    {
+      "score": 0.967741,
+      "sentence": "Both match the F. B. I.'s behavioral profile of the killer police check their alibis again although both had passed a polygraph test police discovered that John Plantae had spoken about the merger to others Jop Randy had mentioned to his friends that he had seen her body that day that he looked over the shoulder of some policemen while they were investigating in the basement and he described the condition of her body and he even mentioned that she had bite marks on her neck and collarbone.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Prine T..\nRandy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8872,
+            8874
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "mentioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8880,
+            8889
+          ],
+          "text": "mentioned"
+        }
+      ]
+    },
+    {
+      "score": 0.496013,
+      "sentence": "For young woman was very popular in your hometown.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carla brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            700,
+            704
+          ],
+          "text": "your"
+        },
+        {
+          "entities": [
+            {
+              "text": "Illinois",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            705,
+            713
+          ],
+          "text": "hometown"
+        }
+      ]
+    },
+    {
+      "score": 0.434117,
+      "sentence": "The police were the only ones inside the house after Carla brown's body was found.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8946,
+            8952
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8983,
+            8988
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.547693,
+      "sentence": "The police were the only ones inside the house after Carla brown's body was found.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carla brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8995,
+            9006
+          ],
+          "text": "Carla brown"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8983,
+            8988
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.331376,
+      "sentence": "The police were the only ones inside the house after Carla brown's body was found.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carla brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8995,
+            9006
+          ],
+          "text": "Carla brown"
+        },
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9009,
+            9013
+          ],
+          "text": "body"
+        }
+      ]
+    },
+    {
+      "score": 0.596257,
+      "sentence": "Shock to us as police officers because there's no way that he can and known that unless you put the bite marks there.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9034,
+            9036
+          ],
+          "text": "us"
+        },
+        {
+          "entities": [
+            {
+              "text": "officers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9047,
+            9055
+          ],
+          "text": "officers"
+        }
+      ]
+    },
+    {
+      "score": 0.964372,
+      "sentence": "Shock to us as police officers because there's no way that he can and known that unless you put the bite marks there.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9047,
+            9055
+          ],
+          "text": "officers"
+        },
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9040,
+            9046
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.260952,
+      "sentence": "Since the bite marks were overlooked during the original autopsy investigators wanted to make sure nothing else was missed so Carla brown's body was exhumed for a second autopsy.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carla brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9555,
+            9566
+          ],
+          "text": "Carla brown"
+        },
+        {
+          "entities": [
+            {
+              "text": "individual",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9569,
+            9573
+          ],
+          "text": "body"
+        }
+      ]
+    },
+    {
+      "score": 0.632061,
+      "sentence": "This time it was performed by Dr Mary case the chief medical examiner for St Louis county in the original autopsy there was no ligature strangulation and the body was examined and for some reason they had was not examined and so I opened the cranial cavity and there was bruising in the scalp somebody struck her on the head and question is whether or not for example this alone would cause loss of consciousness.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mary",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9641,
+            9645
+          ],
+          "text": "Mary"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            9646,
+            9650
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.751917,
+      "sentence": "Dr case thought that Carla brown may have been alive when she was placed in the barrel of water because when she was found it was phone around her mouth because she was in the water in she was producing that phone.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mary",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10022,
+            10024
+          ],
+          "text": "Dr"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10025,
+            10029
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.832601,
+      "sentence": "This time it was performed by Dr Mary case the chief medical examiner for St Louis county in the original autopsy there was no ligature strangulation and the body was examined and for some reason they had was not examined and so I opened the cranial cavity and there was bruising in the scalp somebody struck her on the head and question is whether or not for example this alone would cause loss of consciousness.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mary",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9655,
+            9677
+          ],
+          "text": "chief medical examiner"
+        },
+        {
+          "entities": [
+            {
+              "text": "St Louis county",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9682,
+            9697
+          ],
+          "text": "St Louis county"
+        }
+      ]
+    },
+    {
+      "score": 0.535157,
+      "sentence": "This time it was performed by Dr Mary case the chief medical examiner for St Louis county in the original autopsy there was no ligature strangulation and the body was examined and for some reason they had was not examined and so I opened the cranial cavity and there was bruising in the scalp somebody struck her on the head and question is whether or not for example this alone would cause loss of consciousness.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "somebody",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9901,
+            9909
+          ],
+          "text": "somebody"
+        },
+        {
+          "entities": [
+            {
+              "text": "struck",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            9910,
+            9916
+          ],
+          "text": "struck"
+        }
+      ]
+    },
+    {
+      "score": 0.58492,
+      "sentence": "This time it was performed by Dr Mary case the chief medical examiner for St Louis county in the original autopsy there was no ligature strangulation and the body was examined and for some reason they had was not examined and so I opened the cranial cavity and there was bruising in the scalp somebody struck her on the head and question is whether or not for example this alone would cause loss of consciousness.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carla brown",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9917,
+            9920
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "struck",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            9910,
+            9916
+          ],
+          "text": "struck"
+        }
+      ]
+    }
+  ]
+}

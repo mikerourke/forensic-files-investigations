@@ -1,0 +1,5382 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 14421,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Valerie",
+      "relevance": 0.973594,
+      "confidence": 1,
+      "count": 32
+    },
+    {
+      "type": "Person",
+      "text": "Brad Jackson",
+      "relevance": 0.542286,
+      "confidence": 1,
+      "count": 9,
+      "disambiguation": {
+        "name": "Brad_Jackson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Brad_Jackson"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Valerie Jackson",
+      "relevance": 0.537397,
+      "confidence": 1,
+      "count": 6,
+      "disambiguation": {
+        "name": "Valerie_Jackson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Valerie_Jackson",
+        "subtype": [
+          "Politician"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Jackson",
+      "relevance": 0.527867,
+      "confidence": 1,
+      "count": 27
+    },
+    {
+      "type": "Person",
+      "text": "Brad",
+      "relevance": 0.297193,
+      "confidence": 1,
+      "count": 7
+    },
+    {
+      "type": "Quantity",
+      "text": "nine year",
+      "relevance": 0.213785,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "Nine year",
+      "relevance": 0.176704,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Spokane valley",
+      "relevance": 0.174609,
+      "confidence": 0.981385,
+      "count": 2
+    },
+    {
+      "type": "Facility",
+      "text": "McDonald elementary school",
+      "relevance": 0.169723,
+      "confidence": 0.695213,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Roseanne pleasant",
+      "relevance": 0.168353,
+      "confidence": 0.780067,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Spokane",
+      "relevance": 0.162663,
+      "confidence": 0.998657,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "Forty five minutes",
+      "relevance": 0.151818,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "seven years",
+      "relevance": 0.127389,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Brad Valerie",
+      "relevance": 0.124961,
+      "confidence": 0.997253,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "forty four minutes",
+      "relevance": 0.118608,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Brad story",
+      "relevance": 0.115409,
+      "confidence": 0.80424,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Washington",
+      "relevance": 0.10691,
+      "confidence": 0.99997,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Capt Bayern",
+      "relevance": 0.101903,
+      "confidence": 0.502055,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty feet",
+      "relevance": 0.099229,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Roseanne",
+      "relevance": 0.082368,
+      "confidence": 0.999652,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "nine years",
+      "relevance": 0.078743,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "northwest",
+      "relevance": 0.06801,
+      "confidence": 0.63496,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Four days",
+      "relevance": 0.052675,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "five minutes",
+      "relevance": 0.051439,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "two weeks",
+      "relevance": 0.041782,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "fifteen minutes",
+      "relevance": 0.039873,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Madison",
+      "relevance": 0.038016,
+      "confidence": 0.967236,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "secret service",
+      "relevance": 0.0276,
+      "confidence": 0.417561,
+      "count": 1,
+      "disambiguation": {
+        "name": "United_States_Secret_Service",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Secret_Service",
+        "subtype": [
+          "GovernmentAgency"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Prosecutor Jack Driscoll",
+      "relevance": 0.02133,
+      "confidence": 0.497858,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "relevance": 0.018082,
+      "confidence": 0.95547,
+      "count": 1,
+      "disambiguation": {
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Mr Jackson",
+      "relevance": 0.016439,
+      "confidence": 0.952872,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Schroeder",
+      "relevance": 0.014868,
+      "confidence": 0.945247,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one hour",
+      "relevance": 0.013502,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "'s",
+      "relevance": 0.012925,
+      "confidence": 0.550025,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "fifty six years",
+      "relevance": 0.011369,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Axel",
+      "relevance": 0.007549,
+      "confidence": 0.994681,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "lye",
+      "relevance": 0.002449,
+      "confidence": 0.688904,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "rose",
+      "relevance": 0.002391,
+      "confidence": 0.726239,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.95166
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.883683
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.719925
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.639267
+    },
+    {
+      "label": "/society/crime/personal offense/kidnapping",
+      "score": 0.628552
+    },
+    {
+      "label": "/family and parenting/babies and toddlers/baby clothes",
+      "score": 0.607243
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.539118,
+      "sentence": "Nine year old Valerie Jackson vanished from our Spokane Washington home without a trace.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14,
+            29
+          ],
+          "text": "Valerie Jackson"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            67,
+            71
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.787697,
+      "sentence": "Brad Jackson a truck driver and his daughter Valerie lived here in the home they shared with Brad's parents.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            551,
+            563
+          ],
+          "text": "Brad Jackson"
+        },
+        {
+          "entities": [
+            {
+              "text": "families",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            627,
+            631
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.889507,
+      "sentence": "The first thing Brad Jackson did after his arrest was too cold to knock from his jail cell and propose marriage.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12632,
+            12635
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "abduction",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            12636,
+            12642
+          ],
+          "text": "arrest"
+        }
+      ]
+    },
+    {
+      "score": 0.272515,
+      "sentence": "The first thing Brad Jackson did after his arrest was too cold to knock from his jail cell and propose marriage.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12670,
+            12673
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "jail",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12674,
+            12678
+          ],
+          "text": "jail"
+        }
+      ]
+    },
+    {
+      "score": 0.590578,
+      "sentence": "Prosecutor Jack Driscoll took the case personally.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jack Driscoll",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12776,
+            12789
+          ],
+          "text": "Jack Driscoll"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12799,
+            12803
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.615172,
+      "sentence": "As a parent who is supposed to protect their child is supposed to be in the guardian for them ends up coming face down in the dirt can you care.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parent",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12828,
+            12831
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12855,
+            12860
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.571966,
+      "sentence": "As a parent who is supposed to protect their child is supposed to be in the guardian for them ends up coming face down in the dirt can you care.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12855,
+            12860
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12861,
+            12866
+          ],
+          "text": "child"
+        }
+      ]
+    },
+    {
+      "score": 0.780987,
+      "sentence": "Jackson have you received a copy of the information charging you with one count of murder and first degree Mr Jackson had those two charges one guilty.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13105,
+            13108
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "count",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13118,
+            13123
+          ],
+          "text": "count"
+        }
+      ]
+    },
+    {
+      "score": 0.987082,
+      "sentence": "But Jackson claimed Valerie's death was an accident but he found her dead of an overdose of Axel he feared that he would be blamed he panicked and buried the body.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13200,
+            13207
+          ],
+          "text": "Jackson"
+        },
+        {
+          "entities": [
+            {
+              "text": "claimed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13208,
+            13215
+          ],
+          "text": "claimed"
+        }
+      ]
+    },
+    {
+      "score": 0.983562,
+      "sentence": "But forensic scientists testified that the packs a levels and Valerie system we're no where near lethal.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "forensic scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13364,
+            13383
+          ],
+          "text": "forensic scientists"
+        },
+        {
+          "entities": [
+            {
+              "text": "testified",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13384,
+            13393
+          ],
+          "text": "testified"
+        }
+      ]
+    },
+    {
+      "score": 0.71767,
+      "sentence": "But forensic scientists testified that the packs a levels and Valerie system we're no where near lethal.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13422,
+            13429
+          ],
+          "text": "Valerie"
+        },
+        {
+          "entities": [
+            {
+              "text": "testified",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13384,
+            13393
+          ],
+          "text": "testified"
+        }
+      ]
+    },
+    {
+      "score": 0.47859,
+      "sentence": "But forensic scientists testified that the packs a levels and Valerie system we're no where near lethal.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13422,
+            13429
+          ],
+          "text": "Valerie"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13437,
+            13439
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.462715,
+      "sentence": "Brad Jackson a truck driver and his daughter Valerie lived here in the home they shared with Brad's parents.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            572,
+            578
+          ],
+          "text": "driver"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            566,
+            571
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.843201,
+      "sentence": "And I think anyone who murders a child.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "anyone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13645,
+            13648
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "murders",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13649,
+            13656
+          ],
+          "text": "murders"
+        }
+      ]
+    },
+    {
+      "score": 0.673684,
+      "sentence": "And I think anyone who murders a child.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13659,
+            13664
+          ],
+          "text": "child"
+        },
+        {
+          "entities": [
+            {
+              "text": "murders",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13649,
+            13656
+          ],
+          "text": "murders"
+        }
+      ]
+    },
+    {
+      "score": 0.710481,
+      "sentence": "Anyone the murders the child should face the death penalty and life should end I hope he never gets out of jail.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13666,
+            13672
+          ],
+          "text": "Anyone"
+        },
+        {
+          "entities": [
+            {
+              "text": "murders",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13677,
+            13684
+          ],
+          "text": "murders"
+        }
+      ]
+    },
+    {
+      "score": 0.535837,
+      "sentence": "Anyone the murders the child should face the death penalty and life should end I hope he never gets out of jail.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13689,
+            13694
+          ],
+          "text": "child"
+        },
+        {
+          "entities": [
+            {
+              "text": "murders",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13677,
+            13684
+          ],
+          "text": "murders"
+        }
+      ]
+    },
+    {
+      "score": 0.639559,
+      "sentence": "Anyone the murders the child should face the death penalty and life should end I hope he never gets out of jail.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13689,
+            13694
+          ],
+          "text": "child"
+        },
+        {
+          "entities": [
+            {
+              "text": "death penalty",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13711,
+            13724
+          ],
+          "text": "death penalty"
+        }
+      ]
+    },
+    {
+      "score": 0.353992,
+      "sentence": "Anyone the murders the child should face the death penalty and life should end I hope he never gets out of jail.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13745,
+            13746
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "jail",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13773,
+            13777
+          ],
+          "text": "jail"
+        }
+      ]
+    },
+    {
+      "score": 0.996828,
+      "sentence": "And she tells Roseanne has many people believe Jackson also killed Valerie's mother rose and pleasant years earlier but police have no proof.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13783,
+            13786
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "tells",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13787,
+            13792
+          ],
+          "text": "tells"
+        }
+      ]
+    },
+    {
+      "score": 0.519479,
+      "sentence": "And she tells Roseanne has many people believe Jackson also killed Valerie's mother rose and pleasant years earlier but police have no proof.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roseanne pleasant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13793,
+            13801
+          ],
+          "text": "Roseanne"
+        },
+        {
+          "entities": [
+            {
+              "text": "tells",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13787,
+            13792
+          ],
+          "text": "tells"
+        }
+      ]
+    },
+    {
+      "score": 0.532832,
+      "sentence": "She was scared to death of rats in my last conversation with my sister she said she feared for her life she said Brad had some life around and what is lye used for at that time Brad worked on scene at.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "rats",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13948,
+            13952
+          ],
+          "text": "rats"
+        },
+        {
+          "entities": [
+            {
+              "text": "conversation",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            13964,
+            13976
+          ],
+          "text": "conversation"
+        }
+      ]
+    },
+    {
+      "score": 0.966911,
+      "sentence": "She was scared to death of rats in my last conversation with my sister she said she feared for her life she said Brad had some life around and what is lye used for at that time Brad worked on scene at.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13956,
+            13958
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "conversation",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            13964,
+            13976
+          ],
+          "text": "conversation"
+        }
+      ]
+    },
+    {
+      "score": 0.815786,
+      "sentence": "She was scared to death of rats in my last conversation with my sister she said she feared for her life she said Brad had some life around and what is lye used for at that time Brad worked on scene at.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13985,
+            13991
+          ],
+          "text": "sister"
+        },
+        {
+          "entities": [
+            {
+              "text": "conversation",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            13964,
+            13976
+          ],
+          "text": "conversation"
+        }
+      ]
+    },
+    {
+      "score": 0.585094,
+      "sentence": "She was scared to death of rats in my last conversation with my sister she said she feared for her life she said Brad had some life around and what is lye used for at that time Brad worked on scene at.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13982,
+            13984
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "conversation",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            13964,
+            13976
+          ],
+          "text": "conversation"
+        }
+      ]
+    },
+    {
+      "score": 0.987145,
+      "sentence": "She was scared to death of rats in my last conversation with my sister she said she feared for her life she said Brad had some life around and what is lye used for at that time Brad worked on scene at.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13992,
+            13995
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13996,
+            14000
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.564961,
+      "sentence": "She was scared to death of rats in my last conversation with my sister she said she feared for her life she said Brad had some life around and what is lye used for at that time Brad worked on scene at.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14016,
+            14019
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14029,
+            14033
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.869287,
+      "sentence": "She was scared to death of rats in my last conversation with my sister she said she feared for her life she said Brad had some life around and what is lye used for at that time Brad worked on scene at.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14025,
+            14028
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14029,
+            14033
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.606931,
+      "sentence": "Brad Jackson a truck driver and his daughter Valerie lived here in the home they shared with Brad's parents.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            572,
+            578
+          ],
+          "text": "driver"
+        },
+        {
+          "entities": [
+            {
+              "text": "families",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            627,
+            631
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.506449,
+      "sentence": "Brad Jackson a truck driver and his daughter Valerie lived here in the home they shared with Brad's parents.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            596,
+            603
+          ],
+          "text": "Valerie"
+        },
+        {
+          "entities": [
+            {
+              "text": "families",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            627,
+            631
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.873679,
+      "sentence": "She was scared to death of rats in my last conversation with my sister she said she feared for her life she said Brad had some life around and what is lye used for at that time Brad worked on scene at.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14098,
+            14102
+          ],
+          "text": "Brad"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            14113,
+            14118
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.478047,
+      "sentence": "The children of McDonald elementary school planted a tree in Valerie's memory it lives and grows they're healthy and strong.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14272,
+            14280
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "McDonald",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14284,
+            14292
+          ],
+          "text": "McDonald"
+        }
+      ]
+    },
+    {
+      "score": 0.731241,
+      "sentence": "Brad Jackson a truck driver and his daughter Valerie lived here in the home they shared with Brad's parents.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            583,
+            586
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            587,
+            595
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.818473,
+      "sentence": "Brad Jackson frantically searched the neighborhood knocking on doors searching for his daughter before calling police.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1611,
+            1614
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1615,
+            1623
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.479241,
+      "sentence": "After the GPS transmitters were hidden in Jackson's vehicles detective Madison took a calculated risk he confronted Jackson with his suspicion that he had murdered his own daughter.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6971,
+            6974
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6979,
+            6987
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.700707,
+      "sentence": "After he returned he called police to report his daughter missing.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11605,
+            11608
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11609,
+            11617
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.668737,
+      "sentence": "Why did Jackson killed his own daughter.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12022,
+            12025
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12030,
+            12038
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.803957,
+      "sentence": "his relationship with her was more important in his daughter's life.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12416,
+            12419
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12420,
+            12428
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.89218,
+      "sentence": "Brad Jackson a truck driver and his daughter Valerie lived here in the home they shared with Brad's parents.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            622,
+            626
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "Spokane Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            610,
+            614
+          ],
+          "text": "here"
+        }
+      ]
+    },
+    {
+      "score": 0.37141,
+      "sentence": "Brad Jackson a truck driver and his daughter Valerie lived here in the home they shared with Brad's parents.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "families",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            627,
+            631
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "Spokane Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            610,
+            614
+          ],
+          "text": "here"
+        }
+      ]
+    },
+    {
+      "score": 0.315699,
+      "sentence": "Brad Jackson a truck driver and his daughter Valerie lived here in the home they shared with Brad's parents.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "families",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            627,
+            631
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            622,
+            626
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.690422,
+      "sentence": "Brad Jackson a truck driver and his daughter Valerie lived here in the home they shared with Brad's parents.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            651,
+            658
+          ],
+          "text": "parents"
+        },
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            644,
+            648
+          ],
+          "text": "Brad"
+        }
+      ]
+    },
+    {
+      "score": 0.848474,
+      "sentence": "Brad had sole custody of Valerie because the child's mother Roseanne pleasant mysteriously disappeared seven years ago she had a drug problem.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roseanne pleasant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            713,
+            719
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            705,
+            710
+          ],
+          "text": "child"
+        }
+      ]
+    },
+    {
+      "score": 0.625274,
+      "sentence": "In fact it's her mother had been reported missing was listed as a missing person since nineteen ninety two and either her mother or someone for her mother could have taken out.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roseanne pleasant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3295,
+            3301
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3291,
+            3294
+          ],
+          "text": "her"
+        }
+      ]
+    },
+    {
+      "score": 0.596515,
+      "sentence": "In fact it's her mother had been reported missing was listed as a missing person since nineteen ninety two and either her mother or someone for her mother could have taken out.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roseanne pleasant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3400,
+            3406
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3396,
+            3399
+          ],
+          "text": "her"
+        }
+      ]
+    },
+    {
+      "score": 0.720274,
+      "sentence": "In fact it's her mother had been reported missing was listed as a missing person since nineteen ninety two and either her mother or someone for her mother could have taken out.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roseanne pleasant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3426,
+            3432
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3422,
+            3425
+          ],
+          "text": "her"
+        }
+      ]
+    },
+    {
+      "score": 0.529981,
+      "sentence": "And she tells Roseanne has many people believe Jackson also killed Valerie's mother rose and pleasant years earlier but police have no proof.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roseanne pleasant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13856,
+            13862
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13846,
+            13853
+          ],
+          "text": "Valerie"
+        }
+      ]
+    },
+    {
+      "score": 0.953867,
+      "sentence": "In October of nineteen ninety nine Valerie had just turned nine years old she was a very bright fourth grader at the McDonald elementary school just a few blocks from her home.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            838,
+            845
+          ],
+          "text": "Valerie"
+        },
+        {
+          "entities": [
+            {
+              "text": "nine years old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            862,
+            876
+          ],
+          "text": "nine years old"
+        }
+      ]
+    },
+    {
+      "score": 0.616381,
+      "sentence": "Nine year old Valerie Jackson vanished from our Spokane Washington home without a trace.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "our",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            44,
+            47
+          ],
+          "text": "our"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            67,
+            71
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.642265,
+      "sentence": "In October of nineteen ninety nine Valerie had just turned nine years old she was a very bright fourth grader at the McDonald elementary school just a few blocks from her home.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "elementary school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            929,
+            946
+          ],
+          "text": "elementary school"
+        },
+        {
+          "entities": [
+            {
+              "text": "McDonald",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            920,
+            928
+          ],
+          "text": "McDonald"
+        }
+      ]
+    },
+    {
+      "score": 0.795778,
+      "sentence": "The children of McDonald elementary school planted a tree in Valerie's memory it lives and grows they're healthy and strong.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "elementary school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14293,
+            14310
+          ],
+          "text": "elementary school"
+        },
+        {
+          "entities": [
+            {
+              "text": "McDonald",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14284,
+            14292
+          ],
+          "text": "McDonald"
+        }
+      ]
+    },
+    {
+      "score": 0.636937,
+      "sentence": "In October of nineteen ninety nine Valerie had just turned nine years old she was a very bright fourth grader at the McDonald elementary school just a few blocks from her home.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            970,
+            973
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            974,
+            978
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.995663,
+      "sentence": "Brad said Valerie had been playing in the backyard with their dog while he was in the basement doing laundry.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1163,
+            1167
+          ],
+          "text": "Brad"
+        },
+        {
+          "entities": [
+            {
+              "text": "argued",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1168,
+            1172
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.719407,
+      "sentence": "Brad said Valerie had been playing in the backyard with their dog while he was in the basement doing laundry.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1173,
+            1180
+          ],
+          "text": "Valerie"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1219,
+            1224
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.690589,
+      "sentence": "Brad said Valerie had been playing in the backyard with their dog while he was in the basement doing laundry.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1235,
+            1237
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1249,
+            1257
+          ],
+          "text": "basement"
+        }
+      ]
+    },
+    {
+      "score": 0.70787,
+      "sentence": "Brad Jackson frantically searched the neighborhood knocking on doors searching for his daughter before calling police.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1528,
+            1540
+          ],
+          "text": "Brad Jackson"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1566,
+            1578
+          ],
+          "text": "neighborhood"
+        }
+      ]
+    },
+    {
+      "score": 0.661132,
+      "sentence": "I got home at nine AM.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1720,
+            1721
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1726,
+            1730
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.635965,
+      "sentence": "And my mother in law called me about five after and said there's a little red head girl missing on glossy and I knew right away it was Valerie so I raced over there Brad was in the front yard and I went over there and and hugged him and I said let's finder normally when we get missing kids I mean they're found either in the house or at a friend's house plane and they're they're cleared within.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roseanne pleasant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1750,
+            1756
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1747,
+            1749
+          ],
+          "text": "my"
+        }
+      ]
+    },
+    {
+      "score": 0.639261,
+      "sentence": "And my mother in law called me about five after and said there's a little red head girl missing on glossy and I knew right away it was Valerie so I raced over there Brad was in the front yard and I went over there and and hugged him and I said let's finder normally when we get missing kids I mean they're found either in the house or at a friend's house plane and they're they're cleared within.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1771,
+            1773
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1795,
+            1799
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.979161,
+      "sentence": "And my mother in law called me about five after and said there's a little red head girl missing on glossy and I knew right away it was Valerie so I raced over there Brad was in the front yard and I went over there and and hugged him and I said let's finder normally when we get missing kids I mean they're found either in the house or at a friend's house plane and they're they're cleared within.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1980,
+            1981
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1982,
+            1986
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.485152,
+      "sentence": "And my mother in law called me about five after and said there's a little red head girl missing on glossy and I knew right away it was Valerie so I raced over there Brad was in the front yard and I went over there and and hugged him and I said let's finder normally when we get missing kids I mean they're found either in the house or at a friend's house plane and they're they're cleared within.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1878,
+            1885
+          ],
+          "text": "Valerie"
+        },
+        {
+          "entities": [
+            {
+              "text": "yard",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1930,
+            1934
+          ],
+          "text": "yard"
+        }
+      ]
+    },
+    {
+      "score": 0.850984,
+      "sentence": "Nine year old Valerie Jackson vanished from our Spokane Washington home without a trace.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            56,
+            66
+          ],
+          "text": "Washington"
+        },
+        {
+          "entities": [
+            {
+              "text": "Spokane Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            48,
+            55
+          ],
+          "text": "Spokane"
+        }
+      ]
+    },
+    {
+      "score": 0.829846,
+      "sentence": "And my mother in law called me about five after and said there's a little red head girl missing on glossy and I knew right away it was Valerie so I raced over there Brad was in the front yard and I went over there and and hugged him and I said let's finder normally when we get missing kids I mean they're found either in the house or at a friend's house plane and they're they're cleared within.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1908,
+            1912
+          ],
+          "text": "Brad"
+        },
+        {
+          "entities": [
+            {
+              "text": "yard",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1930,
+            1934
+          ],
+          "text": "yard"
+        }
+      ]
+    },
+    {
+      "score": 0.24967,
+      "sentence": "And my mother in law called me about five after and said there's a little red head girl missing on glossy and I knew right away it was Valerie so I raced over there Brad was in the front yard and I went over there and and hugged him and I said let's finder normally when we get missing kids I mean they're found either in the house or at a friend's house plane and they're they're cleared within.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2083,
+            2089
+          ],
+          "text": "friend"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2092,
+            2097
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.429758,
+      "sentence": "And my mother in law called me about five after and said there's a little red head girl missing on glossy and I knew right away it was Valerie so I raced over there Brad was in the front yard and I went over there and and hugged him and I said let's finder normally when we get missing kids I mean they're found either in the house or at a friend's house plane and they're they're cleared within.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "plane",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2098,
+            2103
+          ],
+          "text": "plane"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2092,
+            2097
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.628922,
+      "sentence": "Valerie'S grandmother made a televised plea for her safe return please whoever took her for asking for her safe return.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2312,
+            2315
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "asking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2320,
+            2326
+          ],
+          "text": "asking"
+        }
+      ]
+    },
+    {
+      "score": 0.576743,
+      "sentence": "As the search continued neighbors began calling police with leads.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "neighbors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2372,
+            2381
+          ],
+          "text": "neighbors"
+        },
+        {
+          "entities": [
+            {
+              "text": "calling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2388,
+            2395
+          ],
+          "text": "calling"
+        }
+      ]
+    },
+    {
+      "score": 0.701379,
+      "sentence": "As the search continued neighbors began calling police with leads.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2396,
+            2402
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "calling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2388,
+            2395
+          ],
+          "text": "calling"
+        }
+      ]
+    },
+    {
+      "score": 0.520806,
+      "sentence": "Our little girl is kidnapped I might have something that might be able to help you okay yeah in the last couple weeks or a blue blazer and a man about sixty hello my colored hair.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2444,
+            2445
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "kidnapped",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            2434,
+            2443
+          ],
+          "text": "kidnapped"
+        }
+      ]
+    },
+    {
+      "score": 0.354406,
+      "sentence": "We were all terrified we'd we wouldn't let our kids walk to school and we didn't want ours to be the next.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2756,
+            2759
+          ],
+          "text": "our"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2760,
+            2764
+          ],
+          "text": "kids"
+        }
+      ]
+    },
+    {
+      "score": 0.711954,
+      "sentence": "Wires were posted in stores in car windows and on the internet newspapers and television stations asked the community to report anything suspicious as a parent you're concerned about child the same age.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "television stations",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2958,
+            2977
+          ],
+          "text": "television stations"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2978,
+            2983
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.723389,
+      "sentence": "Wires were posted in stores in car windows and on the internet newspapers and television stations asked the community to report anything suspicious as a parent you're concerned about child the same age.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2988,
+            2997
+          ],
+          "text": "community"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2978,
+            2983
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.596181,
+      "sentence": "Nine year old Valerie Jackson vanished from our Spokane Washington home without a trace.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            67,
+            71
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            56,
+            66
+          ],
+          "text": "Washington"
+        }
+      ]
+    },
+    {
+      "score": 0.312895,
+      "sentence": "Here there's potentially a person whose lives in the community preying on on school children.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "person",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3117,
+            3122
+          ],
+          "text": "whose"
+        },
+        {
+          "entities": [
+            {
+              "text": "elementary school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3160,
+            3166
+          ],
+          "text": "school"
+        }
+      ]
+    },
+    {
+      "score": 0.767187,
+      "sentence": "Here there's potentially a person whose lives in the community preying on on school children.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3167,
+            3175
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "elementary school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3160,
+            3166
+          ],
+          "text": "school"
+        }
+      ]
+    },
+    {
+      "score": 0.467942,
+      "sentence": "The children of McDonald elementary school planted a tree in Valerie's memory it lives and grows they're healthy and strong.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14272,
+            14280
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "elementary school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14293,
+            14310
+          ],
+          "text": "elementary school"
+        }
+      ]
+    },
+    {
+      "score": 0.929802,
+      "sentence": "An objection by a stranger was one possibility but problems in the Jackson family suggested another.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jackson family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3244,
+            3258
+          ],
+          "text": "Jackson family"
+        },
+        {
+          "entities": [
+            {
+              "text": "suggested",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3259,
+            3268
+          ],
+          "text": "suggested"
+        }
+      ]
+    },
+    {
+      "score": 0.515043,
+      "sentence": "In fact it's her mother had been reported missing was listed as a missing person since nineteen ninety two and either her mother or someone for her mother could have taken out.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roseanne pleasant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3295,
+            3301
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "reported",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3311,
+            3319
+          ],
+          "text": "reported"
+        }
+      ]
+    },
+    {
+      "score": 0.67696,
+      "sentence": "The last time anyone saw rows and pleasant Valerie's mother was seven years earlier in nineteen ninety two Roseanne's brother didn't believe his sister had anything to do with Valerie's disappearance he pointed the finger squarely at Brad we believe.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3508,
+            3514
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "pleasant Valerie",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3489,
+            3505
+          ],
+          "text": "pleasant Valerie"
+        }
+      ]
+    },
+    {
+      "score": 0.26126,
+      "sentence": "The last time anyone saw rows and pleasant Valerie's mother was seven years earlier in nineteen ninety two Roseanne's brother didn't believe his sister had anything to do with Valerie's disappearance he pointed the finger squarely at Brad we believe.",
+      "type": "siblingOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roseanne pleasant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3562,
+            3570
+          ],
+          "text": "Roseanne"
+        },
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3573,
+            3580
+          ],
+          "text": "brother"
+        }
+      ]
+    },
+    {
+      "score": 0.587108,
+      "sentence": "The last time anyone saw rows and pleasant Valerie's mother was seven years earlier in nineteen ninety two Roseanne's brother didn't believe his sister had anything to do with Valerie's disappearance he pointed the finger squarely at Brad we believe.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Roseanne pleasant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3562,
+            3570
+          ],
+          "text": "Roseanne"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3694,
+            3696
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.238586,
+      "sentence": "The last time anyone saw rows and pleasant Valerie's mother was seven years earlier in nineteen ninety two Roseanne's brother didn't believe his sister had anything to do with Valerie's disappearance he pointed the finger squarely at Brad we believe.",
+      "type": "siblingOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3596,
+            3599
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3600,
+            3606
+          ],
+          "text": "sister"
+        }
+      ]
+    },
+    {
+      "score": 0.257297,
+      "sentence": "She was scared to death of rats in my last conversation with my sister she said she feared for her life she said Brad had some life around and what is lye used for at that time Brad worked on scene at.",
+      "type": "siblingOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13982,
+            13984
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13985,
+            13991
+          ],
+          "text": "sister"
+        }
+      ]
+    },
+    {
+      "score": 0.816713,
+      "sentence": "The last time anyone saw rows and pleasant Valerie's mother was seven years earlier in nineteen ninety two Roseanne's brother didn't believe his sister had anything to do with Valerie's disappearance he pointed the finger squarely at Brad we believe.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3600,
+            3606
+          ],
+          "text": "sister"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3694,
+            3696
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.697848,
+      "sentence": "The last time anyone saw rows and pleasant Valerie's mother was seven years earlier in nineteen ninety two Roseanne's brother didn't believe his sister had anything to do with Valerie's disappearance he pointed the finger squarely at Brad we believe.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3631,
+            3638
+          ],
+          "text": "Valerie"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3694,
+            3696
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.991119,
+      "sentence": "The last time anyone saw rows and pleasant Valerie's mother was seven years earlier in nineteen ninety two Roseanne's brother didn't believe his sister had anything to do with Valerie's disappearance he pointed the finger squarely at Brad we believe.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3655,
+            3657
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "pointed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3658,
+            3665
+          ],
+          "text": "pointed"
+        }
+      ]
+    },
+    {
+      "score": 0.424675,
+      "sentence": "The search for her whereabouts included almost every neighborhood and the area's mountain and forest regions.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "regions",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            190,
+            197
+          ],
+          "text": "regions"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            163,
+            167
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.682809,
+      "sentence": "The last time anyone saw rows and pleasant Valerie's mother was seven years earlier in nineteen ninety two Roseanne's brother didn't believe his sister had anything to do with Valerie's disappearance he pointed the finger squarely at Brad we believe.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3689,
+            3693
+          ],
+          "text": "Brad"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3694,
+            3696
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.696557,
+      "sentence": "That he had sold one to put on a few ring to get money he was raising money for a reward so we felt that once the money got high enough that he would pay someone offer he had he had drug problems with it now.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3761,
+            3763
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3798,
+            3800
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.691818,
+      "sentence": "Detectives searched a Jackson home for clues.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3937,
+            3944
+          ],
+          "text": "Jackson"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3945,
+            3949
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.988102,
+      "sentence": "Brad Jackson told police that Valerie had a nose bleed the night before she disappeared.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4016,
+            4028
+          ],
+          "text": "Brad Jackson"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4029,
+            4033
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.891025,
+      "sentence": "I didn't know if the barrier I just took a gamble the fact we had found this is down over a week and the fact that she had been found at the time would indicate to me that she probably was underground he was kind of told by detective mats and that look we know you killed their.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7190,
+            7192
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7205,
+            7209
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.976782,
+      "sentence": "Brad Jackson told police that Valerie had a nose bleed the night before she disappeared.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4034,
+            4040
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4029,
+            4033
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.746287,
+      "sentence": "They learned that the normally cheerful little girl was in counseling because of a stressful relationship with the natural order one of her father's girlfriend's.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4321,
+            4327
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4317,
+            4320
+          ],
+          "text": "her"
+        }
+      ]
+    },
+    {
+      "score": 0.572904,
+      "sentence": "At this point that the girl's father was a suspect it made statements to me he knew is being followed by the news media there was neighbors following him all the time he was always having to lose tails he was very paranoid about it.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5734,
+            5740
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5727,
+            5731
+          ],
+          "text": "girl"
+        }
+      ]
+    },
+    {
+      "score": 0.993951,
+      "sentence": "The net and Valerie argued frequently and fought.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4356,
+            4363
+          ],
+          "text": "Valerie"
+        },
+        {
+          "entities": [
+            {
+              "text": "argued",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4364,
+            4370
+          ],
+          "text": "argued"
+        }
+      ]
+    },
+    {
+      "score": 0.495351,
+      "sentence": "And forensic scientists found something else Valerie's.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4555,
+            4562
+          ],
+          "text": "Valerie"
+        },
+        {
+          "entities": [
+            {
+              "text": "forensic scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4514,
+            4533
+          ],
+          "text": "forensic scientists"
+        }
+      ]
+    },
+    {
+      "score": 0.525867,
+      "sentence": "They were identified as pubic hair and appeared to be similar to Brad Jackson's but the care can be transferred from room to room on socks.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4646,
+            4658
+          ],
+          "text": "Brad Jackson"
+        },
+        {
+          "entities": [
+            {
+              "text": "transferred",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            4681,
+            4692
+          ],
+          "text": "transferred"
+        }
+      ]
+    },
+    {
+      "score": 0.505305,
+      "sentence": "Police also thought it was odd that Brad Jackson was able to recall much more about Valerie's clothing on the day she disappeared than most parents would usually remember.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4825,
+            4837
+          ],
+          "text": "Brad Jackson"
+        },
+        {
+          "entities": [
+            {
+              "text": "Parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4929,
+            4936
+          ],
+          "text": "parents"
+        }
+      ]
+    },
+    {
+      "score": 0.510186,
+      "sentence": "Police also thought it was odd that Brad Jackson was able to recall much more about Valerie's clothing on the day she disappeared than most parents would usually remember.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4903,
+            4906
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "Parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4929,
+            4936
+          ],
+          "text": "parents"
+        }
+      ]
+    },
+    {
+      "score": 0.684065,
+      "sentence": "The search for her whereabouts included almost every neighborhood and the area's mountain and forest regions.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "regions",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            190,
+            197
+          ],
+          "text": "regions"
+        },
+        {
+          "entities": [
+            {
+              "text": "forest",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            183,
+            189
+          ],
+          "text": "forest"
+        }
+      ]
+    },
+    {
+      "score": 0.560165,
+      "sentence": "Brother or sister two weeks after Valerie disappeared residents of the Spokane valley held a candlelight vigil praying for her safe return.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "residents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5618,
+            5627
+          ],
+          "text": "residents"
+        },
+        {
+          "entities": [
+            {
+              "text": "Spokane Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5635,
+            5649
+          ],
+          "text": "Spokane valley"
+        }
+      ]
+    },
+    {
+      "score": 0.436405,
+      "sentence": "At this point that the girl's father was a suspect it made statements to me he knew is being followed by the news media there was neighbors following him all the time he was always having to lose tails he was very paranoid about it.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5747,
+            5754
+          ],
+          "text": "suspect"
+        },
+        {
+          "entities": [
+            {
+              "text": "it",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5755,
+            5757
+          ],
+          "text": "it"
+        }
+      ]
+    },
+    {
+      "score": 0.467284,
+      "sentence": "When police searched Jackson's car and truck for evidence they left something in the side of each vehicle.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6050,
+            6057
+          ],
+          "text": "Jackson"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            6060,
+            6063
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.60978,
+      "sentence": "Four days later Jackson drove five minutes away from his home to another deserted location on the car he wrote.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7762,
+            7769
+          ],
+          "text": "Jackson"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            7844,
+            7847
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.557314,
+      "sentence": "Four days later Jackson drove five minutes away from his home to another deserted location on the car he wrote.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7848,
+            7850
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            7844,
+            7847
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.922005,
+      "sentence": "Four days later Jackson went to the car he rode gravesite removed Valerie's body and made the one hour journey back to the logging site where he placed her in a deeper grave.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11840,
+            11847
+          ],
+          "text": "Jackson"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11860,
+            11863
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.536133,
+      "sentence": "Four days later Jackson went to the car he rode gravesite removed Valerie's body and made the one hour journey back to the logging site where he placed her in a deeper grave.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11864,
+            11866
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11860,
+            11863
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.533003,
+      "sentence": "When police searched Jackson's car and truck for evidence they left something in the side of each vehicle.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6050,
+            6057
+          ],
+          "text": "Jackson"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighbors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6087,
+            6091
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.665116,
+      "sentence": "After the GPS transmitters were hidden in Jackson's vehicles detective Madison took a calculated risk he confronted Jackson with his suspicion that he had murdered his own daughter.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "transmitters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6821,
+            6833
+          ],
+          "text": "transmitters"
+        },
+        {
+          "entities": [
+            {
+              "text": "GPS",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6817,
+            6820
+          ],
+          "text": "GPS"
+        }
+      ]
+    },
+    {
+      "score": 0.752734,
+      "sentence": "After the GPS transmitters were hidden in Jackson's vehicles detective Madison took a calculated risk he confronted Jackson with his suspicion that he had murdered his own daughter.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "transmitters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6821,
+            6833
+          ],
+          "text": "transmitters"
+        },
+        {
+          "entities": [
+            {
+              "text": "satellites",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            6859,
+            6867
+          ],
+          "text": "vehicles"
+        }
+      ]
+    },
+    {
+      "score": 0.776952,
+      "sentence": "After the GPS transmitters were hidden in Jackson's vehicles detective Madison took a calculated risk he confronted Jackson with his suspicion that he had murdered his own daughter.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6849,
+            6856
+          ],
+          "text": "Jackson"
+        },
+        {
+          "entities": [
+            {
+              "text": "satellites",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            6859,
+            6867
+          ],
+          "text": "vehicles"
+        }
+      ]
+    },
+    {
+      "score": 0.901368,
+      "sentence": "After the GPS transmitters were hidden in Jackson's vehicles detective Madison took a calculated risk he confronted Jackson with his suspicion that he had murdered his own daughter.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "satellites",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            6859,
+            6867
+          ],
+          "text": "vehicles"
+        },
+        {
+          "entities": [
+            {
+              "text": "Madison",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6878,
+            6885
+          ],
+          "text": "Madison"
+        }
+      ]
+    },
+    {
+      "score": 0.717964,
+      "sentence": "After the GPS transmitters were hidden in Jackson's vehicles detective Madison took a calculated risk he confronted Jackson with his suspicion that he had murdered his own daughter.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6955,
+            6957
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6962,
+            6970
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.918994,
+      "sentence": "But police still needed the Jackson was the one who committed the murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9364,
+            9367
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9382,
+            9388
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.614511,
+      "sentence": "Jackson have you received a copy of the information charging you with one count of murder and first degree Mr Jackson had those two charges one guilty.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13044,
+            13051
+          ],
+          "text": "Jackson"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13127,
+            13133
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.873909,
+      "sentence": "Brad Jackson was found guilty of first degree murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13465,
+            13477
+          ],
+          "text": "Brad Jackson"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13511,
+            13517
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.465505,
+      "sentence": "After the GPS transmitters were hidden in Jackson's vehicles detective Madison took a calculated risk he confronted Jackson with his suspicion that he had murdered his own daughter.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6979,
+            6987
+          ],
+          "text": "daughter"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6962,
+            6970
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.304966,
+      "sentence": "Many residents looking to raise a family settle several miles east of the city in the Spokane valley where the schools are good crime is a low and families feel safe.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "east",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            446,
+            450
+          ],
+          "text": "east"
+        },
+        {
+          "entities": [
+            {
+              "text": "Spokane Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            458,
+            462
+          ],
+          "text": "city"
+        }
+      ]
+    },
+    {
+      "score": 0.741328,
+      "sentence": "The GPS system revealed that Jackson had driven sixty miles away to a remote locking site and spent the next forty four minutes there.",
+      "type": "productOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "system",
+              "type": "Product"
+            }
+          ],
+          "location": [
+            7619,
+            7625
+          ],
+          "text": "system"
+        },
+        {
+          "entities": [
+            {
+              "text": "GPS",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7615,
+            7618
+          ],
+          "text": "GPS"
+        }
+      ]
+    },
+    {
+      "score": 0.70323,
+      "sentence": "A few weeks later while under the surveillance of the GPS system Jackson drove an hour away to a deserted logging site where he spent the next forty four minutes presumably digging a deeper grave.",
+      "type": "productOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "system",
+              "type": "Product"
+            }
+          ],
+          "location": [
+            11685,
+            11691
+          ],
+          "text": "system"
+        },
+        {
+          "entities": [
+            {
+              "text": "GPS",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11681,
+            11684
+          ],
+          "text": "GPS"
+        }
+      ]
+    },
+    {
+      "score": 0.69428,
+      "sentence": "Four days later Jackson drove five minutes away from his home to another deserted location on the car he wrote.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7799,
+            7802
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7803,
+            7807
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.990828,
+      "sentence": "Four days later Jackson drove five minutes away from his home to another deserted location on the car he wrote.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7848,
+            7850
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7851,
+            7856
+          ],
+          "text": "wrote"
+        }
+      ]
+    },
+    {
+      "score": 0.692065,
+      "sentence": "And I just crashed.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8767,
+            8768
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "crashed",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            8774,
+            8781
+          ],
+          "text": "crashed"
+        }
+      ]
+    },
+    {
+      "score": 0.810249,
+      "sentence": "To the ground I went down I couldn't feel anything I confirm my legs my arms nothing.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8852,
+            8854
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "arms",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            8855,
+            8859
+          ],
+          "text": "arms"
+        }
+      ]
+    },
+    {
+      "score": 0.416631,
+      "sentence": "Investigators now had an avalanche of forensic evidence the plastic bags with the same brand as dozens found in Jackson's kitchen and traces of Valerie's blood were found inside.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9065,
+            9072
+          ],
+          "text": "Jackson"
+        },
+        {
+          "entities": [
+            {
+              "text": "kitchen",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9075,
+            9082
+          ],
+          "text": "kitchen"
+        }
+      ]
+    },
+    {
+      "score": 0.502227,
+      "sentence": "The duct tape in the grave matched a role in Jackson's basement.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9177,
+            9184
+          ],
+          "text": "Jackson"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9187,
+            9195
+          ],
+          "text": "basement"
+        }
+      ]
+    },
+    {
+      "score": 0.500877,
+      "sentence": "We'Re here to assist any law enforcement agency state local or other federal agency you have a case of a child abduction or child homicide although we're extremely busy this kind of case it goes to finalize.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9729,
+            9732
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "federal agency",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9714,
+            9728
+          ],
+          "text": "federal agency"
+        }
+      ]
+    },
+    {
+      "score": 0.869394,
+      "sentence": "We'Re here to assist any law enforcement agency state local or other federal agency you have a case of a child abduction or child homicide although we're extremely busy this kind of case it goes to finalize.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9750,
+            9755
+          ],
+          "text": "child"
+        },
+        {
+          "entities": [
+            {
+              "text": "abduction",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            9756,
+            9765
+          ],
+          "text": "abduction"
+        }
+      ]
+    },
+    {
+      "score": 0.909297,
+      "sentence": "And Valerie Jackson's autopsy the medical examiners found no evidence of sexual abuse but discovered bruising around her face and knows which solve the mystery of how she was murdered the pillow that was found in her room had two blood spots on it which were consistent with a pole be impressed over someone's face in the blood draining from the nose there.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10448,
+            10451
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10456,
+            10464
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.72652,
+      "sentence": "Jackson have you received a copy of the information charging you with one count of murder and first degree Mr Jackson had those two charges one guilty.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13105,
+            13108
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13127,
+            13133
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.487723,
+      "sentence": "Many residents looking to raise a family settle several miles east of the city in the Spokane valley where the schools are good crime is a low and families feel safe.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "schools",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            495,
+            502
+          ],
+          "text": "schools"
+        },
+        {
+          "entities": [
+            {
+              "text": "Spokane Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            485,
+            490
+          ],
+          "text": "where"
+        }
+      ]
+    },
+    {
+      "score": 0.729217,
+      "sentence": "And Valerie Jackson's autopsy the medical examiners found no evidence of sexual abuse but discovered bruising around her face and knows which solve the mystery of how she was murdered the pillow that was found in her room had two blood spots on it which were consistent with a pole be impressed over someone's face in the blood draining from the nose there.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10456,
+            10464
+          ],
+          "text": "murdered"
+        },
+        {
+          "entities": [
+            {
+              "text": "room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10498,
+            10502
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.286075,
+      "sentence": "And Valerie Jackson's autopsy the medical examiners found no evidence of sexual abuse but discovered bruising around her face and knows which solve the mystery of how she was murdered the pillow that was found in her room had two blood spots on it which were consistent with a pole be impressed over someone's face in the blood draining from the nose there.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10494,
+            10497
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10498,
+            10502
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.690644,
+      "sentence": "And convincing a jury that a parent could actually kill their their own child.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "jury",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10755,
+            10759
+          ],
+          "text": "jury"
+        },
+        {
+          "entities": [
+            {
+              "text": "convincing",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10742,
+            10752
+          ],
+          "text": "convincing"
+        }
+      ]
+    },
+    {
+      "score": 0.575716,
+      "sentence": "And convincing a jury that a parent could actually kill their their own child.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parent",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10767,
+            10773
+          ],
+          "text": "parent"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            10789,
+            10793
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.548708,
+      "sentence": "And convincing a jury that a parent could actually kill their their own child.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10794,
+            10799
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            10789,
+            10793
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.372941,
+      "sentence": "And convincing a jury that a parent could actually kill their their own child.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10810,
+            10815
+          ],
+          "text": "child"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            10789,
+            10793
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.406094,
+      "sentence": "And convincing a jury that a parent could actually kill their their own child.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10800,
+            10805
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10810,
+            10815
+          ],
+          "text": "child"
+        }
+      ]
+    },
+    {
+      "score": 0.705278,
+      "sentence": "Almost a year after Valerie Jackson disappeared her father went on trial for murder.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10981,
+            10987
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10977,
+            10980
+          ],
+          "text": "her"
+        }
+      ]
+    },
+    {
+      "score": 0.829634,
+      "sentence": "Almost a year after Valerie Jackson disappeared her father went on trial for murder.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10981,
+            10987
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10996,
+            11001
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.764188,
+      "sentence": "Almost a year after Valerie Jackson disappeared her father went on trial for murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10981,
+            10987
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11006,
+            11012
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.670555,
+      "sentence": "Brad Jackson a truck driver and his daughter Valerie lived here in the home they shared with Brad's parents.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            551,
+            563
+          ],
+          "text": "Brad Jackson"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            566,
+            571
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.488907,
+      "sentence": "Led to Valerie's grave by a GPS tracking system prosecutors were now able to piece together the events of Valerie's murder.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11120,
+            11127
+          ],
+          "text": "Valerie"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11130,
+            11136
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.621975,
+      "sentence": "Jackson drove Valerie's body to the Bukhari road side just five minutes away an area he knew from hunting.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11467,
+            11474
+          ],
+          "text": "Valerie"
+        },
+        {
+          "entities": [
+            {
+              "text": "Bukhari road",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11489,
+            11501
+          ],
+          "text": "Bukhari road"
+        }
+      ]
+    },
+    {
+      "score": 0.899946,
+      "sentence": "Jackson drove Valerie's body to the Bukhari road side just five minutes away an area he knew from hunting.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11477,
+            11481
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "Bukhari road",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11489,
+            11501
+          ],
+          "text": "Bukhari road"
+        }
+      ]
+    },
+    {
+      "score": 0.98507,
+      "sentence": "After he returned he called police to report his daughter missing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11578,
+            11580
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11581,
+            11587
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.52182,
+      "sentence": "After he returned he called police to report his daughter missing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11578,
+            11580
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11598,
+            11604
+          ],
+          "text": "report"
+        }
+      ]
+    },
+    {
+      "score": 0.935383,
+      "sentence": "After he returned he called police to report his daughter missing.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11588,
+            11594
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11581,
+            11587
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.516623,
+      "sentence": "After he returned he called police to report his daughter missing.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11609,
+            11617
+          ],
+          "text": "daughter"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11598,
+            11604
+          ],
+          "text": "report"
+        }
+      ]
+    },
+    {
+      "score": 0.334348,
+      "sentence": "Four days later Jackson went to the car he rode gravesite removed Valerie's body and made the one hour journey back to the logging site where he placed her in a deeper grave.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Valerie Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11890,
+            11897
+          ],
+          "text": "Valerie"
+        },
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11900,
+            11904
+          ],
+          "text": "body"
+        }
+      ]
+    },
+    {
+      "score": 0.995262,
+      "sentence": "Astonishingly the Global Positioning System revealed the answer Jackson repeatedly drove by the home of his former girlfriend the net Schroeder as he went to and from the grave site.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Global Positioning System",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12058,
+            12083
+          ],
+          "text": "Global Positioning System"
+        },
+        {
+          "entities": [
+            {
+              "text": "revealed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12084,
+            12092
+          ],
+          "text": "revealed"
+        }
+      ]
+    },
+    {
+      "score": 0.470131,
+      "sentence": "Astonishingly the Global Positioning System revealed the answer Jackson repeatedly drove by the home of his former girlfriend the net Schroeder as he went to and from the grave site.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Jackson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12104,
+            12111
+          ],
+          "text": "Jackson"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12136,
+            12140
+          ],
+          "text": "home"
+        }
+      ]
+    }
+  ]
+}

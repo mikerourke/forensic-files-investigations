@@ -1,0 +1,3697 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 14533,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Craig Piper",
+      "relevance": 0.949473,
+      "confidence": 0.999963,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "eleven years",
+      "relevance": 0.770679,
+      "confidence": 0.992,
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Tennessee",
+      "relevance": 0.718299,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Doug fees",
+      "relevance": 0.651186,
+      "confidence": 0.980761,
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "one month",
+      "relevance": 0.641578,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "sixty fifth",
+      "relevance": 0.630858,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three hundred ninety two gallons",
+      "relevance": 0.612109,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Mike Tripp",
+      "relevance": 0.588587,
+      "confidence": 0.998164,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "fourteen year",
+      "relevance": 0.587551,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three foot",
+      "relevance": 0.563981,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Doug Ducey",
+      "relevance": 0.560273,
+      "confidence": 1,
+      "count": 2,
+      "disambiguation": {
+        "name": "Doug_Ducey",
+        "dbpedia_resource": "http://dbpedia.org/resource/Doug_Ducey"
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "nineteen ninety thirty year",
+      "relevance": 0.552854,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "wasi river",
+      "relevance": 0.524052,
+      "confidence": 0.956447,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Chattanooga",
+      "relevance": 0.519092,
+      "confidence": 0.988162,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Knoxville",
+      "relevance": 0.506706,
+      "confidence": 0.999752,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "three days",
+      "relevance": 0.472561,
+      "confidence": 0.992,
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "mill",
+      "relevance": 0.443798,
+      "confidence": 0.99968,
+      "count": 5
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty four hours",
+      "relevance": 0.442591,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "sixty degrees",
+      "relevance": 0.401989,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Great Smoky Mountains",
+      "relevance": 0.401218,
+      "confidence": 0.623115,
+      "count": 1,
+      "disambiguation": {
+        "name": "Great_Smoky_Mountains",
+        "dbpedia_resource": "http://dbpedia.org/resource/Great_Smoky_Mountains",
+        "subtype": [
+          "Location",
+          "MountainRange"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty degree",
+      "relevance": 0.399479,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Cumberland",
+      "relevance": 0.342195,
+      "confidence": 0.760744,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "four months",
+      "relevance": 0.323245,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ten million gallons",
+      "relevance": 0.315181,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "five million gallons",
+      "relevance": 0.3038,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "six years",
+      "relevance": 0.297737,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Curtis",
+      "relevance": 0.240408,
+      "confidence": 0.999988,
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "twelve years",
+      "relevance": 0.235511,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Harvard University",
+      "relevance": 0.217914,
+      "confidence": 0.87939,
+      "count": 1,
+      "disambiguation": {
+        "name": "Harvard_University",
+        "dbpedia_resource": "http://dbpedia.org/resource/Harvard_University",
+        "subtype": [
+          "Location",
+          "CollegeUniversity",
+          "University"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "North America",
+      "relevance": 0.200659,
+      "confidence": 0.94185,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Doug",
+      "relevance": 0.195924,
+      "confidence": 0.991018,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Davis",
+      "relevance": 0.194499,
+      "confidence": 0.998892,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "thirteen year",
+      "relevance": 0.181336,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Randall McKeon",
+      "relevance": 0.166974,
+      "confidence": 0.999453,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Judith McKee",
+      "relevance": 0.161966,
+      "confidence": 0.998835,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Goldwater",
+      "relevance": 0.158046,
+      "confidence": 0.937283,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr George McNeill",
+      "relevance": 0.136567,
+      "confidence": 0.981337,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mike Curtis",
+      "relevance": 0.136127,
+      "confidence": 0.999143,
+      "count": 1,
+      "disambiguation": {
+        "name": "Mike_Curtis_%28Alabama_politician%29",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mike_Curtis_%28Alabama_politician%29"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "beau waters",
+      "relevance": 0.132701,
+      "confidence": 0.795792,
+      "count": 1,
+      "disambiguation": {
+        "name": "Beau_Waters",
+        "dbpedia_resource": "http://dbpedia.org/resource/Beau_Waters",
+        "subtype": [
+          "Athlete",
+          "FootballPlayer"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "ninety percent",
+      "relevance": 0.088285,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Lee",
+      "relevance": 0.079837,
+      "confidence": 0.964029,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eight hundred thousand dollars",
+      "relevance": 0.075441,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "four million dollar",
+      "relevance": 0.072339,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mike",
+      "relevance": 0.071324,
+      "confidence": 0.995731,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one percent",
+      "relevance": 0.065896,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three years",
+      "relevance": 0.05326,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eleven million dollars",
+      "relevance": 0.052277,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Denver",
+      "relevance": 0.051279,
+      "confidence": 0.999195,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Calhoun",
+      "relevance": 0.045999,
+      "confidence": 0.540348,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/science/weather",
+      "score": 0.788214
+    },
+    {
+      "label": "/automotive and vehicles",
+      "score": 0.698866
+    },
+    {
+      "label": "/automotive and vehicles/auto parts",
+      "score": 0.695448
+    },
+    {
+      "label": "/automotive and vehicles/cars/car culture",
+      "score": 0.688508
+    },
+    {
+      "label": "/business and industrial/energy",
+      "score": 0.661463
+    },
+    {
+      "label": "/business and industrial/business operations",
+      "score": 0.647844
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.633047
+    },
+    {
+      "label": "/automotive and vehicles/vehicle brands",
+      "score": 0.620959
+    },
+    {
+      "label": "/business and industrial/green solutions",
+      "score": 0.620806
+    },
+    {
+      "label": "/business and industrial/business operations/business plans",
+      "score": 0.594867
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.895181,
+      "sentence": "With the explosions the smell of smoke and the smell of burning flesh people screaming it was the single most deadly automobile accidents in American history.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            70,
+            76
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            128,
+            137
+          ],
+          "text": "accidents"
+        }
+      ]
+    },
+    {
+      "score": 0.798141,
+      "sentence": "All of the accidents had one thing in common the sudden appearance of the dance the fog reducing visibility to near zero Tennessee state highway officials responded by installing fog warning lights to warn drivers when father was in the area highway patrol officers were posted to stand watch every morning along the fog prone area to make sure drivers slow down when the fog warning lights were activated.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "highway officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1387,
+            1404
+          ],
+          "text": "highway officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "responded",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1405,
+            1414
+          ],
+          "text": "responded"
+        }
+      ]
+    },
+    {
+      "score": 0.198726,
+      "sentence": "All of the accidents had one thing in common the sudden appearance of the dance the fog reducing visibility to near zero Tennessee state highway officials responded by installing fog warning lights to warn drivers when father was in the area highway patrol officers were posted to stand watch every morning along the fog prone area to make sure drivers slow down when the fog warning lights were activated.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1469,
+            1475
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "officers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1456,
+            1463
+          ],
+          "text": "drivers"
+        }
+      ]
+    },
+    {
+      "score": 0.486903,
+      "sentence": "As a roll down the window I could hear the cars crashing into each other one after another motor home hit the front end of my throat after just seconds after I had gotten out in a vehicle story hidden in the back of it I'll never forget hearing one he hit other cars and just knock them out awhile October nothing came crashing just to the right of that motor home the explosion was such that it almost knocked me down.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2115,
+            2117
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "officers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2148,
+            2152
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.448228,
+      "sentence": "All of the accidents had one thing in common the sudden appearance of the dance the fog reducing visibility to near zero Tennessee state highway officials responded by installing fog warning lights to warn drivers when father was in the area highway patrol officers were posted to stand watch every morning along the fog prone area to make sure drivers slow down when the fog warning lights were activated.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1456,
+            1463
+          ],
+          "text": "drivers"
+        },
+        {
+          "entities": [
+            {
+              "text": "location",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1487,
+            1491
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.5037,
+      "sentence": "All of the accidents had one thing in common the sudden appearance of the dance the fog reducing visibility to near zero Tennessee state highway officials responded by installing fog warning lights to warn drivers when father was in the area highway patrol officers were posted to stand watch every morning along the fog prone area to make sure drivers slow down when the fog warning lights were activated.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1507,
+            1515
+          ],
+          "text": "officers"
+        },
+        {
+          "entities": [
+            {
+              "text": "location",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1487,
+            1491
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.463441,
+      "sentence": "All of the accidents had one thing in common the sudden appearance of the dance the fog reducing visibility to near zero Tennessee state highway officials responded by installing fog warning lights to warn drivers when father was in the area highway patrol officers were posted to stand watch every morning along the fog prone area to make sure drivers slow down when the fog warning lights were activated.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1469,
+            1475
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "location",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1487,
+            1491
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.715498,
+      "sentence": "All of the accidents had one thing in common the sudden appearance of the dance the fog reducing visibility to near zero Tennessee state highway officials responded by installing fog warning lights to warn drivers when father was in the area highway patrol officers were posted to stand watch every morning along the fog prone area to make sure drivers slow down when the fog warning lights were activated.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "highway patrol",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1492,
+            1506
+          ],
+          "text": "highway patrol"
+        },
+        {
+          "entities": [
+            {
+              "text": "location",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1487,
+            1491
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.357057,
+      "sentence": "All of the accidents had one thing in common the sudden appearance of the dance the fog reducing visibility to near zero Tennessee state highway officials responded by installing fog warning lights to warn drivers when father was in the area highway patrol officers were posted to stand watch every morning along the fog prone area to make sure drivers slow down when the fog warning lights were activated.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1507,
+            1515
+          ],
+          "text": "officers"
+        },
+        {
+          "entities": [
+            {
+              "text": "highway patrol",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1492,
+            1506
+          ],
+          "text": "highway patrol"
+        }
+      ]
+    },
+    {
+      "score": 0.762598,
+      "sentence": "As a roll down the window I could hear the cars crashing into each other one after another motor home hit the front end of my throat after just seconds after I had gotten out in a vehicle story hidden in the back of it I'll never forget hearing one he hit other cars and just knock them out awhile October nothing came crashing just to the right of that motor home the explosion was such that it almost knocked me down.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2115,
+            2117
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2128,
+            2132
+          ],
+          "text": "cars"
+        }
+      ]
+    },
+    {
+      "score": 0.575518,
+      "sentence": "These pictures were taken shortly after the accident when most of the fog had dissipated the vehicles so I don't even know if the customer's vehicles will normally was a pick up truck was three foot in length body still in it after eleven years without a serious accident the killer.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2792,
+            2795
+          ],
+          "text": "fog"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2815,
+            2823
+          ],
+          "text": "vehicles"
+        }
+      ]
+    },
+    {
+      "score": 0.790517,
+      "sentence": "As Mike drove on interstate seventy five on the morning of the accident the sun was so strong he took his jacket off in the car when Curtis approached the funds on the fog warning lights in one direction work working and those in the other direction had been blinking continuously for three days and were ignored.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10783,
+            10786
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10805,
+            10808
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.545746,
+      "sentence": "As a roll down the window I could hear the cars crashing into each other one after another motor home hit the front end of my throat after just seconds after I had gotten out in a vehicle story hidden in the back of it I'll never forget hearing one he hit other cars and just knock them out awhile October nothing came crashing just to the right of that motor home the explosion was such that it almost knocked me down.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2226,
+            2230
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "explosion",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            2235,
+            2244
+          ],
+          "text": "explosion"
+        }
+      ]
+    },
+    {
+      "score": 0.295492,
+      "sentence": "Mike Tripp disposal this fourteen year old boy out of the motor home then rescued the boy's mother and I turned and went back to get our house all I could see was far I could smell her burnt.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Judith McKee",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2378,
+            2384
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "facility",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2350,
+            2354
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.790249,
+      "sentence": "Mike Tripp disposal this fourteen year old boy out of the motor home then rescued the boy's mother and I turned and went back to get our house all I could see was far I could smell her burnt.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Judith McKee",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2378,
+            2384
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2372,
+            2375
+          ],
+          "text": "boy"
+        }
+      ]
+    },
+    {
+      "score": 0.730276,
+      "sentence": "Craig Piper's mother wanted answers and hired attorney Doug fees who's not only a lawyer but also an engineer she wanted fees to find out what caused the terrible fog that was responsible for her son's death she said the two people in that car were killed and that her son had been burned alive in this tractor trailer and was wondering if there was anything that I could do to help her the accident occurred along interstate seventy five at its lowest point in the valley about a half mile from where the interstate crosses the whole wasi river because of its location fog is always been common in this area.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Judith McKee",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3556,
+            3559
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3560,
+            3563
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.708658,
+      "sentence": "Craig Piper's mother wanted answers and hired attorney Doug fees who's not only a lawyer but also an engineer she wanted fees to find out what caused the terrible fog that was responsible for her son's death she said the two people in that car were killed and that her son had been burned alive in this tractor trailer and was wondering if there was anything that I could do to help her the accident occurred along interstate seventy five at its lowest point in the valley about a half mile from where the interstate crosses the whole wasi river because of its location fog is always been common in this area.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Judith McKee",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3629,
+            3632
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3633,
+            3636
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.873267,
+      "sentence": "He helped the young boy caught inside a motor home twelve or thirteen year old boy so I got out his mother was inside screaming the adrenaline was pumping and.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Judith McKee",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11337,
+            11343
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11333,
+            11336
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.704806,
+      "sentence": "I worked for went out and got around after saving the boy and his mother Curtis tried to save the fog.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Judith McKee",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11463,
+            11469
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11459,
+            11462
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.516856,
+      "sentence": "The accident occurred on interstate seventy five in Tennessee on a portion of highway between Chattanooga and Knoxville.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "highway patrol",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            463,
+            470
+          ],
+          "text": "highway"
+        },
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            389,
+            397
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.359644,
+      "sentence": "Mike Tripp disposal this fourteen year old boy out of the motor home then rescued the boy's mother and I turned and went back to get our house all I could see was far I could smell her burnt.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "our",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2419,
+            2422
+          ],
+          "text": "our"
+        },
+        {
+          "entities": [
+            {
+              "text": "facility",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2423,
+            2428
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.374468,
+      "sentence": "These pictures were taken shortly after the accident when most of the fog had dissipated the vehicles so I don't even know if the customer's vehicles will normally was a pick up truck was three foot in length body still in it after eleven years without a serious accident the killer.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2852,
+            2860
+          ],
+          "text": "customer"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2863,
+            2871
+          ],
+          "text": "vehicles"
+        }
+      ]
+    },
+    {
+      "score": 0.847284,
+      "sentence": "But why the families of the dead and injured demanded answers they wanted to know what caused the dance the fog on December eleventh.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "families",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3037,
+            3045
+          ],
+          "text": "families"
+        },
+        {
+          "entities": [
+            {
+              "text": "demanded",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3070,
+            3078
+          ],
+          "text": "demanded"
+        }
+      ]
+    },
+    {
+      "score": 0.641133,
+      "sentence": "On December eleventh nineteen ninety thirty year old Craig Piper was driving his tractor trailer south on interstate seventy five on his way to visit his mother for the holidays.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Judith McKee",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3313,
+            3319
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Craig Piper",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3309,
+            3312
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.567036,
+      "sentence": "Craig Piper's mother wanted answers and hired attorney Doug fees who's not only a lawyer but also an engineer she wanted fees to find out what caused the terrible fog that was responsible for her son's death she said the two people in that car were killed and that her son had been burned alive in this tractor trailer and was wondering if there was anything that I could do to help her the accident occurred along interstate seventy five at its lowest point in the valley about a half mile from where the interstate crosses the whole wasi river because of its location fog is always been common in this area.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Judith McKee",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3378,
+            3384
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Craig Piper",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3364,
+            3375
+          ],
+          "text": "Craig Piper"
+        }
+      ]
+    },
+    {
+      "score": 0.635825,
+      "sentence": "Craig Piper's mother wanted answers and hired attorney Doug fees who's not only a lawyer but also an engineer she wanted fees to find out what caused the terrible fog that was responsible for her son's death she said the two people in that car were killed and that her son had been burned alive in this tractor trailer and was wondering if there was anything that I could do to help her the accident occurred along interstate seventy five at its lowest point in the valley about a half mile from where the interstate crosses the whole wasi river because of its location fog is always been common in this area.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doug Ducey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3410,
+            3418
+          ],
+          "text": "attorney"
+        },
+        {
+          "entities": [
+            {
+              "text": "hired",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            3404,
+            3409
+          ],
+          "text": "hired"
+        }
+      ]
+    },
+    {
+      "score": 0.996931,
+      "sentence": "Craig Piper's mother wanted answers and hired attorney Doug fees who's not only a lawyer but also an engineer she wanted fees to find out what caused the terrible fog that was responsible for her son's death she said the two people in that car were killed and that her son had been burned alive in this tractor trailer and was wondering if there was anything that I could do to help her the accident occurred along interstate seventy five at its lowest point in the valley about a half mile from where the interstate crosses the whole wasi river because of its location fog is always been common in this area.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Judith McKee",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3572,
+            3575
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3576,
+            3580
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.72352,
+      "sentence": "Craig Piper's mother wanted answers and hired attorney Doug fees who's not only a lawyer but also an engineer she wanted fees to find out what caused the terrible fog that was responsible for her son's death she said the two people in that car were killed and that her son had been burned alive in this tractor trailer and was wondering if there was anything that I could do to help her the accident occurred along interstate seventy five at its lowest point in the valley about a half mile from where the interstate crosses the whole wasi river because of its location fog is always been common in this area.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Judith McKee",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3572,
+            3575
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            3604,
+            3607
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.80535,
+      "sentence": "Craig Piper's mother wanted answers and hired attorney Doug fees who's not only a lawyer but also an engineer she wanted fees to find out what caused the terrible fog that was responsible for her son's death she said the two people in that car were killed and that her son had been burned alive in this tractor trailer and was wondering if there was anything that I could do to help her the accident occurred along interstate seventy five at its lowest point in the valley about a half mile from where the interstate crosses the whole wasi river because of its location fog is always been common in this area.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3589,
+            3595
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            3604,
+            3607
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.990743,
+      "sentence": "But the fog described by the accident victims was extremely thick and dense was the fog on the day of the accident naturally produced or was it caused by one or more of the local industries nearby.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4302,
+            4305
+          ],
+          "text": "fog"
+        },
+        {
+          "entities": [
+            {
+              "text": "described",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4306,
+            4315
+          ],
+          "text": "described"
+        }
+      ]
+    },
+    {
+      "score": 0.679807,
+      "sentence": "But the fog described by the accident victims was extremely thick and dense was the fog on the day of the accident naturally produced or was it caused by one or more of the local industries nearby.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victims",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4332,
+            4339
+          ],
+          "text": "victims"
+        },
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            4323,
+            4331
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.678128,
+      "sentence": "dance thank bog described by accident victims and rescue personnel action rotor was convinced there had to be another source of water vapor which caused the fall he noticed a series of ponds which straddled the interstate highway on two sides these were wastewater treatment ponds which belong to the poor water paper plan.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victims",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7760,
+            7767
+          ],
+          "text": "victims"
+        },
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            7751,
+            7759
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.707682,
+      "sentence": "The accident occurred on interstate seventy five in Tennessee on a portion of highway between Chattanooga and Knoxville.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "highway patrol",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            463,
+            470
+          ],
+          "text": "highway"
+        },
+        {
+          "entities": [
+            {
+              "text": "Tennessee",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            437,
+            446
+          ],
+          "text": "Tennessee"
+        }
+      ]
+    },
+    {
+      "score": 0.096179,
+      "sentence": "All those three days there there was some amount of river fog although it was relatively small our own all three days there was a very noticeable emission of fog related.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4550,
+            4553
+          ],
+          "text": "fog"
+        },
+        {
+          "entities": [
+            {
+              "text": "river",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            4544,
+            4549
+          ],
+          "text": "river"
+        }
+      ]
+    },
+    {
+      "score": 0.716686,
+      "sentence": "Water vapor from the from the bow water facility the boe water paper company is located three miles to the east of the interstate highway it is the largest producer of newsprint in North America and releases large quantities of water vapor into the atmosphere twenty four hours a day as part of the manufacturing process when Davis recommended that the state of Tennessee conducted more detailed study in order to understand the cause of the fogging conditions the state decided not to fund the more detailed study but elected to install a fog warning system along the highway and posted state troopers to patrol the fog prone stretch of highway each and every morning for eleven years the system work between nineteen seventy nine and nineteen ninety there were no serious multi vehicle accident along the three mile stretch of interstate seventy five the system work.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "east",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            4770,
+            4774
+          ],
+          "text": "east"
+        },
+        {
+          "entities": [
+            {
+              "text": "highway patrol",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4793,
+            4800
+          ],
+          "text": "highway"
+        }
+      ]
+    },
+    {
+      "score": 0.593478,
+      "sentence": "Water vapor from the from the bow water facility the boe water paper company is located three miles to the east of the interstate highway it is the largest producer of newsprint in North America and releases large quantities of water vapor into the atmosphere twenty four hours a day as part of the manufacturing process when Davis recommended that the state of Tennessee conducted more detailed study in order to understand the cause of the fogging conditions the state decided not to fund the more detailed study but elected to install a fog warning system along the highway and posted state troopers to patrol the fog prone stretch of highway each and every morning for eleven years the system work between nineteen seventy nine and nineteen ninety there were no serious multi vehicle accident along the three mile stretch of interstate seventy five the system work.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "highway patrol",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4793,
+            4800
+          ],
+          "text": "highway"
+        },
+        {
+          "entities": [
+            {
+              "text": "North America",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4844,
+            4857
+          ],
+          "text": "North America"
+        }
+      ]
+    },
+    {
+      "score": 0.997539,
+      "sentence": "Water vapor from the from the bow water facility the boe water paper company is located three miles to the east of the interstate highway it is the largest producer of newsprint in North America and releases large quantities of water vapor into the atmosphere twenty four hours a day as part of the manufacturing process when Davis recommended that the state of Tennessee conducted more detailed study in order to understand the cause of the fogging conditions the state decided not to fund the more detailed study but elected to install a fog warning system along the highway and posted state troopers to patrol the fog prone stretch of highway each and every morning for eleven years the system work between nineteen seventy nine and nineteen ninety there were no serious multi vehicle accident along the three mile stretch of interstate seventy five the system work.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Davis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4989,
+            4994
+          ],
+          "text": "Davis"
+        },
+        {
+          "entities": [
+            {
+              "text": "recommended",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4995,
+            5006
+          ],
+          "text": "recommended"
+        }
+      ]
+    },
+    {
+      "score": 0.835129,
+      "sentence": "Water vapor from the from the bow water facility the boe water paper company is located three miles to the east of the interstate highway it is the largest producer of newsprint in North America and releases large quantities of water vapor into the atmosphere twenty four hours a day as part of the manufacturing process when Davis recommended that the state of Tennessee conducted more detailed study in order to understand the cause of the fogging conditions the state decided not to fund the more detailed study but elected to install a fog warning system along the highway and posted state troopers to patrol the fog prone stretch of highway each and every morning for eleven years the system work between nineteen seventy nine and nineteen ninety there were no serious multi vehicle accident along the three mile stretch of interstate seventy five the system work.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "troopers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5257,
+            5265
+          ],
+          "text": "troopers"
+        },
+        {
+          "entities": [
+            {
+              "text": "state of Tennessee",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5251,
+            5256
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.43075,
+      "sentence": "Water vapor from the from the bow water facility the boe water paper company is located three miles to the east of the interstate highway it is the largest producer of newsprint in North America and releases large quantities of water vapor into the atmosphere twenty four hours a day as part of the manufacturing process when Davis recommended that the state of Tennessee conducted more detailed study in order to understand the cause of the fogging conditions the state decided not to fund the more detailed study but elected to install a fog warning system along the highway and posted state troopers to patrol the fog prone stretch of highway each and every morning for eleven years the system work between nineteen seventy nine and nineteen ninety there were no serious multi vehicle accident along the three mile stretch of interstate seventy five the system work.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "eleven years",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            5336,
+            5348
+          ],
+          "text": "eleven years"
+        },
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            5451,
+            5459
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.357402,
+      "sentence": "Turning down fees wanted to know if the dense fog in the morning of the accident had been produced naturally or was caused by one or more of the local industry or some combination of both.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6023,
+            6026
+          ],
+          "text": "fog"
+        },
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            6049,
+            6057
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.632517,
+      "sentence": "Turning down fees wanted to know if the dense fog in the morning of the accident had been produced naturally or was caused by one or more of the local industry or some combination of both.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "morning",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            6034,
+            6041
+          ],
+          "text": "morning"
+        },
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            6049,
+            6057
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.43545,
+      "sentence": "To find out he hired Dr allocation rotor teachers civil engineering at Harvard University his area of expertise is risk management and he also runs a consulting firm which specializes in air quality modelling engine rotor gathered whether information about the morning of the accident from the Knoxville and Chattanooga airports as well as from two nuclear power plants one only eighteen miles from the sea.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "morning",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            6427,
+            6434
+          ],
+          "text": "morning"
+        },
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            6442,
+            6450
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.425079,
+      "sentence": "Weather records indicated that there were few if any clouds on the morning of the accident winds were light and the temperature drops rapidly the night before from a high of sixty degrees in the afternoon to almost freezing.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "morning",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            6641,
+            6648
+          ],
+          "text": "morning"
+        },
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            6656,
+            6664
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.549343,
+      "sentence": "This thirty degree drop in temperature could cause a weather phenomenon called an inversion and inversion occurs when the temperature on the ground is cooler than the temperature in the atmosphere this prevents air and moisture from dissipating into the atmosphere pushing the moisture back towards the ground very early on the morning of the accident a helicopter pilot flying over interstate seventy five noticed a mushroom shaped cloud similar to this one over the boil water paper mill smokestacks three miles east of the accident site action rotor believes this was visual confirmation of the inversion water vapor is produced naturally coming from the back rations from lakes streams rivers and ground moisture doctor engine rotor calculated that the evaporation rate of the natural bodies of water in the area was only three hundred ninety two gallons per day this was barely enough to create even a light let alone",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "morning",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            7127,
+            7134
+          ],
+          "text": "morning"
+        },
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            7142,
+            7150
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.537264,
+      "sentence": "As Mike drove on interstate seventy five on the morning of the accident the sun was so strong he took his jacket off in the car when Curtis approached the funds on the fog warning lights in one direction work working and those in the other direction had been blinking continuously for three days and were ignored.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "morning",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            10729,
+            10736
+          ],
+          "text": "morning"
+        },
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            10744,
+            10752
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.935923,
+      "sentence": "To find out he hired Dr allocation rotor teachers civil engineering at Harvard University his area of expertise is risk management and he also runs a consulting firm which specializes in air quality modelling engine rotor gathered whether information about the morning of the accident from the Knoxville and Chattanooga airports as well as from two nuclear power plants one only eighteen miles from the sea.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6178,
+            6180
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "hired",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            6181,
+            6186
+          ],
+          "text": "hired"
+        }
+      ]
+    },
+    {
+      "score": 0.699974,
+      "sentence": "To find out he hired Dr allocation rotor teachers civil engineering at Harvard University his area of expertise is risk management and he also runs a consulting firm which specializes in air quality modelling engine rotor gathered whether information about the morning of the accident from the Knoxville and Chattanooga airports as well as from two nuclear power plants one only eighteen miles from the sea.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "teachers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6207,
+            6215
+          ],
+          "text": "teachers"
+        },
+        {
+          "entities": [
+            {
+              "text": "Harvard University",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6237,
+            6255
+          ],
+          "text": "Harvard University"
+        }
+      ]
+    },
+    {
+      "score": 0.846382,
+      "sentence": "The accident occurred on interstate seventy five in Tennessee on a portion of highway between Chattanooga and Knoxville.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "highway patrol",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            463,
+            470
+          ],
+          "text": "highway"
+        },
+        {
+          "entities": [
+            {
+              "text": "Chattanooga",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            479,
+            490
+          ],
+          "text": "Chattanooga"
+        }
+      ]
+    },
+    {
+      "score": 0.748513,
+      "sentence": "To find out he hired Dr allocation rotor teachers civil engineering at Harvard University his area of expertise is risk management and he also runs a consulting firm which specializes in air quality modelling engine rotor gathered whether information about the morning of the accident from the Knoxville and Chattanooga airports as well as from two nuclear power plants one only eighteen miles from the sea.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Knoxville",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6460,
+            6469
+          ],
+          "text": "Knoxville"
+        },
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            6442,
+            6450
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.571387,
+      "sentence": "To find out he hired Dr allocation rotor teachers civil engineering at Harvard University his area of expertise is risk management and he also runs a consulting firm which specializes in air quality modelling engine rotor gathered whether information about the morning of the accident from the Knoxville and Chattanooga airports as well as from two nuclear power plants one only eighteen miles from the sea.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "airports",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6486,
+            6494
+          ],
+          "text": "airports"
+        },
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            6442,
+            6450
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.867127,
+      "sentence": "To find out he hired Dr allocation rotor teachers civil engineering at Harvard University his area of expertise is risk management and he also runs a consulting firm which specializes in air quality modelling engine rotor gathered whether information about the morning of the accident from the Knoxville and Chattanooga airports as well as from two nuclear power plants one only eighteen miles from the sea.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "airports",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6486,
+            6494
+          ],
+          "text": "airports"
+        },
+        {
+          "entities": [
+            {
+              "text": "Chattanooga",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6474,
+            6485
+          ],
+          "text": "Chattanooga"
+        }
+      ]
+    },
+    {
+      "score": 0.425748,
+      "sentence": "This thirty degree drop in temperature could cause a weather phenomenon called an inversion and inversion occurs when the temperature on the ground is cooler than the temperature in the atmosphere this prevents air and moisture from dissipating into the atmosphere pushing the moisture back towards the ground very early on the morning of the accident a helicopter pilot flying over interstate seventy five noticed a mushroom shaped cloud similar to this one over the boil water paper mill smokestacks three miles east of the accident site action rotor believes this was visual confirmation of the inversion water vapor is produced naturally coming from the back rations from lakes streams rivers and ground moisture doctor engine rotor calculated that the evaporation rate of the natural bodies of water in the area was only three hundred ninety two gallons per day this was barely enough to create even a light let alone",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7164,
+            7169
+          ],
+          "text": "pilot"
+        },
+        {
+          "entities": [
+            {
+              "text": "helicopter",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            7153,
+            7163
+          ],
+          "text": "helicopter"
+        }
+      ]
+    },
+    {
+      "score": 0.939896,
+      "sentence": "As a drainage flow which carries cooler air down into the valley but action rotor needed to know in which direction the drainage flow was heading to do that he needed to know the exact position of the airplane using navigational charts calculating the position of the sun from the plant angle on the wing and ground references he identified the plane's position relative to the paper mill in the accident site the video tape and then station road that the drainage flow winds pattern was headed west from the location of the paper mail towards the accident site as to the cause of that accident that day there's no doubt in my mind that the industrial fog created by water missions from that border paper mill was a major factor the major factor preponderance Lee major factor informing the fog that caused the accident.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10032,
+            10034
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "helicopter",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10050,
+            10055
+          ],
+          "text": "plane"
+        }
+      ]
+    },
+    {
+      "score": 0.442529,
+      "sentence": "This thirty degree drop in temperature could cause a weather phenomenon called an inversion and inversion occurs when the temperature on the ground is cooler than the temperature in the atmosphere this prevents air and moisture from dissipating into the atmosphere pushing the moisture back towards the ground very early on the morning of the accident a helicopter pilot flying over interstate seventy five noticed a mushroom shaped cloud similar to this one over the boil water paper mill smokestacks three miles east of the accident site action rotor believes this was visual confirmation of the inversion water vapor is produced naturally coming from the back rations from lakes streams rivers and ground moisture doctor engine rotor calculated that the evaporation rate of the natural bodies of water in the area was only three hundred ninety two gallons per day this was barely enough to create even a light let alone",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "east",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            7313,
+            7317
+          ],
+          "text": "east"
+        },
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            7325,
+            7333
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.474419,
+      "sentence": "This thirty degree drop in temperature could cause a weather phenomenon called an inversion and inversion occurs when the temperature on the ground is cooler than the temperature in the atmosphere this prevents air and moisture from dissipating into the atmosphere pushing the moisture back towards the ground very early on the morning of the accident a helicopter pilot flying over interstate seventy five noticed a mushroom shaped cloud similar to this one over the boil water paper mill smokestacks three miles east of the accident site action rotor believes this was visual confirmation of the inversion water vapor is produced naturally coming from the back rations from lakes streams rivers and ground moisture doctor engine rotor calculated that the evaporation rate of the natural bodies of water in the area was only three hundred ninety two gallons per day this was barely enough to create even a light let alone",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "rivers",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            7489,
+            7495
+          ],
+          "text": "rivers"
+        },
+        {
+          "entities": [
+            {
+              "text": "lakes streams",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            7475,
+            7488
+          ],
+          "text": "lakes streams"
+        }
+      ]
+    },
+    {
+      "score": 0.727861,
+      "sentence": "This thirty degree drop in temperature could cause a weather phenomenon called an inversion and inversion occurs when the temperature on the ground is cooler than the temperature in the atmosphere this prevents air and moisture from dissipating into the atmosphere pushing the moisture back towards the ground very early on the morning of the accident a helicopter pilot flying over interstate seventy five noticed a mushroom shaped cloud similar to this one over the boil water paper mill smokestacks three miles east of the accident site action rotor believes this was visual confirmation of the inversion water vapor is produced naturally coming from the back rations from lakes streams rivers and ground moisture doctor engine rotor calculated that the evaporation rate of the natural bodies of water in the area was only three hundred ninety two gallons per day this was barely enough to create even a light let alone",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bodies",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7588,
+            7594
+          ],
+          "text": "bodies"
+        },
+        {
+          "entities": [
+            {
+              "text": "location",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            7611,
+            7615
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.485877,
+      "sentence": "These plans were used to clean the industrial waste water from the paper mill in two of the ponds air raider fans would propel the water up into the air most of the water drop back into the pond some of it did not that's called drift drift droplets or things that drift away from the site of where they are formed all the other droplets fall back to earth or fall back to the point where they originate so we had to do some original calculations in engineering estimate fashion for admission of those droplets ashen rotor calculated that these wastewater treatment ponds added ten million gallons of water vapor into the atmosphere in the twenty four hours preceding the accident far more than the three hundred ninety two gallons from the natural bodies of water at the paper plant itself an additional one point five million gallons of",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "droplets",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8344,
+            8348
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "location",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            8338,
+            8343
+          ],
+          "text": "where"
+        }
+      ]
+    },
+    {
+      "score": 0.723239,
+      "sentence": "water vapor was being released each day from the smokestacks but it wasn't just water vapor that was being released from the smokestacks paper plants released what are called particular as waste from the paper production process particulates on microscopic particles which becomes surfaces on which water vapor can can dance and this leads to follow not only had the fog potential from the presence of the water vapor but you had a place for it to form in the surfaces of these microparticles is condensation nuclei but how could action rotor tell the water vapor from the Goldwater paper plant three miles away because the fog on the interstate highway on the day of the accident.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "released",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            8991,
+            8999
+          ],
+          "text": "released"
+        },
+        {
+          "entities": [
+            {
+              "text": "plants",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9027,
+            9033
+          ],
+          "text": "plants"
+        }
+      ]
+    },
+    {
+      "score": 0.512209,
+      "sentence": "water vapor was being released each day from the smokestacks but it wasn't just water vapor that was being released from the smokestacks paper plants released what are called particular as waste from the paper production process particulates on microscopic particles which becomes surfaces on which water vapor can can dance and this leads to follow not only had the fog potential from the presence of the water vapor but you had a place for it to form in the surfaces of these microparticles is condensation nuclei but how could action rotor tell the water vapor from the Goldwater paper plant three miles away because the fog on the interstate highway on the day of the accident.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9508,
+            9511
+          ],
+          "text": "fog"
+        },
+        {
+          "entities": [
+            {
+              "text": "highway patrol",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9530,
+            9537
+          ],
+          "text": "highway"
+        }
+      ]
+    },
+    {
+      "score": 0.630954,
+      "sentence": "From the time the highway first opened back in nineteen seventy three they're in the numerous multi vehicle chain reaction accidents in the same three mile section.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victims",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            682,
+            686
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            712,
+            719
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.248919,
+      "sentence": "He found part of the answer on this aerial video tape shot by a local videographer a few hours after the accident action rotor recognized.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hours after",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            9655,
+            9666
+          ],
+          "text": "hours after"
+        },
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            9671,
+            9679
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.801166,
+      "sentence": "As a drainage flow which carries cooler air down into the valley but action rotor needed to know in which direction the drainage flow was heading to do that he needed to know the exact position of the airplane using navigational charts calculating the position of the sun from the plant angle on the wing and ground references he identified the plane's position relative to the paper mill in the accident site the video tape and then station road that the drainage flow winds pattern was headed west from the location of the paper mail towards the accident site as to the cause of that accident that day there's no doubt in my mind that the industrial fog created by water missions from that border paper mill was a major factor the major factor preponderance Lee major factor informing the fog that caused the accident.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9862,
+            9864
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "airplane",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9906,
+            9914
+          ],
+          "text": "airplane"
+        }
+      ]
+    },
+    {
+      "score": 0.343479,
+      "sentence": "As a drainage flow which carries cooler air down into the valley but action rotor needed to know in which direction the drainage flow was heading to do that he needed to know the exact position of the airplane using navigational charts calculating the position of the sun from the plant angle on the wing and ground references he identified the plane's position relative to the paper mill in the accident site the video tape and then station road that the drainage flow winds pattern was headed west from the location of the paper mail towards the accident site as to the cause of that accident that day there's no doubt in my mind that the industrial fog created by water missions from that border paper mill was a major factor the major factor preponderance Lee major factor informing the fog that caused the accident.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            10101,
+            10109
+          ],
+          "text": "accident"
+        },
+        {
+          "entities": [
+            {
+              "text": "location",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            10110,
+            10114
+          ],
+          "text": "site"
+        }
+      ]
+    },
+    {
+      "score": 0.326657,
+      "sentence": "As a drainage flow which carries cooler air down into the valley but action rotor needed to know in which direction the drainage flow was heading to do that he needed to know the exact position of the airplane using navigational charts calculating the position of the sun from the plant angle on the wing and ground references he identified the plane's position relative to the paper mill in the accident site the video tape and then station road that the drainage flow winds pattern was headed west from the location of the paper mail towards the accident site as to the cause of that accident that day there's no doubt in my mind that the industrial fog created by water missions from that border paper mill was a major factor the major factor preponderance Lee major factor informing the fog that caused the accident.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            10253,
+            10261
+          ],
+          "text": "accident"
+        },
+        {
+          "entities": [
+            {
+              "text": "location",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            10262,
+            10266
+          ],
+          "text": "site"
+        }
+      ]
+    },
+    {
+      "score": 0.664956,
+      "sentence": "Curtis heard crashes people crying for help the explosions and nailed down and ask god to help.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mike Curtis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11141,
+            11147
+          ],
+          "text": "Curtis"
+        },
+        {
+          "entities": [
+            {
+              "text": "ask",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11220,
+            11223
+          ],
+          "text": "ask"
+        }
+      ]
+    },
+    {
+      "score": 0.72938,
+      "sentence": "Curtis heard crashes people crying for help the explosions and nailed down and ask god to help.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11162,
+            11168
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "crashes",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            11154,
+            11161
+          ],
+          "text": "crashes"
+        }
+      ]
+    },
+    {
+      "score": 0.849218,
+      "sentence": "Curtis heard crashes people crying for help the explosions and nailed down and ask god to help.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11162,
+            11168
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "explosions",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11189,
+            11199
+          ],
+          "text": "explosions"
+        }
+      ]
+    },
+    {
+      "score": 0.373632,
+      "sentence": "He helped the young boy caught inside a motor home twelve or thirteen year old boy so I got out his mother was inside screaming the adrenaline was pumping and.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "thirteen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11298,
+            11306
+          ],
+          "text": "thirteen"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11283,
+            11287
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.306474,
+      "sentence": "He helped the young boy caught inside a motor home twelve or thirteen year old boy so I got out his mother was inside screaming the adrenaline was pumping and.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11316,
+            11319
+          ],
+          "text": "boy"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11283,
+            11287
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.436742,
+      "sentence": "He helped the young boy caught inside a motor home twelve or thirteen year old boy so I got out his mother was inside screaming the adrenaline was pumping and.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11316,
+            11319
+          ],
+          "text": "boy"
+        },
+        {
+          "entities": [
+            {
+              "text": "thirteen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11298,
+            11306
+          ],
+          "text": "thirteen"
+        }
+      ]
+    },
+    {
+      "score": 0.730403,
+      "sentence": "He helped the young boy caught inside a motor home twelve or thirteen year old boy so I got out his mother was inside screaming the adrenaline was pumping and.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Judith McKee",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11337,
+            11343
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "thirteen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11298,
+            11306
+          ],
+          "text": "thirteen"
+        }
+      ]
+    },
+    {
+      "score": 0.792736,
+      "sentence": "From the time the highway first opened back in nineteen seventy three they're in the numerous multi vehicle chain reaction accidents in the same three mile section.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            712,
+            719
+          ],
+          "text": "vehicle"
+        },
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            735,
+            744
+          ],
+          "text": "accidents"
+        }
+      ]
+    },
+    {
+      "score": 0.9213,
+      "sentence": "Just one month later there was a nine car accident although there were no deaths nine were injured.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            937,
+            940
+          ],
+          "text": "car"
+        },
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            941,
+            949
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.850812,
+      "sentence": "During the first six years the highway was open there was an average of one multi car accidents each year.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1081,
+            1084
+          ],
+          "text": "car"
+        },
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            1085,
+            1094
+          ],
+          "text": "accidents"
+        }
+      ]
+    },
+    {
+      "score": 0.940084,
+      "sentence": "As a roll down the window I could hear the cars crashing into each other one after another motor home hit the front end of my throat after just seconds after I had gotten out in a vehicle story hidden in the back of it I'll never forget hearing one he hit other cars and just knock them out awhile October nothing came crashing just to the right of that motor home the explosion was such that it almost knocked me down.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1909,
+            1913
+          ],
+          "text": "cars"
+        },
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            1914,
+            1922
+          ],
+          "text": "crashing"
+        }
+      ]
+    },
+    {
+      "score": 0.952338,
+      "sentence": "Water vapor from the from the bow water facility the boe water paper company is located three miles to the east of the interstate highway it is the largest producer of newsprint in North America and releases large quantities of water vapor into the atmosphere twenty four hours a day as part of the manufacturing process when Davis recommended that the state of Tennessee conducted more detailed study in order to understand the cause of the fogging conditions the state decided not to fund the more detailed study but elected to install a fog warning system along the highway and posted state troopers to patrol the fog prone stretch of highway each and every morning for eleven years the system work between nineteen seventy nine and nineteen ninety there were no serious multi vehicle accident along the three mile stretch of interstate seventy five the system work.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "vehicles",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            5443,
+            5450
+          ],
+          "text": "vehicle"
+        },
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            5451,
+            5459
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.776548,
+      "sentence": "Doug Ducey's case was set for trial in nineteen ninety four more than three years after the accident water disagreed with the scientific calculations used in the action rotor study and hired its own scientific expert Dr George McNeill is a meteorologist from Denver his study concluded that beau waters contribution to the fog on the day of the accident was less than one percent our conclusion was that the fog formed by a natural process do the mixing of moist air at different altitudes at.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doug Ducey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11916,
+            11926
+          ],
+          "text": "Doug Ducey"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11929,
+            11933
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.586192,
+      "sentence": "Doug Ducey's case was set for trial in nineteen ninety four more than three years after the accident water disagreed with the scientific calculations used in the action rotor study and hired its own scientific expert Dr George McNeill is a meteorologist from Denver his study concluded that beau waters contribution to the fog on the day of the accident was less than one percent our conclusion was that the fog formed by a natural process do the mixing of moist air at different altitudes at.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "three years",
+              "type": "Duration"
+            }
+          ],
+          "location": [
+            11986,
+            11997
+          ],
+          "text": "three years"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11946,
+            11951
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.622496,
+      "sentence": "Doug Ducey's case was set for trial in nineteen ninety four more than three years after the accident water disagreed with the scientific calculations used in the action rotor study and hired its own scientific expert Dr George McNeill is a meteorologist from Denver his study concluded that beau waters contribution to the fog on the day of the accident was less than one percent our conclusion was that the fog formed by a natural process do the mixing of moist air at different altitudes at.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George McNeill",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12126,
+            12132
+          ],
+          "text": "expert"
+        },
+        {
+          "entities": [
+            {
+              "text": "its",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12107,
+            12110
+          ],
+          "text": "its"
+        }
+      ]
+    },
+    {
+      "score": 0.7446,
+      "sentence": "Doug Ducey's case was set for trial in nineteen ninety four more than three years after the accident water disagreed with the scientific calculations used in the action rotor study and hired its own scientific expert Dr George McNeill is a meteorologist from Denver his study concluded that beau waters contribution to the fog on the day of the accident was less than one percent our conclusion was that the fog formed by a natural process do the mixing of moist air at different altitudes at.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George McNeill",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12156,
+            12169
+          ],
+          "text": "meteorologist"
+        },
+        {
+          "entities": [
+            {
+              "text": "Denver",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12175,
+            12181
+          ],
+          "text": "Denver"
+        }
+      ]
+    },
+    {
+      "score": 0.741718,
+      "sentence": "That in the in a very abbreviated in simplified form is what caused the fog in the morning but shortly before the trial the court ordered the water to release a study it commissioned in nineteen seventy nine from its own consulting firm environmental research and technology.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12618,
+            12621
+          ],
+          "text": "fog"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12660,
+            12665
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.546424,
+      "sentence": "That in the in a very abbreviated in simplified form is what caused the fog in the morning but shortly before the trial the court ordered the water to release a study it commissioned in nineteen seventy nine from its own consulting firm environmental research and technology.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12618,
+            12621
+          ],
+          "text": "fog"
+        },
+        {
+          "entities": [
+            {
+              "text": "ordered",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12676,
+            12683
+          ],
+          "text": "ordered"
+        }
+      ]
+    },
+    {
+      "score": 0.544129,
+      "sentence": "That in the in a very abbreviated in simplified form is what caused the fog in the morning but shortly before the trial the court ordered the water to release a study it commissioned in nineteen seventy nine from its own consulting firm environmental research and technology.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "court",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12670,
+            12675
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12660,
+            12665
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.986535,
+      "sentence": "That in the in a very abbreviated in simplified form is what caused the fog in the morning but shortly before the trial the court ordered the water to release a study it commissioned in nineteen seventy nine from its own consulting firm environmental research and technology.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "court",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12670,
+            12675
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "text": "ordered",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12676,
+            12683
+          ],
+          "text": "ordered"
+        }
+      ]
+    },
+    {
+      "score": 0.977886,
+      "sentence": "In an E. R. T. states that luminary evidence suggests that water operations contribute the local paper flux and fogging problems in the Calhoun area Doug fees never got the chance to prove his case in court.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "E. R. T.",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12828,
+            12836
+          ],
+          "text": "E. R. T."
+        },
+        {
+          "entities": [
+            {
+              "text": "states",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12837,
+            12843
+          ],
+          "text": "states"
+        }
+      ]
+    },
+    {
+      "score": 0.40781,
+      "sentence": "In an E. R. T. states that luminary evidence suggests that water operations contribute the local paper flux and fogging problems in the Calhoun area Doug fees never got the chance to prove his case in court.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doug Ducey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12971,
+            12975
+          ],
+          "text": "Doug"
+        },
+        {
+          "entities": [
+            {
+              "text": "Calhoun area",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12958,
+            12970
+          ],
+          "text": "Calhoun area"
+        }
+      ]
+    },
+    {
+      "score": 0.605028,
+      "sentence": "Just one month later there was a nine car accident although there were no deaths nine were injured.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one month later",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            904,
+            919
+          ],
+          "text": "one month later"
+        },
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            941,
+            949
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.484345,
+      "sentence": "In an E. R. T. states that luminary evidence suggests that water operations contribute the local paper flux and fogging problems in the Calhoun area Doug fees never got the chance to prove his case in court.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doug Ducey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13011,
+            13014
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13015,
+            13019
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.518683,
+      "sentence": "In an E. R. T. states that luminary evidence suggests that water operations contribute the local paper flux and fogging problems in the Calhoun area Doug fees never got the chance to prove his case in court.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doug Ducey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13011,
+            13014
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "court",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13023,
+            13028
+          ],
+          "text": "court"
+        }
+      ]
+    },
+    {
+      "score": 0.383246,
+      "sentence": "In an E. R. T. states that luminary evidence suggests that water operations contribute the local paper flux and fogging problems in the Calhoun area Doug fees never got the chance to prove his case in court.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "court",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13023,
+            13028
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13015,
+            13019
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.271104,
+      "sentence": "Before the trial the state of Tennessee reached an out of court settlement with fees on behalf of the family see represented because of the malfunctioning fog warning system the state settled for eight hundred thousand dollars and also agreed to install a four million dollar computerized fog detection system when the fog reaches a certain density large signs automatically notify drivers of fog in the area and sensors triggered gates on key entrance ramps closing access to the highway.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "state of Tennessee",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13051,
+            13056
+          ],
+          "text": "state"
+        },
+        {
+          "entities": [
+            {
+              "text": "Tennessee",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13060,
+            13069
+          ],
+          "text": "Tennessee"
+        }
+      ]
+    },
+    {
+      "score": 0.891983,
+      "sentence": "Before the trial the state of Tennessee reached an out of court settlement with fees on behalf of the family see represented because of the malfunctioning fog warning system the state settled for eight hundred thousand dollars and also agreed to install a four million dollar computerized fog detection system when the fog reaches a certain density large signs automatically notify drivers of fog in the area and sensors triggered gates on key entrance ramps closing access to the highway.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "court",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13088,
+            13093
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "text": "settlement",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13094,
+            13104
+          ],
+          "text": "settlement"
+        }
+      ]
+    },
+    {
+      "score": 0.92153,
+      "sentence": "Before the trial the state of Tennessee reached an out of court settlement with fees on behalf of the family see represented because of the malfunctioning fog warning system the state settled for eight hundred thousand dollars and also agreed to install a four million dollar computerized fog detection system when the fog reaches a certain density large signs automatically notify drivers of fog in the area and sensors triggered gates on key entrance ramps closing access to the highway.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "state of Tennessee",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13208,
+            13213
+          ],
+          "text": "state"
+        },
+        {
+          "entities": [
+            {
+              "text": "agreed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13266,
+            13272
+          ],
+          "text": "agreed"
+        }
+      ]
+    },
+    {
+      "score": 0.843618,
+      "sentence": "Before the trial the state of Tennessee reached an out of court settlement with fees on behalf of the family see represented because of the malfunctioning fog warning system the state settled for eight hundred thousand dollars and also agreed to install a four million dollar computerized fog detection system when the fog reaches a certain density large signs automatically notify drivers of fog in the area and sensors triggered gates on key entrance ramps closing access to the highway.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "granddaughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13349,
+            13352
+          ],
+          "text": "fog"
+        },
+        {
+          "entities": [
+            {
+              "text": "notify",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13405,
+            13411
+          ],
+          "text": "notify"
+        }
+      ]
+    },
+    {
+      "score": 0.908771,
+      "sentence": "Before the trial the state of Tennessee reached an out of court settlement with fees on behalf of the family see represented because of the malfunctioning fog warning system the state settled for eight hundred thousand dollars and also agreed to install a four million dollar computerized fog detection system when the fog reaches a certain density large signs automatically notify drivers of fog in the area and sensors triggered gates on key entrance ramps closing access to the highway.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13412,
+            13419
+          ],
+          "text": "drivers"
+        },
+        {
+          "entities": [
+            {
+              "text": "notify",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13405,
+            13411
+          ],
+          "text": "notify"
+        }
+      ]
+    },
+    {
+      "score": 0.498573,
+      "sentence": "Before the trial the state of Tennessee reached an out of court settlement with fees on behalf of the family see represented because of the malfunctioning fog warning system the state settled for eight hundred thousand dollars and also agreed to install a four million dollar computerized fog detection system when the fog reaches a certain density large signs automatically notify drivers of fog in the area and sensors triggered gates on key entrance ramps closing access to the highway.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13412,
+            13419
+          ],
+          "text": "drivers"
+        },
+        {
+          "entities": [
+            {
+              "text": "sensors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13443,
+            13450
+          ],
+          "text": "sensors"
+        }
+      ]
+    },
+    {
+      "score": 0.408155,
+      "sentence": "And the traffic control mechanisms on the highway have to be sufficient to warn motorists despite the settlement and the new fog warning system many still believe the highway is on say.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "motorists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14209,
+            14218
+          ],
+          "text": "motorists"
+        },
+        {
+          "entities": [
+            {
+              "text": "settlement",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14231,
+            14241
+          ],
+          "text": "settlement"
+        }
+      ]
+    },
+    {
+      "score": 0.734678,
+      "sentence": "During the first six years the highway was open there was an average of one multi car accidents each year.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "each year",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            1095,
+            1104
+          ],
+          "text": "each year"
+        },
+        {
+          "entities": [
+            {
+              "text": "accidents",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            1085,
+            1094
+          ],
+          "text": "accidents"
+        }
+      ]
+    },
+    {
+      "score": 0.889116,
+      "sentence": "All of the accidents had one thing in common the sudden appearance of the dance the fog reducing visibility to near zero Tennessee state highway officials responded by installing fog warning lights to warn drivers when father was in the area highway patrol officers were posted to stand watch every morning along the fog prone area to make sure drivers slow down when the fog warning lights were activated.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "highway officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1387,
+            1404
+          ],
+          "text": "highway officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "state of Tennessee",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1381,
+            1386
+          ],
+          "text": "state"
+        }
+      ]
+    }
+  ]
+}

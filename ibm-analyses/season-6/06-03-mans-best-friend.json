@@ -1,0 +1,5336 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 15046,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "John",
+      "relevance": 0.969225,
+      "confidence": 1,
+      "count": 23
+    },
+    {
+      "type": "Quantity",
+      "text": "Four year",
+      "relevance": 0.82652,
+      "confidence": 0.992,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Debbie",
+      "relevance": 0.692219,
+      "confidence": 1,
+      "count": 12
+    },
+    {
+      "type": "Person",
+      "text": "Debbie loveless",
+      "relevance": 0.651397,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "John Miller",
+      "relevance": 0.645236,
+      "confidence": 1,
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "April",
+      "relevance": 0.599553,
+      "confidence": 1,
+      "count": 11
+    },
+    {
+      "type": "Quantity",
+      "text": "five acre",
+      "relevance": 0.334444,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Debbie deter",
+      "relevance": 0.320716,
+      "confidence": 0.775289,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Amy",
+      "relevance": 0.320534,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Quantity",
+      "text": "six inch",
+      "relevance": 0.305397,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "John April",
+      "relevance": 0.294163,
+      "confidence": 0.995177,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "David Henner",
+      "relevance": 0.288904,
+      "confidence": 0.856429,
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Dallas Morning News",
+      "relevance": 0.28789,
+      "confidence": 0.412268,
+      "count": 1,
+      "disambiguation": {
+        "name": "The_Dallas_Morning_News",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Dallas_Morning_News",
+        "subtype": [
+          "Organization",
+          "Company",
+          "AwardWinner",
+          "Newspaper"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Debbie return",
+      "relevance": 0.27451,
+      "confidence": 0.757801,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Texas",
+      "relevance": 0.222716,
+      "confidence": 0.999722,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Emory",
+      "relevance": 0.184314,
+      "confidence": 0.304351,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Koster",
+      "relevance": 0.177808,
+      "confidence": 0.382994,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Dallas",
+      "relevance": 0.172302,
+      "confidence": 1,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Debbie love",
+      "relevance": 0.15607,
+      "confidence": 0.638863,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Robert Ardis",
+      "relevance": 0.13273,
+      "confidence": 0.98534,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dave",
+      "relevance": 0.127642,
+      "confidence": 0.996589,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "southwestern institute of forensic science",
+      "relevance": 0.111329,
+      "confidence": 0.643715,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Dennis",
+      "relevance": 0.103486,
+      "confidence": 0.96697,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Tammy",
+      "relevance": 0.102426,
+      "confidence": 0.999428,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "four nails",
+      "relevance": 0.076709,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ten degrees",
+      "relevance": 0.065467,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Robert",
+      "relevance": 0.063448,
+      "confidence": 0.99992,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Paul chip",
+      "relevance": 0.050953,
+      "confidence": 0.768063,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "David",
+      "relevance": 0.047887,
+      "confidence": 0.99764,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Paul Chitwood",
+      "relevance": 0.046178,
+      "confidence": 0.998575,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "four feet",
+      "relevance": 0.040839,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "five years",
+      "relevance": 0.038495,
+      "confidence": 0.992,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Paul",
+      "relevance": 0.021921,
+      "confidence": 0.988701,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.935935
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.810717
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.764695
+    },
+    {
+      "label": "/sports/hunting and shooting",
+      "score": 0.640145
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.639511
+    },
+    {
+      "label": "/law, govt and politics/law enforcement",
+      "score": 0.613311
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.607395
+    },
+    {
+      "label": "/society/unrest and war",
+      "score": 0.590584
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.952647,
+      "sentence": "Four year old girl was rushed to a Texas hospital.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Debbie loveless",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            39,
+            43
+          ],
+          "text": "girl"
+        },
+        {
+          "entities": [
+            {
+              "text": "Four year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            25,
+            38
+          ],
+          "text": "Four year old"
+        }
+      ]
+    },
+    {
+      "score": 0.625322,
+      "sentence": "And we had a happy home life we had a lot of fun together the children we did a lot of things with the children we didn't believe in home we went somewhere as we took on with this and have a family.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            782,
+            784
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            803,
+            807
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.990521,
+      "sentence": "After studying the photos he said this child had been attacked by a dog.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "forensic pathologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10791,
+            10793
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10794,
+            10798
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.995644,
+      "sentence": "He said adding data yeah I have something with canine teeth what we were able to show how a dog's teeth reduced overlay exactly on the puncture wounds around where the place had been taken out of the way.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "forensic pathologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10838,
+            10840
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10841,
+            10845
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.523904,
+      "sentence": "After studying the photos he said this child had been attacked by a dog.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "woman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10804,
+            10809
+          ],
+          "text": "child"
+        },
+        {
+          "entities": [
+            {
+              "text": "attack",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            10819,
+            10827
+          ],
+          "text": "attacked"
+        }
+      ]
+    },
+    {
+      "score": 0.723759,
+      "sentence": "After studying the photos he said this child had been attacked by a dog.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "dog",
+              "type": "Animal"
+            }
+          ],
+          "location": [
+            10833,
+            10836
+          ],
+          "text": "dog"
+        },
+        {
+          "entities": [
+            {
+              "text": "attack",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            10819,
+            10827
+          ],
+          "text": "attacked"
+        }
+      ]
+    },
+    {
+      "score": 0.987607,
+      "sentence": "He says that many animal bites don't look like bite wounds at all because animals often tear the flesh rather than biting it.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dennis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11150,
+            11152
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11153,
+            11157
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.660477,
+      "sentence": "And the new team of pathologists noted that many of the scratch marks on April's back consisted of four parallel lines.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "pathologists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11969,
+            11973
+          ],
+          "text": "team"
+        },
+        {
+          "entities": [
+            {
+              "text": "telling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11990,
+            11995
+          ],
+          "text": "noted"
+        }
+      ]
+    },
+    {
+      "score": 0.944615,
+      "sentence": "And the new team of pathologists noted that many of the scratch marks on April's back consisted of four parallel lines.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "pathologists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11977,
+            11989
+          ],
+          "text": "pathologists"
+        },
+        {
+          "entities": [
+            {
+              "text": "telling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11990,
+            11995
+          ],
+          "text": "noted"
+        }
+      ]
+    },
+    {
+      "score": 0.943536,
+      "sentence": "There was another program I'm told that as long as a person is alive those particular bruises that had the print of a Paul there would not show up.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Chitwood",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12165,
+            12166
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12169,
+            12173
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.693395,
+      "sentence": "But when she was on her back in the operating room and died on the operating table.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12307,
+            12310
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "emergency room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12333,
+            12337
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.4529,
+      "sentence": "After spending five years in prison for the murder of their daughter April's John Miller and Debbie loveless finally had forensic evidence to corroborate their story.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12446,
+            12454
+          ],
+          "text": "daughter"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12430,
+            12436
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.78532,
+      "sentence": "After spending five years in prison for the murder of their daughter April's John Miller and Debbie loveless finally had forensic evidence to corroborate their story.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "April",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            12455,
+            12460
+          ],
+          "text": "April"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12430,
+            12436
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.806091,
+      "sentence": "After spending five years in prison for the murder of their daughter April's John Miller and Debbie loveless finally had forensic evidence to corroborate their story.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12440,
+            12445
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "Amy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12446,
+            12454
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.525977,
+      "sentence": "John and Debbie and the two girls moved on to a five acre farm just a few miles outside of town.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            905,
+            909
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "girls",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            933,
+            938
+          ],
+          "text": "girls"
+        }
+      ]
+    },
+    {
+      "score": 0.372775,
+      "sentence": "Their new attorney Robert artists also uncovered a written deposition from the woman who had witnessed the dogs on John and Debbie's farm attack three different people on three separate occasions as you pointed this out to the sure.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Ardis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12615,
+            12623
+          ],
+          "text": "attorney"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12605,
+            12610
+          ],
+          "text": "Their"
+        }
+      ]
+    },
+    {
+      "score": 0.682938,
+      "sentence": "Their new attorney Robert artists also uncovered a written deposition from the woman who had witnessed the dogs on John and Debbie's farm attack three different people on three separate occasions as you pointed this out to the sure.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "dogs",
+              "type": "Animal"
+            }
+          ],
+          "location": [
+            12712,
+            12716
+          ],
+          "text": "dogs"
+        },
+        {
+          "entities": [
+            {
+              "text": "farm",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12738,
+            12742
+          ],
+          "text": "farm"
+        }
+      ]
+    },
+    {
+      "score": 0.633146,
+      "sentence": "Their new attorney Robert artists also uncovered a written deposition from the woman who had witnessed the dogs on John and Debbie's farm attack three different people on three separate occasions as you pointed this out to the sure.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12720,
+            12724
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12766,
+            12772
+          ],
+          "text": "people"
+        }
+      ]
+    },
+    {
+      "score": 0.589023,
+      "sentence": "Their new attorney Robert artists also uncovered a written deposition from the woman who had witnessed the dogs on John and Debbie's farm attack three different people on three separate occasions as you pointed this out to the sure.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Debbie loveless",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12729,
+            12735
+          ],
+          "text": "Debbie"
+        },
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12766,
+            12772
+          ],
+          "text": "people"
+        }
+      ]
+    },
+    {
+      "score": 0.423611,
+      "sentence": "Their new attorney Robert artists also uncovered a written deposition from the woman who had witnessed the dogs on John and Debbie's farm attack three different people on three separate occasions as you pointed this out to the sure.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "farm",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12738,
+            12742
+          ],
+          "text": "farm"
+        },
+        {
+          "entities": [
+            {
+              "text": "attack",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            12743,
+            12749
+          ],
+          "text": "attack"
+        }
+      ]
+    },
+    {
+      "score": 0.386338,
+      "sentence": "Their new attorney Robert artists also uncovered a written deposition from the woman who had witnessed the dogs on John and Debbie's farm attack three different people on three separate occasions as you pointed this out to the sure.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12766,
+            12772
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "attack",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            12743,
+            12749
+          ],
+          "text": "attack"
+        }
+      ]
+    },
+    {
+      "score": 0.82554,
+      "sentence": "The woman wasn't called to testify at the original trial.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "woman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12842,
+            12847
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "testify",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12865,
+            12872
+          ],
+          "text": "testify"
+        }
+      ]
+    },
+    {
+      "score": 0.846592,
+      "sentence": "The woman wasn't called to testify at the original trial.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "woman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12842,
+            12847
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial hearing",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12889,
+            12894
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.975666,
+      "sentence": "Armed with this new evidence artist requested a new trial his argument that John Miller and Debbie loveless did not have adequate counsel at their original trial.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "forensic pathologist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12925,
+            12931
+          ],
+          "text": "artist"
+        },
+        {
+          "entities": [
+            {
+              "text": "requested",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12932,
+            12941
+          ],
+          "text": "requested"
+        }
+      ]
+    },
+    {
+      "score": 0.949401,
+      "sentence": "Armed with this new evidence artist requested a new trial his argument that John Miller and Debbie loveless did not have adequate counsel at their original trial.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12972,
+            12983
+          ],
+          "text": "John Miller"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13037,
+            13042
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.549603,
+      "sentence": "John and Debbie and the two girls moved on to a five acre farm just a few miles outside of town.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Debbie loveless",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            914,
+            920
+          ],
+          "text": "Debbie"
+        },
+        {
+          "entities": [
+            {
+              "text": "girls",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            933,
+            938
+          ],
+          "text": "girls"
+        }
+      ]
+    },
+    {
+      "score": 0.957997,
+      "sentence": "Armed with this new evidence artist requested a new trial his argument that John Miller and Debbie loveless did not have adequate counsel at their original trial.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Debbie loveless",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12988,
+            13003
+          ],
+          "text": "Debbie loveless"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13037,
+            13042
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.588251,
+      "sentence": "Armed with this new evidence artist requested a new trial his argument that John Miller and Debbie loveless did not have adequate counsel at their original trial.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13037,
+            13042
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial hearing",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13052,
+            13057
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.619411,
+      "sentence": "it's it nobody likes to be told that they did a bad job officially and ineffectiveness of counsel basically says that.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13201,
+            13205
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13272,
+            13276
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.884428,
+      "sentence": "Although Paul Chitwood is now deceased he testified on behalf of John and Debbie at a pre trial hearing reminding the court he requested and was denied access to the prosecution witnesses before the trial and was denied funds to hire an independent forensic expert to analyze the evidence.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Chitwood",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13322,
+            13324
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "testified",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13325,
+            13334
+          ],
+          "text": "testified"
+        }
+      ]
+    },
+    {
+      "score": 0.533121,
+      "sentence": "Although Paul Chitwood is now deceased he testified on behalf of John and Debbie at a pre trial hearing reminding the court he requested and was denied access to the prosecution witnesses before the trial and was denied funds to hire an independent forensic expert to analyze the evidence.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "reminding",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13387,
+            13396
+          ],
+          "text": "reminding"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial hearing",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13373,
+            13386
+          ],
+          "text": "trial hearing"
+        }
+      ]
+    },
+    {
+      "score": 0.753741,
+      "sentence": "Although Paul Chitwood is now deceased he testified on behalf of John and Debbie at a pre trial hearing reminding the court he requested and was denied access to the prosecution witnesses before the trial and was denied funds to hire an independent forensic expert to analyze the evidence.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "court",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13401,
+            13406
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "text": "reminding",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13387,
+            13396
+          ],
+          "text": "reminding"
+        }
+      ]
+    },
+    {
+      "score": 0.493194,
+      "sentence": "Although Paul Chitwood is now deceased he testified on behalf of John and Debbie at a pre trial hearing reminding the court he requested and was denied access to the prosecution witnesses before the trial and was denied funds to hire an independent forensic expert to analyze the evidence.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "court",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13401,
+            13406
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "text": "denied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13496,
+            13502
+          ],
+          "text": "denied"
+        }
+      ]
+    },
+    {
+      "score": 0.963839,
+      "sentence": "Although Paul Chitwood is now deceased he testified on behalf of John and Debbie at a pre trial hearing reminding the court he requested and was denied access to the prosecution witnesses before the trial and was denied funds to hire an independent forensic expert to analyze the evidence.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Chitwood",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13407,
+            13409
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "requested",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13410,
+            13419
+          ],
+          "text": "requested"
+        }
+      ]
+    },
+    {
+      "score": 0.520777,
+      "sentence": "Although Paul Chitwood is now deceased he testified on behalf of John and Debbie at a pre trial hearing reminding the court he requested and was denied access to the prosecution witnesses before the trial and was denied funds to hire an independent forensic expert to analyze the evidence.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13532,
+            13547
+          ],
+          "text": "forensic expert"
+        },
+        {
+          "entities": [
+            {
+              "text": "hire",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            13512,
+            13516
+          ],
+          "text": "hire"
+        }
+      ]
+    },
+    {
+      "score": 0.606116,
+      "sentence": "It always felt that they were not guilty of the crime they were charged with.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13627,
+            13631
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13637,
+            13644
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.73599,
+      "sentence": "John and Debbie and the two girls moved on to a five acre farm just a few miles outside of town.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "girls",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            933,
+            938
+          ],
+          "text": "girls"
+        },
+        {
+          "entities": [
+            {
+              "text": "farm",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            963,
+            967
+          ],
+          "text": "farm"
+        }
+      ]
+    },
+    {
+      "score": 0.897345,
+      "sentence": "The prosecutor's office would not comment on the allegation that some of the photographs in this case might have been withheld from the original defense team.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13655,
+            13665
+          ],
+          "text": "prosecutor"
+        },
+        {
+          "entities": [
+            {
+              "text": "office",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13668,
+            13674
+          ],
+          "text": "office"
+        }
+      ]
+    },
+    {
+      "score": 0.891868,
+      "sentence": "A judge dismissed the case against John Miller and Debbie loveless citing overwhelming evidence in the couple's favor.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13838,
+            13843
+          ],
+          "text": "judge"
+        },
+        {
+          "entities": [
+            {
+              "text": "dismissed",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13844,
+            13853
+          ],
+          "text": "dismissed"
+        }
+      ]
+    },
+    {
+      "score": 0.325798,
+      "sentence": "A judge dismissed the case against John Miller and Debbie loveless citing overwhelming evidence in the couple's favor.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13838,
+            13843
+          ],
+          "text": "judge"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13858,
+            13862
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.458998,
+      "sentence": "A judge dismissed the case against John Miller and Debbie loveless citing overwhelming evidence in the couple's favor.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13871,
+            13882
+          ],
+          "text": "John Miller"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13858,
+            13862
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.90052,
+      "sentence": "A judge dismissed the case against John Miller and Debbie loveless citing overwhelming evidence in the couple's favor.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Debbie loveless",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13887,
+            13902
+          ],
+          "text": "Debbie loveless"
+        },
+        {
+          "entities": [
+            {
+              "text": "citing",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13903,
+            13909
+          ],
+          "text": "citing"
+        }
+      ]
+    },
+    {
+      "score": 0.469722,
+      "sentence": "It was a very poor investigation by law enforcement they didn't buy the dog attack theory they didn't look into it.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14060,
+            14064
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14027,
+            14040
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.903595,
+      "sentence": "It was a very poor investigation by law enforcement they didn't buy the dog attack theory they didn't look into it.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "dog",
+              "type": "Animal"
+            }
+          ],
+          "location": [
+            14080,
+            14083
+          ],
+          "text": "dog"
+        },
+        {
+          "entities": [
+            {
+              "text": "attack",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            14084,
+            14090
+          ],
+          "text": "attack"
+        }
+      ]
+    },
+    {
+      "score": 0.489873,
+      "sentence": "Happiness that I was going home it was going to see Amy.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14309,
+            14310
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14321,
+            14325
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.802205,
+      "sentence": "The stresses and strains and incarceration took its toll after they were released from prison Debbie and John separated.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14414,
+            14418
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "released",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            14424,
+            14432
+          ],
+          "text": "released"
+        }
+      ]
+    },
+    {
+      "score": 0.801963,
+      "sentence": "I lost five years with my son with Amy and would that be you know they were gone.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Debbie loveless",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14495,
+            14497
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14498,
+            14501
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.324093,
+      "sentence": "Just after Christmas on January fourth nineteen eighty nine the couple's older daughter Amy headed for school.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1540,
+            1548
+          ],
+          "text": "daughter"
+        },
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1525,
+            1531
+          ],
+          "text": "couple"
+        }
+      ]
+    },
+    {
+      "score": 0.872972,
+      "sentence": "I lost five years with my son with Amy and would that be you know they were gone.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14507,
+            14510
+          ],
+          "text": "Amy"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14538,
+            14542
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.531755,
+      "sentence": "Hello and I don't understand why they did it.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Debbie loveless",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15011,
+            15012
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15034,
+            15038
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.561204,
+      "sentence": "Just after Christmas on January fourth nineteen eighty nine the couple's older daughter Amy headed for school.",
+      "type": "educatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1549,
+            1552
+          ],
+          "text": "Amy"
+        },
+        {
+          "entities": [
+            {
+              "text": "school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1564,
+            1570
+          ],
+          "text": "school"
+        }
+      ]
+    },
+    {
+      "score": 0.792811,
+      "sentence": "Then John came running towards the house carrying April who was bleeding profusely from the severe leg wound.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1776,
+            1780
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "courthouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1806,
+            1811
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.331817,
+      "sentence": "Then John came running towards the house carrying April who was bleeding profusely from the severe leg wound.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1827,
+            1830
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "courthouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1806,
+            1811
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.997659,
+      "sentence": "John told police that he found his stepdaughter new under a tree bleeding profusely from the lake.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2725,
+            2729
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2730,
+            2734
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.868337,
+      "sentence": "According to John April said.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2837,
+            2841
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2848,
+            2852
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.983165,
+      "sentence": "John Miller said his daughter April before her death told him that the dog Koster fatal leg wound the local sheriff's department suspected foul play.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2917,
+            2928
+          ],
+          "text": "John Miller"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2929,
+            2933
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.980299,
+      "sentence": "John told police that he found his stepdaughter new under a tree bleeding profusely from the lake.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2735,
+            2741
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2730,
+            2734
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.892841,
+      "sentence": "According to John April said.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "April",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            2842,
+            2847
+          ],
+          "text": "April"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2848,
+            2852
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.678863,
+      "sentence": "Four year old girl was rushed to a Texas hospital.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Debbie loveless",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            39,
+            43
+          ],
+          "text": "girl"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            66,
+            74
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.939885,
+      "sentence": "The sheriff ordered an autopsy the suspicion.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2875,
+            2882
+          ],
+          "text": "sheriff"
+        },
+        {
+          "entities": [
+            {
+              "text": "ordered",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            2883,
+            2890
+          ],
+          "text": "ordered"
+        }
+      ]
+    },
+    {
+      "score": 0.575577,
+      "sentence": "John Miller said his daughter April before her death told him that the dog Koster fatal leg wound the local sheriff's department suspected foul play.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2938,
+            2946
+          ],
+          "text": "daughter"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2929,
+            2933
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.952112,
+      "sentence": "John Miller said his daughter April before her death told him that the dog Koster fatal leg wound the local sheriff's department suspected foul play.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "April",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            2947,
+            2952
+          ],
+          "text": "April"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2929,
+            2933
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.78187,
+      "sentence": "John Miller said his daughter April before her death told him that the dog Koster fatal leg wound the local sheriff's department suspected foul play.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2934,
+            2937
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2938,
+            2946
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.791849,
+      "sentence": "John Miller said his daughter April before her death told him that the dog Koster fatal leg wound the local sheriff's department suspected foul play.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2960,
+            2963
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2970,
+            2974
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.918894,
+      "sentence": "John Miller said his daughter April before her death told him that the dog Koster fatal leg wound the local sheriff's department suspected foul play.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2975,
+            2978
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2970,
+            2974
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.964293,
+      "sentence": "John said April told him that the dogs did it before she lapsed into unconsciousness.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9708,
+            9711
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9703,
+            9707
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.811834,
+      "sentence": "John Miller said his daughter April before her death told him that the dog Koster fatal leg wound the local sheriff's department suspected foul play.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3025,
+            3032
+          ],
+          "text": "sheriff"
+        },
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3035,
+            3045
+          ],
+          "text": "department"
+        }
+      ]
+    },
+    {
+      "score": 0.358317,
+      "sentence": "During the autopsy the pathologist noticed long vertical markets and puncture wounds all over people's body which he believed were indicative of some form of abuse.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "woman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3383,
+            3387
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3374,
+            3380
+          ],
+          "text": "people"
+        }
+      ]
+    },
+    {
+      "score": 0.874329,
+      "sentence": "This finding was that April had been murdered.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "April",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            3698,
+            3703
+          ],
+          "text": "April"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            3713,
+            3721
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.902115,
+      "sentence": "As John and Debbie return from April's funeral service they faced a full scale investigation the police were everywhere.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3726,
+            3730
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "They",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3778,
+            3782
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.90351,
+      "sentence": "Four year old girl was rushed to a Texas hospital.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            66,
+            74
+          ],
+          "text": "hospital"
+        },
+        {
+          "entities": [
+            {
+              "text": "Texas",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            60,
+            65
+          ],
+          "text": "Texas"
+        }
+      ]
+    },
+    {
+      "score": 0.525669,
+      "sentence": "As John and Debbie return from April's funeral service they faced a full scale investigation the police were everywhere.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Debbie loveless",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3735,
+            3741
+          ],
+          "text": "Debbie"
+        },
+        {
+          "entities": [
+            {
+              "text": "funeral service",
+              "type": "EventPerformance"
+            }
+          ],
+          "location": [
+            3762,
+            3777
+          ],
+          "text": "funeral service"
+        }
+      ]
+    },
+    {
+      "score": 0.92298,
+      "sentence": "As John and Debbie return from April's funeral service they faced a full scale investigation the police were everywhere.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Debbie loveless",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3735,
+            3741
+          ],
+          "text": "Debbie"
+        },
+        {
+          "entities": [
+            {
+              "text": "They",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3778,
+            3782
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.956237,
+      "sentence": "As John and Debbie return from April's funeral service they faced a full scale investigation the police were everywhere.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "April",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            3754,
+            3759
+          ],
+          "text": "April"
+        },
+        {
+          "entities": [
+            {
+              "text": "funeral service",
+              "type": "EventPerformance"
+            }
+          ],
+          "location": [
+            3762,
+            3777
+          ],
+          "text": "funeral service"
+        }
+      ]
+    },
+    {
+      "score": 0.954809,
+      "sentence": "I don't I don't know exactly how many but there was people everywhere walking everywhere and go into the house and and walking everywhere outside so you know what's going on in what are you doing and they told me then that it was a investigation you know into the death of a pro.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "They",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4044,
+            4048
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4049,
+            4053
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.812426,
+      "sentence": "I don't I don't know exactly how many but there was people everywhere walking everywhere and go into the house and and walking everywhere outside so you know what's going on in what are you doing and they told me then that it was a investigation you know into the death of a pro.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Debbie loveless",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4054,
+            4056
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4049,
+            4053
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.882711,
+      "sentence": "How somebody could comment on that police found April's blood on a fence post and some leaves found no other outward signs of any dog attack.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "dog",
+              "type": "Animal"
+            }
+          ],
+          "location": [
+            4367,
+            4370
+          ],
+          "text": "dog"
+        },
+        {
+          "entities": [
+            {
+              "text": "attack",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            4371,
+            4377
+          ],
+          "text": "attack"
+        }
+      ]
+    },
+    {
+      "score": 0.829952,
+      "sentence": "There were three dogs on the property to belong to the family the third belonged to a neighbor none of the dogs had shown any hint of violence before.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "dogs",
+              "type": "Animal"
+            }
+          ],
+          "location": [
+            4396,
+            4400
+          ],
+          "text": "dogs"
+        },
+        {
+          "entities": [
+            {
+              "text": "courthouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4408,
+            4416
+          ],
+          "text": "property"
+        }
+      ]
+    },
+    {
+      "score": 0.474531,
+      "sentence": "There were three dogs on the property to belong to the family the third belonged to a neighbor none of the dogs had shown any hint of violence before.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4434,
+            4440
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "courthouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4408,
+            4416
+          ],
+          "text": "property"
+        }
+      ]
+    },
+    {
+      "score": 0.405347,
+      "sentence": "In the couple's home investigators found paraphernalia allegedly linking the couple to the occult.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4537,
+            4543
+          ],
+          "text": "couple"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4546,
+            4550
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.734223,
+      "sentence": "About nice that was supposedly had made the cut on her leg did I have the knife where was it John's hunting knife was confiscated and all of the items were sent to the crime lab for analysis a presumptive test showed possible signs of blood on the knife and with that finding John Miller and Debbie loveless were charged with murder.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5092,
+            5096
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "knife",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            5107,
+            5112
+          ],
+          "text": "knife"
+        }
+      ]
+    },
+    {
+      "score": 0.830187,
+      "sentence": "But defense chemist testified that the original test on John's hunting knife which found blood was presented.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7299,
+            7303
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "knife",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            7314,
+            7319
+          ],
+          "text": "knife"
+        }
+      ]
+    },
+    {
+      "score": 0.357228,
+      "sentence": "Emory Texas is a small farming community about ninety miles east of Dallas.",
+      "type": "memberOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            258,
+            267
+          ],
+          "text": "community"
+        },
+        {
+          "entities": [
+            {
+              "text": "Emory Texas",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            227,
+            238
+          ],
+          "text": "Emory Texas"
+        }
+      ]
+    },
+    {
+      "score": 0.477147,
+      "sentence": "About nice that was supposedly had made the cut on her leg did I have the knife where was it John's hunting knife was confiscated and all of the items were sent to the crime lab for analysis a presumptive test showed possible signs of blood on the knife and with that finding John Miller and Debbie loveless were charged with murder.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Debbie loveless",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5291,
+            5306
+          ],
+          "text": "Debbie loveless"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            5312,
+            5319
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.952664,
+      "sentence": "About nice that was supposedly had made the cut on her leg did I have the knife where was it John's hunting knife was confiscated and all of the items were sent to the crime lab for analysis a presumptive test showed possible signs of blood on the knife and with that finding John Miller and Debbie loveless were charged with murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Debbie loveless",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5291,
+            5306
+          ],
+          "text": "Debbie loveless"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5325,
+            5331
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.644511,
+      "sentence": "The jury found both John and Debbie guilty of murder and sentenced them to life in prison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Debbie loveless",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7807,
+            7813
+          ],
+          "text": "Debbie"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7824,
+            7830
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.962231,
+      "sentence": "The state police and local police held the polygraph I guess the same well you flunked it so you must have done it.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5682,
+            5688
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "DA",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5676,
+            5681
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.487815,
+      "sentence": "He had failed and I couldn't understand I never seen any kind of violence any kind of anything out of John in these police officers were telling me that he did this I can understand it.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5890,
+            5894
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "telling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5925,
+            5932
+          ],
+          "text": "telling"
+        }
+      ]
+    },
+    {
+      "score": 0.959464,
+      "sentence": "He had failed and I couldn't understand I never seen any kind of violence any kind of anything out of John in these police officers were telling me that he did this I can understand it.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5911,
+            5919
+          ],
+          "text": "officers"
+        },
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5904,
+            5910
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.719529,
+      "sentence": "He had failed and I couldn't understand I never seen any kind of violence any kind of anything out of John in these police officers were telling me that he did this I can understand it.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "woman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5933,
+            5935
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "telling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5925,
+            5932
+          ],
+          "text": "telling"
+        }
+      ]
+    },
+    {
+      "score": 0.504326,
+      "sentence": "The trial John and Debbie were represented by court appointed attorneys.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6068,
+            6072
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial hearing",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6062,
+            6067
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.440597,
+      "sentence": "The trial John and Debbie were represented by court appointed attorneys.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Debbie loveless",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6077,
+            6083
+          ],
+          "text": "Debbie"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial hearing",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6062,
+            6067
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.911779,
+      "sentence": "One of the lawyers did not want to use the dog attack story as a defense.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "dog",
+              "type": "Animal"
+            }
+          ],
+          "location": [
+            6174,
+            6177
+          ],
+          "text": "dog"
+        },
+        {
+          "entities": [
+            {
+              "text": "attack",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            6178,
+            6184
+          ],
+          "text": "attack"
+        }
+      ]
+    },
+    {
+      "score": 0.975397,
+      "sentence": "The other lawyer came in and said look we can't pursue the dog attack he said the DA threatened us that we he can just blow us out of the water there's nothing there to show dog attacks so.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "dog",
+              "type": "Animal"
+            }
+          ],
+          "location": [
+            6264,
+            6267
+          ],
+          "text": "dog"
+        },
+        {
+          "entities": [
+            {
+              "text": "attack",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            6268,
+            6274
+          ],
+          "text": "attack"
+        }
+      ]
+    },
+    {
+      "score": 0.997072,
+      "sentence": "The other lawyer came in and said look we can't pursue the dog attack he said the DA threatened us that we he can just blow us out of the water there's nothing there to show dog attacks so.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6275,
+            6277
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6278,
+            6282
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.597932,
+      "sentence": "Emory Texas is a small farming community about ninety miles east of Dallas.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            258,
+            267
+          ],
+          "text": "community"
+        },
+        {
+          "entities": [
+            {
+              "text": "Dallas",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            295,
+            301
+          ],
+          "text": "Dallas"
+        }
+      ]
+    },
+    {
+      "score": 0.771922,
+      "sentence": "The other lawyer came in and said look we can't pursue the dog attack he said the DA threatened us that we he can just blow us out of the water there's nothing there to show dog attacks so.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6275,
+            6277
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "threatened",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6290,
+            6300
+          ],
+          "text": "threatened"
+        }
+      ]
+    },
+    {
+      "score": 0.77494,
+      "sentence": "The other lawyer came in and said look we can't pursue the dog attack he said the DA threatened us that we he can just blow us out of the water there's nothing there to show dog attacks so.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "DA",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6287,
+            6289
+          ],
+          "text": "DA"
+        },
+        {
+          "entities": [
+            {
+              "text": "threatened",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6290,
+            6300
+          ],
+          "text": "threatened"
+        }
+      ]
+    },
+    {
+      "score": 0.921913,
+      "sentence": "The other lawyer came in and said look we can't pursue the dog attack he said the DA threatened us that we he can just blow us out of the water there's nothing there to show dog attacks so.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6301,
+            6303
+          ],
+          "text": "us"
+        },
+        {
+          "entities": [
+            {
+              "text": "threatened",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6290,
+            6300
+          ],
+          "text": "threatened"
+        }
+      ]
+    },
+    {
+      "score": 0.834242,
+      "sentence": "The other lawyer came in and said look we can't pursue the dog attack he said the DA threatened us that we he can just blow us out of the water there's nothing there to show dog attacks so.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "dog",
+              "type": "Animal"
+            }
+          ],
+          "location": [
+            6379,
+            6382
+          ],
+          "text": "dog"
+        },
+        {
+          "entities": [
+            {
+              "text": "attacks",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            6383,
+            6390
+          ],
+          "text": "attacks"
+        }
+      ]
+    },
+    {
+      "score": 0.980754,
+      "sentence": "Prosecutors portrayed John as the enraged stepfather who got angry with April lost his temper and abused and murdered her.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6435,
+            6446
+          ],
+          "text": "Prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "portrayed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6447,
+            6456
+          ],
+          "text": "portrayed"
+        }
+      ]
+    },
+    {
+      "score": 0.448327,
+      "sentence": "Prosecutors portrayed John as the enraged stepfather who got angry with April lost his temper and abused and murdered her.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6457,
+            6461
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "portrayed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6447,
+            6456
+          ],
+          "text": "portrayed"
+        }
+      ]
+    },
+    {
+      "score": 0.586597,
+      "sentence": "Prosecutors portrayed John as the enraged stepfather who got angry with April lost his temper and abused and murdered her.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Debbie loveless",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6553,
+            6556
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6544,
+            6552
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.985237,
+      "sentence": "Tammy was portrayed as a battered wife too afraid of her husband to do anything about it.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tammy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6558,
+            6563
+          ],
+          "text": "Tammy"
+        },
+        {
+          "entities": [
+            {
+              "text": "portrayed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6568,
+            6577
+          ],
+          "text": "portrayed"
+        }
+      ]
+    },
+    {
+      "score": 0.633148,
+      "sentence": "Tammy was portrayed as a battered wife too afraid of her husband to do anything about it.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tammy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6611,
+            6614
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6615,
+            6622
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.805076,
+      "sentence": "Submitted into evidence was the autopsy report April had been murdered and the items from the couple's home which were suspected of causing the wounds.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "April",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            6695,
+            6700
+          ],
+          "text": "April"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6710,
+            6718
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.54484,
+      "sentence": "In nineteen eighty eight Debbie loveless and her two daughters from a previous marriage Amy and Dave all moved in with John Miller.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Amy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            474,
+            477
+          ],
+          "text": "Amy"
+        },
+        {
+          "entities": [
+            {
+              "text": "daughters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            439,
+            448
+          ],
+          "text": "daughters"
+        }
+      ]
+    },
+    {
+      "score": 0.704369,
+      "sentence": "Submitted into evidence was the autopsy report April had been murdered and the items from the couple's home which were suspected of causing the wounds.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6742,
+            6748
+          ],
+          "text": "couple"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6751,
+            6755
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.448973,
+      "sentence": "I mean it's it's a it's a horrendous case it's it's horrible to think of them you know holding this little girl down and doing stuff to John's court appointed attorney called check would ask the judge for more time to interview prosecution witnesses and he also requested funds to hire his own forensic expert both requests were denied.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Debbie loveless",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7013,
+            7017
+          ],
+          "text": "girl"
+        },
+        {
+          "entities": [
+            {
+              "text": "court",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7049,
+            7054
+          ],
+          "text": "court"
+        }
+      ]
+    },
+    {
+      "score": 0.386029,
+      "sentence": "I mean it's it's a it's a horrendous case it's it's horrible to think of them you know holding this little girl down and doing stuff to John's court appointed attorney called check would ask the judge for more time to interview prosecution witnesses and he also requested funds to hire his own forensic expert both requests were denied.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7042,
+            7046
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "court",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7049,
+            7054
+          ],
+          "text": "court"
+        }
+      ]
+    },
+    {
+      "score": 0.57111,
+      "sentence": "I mean it's it's a it's a horrendous case it's it's horrible to think of them you know holding this little girl down and doing stuff to John's court appointed attorney called check would ask the judge for more time to interview prosecution witnesses and he also requested funds to hire his own forensic expert both requests were denied.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7065,
+            7073
+          ],
+          "text": "attorney"
+        },
+        {
+          "entities": [
+            {
+              "text": "ask",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7093,
+            7096
+          ],
+          "text": "ask"
+        }
+      ]
+    },
+    {
+      "score": 0.532538,
+      "sentence": "I mean it's it's a it's a horrendous case it's it's horrible to think of them you know holding this little girl down and doing stuff to John's court appointed attorney called check would ask the judge for more time to interview prosecution witnesses and he also requested funds to hire his own forensic expert both requests were denied.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7101,
+            7106
+          ],
+          "text": "judge"
+        },
+        {
+          "entities": [
+            {
+              "text": "ask",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7093,
+            7096
+          ],
+          "text": "ask"
+        }
+      ]
+    },
+    {
+      "score": 0.422375,
+      "sentence": "I mean it's it's a it's a horrendous case it's it's horrible to think of them you know holding this little girl down and doing stuff to John's court appointed attorney called check would ask the judge for more time to interview prosecution witnesses and he also requested funds to hire his own forensic expert both requests were denied.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7101,
+            7106
+          ],
+          "text": "judge"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            7124,
+            7133
+          ],
+          "text": "interview"
+        }
+      ]
+    },
+    {
+      "score": 0.75898,
+      "sentence": "I mean it's it's a it's a horrendous case it's it's horrible to think of them you know holding this little girl down and doing stuff to John's court appointed attorney called check would ask the judge for more time to interview prosecution witnesses and he also requested funds to hire his own forensic expert both requests were denied.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7146,
+            7155
+          ],
+          "text": "witnesses"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            7124,
+            7133
+          ],
+          "text": "interview"
+        }
+      ]
+    },
+    {
+      "score": 0.584672,
+      "sentence": "I mean it's it's a it's a horrendous case it's it's horrible to think of them you know holding this little girl down and doing stuff to John's court appointed attorney called check would ask the judge for more time to interview prosecution witnesses and he also requested funds to hire his own forensic expert both requests were denied.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7146,
+            7155
+          ],
+          "text": "witnesses"
+        },
+        {
+          "entities": [
+            {
+              "text": "prosecution",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            7134,
+            7145
+          ],
+          "text": "prosecution"
+        }
+      ]
+    },
+    {
+      "score": 0.595171,
+      "sentence": "Although Paul Chitwood is now deceased he testified on behalf of John and Debbie at a pre trial hearing reminding the court he requested and was denied access to the prosecution witnesses before the trial and was denied funds to hire an independent forensic expert to analyze the evidence.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13461,
+            13470
+          ],
+          "text": "witnesses"
+        },
+        {
+          "entities": [
+            {
+              "text": "prosecution",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13449,
+            13460
+          ],
+          "text": "prosecution"
+        }
+      ]
+    },
+    {
+      "score": 0.990517,
+      "sentence": "I mean it's it's a it's a horrendous case it's it's horrible to think of them you know holding this little girl down and doing stuff to John's court appointed attorney called check would ask the judge for more time to interview prosecution witnesses and he also requested funds to hire his own forensic expert both requests were denied.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7160,
+            7162
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "requested",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7168,
+            7177
+          ],
+          "text": "requested"
+        }
+      ]
+    },
+    {
+      "score": 0.953678,
+      "sentence": "The possibility of a dog attack was never presented to the jury.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "dog",
+              "type": "Animal"
+            }
+          ],
+          "location": [
+            7502,
+            7505
+          ],
+          "text": "dog"
+        },
+        {
+          "entities": [
+            {
+              "text": "attack",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            7506,
+            7512
+          ],
+          "text": "attack"
+        }
+      ]
+    },
+    {
+      "score": 0.909001,
+      "sentence": "In nineteen eighty eight Debbie loveless and her two daughters from a previous marriage Amy and Dave all moved in with John Miller.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dave",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            482,
+            486
+          ],
+          "text": "Dave"
+        },
+        {
+          "entities": [
+            {
+              "text": "daughters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            439,
+            448
+          ],
+          "text": "daughters"
+        }
+      ]
+    },
+    {
+      "score": 0.750032,
+      "sentence": "it minutes it was murder admits the April was was murdered by someone says you know she was murdered I don't know who did it but the state has improved my client is the one who did it.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "April",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            7629,
+            7634
+          ],
+          "text": "April"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7611,
+            7617
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.694154,
+      "sentence": "it minutes it was murder admits the April was was murdered by someone says you know she was murdered I don't know who did it but the state has improved my client is the one who did it.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "somebody",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7655,
+            7662
+          ],
+          "text": "someone"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7643,
+            7651
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.852039,
+      "sentence": "it minutes it was murder admits the April was was murdered by someone says you know she was murdered I don't know who did it but the state has improved my client is the one who did it.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "somebody",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7677,
+            7680
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7685,
+            7693
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.957357,
+      "sentence": "it minutes it was murder admits the April was was murdered by someone says you know she was murdered I don't know who did it but the state has improved my client is the one who did it.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "somebody",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7655,
+            7662
+          ],
+          "text": "someone"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7663,
+            7667
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.454543,
+      "sentence": "it minutes it was murder admits the April was was murdered by someone says you know she was murdered I don't know who did it but the state has improved my client is the one who did it.",
+      "type": "clientOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7748,
+            7754
+          ],
+          "text": "client"
+        },
+        {
+          "entities": [
+            {
+              "text": "somebody",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7745,
+            7747
+          ],
+          "text": "my"
+        }
+      ]
+    },
+    {
+      "score": 0.532847,
+      "sentence": "The jury found both John and Debbie guilty of murder and sentenced them to life in prison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "jury",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7782,
+            7786
+          ],
+          "text": "jury"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced them",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            7835,
+            7849
+          ],
+          "text": "sentenced them"
+        }
+      ]
+    },
+    {
+      "score": 0.720756,
+      "sentence": "The jury found both John and Debbie guilty of murder and sentenced them to life in prison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7798,
+            7802
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7824,
+            7830
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.429167,
+      "sentence": "The first time that a steel door crying behind me there is no sound that you've ever heard the town's.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "your",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7942,
+            7945
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "town",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7964,
+            7968
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.523789,
+      "sentence": "I had started fighting the day I got in I had already written the centurion ministries had written to the governor had written to lieutenant governor I'd written a congressman.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "somebody",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8336,
+            8337
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "written",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8350,
+            8357
+          ],
+          "text": "written"
+        }
+      ]
+    },
+    {
+      "score": 0.872685,
+      "sentence": "I had started fighting the day I got in I had already written the centurion ministries had written to the governor had written to lieutenant governor I'd written a congressman.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8402,
+            8410
+          ],
+          "text": "governor"
+        },
+        {
+          "entities": [
+            {
+              "text": "written",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8387,
+            8394
+          ],
+          "text": "written"
+        }
+      ]
+    },
+    {
+      "score": 0.869422,
+      "sentence": "I had started fighting the day I got in I had already written the centurion ministries had written to the governor had written to lieutenant governor I'd written a congressman.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "lieutenant governor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8426,
+            8445
+          ],
+          "text": "lieutenant governor"
+        },
+        {
+          "entities": [
+            {
+              "text": "written",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8415,
+            8422
+          ],
+          "text": "written"
+        }
+      ]
+    },
+    {
+      "score": 0.329452,
+      "sentence": "And we had a happy home life we had a lot of fun together the children we did a lot of things with the children we didn't believe in home we went somewhere as we took on with this and have a family.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            674,
+            676
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "courthouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            689,
+            693
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.582543,
+      "sentence": "When when when you're put in that position and you're convicted of something that you didn't do you just.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "somebody",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8569,
+            8572
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8576,
+            8585
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.825846,
+      "sentence": "I knew I was innocent I knew David was innocent and I was not gonna stop fighting until I got somebody to prove we were innocent.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David Henner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8761,
+            8766
+          ],
+          "text": "David"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8844,
+            8846
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.379687,
+      "sentence": "As the years passed in prison Debbie love listen John Miller's first concern was for their older daughter Amy who is living in foster care the other concern was finding a way to prove their innocence you know I never knew innocent people went to prison.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Debbie loveless",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8892,
+            8898
+          ],
+          "text": "Debbie"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8885,
+            8891
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.868309,
+      "sentence": "Debbie was gone she found somebody else you know because of trying to get help and she was gone so as far as yes I was walking out of prison but my life has basically been destroyed already.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Debbie loveless",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14667,
+            14668
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14688,
+            14694
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.669255,
+      "sentence": "As the years passed in prison Debbie love listen John Miller's first concern was for their older daughter Amy who is living in foster care the other concern was finding a way to prove their innocence you know I never knew innocent people went to prison.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "somebody",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9071,
+            9072
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9108,
+            9114
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.56337,
+      "sentence": "As the years passed in prison Debbie love listen John Miller's first concern was for their older daughter Amy who is living in foster care the other concern was finding a way to prove their innocence you know I never knew innocent people went to prison.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9093,
+            9099
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9108,
+            9114
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.59442,
+      "sentence": "I was convicted for something they didn't do.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "somebody",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9116,
+            9117
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            9122,
+            9131
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.638137,
+      "sentence": "Because I was innocent and they were saying I was guilty.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "somebody",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9295,
+            9296
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "saying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9324,
+            9330
+          ],
+          "text": "saying"
+        }
+      ]
+    },
+    {
+      "score": 0.629471,
+      "sentence": "Because I was innocent and they were saying I was guilty.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9314,
+            9318
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "saying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9324,
+            9330
+          ],
+          "text": "saying"
+        }
+      ]
+    },
+    {
+      "score": 0.646605,
+      "sentence": "They believe that one of the dogs attacked April while she was playing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            9465,
+            9468
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "attack",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            9481,
+            9489
+          ],
+          "text": "attacked"
+        }
+      ]
+    },
+    {
+      "score": 0.723819,
+      "sentence": "They believe that one of the dogs attacked April while she was playing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "dogs",
+              "type": "Animal"
+            }
+          ],
+          "location": [
+            9476,
+            9480
+          ],
+          "text": "dogs"
+        },
+        {
+          "entities": [
+            {
+              "text": "attack",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            9481,
+            9489
+          ],
+          "text": "attacked"
+        }
+      ]
+    },
+    {
+      "score": 0.531576,
+      "sentence": "And we had a happy home life we had a lot of fun together the children we did a lot of things with the children we didn't believe in home we went somewhere as we took on with this and have a family.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            773,
+            781
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            782,
+            784
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.976301,
+      "sentence": "They believe that one of the dogs attacked April while she was playing.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "April",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            9490,
+            9495
+          ],
+          "text": "April"
+        },
+        {
+          "entities": [
+            {
+              "text": "attack",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            9481,
+            9489
+          ],
+          "text": "attacked"
+        }
+      ]
+    },
+    {
+      "score": 0.446991,
+      "sentence": "They believe that one of the dogs attacked April while she was playing.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Debbie loveless",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9502,
+            9505
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "attack",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            9481,
+            9489
+          ],
+          "text": "attacked"
+        }
+      ]
+    },
+    {
+      "score": 0.767158,
+      "sentence": "Lunch time when they were looking for April they saw the dogs were agitated when John followed them into the woods he found a poll bleeding profusely from a leg wound.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9600,
+            9604
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "woods",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            9628,
+            9633
+          ],
+          "text": "woods"
+        }
+      ]
+    },
+    {
+      "score": 0.513981,
+      "sentence": "Lunch time when they were looking for April they saw the dogs were agitated when John followed them into the woods he found a poll bleeding profusely from a leg wound.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9614,
+            9618
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "woods",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            9628,
+            9633
+          ],
+          "text": "woods"
+        }
+      ]
+    },
+    {
+      "score": 0.997231,
+      "sentence": "John said April told him that the dogs did it before she lapsed into unconsciousness.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Miller",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9687,
+            9691
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9692,
+            9696
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.656928,
+      "sentence": "John said April told him that the dogs did it before she lapsed into unconsciousness.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "April",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            9697,
+            9702
+          ],
+          "text": "April"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9692,
+            9696
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.661829,
+      "sentence": "John said April told him that the dogs did it before she lapsed into unconsciousness.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "April",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            9697,
+            9702
+          ],
+          "text": "April"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9703,
+            9707
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.64622,
+      "sentence": "Attorney Robert Ardis was assigned to handle the couple's appeal.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Ardis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9856,
+            9868
+          ],
+          "text": "Robert Ardis"
+        },
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9896,
+            9902
+          ],
+          "text": "couple"
+        }
+      ]
+    },
+    {
+      "score": 0.475856,
+      "sentence": "Attorney Robert Ardis was assigned to handle the couple's appeal.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9896,
+            9902
+          ],
+          "text": "couple"
+        },
+        {
+          "entities": [
+            {
+              "text": "appeal",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            9905,
+            9911
+          ],
+          "text": "appeal"
+        }
+      ]
+    },
+    {
+      "score": 0.359202,
+      "sentence": "These were photos that had not been shown to the jury and it wasn't clear whether John and Debbie's original defense lawyers had even seen them.",
+      "type": "clientOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Debbie loveless",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10473,
+            10479
+          ],
+          "text": "Debbie"
+        },
+        {
+          "entities": [
+            {
+              "text": "lawyers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10499,
+            10506
+          ],
+          "text": "lawyers"
+        }
+      ]
+    }
+  ]
+}

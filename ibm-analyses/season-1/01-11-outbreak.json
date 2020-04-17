@@ -1,0 +1,4628 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 17573,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Dr McMillan",
+      "relevance": 0.951205,
+      "confidence": 1,
+      "count": 6
+    },
+    {
+      "type": "Location",
+      "text": "Minnesota",
+      "relevance": 0.631089,
+      "confidence": 1,
+      "count": 10
+    },
+    {
+      "type": "Location",
+      "text": "South Dakota",
+      "relevance": 0.570123,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Location",
+      "text": "valley springs",
+      "relevance": 0.550987,
+      "confidence": 0.974881,
+      "count": 5
+    },
+    {
+      "type": "Organization",
+      "text": "CDC",
+      "relevance": 0.470668,
+      "confidence": 1,
+      "count": 5,
+      "disambiguation": {
+        "name": "Centers_for_Disease_Control_and_Prevention",
+        "dbpedia_resource": "http://dbpedia.org/resource/Centers_for_Disease_Control_and_Prevention",
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ]
+      }
+    },
+    {
+      "type": "HealthCondition",
+      "text": "heart attack",
+      "relevance": 0.391967,
+      "confidence": 0.999364,
+      "count": 3,
+      "disambiguation": {
+        "name": "Myocardial_infarction",
+        "dbpedia_resource": "http://dbpedia.org/resource/Myocardial_infarction",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "RiskFactor",
+          "Symptom",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "HealthCondition",
+      "text": "heart symptoms",
+      "relevance": 0.314363,
+      "confidence": 0.443051,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jacobson",
+      "relevance": 0.300263,
+      "confidence": 0.99987,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Richard Jacobson",
+      "relevance": 0.299052,
+      "confidence": 0.999305,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Michael McMillan",
+      "relevance": 0.294194,
+      "confidence": 0.992025,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "diarrhea",
+      "relevance": 0.273366,
+      "confidence": 0.997885,
+      "count": 2,
+      "disambiguation": {
+        "name": "Diarrhea",
+        "dbpedia_resource": "http://dbpedia.org/resource/Diarrhea",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "DiseaseCause",
+          "RiskFactor",
+          "Symptom",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "HealthCondition",
+      "text": "heart problems fevers fatigue",
+      "relevance": 0.271657,
+      "confidence": 0.257286,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dan Fishbein",
+      "relevance": 0.262176,
+      "confidence": 0.99841,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "thyroid outbreak",
+      "relevance": 0.248807,
+      "confidence": 0.223249,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Nebraska",
+      "relevance": 0.233327,
+      "confidence": 0.999999,
+      "count": 3
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Valley springs",
+      "relevance": 0.231314,
+      "confidence": 0.116812,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "York",
+      "relevance": 0.224097,
+      "confidence": 0.999708,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Dr Louis Braverman",
+      "relevance": 0.218494,
+      "confidence": 0.998382,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "four year",
+      "relevance": 0.211742,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ninety year",
+      "relevance": 0.210942,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "la Verne",
+      "relevance": 0.199878,
+      "confidence": 0.485748,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Mayo brothers",
+      "relevance": 0.199676,
+      "confidence": 0.299599,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "thyroid",
+      "relevance": 0.191459,
+      "confidence": 0.998405,
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Atlanta",
+      "relevance": 0.188077,
+      "confidence": 0.999999,
+      "count": 2
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Sioux falls",
+      "relevance": 0.185194,
+      "confidence": 0.24183,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Rhonda pesky",
+      "relevance": 0.173665,
+      "confidence": 0.557337,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "McMillan",
+      "relevance": 0.171236,
+      "confidence": 0.999512,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Margaret long",
+      "relevance": 0.17048,
+      "confidence": 0.56647,
+      "count": 1,
+      "disambiguation": {
+        "name": "Margaret_Long",
+        "dbpedia_resource": "http://dbpedia.org/resource/Margaret_Long"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Dr macmillan",
+      "relevance": 0.168252,
+      "confidence": 0.997187,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eight hours",
+      "relevance": 0.165662,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "heart problems fatigue",
+      "relevance": 0.1415,
+      "confidence": 0.2876,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty years",
+      "relevance": 0.136597,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three days",
+      "relevance": 0.131778,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Larry",
+      "relevance": 0.127965,
+      "confidence": 0.999996,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Jane",
+      "relevance": 0.127342,
+      "confidence": 0.997644,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "flu",
+      "relevance": 0.126558,
+      "confidence": 0.996916,
+      "count": 1,
+      "disambiguation": {
+        "name": "Influenza",
+        "dbpedia_resource": "http://dbpedia.org/resource/Influenza",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "InfectiousDisease",
+          "RiskFactor",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Beaver Creek",
+      "relevance": 0.123251,
+      "confidence": 0.848052,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Gerritsen",
+      "relevance": 0.116065,
+      "confidence": 0.897455,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Minneapolis",
+      "relevance": 0.110687,
+      "confidence": 0.992377,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one year",
+      "relevance": 0.10797,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Mayo Clinic",
+      "relevance": 0.104235,
+      "confidence": 0.688247,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "thyroid disease",
+      "relevance": 0.102818,
+      "confidence": 0.850782,
+      "count": 1,
+      "disambiguation": {
+        "name": "Thyroid_disease",
+        "dbpedia_resource": "http://dbpedia.org/resource/Thyroid_disease",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "RiskFactor"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Detroit",
+      "relevance": 0.100851,
+      "confidence": 0.996141,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Sioux falls",
+      "relevance": 0.094325,
+      "confidence": 0.843587,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Worcester",
+      "relevance": 0.093133,
+      "confidence": 0.99252,
+      "count": 2
+    },
+    {
+      "type": "HealthCondition",
+      "text": "cancer",
+      "relevance": 0.09177,
+      "confidence": 0.989995,
+      "count": 2
+    },
+    {
+      "type": "HealthCondition",
+      "text": "heart failure",
+      "relevance": 0.091511,
+      "confidence": 0.770087,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ninety percent",
+      "relevance": 0.089016,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Rochester",
+      "relevance": 0.087952,
+      "confidence": 0.995133,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Margaret",
+      "relevance": 0.067457,
+      "confidence": 0.994562,
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "valley springs",
+      "relevance": 0.06405,
+      "confidence": 0.092411,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Hamburg",
+      "relevance": 0.043178,
+      "confidence": 0.99878,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "pain",
+      "relevance": 0.042149,
+      "confidence": 0.696866,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Lisburn",
+      "relevance": 0.040329,
+      "confidence": 0.998113,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Midwest",
+      "relevance": 0.039303,
+      "confidence": 0.997584,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Massachusetts",
+      "relevance": 0.039051,
+      "confidence": 0.989463,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "northeast",
+      "relevance": 0.037398,
+      "confidence": 0.622483,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "U. S. department of agriculture",
+      "relevance": 0.016402,
+      "confidence": 0.13456,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "seven months",
+      "relevance": 0.01068,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "New York",
+      "relevance": 0.004978,
+      "confidence": 0.992388,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "CBC",
+      "relevance": 0.003049,
+      "confidence": 0.761026,
+      "count": 1,
+      "disambiguation": {
+        "name": "Columbia_Basin_College",
+        "dbpedia_resource": "http://dbpedia.org/resource/Columbia_Basin_College"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "label": "/health and fitness/disease/thyroid disease",
+      "score": 0.999915
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.605711,
+      "sentence": "One hundred twenty one people in South Dakota and Minnesota were struck with the mysterious.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            48,
+            54
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "valley springs South Dakota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            58,
+            70
+          ],
+          "text": "South Dakota"
+        }
+      ]
+    },
+    {
+      "score": 0.835527,
+      "sentence": "Beats per minute and I just knew I was going to have a heart attack it felt like it was just flying out of my chest ten miles down the road in la Verne Minnesota the stories were the same turn the disconnect suffered heart symptoms too and immediately went to the emergency room certain he was having a heart attack well about three o'clock in the morning proximally three I woke up with.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1581,
+            1585
+          ],
+          "text": "road"
+        },
+        {
+          "entities": [
+            {
+              "text": "la Verne",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1589,
+            1597
+          ],
+          "text": "la Verne"
+        }
+      ]
+    },
+    {
+      "score": 0.46491,
+      "sentence": "The next step to confirm that the tainted hamburger created elevated thyroid hormone levels in humans as it did with the rats even after it was cool to sell that we did obtain for young physicians to participate in the study and what we did was essentially bring them in in the morning fasting drew their blood and fed them and extremely well cook half pound hamburger which they enjoyed immensely since the it was smothered in onions and on toast so that was a very tasty breakfast the meat used in the experiment was the same that was sold in the local stores it came from this local slaughtering house in Lisburn Minnesota.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "stores",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14369,
+            14375
+          ],
+          "text": "stores"
+        },
+        {
+          "entities": [
+            {
+              "text": "houses",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14413,
+            14418
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.960079,
+      "sentence": "The next step to confirm that the tainted hamburger created elevated thyroid hormone levels in humans as it did with the rats even after it was cool to sell that we did obtain for young physicians to participate in the study and what we did was essentially bring them in in the morning fasting drew their blood and fed them and extremely well cook half pound hamburger which they enjoyed immensely since the it was smothered in onions and on toast so that was a very tasty breakfast the meat used in the experiment was the same that was sold in the local stores it came from this local slaughtering house in Lisburn Minnesota.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "houses",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14413,
+            14418
+          ],
+          "text": "house"
+        },
+        {
+          "entities": [
+            {
+              "text": "Rochester Minnesota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14422,
+            14439
+          ],
+          "text": "Lisburn Minnesota"
+        }
+      ]
+    },
+    {
+      "score": 0.939032,
+      "sentence": "The county officials inspected the local meat packing plant and learn something interesting the plant had been a kosher killing planned up until a few years earlier.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14495,
+            14504
+          ],
+          "text": "officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "county",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14488,
+            14494
+          ],
+          "text": "county"
+        }
+      ]
+    },
+    {
+      "score": 0.301159,
+      "sentence": "trim from the animal's gullet and inadvertently passed along for human consumption the goal of basically is this part of the cow is next in the muscles that are trimmed that are low fat or these muscles here the sternal quite a mastoid muscles on the firing plant sits right under those muscles and if someone is not paying attention as their true mean it's very easy to clip off a bit of thyroid gland as they take off the muscle when the animals thyroid gland was mixed in with other grounds made for hamburger it caused the highly elevated levels of thyroid hormones in those who ate it.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "firing",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            15771,
+            15777
+          ],
+          "text": "firing"
+        },
+        {
+          "entities": [
+            {
+              "text": "houses",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            15778,
+            15783
+          ],
+          "text": "plant"
+        }
+      ]
+    },
+    {
+      "score": 0.642013,
+      "sentence": "After seven months of investigation.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "seven months",
+              "type": "Duration"
+            }
+          ],
+          "location": [
+            16589,
+            16601
+          ],
+          "text": "seven months"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            16605,
+            16618
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.60705,
+      "sentence": "Because of the outbreak was finally discovered and investigators believe that the tainted also was the cause of the outbreak in New York Nebraska the year before shortly after this outbreak the U.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "the year before",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            16766,
+            16781
+          ],
+          "text": "the year before"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            16736,
+            16744
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.418075,
+      "sentence": "Because of the outbreak was finally discovered and investigators believe that the tainted also was the cause of the outbreak in New York Nebraska the year before shortly after this outbreak the U.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "the year before",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            16766,
+            16781
+          ],
+          "text": "the year before"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            16801,
+            16809
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.342283,
+      "sentence": "Because of the outbreak was finally discovered and investigators believe that the tainted also was the cause of the outbreak in New York Nebraska the year before shortly after this outbreak the U.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shortly after",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            16782,
+            16795
+          ],
+          "text": "shortly after"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            16801,
+            16809
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.328846,
+      "sentence": "S. department of agriculture instituted strict guidelines for the trimming of meat from neck muscles and declared the thyroid gland was to be considered on for human consumption but the residents of valley springs and liver and don't care much about their place in medical history and they aren't the type to hold a grudge one hundred twenty one residents develop thyrotoxicosis and all recovered fortunately there were no fatalities it's become one of CBC's major teaching cases because it illustrates all sorts of things that are really not usually encountered that are very important lessons for young epidemiologist the outbreak.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "residents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            17003,
+            17012
+          ],
+          "text": "residents"
+        },
+        {
+          "entities": [
+            {
+              "text": "springs",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            17023,
+            17030
+          ],
+          "text": "springs"
+        }
+      ]
+    },
+    {
+      "score": 0.948571,
+      "sentence": "Beats per minute and I just knew I was going to have a heart attack it felt like it was just flying out of my chest ten miles down the road in la Verne Minnesota the stories were the same turn the disconnect suffered heart symptoms too and immediately went to the emergency room certain he was having a heart attack well about three o'clock in the morning proximally three I woke up with.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "la Verne",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1589,
+            1597
+          ],
+          "text": "la Verne"
+        },
+        {
+          "entities": [
+            {
+              "text": "Rochester Minnesota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1598,
+            1607
+          ],
+          "text": "Minnesota"
+        }
+      ]
+    },
+    {
+      "score": 0.765863,
+      "sentence": "Beats per minute and I just knew I was going to have a heart attack it felt like it was just flying out of my chest ten miles down the road in la Verne Minnesota the stories were the same turn the disconnect suffered heart symptoms too and immediately went to the emergency room certain he was having a heart attack well about three o'clock in the morning proximally three I woke up with.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "dad",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1733,
+            1735
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "heart attack",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            1749,
+            1761
+          ],
+          "text": "heart attack"
+        }
+      ]
+    },
+    {
+      "score": 0.56053,
+      "sentence": "A tightness in my chest like so it does feel like somebody was sitting on tests revealed it wasn't a heart attack but he spent three days in the hospital as doctors tried to find out the call.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "dad",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1953,
+            1955
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "heart attack",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            1936,
+            1948
+          ],
+          "text": "heart attack"
+        }
+      ]
+    },
+    {
+      "score": 0.547016,
+      "sentence": "A tightness in my chest like so it does feel like somebody was sitting on tests revealed it wasn't a heart attack but he spent three days in the hospital as doctors tried to find out the call.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "dad",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1953,
+            1955
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1980,
+            1988
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.913549,
+      "sentence": "Some of the local physicians thought it was the flu or a virus but after weeks of suffering the residents started to compare notes there were folks that were sick and had been sick for a long time and a couple work had gone close to death and they couldn't figure out what was wrong with them and they didn't know if it was contagious if it was something in the water and they were all feeling the same symptoms and then they were hearing of other people that were feeling the same symptoms when Richard Jacobson went to his doctor he was told that his style was malfunction and was sent to the area's leading.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            2028,
+            2032
+          ],
+          "text": "Some"
+        },
+        {
+          "entities": [
+            {
+              "text": "physicians",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2046,
+            2056
+          ],
+          "text": "physicians"
+        }
+      ]
+    },
+    {
+      "score": 0.954937,
+      "sentence": "Some of the local physicians thought it was the flu or a virus but after weeks of suffering the residents started to compare notes there were folks that were sick and had been sick for a long time and a couple work had gone close to death and they couldn't figure out what was wrong with them and they didn't know if it was contagious if it was something in the water and they were all feeling the same symptoms and then they were hearing of other people that were feeling the same symptoms when Richard Jacobson went to his doctor he was told that his style was malfunction and was sent to the area's leading.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Jacobson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2560,
+            2562
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2567,
+            2571
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.993614,
+      "sentence": "Actually when Jacobson called the specialist he had just one question dot can you tell me why there's five people in my small town with the same condition Dr Michael McMillan has been a fire right specialist South Dakota for the past thirty years at first he thought Jacobson was exaggerating but just to make sure he decided to do a little of his own investigating you went to the local hospital and look through the X.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Jacobson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2653,
+            2661
+          ],
+          "text": "Jacobson"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2662,
+            2668
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.524021,
+      "sentence": "Actually when Jacobson called the specialist he had just one question dot can you tell me why there's five people in my small town with the same condition Dr Michael McMillan has been a fire right specialist South Dakota for the past thirty years at first he thought Jacobson was exaggerating but just to make sure he decided to do a little of his own investigating you went to the local hospital and look through the X.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2746,
+            2752
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "town",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2765,
+            2769
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.431938,
+      "sentence": "Actually when Jacobson called the specialist he had just one question dot can you tell me why there's five people in my small town with the same condition Dr Michael McMillan has been a fire right specialist South Dakota for the past thirty years at first he thought Jacobson was exaggerating but just to make sure he decided to do a little of his own investigating you went to the local hospital and look through the X.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2756,
+            2758
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "town",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2765,
+            2769
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.525601,
+      "sentence": "Actually when Jacobson called the specialist he had just one question dot can you tell me why there's five people in my small town with the same condition Dr Michael McMillan has been a fire right specialist South Dakota for the past thirty years at first he thought Jacobson was exaggerating but just to make sure he decided to do a little of his own investigating you went to the local hospital and look through the X.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Jacobson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2983,
+            2986
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigating",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            2991,
+            3004
+          ],
+          "text": "investigating"
+        }
+      ]
+    },
+    {
+      "score": 0.507861,
+      "sentence": "One hundred twenty one people in South Dakota and Minnesota were struck with the mysterious.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            48,
+            54
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "Rochester Minnesota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            75,
+            84
+          ],
+          "text": "Minnesota"
+        }
+      ]
+    },
+    {
+      "score": 0.68969,
+      "sentence": "Actually when Jacobson called the specialist he had just one question dot can you tell me why there's five people in my small town with the same condition Dr Michael McMillan has been a fire right specialist South Dakota for the past thirty years at first he thought Jacobson was exaggerating but just to make sure he decided to do a little of his own investigating you went to the local hospital and look through the X.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3005,
+            3008
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3027,
+            3035
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.49876,
+      "sentence": "An overactive thyroid floods the body with hormones disrupting the entire nervous system causing symptoms such as heart fluctuations weight loss diarrhea nervousness muscle aches and pains.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "body",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3476,
+            3480
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "heart fluctuations",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            3557,
+            3575
+          ],
+          "text": "heart fluctuations"
+        }
+      ]
+    },
+    {
+      "score": 0.404315,
+      "sentence": "Dr McMillan search the medical journals for clues trying to find out what could be causing an outbreak of thyroid problems in the area and I came across a title that said first ever epidemic of silent thyroiditis York Nebraska.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            3727,
+            3735
+          ],
+          "text": "outbreak"
+        },
+        {
+          "entities": [
+            {
+              "text": "area",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            3763,
+            3767
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.437267,
+      "sentence": "Well your compressed because about a hundred twenty miles south of here the outbreak in York Nebraska happened just one year earlier residents complained of the same symptoms heart problems fevers fatigue loss of appetite and weight loss so many people were killed it threaten the economy of the small farming community.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            3937,
+            3945
+          ],
+          "text": "outbreak"
+        },
+        {
+          "entities": [
+            {
+              "text": "New York Nebraska",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3949,
+            3962
+          ],
+          "text": "York Nebraska"
+        }
+      ]
+    },
+    {
+      "score": 0.5125,
+      "sentence": "Because of the outbreak was finally discovered and investigators believe that the tainted also was the cause of the outbreak in New York Nebraska the year before shortly after this outbreak the U.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            16736,
+            16744
+          ],
+          "text": "outbreak"
+        },
+        {
+          "entities": [
+            {
+              "text": "New York Nebraska",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            16748,
+            16765
+          ],
+          "text": "New York Nebraska"
+        }
+      ]
+    },
+    {
+      "score": 0.898955,
+      "sentence": "Well your compressed because about a hundred twenty miles south of here the outbreak in York Nebraska happened just one year earlier residents complained of the same symptoms heart problems fevers fatigue loss of appetite and weight loss so many people were killed it threaten the economy of the small farming community.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one year earlier",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            3977,
+            3993
+          ],
+          "text": "one year earlier"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            3937,
+            3945
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.575877,
+      "sentence": "Well your compressed because about a hundred twenty miles south of here the outbreak in York Nebraska happened just one year earlier residents complained of the same symptoms heart problems fevers fatigue loss of appetite and weight loss so many people were killed it threaten the economy of the small farming community.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one year earlier",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            3977,
+            3993
+          ],
+          "text": "one year earlier"
+        },
+        {
+          "entities": [
+            {
+              "text": "complained",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4004,
+            4014
+          ],
+          "text": "complained"
+        }
+      ]
+    },
+    {
+      "score": 0.932926,
+      "sentence": "Well your compressed because about a hundred twenty miles south of here the outbreak in York Nebraska happened just one year earlier residents complained of the same symptoms heart problems fevers fatigue loss of appetite and weight loss so many people were killed it threaten the economy of the small farming community.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "residents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3994,
+            4003
+          ],
+          "text": "residents"
+        },
+        {
+          "entities": [
+            {
+              "text": "complained",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4004,
+            4014
+          ],
+          "text": "complained"
+        }
+      ]
+    },
+    {
+      "score": 0.888891,
+      "sentence": "Doctors from the centers for disease control in Atlanta were called in to investigate but just as they arrive.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doctors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4182,
+            4189
+          ],
+          "text": "Doctors"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4243,
+            4249
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.704946,
+      "sentence": "The residents recovered and the cause of the York outbreak was never discovered.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "residents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4371,
+            4380
+          ],
+          "text": "residents"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            4417,
+            4425
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.572563,
+      "sentence": "The residents recovered and the cause of the York outbreak was never discovered.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "New York Nebraska",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4412,
+            4416
+          ],
+          "text": "York"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            4417,
+            4425
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.48707,
+      "sentence": "Many farming community of about eight hundred people not far from the Minnesota border it's a community of farms in suburban professionals many of whom were in the nearby city of Sioux falls.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            307,
+            313
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "border",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            341,
+            347
+          ],
+          "text": "border"
+        }
+      ]
+    },
+    {
+      "score": 0.980793,
+      "sentence": "Dr McMillan immediately call the CDC to let them know what was happening again.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael McMillan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4451,
+            4459
+          ],
+          "text": "McMillan"
+        },
+        {
+          "entities": [
+            {
+              "text": "call",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4472,
+            4476
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.614501,
+      "sentence": "Dr McMillan immediately call the CDC to let them know what was happening again.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "CDC",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4481,
+            4484
+          ],
+          "text": "CDC"
+        },
+        {
+          "entities": [
+            {
+              "text": "call",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4472,
+            4476
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.387675,
+      "sentence": "I'M trying to get a hold of doctor Dan Fishbein I was knew that it was going to happen again because I do with the one thing we all admit it is even the people thought it was a virus we didn't know what virus we didn't know what it was caused by so I knew that was going to happen again and so I was not quite expecting but certainly was not surprised as the CDC prepared to investigate this outbreak the number of cases was rising even if it just spread the Sioux falls with all the people here let alone Minneapolis or Detroit or something we would have a major medical catastrophe on our hands.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5012,
+            5018
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "city of Sioux",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5019,
+            5023
+          ],
+          "text": "here"
+        }
+      ]
+    },
+    {
+      "score": 0.550915,
+      "sentence": "In June of nineteen eighty five there were fifty cases of the mysterious thyroid outbreak concentrated in to nearby towns look for Minnesota and valley springs South Dakota.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "towns",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5329,
+            5334
+          ],
+          "text": "towns"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            5294,
+            5302
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.507633,
+      "sentence": "In June of nineteen eighty five there were fifty cases of the mysterious thyroid outbreak concentrated in to nearby towns look for Minnesota and valley springs South Dakota.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Rochester Minnesota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5344,
+            5353
+          ],
+          "text": "Minnesota"
+        },
+        {
+          "entities": [
+            {
+              "text": "valley springs South Dakota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5358,
+            5385
+          ],
+          "text": "valley springs South Dakota"
+        }
+      ]
+    },
+    {
+      "score": 0.488818,
+      "sentence": "Is it possible that the outbreak is being spread person to person.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "teenager",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5987,
+            5993
+          ],
+          "text": "person"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            5962,
+            5970
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.923669,
+      "sentence": "Everyone suspected of having the disease was given a blood test and interviewed about where or how they might have contracted to talk to patients and you hope that by doing unstructured interviews to get some ideas one of the questions that I thought was kind of cute the epidemiology.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6142,
+            6150
+          ],
+          "text": "patients"
+        },
+        {
+          "entities": [
+            {
+              "text": "talk",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6134,
+            6138
+          ],
+          "text": "talk"
+        }
+      ]
+    },
+    {
+      "score": 0.686866,
+      "sentence": "Everyone suspected of having the disease was given a blood test and interviewed about where or how they might have contracted to talk to patients and you hope that by doing unstructured interviews to get some ideas one of the questions that I thought was kind of cute the epidemiology.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6155,
+            6158
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviews",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            6191,
+            6201
+          ],
+          "text": "interviews"
+        }
+      ]
+    },
+    {
+      "score": 0.742759,
+      "sentence": "There'S been a lot of tornadoes in this area the year before the most frequent response was I guess those tornadoes stirred up some chemicals in that that got into our water supply.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "tornadoes",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            6383,
+            6392
+          ],
+          "text": "tornadoes"
+        },
+        {
+          "entities": [
+            {
+              "text": "area",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            6401,
+            6405
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.613864,
+      "sentence": "There'S been a lot of tornadoes in this area the year before the most frequent response was I guess those tornadoes stirred up some chemicals in that that got into our water supply.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "the year before",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            6406,
+            6421
+          ],
+          "text": "the year before"
+        },
+        {
+          "entities": [
+            {
+              "text": "tornadoes",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            6383,
+            6392
+          ],
+          "text": "tornadoes"
+        }
+      ]
+    },
+    {
+      "score": 0.48894,
+      "sentence": "Many farming community of about eight hundred people not far from the Minnesota border it's a community of farms in suburban professionals many of whom were in the nearby city of Sioux falls.",
+      "type": "near",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "border",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            341,
+            347
+          ],
+          "text": "border"
+        },
+        {
+          "entities": [
+            {
+              "text": "Rochester Minnesota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            331,
+            340
+          ],
+          "text": "Minnesota"
+        }
+      ]
+    },
+    {
+      "score": 0.675393,
+      "sentence": "But in order to determine what was causing the outbreak investigators first had to figure out what the problem is blood tests revealed that all of the victims had an excess of thyroid hormone in their system in some cases the levels were eight and ten times above normal test of the drinking water did not reveal anything which could have caused the outbreak.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6599,
+            6612
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            6590,
+            6598
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.364581,
+      "sentence": "Dr Louis Braverman is the country's leading expert in thyroid diseases he was asked to examine some of the sick patients in South Dakota we then went out to a small community call Beaver Creek if I recall and went into one house hold where they were for generations.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Louis Braverman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6947,
+            6953
+          ],
+          "text": "expert"
+        },
+        {
+          "entities": [
+            {
+              "text": "country",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6929,
+            6936
+          ],
+          "text": "country"
+        }
+      ]
+    },
+    {
+      "score": 0.752513,
+      "sentence": "Dr Louis Braverman is the country's leading expert in thyroid diseases he was asked to examine some of the sick patients in South Dakota we then went out to a small community call Beaver Creek if I recall and went into one house hold where they were for generations.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Louis Braverman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6947,
+            6953
+          ],
+          "text": "expert"
+        },
+        {
+          "entities": [
+            {
+              "text": "diseases",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            6965,
+            6973
+          ],
+          "text": "diseases"
+        }
+      ]
+    },
+    {
+      "score": 0.775494,
+      "sentence": "Dr Louis Braverman is the country's leading expert in thyroid diseases he was asked to examine some of the sick patients in South Dakota we then went out to a small community call Beaver Creek if I recall and went into one house hold where they were for generations.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Louis Braverman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6974,
+            6976
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "diseases",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            6965,
+            6973
+          ],
+          "text": "diseases"
+        }
+      ]
+    },
+    {
+      "score": 0.661349,
+      "sentence": "Dr Louis Braverman is the country's leading expert in thyroid diseases he was asked to examine some of the sick patients in South Dakota we then went out to a small community call Beaver Creek if I recall and went into one house hold where they were for generations.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Louis Braverman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6947,
+            6953
+          ],
+          "text": "expert"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6981,
+            6986
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.879573,
+      "sentence": "Dr Louis Braverman is the country's leading expert in thyroid diseases he was asked to examine some of the sick patients in South Dakota we then went out to a small community call Beaver Creek if I recall and went into one house hold where they were for generations.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Louis Braverman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6974,
+            6976
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6981,
+            6986
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.48495,
+      "sentence": "Dr Louis Braverman is the country's leading expert in thyroid diseases he was asked to examine some of the sick patients in South Dakota we then went out to a small community call Beaver Creek if I recall and went into one house hold where they were for generations.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7015,
+            7023
+          ],
+          "text": "patients"
+        },
+        {
+          "entities": [
+            {
+              "text": "valley springs South Dakota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7027,
+            7039
+          ],
+          "text": "South Dakota"
+        }
+      ]
+    },
+    {
+      "score": 0.590712,
+      "sentence": "Dr Louis Braverman is the country's leading expert in thyroid diseases he was asked to examine some of the sick patients in South Dakota we then went out to a small community call Beaver Creek if I recall and went into one house hold where they were for generations.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7068,
+            7077
+          ],
+          "text": "community"
+        },
+        {
+          "entities": [
+            {
+              "text": "Beaver Creek",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7083,
+            7095
+          ],
+          "text": "Beaver Creek"
+        }
+      ]
+    },
+    {
+      "score": 0.658998,
+      "sentence": "A greater is the term for an enlarged thyroid this part of the country's called quite a bell because it was I had dined deficiency here there's no iodine in the soil there's nobody eating seafood and so people used to get large iodine deficient gliders the condition was so common that in nineteen twenty two the Mayo brothers opened the Mayo Clinic in nearby Rochester Minnesota offering safe affordable surgery to alleviate the huge number of thyroid problems in the region.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "country",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7642,
+            7649
+          ],
+          "text": "country"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7652,
+            7658
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.546326,
+      "sentence": "A greater is the term for an enlarged thyroid this part of the country's called quite a bell because it was I had dined deficiency here there's no iodine in the soil there's nobody eating seafood and so people used to get large iodine deficient gliders the condition was so common that in nineteen twenty two the Mayo brothers opened the Mayo Clinic in nearby Rochester Minnesota offering safe affordable surgery to alleviate the huge number of thyroid problems in the region.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brothers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7897,
+            7905
+          ],
+          "text": "brothers"
+        },
+        {
+          "entities": [
+            {
+              "text": "Mayo",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7892,
+            7896
+          ],
+          "text": "Mayo"
+        }
+      ]
+    },
+    {
+      "score": 0.788036,
+      "sentence": "A greater is the term for an enlarged thyroid this part of the country's called quite a bell because it was I had dined deficiency here there's no iodine in the soil there's nobody eating seafood and so people used to get large iodine deficient gliders the condition was so common that in nineteen twenty two the Mayo brothers opened the Mayo Clinic in nearby Rochester Minnesota offering safe affordable surgery to alleviate the huge number of thyroid problems in the region.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "brothers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7897,
+            7905
+          ],
+          "text": "brothers"
+        },
+        {
+          "entities": [
+            {
+              "text": "Mayo Clinic",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7917,
+            7928
+          ],
+          "text": "Mayo Clinic"
+        }
+      ]
+    },
+    {
+      "score": 0.89241,
+      "sentence": "A greater is the term for an enlarged thyroid this part of the country's called quite a bell because it was I had dined deficiency here there's no iodine in the soil there's nobody eating seafood and so people used to get large iodine deficient gliders the condition was so common that in nineteen twenty two the Mayo brothers opened the Mayo Clinic in nearby Rochester Minnesota offering safe affordable surgery to alleviate the huge number of thyroid problems in the region.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mayo Clinic",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7917,
+            7928
+          ],
+          "text": "Mayo Clinic"
+        },
+        {
+          "entities": [
+            {
+              "text": "Rochester Minnesota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7939,
+            7958
+          ],
+          "text": "Rochester Minnesota"
+        }
+      ]
+    },
+    {
+      "score": 0.392003,
+      "sentence": "Many farming community of about eight hundred people not far from the Minnesota border it's a community of farms in suburban professionals many of whom were in the nearby city of Sioux falls.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "professionals",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            408,
+            412
+          ],
+          "text": "whom"
+        },
+        {
+          "entities": [
+            {
+              "text": "city of Sioux",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            432,
+            445
+          ],
+          "text": "city of Sioux"
+        }
+      ]
+    },
+    {
+      "score": 0.560059,
+      "sentence": "Over the years as diets improved the thyroid problems went away but this outbreak was different all of the patients had normal thyroid and for some patients the condition was serious one of the cases was a patient I'd seen in the intensive care unit here in the hospital and it was an older lady who have whose heart had suddenly started beating.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8163,
+            8171
+          ],
+          "text": "patients"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            8129,
+            8137
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.618361,
+      "sentence": "Over the years as diets improved the thyroid problems went away but this outbreak was different all of the patients had normal thyroid and for some patients the condition was serious one of the cases was a patient I'd seen in the intensive care unit here in the hospital and it was an older lady who have whose heart had suddenly started beating.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8318,
+            8326
+          ],
+          "text": "hospital"
+        },
+        {
+          "entities": [
+            {
+              "text": "valley springs South Dakota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8306,
+            8310
+          ],
+          "text": "here"
+        }
+      ]
+    },
+    {
+      "score": 0.826978,
+      "sentence": "Irregularly and she gone into heart failure to find out if this was indeed a virus health officials decided to take throat and fecal specimens for analysis but all of the tests were negative then Dr McMillan noticed something interesting the geographic location of many of the victims here was a community of valley springs.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8419,
+            8422
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "heart failure",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            8433,
+            8446
+          ],
+          "text": "heart failure"
+        }
+      ]
+    },
+    {
+      "score": 0.328035,
+      "sentence": "Irregularly and she gone into heart failure to find out if this was indeed a virus health officials decided to take throat and fecal specimens for analysis but all of the tests were negative then Dr McMillan noticed something interesting the geographic location of many of the victims here was a community of valley springs.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victims",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8680,
+            8687
+          ],
+          "text": "victims"
+        },
+        {
+          "entities": [
+            {
+              "text": "valley springs South Dakota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8688,
+            8692
+          ],
+          "text": "here"
+        }
+      ]
+    },
+    {
+      "score": 0.512351,
+      "sentence": "Was a community of Gerritsen which was almost the same size there were nine people in valley springs with the disease nobody inherits with the disease how could those two communities well what was what was the difference in fact the epicenter of the outbreak was laverne Minnesota and there were no cases west of valley springs but that changed when a resident of Sioux falls call doctor McMillan to say that she was suffering from the thyroid disease.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8845,
+            8851
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "diarrhea",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            8879,
+            8886
+          ],
+          "text": "disease"
+        }
+      ]
+    },
+    {
+      "score": 0.480626,
+      "sentence": "Was a community of Gerritsen which was almost the same size there were nine people in valley springs with the disease nobody inherits with the disease how could those two communities well what was what was the difference in fact the epicenter of the outbreak was laverne Minnesota and there were no cases west of valley springs but that changed when a resident of Sioux falls call doctor McMillan to say that she was suffering from the thyroid disease.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "springs",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            9089,
+            9096
+          ],
+          "text": "springs"
+        },
+        {
+          "entities": [
+            {
+              "text": "valley springs South Dakota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9082,
+            9088
+          ],
+          "text": "valley"
+        }
+      ]
+    },
+    {
+      "score": 0.781287,
+      "sentence": "Parents owned a grocery store in valley springs where she occasionally purchased her groceries Dr McMillan drove out to visit her parents Larry and Margaret long and to take a look around their store.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "springs",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            9288,
+            9295
+          ],
+          "text": "springs"
+        },
+        {
+          "entities": [
+            {
+              "text": "valley springs South Dakota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9281,
+            9287
+          ],
+          "text": "valley"
+        }
+      ]
+    },
+    {
+      "score": 0.727931,
+      "sentence": "And for comparison another group was fed raw burger purchase near the laboratory in Worcester Massachusetts the rats which eight the Minnesota burger exhibited all the signs of thyroid problems these rats were wild rats I mean they were very jittery nervous and this is compared to the rather tranquil normal behavior of the rats fed the Worcester hamburgers so that there's no question that these rats were one could use the expression clinically sour toxic but residents of valley springs and laverne weren't eating raw hamburger and cooking the meat usually kills all bacteria and micro organisms most of us eat cooked hamburger and as a matter of fact people in the Midwest tend to cook them Hamburg is much more so than we do in the northeast investigators next step to do some tests on humans they also wanted to know how an entire family develop thyrotoxicosis",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "springs",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            13062,
+            13069
+          ],
+          "text": "springs"
+        },
+        {
+          "entities": [
+            {
+              "text": "valley springs South Dakota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13055,
+            13061
+          ],
+          "text": "valley"
+        }
+      ]
+    },
+    {
+      "score": 0.675817,
+      "sentence": "S. department of agriculture instituted strict guidelines for the trimming of meat from neck muscles and declared the thyroid gland was to be considered on for human consumption but the residents of valley springs and liver and don't care much about their place in medical history and they aren't the type to hold a grudge one hundred twenty one residents develop thyrotoxicosis and all recovered fortunately there were no fatalities it's become one of CBC's major teaching cases because it illustrates all sorts of things that are really not usually encountered that are very important lessons for young epidemiologist the outbreak.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "springs",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            17023,
+            17030
+          ],
+          "text": "springs"
+        },
+        {
+          "entities": [
+            {
+              "text": "valley springs South Dakota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            17016,
+            17022
+          ],
+          "text": "valley"
+        }
+      ]
+    },
+    {
+      "score": 0.913263,
+      "sentence": "Was a community of Gerritsen which was almost the same size there were nine people in valley springs with the disease nobody inherits with the disease how could those two communities well what was what was the difference in fact the epicenter of the outbreak was laverne Minnesota and there were no cases west of valley springs but that changed when a resident of Sioux falls call doctor McMillan to say that she was suffering from the thyroid disease.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael McMillan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9121,
+            9129
+          ],
+          "text": "resident"
+        },
+        {
+          "entities": [
+            {
+              "text": "city of Sioux",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9133,
+            9144
+          ],
+          "text": "Sioux falls"
+        }
+      ]
+    },
+    {
+      "score": 0.818321,
+      "sentence": "Was a community of Gerritsen which was almost the same size there were nine people in valley springs with the disease nobody inherits with the disease how could those two communities well what was what was the difference in fact the epicenter of the outbreak was laverne Minnesota and there were no cases west of valley springs but that changed when a resident of Sioux falls call doctor McMillan to say that she was suffering from the thyroid disease.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael McMillan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9121,
+            9129
+          ],
+          "text": "resident"
+        },
+        {
+          "entities": [
+            {
+              "text": "call",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9145,
+            9149
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.493008,
+      "sentence": "Was a community of Gerritsen which was almost the same size there were nine people in valley springs with the disease nobody inherits with the disease how could those two communities well what was what was the difference in fact the epicenter of the outbreak was laverne Minnesota and there were no cases west of valley springs but that changed when a resident of Sioux falls call doctor McMillan to say that she was suffering from the thyroid disease.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael McMillan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9150,
+            9156
+          ],
+          "text": "doctor"
+        },
+        {
+          "entities": [
+            {
+              "text": "call",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9145,
+            9149
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.633194,
+      "sentence": "Was a community of Gerritsen which was almost the same size there were nine people in valley springs with the disease nobody inherits with the disease how could those two communities well what was what was the difference in fact the epicenter of the outbreak was laverne Minnesota and there were no cases west of valley springs but that changed when a resident of Sioux falls call doctor McMillan to say that she was suffering from the thyroid disease.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael McMillan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9157,
+            9165
+          ],
+          "text": "McMillan"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9169,
+            9172
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.252752,
+      "sentence": "Not all the time I guess that's what threw me off it's been a steady you couldn't put up with the heart would be the only feeling falls and just pound and you could feel your heart mountain you hate your legs and arms hurt real bad I started getting chills then I get hot flashes then I couldn't eat I've been nauseated everything was just happening really really fast at first doctors were confused about the symptoms Jane noticed dad's doctor thought she was having a nervous breakdown and put her in the hospital I'd never you know had any of this problem before the mental problems solved he put me on a mood elevator and about eight hours later my heart was a hundred and sixty.",
+      "type": "clientOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "dad",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1194,
+            1197
+          ],
+          "text": "dad"
+        },
+        {
+          "entities": [
+            {
+              "text": "doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1200,
+            1206
+          ],
+          "text": "doctor"
+        }
+      ]
+    },
+    {
+      "score": 0.510247,
+      "sentence": "Parents owned a grocery store in valley springs where she occasionally purchased her groceries Dr McMillan drove out to visit her parents Larry and Margaret long and to take a look around their store.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9248,
+            9255
+          ],
+          "text": "Parents"
+        },
+        {
+          "entities": [
+            {
+              "text": "grocery store",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9264,
+            9277
+          ],
+          "text": "grocery store"
+        }
+      ]
+    },
+    {
+      "score": 0.39654,
+      "sentence": "Parents owned a grocery store in valley springs where she occasionally purchased her groceries Dr McMillan drove out to visit her parents Larry and Margaret long and to take a look around their store.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9248,
+            9255
+          ],
+          "text": "Parents"
+        },
+        {
+          "entities": [
+            {
+              "text": "springs",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            9288,
+            9295
+          ],
+          "text": "springs"
+        }
+      ]
+    },
+    {
+      "score": 0.948007,
+      "sentence": "Parents owned a grocery store in valley springs where she occasionally purchased her groceries Dr McMillan drove out to visit her parents Larry and Margaret long and to take a look around their store.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "grocery store",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9264,
+            9277
+          ],
+          "text": "grocery store"
+        },
+        {
+          "entities": [
+            {
+              "text": "valley springs South Dakota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9281,
+            9287
+          ],
+          "text": "valley"
+        }
+      ]
+    },
+    {
+      "score": 0.639564,
+      "sentence": "Parents owned a grocery store in valley springs where she occasionally purchased her groceries Dr McMillan drove out to visit her parents Larry and Margaret long and to take a look around their store.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "grocery store",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9264,
+            9277
+          ],
+          "text": "grocery store"
+        },
+        {
+          "entities": [
+            {
+              "text": "springs",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            9288,
+            9295
+          ],
+          "text": "springs"
+        }
+      ]
+    },
+    {
+      "score": 0.546849,
+      "sentence": "Parents owned a grocery store in valley springs where she occasionally purchased her groceries Dr McMillan drove out to visit her parents Larry and Margaret long and to take a look around their store.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "grocery store",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9296,
+            9301
+          ],
+          "text": "where"
+        },
+        {
+          "entities": [
+            {
+              "text": "springs",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            9288,
+            9295
+          ],
+          "text": "springs"
+        }
+      ]
+    },
+    {
+      "score": 0.549913,
+      "sentence": "Parents owned a grocery store in valley springs where she occasionally purchased her groceries Dr McMillan drove out to visit her parents Larry and Margaret long and to take a look around their store.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9302,
+            9305
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "springs",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            9288,
+            9295
+          ],
+          "text": "springs"
+        }
+      ]
+    },
+    {
+      "score": 0.429479,
+      "sentence": "Parents owned a grocery store in valley springs where she occasionally purchased her groceries Dr McMillan drove out to visit her parents Larry and Margaret long and to take a look around their store.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael McMillan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9346,
+            9354
+          ],
+          "text": "McMillan"
+        },
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9378,
+            9385
+          ],
+          "text": "parents"
+        }
+      ]
+    },
+    {
+      "score": 0.337281,
+      "sentence": "When Dr McMillan learned that the daughter of the grocery store owner develop thyroid toxic closest yet her parents did not decided to investigate.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael McMillan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9607,
+            9612
+          ],
+          "text": "owner"
+        },
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9651,
+            9658
+          ],
+          "text": "parents"
+        }
+      ]
+    },
+    {
+      "score": 0.591792,
+      "sentence": "Parents owned a grocery store in valley springs where she occasionally purchased her groceries Dr McMillan drove out to visit her parents Larry and Margaret long and to take a look around their store.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9374,
+            9377
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9378,
+            9385
+          ],
+          "text": "parents"
+        }
+      ]
+    },
+    {
+      "score": 0.576718,
+      "sentence": "When Dr McMillan learned that the daughter of the grocery store owner develop thyroid toxic closest yet her parents did not decided to investigate.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9647,
+            9650
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9651,
+            9658
+          ],
+          "text": "parents"
+        }
+      ]
+    },
+    {
+      "score": 0.919551,
+      "sentence": "Parents owned a grocery store in valley springs where she occasionally purchased her groceries Dr McMillan drove out to visit her parents Larry and Margaret long and to take a look around their store.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9386,
+            9391
+          ],
+          "text": "Larry"
+        },
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9378,
+            9385
+          ],
+          "text": "parents"
+        }
+      ]
+    },
+    {
+      "score": 0.524849,
+      "sentence": "Parents owned a grocery store in valley springs where she occasionally purchased her groceries Dr McMillan drove out to visit her parents Larry and Margaret long and to take a look around their store.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Margaret",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9396,
+            9404
+          ],
+          "text": "Margaret"
+        },
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9378,
+            9385
+          ],
+          "text": "parents"
+        }
+      ]
+    },
+    {
+      "score": 0.581722,
+      "sentence": "The lawns did not have thyrotoxicosis by their daughter did.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9490,
+            9495
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9496,
+            9504
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.68826,
+      "sentence": "The grocery store owned by Larry and Margaret long had a specialty item extra lean ground beef Dr McMillan asked the lawns how often they ate the ground beef themselves they laughed and said never it was such a popular item they were always sold out it was a great man it was is run about ninety percent lean but the long said their daughter might have taken some with her on her last visit on a hunch McMillan took a sample for analysis by now there were more than one hundred cases of the mysterious thyroid outbreak and for some the symptoms were troubling when I had that virus scanned couple.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10018,
+            10023
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10024,
+            10032
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.697506,
+      "sentence": "Not all the time I guess that's what threw me off it's been a steady you couldn't put up with the heart would be the only feeling falls and just pound and you could feel your heart mountain you hate your legs and arms hurt real bad I started getting chills then I get hot flashes then I couldn't eat I've been nauseated everything was just happening really really fast at first doctors were confused about the symptoms Jane noticed dad's doctor thought she was having a nervous breakdown and put her in the hospital I'd never you know had any of this problem before the mental problems solved he put me on a mood elevator and about eight hours later my heart was a hundred and sixty.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1258,
+            1261
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1269,
+            1277
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.595693,
+      "sentence": "When Dr McMillan learned that the daughter of the grocery store owner develop thyroid toxic closest yet her parents did not decided to investigate.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9577,
+            9585
+          ],
+          "text": "daughter"
+        },
+        {
+          "entities": [
+            {
+              "text": "grocery store",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9593,
+            9606
+          ],
+          "text": "grocery store"
+        }
+      ]
+    },
+    {
+      "score": 0.435314,
+      "sentence": "When Dr McMillan learned that the daughter of the grocery store owner develop thyroid toxic closest yet her parents did not decided to investigate.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9577,
+            9585
+          ],
+          "text": "daughter"
+        },
+        {
+          "entities": [
+            {
+              "text": "Michael McMillan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9607,
+            9612
+          ],
+          "text": "owner"
+        }
+      ]
+    },
+    {
+      "score": 0.397492,
+      "sentence": "When Dr McMillan learned that the daughter of the grocery store owner develop thyroid toxic closest yet her parents did not decided to investigate.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael McMillan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9607,
+            9612
+          ],
+          "text": "owner"
+        },
+        {
+          "entities": [
+            {
+              "text": "grocery store",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9593,
+            9606
+          ],
+          "text": "grocery store"
+        }
+      ]
+    },
+    {
+      "score": 0.315184,
+      "sentence": "The grocery store owned by Larry and Margaret long had a specialty item extra lean ground beef Dr McMillan asked the lawns how often they ate the ground beef themselves they laughed and said never it was such a popular item they were always sold out it was a great man it was is run about ninety percent lean but the long said their daughter might have taken some with her on her last visit on a hunch McMillan took a sample for analysis by now there were more than one hundred cases of the mysterious thyroid outbreak and for some the symptoms were troubling when I had that virus scanned couple.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9718,
+            9723
+          ],
+          "text": "Larry"
+        },
+        {
+          "entities": [
+            {
+              "text": "grocery store",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9695,
+            9708
+          ],
+          "text": "grocery store"
+        }
+      ]
+    },
+    {
+      "score": 0.998372,
+      "sentence": "The grocery store owned by Larry and Margaret long had a specialty item extra lean ground beef Dr McMillan asked the lawns how often they ate the ground beef themselves they laughed and said never it was such a popular item they were always sold out it was a great man it was is run about ninety percent lean but the long said their daughter might have taken some with her on her last visit on a hunch McMillan took a sample for analysis by now there were more than one hundred cases of the mysterious thyroid outbreak and for some the symptoms were troubling when I had that virus scanned couple.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael McMillan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9789,
+            9797
+          ],
+          "text": "McMillan"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9798,
+            9803
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.481547,
+      "sentence": "All the work in the hospital it thought I had cancer is what they told me they told me this person within without your dying cancer because I look so bad I went in for this irate scanned then of course the world's greatest endocrinologist were called in and and we had I remember the meeting with them and we've laid out all the data told everything and they sat there and shrug their shoulders and said.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael McMillan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10329,
+            10330
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "diarrhea",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            10335,
+            10341
+          ],
+          "text": "cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.799792,
+      "sentence": "All the work in the hospital it thought I had cancer is what they told me they told me this person within without your dying cancer because I look so bad I went in for this irate scanned then of course the world's greatest endocrinologist were called in and and we had I remember the meeting with them and we've laid out all the data told everything and they sat there and shrug their shoulders and said.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael McMillan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10403,
+            10407
+          ],
+          "text": "your"
+        },
+        {
+          "entities": [
+            {
+              "text": "diarrhea",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            10414,
+            10420
+          ],
+          "text": "cancer"
+        }
+      ]
+    },
+    {
+      "score": 0.933414,
+      "sentence": "All the work in the hospital it thought I had cancer is what they told me they told me this person within without your dying cancer because I look so bad I went in for this irate scanned then of course the world's greatest endocrinologist were called in and and we had I remember the meeting with them and we've laid out all the data told everything and they sat there and shrug their shoulders and said.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10350,
+            10354
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10355,
+            10359
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.930912,
+      "sentence": "All the work in the hospital it thought I had cancer is what they told me they told me this person within without your dying cancer because I look so bad I went in for this irate scanned then of course the world's greatest endocrinologist were called in and and we had I remember the meeting with them and we've laid out all the data told everything and they sat there and shrug their shoulders and said.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10363,
+            10367
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10368,
+            10372
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.502401,
+      "sentence": "All the work in the hospital it thought I had cancer is what they told me they told me this person within without your dying cancer because I look so bad I went in for this irate scanned then of course the world's greatest endocrinologist were called in and and we had I remember the meeting with them and we've laid out all the data told everything and they sat there and shrug their shoulders and said.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10595,
+            10597
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10623,
+            10627
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.787923,
+      "sentence": "All the work in the hospital it thought I had cancer is what they told me they told me this person within without your dying cancer because I look so bad I went in for this irate scanned then of course the world's greatest endocrinologist were called in and and we had I remember the meeting with them and we've laid out all the data told everything and they sat there and shrug their shoulders and said.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael McMillan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10360,
+            10362
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10355,
+            10359
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.913387,
+      "sentence": "All the work in the hospital it thought I had cancer is what they told me they told me this person within without your dying cancer because I look so bad I went in for this irate scanned then of course the world's greatest endocrinologist were called in and and we had I remember the meeting with them and we've laid out all the data told everything and they sat there and shrug their shoulders and said.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael McMillan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10373,
+            10375
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10368,
+            10372
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.609259,
+      "sentence": "All the work in the hospital it thought I had cancer is what they told me they told me this person within without your dying cancer because I look so bad I went in for this irate scanned then of course the world's greatest endocrinologist were called in and and we had I remember the meeting with them and we've laid out all the data told everything and they sat there and shrug their shoulders and said.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10551,
+            10553
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviews",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            10573,
+            10580
+          ],
+          "text": "meeting"
+        }
+      ]
+    },
+    {
+      "score": 0.755935,
+      "sentence": "All the work in the hospital it thought I had cancer is what they told me they told me this person within without your dying cancer because I look so bad I went in for this irate scanned then of course the world's greatest endocrinologist were called in and and we had I remember the meeting with them and we've laid out all the data told everything and they sat there and shrug their shoulders and said.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10586,
+            10590
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviews",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            10573,
+            10580
+          ],
+          "text": "meeting"
+        }
+      ]
+    },
+    {
+      "score": 0.772158,
+      "sentence": "All the work in the hospital it thought I had cancer is what they told me they told me this person within without your dying cancer because I look so bad I went in for this irate scanned then of course the world's greatest endocrinologist were called in and and we had I remember the meeting with them and we've laid out all the data told everything and they sat there and shrug their shoulders and said.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael McMillan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10558,
+            10559
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviews",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            10573,
+            10580
+          ],
+          "text": "meeting"
+        }
+      ]
+    },
+    {
+      "score": 0.285343,
+      "sentence": "Not all the time I guess that's what threw me off it's been a steady you couldn't put up with the heart would be the only feeling falls and just pound and you could feel your heart mountain you hate your legs and arms hurt real bad I started getting chills then I get hot flashes then I couldn't eat I've been nauseated everything was just happening really really fast at first doctors were confused about the symptoms Jane noticed dad's doctor thought she was having a nervous breakdown and put her in the hospital I'd never you know had any of this problem before the mental problems solved he put me on a mood elevator and about eight hours later my heart was a hundred and sixty.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1278,
+            1279
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1269,
+            1277
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.836066,
+      "sentence": "Ten people we want everybody in the family did their blood tests and everybody had elevated thyroid function tests except one person and that was a teenager but how was the teenager different from the other family members who got sick or the father told investigators he worked at the local meat packing plant and regularly bought ground beef home for his family.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11125,
+            11134
+          ],
+          "text": "everybody"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11142,
+            11148
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.69468,
+      "sentence": "Ten people we want everybody in the family did their blood tests and everybody had elevated thyroid function tests except one person and that was a teenager but how was the teenager different from the other family members who got sick or the father told investigators he worked at the local meat packing plant and regularly bought ground beef home for his family.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "members",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11320,
+            11327
+          ],
+          "text": "members"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11313,
+            11319
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.950771,
+      "sentence": "Ten people we want everybody in the family did their blood tests and everybody had elevated thyroid function tests except one person and that was a teenager but how was the teenager different from the other family members who got sick or the father told investigators he worked at the local meat packing plant and regularly bought ground beef home for his family.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "grandfather",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11348,
+            11354
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11355,
+            11359
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.97468,
+      "sentence": "Ten people we want everybody in the family did their blood tests and everybody had elevated thyroid function tests except one person and that was a teenager but how was the teenager different from the other family members who got sick or the father told investigators he worked at the local meat packing plant and regularly bought ground beef home for his family.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11360,
+            11373
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11355,
+            11359
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.354774,
+      "sentence": "Ten people we want everybody in the family did their blood tests and everybody had elevated thyroid function tests except one person and that was a teenager but how was the teenager different from the other family members who got sick or the father told investigators he worked at the local meat packing plant and regularly bought ground beef home for his family.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "grandfather",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11374,
+            11376
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11449,
+            11453
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.44397,
+      "sentence": "Ten people we want everybody in the family did their blood tests and everybody had elevated thyroid function tests except one person and that was a teenager but how was the teenager different from the other family members who got sick or the father told investigators he worked at the local meat packing plant and regularly bought ground beef home for his family.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "grandfather",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11458,
+            11461
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11462,
+            11468
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.438553,
+      "sentence": "Animal thyroid contains extremely high levels of thyroid hormones was it possible that this was causing the outbreak of thyrotoxicosis in the two small communities.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "communities",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            12215,
+            12226
+          ],
+          "text": "communities"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            12171,
+            12179
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.690575,
+      "sentence": "And for comparison another group was fed raw burger purchase near the laboratory in Worcester Massachusetts the rats which eight the Minnesota burger exhibited all the signs of thyroid problems these rats were wild rats I mean they were very jittery nervous and this is compared to the rather tranquil normal behavior of the rats fed the Worcester hamburgers so that there's no question that these rats were one could use the expression clinically sour toxic but residents of valley springs and laverne weren't eating raw hamburger and cooking the meat usually kills all bacteria and micro organisms most of us eat cooked hamburger and as a matter of fact people in the Midwest tend to cook them Hamburg is much more so than we do in the northeast investigators next step to do some tests on humans they also wanted to know how an entire family develop thyrotoxicosis",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12606,
+            12611
+          ],
+          "text": "group"
+        },
+        {
+          "entities": [
+            {
+              "text": "laboratory",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12649,
+            12659
+          ],
+          "text": "laboratory"
+        }
+      ]
+    },
+    {
+      "score": 0.982369,
+      "sentence": "And for comparison another group was fed raw burger purchase near the laboratory in Worcester Massachusetts the rats which eight the Minnesota burger exhibited all the signs of thyroid problems these rats were wild rats I mean they were very jittery nervous and this is compared to the rather tranquil normal behavior of the rats fed the Worcester hamburgers so that there's no question that these rats were one could use the expression clinically sour toxic but residents of valley springs and laverne weren't eating raw hamburger and cooking the meat usually kills all bacteria and micro organisms most of us eat cooked hamburger and as a matter of fact people in the Midwest tend to cook them Hamburg is much more so than we do in the northeast investigators next step to do some tests on humans they also wanted to know how an entire family develop thyrotoxicosis",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "laboratory",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12649,
+            12659
+          ],
+          "text": "laboratory"
+        },
+        {
+          "entities": [
+            {
+              "text": "Worcester Massachusetts",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12663,
+            12686
+          ],
+          "text": "Worcester Massachusetts"
+        }
+      ]
+    },
+    {
+      "score": 0.822692,
+      "sentence": "And for comparison another group was fed raw burger purchase near the laboratory in Worcester Massachusetts the rats which eight the Minnesota burger exhibited all the signs of thyroid problems these rats were wild rats I mean they were very jittery nervous and this is compared to the rather tranquil normal behavior of the rats fed the Worcester hamburgers so that there's no question that these rats were one could use the expression clinically sour toxic but residents of valley springs and laverne weren't eating raw hamburger and cooking the meat usually kills all bacteria and micro organisms most of us eat cooked hamburger and as a matter of fact people in the Midwest tend to cook them Hamburg is much more so than we do in the northeast investigators next step to do some tests on humans they also wanted to know how an entire family develop thyrotoxicosis",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "burger",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12722,
+            12728
+          ],
+          "text": "burger"
+        },
+        {
+          "entities": [
+            {
+              "text": "Rochester Minnesota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12712,
+            12721
+          ],
+          "text": "Minnesota"
+        }
+      ]
+    },
+    {
+      "score": 0.639636,
+      "sentence": "Not all the time I guess that's what threw me off it's been a steady you couldn't put up with the heart would be the only feeling falls and just pound and you could feel your heart mountain you hate your legs and arms hurt real bad I started getting chills then I get hot flashes then I couldn't eat I've been nauseated everything was just happening really really fast at first doctors were confused about the symptoms Jane noticed dad's doctor thought she was having a nervous breakdown and put her in the hospital I'd never you know had any of this problem before the mental problems solved he put me on a mood elevator and about eight hours later my heart was a hundred and sixty.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1362,
+            1364
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "elevator",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1375,
+            1383
+          ],
+          "text": "elevator"
+        }
+      ]
+    },
+    {
+      "score": 0.540262,
+      "sentence": "And for comparison another group was fed raw burger purchase near the laboratory in Worcester Massachusetts the rats which eight the Minnesota burger exhibited all the signs of thyroid problems these rats were wild rats I mean they were very jittery nervous and this is compared to the rather tranquil normal behavior of the rats fed the Worcester hamburgers so that there's no question that these rats were one could use the expression clinically sour toxic but residents of valley springs and laverne weren't eating raw hamburger and cooking the meat usually kills all bacteria and micro organisms most of us eat cooked hamburger and as a matter of fact people in the Midwest tend to cook them Hamburg is much more so than we do in the northeast investigators next step to do some tests on humans they also wanted to know how an entire family develop thyrotoxicosis",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "residents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13042,
+            13051
+          ],
+          "text": "residents"
+        },
+        {
+          "entities": [
+            {
+              "text": "valley springs South Dakota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13055,
+            13061
+          ],
+          "text": "valley"
+        }
+      ]
+    },
+    {
+      "score": 0.621401,
+      "sentence": "S. department of agriculture instituted strict guidelines for the trimming of meat from neck muscles and declared the thyroid gland was to be considered on for human consumption but the residents of valley springs and liver and don't care much about their place in medical history and they aren't the type to hold a grudge one hundred twenty one residents develop thyrotoxicosis and all recovered fortunately there were no fatalities it's become one of CBC's major teaching cases because it illustrates all sorts of things that are really not usually encountered that are very important lessons for young epidemiologist the outbreak.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "residents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            17003,
+            17012
+          ],
+          "text": "residents"
+        },
+        {
+          "entities": [
+            {
+              "text": "valley springs South Dakota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            17016,
+            17022
+          ],
+          "text": "valley"
+        }
+      ]
+    },
+    {
+      "score": 0.6727,
+      "sentence": "And for comparison another group was fed raw burger purchase near the laboratory in Worcester Massachusetts the rats which eight the Minnesota burger exhibited all the signs of thyroid problems these rats were wild rats I mean they were very jittery nervous and this is compared to the rather tranquil normal behavior of the rats fed the Worcester hamburgers so that there's no question that these rats were one could use the expression clinically sour toxic but residents of valley springs and laverne weren't eating raw hamburger and cooking the meat usually kills all bacteria and micro organisms most of us eat cooked hamburger and as a matter of fact people in the Midwest tend to cook them Hamburg is much more so than we do in the northeast investigators next step to do some tests on humans they also wanted to know how an entire family develop thyrotoxicosis",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13235,
+            13241
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "Midwest",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            13249,
+            13256
+          ],
+          "text": "Midwest"
+        }
+      ]
+    },
+    {
+      "score": 0.536735,
+      "sentence": "And for comparison another group was fed raw burger purchase near the laboratory in Worcester Massachusetts the rats which eight the Minnesota burger exhibited all the signs of thyroid problems these rats were wild rats I mean they were very jittery nervous and this is compared to the rather tranquil normal behavior of the rats fed the Worcester hamburgers so that there's no question that these rats were one could use the expression clinically sour toxic but residents of valley springs and laverne weren't eating raw hamburger and cooking the meat usually kills all bacteria and micro organisms most of us eat cooked hamburger and as a matter of fact people in the Midwest tend to cook them Hamburg is much more so than we do in the northeast investigators next step to do some tests on humans they also wanted to know how an entire family develop thyrotoxicosis",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "rats",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13270,
+            13274
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "Hamburg",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13275,
+            13282
+          ],
+          "text": "Hamburg"
+        }
+      ]
+    },
+    {
+      "score": 0.402843,
+      "sentence": "And for comparison another group was fed raw burger purchase near the laboratory in Worcester Massachusetts the rats which eight the Minnesota burger exhibited all the signs of thyroid problems these rats were wild rats I mean they were very jittery nervous and this is compared to the rather tranquil normal behavior of the rats fed the Worcester hamburgers so that there's no question that these rats were one could use the expression clinically sour toxic but residents of valley springs and laverne weren't eating raw hamburger and cooking the meat usually kills all bacteria and micro organisms most of us eat cooked hamburger and as a matter of fact people in the Midwest tend to cook them Hamburg is much more so than we do in the northeast investigators next step to do some tests on humans they also wanted to know how an entire family develop thyrotoxicosis",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13327,
+            13340
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "northeast",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            13317,
+            13326
+          ],
+          "text": "northeast"
+        }
+      ]
+    },
+    {
+      "score": 0.665688,
+      "sentence": "while their young son did not.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13453,
+            13458
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "Richard Jacobson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13465,
+            13468
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.692636,
+      "sentence": "When investigators from the CDC found a large extended family who all suffered from thyroid problems except their young son they wanted to know why.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13483,
+            13496
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "CDC",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13506,
+            13509
+          ],
+          "text": "CDC"
+        }
+      ]
+    },
+    {
+      "score": 0.936058,
+      "sentence": "Interviews with the family revealed the boy he didn't eat meat everywhere except for an occasional pepperoni pizza I hate me I like this.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13647,
+            13653
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "Interviews",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            13627,
+            13637
+          ],
+          "text": "Interviews"
+        }
+      ]
+    },
+    {
+      "score": 0.844199,
+      "sentence": "Interviews with the family revealed the boy he didn't eat meat everywhere except for an occasional pepperoni pizza I hate me I like this.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13647,
+            13653
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "revealed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13654,
+            13662
+          ],
+          "text": "revealed"
+        }
+      ]
+    },
+    {
+      "score": 0.47842,
+      "sentence": "Interviews with the family revealed the boy he didn't eat meat everywhere except for an occasional pepperoni pizza I hate me I like this.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "grandfather",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13667,
+            13670
+          ],
+          "text": "boy"
+        },
+        {
+          "entities": [
+            {
+              "text": "revealed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13654,
+            13662
+          ],
+          "text": "revealed"
+        }
+      ]
+    },
+    {
+      "score": 0.819676,
+      "sentence": "And he's my son this was an important discovery.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "grandfather",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13774,
+            13776
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "Richard Jacobson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13777,
+            13780
+          ],
+          "text": "son"
+        }
+      ]
+    }
+  ]
+}

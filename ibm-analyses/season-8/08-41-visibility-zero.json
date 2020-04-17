@@ -1,0 +1,2914 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 14631,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Coast Guard",
+      "relevance": 0.95092,
+      "confidence": 0.999999,
+      "count": 4
+    },
+    {
+      "type": "Location",
+      "text": "Alabama",
+      "relevance": 0.898664,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Trudy M. Lowry",
+      "relevance": 0.853486,
+      "confidence": 0.977686,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty three minutes",
+      "relevance": 0.845863,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "forty eight inches",
+      "relevance": 0.800895,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Amtrak",
+      "relevance": 0.797927,
+      "confidence": 0.985946,
+      "count": 2,
+      "disambiguation": {
+        "name": "Amtrak",
+        "dbpedia_resource": "http://dbpedia.org/resource/Amtrak",
+        "subtype": [
+          "Organization",
+          "GovernmentAgency",
+          "TransportOperator"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "forty five degree",
+      "relevance": 0.759554,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one hundred sixty five foot",
+      "relevance": 0.695215,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one hundred forty foot",
+      "relevance": 0.691437,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one hundred ninety two feet",
+      "relevance": 0.684139,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Larry",
+      "relevance": 0.673257,
+      "confidence": 0.999726,
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "national transportation safety board",
+      "relevance": 0.632862,
+      "confidence": 0.913717,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Carly",
+      "relevance": 0.596139,
+      "confidence": 0.999305,
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "FBI",
+      "relevance": 0.575135,
+      "confidence": 1,
+      "count": 3,
+      "disambiguation": {
+        "name": "Federal_Bureau_of_Investigation",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation",
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty second",
+      "relevance": 0.541281,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Deming",
+      "relevance": 0.5406,
+      "confidence": 0.943347,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "four hundred feet",
+      "relevance": 0.53053,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Willie Odom",
+      "relevance": 0.519437,
+      "confidence": 0.999969,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Andrew Stabler",
+      "relevance": 0.498618,
+      "confidence": 0.853525,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Trudy",
+      "relevance": 0.494742,
+      "confidence": 0.999939,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Oldham",
+      "relevance": 0.469776,
+      "confidence": 0.999694,
+      "count": 2
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "mobile river",
+      "relevance": 0.46702,
+      "confidence": 0.39208,
+      "count": 1,
+      "disambiguation": {
+        "name": "Mobile_River",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mobile_River",
+        "subtype": [
+          "Location",
+          "BodyOfWater",
+          "River"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "three quarters",
+      "relevance": 0.430247,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "New Mexico",
+      "relevance": 0.413243,
+      "confidence": 0.962001,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "mall Phyllis",
+      "relevance": 0.409008,
+      "confidence": 0.238982,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Justin",
+      "relevance": 0.400193,
+      "confidence": 0.993858,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "New Orleans",
+      "relevance": 0.389707,
+      "confidence": 0.978489,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "pope",
+      "relevance": 0.371472,
+      "confidence": 0.667219,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Ten minutes",
+      "relevance": 0.369629,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ten minutes",
+      "relevance": 0.365289,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Miami",
+      "relevance": 0.359302,
+      "confidence": 0.986341,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ten years",
+      "relevance": 0.353112,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Florida",
+      "relevance": 0.322879,
+      "confidence": 0.950995,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "relevance": 0.312992,
+      "confidence": 0.987413,
+      "count": 1,
+      "disambiguation": {
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Russ",
+      "relevance": 0.30733,
+      "confidence": 0.886387,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Odum",
+      "relevance": 0.306367,
+      "confidence": 0.999539,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Willie Odin",
+      "relevance": 0.285429,
+      "confidence": 0.981579,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Marbella",
+      "relevance": 0.275921,
+      "confidence": 0.750826,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three hours",
+      "relevance": 0.25501,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "villa",
+      "relevance": 0.221885,
+      "confidence": 0.625663,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jim",
+      "relevance": 0.192163,
+      "confidence": 0.999133,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "colts",
+      "relevance": 0.180519,
+      "confidence": 0.894542,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "six links",
+      "relevance": 0.125533,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eight minutes",
+      "relevance": 0.117811,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Mozilla",
+      "relevance": 0.02942,
+      "confidence": 0.963214,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/automotive and vehicles/cars",
+      "score": 0.745924
+    },
+    {
+      "label": "/business and industrial/business operations",
+      "score": 0.672857
+    },
+    {
+      "label": "/business and industrial/construction",
+      "score": 0.669591
+    },
+    {
+      "label": "/automotive and vehicles/cars/car culture",
+      "score": 0.668732
+    },
+    {
+      "label": "/automotive and vehicles/auto parts",
+      "score": 0.657877
+    },
+    {
+      "label": "/automotive and vehicles/cars/performance vehicles",
+      "score": 0.656811
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.655601
+    },
+    {
+      "label": "/business and industrial/business operations/business plans",
+      "score": 0.645239
+    },
+    {
+      "label": "/society/unrest and war",
+      "score": 0.606757
+    },
+    {
+      "label": "/sports/go kart",
+      "score": 0.590623
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.724941,
+      "sentence": "On September twentieth nineteen ninety three Justin and her husband Larry boarded the sunset limited in Deming New Mexico headed for Florida.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            617,
+            620
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Larry",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            621,
+            628
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.981922,
+      "sentence": "Trudy grabbed her husband Larry and swam for shore the fire just was getting bigger you see nothing I heard people say and we're gonna die we're going to die and I heard the lord's prayer the mobile headed towards the flames through the dense fog to investigate I didn't know where the pope came from we had no idea all we know is that the spotlight on us and of course we could see that it was you could hear it.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1997,
+            2003
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2004,
+            2007
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.496109,
+      "sentence": "Others were less fortunate the parents of a little girl she was ten years old and handicapped they pushed her to the arms of a rescuer through a window on their car and they did make it out.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Trudy M. Lowry",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2407,
+            2411
+          ],
+          "text": "girl"
+        },
+        {
+          "entities": [
+            {
+              "text": "ten years old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            2420,
+            2433
+          ],
+          "text": "ten years old"
+        }
+      ]
+    },
+    {
+      "score": 0.97482,
+      "sentence": "Others were less fortunate the parents of a little girl she was ten years old and handicapped they pushed her to the arms of a rescuer through a window on their car and they did make it out.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Trudy M. Lowry",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2412,
+            2415
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "ten years old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            2420,
+            2433
+          ],
+          "text": "ten years old"
+        }
+      ]
+    },
+    {
+      "score": 0.467833,
+      "sentence": "Others were less fortunate the parents of a little girl she was ten years old and handicapped they pushed her to the arms of a rescuer through a window on their car and they did make it out.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Trudy M. Lowry",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2462,
+            2465
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "arms",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            2473,
+            2477
+          ],
+          "text": "arms"
+        }
+      ]
+    },
+    {
+      "score": 0.877588,
+      "sentence": "Others were less fortunate the parents of a little girl she was ten years old and handicapped they pushed her to the arms of a rescuer through a window on their car and they did make it out.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Trudy M. Lowry",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2462,
+            2465
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "trains",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2517,
+            2520
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.815189,
+      "sentence": "Others were less fortunate the parents of a little girl she was ten years old and handicapped they pushed her to the arms of a rescuer through a window on their car and they did make it out.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2511,
+            2516
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "trains",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2517,
+            2520
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.326614,
+      "sentence": "The FBI immediately flew to the crash site to investigate the possibility of terrorism.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "accident",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            2683,
+            2688
+          ],
+          "text": "crash"
+        },
+        {
+          "entities": [
+            {
+              "text": "site",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            2689,
+            2693
+          ],
+          "text": "site"
+        }
+      ]
+    },
+    {
+      "score": 0.918416,
+      "sentence": "In the early hours of September twenty second nineteen ninety three Amtrak's sunset limited plummeted off the bio cannot bridge in Alabama killing forty two passengers and five crew members.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bridge pier",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3341,
+            3347
+          ],
+          "text": "bridge"
+        },
+        {
+          "entities": [
+            {
+              "text": "Alabama",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3351,
+            3358
+          ],
+          "text": "Alabama"
+        }
+      ]
+    },
+    {
+      "score": 0.452954,
+      "sentence": "In the early hours of September twenty second nineteen ninety three Amtrak's sunset limited plummeted off the bio cannot bridge in Alabama killing forty two passengers and five crew members.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "passengers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3377,
+            3387
+          ],
+          "text": "passengers"
+        },
+        {
+          "entities": [
+            {
+              "text": "killing",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            3359,
+            3366
+          ],
+          "text": "killing"
+        }
+      ]
+    },
+    {
+      "score": 0.807861,
+      "sentence": "In the early hours of September twenty second nineteen ninety three Amtrak's sunset limited plummeted off the bio cannot bridge in Alabama killing forty two passengers and five crew members.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "crew members",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3397,
+            3409
+          ],
+          "text": "crew members"
+        },
+        {
+          "entities": [
+            {
+              "text": "killing",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            3359,
+            3366
+          ],
+          "text": "killing"
+        }
+      ]
+    },
+    {
+      "score": 0.482184,
+      "sentence": "The bridge was originally built in three sections the southern section was a one hundred sixty five foot steel truss bridge the center section a single one hundred forty foot steel girder was originally designed to pivot so river traffic could pass through the northern section was simply one hundred ninety two feet of track laid on top of the wooden trestles.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sixty",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4152,
+            4157
+          ],
+          "text": "sixty"
+        },
+        {
+          "entities": [
+            {
+              "text": "southern section",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            4117,
+            4133
+          ],
+          "text": "southern section"
+        }
+      ]
+    },
+    {
+      "score": 0.714233,
+      "sentence": "On September twentieth nineteen ninety three Justin and her husband Larry boarded the sunset limited in Deming New Mexico headed for Florida.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "New Mexico",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            672,
+            682
+          ],
+          "text": "New Mexico"
+        },
+        {
+          "entities": [
+            {
+              "text": "Florida",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            694,
+            701
+          ],
+          "text": "Florida"
+        }
+      ]
+    },
+    {
+      "score": 0.193832,
+      "sentence": "Since they never did use it as a swing bridge they never did put in the same amount of tie downs at the ends of the bridge to hold it in place.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4637,
+            4641
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "bridge pier",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4630,
+            4636
+          ],
+          "text": "bridge"
+        }
+      ]
+    },
+    {
+      "score": 0.396006,
+      "sentence": "Divers also examined the wooden pilings that supported the bridge.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Divers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4735,
+            4741
+          ],
+          "text": "Divers"
+        },
+        {
+          "entities": [
+            {
+              "text": "bridge pier",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4794,
+            4800
+          ],
+          "text": "bridge"
+        }
+      ]
+    },
+    {
+      "score": 0.654128,
+      "sentence": "We wanted to determine if the piles had undergone any kind of deterioration such as damage from wood destroying organisms like us soft rot or brown rot decay.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "organisms",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4914,
+            4923
+          ],
+          "text": "organisms"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4929,
+            4931
+          ],
+          "text": "us"
+        }
+      ]
+    },
+    {
+      "score": 0.261209,
+      "sentence": "The rivets made lines down the side of the engine and you could match the lines made by those ribbons with the bridge and confirm that that was what destroyed the girder of the bridge.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "tugboat",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6359,
+            6365
+          ],
+          "text": "girder"
+        },
+        {
+          "entities": [
+            {
+              "text": "bridge pier",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6373,
+            6379
+          ],
+          "text": "bridge"
+        }
+      ]
+    },
+    {
+      "score": 0.561107,
+      "sentence": "While structural engineers examined all the evidence Coast Guard investigators began interviewing eyewitnesses.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6496,
+            6509
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "Coast Guard",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6484,
+            6495
+          ],
+          "text": "Coast Guard"
+        }
+      ]
+    },
+    {
+      "score": 0.616761,
+      "sentence": "Coast Guard investigators also interviewed the man and women who helped in the rescue my first stop was actually to interview the crew of the tugboat mobility.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6739,
+            6752
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "Coast Guard",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6727,
+            6738
+          ],
+          "text": "Coast Guard"
+        }
+      ]
+    },
+    {
+      "score": 0.835947,
+      "sentence": "While structural engineers examined all the evidence Coast Guard investigators began interviewing eyewitnesses.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6496,
+            6509
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            6516,
+            6528
+          ],
+          "text": "interviewing"
+        }
+      ]
+    },
+    {
+      "score": 0.85002,
+      "sentence": "While structural engineers examined all the evidence Coast Guard investigators began interviewing eyewitnesses.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "eyewitnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6529,
+            6541
+          ],
+          "text": "eyewitnesses"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            6516,
+            6528
+          ],
+          "text": "interviewing"
+        }
+      ]
+    },
+    {
+      "score": 0.534316,
+      "sentence": "Coast Guard investigators also interviewed the man and women who helped in the rescue my first stop was actually to interview the crew of the tugboat mobility.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6739,
+            6752
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviewed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6758,
+            6769
+          ],
+          "text": "interviewed"
+        }
+      ]
+    },
+    {
+      "score": 0.763982,
+      "sentence": "Coast Guard investigators also interviewed the man and women who helped in the rescue my first stop was actually to interview the crew of the tugboat mobility.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "crew",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6857,
+            6861
+          ],
+          "text": "crew"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            6843,
+            6852
+          ],
+          "text": "interview"
+        }
+      ]
+    },
+    {
+      "score": 0.464064,
+      "sentence": "And that was because they were the reporting party of the accident.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6908,
+            6912
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "accident",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            6945,
+            6953
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.783185,
+      "sentence": "And I could sit there and look and talk to other people but the best part is going to the dining car we went the dining car three times a day and you just try it back over and they were really nice to you.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            707,
+            708
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "talk",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            738,
+            742
+          ],
+          "text": "talk"
+        }
+      ]
+    },
+    {
+      "score": 0.620333,
+      "sentence": "On the night of the crash.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            6962,
+            6967
+          ],
+          "text": "night"
+        },
+        {
+          "entities": [
+            {
+              "text": "accident",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            6975,
+            6980
+          ],
+          "text": "crash"
+        }
+      ]
+    },
+    {
+      "score": 0.950681,
+      "sentence": "Investigators learned that the pilot willing to call the coastguard three hours before the train crash to report the fog on the mobile river.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "trains",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            7271,
+            7276
+          ],
+          "text": "train"
+        },
+        {
+          "entities": [
+            {
+              "text": "accident",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            7277,
+            7282
+          ],
+          "text": "crash"
+        }
+      ]
+    },
+    {
+      "score": 0.936822,
+      "sentence": "Authorities knew that the tugboat mall that what was in the vicinity of the bio cannot bridge shortly before the train crash and not on the mobile river as the pipe that talked.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "trains",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10145,
+            10150
+          ],
+          "text": "train"
+        },
+        {
+          "entities": [
+            {
+              "text": "accident",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            10151,
+            10156
+          ],
+          "text": "crash"
+        }
+      ]
+    },
+    {
+      "score": 0.974097,
+      "sentence": "About a half hour before the accident Jim said he steered his six barges around the band in the mobile river and saw what appeared to be another tugboat on his radar he said he steered towards it hoping to tie on to it until visibility improves.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7360,
+            7363
+          ],
+          "text": "Jim"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7364,
+            7368
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.613692,
+      "sentence": "About a half hour before the accident Jim said he steered his six barges around the band in the mobile river and saw what appeared to be another tugboat on his radar he said he steered towards it hoping to tie on to it until visibility improves.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "tugboat",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7478,
+            7481
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7491,
+            7495
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.96657,
+      "sentence": "About a half hour before the accident Jim said he steered his six barges around the band in the mobile river and saw what appeared to be another tugboat on his radar he said he steered towards it hoping to tie on to it until visibility improves.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "tugboat",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7488,
+            7490
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7491,
+            7495
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.974867,
+      "sentence": "But before that could happen with the Oldham said his tug boat ran aground.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Oldham",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7606,
+            7612
+          ],
+          "text": "Oldham"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7613,
+            7617
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.439946,
+      "sentence": "But before that could happen with the Oldham said his tug boat ran aground.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Oldham",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7618,
+            7621
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "trains",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            7626,
+            7630
+          ],
+          "text": "boat"
+        }
+      ]
+    },
+    {
+      "score": 0.960757,
+      "sentence": "At this point captain Andrew Stabler took over command of the Marbella and called the Coast Guard asking for help.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Andrew Stabler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7666,
+            7680
+          ],
+          "text": "Andrew Stabler"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7719,
+            7725
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.542514,
+      "sentence": "At this point captain Andrew Stabler took over command of the Marbella and called the Coast Guard asking for help.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Coast Guard",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7730,
+            7741
+          ],
+          "text": "Coast Guard"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7719,
+            7725
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.584501,
+      "sentence": "At this point captain Andrew Stabler took over command of the Marbella and called the Coast Guard asking for help.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "asking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7742,
+            7748
+          ],
+          "text": "asking"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7719,
+            7725
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.703988,
+      "sentence": "At this point captain Andrew Stabler took over command of the Marbella and called the Coast Guard asking for help.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Coast Guard",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7730,
+            7741
+          ],
+          "text": "Coast Guard"
+        },
+        {
+          "entities": [
+            {
+              "text": "asking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7742,
+            7748
+          ],
+          "text": "asking"
+        }
+      ]
+    },
+    {
+      "score": 0.95485,
+      "sentence": "And I could sit there and look and talk to other people but the best part is going to the dining car we went the dining car three times a day and you just try it back over and they were really nice to you.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            752,
+            758
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "talk",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            738,
+            742
+          ],
+          "text": "talk"
+        }
+      ]
+    },
+    {
+      "score": 0.863495,
+      "sentence": "Around two fifty AM the motherless crew heard a crash.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "crew",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7794,
+            7798
+          ],
+          "text": "crew"
+        },
+        {
+          "entities": [
+            {
+              "text": "accident",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            7807,
+            7812
+          ],
+          "text": "crash"
+        }
+      ]
+    },
+    {
+      "score": 0.779026,
+      "sentence": "But that was a mistake the accident was on the bridge going across the bio cannot hold water way that was closed to commercial boat traffic by you cannot is a subsidiary of the mobile river and in the very dense fog the operator of the tug mistakenly turned down into bite you cannot thinking it was a bit in the river a couple miles further up river than worry really was.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bridge pier",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8057,
+            8063
+          ],
+          "text": "bridge"
+        },
+        {
+          "entities": [
+            {
+              "text": "accident",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            8037,
+            8045
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.410502,
+      "sentence": "But that was a mistake the accident was on the bridge going across the bio cannot hold water way that was closed to commercial boat traffic by you cannot is a subsidiary of the mobile river and in the very dense fog the operator of the tug mistakenly turned down into bite you cannot thinking it was a bit in the river a couple miles further up river than worry really was.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Oldham",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8153,
+            8156
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "trains",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            8137,
+            8141
+          ],
+          "text": "boat"
+        }
+      ]
+    },
+    {
+      "score": 0.521501,
+      "sentence": "Visual inspection and we noticed that some of the vertical steel members colts defenders who were on the side of the order had been banned flapped against the court.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "defenders",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9710,
+            9715
+          ],
+          "text": "colts"
+        },
+        {
+          "entities": [
+            {
+              "text": "crew members",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9702,
+            9709
+          ],
+          "text": "members"
+        }
+      ]
+    },
+    {
+      "score": 0.360851,
+      "sentence": "Investigators measured the distance between the staff nurse and compared them to the vertical marks on the barge.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9803,
+            9816
+          ],
+          "text": "Investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9876,
+            9880
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.516284,
+      "sentence": "Investigators measured the distance between the staff nurse and compared them to the vertical marks on the barge.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "staff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9851,
+            9856
+          ],
+          "text": "staff"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9876,
+            9880
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.614866,
+      "sentence": "Authorities knew that the tugboat mall that what was in the vicinity of the bio cannot bridge shortly before the train crash and not on the mobile river as the pipe that talked.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "tugboat",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10058,
+            10065
+          ],
+          "text": "tugboat"
+        },
+        {
+          "entities": [
+            {
+              "text": "mall",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10066,
+            10070
+          ],
+          "text": "mall"
+        }
+      ]
+    },
+    {
+      "score": 0.594655,
+      "sentence": "The microscope shines polarized light through the samples revealing the specific optical properties of the rocks sand and cement the FBI after they examined the samples they found on the barge determined that the concrete on the barge was the same as that found in the pier at the south end of based on all the evidence the national transportation safety board concluded that Willie Odin had gotten lost in the heavy fog as he piloted the mall fell out the mobile river.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bridge pier",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10847,
+            10851
+          ],
+          "text": "pier"
+        },
+        {
+          "entities": [
+            {
+              "text": "south",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            10859,
+            10864
+          ],
+          "text": "south"
+        }
+      ]
+    },
+    {
+      "score": 0.806956,
+      "sentence": "The microscope shines polarized light through the samples revealing the specific optical properties of the rocks sand and cement the FBI after they examined the samples they found on the barge determined that the concrete on the barge was the same as that found in the pier at the south end of based on all the evidence the national transportation safety board concluded that Willie Odin had gotten lost in the heavy fog as he piloted the mall fell out the mobile river.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "safety board",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10926,
+            10938
+          ],
+          "text": "safety board"
+        },
+        {
+          "entities": [
+            {
+              "text": "concluded",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10939,
+            10948
+          ],
+          "text": "concluded"
+        }
+      ]
+    },
+    {
+      "score": 0.995088,
+      "sentence": "The microscope shines polarized light through the samples revealing the specific optical properties of the rocks sand and cement the FBI after they examined the samples they found on the barge determined that the concrete on the barge was the same as that found in the pier at the south end of based on all the evidence the national transportation safety board concluded that Willie Odin had gotten lost in the heavy fog as he piloted the mall fell out the mobile river.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Willie Odin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11002,
+            11004
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "piloted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11005,
+            11012
+          ],
+          "text": "piloted"
+        }
+      ]
+    },
+    {
+      "score": 0.497399,
+      "sentence": "And I could sit there and look and talk to other people but the best part is going to the dining car we went the dining car three times a day and you just try it back over and they were really nice to you.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            804,
+            806
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "trains",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            823,
+            826
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.456026,
+      "sentence": "The microscope shines polarized light through the samples revealing the specific optical properties of the rocks sand and cement the FBI after they examined the samples they found on the barge determined that the concrete on the barge was the same as that found in the pier at the south end of based on all the evidence the national transportation safety board concluded that Willie Odin had gotten lost in the heavy fog as he piloted the mall fell out the mobile river.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Willie Odin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11002,
+            11004
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "mall",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11017,
+            11021
+          ],
+          "text": "mall"
+        }
+      ]
+    },
+    {
+      "score": 0.639905,
+      "sentence": "The microscope shines polarized light through the samples revealing the specific optical properties of the rocks sand and cement the FBI after they examined the samples they found on the barge determined that the concrete on the barge was the same as that found in the pier at the south end of based on all the evidence the national transportation safety board concluded that Willie Odin had gotten lost in the heavy fog as he piloted the mall fell out the mobile river.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mall",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11017,
+            11021
+          ],
+          "text": "mall"
+        },
+        {
+          "entities": [
+            {
+              "text": "river",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            11042,
+            11047
+          ],
+          "text": "river"
+        }
+      ]
+    },
+    {
+      "score": 0.552997,
+      "sentence": "When Odum struck the bridge he didn't know what in part because he couldn't see the bridge through the fog since it was on the lighted.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Odum mistakenly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11422,
+            11426
+          ],
+          "text": "Odum"
+        },
+        {
+          "entities": [
+            {
+              "text": "bridge pier",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11438,
+            11444
+          ],
+          "text": "bridge"
+        }
+      ]
+    },
+    {
+      "score": 0.42704,
+      "sentence": "When Odum struck the bridge he didn't know what in part because he couldn't see the bridge through the fog since it was on the lighted.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Willie Odin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11445,
+            11447
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "bridge pier",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11438,
+            11444
+          ],
+          "text": "bridge"
+        }
+      ]
+    },
+    {
+      "score": 0.577549,
+      "sentence": "When Odum struck the bridge he didn't know what in part because he couldn't see the bridge through the fog since it was on the lighted.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Willie Odin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11481,
+            11483
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "bridge pier",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11501,
+            11507
+          ],
+          "text": "bridge"
+        }
+      ]
+    },
+    {
+      "score": 0.287597,
+      "sentence": "Postcard records show the mobilised drug the bridge only eight minutes before the sunset limited arrived as the engineer headed towards the bridge he saw a green light telling him the track ahead was all clear as the train approached I believe that the engine derailed just as it was getting to the portion of the bridge that had been moved sideways and it hit that portion of the bridge dragging the entire bridge along with the engines and destroying it it's a big piece of steel out of the bridge and the train struck at seventy two miles an hour and then from that you could tell that it just tore the hell out of it.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Willie Odin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12080,
+            12082
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "bridge pier",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12073,
+            12079
+          ],
+          "text": "bridge"
+        }
+      ]
+    },
+    {
+      "score": 0.601332,
+      "sentence": "Postcard records show the mobilised drug the bridge only eight minutes before the sunset limited arrived as the engineer headed towards the bridge he saw a green light telling him the track ahead was all clear as the train approached I believe that the engine derailed just as it was getting to the portion of the bridge that had been moved sideways and it hit that portion of the bridge dragging the entire bridge along with the engines and destroying it it's a big piece of steel out of the bridge and the train struck at seventy two miles an hour and then from that you could tell that it just tore the hell out of it.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "engineer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12045,
+            12053
+          ],
+          "text": "engineer"
+        },
+        {
+          "entities": [
+            {
+              "text": "bridge pier",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12073,
+            12079
+          ],
+          "text": "bridge"
+        }
+      ]
+    },
+    {
+      "score": 0.826365,
+      "sentence": "Postcard records show the mobilised drug the bridge only eight minutes before the sunset limited arrived as the engineer headed towards the bridge he saw a green light telling him the track ahead was all clear as the train approached I believe that the engine derailed just as it was getting to the portion of the bridge that had been moved sideways and it hit that portion of the bridge dragging the entire bridge along with the engines and destroying it it's a big piece of steel out of the bridge and the train struck at seventy two miles an hour and then from that you could tell that it just tore the hell out of it.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Willie Odin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12080,
+            12082
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "telling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12101,
+            12108
+          ],
+          "text": "telling"
+        }
+      ]
+    },
+    {
+      "score": 0.645809,
+      "sentence": "Postcard records show the mobilised drug the bridge only eight minutes before the sunset limited arrived as the engineer headed towards the bridge he saw a green light telling him the track ahead was all clear as the train approached I believe that the engine derailed just as it was getting to the portion of the bridge that had been moved sideways and it hit that portion of the bridge dragging the entire bridge along with the engines and destroying it it's a big piece of steel out of the bridge and the train struck at seventy two miles an hour and then from that you could tell that it just tore the hell out of it.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Willie Odin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12109,
+            12112
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "telling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12101,
+            12108
+          ],
+          "text": "telling"
+        }
+      ]
+    },
+    {
+      "score": 0.64585,
+      "sentence": "Postcard records show the mobilised drug the bridge only eight minutes before the sunset limited arrived as the engineer headed towards the bridge he saw a green light telling him the track ahead was all clear as the train approached I believe that the engine derailed just as it was getting to the portion of the bridge that had been moved sideways and it hit that portion of the bridge dragging the entire bridge along with the engines and destroying it it's a big piece of steel out of the bridge and the train struck at seventy two miles an hour and then from that you could tell that it just tore the hell out of it.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Willie Odin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12109,
+            12112
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "trains",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            12150,
+            12155
+          ],
+          "text": "train"
+        }
+      ]
+    },
+    {
+      "score": 0.968308,
+      "sentence": "Postcard records show the mobilised drug the bridge only eight minutes before the sunset limited arrived as the engineer headed towards the bridge he saw a green light telling him the track ahead was all clear as the train approached I believe that the engine derailed just as it was getting to the portion of the bridge that had been moved sideways and it hit that portion of the bridge dragging the entire bridge along with the engines and destroying it it's a big piece of steel out of the bridge and the train struck at seventy two miles an hour and then from that you could tell that it just tore the hell out of it.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "trains",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            12441,
+            12446
+          ],
+          "text": "train"
+        },
+        {
+          "entities": [
+            {
+              "text": "struck",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            12447,
+            12453
+          ],
+          "text": "struck"
+        }
+      ]
+    },
+    {
+      "score": 0.405338,
+      "sentence": "Some of the passenger car stopped on the bridge or the fidelity count might have been higher.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Willie Odom",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12650,
+            12659
+          ],
+          "text": "passenger"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            12638,
+            12642
+          ],
+          "text": "Some"
+        }
+      ]
+    },
+    {
+      "score": 0.610302,
+      "sentence": "After dinner Trudy M. Lowry returned to their seats to wrest.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Trudy M. Lowry",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            922,
+            936
+          ],
+          "text": "Trudy M. Lowry"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            949,
+            954
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.536825,
+      "sentence": "Some of the passenger car stopped on the bridge or the fidelity count might have been higher.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Willie Odom",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12650,
+            12659
+          ],
+          "text": "passenger"
+        },
+        {
+          "entities": [
+            {
+              "text": "trains",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            12660,
+            12663
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.324515,
+      "sentence": "At the train ban on time it would have crossed the bridge before the mall villa ran into it.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bridge pier",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12887,
+            12893
+          ],
+          "text": "bridge"
+        },
+        {
+          "entities": [
+            {
+              "text": "mall",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12905,
+            12909
+          ],
+          "text": "mall"
+        }
+      ]
+    },
+    {
+      "score": 0.308233,
+      "sentence": "At the train ban on time it would have crossed the bridge before the mall villa ran into it.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bridge pier",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12887,
+            12893
+          ],
+          "text": "bridge"
+        },
+        {
+          "entities": [
+            {
+              "text": "villa",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12910,
+            12915
+          ],
+          "text": "villa"
+        }
+      ]
+    },
+    {
+      "score": 0.575281,
+      "sentence": "At the train ban on time it would have crossed the bridge before the mall villa ran into it.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "villa",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12910,
+            12915
+          ],
+          "text": "villa"
+        },
+        {
+          "entities": [
+            {
+              "text": "mall",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12905,
+            12909
+          ],
+          "text": "mall"
+        }
+      ]
+    },
+    {
+      "score": 0.408832,
+      "sentence": "I think this investigation just confirm for me a couple of of long standing philosophies that I've had one is that every accident is a kind of a chain reaction there's five or six links in the chain that all have to happen in order for an accident to happen.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "me",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12929,
+            12930
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12942,
+            12955
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.557621,
+      "sentence": "I think this investigation just confirm for me a couple of of long standing philosophies that I've had one is that every accident is a kind of a chain reaction there's five or six links in the chain that all have to happen in order for an accident to happen.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "me",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12973,
+            12975
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "confirm",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12961,
+            12968
+          ],
+          "text": "confirm"
+        }
+      ]
+    },
+    {
+      "score": 0.26625,
+      "sentence": "People call us excellence and that was clearly the case here.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13457,
+            13461
+          ],
+          "text": "case"
+        },
+        {
+          "entities": [
+            {
+              "text": "here",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13462,
+            13466
+          ],
+          "text": "here"
+        }
+      ]
+    },
+    {
+      "score": 0.67409,
+      "sentence": "A year after the accident survivors gathered to remember those who lost their lives.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "survivors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13494,
+            13503
+          ],
+          "text": "survivors"
+        },
+        {
+          "entities": [
+            {
+              "text": "accident",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            13485,
+            13493
+          ],
+          "text": "accident"
+        }
+      ]
+    },
+    {
+      "score": 0.899178,
+      "sentence": "But he never again to talk.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Willie Odom",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14241,
+            14243
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "talk",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14259,
+            14263
+          ],
+          "text": "talk"
+        }
+      ]
+    },
+    {
+      "score": 0.831382,
+      "sentence": "The train stopped briefly in New Orleans to fix a broken air conditioner.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "trains",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            975,
+            980
+          ],
+          "text": "train"
+        },
+        {
+          "entities": [
+            {
+              "text": "New Orleans",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1000,
+            1011
+          ],
+          "text": "New Orleans"
+        }
+      ]
+    },
+    {
+      "score": 0.367228,
+      "sentence": "It stopped in mobile Alabama where the engineer waited until the freight train cleared the bridge up ahead.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "trains",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1194,
+            1199
+          ],
+          "text": "train"
+        },
+        {
+          "entities": [
+            {
+              "text": "bridge pier",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1212,
+            1218
+          ],
+          "text": "bridge"
+        }
+      ]
+    },
+    {
+      "score": 0.427838,
+      "sentence": "Ten minutes before the sunset limited derailed freight train crossed the bridge in the opposite direction without incident.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "trains",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            3466,
+            3471
+          ],
+          "text": "train"
+        },
+        {
+          "entities": [
+            {
+              "text": "bridge pier",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3484,
+            3490
+          ],
+          "text": "bridge"
+        }
+      ]
+    },
+    {
+      "score": 0.753541,
+      "sentence": "But how did the train hit the side of the bridge.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "trains",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            6397,
+            6402
+          ],
+          "text": "train"
+        },
+        {
+          "entities": [
+            {
+              "text": "bridge pier",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6423,
+            6429
+          ],
+          "text": "bridge"
+        }
+      ]
+    },
+    {
+      "score": 0.758435,
+      "sentence": "Trudy grabbed her husband Larry and swam for shore the fire just was getting bigger you see nothing I heard people say and we're gonna die we're going to die and I heard the lord's prayer the mobile headed towards the flames through the dense fog to investigate I didn't know where the pope came from we had no idea all we know is that the spotlight on us and of course we could see that it was you could hear it.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Trudy M. Lowry",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1903,
+            1906
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Larry",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1907,
+            1914
+          ],
+          "text": "husband"
+        }
+      ]
+    }
+  ]
+}

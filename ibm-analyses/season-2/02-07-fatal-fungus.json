@@ -1,0 +1,3846 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 15298,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Cleveland",
+      "relevance": 0.958996,
+      "confidence": 1,
+      "count": 15
+    },
+    {
+      "type": "Person",
+      "text": "Brian",
+      "relevance": 0.797272,
+      "confidence": 1,
+      "count": 10
+    },
+    {
+      "type": "Person",
+      "text": "Brian Mitchell",
+      "relevance": 0.608538,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Ryan Mitchell",
+      "relevance": 0.584474,
+      "confidence": 0.999995,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Dr Dearborn",
+      "relevance": 0.565284,
+      "confidence": 0.999809,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Botros",
+      "relevance": 0.467176,
+      "confidence": 0.999997,
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Dr Edsel",
+      "relevance": 0.455092,
+      "confidence": 0.999709,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Brianna",
+      "relevance": 0.42457,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Lima Williams",
+      "relevance": 0.354535,
+      "confidence": 0.697853,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "six week",
+      "relevance": 0.3536,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "lung bleeding",
+      "relevance": 0.331992,
+      "confidence": 0.301214,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bryan Mitchell",
+      "relevance": 0.308733,
+      "confidence": 0.997842,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "children's hospital",
+      "relevance": 0.290677,
+      "confidence": 0.278371,
+      "count": 1,
+      "disambiguation": {
+        "name": "Rainbow_Babies_%26_Children%27s_Hospital",
+        "dbpedia_resource": "http://dbpedia.org/resource/Rainbow_Babies_%26_Children%27s_Hospital",
+        "subtype": [
+          "Location",
+          "Building",
+          "Hospital"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Ruth F.",
+      "relevance": 0.289289,
+      "confidence": 0.798934,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "centers for disease control",
+      "relevance": 0.285665,
+      "confidence": 0.657072,
+      "count": 2,
+      "disambiguation": {
+        "name": "Centers_for_Disease_Control_and_Prevention",
+        "dbpedia_resource": "http://dbpedia.org/resource/Centers_for_Disease_Control_and_Prevention",
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Botros Sartre",
+      "relevance": 0.194495,
+      "confidence": 0.992976,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "bill Sorenson",
+      "relevance": 0.187045,
+      "confidence": 0.931998,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "allergic reaction",
+      "relevance": 0.170558,
+      "confidence": 0.803121,
+      "count": 1,
+      "disambiguation": {
+        "name": "Allergy",
+        "dbpedia_resource": "http://dbpedia.org/resource/Allergy",
+        "subtype": [
+          "FieldOfStudy",
+          "DiseaseOrMedicalCondition",
+          "DiseaseCause",
+          "MedicalSpecialty",
+          "RiskFactor",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Dearborn",
+      "relevance": 0.165589,
+      "confidence": 0.498117,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Ruth",
+      "relevance": 0.154982,
+      "confidence": 0.988734,
+      "count": 1,
+      "disambiguation": {
+        "name": "Ruth_Westheimer",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ruth_Westheimer",
+        "subtype": [
+          "BroadcastArtist",
+          "FilmActor"
+        ]
+      }
+    },
+    {
+      "type": "HealthCondition",
+      "text": "pulmonary",
+      "relevance": 0.146314,
+      "confidence": 0.999989,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Charlie",
+      "relevance": 0.145079,
+      "confidence": 0.996967,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one week",
+      "relevance": 0.144809,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three days",
+      "relevance": 0.136146,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two weeks",
+      "relevance": 0.129628,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Atlanta",
+      "relevance": 0.113355,
+      "confidence": 0.999894,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Europe",
+      "relevance": 0.111951,
+      "confidence": 1,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Sorenson",
+      "relevance": 0.105144,
+      "confidence": 0.992507,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Sorensen",
+      "relevance": 0.096157,
+      "confidence": 0.996652,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "forty years",
+      "relevance": 0.095733,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ten days",
+      "relevance": 0.082847,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Brazil",
+      "relevance": 0.082631,
+      "confidence": 0.99939,
+      "count": 1,
+      "disambiguation": {
+        "name": "Brazil",
+        "dbpedia_resource": "http://dbpedia.org/resource/Brazil",
+        "subtype": [
+          "Country",
+          "GovernmentalJurisdiction",
+          "CompanyShareholder"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "one day",
+      "relevance": 0.076882,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Eastern Europe",
+      "relevance": 0.067713,
+      "confidence": 0.345205,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Michael",
+      "relevance": 0.065644,
+      "confidence": 0.984857,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Cleveland Browns",
+      "relevance": 0.057763,
+      "confidence": 0.820744,
+      "count": 1,
+      "disambiguation": {
+        "name": "Cleveland_Browns",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cleveland_Browns",
+        "subtype": [
+          "SportsTeam",
+          "FootballTeam",
+          "ProfessionalSportsTeam"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Canada",
+      "relevance": 0.033599,
+      "confidence": 0.999796,
+      "count": 1,
+      "disambiguation": {
+        "name": "Canada",
+        "dbpedia_resource": "http://dbpedia.org/resource/Canada",
+        "subtype": [
+          "Country",
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "AwardDiscipline",
+          "FilmScreeningVenue"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Botros entre",
+      "relevance": 0.028373,
+      "confidence": 0.46715,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "sudden infant death syndrome",
+      "relevance": 0.021925,
+      "confidence": 0.408781,
+      "count": 1,
+      "disambiguation": {
+        "name": "Sudden_infant_death_syndrome",
+        "dbpedia_resource": "http://dbpedia.org/resource/Sudden_infant_death_syndrome",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "milk",
+      "relevance": 0.020593,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "One year",
+      "relevance": 0.015287,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Nemo Williams",
+      "relevance": 0.012022,
+      "confidence": 0.71942,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/family and parenting/children",
+      "score": 0.881286
+    },
+    {
+      "label": "/family and parenting/babies and toddlers",
+      "score": 0.855358
+    },
+    {
+      "label": "/health and fitness/disease",
+      "score": 0.824709
+    },
+    {
+      "label": "/family and parenting/babies and toddlers/baby food",
+      "score": 0.635658
+    },
+    {
+      "label": "/food and drink",
+      "score": 0.571452
+    },
+    {
+      "label": "/society",
+      "score": 0.556224
+    },
+    {
+      "label": "/health and fitness/disease/asthma",
+      "score": 0.524052
+    },
+    {
+      "label": "/society/senior living",
+      "score": 0.508639
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.301941,
+      "sentence": "In nineteen ninety four an infant was rushed to a hospital emergency room with the serious breathing problems.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "emergency room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            59,
+            73
+          ],
+          "text": "emergency room"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            50,
+            58
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.465978,
+      "sentence": "Learn bleeding is usually caused by a heart problem and infection or child abuse but in Brian's case doctors eliminated these as possible because the hospital's medical records revealed to other babies had been treated for unexplained lung bleeding and one of those babies died.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doctors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1357,
+            1364
+          ],
+          "text": "doctors"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            1352,
+            1356
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.817617,
+      "sentence": "Learn bleeding is usually caused by a heart problem and infection or child abuse but in Brian's case doctors eliminated these as possible because the hospital's medical records revealed to other babies had been treated for unexplained lung bleeding and one of those babies died.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1451,
+            1457
+          ],
+          "text": "babies"
+        },
+        {
+          "entities": [
+            {
+              "text": "lung bleeding",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            1491,
+            1504
+          ],
+          "text": "lung bleeding"
+        }
+      ]
+    },
+    {
+      "score": 0.456514,
+      "sentence": "Learn bleeding is usually caused by a heart problem and infection or child abuse but in Brian's case doctors eliminated these as possible because the hospital's medical records revealed to other babies had been treated for unexplained lung bleeding and one of those babies died.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1522,
+            1528
+          ],
+          "text": "babies"
+        },
+        {
+          "entities": [
+            {
+              "text": "lung bleeding",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            1491,
+            1504
+          ],
+          "text": "lung bleeding"
+        }
+      ]
+    },
+    {
+      "score": 0.922249,
+      "sentence": "Learn bleeding is usually caused by a heart problem and infection or child abuse but in Brian's case doctors eliminated these as possible because the hospital's medical records revealed to other babies had been treated for unexplained lung bleeding and one of those babies died.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            1509,
+            1512
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1522,
+            1528
+          ],
+          "text": "babies"
+        }
+      ]
+    },
+    {
+      "score": 0.83358,
+      "sentence": "Brian Mitchell was fortunate after two weeks of improvement he was released from the hospital.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brian Mitchell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1713,
+            1715
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "released",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            1720,
+            1728
+          ],
+          "text": "released"
+        }
+      ]
+    },
+    {
+      "score": 0.308752,
+      "sentence": "His doctor suspected that his long bleeding was caused by an allergic reaction to his baby formula and they recommended his mother change the type she was using but one week later.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brian Mitchell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1830,
+            1833
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "baby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1834,
+            1838
+          ],
+          "text": "baby"
+        }
+      ]
+    },
+    {
+      "score": 0.983393,
+      "sentence": "His doctor suspected that his long bleeding was caused by an allergic reaction to his baby formula and they recommended his mother change the type she was using but one week later.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1851,
+            1855
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "recommended",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1856,
+            1867
+          ],
+          "text": "recommended"
+        }
+      ]
+    },
+    {
+      "score": 0.576004,
+      "sentence": "His doctor suspected that his long bleeding was caused by an allergic reaction to his baby formula and they recommended his mother change the type she was using but one week later.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1872,
+            1878
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Brian Mitchell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1868,
+            1871
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.733515,
+      "sentence": "Ryan Mitchell was back in the hospital with more monthly.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bryan Mitchell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1929,
+            1942
+          ],
+          "text": "Ryan Mitchell"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1959,
+            1967
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.359845,
+      "sentence": "Ryan Mitchell in the author's sick babies all lived within a six mile radius of the hospital on Cleveland's east side it was probably an environmental component it said it.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bryan Mitchell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2262,
+            2275
+          ],
+          "text": "Ryan Mitchell"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2346,
+            2354
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.514116,
+      "sentence": "All this to the point what's wrong with it he started bleeding we bring into the hospital you leave him in the hospital for three days but you can't tell us why he's here you can't tell us what's wrong with it why does he keep believing I don't know.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2050,
+            2052
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2068,
+            2076
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.666175,
+      "sentence": "All this to the point what's wrong with it he started bleeding we bring into the hospital you leave him in the hospital for three days but you can't tell us why he's here you can't tell us what's wrong with it why does he keep believing I don't know.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brian Mitchell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2087,
+            2090
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2098,
+            2106
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.541711,
+      "sentence": "Within months there were over thirty cases in Cleveland just like it a rate one thousand times higher than anywhere else in the world.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Cleveland",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            242,
+            251
+          ],
+          "text": "Cleveland"
+        },
+        {
+          "entities": [
+            {
+              "text": "world",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            324,
+            329
+          ],
+          "text": "world"
+        }
+      ]
+    },
+    {
+      "score": 0.855377,
+      "sentence": "The incidence of lung bleeding in infants was one thousand times higher in Cleveland than anywhere else in the world.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Cleveland",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1610,
+            1619
+          ],
+          "text": "Cleveland"
+        },
+        {
+          "entities": [
+            {
+              "text": "world",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1646,
+            1651
+          ],
+          "text": "world"
+        }
+      ]
+    },
+    {
+      "score": 0.620169,
+      "sentence": "Dr Dearborn discovered.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bryan Mitchell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2238,
+            2240
+          ],
+          "text": "Dr"
+        },
+        {
+          "entities": [
+            {
+              "text": "Dearborn",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2241,
+            2249
+          ],
+          "text": "Dearborn"
+        }
+      ]
+    },
+    {
+      "score": 0.60661,
+      "sentence": "Dr Dearborn knew he needed help and called in the centers for disease control in Atlanta the fear is we're going to continue to have more more of these babies and we wouldn't get them too late to save them.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bryan Mitchell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3012,
+            3014
+          ],
+          "text": "Dr"
+        },
+        {
+          "entities": [
+            {
+              "text": "Dearborn",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3015,
+            3023
+          ],
+          "text": "Dearborn"
+        }
+      ]
+    },
+    {
+      "score": 0.456966,
+      "sentence": "Necessarily it was in their homes but something in that in that part of the community was was problematic but there was a complication Bryan Mitchell had a twin sister Brianna lived in the same house the same food and slept in the same room as Brian.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2457,
+            2462
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2463,
+            2468
+          ],
+          "text": "homes"
+        }
+      ]
+    },
+    {
+      "score": 0.580957,
+      "sentence": "Necessarily it was in their homes but something in that in that part of the community was was problematic but there was a complication Bryan Mitchell had a twin sister Brianna lived in the same house the same food and slept in the same room as Brian.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bryan Mitchell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2570,
+            2584
+          ],
+          "text": "Bryan Mitchell"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2629,
+            2634
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.516515,
+      "sentence": "Necessarily it was in their homes but something in that in that part of the community was was problematic but there was a complication Bryan Mitchell had a twin sister Brianna lived in the same house the same food and slept in the same room as Brian.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brianna",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2603,
+            2610
+          ],
+          "text": "Brianna"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2629,
+            2634
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.622943,
+      "sentence": "Necessarily it was in their homes but something in that in that part of the community was was problematic but there was a complication Bryan Mitchell had a twin sister Brianna lived in the same house the same food and slept in the same room as Brian.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2629,
+            2634
+          ],
+          "text": "house"
+        },
+        {
+          "entities": [
+            {
+              "text": "emergency room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2671,
+            2675
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.625022,
+      "sentence": "If doctor Dearborn was right and the cost was environmental why did little Brian get sick while his twin sister was perfectly healthy.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2715,
+            2721
+          ],
+          "text": "doctor"
+        },
+        {
+          "entities": [
+            {
+              "text": "Dearborn",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2722,
+            2730
+          ],
+          "text": "Dearborn"
+        }
+      ]
+    },
+    {
+      "score": 0.663187,
+      "sentence": "Only infants were getting sick none of the older children or adults in the same neighborhood or even in the same homes were affected.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "adults",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2939,
+            2945
+          ],
+          "text": "adults"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            2958,
+            2970
+          ],
+          "text": "neighborhood"
+        }
+      ]
+    },
+    {
+      "score": 0.793862,
+      "sentence": "Only infants were getting sick none of the older children or adults in the same neighborhood or even in the same homes were affected.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2991,
+            2996
+          ],
+          "text": "homes"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            2958,
+            2970
+          ],
+          "text": "neighborhood"
+        }
+      ]
+    },
+    {
+      "score": 0.167845,
+      "sentence": "And it was happening ironically within a six mile radius of the children's hospital.",
+      "type": "clientOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3393,
+            3401
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3404,
+            3412
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.817993,
+      "sentence": "The centers for disease control assigned doctor Ruth F. sold to lead the investigation in Cleveland her job was to find out what caused the death of one infant and a life threatening illness of seven others the job of a medical detective is an awful lot like the job of a criminal detective that is we're looking to try to track down the culprit of a specific unknown disease and if we can track down the culprit we can prevent him from attacking again Dr Edsel reviewed all of the medical records of the infants with pulmonary hemosiderin six one thing caught her off.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            3487,
+            3500
+          ],
+          "text": "investigation"
+        },
+        {
+          "entities": [
+            {
+              "text": "Cleveland",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3504,
+            3513
+          ],
+          "text": "Cleveland"
+        }
+      ]
+    },
+    {
+      "score": 0.42699,
+      "sentence": "Her baby was rushed to rainbow babies and children's hospital in Cleveland where doctors struggled to save little Brian's life.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            546,
+            549
+          ],
+          "text": "Her"
+        },
+        {
+          "entities": [
+            {
+              "text": "baby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            550,
+            554
+          ],
+          "text": "baby"
+        }
+      ]
+    },
+    {
+      "score": 0.479654,
+      "sentence": "The centers for disease control assigned doctor Ruth F. sold to lead the investigation in Cleveland her job was to find out what caused the death of one infant and a life threatening illness of seven others the job of a medical detective is an awful lot like the job of a criminal detective that is we're looking to try to track down the culprit of a specific unknown disease and if we can track down the culprit we can prevent him from attacking again Dr Edsel reviewed all of the medical records of the infants with pulmonary hemosiderin six one thing caught her off.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ruth F.",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3514,
+            3517
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            3487,
+            3500
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.926505,
+      "sentence": "The centers for disease control assigned doctor Ruth F. sold to lead the investigation in Cleveland her job was to find out what caused the death of one infant and a life threatening illness of seven others the job of a medical detective is an awful lot like the job of a criminal detective that is we're looking to try to track down the culprit of a specific unknown disease and if we can track down the culprit we can prevent him from attacking again Dr Edsel reviewed all of the medical records of the infants with pulmonary hemosiderin six one thing caught her off.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3827,
+            3829
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "attacking",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            3851,
+            3860
+          ],
+          "text": "attacking"
+        }
+      ]
+    },
+    {
+      "score": 0.493647,
+      "sentence": "The centers for disease control assigned doctor Ruth F. sold to lead the investigation in Cleveland her job was to find out what caused the death of one infant and a life threatening illness of seven others the job of a medical detective is an awful lot like the job of a criminal detective that is we're looking to try to track down the culprit of a specific unknown disease and if we can track down the culprit we can prevent him from attacking again Dr Edsel reviewed all of the medical records of the infants with pulmonary hemosiderin six one thing caught her off.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brian Mitchell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3842,
+            3845
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "attacking",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            3851,
+            3860
+          ],
+          "text": "attacking"
+        }
+      ]
+    },
+    {
+      "score": 0.424784,
+      "sentence": "Many of the infant's improved in the hospital but started bleeding again after they returned home so like that to clean it up the families of the sick infants were interviewed using a two hundred thirty item questionnaire to see if they differed in any way from the families of healthy children.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4063,
+            4067
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            4077,
+            4081
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.526418,
+      "sentence": "Many of the infant's improved in the hospital but started bleeding again after they returned home so like that to clean it up the families of the sick infants were interviewed using a two hundred thirty item questionnaire to see if they differed in any way from the families of healthy children.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "families",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4114,
+            4122
+          ],
+          "text": "families"
+        },
+        {
+          "entities": [
+            {
+              "text": "infants",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4135,
+            4142
+          ],
+          "text": "infants"
+        }
+      ]
+    },
+    {
+      "score": 0.552242,
+      "sentence": "Many of the infant's improved in the hospital but started bleeding again after they returned home so like that to clean it up the families of the sick infants were interviewed using a two hundred thirty item questionnaire to see if they differed in any way from the families of healthy children.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "families",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4250,
+            4258
+          ],
+          "text": "families"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4270,
+            4278
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.493228,
+      "sentence": "Within days of the investigation two more babies with pulmonary hemosiderin says were rushed to the hospital from the same day for.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4476,
+            4482
+          ],
+          "text": "babies"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            4453,
+            4466
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.681239,
+      "sentence": "Within days of the investigation two more babies with pulmonary hemosiderin says were rushed to the hospital from the same day for.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4476,
+            4482
+          ],
+          "text": "babies"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4510,
+            4514
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.489082,
+      "sentence": "Within days of the investigation two more babies with pulmonary hemosiderin says were rushed to the hospital from the same day for.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4534,
+            4542
+          ],
+          "text": "hospital"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4510,
+            4514
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.591624,
+      "sentence": "Nine of those ten or mail and all of them were African American.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4660,
+            4668
+          ],
+          "text": "American"
+        },
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4652,
+            4659
+          ],
+          "text": "African"
+        }
+      ]
+    },
+    {
+      "score": 0.252643,
+      "sentence": "Her baby was rushed to rainbow babies and children's hospital in Cleveland where doctors struggled to save little Brian's life.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "baby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            550,
+            554
+          ],
+          "text": "baby"
+        },
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            577,
+            583
+          ],
+          "text": "babies"
+        }
+      ]
+    },
+    {
+      "score": 0.537375,
+      "sentence": "So this said to us.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5382,
+            5384
+          ],
+          "text": "us"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5374,
+            5378
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.58086,
+      "sentence": "Not only frightening for her but frightening for the community how many infants like Brianna were out in the community that were showing no real significant problems.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brianna",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5471,
+            5478
+          ],
+          "text": "Brianna"
+        },
+        {
+          "entities": [
+            {
+              "text": "infants",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5458,
+            5465
+          ],
+          "text": "infants"
+        }
+      ]
+    },
+    {
+      "score": 0.305623,
+      "sentence": "How deep was this iceberg as the mystery intensified so did the fear among parents in Cleveland's east side neighborhoods the level of pesticides in the sick babies homes were all within normal range and there was no difference in air samples collected from the homes of the sick children than those collected from the homes of the healthy infants we want to prevent another death we want to prevent another case and and we didn't know where to reach out to next so I think all the public health authorities involved state federal local or really trying to get together in the think tank in and figure out some answers because we didn't have any.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5628,
+            5635
+          ],
+          "text": "parents"
+        },
+        {
+          "entities": [
+            {
+              "text": "east side",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5651,
+            5660
+          ],
+          "text": "east side"
+        }
+      ]
+    },
+    {
+      "score": 0.423565,
+      "sentence": "How deep was this iceberg as the mystery intensified so did the fear among parents in Cleveland's east side neighborhoods the level of pesticides in the sick babies homes were all within normal range and there was no difference in air samples collected from the homes of the sick children than those collected from the homes of the healthy infants we want to prevent another death we want to prevent another case and and we didn't know where to reach out to next so I think all the public health authorities involved state federal local or really trying to get together in the think tank in and figure out some answers because we didn't have any.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5628,
+            5635
+          ],
+          "text": "parents"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhoods",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5661,
+            5674
+          ],
+          "text": "neighborhoods"
+        }
+      ]
+    },
+    {
+      "score": 0.864559,
+      "sentence": "How deep was this iceberg as the mystery intensified so did the fear among parents in Cleveland's east side neighborhoods the level of pesticides in the sick babies homes were all within normal range and there was no difference in air samples collected from the homes of the sick children than those collected from the homes of the healthy infants we want to prevent another death we want to prevent another case and and we didn't know where to reach out to next so I think all the public health authorities involved state federal local or really trying to get together in the think tank in and figure out some answers because we didn't have any.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "east side",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5651,
+            5660
+          ],
+          "text": "east side"
+        },
+        {
+          "entities": [
+            {
+              "text": "Cleveland",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5639,
+            5648
+          ],
+          "text": "Cleveland"
+        }
+      ]
+    },
+    {
+      "score": 0.67604,
+      "sentence": "How deep was this iceberg as the mystery intensified so did the fear among parents in Cleveland's east side neighborhoods the level of pesticides in the sick babies homes were all within normal range and there was no difference in air samples collected from the homes of the sick children than those collected from the homes of the healthy infants we want to prevent another death we want to prevent another case and and we didn't know where to reach out to next so I think all the public health authorities involved state federal local or really trying to get together in the think tank in and figure out some answers because we didn't have any.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "neighborhoods",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5661,
+            5674
+          ],
+          "text": "neighborhoods"
+        },
+        {
+          "entities": [
+            {
+              "text": "Cleveland",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5639,
+            5648
+          ],
+          "text": "Cleveland"
+        }
+      ]
+    },
+    {
+      "score": 0.461422,
+      "sentence": "How deep was this iceberg as the mystery intensified so did the fear among parents in Cleveland's east side neighborhoods the level of pesticides in the sick babies homes were all within normal range and there was no difference in air samples collected from the homes of the sick children than those collected from the homes of the healthy infants we want to prevent another death we want to prevent another case and and we didn't know where to reach out to next so I think all the public health authorities involved state federal local or really trying to get together in the think tank in and figure out some answers because we didn't have any.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "east side",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5651,
+            5660
+          ],
+          "text": "east side"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhoods",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5661,
+            5674
+          ],
+          "text": "neighborhoods"
+        }
+      ]
+    },
+    {
+      "score": 0.526367,
+      "sentence": "How deep was this iceberg as the mystery intensified so did the fear among parents in Cleveland's east side neighborhoods the level of pesticides in the sick babies homes were all within normal range and there was no difference in air samples collected from the homes of the sick children than those collected from the homes of the healthy infants we want to prevent another death we want to prevent another case and and we didn't know where to reach out to next so I think all the public health authorities involved state federal local or really trying to get together in the think tank in and figure out some answers because we didn't have any.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5711,
+            5717
+          ],
+          "text": "babies"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5718,
+            5723
+          ],
+          "text": "homes"
+        }
+      ]
+    },
+    {
+      "score": 0.697094,
+      "sentence": "How deep was this iceberg as the mystery intensified so did the fear among parents in Cleveland's east side neighborhoods the level of pesticides in the sick babies homes were all within normal range and there was no difference in air samples collected from the homes of the sick children than those collected from the homes of the healthy infants we want to prevent another death we want to prevent another case and and we didn't know where to reach out to next so I think all the public health authorities involved state federal local or really trying to get together in the think tank in and figure out some answers because we didn't have any.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5847,
+            5852
+          ],
+          "text": "those"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5872,
+            5877
+          ],
+          "text": "homes"
+        }
+      ]
+    },
+    {
+      "score": 0.662425,
+      "sentence": "The data gathered from the questionnaires began to reveal some important information seven of the ten six children lived in homes with cigarette smokers all of the sick babies had been bottle fed non had been breast fed and all of the sick babies lived in homes that had recent water damage was it possible that smoke.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6440,
+            6446
+          ],
+          "text": "babies"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6456,
+            6461
+          ],
+          "text": "homes"
+        }
+      ]
+    },
+    {
+      "score": 0.139679,
+      "sentence": "Her baby was rushed to rainbow babies and children's hospital in Cleveland where doctors struggled to save little Brian's life.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            588,
+            596
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            599,
+            607
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.537076,
+      "sentence": "Dr Ruth that's spent weeks trying to figure out what was causing the mysterious lung bleeding among infants in Cleveland.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "infants",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6727,
+            6734
+          ],
+          "text": "infants"
+        },
+        {
+          "entities": [
+            {
+              "text": "lung bleeding",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            6707,
+            6720
+          ],
+          "text": "lung bleeding"
+        }
+      ]
+    },
+    {
+      "score": 0.472954,
+      "sentence": "Dr Ruth that's spent weeks trying to figure out what was causing the mysterious lung bleeding among infants in Cleveland.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "infants",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6727,
+            6734
+          ],
+          "text": "infants"
+        },
+        {
+          "entities": [
+            {
+              "text": "Cleveland",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6738,
+            6747
+          ],
+          "text": "Cleveland"
+        }
+      ]
+    },
+    {
+      "score": 0.995696,
+      "sentence": "During the investigation doctorates on that with a friend for dinner he was a physician and a fellow medical detective from Brazil she mentioned a lecture she once attended and couldn't recall all the details but said the lecture described how Michael toxins cause the serious illness of some Brazilian children.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6982,
+            6985
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "mentioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6986,
+            6995
+          ],
+          "text": "mentioned"
+        }
+      ]
+    },
+    {
+      "score": 0.382261,
+      "sentence": "During the investigation doctorates on that with a friend for dinner he was a physician and a fellow medical detective from Brazil she mentioned a lecture she once attended and couldn't recall all the details but said the lecture described how Michael toxins cause the serious illness of some Brazilian children.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7154,
+            7162
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "Brazilian",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7144,
+            7153
+          ],
+          "text": "Brazilian"
+        }
+      ]
+    },
+    {
+      "score": 0.731862,
+      "sentence": "If mycotoxins could make animals sick when they ate grain that was multi could it be possible that mycotoxins could make babies sick if they briefed them in.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7860,
+            7864
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "briefed",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            7865,
+            7872
+          ],
+          "text": "briefed"
+        }
+      ]
+    },
+    {
+      "score": 0.60493,
+      "sentence": "If mycotoxins could make animals sick when they ate grain that was multi could it be possible that mycotoxins could make babies sick if they briefed them in.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7873,
+            7877
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "briefed",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            7865,
+            7872
+          ],
+          "text": "briefed"
+        }
+      ]
+    },
+    {
+      "score": 0.529605,
+      "sentence": "To test her theory absolutely contacted doctor bill Sorenson my colleges who had done some research on this tacky box for small.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "physician",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7943,
+            7945
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "colleges",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7946,
+            7954
+          ],
+          "text": "colleges"
+        }
+      ]
+    },
+    {
+      "score": 0.649915,
+      "sentence": "Summons and notice that the samples from the Cleveland homes were structurally similar to the mold which killed the livestock in Europe it was in fact.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Cleveland Browns",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8802,
+            8811
+          ],
+          "text": "Cleveland"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8812,
+            8817
+          ],
+          "text": "homes"
+        }
+      ]
+    },
+    {
+      "score": 0.461675,
+      "sentence": "Investigators now knew that spores from stocky Botros Sartre we're in the air of the six babies homes but they needed to know whether the stocky Botros spores in Cleveland contained the same toxins as those which killed the livestock in your.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8998,
+            9004
+          ],
+          "text": "babies"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9005,
+            9010
+          ],
+          "text": "homes"
+        }
+      ]
+    },
+    {
+      "score": 0.819216,
+      "sentence": "Investigators now knew that spores from stocky Botros Sartre we're in the air of the six babies homes but they needed to know whether the stocky Botros spores in Cleveland contained the same toxins as those which killed the livestock in your.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Botros Sartre",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9054,
+            9060
+          ],
+          "text": "Botros"
+        },
+        {
+          "entities": [
+            {
+              "text": "Cleveland Browns",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9071,
+            9080
+          ],
+          "text": "Cleveland"
+        }
+      ]
+    },
+    {
+      "score": 0.47697,
+      "sentence": "Investigators now knew that spores from stocky Botros Sartre we're in the air of the six babies homes but they needed to know whether the stocky Botros spores in Cleveland contained the same toxins as those which killed the livestock in your.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9116,
+            9121
+          ],
+          "text": "which"
+        },
+        {
+          "entities": [
+            {
+              "text": "livestock",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9133,
+            9142
+          ],
+          "text": "livestock"
+        }
+      ]
+    },
+    {
+      "score": 0.876126,
+      "sentence": "Her baby was rushed to rainbow babies and children's hospital in Cleveland where doctors struggled to save little Brian's life.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            599,
+            607
+          ],
+          "text": "hospital"
+        },
+        {
+          "entities": [
+            {
+              "text": "Cleveland",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            611,
+            620
+          ],
+          "text": "Cleveland"
+        }
+      ]
+    },
+    {
+      "score": 0.694771,
+      "sentence": "Find out scientists grew the spores found in the Cleveland homes in a mixture of rice sticky Botros grows well in rice because of the moisture in the brains.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Cleveland Browns",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9201,
+            9210
+          ],
+          "text": "Cleveland"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9211,
+            9216
+          ],
+          "text": "homes"
+        }
+      ]
+    },
+    {
+      "score": 0.593737,
+      "sentence": "The mold was then ground and mixed with the series of solvents to extract the chemicals contained in the sports using what is called high performance liquid chromatography the physical characteristics of the spore chemicals were analyzed and scientists discovered that the Cleveland spores were identical to the highly toxic mycotoxins killed the livestock in Eastern Europe.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "livestock",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9657,
+            9666
+          ],
+          "text": "livestock"
+        },
+        {
+          "entities": [
+            {
+              "text": "Eastern Europe",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9670,
+            9684
+          ],
+          "text": "Eastern Europe"
+        }
+      ]
+    },
+    {
+      "score": 0.57833,
+      "sentence": "They were a special class of mycotoxins called try close the team is the tricolour thinking mycotoxins are among the most potent protein synthesis inhibitors known by that I mean they disrupt the ability of cells to make proteins and without that ability of cell will die when scientists searched the homes of the sick children they found the source of the stack of Botros spores in mold found growing in the basements the mold was found in all but one of the six babies homes but stocky Botros was also found in half the homes tested where healthy children live.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            10135,
+            10138
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10157,
+            10162
+          ],
+          "text": "homes"
+        }
+      ]
+    },
+    {
+      "score": 0.336883,
+      "sentence": "They were a special class of mycotoxins called try close the team is the tricolour thinking mycotoxins are among the most potent protein synthesis inhibitors known by that I mean they disrupt the ability of cells to make proteins and without that ability of cell will die when scientists searched the homes of the sick children they found the source of the stack of Botros spores in mold found growing in the basements the mold was found in all but one of the six babies homes but stocky Botros was also found in half the homes tested where healthy children live.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10150,
+            10156
+          ],
+          "text": "babies"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10157,
+            10162
+          ],
+          "text": "homes"
+        }
+      ]
+    },
+    {
+      "score": 0.541384,
+      "sentence": "If it was stocky Botros that caused the death of one Cleveland infant and the serious illness of nine others why thank all of the infants who lived in homes where it was found.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "infants",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10388,
+            10391
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10401,
+            10406
+          ],
+          "text": "homes"
+        }
+      ]
+    },
+    {
+      "score": 0.707575,
+      "sentence": "But were also found in half of the homes of healthy children living in the same neighborhood scientists wanted to know why some children develop lung bleeding while others did not they soon discovered that the number of airborne spores in the sick babies homes were far higher than in the homes of healthy children in effect the homes of sick babies contained more sports and more poison stackable this is generally not considered one of the major components in indoor air major from the indoor air in fact it's often observed at all in a study in Canada just a few years ago they examine a few hundred houses I don't know the exact number they saw something like three com isn't all these sounds combine.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10479,
+            10487
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            10507,
+            10519
+          ],
+          "text": "neighborhood"
+        }
+      ]
+    },
+    {
+      "score": 0.447466,
+      "sentence": "But were also found in half of the homes of healthy children living in the same neighborhood scientists wanted to know why some children develop lung bleeding while others did not they soon discovered that the number of airborne spores in the sick babies homes were far higher than in the homes of healthy children in effect the homes of sick babies contained more sports and more poison stackable this is generally not considered one of the major components in indoor air major from the indoor air in fact it's often observed at all in a study in Canada just a few years ago they examine a few hundred houses I don't know the exact number they saw something like three com isn't all these sounds combine.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10520,
+            10530
+          ],
+          "text": "scientists"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            10507,
+            10519
+          ],
+          "text": "neighborhood"
+        }
+      ]
+    },
+    {
+      "score": 0.838606,
+      "sentence": "But were also found in half of the homes of healthy children living in the same neighborhood scientists wanted to know why some children develop lung bleeding while others did not they soon discovered that the number of airborne spores in the sick babies homes were far higher than in the homes of healthy children in effect the homes of sick babies contained more sports and more poison stackable this is generally not considered one of the major components in indoor air major from the indoor air in fact it's often observed at all in a study in Canada just a few years ago they examine a few hundred houses I don't know the exact number they saw something like three com isn't all these sounds combine.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10555,
+            10563
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "lung bleeding",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            10572,
+            10585
+          ],
+          "text": "lung bleeding"
+        }
+      ]
+    },
+    {
+      "score": 0.543777,
+      "sentence": "But were also found in half of the homes of healthy children living in the same neighborhood scientists wanted to know why some children develop lung bleeding while others did not they soon discovered that the number of airborne spores in the sick babies homes were far higher than in the homes of healthy children in effect the homes of sick babies contained more sports and more poison stackable this is generally not considered one of the major components in indoor air major from the indoor air in fact it's often observed at all in a study in Canada just a few years ago they examine a few hundred houses I don't know the exact number they saw something like three com isn't all these sounds combine.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10675,
+            10681
+          ],
+          "text": "babies"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10682,
+            10687
+          ],
+          "text": "homes"
+        }
+      ]
+    },
+    {
+      "score": 0.435959,
+      "sentence": "We observe levels as high as six hundred Californians per cubic meter of air and some of the Cleveland Browns researchers found the source of this tacky Botros spores in the basements growing on the walls on the boxes and even on the insulation behind the walls forced tacky Botros to develop two things are necessary a cellulose product and water.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11243,
+            11254
+          ],
+          "text": "researchers"
+        },
+        {
+          "entities": [
+            {
+              "text": "Cleveland Browns",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11226,
+            11242
+          ],
+          "text": "Cleveland Browns"
+        }
+      ]
+    },
+    {
+      "score": 0.535786,
+      "sentence": "Learn bleeding is usually caused by a heart problem and infection or child abuse but in Brian's case doctors eliminated these as possible because the hospital's medical records revealed to other babies had been treated for unexplained lung bleeding and one of those babies died.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brian Mitchell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1344,
+            1349
+          ],
+          "text": "Brian"
+        },
+        {
+          "entities": [
+            {
+              "text": "child abuse",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            1325,
+            1336
+          ],
+          "text": "child abuse"
+        }
+      ]
+    },
+    {
+      "score": 0.186206,
+      "sentence": "Researchers discovered that some heavy rain storms because the sewer system in the geographic clustering case homes to overflow which produce flooding in many of the basements in other homes the residents said they had some leaking pipes the water was not immediately cleaned up and sold through the drywall and the insulation inside the walls creating the perfect medium for stacking boxes to grow in the warm moist and dark environment but if the stocky Botros was in the basement of these homes how did the children come into contact with the spores since none of the six children had been in the basement researchers discovered that when the mold dry the spores flaked away and became airborne the furnaces of these homes all drew air from the basement instead of the upper floors the spores were sucked into the furnace traveled through the ductwork and made their way into",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11587,
+            11591
+          ],
+          "text": "case"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11592,
+            11597
+          ],
+          "text": "homes"
+        }
+      ]
+    },
+    {
+      "score": 0.55583,
+      "sentence": "Researchers discovered that some heavy rain storms because the sewer system in the geographic clustering case homes to overflow which produce flooding in many of the basements in other homes the residents said they had some leaking pipes the water was not immediately cleaned up and sold through the drywall and the insulation inside the walls creating the perfect medium for stacking boxes to grow in the warm moist and dark environment but if the stocky Botros was in the basement of these homes how did the children come into contact with the spores since none of the six children had been in the basement researchers discovered that when the mold dry the spores flaked away and became airborne the furnaces of these homes all drew air from the basement instead of the upper floors the spores were sucked into the furnace traveled through the ductwork and made their way into",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Botros Sartre",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11938,
+            11944
+          ],
+          "text": "Botros"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11956,
+            11964
+          ],
+          "text": "basement"
+        }
+      ]
+    },
+    {
+      "score": 0.305248,
+      "sentence": "Researchers discovered that some heavy rain storms because the sewer system in the geographic clustering case homes to overflow which produce flooding in many of the basements in other homes the residents said they had some leaking pipes the water was not immediately cleaned up and sold through the drywall and the insulation inside the walls creating the perfect medium for stacking boxes to grow in the warm moist and dark environment but if the stocky Botros was in the basement of these homes how did the children come into contact with the spores since none of the six children had been in the basement researchers discovered that when the mold dry the spores flaked away and became airborne the furnaces of these homes all drew air from the basement instead of the upper floors the spores were sucked into the furnace traveled through the ductwork and made their way into",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11956,
+            11964
+          ],
+          "text": "basement"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11974,
+            11979
+          ],
+          "text": "homes"
+        }
+      ]
+    },
+    {
+      "score": 0.398273,
+      "sentence": "Researchers discovered that some heavy rain storms because the sewer system in the geographic clustering case homes to overflow which produce flooding in many of the basements in other homes the residents said they had some leaking pipes the water was not immediately cleaned up and sold through the drywall and the insulation inside the walls creating the perfect medium for stacking boxes to grow in the warm moist and dark environment but if the stocky Botros was in the basement of these homes how did the children come into contact with the spores since none of the six children had been in the basement researchers discovered that when the mold dry the spores flaked away and became airborne the furnaces of these homes all drew air from the basement instead of the upper floors the spores were sucked into the furnace traveled through the ductwork and made their way into",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12091,
+            12102
+          ],
+          "text": "researchers"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12082,
+            12090
+          ],
+          "text": "basement"
+        }
+      ]
+    },
+    {
+      "score": 0.428653,
+      "sentence": "every room of the home.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12367,
+            12371
+          ],
+          "text": "room"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12379,
+            12383
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.779166,
+      "sentence": "They were blown into the rooms what they could do the most damage into the infant's bed.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12385,
+            12389
+          ],
+          "text": "They"
+        },
+        {
+          "entities": [
+            {
+              "text": "rooms",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12410,
+            12415
+          ],
+          "text": "rooms"
+        }
+      ]
+    },
+    {
+      "score": 0.419953,
+      "sentence": "Once inside the infants among the spores released the mycotoxins called try coffee which prevented him from cells from making the protein needed to hold their tiny vessels together with the vessels now we can fragile an external trigger may have caused the tiny vessels to rupture and bleed since most of the sick babies lived in homes with cigarette smoking this may have been one of the triggers and none of the sick babies had been pressed.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12676,
+            12681
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "vessels",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            12687,
+            12694
+          ],
+          "text": "vessels"
+        }
+      ]
+    },
+    {
+      "score": 0.643722,
+      "sentence": "Once inside the infants among the spores released the mycotoxins called try coffee which prevented him from cells from making the protein needed to hold their tiny vessels together with the vessels now we can fragile an external trigger may have caused the tiny vessels to rupture and bleed since most of the sick babies lived in homes with cigarette smoking this may have been one of the triggers and none of the sick babies had been pressed.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12837,
+            12843
+          ],
+          "text": "babies"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12853,
+            12858
+          ],
+          "text": "homes"
+        }
+      ]
+    },
+    {
+      "score": 0.505165,
+      "sentence": "Once inside the infants among the spores released the mycotoxins called try coffee which prevented him from cells from making the protein needed to hold their tiny vessels together with the vessels now we can fragile an external trigger may have caused the tiny vessels to rupture and bleed since most of the sick babies lived in homes with cigarette smoking this may have been one of the triggers and none of the sick babies had been pressed.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "cigarette",
+              "type": "Substance"
+            }
+          ],
+          "location": [
+            12864,
+            12873
+          ],
+          "text": "cigarette"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12853,
+            12858
+          ],
+          "text": "homes"
+        }
+      ]
+    },
+    {
+      "score": 0.487243,
+      "sentence": "Once researchers found how this tacky Botros spores trapped in the basements to the children's rooms they discovered little Brian Mitchell was so much sicker than his twin sister Brianna although the two slept in the same.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13246,
+            13254
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "rooms",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13257,
+            13262
+          ],
+          "text": "rooms"
+        }
+      ]
+    },
+    {
+      "score": 0.604153,
+      "sentence": "Learn bleeding is usually caused by a heart problem and infection or child abuse but in Brian's case doctors eliminated these as possible because the hospital's medical records revealed to other babies had been treated for unexplained lung bleeding and one of those babies died.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brian Mitchell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1344,
+            1349
+          ],
+          "text": "Brian"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            1352,
+            1356
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.234555,
+      "sentence": "Brian'S closer to the heating vent where he probably inhaled more sports than his twin sister.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brian Mitchell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13463,
+            13466
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Brianna",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13472,
+            13478
+          ],
+          "text": "sister"
+        }
+      ]
+    },
+    {
+      "score": 0.986193,
+      "sentence": "Health officials urged parents to remove all visible mold with bleach and water and to clean up water damage immediately to prevent the mold from developing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Health officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13617,
+            13633
+          ],
+          "text": "Health officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "urged",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13634,
+            13639
+          ],
+          "text": "urged"
+        }
+      ]
+    },
+    {
+      "score": 0.9295,
+      "sentence": "Health officials urged parents to remove all visible mold with bleach and water and to clean up water damage immediately to prevent the mold from developing.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "parents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13640,
+            13647
+          ],
+          "text": "parents"
+        },
+        {
+          "entities": [
+            {
+              "text": "urged",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13634,
+            13639
+          ],
+          "text": "urged"
+        }
+      ]
+    },
+    {
+      "score": 0.747973,
+      "sentence": "One year after this investigation the coroner in Cleveland we opened the files of one hundred seventeen babies who died from what had been listed as sudden infant death syndrome lung tissue samples from their autopsies were re examined in light of what doctors now knew about stacking Botros Sartre in six of those samples the lone samples turned blue an indication that the babies had bleeding in their lines prior to their death officials believe that stacking Botros entre may have played a role in those six deaths.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "One year after",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            13775,
+            13789
+          ],
+          "text": "One year after"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13795,
+            13808
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.944552,
+      "sentence": "One year after this investigation the coroner in Cleveland we opened the files of one hundred seventeen babies who died from what had been listed as sudden infant death syndrome lung tissue samples from their autopsies were re examined in light of what doctors now knew about stacking Botros Sartre in six of those samples the lone samples turned blue an indication that the babies had bleeding in their lines prior to their death officials believe that stacking Botros entre may have played a role in those six deaths.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "coroner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13813,
+            13820
+          ],
+          "text": "coroner"
+        },
+        {
+          "entities": [
+            {
+              "text": "Cleveland Browns",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13824,
+            13833
+          ],
+          "text": "Cleveland"
+        }
+      ]
+    },
+    {
+      "score": 0.568616,
+      "sentence": "One year after this investigation the coroner in Cleveland we opened the files of one hundred seventeen babies who died from what had been listed as sudden infant death syndrome lung tissue samples from their autopsies were re examined in light of what doctors now knew about stacking Botros Sartre in six of those samples the lone samples turned blue an indication that the babies had bleeding in their lines prior to their death officials believe that stacking Botros entre may have played a role in those six deaths.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "coroner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13813,
+            13820
+          ],
+          "text": "coroner"
+        },
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13834,
+            13836
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.383024,
+      "sentence": "One year after this investigation the coroner in Cleveland we opened the files of one hundred seventeen babies who died from what had been listed as sudden infant death syndrome lung tissue samples from their autopsies were re examined in light of what doctors now knew about stacking Botros Sartre in six of those samples the lone samples turned blue an indication that the babies had bleeding in their lines prior to their death officials believe that stacking Botros entre may have played a role in those six deaths.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13834,
+            13836
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "Cleveland Browns",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13824,
+            13833
+          ],
+          "text": "Cleveland"
+        }
+      ]
+    },
+    {
+      "score": 0.475321,
+      "sentence": "One year after this investigation the coroner in Cleveland we opened the files of one hundred seventeen babies who died from what had been listed as sudden infant death syndrome lung tissue samples from their autopsies were re examined in light of what doctors now knew about stacking Botros Sartre in six of those samples the lone samples turned blue an indication that the babies had bleeding in their lines prior to their death officials believe that stacking Botros entre may have played a role in those six deaths.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13879,
+            13885
+          ],
+          "text": "babies"
+        },
+        {
+          "entities": [
+            {
+              "text": "seventeen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13869,
+            13878
+          ],
+          "text": "seventeen"
+        }
+      ]
+    },
+    {
+      "score": 0.680914,
+      "sentence": "One year after this investigation the coroner in Cleveland we opened the files of one hundred seventeen babies who died from what had been listed as sudden infant death syndrome lung tissue samples from their autopsies were re examined in light of what doctors now knew about stacking Botros Sartre in six of those samples the lone samples turned blue an indication that the babies had bleeding in their lines prior to their death officials believe that stacking Botros entre may have played a role in those six deaths.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13886,
+            13889
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "lung tissue",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            13953,
+            13964
+          ],
+          "text": "lung tissue"
+        }
+      ]
+    },
+    {
+      "score": 0.550572,
+      "sentence": "You land the pre vote is the mother of one of those six babies knowing the true cause of her daughter's death.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14324,
+            14330
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            14334,
+            14337
+          ],
+          "text": "one"
+        }
+      ]
+    },
+    {
+      "score": 0.736087,
+      "sentence": "Learn bleeding is usually caused by a heart problem and infection or child abuse but in Brian's case doctors eliminated these as possible because the hospital's medical records revealed to other babies had been treated for unexplained lung bleeding and one of those babies died.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brian Mitchell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1344,
+            1349
+          ],
+          "text": "Brian"
+        },
+        {
+          "entities": [
+            {
+              "text": "eliminated",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            1365,
+            1375
+          ],
+          "text": "eliminated"
+        }
+      ]
+    },
+    {
+      "score": 0.395541,
+      "sentence": "You land the pre vote is the mother of one of those six babies knowing the true cause of her daughter's death.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14324,
+            14330
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14351,
+            14357
+          ],
+          "text": "babies"
+        }
+      ]
+    },
+    {
+      "score": 0.589119,
+      "sentence": "You land the pre vote is the mother of one of those six babies knowing the true cause of her daughter's death.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            14334,
+            14337
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14351,
+            14357
+          ],
+          "text": "babies"
+        }
+      ]
+    },
+    {
+      "score": 0.451058,
+      "sentence": "You land the pre vote is the mother of one of those six babies knowing the true cause of her daughter's death.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "those",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14341,
+            14346
+          ],
+          "text": "those"
+        },
+        {
+          "entities": [
+            {
+              "text": "African",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14351,
+            14357
+          ],
+          "text": "babies"
+        }
+      ]
+    },
+    {
+      "score": 0.718927,
+      "sentence": "You land the pre vote is the mother of one of those six babies knowing the true cause of her daughter's death.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "myself",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14384,
+            14387
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14388,
+            14396
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.389445,
+      "sentence": "Bring some closure to her family's tragedy I don't think you can get anywhere outside of literally going to hail a live news there's nothing worse than this it's not because you never get over this is something you will never ever get over you always wonder what could I have done no matter how many times you hear there was nothing you could have done.",
+      "type": "relative",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "myself",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14428,
+            14431
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14432,
+            14438
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.564563,
+      "sentence": "Because I was standing there at one time you know wondering if my phone's going to die Nemo Williams is thankful that her two children Brian and Brianna both survived their encounter with stacking Botros Oct. I see little baby's face.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "myself",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14878,
+            14881
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14886,
+            14894
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.973938,
+      "sentence": "Because I was standing there at one time you know wondering if my phone's going to die Nemo Williams is thankful that her two children Brian and Brianna both survived their encounter with stacking Botros Oct. I see little baby's face.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brian Mitchell",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14895,
+            14900
+          ],
+          "text": "Brian"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14886,
+            14894
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.889539,
+      "sentence": "Because I was standing there at one time you know wondering if my phone's going to die Nemo Williams is thankful that her two children Brian and Brianna both survived their encounter with stacking Botros Oct. I see little baby's face.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brianna",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14905,
+            14912
+          ],
+          "text": "Brianna"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14886,
+            14894
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.739067,
+      "sentence": "Some sample was so deadly you know you don't you I mean mother nature of the bunch of stuff out there that we don't know about that and this was one of.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "myself",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15195,
+            15196
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15253,
+            15255
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.535103,
+      "sentence": "Some sample was so deadly you know you don't you I mean mother nature of the bunch of stuff out there that we don't know about that and this was one of.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15202,
+            15208
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15253,
+            15255
+          ],
+          "text": "we"
+        }
+      ]
+    }
+  ]
+}

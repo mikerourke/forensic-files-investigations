@@ -1,0 +1,4463 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 13872,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Oregon",
+      "relevance": 0.950606,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Sheila",
+      "relevance": 0.944872,
+      "confidence": 1,
+      "count": 8
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty fifth",
+      "relevance": 0.801572,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Diane Kirk",
+      "relevance": 0.699474,
+      "confidence": 0.964165,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Michael skills",
+      "relevance": 0.677528,
+      "confidence": 0.805433,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "sandy",
+      "relevance": 0.657763,
+      "confidence": 0.986275,
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Oregon health department",
+      "relevance": 0.638144,
+      "confidence": 0.654899,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Shree Rajneesh",
+      "relevance": 0.583968,
+      "confidence": 0.781665,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty million dollars",
+      "relevance": 0.579043,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "sixty four thousand acre",
+      "relevance": 0.577524,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "centers for disease control",
+      "relevance": 0.522094,
+      "confidence": 0.99965,
+      "count": 3,
+      "disambiguation": {
+        "name": "Centers_for_Disease_Control_and_Prevention",
+        "dbpedia_resource": "http://dbpedia.org/resource/Centers_for_Disease_Control_and_Prevention",
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "David",
+      "relevance": 0.51539,
+      "confidence": 0.99955,
+      "count": 2,
+      "disambiguation": {
+        "name": "David",
+        "dbpedia_resource": "http://dbpedia.org/resource/David",
+        "subtype": [
+          "Monarch",
+          "OperaCharacter",
+          "ReligiousLeader"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "pooja",
+      "relevance": 0.507957,
+      "confidence": 0.992079,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Bhagwan Shree Rajneesh",
+      "relevance": 0.485835,
+      "confidence": 0.961953,
+      "count": 1,
+      "disambiguation": {
+        "name": "Bhagwan_Shree_Rajneesh",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bhagwan_Shree_Rajneesh"
+      }
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "relevance": 0.484209,
+      "confidence": 0.999999,
+      "count": 3,
+      "disambiguation": {
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Columbia River",
+      "relevance": 0.483204,
+      "confidence": 0.883056,
+      "count": 1,
+      "disambiguation": {
+        "name": "Columbia_River",
+        "dbpedia_resource": "http://dbpedia.org/resource/Columbia_River",
+        "subtype": [
+          "Location",
+          "BodyOfWater",
+          "River"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Elissa",
+      "relevance": 0.478258,
+      "confidence": 0.784501,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "cramps",
+      "relevance": 0.436589,
+      "confidence": 0.75254,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Russian H. medical clinic",
+      "relevance": 0.420916,
+      "confidence": 0.30491,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Ten days",
+      "relevance": 0.41851,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "vomiting",
+      "relevance": 0.411501,
+      "confidence": 0.951017,
+      "count": 1,
+      "disambiguation": {
+        "name": "Vomiting",
+        "dbpedia_resource": "http://dbpedia.org/resource/Vomiting",
+        "subtype": [
+          "DiseaseCause",
+          "Symptom"
+        ]
+      }
+    },
+    {
+      "type": "HealthCondition",
+      "text": "diarrhea",
+      "relevance": 0.408908,
+      "confidence": 0.977462,
+      "count": 1,
+      "disambiguation": {
+        "name": "Diarrhea",
+        "dbpedia_resource": "http://dbpedia.org/resource/Diarrhea",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "DiseaseCause",
+          "RiskFactor",
+          "Symptom",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "HealthCondition",
+      "text": "salmonella",
+      "relevance": 0.406462,
+      "confidence": 0.925496,
+      "count": 2,
+      "disambiguation": {
+        "name": "Salmonella",
+        "dbpedia_resource": "http://dbpedia.org/resource/Salmonella",
+        "subtype": [
+          "OrganismClassification",
+          "DiseaseCause"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "two percent",
+      "relevance": 0.398491,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "four days",
+      "relevance": 0.392516,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "forty five percent",
+      "relevance": 0.385064,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Baghlan",
+      "relevance": 0.374812,
+      "confidence": 0.965087,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Ten percent",
+      "relevance": 0.369845,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "One year",
+      "relevance": 0.363546,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Dade",
+      "relevance": 0.362926,
+      "confidence": 0.847751,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Mike",
+      "relevance": 0.36242,
+      "confidence": 0.973495,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "commune licensed Medical Center",
+      "relevance": 0.347606,
+      "confidence": 0.515545,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dave",
+      "relevance": 0.335049,
+      "confidence": 0.96557,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Hollywood",
+      "relevance": 0.333488,
+      "confidence": 0.999994,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "milk",
+      "relevance": 0.312069,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Atlanta",
+      "relevance": 0.307814,
+      "confidence": 0.999857,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two months",
+      "relevance": 0.299555,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Georgia",
+      "relevance": 0.299323,
+      "confidence": 0.991673,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Royce",
+      "relevance": 0.298134,
+      "confidence": 0.754907,
+      "count": 1,
+      "disambiguation": {
+        "name": "Royce%27",
+        "dbpedia_resource": "http://dbpedia.org/resource/Royce%27"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "dales",
+      "relevance": 0.283907,
+      "confidence": 0.332875,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two years",
+      "relevance": 0.223738,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "India",
+      "relevance": 0.217588,
+      "confidence": 1,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Ray Solomon",
+      "relevance": 0.142193,
+      "confidence": 0.540674,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "North Carolina",
+      "relevance": 0.12586,
+      "confidence": 0.963267,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "FBI",
+      "relevance": 0.08983,
+      "confidence": 0.999853,
+      "count": 1,
+      "disambiguation": {
+        "name": "Federal_Bureau_of_Investigation",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation",
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Rodney",
+      "relevance": 0.074929,
+      "confidence": 0.903746,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Switzerland",
+      "relevance": 0.037015,
+      "confidence": 0.999908,
+      "count": 1,
+      "disambiguation": {
+        "name": "Switzerland",
+        "dbpedia_resource": "http://dbpedia.org/resource/Switzerland"
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "three years",
+      "relevance": 0.034906,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Europe",
+      "relevance": 0.031989,
+      "confidence": 0.999967,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Thirteen years",
+      "relevance": 0.013678,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "journal of the American medical association",
+      "relevance": 0.008258,
+      "confidence": 0.324082,
+      "count": 1,
+      "disambiguation": {
+        "name": "Journal_of_the_American_Medical_Association",
+        "dbpedia_resource": "http://dbpedia.org/resource/Journal_of_the_American_Medical_Association",
+        "subtype": [
+          "Journal"
+        ]
+      }
+    }
+  ],
+  "categories": [
+    {
+      "label": "/law, govt and politics",
+      "score": 0.856845
+    },
+    {
+      "label": "/society",
+      "score": 0.708989
+    },
+    {
+      "label": "/food and drink",
+      "score": 0.690973
+    },
+    {
+      "label": "/society/unrest and war",
+      "score": 0.671382
+    },
+    {
+      "label": "/food and drink/food",
+      "score": 0.660242
+    },
+    {
+      "label": "/health and fitness/disease",
+      "score": 0.655909
+    },
+    {
+      "label": "/society/crime/personal offense",
+      "score": 0.651316
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.643398
+    },
+    {
+      "label": "/business and industrial/business operations/business plans",
+      "score": 0.635348
+    },
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.618902
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.706852,
+      "sentence": "In a small town in Oregon in nineteen eighty four the first biological attack was launched against the United States.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "town",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11,
+            15
+          ],
+          "text": "town"
+        },
+        {
+          "entities": [
+            {
+              "text": "Oregon",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            19,
+            25
+          ],
+          "text": "Oregon"
+        }
+      ]
+    },
+    {
+      "score": 0.58983,
+      "sentence": "This small town in Oregon it's called the daily and is perched high above the Columbia River about eighty miles east of.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "town",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            280,
+            284
+          ],
+          "text": "town"
+        },
+        {
+          "entities": [
+            {
+              "text": "Oregon",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            288,
+            294
+          ],
+          "text": "Oregon"
+        }
+      ]
+    },
+    {
+      "score": 0.368466,
+      "sentence": "Ten days after the first outbreak second wave.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ten days after",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            1288,
+            1302
+          ],
+          "text": "Ten days after"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            1313,
+            1321
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.569767,
+      "sentence": "Armed with the forensic biological evidence Sheila and pooja were extradited from Europe and charged with tampering with consumer products.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sheila",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12530,
+            12536
+          ],
+          "text": "Sheila"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12579,
+            12586
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.939545,
+      "sentence": "Armed with the forensic biological evidence Sheila and pooja were extradited from Europe and charged with tampering with consumer products.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sheila",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12530,
+            12536
+          ],
+          "text": "Sheila"
+        },
+        {
+          "entities": [
+            {
+              "text": "attack",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12592,
+            12601
+          ],
+          "text": "tampering"
+        }
+      ]
+    },
+    {
+      "score": 0.518719,
+      "sentence": "They both pled guilty served less than three years in federal prison were released went to Switzerland before state charges could be filed.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12626,
+            12630
+          ],
+          "text": "They"
+        },
+        {
+          "entities": [
+            {
+              "text": "pled",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12636,
+            12640
+          ],
+          "text": "pled"
+        }
+      ]
+    },
+    {
+      "score": 0.422497,
+      "sentence": "They both pled guilty served less than three years in federal prison were released went to Switzerland before state charges could be filed.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "federal prison",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12680,
+            12694
+          ],
+          "text": "federal prison"
+        },
+        {
+          "entities": [
+            {
+              "text": "pled",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12636,
+            12640
+          ],
+          "text": "pled"
+        }
+      ]
+    },
+    {
+      "score": 0.947949,
+      "sentence": "They both pled guilty served less than three years in federal prison were released went to Switzerland before state charges could be filed.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Medical Center",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12736,
+            12741
+          ],
+          "text": "state"
+        },
+        {
+          "entities": [
+            {
+              "text": "charges",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12742,
+            12749
+          ],
+          "text": "charges"
+        }
+      ]
+    },
+    {
+      "score": 0.414213,
+      "sentence": "There was no proof of Russian nations self ever knew anything about the salmonella.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "nations",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12973,
+            12980
+          ],
+          "text": "nations"
+        },
+        {
+          "entities": [
+            {
+              "text": "Russian",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12965,
+            12972
+          ],
+          "text": "Russian"
+        }
+      ]
+    },
+    {
+      "score": 0.991011,
+      "sentence": "He pleaded guilty to immigration violations was deported and died in India in nineteen ninety.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "He",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13027,
+            13029
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "pleaded",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13030,
+            13037
+          ],
+          "text": "pleaded"
+        }
+      ]
+    },
+    {
+      "score": 0.100435,
+      "sentence": "Most of the restaurants targeted in the attack never recovered from the economic and went out of business.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Most",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            13122,
+            13126
+          ],
+          "text": "Most"
+        },
+        {
+          "entities": [
+            {
+              "text": "restaurants",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13134,
+            13145
+          ],
+          "text": "restaurants"
+        }
+      ]
+    },
+    {
+      "score": 0.539656,
+      "sentence": "Most of the restaurants targeted in the attack never recovered from the economic and went out of business.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "restaurants",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13134,
+            13145
+          ],
+          "text": "restaurants"
+        },
+        {
+          "entities": [
+            {
+              "text": "attack",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13162,
+            13168
+          ],
+          "text": "attack"
+        }
+      ]
+    },
+    {
+      "score": 0.511289,
+      "sentence": "Thirteen years after the outbreak when bio terrorism have become a growing concern.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Thirteen years after",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            13546,
+            13566
+          ],
+          "text": "Thirteen years after"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            13571,
+            13579
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.78638,
+      "sentence": "By the time they blocked consumers from four days of delirium he encountered a disaster likens owned a small restaurant thirteen of these employees were sick along with hundreds of its customers.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "employees",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1559,
+            1568
+          ],
+          "text": "employees"
+        },
+        {
+          "entities": [
+            {
+              "text": "restaurant thirteen",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1530,
+            1549
+          ],
+          "text": "restaurant thirteen"
+        }
+      ]
+    },
+    {
+      "score": 0.959574,
+      "sentence": "Evidence discovered in the Russian cheese help clinic revealed they had even more biological weapons in their possession.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "clinic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13761,
+            13767
+          ],
+          "text": "clinic"
+        },
+        {
+          "entities": [
+            {
+              "text": "revealed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13768,
+            13776
+          ],
+          "text": "revealed"
+        }
+      ]
+    },
+    {
+      "score": 0.544586,
+      "sentence": "Evidence discovered in the Russian cheese help clinic revealed they had even more biological weapons in their possession.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13777,
+            13781
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "revealed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13768,
+            13776
+          ],
+          "text": "revealed"
+        }
+      ]
+    },
+    {
+      "score": 0.807385,
+      "sentence": "By the time they blocked consumers from four days of delirium he encountered a disaster likens owned a small restaurant thirteen of these employees were sick along with hundreds of its customers.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "customers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1606,
+            1615
+          ],
+          "text": "customers"
+        },
+        {
+          "entities": [
+            {
+              "text": "its",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1602,
+            1605
+          ],
+          "text": "its"
+        }
+      ]
+    },
+    {
+      "score": 0.485419,
+      "sentence": "But what was the source of the outbreak.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "source",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1844,
+            1850
+          ],
+          "text": "source"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            1858,
+            1866
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.784573,
+      "sentence": "Solving the riddle of the salmonella outbreak in our job that that would be me all the.",
+      "type": "instrumentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Salmonella",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            2271,
+            2281
+          ],
+          "text": "salmonella"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            2282,
+            2290
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.734726,
+      "sentence": "Dr Michael skills runs the laboratory the process samples from the dales salmonella outbreak.",
+      "type": "instrumentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Salmonella",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            3343,
+            3353
+          ],
+          "text": "salmonella"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            3354,
+            3362
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.776186,
+      "sentence": "Health officials could not find the source of the salmonella outbreak in the dales are in discussion among local officials continued to be the Russian nation a religious cult living on a farm outside of town.",
+      "type": "instrumentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Salmonella",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            6571,
+            6581
+          ],
+          "text": "salmonella"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            6582,
+            6590
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.783426,
+      "sentence": "One year after the salmonella outbreak without warning Sheila and the head of the Russian H. medical clinic a nurse named pooja played to your.",
+      "type": "instrumentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Salmonella",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            7841,
+            7851
+          ],
+          "text": "salmonella"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            7852,
+            7860
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.589239,
+      "sentence": "Solving the riddle of the salmonella outbreak in our job that that would be me all the.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "me",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2321,
+            2323
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "Salmonella",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            2271,
+            2281
+          ],
+          "text": "salmonella"
+        }
+      ]
+    },
+    {
+      "score": 0.490045,
+      "sentence": "Hundreds of their customers and most of their employees became ill.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Scientists",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            2729,
+            2737
+          ],
+          "text": "Hundreds"
+        },
+        {
+          "entities": [
+            {
+              "text": "handlers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2741,
+            2746
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.299061,
+      "sentence": "Hundreds of their customers and most of their employees became ill.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "handlers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2741,
+            2746
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "customers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2747,
+            2756
+          ],
+          "text": "customers"
+        }
+      ]
+    },
+    {
+      "score": 0.280361,
+      "sentence": "Hundreds of their customers and most of their employees became ill.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "handlers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2769,
+            2774
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "employees",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2775,
+            2784
+          ],
+          "text": "employees"
+        }
+      ]
+    },
+    {
+      "score": 0.726818,
+      "sentence": "At the county health department nurse Diane Kirk contacted everyone who fell ill and discovered they had all the sound from one to ten local restaurants.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "department nurse",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2818,
+            2834
+          ],
+          "text": "department nurse"
+        },
+        {
+          "entities": [
+            {
+              "text": "Medical Center",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2804,
+            2810
+          ],
+          "text": "county"
+        }
+      ]
+    },
+    {
+      "score": 0.300768,
+      "sentence": "In a small town in Oregon in nineteen eighty four the first biological attack was launched against the United States.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "attack",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            71,
+            77
+          ],
+          "text": "attack"
+        },
+        {
+          "entities": [
+            {
+              "text": "town",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11,
+            15
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.468067,
+      "sentence": "At the county health department nurse Diane Kirk contacted everyone who fell ill and discovered they had all the sound from one to ten local restaurants.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Diane Kirk",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2835,
+            2845
+          ],
+          "text": "Diane Kirk"
+        },
+        {
+          "entities": [
+            {
+              "text": "department nurse",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2818,
+            2834
+          ],
+          "text": "department nurse"
+        }
+      ]
+    },
+    {
+      "score": 0.369536,
+      "sentence": "The Oregon health department basically hung out said well it is your employees that you know was on safe practices unsafe handling of food.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Diane Kirk",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4096,
+            4100
+          ],
+          "text": "your"
+        },
+        {
+          "entities": [
+            {
+              "text": "department nurse",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4050,
+            4060
+          ],
+          "text": "department"
+        }
+      ]
+    },
+    {
+      "score": 0.998365,
+      "sentence": "At the county health department nurse Diane Kirk contacted everyone who fell ill and discovered they had all the sound from one to ten local restaurants.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Diane Kirk",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2835,
+            2845
+          ],
+          "text": "Diane Kirk"
+        },
+        {
+          "entities": [
+            {
+              "text": "contacted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2846,
+            2855
+          ],
+          "text": "contacted"
+        }
+      ]
+    },
+    {
+      "score": 0.818944,
+      "sentence": "At the county health department nurse Diane Kirk contacted everyone who fell ill and discovered they had all the sound from one to ten local restaurants.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "everybody",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2856,
+            2864
+          ],
+          "text": "everyone"
+        },
+        {
+          "entities": [
+            {
+              "text": "contacted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2846,
+            2855
+          ],
+          "text": "contacted"
+        }
+      ]
+    },
+    {
+      "score": 0.492893,
+      "sentence": "Dr Michael skills runs the laboratory the process samples from the dales salmonella outbreak.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3273,
+            3280
+          ],
+          "text": "Michael"
+        },
+        {
+          "entities": [
+            {
+              "text": "laboratory",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3297,
+            3307
+          ],
+          "text": "laboratory"
+        }
+      ]
+    },
+    {
+      "score": 0.784298,
+      "sentence": "This woman ally had another characteristic on like most bacteria this one was not resistant to antibiotics.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Diane Kirk",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3543,
+            3548
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "Russian",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3549,
+            3553
+          ],
+          "text": "ally"
+        }
+      ]
+    },
+    {
+      "score": 0.665792,
+      "sentence": "Ten percent where restaurant workers.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "employees",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3778,
+            3785
+          ],
+          "text": "workers"
+        },
+        {
+          "entities": [
+            {
+              "text": "restaurant",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3767,
+            3777
+          ],
+          "text": "restaurant"
+        }
+      ]
+    },
+    {
+      "score": 0.684306,
+      "sentence": "Never the less two months after the outbreak the state of Oregon reported that poor hygiene of restaurant workers and cross contamination for the most likely causes of the outbreak.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "employees",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3928,
+            3935
+          ],
+          "text": "workers"
+        },
+        {
+          "entities": [
+            {
+              "text": "restaurant",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3917,
+            3927
+          ],
+          "text": "restaurant"
+        }
+      ]
+    },
+    {
+      "score": 0.394775,
+      "sentence": "The outbreak because my customers.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Diane Kirk",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3808,
+            3810
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "customers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3811,
+            3820
+          ],
+          "text": "customers"
+        }
+      ]
+    },
+    {
+      "score": 0.326409,
+      "sentence": "Never the less two months after the outbreak the state of Oregon reported that poor hygiene of restaurant workers and cross contamination for the most likely causes of the outbreak.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Medical Center",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3871,
+            3876
+          ],
+          "text": "state"
+        },
+        {
+          "entities": [
+            {
+              "text": "Oregon",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3880,
+            3886
+          ],
+          "text": "Oregon"
+        }
+      ]
+    },
+    {
+      "score": 0.951486,
+      "sentence": "The Oregon health department basically hung out said well it is your employees that you know was on safe practices unsafe handling of food.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "department nurse",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4050,
+            4060
+          ],
+          "text": "department"
+        },
+        {
+          "entities": [
+            {
+              "text": "Oregon",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4036,
+            4042
+          ],
+          "text": "Oregon"
+        }
+      ]
+    },
+    {
+      "score": 0.446734,
+      "sentence": "The Oregon health department basically hung out said well it is your employees that you know was on safe practices unsafe handling of food.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "employees",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4101,
+            4110
+          ],
+          "text": "employees"
+        },
+        {
+          "entities": [
+            {
+              "text": "department nurse",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4050,
+            4060
+          ],
+          "text": "department"
+        }
+      ]
+    },
+    {
+      "score": 0.592449,
+      "sentence": "On September twenty fifth nineteen eighty four David and sandy both became violently ill with cramps diarrhea and vomiting.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            733,
+            738
+          ],
+          "text": "David"
+        },
+        {
+          "entities": [
+            {
+              "text": "diarrhea",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            787,
+            795
+          ],
+          "text": "diarrhea"
+        }
+      ]
+    },
+    {
+      "score": 0.812853,
+      "sentence": "Officials found no salmonella in Dade lock ins restaurant but they did find traces of it in some of the other restaurants.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4172,
+            4181
+          ],
+          "text": "Officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "Salmonella",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            4191,
+            4201
+          ],
+          "text": "salmonella"
+        }
+      ]
+    },
+    {
+      "score": 0.899284,
+      "sentence": "Officials found no salmonella in Dade lock ins restaurant but they did find traces of it in some of the other restaurants.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "restaurant",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4219,
+            4229
+          ],
+          "text": "restaurant"
+        },
+        {
+          "entities": [
+            {
+              "text": "Dade lock",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4205,
+            4214
+          ],
+          "text": "Dade lock"
+        }
+      ]
+    },
+    {
+      "score": 0.704742,
+      "sentence": "If you work in public health long enough you'll figure out the last time you really can't pinpoint where things come from but health officials said this is the best we can tell you it wasn't a very satisfying explanation for them or for the public or from the press but at that time there was no other explanation.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Health officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4421,
+            4437
+          ],
+          "text": "health officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4438,
+            4442
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.42807,
+      "sentence": "Just a year earlier one of the cult's leaders on on Sheila hinted at potential violence.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sheila",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4859,
+            4865
+          ],
+          "text": "Sheila"
+        },
+        {
+          "entities": [
+            {
+              "text": "Leaders",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4845,
+            4852
+          ],
+          "text": "leaders"
+        }
+      ]
+    },
+    {
+      "score": 0.256004,
+      "sentence": "Just a year earlier one of the cult's leaders on on Sheila hinted at potential violence.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Leaders",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4845,
+            4852
+          ],
+          "text": "leaders"
+        },
+        {
+          "entities": [
+            {
+              "text": "violence",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            4886,
+            4894
+          ],
+          "text": "violence"
+        }
+      ]
+    },
+    {
+      "score": 0.983611,
+      "sentence": "She said quote we are here in Oregon to stay at whatever the cost if that means some blood is spilled then this is the price we are prepared to pay.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sheila",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4896,
+            4899
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4900,
+            4904
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.578079,
+      "sentence": "After two years and thirty million dollars the sixty four thousand acre organic farming and meditation compound had its own post office school hospital and shopping mall with housing for over a thousand followers.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "office school hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5260,
+            5282
+          ],
+          "text": "office school hospital"
+        },
+        {
+          "entities": [
+            {
+              "text": "its",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5247,
+            5250
+          ],
+          "text": "its"
+        }
+      ]
+    },
+    {
+      "score": 0.696355,
+      "sentence": "As he drove through the compound each day in one of the eighty rolls Royce automobiles the group preach the benefits of meditation where you live.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "he",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5482,
+            5484
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "compound",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5503,
+            5511
+          ],
+          "text": "compound"
+        }
+      ]
+    },
+    {
+      "score": 0.53911,
+      "sentence": "In nineteen eighty two the Russian Nishi's took over the nearby town of.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Nishi",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5762,
+            5767
+          ],
+          "text": "Nishi"
+        },
+        {
+          "entities": [
+            {
+              "text": "Russian",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5754,
+            5761
+          ],
+          "text": "Russian"
+        }
+      ]
+    },
+    {
+      "score": 0.982143,
+      "sentence": "And with that the majority of seats on the city council and school board which horrified long time residents of the small town.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "council",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5848,
+            5855
+          ],
+          "text": "council"
+        },
+        {
+          "entities": [
+            {
+              "text": "office school hospital",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5843,
+            5847
+          ],
+          "text": "city"
+        }
+      ]
+    },
+    {
+      "score": 0.689053,
+      "sentence": "On September twenty fifth nineteen eighty four David and sandy both became violently ill with cramps diarrhea and vomiting.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            733,
+            738
+          ],
+          "text": "David"
+        },
+        {
+          "entities": [
+            {
+              "text": "vomiting",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            800,
+            808
+          ],
+          "text": "vomiting"
+        }
+      ]
+    },
+    {
+      "score": 0.29812,
+      "sentence": "And with that the majority of seats on the city council and school board which horrified long time residents of the small town.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "residents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5899,
+            5908
+          ],
+          "text": "residents"
+        },
+        {
+          "entities": [
+            {
+              "text": "office school hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5873,
+            5878
+          ],
+          "text": "which"
+        }
+      ]
+    },
+    {
+      "score": 0.54012,
+      "sentence": "And with that the majority of seats on the city council and school board which horrified long time residents of the small town.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "residents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5899,
+            5908
+          ],
+          "text": "residents"
+        },
+        {
+          "entities": [
+            {
+              "text": "town",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5922,
+            5926
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.40856,
+      "sentence": "The Russian the cheese had set their sights on control of the larger town of the dales and the put up their own slate of candidates running in the November election.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "residents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5959,
+            5964
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "town",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5997,
+            6001
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.470203,
+      "sentence": "The Russian the cheese had set their sights on control of the larger town of the dales and the put up their own slate of candidates running in the November election.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "residents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6030,
+            6035
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "candidates",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6049,
+            6059
+          ],
+          "text": "candidates"
+        }
+      ]
+    },
+    {
+      "score": 0.954946,
+      "sentence": "The Russian the cheese had set their sights on control of the larger town of the dales and the put up their own slate of candidates running in the November election.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "November",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            6075,
+            6083
+          ],
+          "text": "November"
+        },
+        {
+          "entities": [
+            {
+              "text": "elections",
+              "type": "EventElection"
+            }
+          ],
+          "location": [
+            6084,
+            6092
+          ],
+          "text": "election"
+        }
+      ]
+    },
+    {
+      "score": 0.415003,
+      "sentence": "In the absence of the scientific explanation some thought the Russian nations might have intentionally poisoned the community in some way.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "nations",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6164,
+            6171
+          ],
+          "text": "nations"
+        },
+        {
+          "entities": [
+            {
+              "text": "Russian",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6156,
+            6163
+          ],
+          "text": "Russian"
+        }
+      ]
+    },
+    {
+      "score": 0.581209,
+      "sentence": "Health officials could not find the source of the salmonella outbreak in the dales are in discussion among local officials continued to be the Russian nation a religious cult living on a farm outside of town.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "source",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6557,
+            6563
+          ],
+          "text": "source"
+        },
+        {
+          "entities": [
+            {
+              "text": "Salmonella",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            6571,
+            6581
+          ],
+          "text": "salmonella"
+        }
+      ]
+    },
+    {
+      "score": 0.464173,
+      "sentence": "Health officials could not find the source of the salmonella outbreak in the dales are in discussion among local officials continued to be the Russian nation a religious cult living on a farm outside of town.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "source",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6557,
+            6563
+          ],
+          "text": "source"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            6582,
+            6590
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.244799,
+      "sentence": "Health officials could not find the source of the salmonella outbreak in the dales are in discussion among local officials continued to be the Russian nation a religious cult living on a farm outside of town.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "nation",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6672,
+            6678
+          ],
+          "text": "nation"
+        },
+        {
+          "entities": [
+            {
+              "text": "Russian",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6664,
+            6671
+          ],
+          "text": "Russian"
+        }
+      ]
+    },
+    {
+      "score": 0.464036,
+      "sentence": "Health officials could not find the source of the salmonella outbreak in the dales are in discussion among local officials continued to be the Russian nation a religious cult living on a farm outside of town.",
+      "type": "near",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "farm",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6708,
+            6712
+          ],
+          "text": "farm"
+        },
+        {
+          "entities": [
+            {
+              "text": "town",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6724,
+            6728
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.656945,
+      "sentence": "When David and his wife went to the hospital they weren't the only ones seriously ill.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            815,
+            820
+          ],
+          "text": "David"
+        },
+        {
+          "entities": [
+            {
+              "text": "residents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            855,
+            859
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.50872,
+      "sentence": "Leaders of the cult and town officials were often at odds.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Leaders",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6730,
+            6737
+          ],
+          "text": "Leaders"
+        },
+        {
+          "entities": [
+            {
+              "text": "officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6759,
+            6768
+          ],
+          "text": "officials"
+        }
+      ]
+    },
+    {
+      "score": 0.92342,
+      "sentence": "Leaders of the cult and town officials were often at odds.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6759,
+            6768
+          ],
+          "text": "officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "office school hospital",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6754,
+            6758
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.292263,
+      "sentence": "The cold was founded by Bhagwan Shree Rajneesh but the day to day operations were run by his associate ma non fiction.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bhagwan Shree Rajneesh",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6878,
+            6881
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "associate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6882,
+            6891
+          ],
+          "text": "associate"
+        }
+      ]
+    },
+    {
+      "score": 0.613858,
+      "sentence": "They were being investigated for possible immigration fraud and that was growing in terminal conflict between Sheila and other commune leaders.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7115,
+            7119
+          ],
+          "text": "They"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigated",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            7131,
+            7143
+          ],
+          "text": "investigated"
+        }
+      ]
+    },
+    {
+      "score": 0.525585,
+      "sentence": "She and her group.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sheila",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7267,
+            7270
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "office school hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7271,
+            7276
+          ],
+          "text": "group"
+        }
+      ]
+    },
+    {
+      "score": 0.759323,
+      "sentence": "Sheila and her group were very paranoid about these people.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sheila",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7527,
+            7530
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "office school hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7531,
+            7536
+          ],
+          "text": "group"
+        }
+      ]
+    },
+    {
+      "score": 0.476888,
+      "sentence": "For a power struggle with another group which I we always kind of called the Hollywood faction they were rich members of the call headed up by a lady who was the ex wife of a Hollywood producer they had money they had access to Rajneesh.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "faction",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7365,
+            7372
+          ],
+          "text": "faction"
+        },
+        {
+          "entities": [
+            {
+              "text": "Hollywood",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7355,
+            7364
+          ],
+          "text": "Hollywood"
+        }
+      ]
+    },
+    {
+      "score": 0.474074,
+      "sentence": "For a power struggle with another group which I we always kind of called the Hollywood faction they were rich members of the call headed up by a lady who was the ex wife of a Hollywood producer they had money they had access to Rajneesh.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "faction",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7365,
+            7372
+          ],
+          "text": "faction"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7373,
+            7377
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.299281,
+      "sentence": "For a power struggle with another group which I we always kind of called the Hollywood faction they were rich members of the call headed up by a lady who was the ex wife of a Hollywood producer they had money they had access to Rajneesh.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "producer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7443,
+            7447
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "Hollywood",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7453,
+            7462
+          ],
+          "text": "Hollywood"
+        }
+      ]
+    },
+    {
+      "score": 0.47138,
+      "sentence": "For a power struggle with another group which I we always kind of called the Hollywood faction they were rich members of the call headed up by a lady who was the ex wife of a Hollywood producer they had money they had access to Rajneesh.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "producer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7463,
+            7471
+          ],
+          "text": "producer"
+        },
+        {
+          "entities": [
+            {
+              "text": "Hollywood",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7453,
+            7462
+          ],
+          "text": "Hollywood"
+        }
+      ]
+    },
+    {
+      "score": 0.974476,
+      "sentence": "Former cult members told of plans to assassinate several local politicians rival cult members the United States attorney and journalist les sites in retaliation for some investigative pieces he had written about the group in the local newspaper.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "members",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7588,
+            7595
+          ],
+          "text": "members"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7596,
+            7600
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.789022,
+      "sentence": "Former cult members told of plans to assassinate several local politicians rival cult members the United States attorney and journalist les sites in retaliation for some investigative pieces he had written about the group in the local newspaper.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "journalist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7688,
+            7696
+          ],
+          "text": "attorney"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7674,
+            7687
+          ],
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "score": 0.7543,
+      "sentence": "When David and his wife went to the hospital they weren't the only ones seriously ill.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            825,
+            828
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "producer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            829,
+            833
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.569987,
+      "sentence": "Former cult members told of plans to assassinate several local politicians rival cult members the United States attorney and journalist les sites in retaliation for some investigative pieces he had written about the group in the local newspaper.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "journalist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7767,
+            7769
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "written",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7774,
+            7781
+          ],
+          "text": "written"
+        }
+      ]
+    },
+    {
+      "score": 0.471356,
+      "sentence": "Former cult members told of plans to assassinate several local politicians rival cult members the United States attorney and journalist les sites in retaliation for some investigative pieces he had written about the group in the local newspaper.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "office school hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7792,
+            7797
+          ],
+          "text": "group"
+        },
+        {
+          "entities": [
+            {
+              "text": "written",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7774,
+            7781
+          ],
+          "text": "written"
+        }
+      ]
+    },
+    {
+      "score": 0.764693,
+      "sentence": "Former cult members told of plans to assassinate several local politicians rival cult members the United States attorney and journalist les sites in retaliation for some investigative pieces he had written about the group in the local newspaper.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "office school hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7792,
+            7797
+          ],
+          "text": "group"
+        },
+        {
+          "entities": [
+            {
+              "text": "Hollywood",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7811,
+            7820
+          ],
+          "text": "newspaper"
+        }
+      ]
+    },
+    {
+      "score": 0.454122,
+      "sentence": "One year after the salmonella outbreak without warning Sheila and the head of the Russian H. medical clinic a nurse named pooja played to your.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "One year",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            7822,
+            7830
+          ],
+          "text": "One year"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            7852,
+            7860
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.515538,
+      "sentence": "V. with armed guards and he would have a trailing SUV with armed guards internet have a jet ranger helicopter near.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "ranger",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8431,
+            8437
+          ],
+          "text": "ranger"
+        },
+        {
+          "entities": [
+            {
+              "text": "helicopter",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            8438,
+            8448
+          ],
+          "text": "helicopter"
+        }
+      ]
+    },
+    {
+      "score": 0.679444,
+      "sentence": "In October of nineteen ninety five a federal grand jury issued a thirty five page indictment charging the Baghlan with lying on his visa application and arranging sham marriages so his followers could remain in the United States.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "October of nineteen ninety five",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            8555,
+            8586
+          ],
+          "text": "October of nineteen ninety five"
+        },
+        {
+          "entities": [
+            {
+              "text": "issued",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8608,
+            8614
+          ],
+          "text": "issued"
+        }
+      ]
+    },
+    {
+      "score": 0.993823,
+      "sentence": "In October of nineteen ninety five a federal grand jury issued a thirty five page indictment charging the Baghlan with lying on his visa application and arranging sham marriages so his followers could remain in the United States.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "federal grand jury",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8589,
+            8607
+          ],
+          "text": "federal grand jury"
+        },
+        {
+          "entities": [
+            {
+              "text": "issued",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8608,
+            8614
+          ],
+          "text": "issued"
+        }
+      ]
+    },
+    {
+      "score": 0.36635,
+      "sentence": "In October of nineteen ninety five a federal grand jury issued a thirty five page indictment charging the Baghlan with lying on his visa application and arranging sham marriages so his followers could remain in the United States.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Baghlan",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8658,
+            8665
+          ],
+          "text": "Baghlan"
+        },
+        {
+          "entities": [
+            {
+              "text": "indictment",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8634,
+            8644
+          ],
+          "text": "indictment"
+        }
+      ]
+    },
+    {
+      "score": 0.446716,
+      "sentence": "When officials planned to search the compound they asked epidemiologist Dr Mike to come along because of fears of biological retaliation and as we were going up that road I was thinking you know for microbiologists this is going to be a pretty interesting day no shots were fired she.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8787,
+            8796
+          ],
+          "text": "officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "compound",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8819,
+            8827
+          ],
+          "text": "compound"
+        }
+      ]
+    },
+    {
+      "score": 0.993305,
+      "sentence": "When officials planned to search the compound they asked epidemiologist Dr Mike to come along because of fears of biological retaliation and as we were going up that road I was thinking you know for microbiologists this is going to be a pretty interesting day no shots were fired she.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8828,
+            8832
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8833,
+            8838
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.852371,
+      "sentence": "When David and his wife went to the hospital they weren't the only ones seriously ill.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "producer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            829,
+            833
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            846,
+            854
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.5357,
+      "sentence": "When officials planned to search the compound they asked epidemiologist Dr Mike to come along because of fears of biological retaliation and as we were going up that road I was thinking you know for microbiologists this is going to be a pretty interesting day no shots were fired she.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mike",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8839,
+            8853
+          ],
+          "text": "epidemiologist"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8833,
+            8838
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.837241,
+      "sentence": "When officials planned to search the compound they asked epidemiologist Dr Mike to come along because of fears of biological retaliation and as we were going up that road I was thinking you know for microbiologists this is going to be a pretty interesting day no shots were fired she.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mike",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8857,
+            8861
+          ],
+          "text": "Mike"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8926,
+            8928
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.346079,
+      "sentence": "In the commune licensed Medical Center steals found samples of various back.",
+      "type": "memberOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "steals",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9106,
+            9112
+          ],
+          "text": "steals"
+        },
+        {
+          "entities": [
+            {
+              "text": "Medical Center",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9091,
+            9105
+          ],
+          "text": "Medical Center"
+        }
+      ]
+    },
+    {
+      "score": 0.967704,
+      "sentence": "And I remember the time thinking well they told me to look for salmonella by finding is with the season as evidenced well there it is so all season but I wasn't thinking at all that this was related to the outbreak.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9258,
+            9262
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9263,
+            9267
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.862342,
+      "sentence": "And I remember the time thinking well they told me to look for salmonella by finding is with the season as evidenced well there it is so all season but I wasn't thinking at all that this was related to the outbreak.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9268,
+            9270
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9263,
+            9267
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.733345,
+      "sentence": "And I remember the time thinking well they told me to look for salmonella by finding is with the season as evidenced well there it is so all season but I wasn't thinking at all that this was related to the outbreak.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9268,
+            9270
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "Salmonella",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            9283,
+            9293
+          ],
+          "text": "salmonella"
+        }
+      ]
+    },
+    {
+      "score": 0.903243,
+      "sentence": "Russian issue left on one of his private jets he was arrested in North Carolina on the immigration charge.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9506,
+            9508
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrested",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            9513,
+            9521
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.906533,
+      "sentence": "Russian issue left on one of his private jets he was arrested in North Carolina on the immigration charge.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "arrested",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            9513,
+            9521
+          ],
+          "text": "arrested"
+        },
+        {
+          "entities": [
+            {
+              "text": "North Carolina",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9525,
+            9539
+          ],
+          "text": "North Carolina"
+        }
+      ]
+    },
+    {
+      "score": 0.561781,
+      "sentence": "The salmonella from the Russian the cheese clinic had a plasma profile similar to the organism from the dales.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "clinic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10163,
+            10169
+          ],
+          "text": "clinic"
+        },
+        {
+          "entities": [
+            {
+              "text": "Russian",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10144,
+            10151
+          ],
+          "text": "Russian"
+        }
+      ]
+    },
+    {
+      "score": 0.493961,
+      "sentence": "That really was a smoking gun that showed us that the high school at that too I found in their clinic and the high schools that we were getting from the people in this outbreak really were the same bacterial strains.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10467,
+            10473
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            10482,
+            10490
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.943714,
+      "sentence": "When David and his wife went to the hospital they weren't the only ones seriously ill.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "producer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            829,
+            833
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "residents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            855,
+            859
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.662829,
+      "sentence": "Inside the Russian you she commune investigators found evidence connecting the group to the mass salmonella poisoning.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10643,
+            10646
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "Russian",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10635,
+            10642
+          ],
+          "text": "Russian"
+        }
+      ]
+    },
+    {
+      "score": 0.538624,
+      "sentence": "Inside the Russian you she commune investigators found evidence connecting the group to the mass salmonella poisoning.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "she",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10647,
+            10650
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "Salmonella",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            10721,
+            10741
+          ],
+          "text": "salmonella poisoning"
+        }
+      ]
+    },
+    {
+      "score": 0.962711,
+      "sentence": "Thousands of they had banks the paper calls on all the time.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "journal",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10967,
+            10972
+          ],
+          "text": "paper"
+        },
+        {
+          "entities": [
+            {
+              "text": "calls",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10973,
+            10978
+          ],
+          "text": "calls"
+        }
+      ]
+    },
+    {
+      "score": 0.513229,
+      "sentence": "It was kept quiet by Sheila and her inner circle which held their meetings on her around bad.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sheila",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11062,
+            11065
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "meetings",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            11096,
+            11104
+          ],
+          "text": "meetings"
+        }
+      ]
+    },
+    {
+      "score": 0.665241,
+      "sentence": "It was kept quiet by Sheila and her inner circle which held their meetings on her around bad.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sheila",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11108,
+            11111
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "meetings",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            11096,
+            11104
+          ],
+          "text": "meetings"
+        }
+      ]
+    },
+    {
+      "score": 0.931764,
+      "sentence": "It was kept quiet by Sheila and her inner circle which held their meetings on her around bad.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11090,
+            11095
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "meetings",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            11096,
+            11104
+          ],
+          "text": "meetings"
+        }
+      ]
+    },
+    {
+      "score": 0.561657,
+      "sentence": "When the Russian you she's put up their own candidates to run for election for the local county commission they wanted to make sure their candidates one.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sheila",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11371,
+            11374
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "Russian",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11363,
+            11370
+          ],
+          "text": "Russian"
+        }
+      ]
+    },
+    {
+      "score": 0.933176,
+      "sentence": "When the Russian you she's put up their own candidates to run for election for the local county commission they wanted to make sure their candidates one.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "commission",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11450,
+            11460
+          ],
+          "text": "commission"
+        },
+        {
+          "entities": [
+            {
+              "text": "Medical Center",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11443,
+            11449
+          ],
+          "text": "county"
+        }
+      ]
+    },
+    {
+      "score": 0.342615,
+      "sentence": "When the Russian you she's put up their own candidates to run for election for the local county commission they wanted to make sure their candidates one.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            11503,
+            11506
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "candidates",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11492,
+            11502
+          ],
+          "text": "candidates"
+        }
+      ]
+    },
+    {
+      "score": 0.660001,
+      "sentence": "To do that they wanted to make the local borders second out so they couldn't get to the polling places to vote.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11519,
+            11523
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "borders",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            11549,
+            11556
+          ],
+          "text": "borders"
+        }
+      ]
+    },
+    {
+      "score": 0.923432,
+      "sentence": "But why had the outbreak happened in September.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "September",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            11657,
+            11666
+          ],
+          "text": "September"
+        },
+        {
+          "entities": [
+            {
+              "text": "outbreak",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            11636,
+            11644
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.452284,
+      "sentence": "And then suddenly there were so many people we have people laying on the floor we had people leaned up against the wall.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            934,
+            940
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            941,
+            943
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.990356,
+      "sentence": "Informants say it was a rehearsal and it wasn't there for.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Informants",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11668,
+            11678
+          ],
+          "text": "Informants"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11679,
+            11682
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.307869,
+      "sentence": "She lose direction the Rodney she took off their red robes and put on regular clothing and went through the town with freight containers filled with salmonella.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sheila",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11757,
+            11760
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "town",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11835,
+            11839
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.640907,
+      "sentence": "In August their first experiment was bringing the door handles in the county courthouse and produce given the local supermarket.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Medical Center",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11958,
+            11964
+          ],
+          "text": "county"
+        },
+        {
+          "entities": [
+            {
+              "text": "courthouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11965,
+            11975
+          ],
+          "text": "courthouse"
+        }
+      ]
+    },
+    {
+      "score": 0.853076,
+      "sentence": "Ray Solomon aloe on salad bars in ten local restaurants which were contaminating over seven hundred residents.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ray Solomon aloe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12055,
+            12071
+          ],
+          "text": "Ray Solomon aloe"
+        },
+        {
+          "entities": [
+            {
+              "text": "salad bars",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12075,
+            12085
+          ],
+          "text": "salad bars"
+        }
+      ]
+    },
+    {
+      "score": 0.837689,
+      "sentence": "Ray Solomon aloe on salad bars in ten local restaurants which were contaminating over seven hundred residents.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ray Solomon aloe",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12055,
+            12071
+          ],
+          "text": "Ray Solomon aloe"
+        },
+        {
+          "entities": [
+            {
+              "text": "restaurants",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12099,
+            12110
+          ],
+          "text": "restaurants"
+        }
+      ]
+    },
+    {
+      "score": 0.752883,
+      "sentence": "Ray Solomon aloe on salad bars in ten local restaurants which were contaminating over seven hundred residents.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "salad bars",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12075,
+            12085
+          ],
+          "text": "salad bars"
+        },
+        {
+          "entities": [
+            {
+              "text": "restaurants",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12099,
+            12110
+          ],
+          "text": "restaurants"
+        }
+      ]
+    },
+    {
+      "score": 0.324918,
+      "sentence": "Ray Solomon aloe on salad bars in ten local restaurants which were contaminating over seven hundred residents.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "residents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12155,
+            12164
+          ],
+          "text": "residents"
+        },
+        {
+          "entities": [
+            {
+              "text": "salad bars",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12075,
+            12085
+          ],
+          "text": "salad bars"
+        }
+      ]
+    },
+    {
+      "score": 0.652362,
+      "sentence": "All of the Russian ishi candidates lost in the November elections.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "candidates",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12443,
+            12453
+          ],
+          "text": "candidates"
+        },
+        {
+          "entities": [
+            {
+              "text": "Russian",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12430,
+            12437
+          ],
+          "text": "Russian"
+        }
+      ]
+    },
+    {
+      "score": 0.942483,
+      "sentence": "All of the Russian ishi candidates lost in the November elections.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "November",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            12466,
+            12474
+          ],
+          "text": "November"
+        },
+        {
+          "entities": [
+            {
+              "text": "elections",
+              "type": "EventElection"
+            }
+          ],
+          "location": [
+            12475,
+            12484
+          ],
+          "text": "elections"
+        }
+      ]
+    },
+    {
+      "score": 0.485635,
+      "sentence": "Armed with the forensic biological evidence Sheila and pooja were extradited from Europe and charged with tampering with consumer products.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sheila",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12530,
+            12536
+          ],
+          "text": "Sheila"
+        },
+        {
+          "entities": [
+            {
+              "text": "Europe",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12568,
+            12574
+          ],
+          "text": "Europe"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5729 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 15083,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Howard Elkins",
+      "relevance": 0.954054,
+      "confidence": 1,
+      "count": 11
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty years",
+      "relevance": 0.360596,
+      "confidence": 0.999997,
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "Mr Elkins",
+      "relevance": 0.289139,
+      "confidence": 0.999502,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Ronald Koeman",
+      "relevance": 0.266654,
+      "confidence": 0.97434,
+      "count": 1,
+      "disambiguation": {
+        "name": "Ronald_Koeman",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ronald_Koeman",
+        "subtype": [
+          "FootballPlayer",
+          "FootballManager",
+          "TVActor"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty four years",
+      "relevance": 0.261114,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Dr Catanese",
+      "relevance": 0.239013,
+      "confidence": 0.915988,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "seventeen inch",
+      "relevance": 0.237942,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "New York",
+      "relevance": 0.235388,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Quantity",
+      "text": "fifty five gallon",
+      "relevance": 0.22934,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Nassau County",
+      "relevance": 0.222472,
+      "confidence": 0.827808,
+      "count": 2
+    },
+    {
+      "type": "Facility",
+      "text": "Melrose plastic",
+      "relevance": 0.176046,
+      "confidence": 0.412068,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Manhattan",
+      "relevance": 0.175324,
+      "confidence": 0.999996,
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Florida",
+      "relevance": 0.152625,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "New Jersey",
+      "relevance": 0.147441,
+      "confidence": 0.999732,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Kathy",
+      "relevance": 0.144404,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Elkins",
+      "relevance": 0.138085,
+      "confidence": 0.995895,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Cullen",
+      "relevance": 0.136876,
+      "confidence": 0.955188,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Jericho",
+      "relevance": 0.135736,
+      "confidence": 0.997544,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kathie Andrade",
+      "relevance": 0.13395,
+      "confidence": 0.999834,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "five feet",
+      "relevance": 0.132365,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "nine years",
+      "relevance": 0.126181,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "seventy year",
+      "relevance": 0.118267,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Linden",
+      "relevance": 0.116848,
+      "confidence": 0.917242,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "North Carolina D. N. A. testing",
+      "relevance": 0.114812,
+      "confidence": 0.319025,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Colin",
+      "relevance": 0.114388,
+      "confidence": 0.997554,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "nine three percent",
+      "relevance": 0.102291,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Thirty year",
+      "relevance": 0.09801,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Phil",
+      "relevance": 0.093305,
+      "confidence": 0.551695,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "relevance": 0.092638,
+      "confidence": 0.999953,
+      "count": 2,
+      "disambiguation": {
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Anambra",
+      "relevance": 0.092395,
+      "confidence": 0.678003,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Raton",
+      "relevance": 0.091124,
+      "confidence": 0.997584,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Boca",
+      "relevance": 0.087605,
+      "confidence": 0.989285,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Reina Angelica mata ki",
+      "relevance": 0.085221,
+      "confidence": 0.805162,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Reina",
+      "relevance": 0.078206,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Boca Raton",
+      "relevance": 0.073038,
+      "confidence": 0.458195,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Paul",
+      "relevance": 0.068554,
+      "confidence": 0.987346,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty minutes",
+      "relevance": 0.06516,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "El Salvador",
+      "relevance": 0.060141,
+      "confidence": 0.999505,
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "five minutes",
+      "relevance": 0.05997,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three hundred fifty pounds",
+      "relevance": 0.035905,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Lee",
+      "relevance": 0.032066,
+      "confidence": 0.939606,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "ray",
+      "relevance": 0.029062,
+      "confidence": 0.823945,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Reina Angelica",
+      "relevance": 0.027848,
+      "confidence": 0.983603,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three hours",
+      "relevance": 0.023116,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ninety five year",
+      "relevance": 0.023101,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "elle",
+      "relevance": 0.020414,
+      "confidence": 0.973023,
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Long Island",
+      "relevance": 0.017367,
+      "confidence": 0.832299,
+      "count": 1,
+      "disambiguation": {
+        "name": "Long_Island",
+        "dbpedia_resource": "http://dbpedia.org/resource/Long_Island",
+        "subtype": [
+          "Location",
+          "GovernmentalJurisdiction",
+          "Island"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Ken",
+      "relevance": 0.015881,
+      "confidence": 0.900715,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "San Salvador",
+      "relevance": 0.014022,
+      "confidence": 0.999219,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "St Martin",
+      "relevance": 0.013952,
+      "confidence": 0.516686,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Amanda Keane",
+      "relevance": 0.011569,
+      "confidence": 0.998751,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mr",
+      "relevance": 0.008932,
+      "confidence": 0.992067,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Thirty years",
+      "relevance": 0.007009,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "New York City",
+      "relevance": 0.003202,
+      "confidence": 0.967157,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Marikina",
+      "relevance": 0.001201,
+      "confidence": 0.804087,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Rainer",
+      "relevance": 0.000462,
+      "confidence": 0.999852,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Don",
+      "relevance": 0.000075,
+      "confidence": 0.991374,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.83213
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.799078
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.696921
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.696568
+    },
+    {
+      "label": "/society/dating",
+      "score": 0.686867
+    },
+    {
+      "label": "/business and industrial/business operations/business plans",
+      "score": 0.654318
+    },
+    {
+      "label": "/family and parenting/babies and toddlers/baby clothes",
+      "score": 0.650618
+    },
+    {
+      "label": "/society/unrest and war",
+      "score": 0.614368
+    },
+    {
+      "label": "/society/senior living",
+      "score": 0.607671
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.604549
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.798574,
+      "sentence": "But this home in a quiet upscale neighborhood in suburban New York held something more in a steel drum stored in a crawl space was a secret that someone had hoped would last a lifetime.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            107,
+            111
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            131,
+            143
+          ],
+          "text": "neighborhood"
+        }
+      ]
+    },
+    {
+      "score": 0.801772,
+      "sentence": "A fifty five gallon steel drums concealed in the crawl space of a suburban New York home revealed shocking evidence of a homicide.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2713,
+            2717
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            2695,
+            2703
+          ],
+          "text": "suburban"
+        }
+      ]
+    },
+    {
+      "score": 0.434055,
+      "sentence": "The cause of death appeared to be blunt force trauma to the head was most noteworthy to the body and the cause of death was that there were ten different injuries called lacerations to the back and upper part of her head there are multiple fractures to the skull in some areas the skull was broken into small pieces there also was blood staining to these areas of injuries indicating that they occurred while she was alive but who was this merger woman the medical examiner determined that the woman was either white or Hispanic between twenty and thirty years of age she stood approximately five feet tall she also had some unusual dental work but didn't appear to be dental work that was performed in the United States have led me to believe it was from the south American country.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "El Salvador",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2048,
+            2055
+          ],
+          "text": "country"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2039,
+            2047
+          ],
+          "text": "American"
+        }
+      ]
+    },
+    {
+      "score": 0.459746,
+      "sentence": "I will never forgive you she was great she was starting price is going to give me is going to kill me I said why do you choose I don't know I don't know I just made a stupid mistake.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12241,
+            12244
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "spoke",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12229,
+            12233
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.959434,
+      "sentence": "And I waited for about three hours when nobody return the phone never run or anything like that skin hi welcome to the police station and I spoke to the officer.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12563,
+            12570
+          ],
+          "text": "officer"
+        },
+        {
+          "entities": [
+            {
+              "text": "spoke",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12550,
+            12555
+          ],
+          "text": "spoke"
+        }
+      ]
+    },
+    {
+      "score": 0.559156,
+      "sentence": "And I suppose you spinach is about to have a baby she said you know she brought when shopping and since Kathy and dry they didn't know the identity of rain as a lover there was little more she could tell police.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12696,
+            12699
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "spoke",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12691,
+            12695
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.896321,
+      "sentence": "When Kathie Andrade went to reign as apartment she found the door unlocked there was no sign of rain.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kathie Andrade",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12313,
+            12327
+          ],
+          "text": "Kathie Andrade"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12345,
+            12354
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.997457,
+      "sentence": "And I waited for about three hours when nobody return the phone never run or anything like that skin hi welcome to the police station and I spoke to the officer.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kathy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12548,
+            12549
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "spoke",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12550,
+            12555
+          ],
+          "text": "spoke"
+        }
+      ]
+    },
+    {
+      "score": 0.993674,
+      "sentence": "And I suppose you spinach is about to have a baby she said you know she brought when shopping and since Kathy and dry they didn't know the identity of rain as a lover there was little more she could tell police.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kathy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12687,
+            12690
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "spoke",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12691,
+            12695
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.970522,
+      "sentence": "And he said you a relative of the lady I said normally a friend.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12611,
+            12612
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "spoke",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12613,
+            12617
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.744309,
+      "sentence": "Investigators believe that Howard Elkins lowered rain into the factory one night shortly after she told elle Ken's wife about their affair and.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12876,
+            12889
+          ],
+          "text": "Howard Elkins"
+        },
+        {
+          "entities": [
+            {
+              "text": "factory",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12912,
+            12919
+          ],
+          "text": "factory"
+        }
+      ]
+    },
+    {
+      "score": 0.564345,
+      "sentence": "Investigators believe that Howard Elkins lowered rain into the factory one night shortly after she told elle Ken's wife about their affair and.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            12924,
+            12929
+          ],
+          "text": "night"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12948,
+            12952
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.680822,
+      "sentence": "Investigators believe that Howard Elkins lowered rain into the factory one night shortly after she told elle Ken's wife about their affair and.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "elle Ken",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12953,
+            12961
+          ],
+          "text": "elle Ken"
+        },
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12964,
+            12968
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.599566,
+      "sentence": "He then took the body to his suburban Long Island home probably with the intention of dumping her into the ocean from his boat.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13018,
+            13021
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13043,
+            13047
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.95708,
+      "sentence": "He then took the body to his suburban Long Island home probably with the intention of dumping her into the ocean from his boat.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13043,
+            13047
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "Long Island",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13031,
+            13042
+          ],
+          "text": "Long Island"
+        }
+      ]
+    },
+    {
+      "score": 0.788666,
+      "sentence": "He then took the body to his suburban Long Island home probably with the intention of dumping her into the ocean from his boat.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13111,
+            13114
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "boat",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            13115,
+            13119
+          ],
+          "text": "boat"
+        }
+      ]
+    },
+    {
+      "score": 0.695065,
+      "sentence": "Three pieces of jewelry were removed from the body two rings and a locket that was inscribed to the trees love uncle Phil.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2222,
+            2226
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "removed",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            2205,
+            2212
+          ],
+          "text": "removed"
+        }
+      ]
+    },
+    {
+      "score": 0.647267,
+      "sentence": "His only alternative was to push it into a crawl space in his home and there it remained undisturbed through numerous donors for thirty four years.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13381,
+            13384
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13385,
+            13389
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.989818,
+      "sentence": "Mr corralled covered the story for Newsday he flew down to El Salvador to try to find rain is family.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13732,
+            13734
+          ],
+          "text": "Mr"
+        },
+        {
+          "entities": [
+            {
+              "text": "corralled",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13735,
+            13744
+          ],
+          "text": "corralled"
+        }
+      ]
+    },
+    {
+      "score": 0.619294,
+      "sentence": "Mr corralled covered the story for Newsday he flew down to El Salvador to try to find rain is family.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13775,
+            13777
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "El Salvador",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13791,
+            13802
+          ],
+          "text": "El Salvador"
+        }
+      ]
+    },
+    {
+      "score": 0.378715,
+      "sentence": "In St Martin a small village outside of San Salvador he found rain americain's ninety five year old mother she came out to the front of the house with a porch and I said to her I'm a reporter from Newsday New York I told her that police had discovered a woman who had been murdered thirty years ago and when she saw her daughter's picture she almost fainted she had to lean on somebody who's carrying her face fell she immediately began to weep.",
+      "type": "near",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "St",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13855,
+            13862
+          ],
+          "text": "village"
+        },
+        {
+          "entities": [
+            {
+              "text": "San Salvador",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13874,
+            13886
+          ],
+          "text": "San Salvador"
+        }
+      ]
+    },
+    {
+      "score": 0.339132,
+      "sentence": "In St Martin a small village outside of San Salvador he found rain americain's ninety five year old mother she came out to the front of the house with a porch and I said to her I'm a reporter from Newsday New York I told her that police had discovered a woman who had been murdered thirty years ago and when she saw her daughter's picture she almost fainted she had to lean on somebody who's carrying her face fell she immediately began to weep.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13941,
+            13944
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13974,
+            13979
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.291861,
+      "sentence": "In St Martin a small village outside of San Salvador he found rain americain's ninety five year old mother she came out to the front of the house with a porch and I said to her I'm a reporter from Newsday New York I told her that police had discovered a woman who had been murdered thirty years ago and when she saw her daughter's picture she almost fainted she had to lean on somebody who's carrying her face fell she immediately began to weep.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13941,
+            13944
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "porch",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13987,
+            13992
+          ],
+          "text": "porch"
+        }
+      ]
+    },
+    {
+      "score": 0.799894,
+      "sentence": "In St Martin a small village outside of San Salvador he found rain americain's ninety five year old mother she came out to the front of the house with a porch and I said to her I'm a reporter from Newsday New York I told her that police had discovered a woman who had been murdered thirty years ago and when she saw her daughter's picture she almost fainted she had to lean on somebody who's carrying her face fell she immediately began to weep.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13974,
+            13979
+          ],
+          "text": "house"
+        },
+        {
+          "entities": [
+            {
+              "text": "porch",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13987,
+            13992
+          ],
+          "text": "porch"
+        }
+      ]
+    },
+    {
+      "score": 0.959002,
+      "sentence": "In St Martin a small village outside of San Salvador he found rain americain's ninety five year old mother she came out to the front of the house with a porch and I said to her I'm a reporter from Newsday New York I told her that police had discovered a woman who had been murdered thirty years ago and when she saw her daughter's picture she almost fainted she had to lean on somebody who's carrying her face fell she immediately began to weep.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13997,
+            13998
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13999,
+            14003
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.685098,
+      "sentence": "In St Martin a small village outside of San Salvador he found rain americain's ninety five year old mother she came out to the front of the house with a porch and I said to her I'm a reporter from Newsday New York I told her that police had discovered a woman who had been murdered thirty years ago and when she saw her daughter's picture she almost fainted she had to lean on somebody who's carrying her face fell she immediately began to weep.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14007,
+            14010
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13999,
+            14003
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.993324,
+      "sentence": "In St Martin a small village outside of San Salvador he found rain americain's ninety five year old mother she came out to the front of the house with a porch and I said to her I'm a reporter from Newsday New York I told her that police had discovered a woman who had been murdered thirty years ago and when she saw her daughter's picture she almost fainted she had to lean on somebody who's carrying her face fell she immediately began to weep.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "reporter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14048,
+            14049
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14050,
+            14054
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.983514,
+      "sentence": "Thirty years that this woman waited for an answer she told me she had dreams about her daughter for thirty years she told me she had a dream even that her daughter was in a barrel.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "reporter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14330,
+            14333
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14334,
+            14338
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.994737,
+      "sentence": "Thirty years that this woman waited for an answer she told me she had dreams about her daughter for thirty years she told me she had a dream even that her daughter was in a barrel.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "reporter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14393,
+            14396
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14397,
+            14401
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.555391,
+      "sentence": "It was several coded numbers on the drum one was as good as a fingerprint it led to a chemical company in Linden New Jersey company records indicated that the drum was manufactured in nineteen sixty five now thirty four years later it shows up as someone's makeshift coffin.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "chemical company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2440,
+            2456
+          ],
+          "text": "chemical company"
+        },
+        {
+          "entities": [
+            {
+              "text": "Linden New Jersey",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2460,
+            2477
+          ],
+          "text": "Linden New Jersey"
+        }
+      ]
+    },
+    {
+      "score": 0.750607,
+      "sentence": "It was several coded numbers on the drum one was as good as a fingerprint it led to a chemical company in Linden New Jersey company records indicated that the drum was manufactured in nineteen sixty five now thirty four years later it shows up as someone's makeshift coffin.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "chemical company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2478,
+            2485
+          ],
+          "text": "company"
+        },
+        {
+          "entities": [
+            {
+              "text": "Linden New Jersey",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2460,
+            2477
+          ],
+          "text": "Linden New Jersey"
+        }
+      ]
+    },
+    {
+      "score": 0.870776,
+      "sentence": "In St Martin a small village outside of San Salvador he found rain americain's ninety five year old mother she came out to the front of the house with a porch and I said to her I'm a reporter from Newsday New York I told her that police had discovered a woman who had been murdered thirty years ago and when she saw her daughter's picture she almost fainted she had to lean on somebody who's carrying her face fell she immediately began to weep.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14055,
+            14058
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14050,
+            14054
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.948858,
+      "sentence": "In St Martin a small village outside of San Salvador he found rain americain's ninety five year old mother she came out to the front of the house with a porch and I said to her I'm a reporter from Newsday New York I told her that police had discovered a woman who had been murdered thirty years ago and when she saw her daughter's picture she almost fainted she had to lean on somebody who's carrying her face fell she immediately began to weep.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "thirty years ago",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            14116,
+            14132
+          ],
+          "text": "thirty years ago"
+        },
+        {
+          "entities": [
+            {
+              "text": "murdered",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            14107,
+            14115
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.69282,
+      "sentence": "In St Martin a small village outside of San Salvador he found rain americain's ninety five year old mother she came out to the front of the house with a porch and I said to her I'm a reporter from Newsday New York I told her that police had discovered a woman who had been murdered thirty years ago and when she saw her daughter's picture she almost fainted she had to lean on somebody who's carrying her face fell she immediately began to weep.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "reporter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14150,
+            14153
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14154,
+            14162
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.776299,
+      "sentence": "Thirty years that this woman waited for an answer she told me she had dreams about her daughter for thirty years she told me she had a dream even that her daughter was in a barrel.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "reporter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14363,
+            14366
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14367,
+            14375
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.682087,
+      "sentence": "Thirty years that this woman waited for an answer she told me she had dreams about her daughter for thirty years she told me she had a dream even that her daughter was in a barrel.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "reporter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14431,
+            14434
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14435,
+            14443
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.774423,
+      "sentence": "Thirty years that this woman waited for an answer she told me she had dreams about her daughter for thirty years she told me she had a dream even that her daughter was in a barrel.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "reporter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14339,
+            14341
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14334,
+            14338
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.855301,
+      "sentence": "Thirty years that this woman waited for an answer she told me she had dreams about her daughter for thirty years she told me she had a dream even that her daughter was in a barrel.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "reporter",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14402,
+            14404
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14397,
+            14401
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.668982,
+      "sentence": "Bring Amanda Keane left El Salvador because she discovered her husband had a lover who was pregnant with her husband's child.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bring Amanda Keane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14491,
+            14509
+          ],
+          "text": "Bring Amanda Keane"
+        },
+        {
+          "entities": [
+            {
+              "text": "El Salvador",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14515,
+            14526
+          ],
+          "text": "El Salvador"
+        }
+      ]
+    },
+    {
+      "score": 0.779876,
+      "sentence": "Bring Amanda Keane left El Salvador because she discovered her husband had a lover who was pregnant with her husband's child.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14550,
+            14553
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "husband",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14554,
+            14561
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.774304,
+      "sentence": "Bring Amanda Keane left El Salvador because she discovered her husband had a lover who was pregnant with her husband's child.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14596,
+            14599
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "husband",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14600,
+            14607
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.534268,
+      "sentence": "Bring Amanda Keane left El Salvador because she discovered her husband had a lover who was pregnant with her husband's child.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "husband",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14600,
+            14607
+          ],
+          "text": "husband"
+        },
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14610,
+            14615
+          ],
+          "text": "child"
+        }
+      ]
+    },
+    {
+      "score": 0.456444,
+      "sentence": "When she fled to New York City Reina found herself in the same situation although this time she was the pregnant other woman in a love triangle that had disastrous consequences so she was on.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Reina Angelica mata ki",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14648,
+            14653
+          ],
+          "text": "Reina"
+        },
+        {
+          "entities": [
+            {
+              "text": "Jericho New York",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14634,
+            14647
+          ],
+          "text": "New York City"
+        }
+      ]
+    },
+    {
+      "score": 0.477468,
+      "sentence": "Both sides of the fence in this case and in the end it cost her her life.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14869,
+            14872
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "it",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14861,
+            14863
+          ],
+          "text": "it"
+        }
+      ]
+    },
+    {
+      "score": 0.924961,
+      "sentence": "A fifty five gallon steel drums concealed in the crawl space of a suburban New York home revealed shocking evidence of a homicide.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2713,
+            2717
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "Jericho New York",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2704,
+            2712
+          ],
+          "text": "New York"
+        }
+      ]
+    },
+    {
+      "score": 0.991686,
+      "sentence": "The most recent owner said it had been in the crawl space since the day he moved in in nineteen ninety the owner before that told police the same thing and said it never occurred to him to open the container since they were chemical labels on the side the woman's purse found in the liquid at the bottom of the drawn contains some papers and an address book the pages were illegible since the liquid had reduced the paper to little more than Paul.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2776,
+            2781
+          ],
+          "text": "owner"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2782,
+            2786
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.452723,
+      "sentence": "The most recent owner said it had been in the crawl space since the day he moved in in nineteen ninety the owner before that told police the same thing and said it never occurred to him to open the container since they were chemical labels on the side the woman's purse found in the liquid at the bottom of the drawn contains some papers and an address book the pages were illegible since the liquid had reduced the paper to little more than Paul.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "chemical company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2867,
+            2872
+          ],
+          "text": "owner"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2885,
+            2889
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.976635,
+      "sentence": "The most recent owner said it had been in the crawl space since the day he moved in in nineteen ninety the owner before that told police the same thing and said it never occurred to him to open the container since they were chemical labels on the side the woman's purse found in the liquid at the bottom of the drawn contains some papers and an address book the pages were illegible since the liquid had reduced the paper to little more than Paul.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police station",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2890,
+            2896
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2885,
+            2889
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.600187,
+      "sentence": "The owner in those years was a man named Howard Elkins who is now retired and living in Boca Raton Florida and we have people in the neighborhood who are long term residents say a was involved in some plastics company in Manhattan.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5401,
+            5407
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5415,
+            5427
+          ],
+          "text": "neighborhood"
+        }
+      ]
+    },
+    {
+      "score": 0.348845,
+      "sentence": "The owner in those years was a man named Howard Elkins who is now retired and living in Boca Raton Florida and we have people in the neighborhood who are long term residents say a was involved in some plastics company in Manhattan.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5428,
+            5431
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5415,
+            5427
+          ],
+          "text": "neighborhood"
+        }
+      ]
+    },
+    {
+      "score": 0.684396,
+      "sentence": "The owner in those years was a man named Howard Elkins who is now retired and living in Boca Raton Florida and we have people in the neighborhood who are long term residents say a was involved in some plastics company in Manhattan.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "residents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5446,
+            5455
+          ],
+          "text": "residents"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5456,
+            5459
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.630671,
+      "sentence": "But this home in a quiet upscale neighborhood in suburban New York held something more in a steel drum stored in a crawl space was a secret that someone had hoped would last a lifetime.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            131,
+            143
+          ],
+          "text": "neighborhood"
+        },
+        {
+          "entities": [
+            {
+              "text": "Jericho New York",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            156,
+            164
+          ],
+          "text": "New York"
+        }
+      ]
+    },
+    {
+      "score": 0.942401,
+      "sentence": "But this home in a quiet upscale neighborhood in suburban New York held something more in a steel drum stored in a crawl space was a secret that someone had hoped would last a lifetime.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            147,
+            155
+          ],
+          "text": "suburban"
+        },
+        {
+          "entities": [
+            {
+              "text": "Jericho New York",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            156,
+            164
+          ],
+          "text": "New York"
+        }
+      ]
+    },
+    {
+      "score": 0.86501,
+      "sentence": "A fifty five gallon steel drums concealed in the crawl space of a suburban New York home revealed shocking evidence of a homicide.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            2695,
+            2703
+          ],
+          "text": "suburban"
+        },
+        {
+          "entities": [
+            {
+              "text": "Jericho New York",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2704,
+            2712
+          ],
+          "text": "New York"
+        }
+      ]
+    },
+    {
+      "score": 0.635611,
+      "sentence": "The owner in those years was a man named Howard Elkins who is now retired and living in Boca Raton Florida and we have people in the neighborhood who are long term residents say a was involved in some plastics company in Manhattan.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "chemical company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5492,
+            5499
+          ],
+          "text": "company"
+        },
+        {
+          "entities": [
+            {
+              "text": "Manhattan",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5503,
+            5512
+          ],
+          "text": "Manhattan"
+        }
+      ]
+    },
+    {
+      "score": 0.576898,
+      "sentence": "The plastic connection rang alarm bells since the plastic leaf and plastic pellets were found in the drama along with the murdered woman.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5645,
+            5650
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "murdered",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5636,
+            5644
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.465387,
+      "sentence": "The pieces of the puzzle were starting to come together in the search for the identity of the murdered pregnant woman found in the medical drama.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6058,
+            6063
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "murdered",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6040,
+            6048
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.913729,
+      "sentence": "In St Martin a small village outside of San Salvador he found rain americain's ninety five year old mother she came out to the front of the house with a porch and I said to her I'm a reporter from Newsday New York I told her that police had discovered a woman who had been murdered thirty years ago and when she saw her daughter's picture she almost fainted she had to lean on somebody who's carrying her face fell she immediately began to weep.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14094,
+            14097
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "murdered",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            14107,
+            14115
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.463275,
+      "sentence": "In the nineteen sixties Howard Elkins was part owner of the Melrose plastic company in Manhattan.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5699,
+            5704
+          ],
+          "text": "owner"
+        },
+        {
+          "entities": [
+            {
+              "text": "Melrose",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5712,
+            5719
+          ],
+          "text": "Melrose"
+        }
+      ]
+    },
+    {
+      "score": 0.444757,
+      "sentence": "In the nineteen sixties Howard Elkins was part owner of the Melrose plastic company in Manhattan.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5699,
+            5704
+          ],
+          "text": "owner"
+        },
+        {
+          "entities": [
+            {
+              "text": "chemical company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5728,
+            5735
+          ],
+          "text": "company"
+        }
+      ]
+    },
+    {
+      "score": 0.514779,
+      "sentence": "In the nineteen sixties Howard Elkins was part owner of the Melrose plastic company in Manhattan.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Melrose",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5712,
+            5719
+          ],
+          "text": "Melrose"
+        },
+        {
+          "entities": [
+            {
+              "text": "Manhattan",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5739,
+            5748
+          ],
+          "text": "Manhattan"
+        }
+      ]
+    },
+    {
+      "score": 0.620151,
+      "sentence": "In the nineteen sixties Howard Elkins was part owner of the Melrose plastic company in Manhattan.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "chemical company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5728,
+            5735
+          ],
+          "text": "company"
+        },
+        {
+          "entities": [
+            {
+              "text": "Manhattan",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5739,
+            5748
+          ],
+          "text": "Manhattan"
+        }
+      ]
+    },
+    {
+      "score": 0.884564,
+      "sentence": "As investigators made plans to interview Howard Elkins in Florida the address book from the drama started to reveal more names and more secrets.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5842,
+            5855
+          ],
+          "text": "Howard Elkins"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            5832,
+            5841
+          ],
+          "text": "interview"
+        }
+      ]
+    },
+    {
+      "score": 0.808321,
+      "sentence": "As investigators made plans to interview Howard Elkins in Florida the address book from the drama started to reveal more names and more secrets.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            5832,
+            5841
+          ],
+          "text": "interview"
+        },
+        {
+          "entities": [
+            {
+              "text": "Florida",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5859,
+            5866
+          ],
+          "text": "Florida"
+        }
+      ]
+    },
+    {
+      "score": 0.668475,
+      "sentence": "The serial numbers on the drum led investigators to a chemical company based in New Jersey I went there with the detective from our lab who has some knowledge of chemicals.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "chemical company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6146,
+            6162
+          ],
+          "text": "chemical company"
+        },
+        {
+          "entities": [
+            {
+              "text": "Linden New Jersey",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6172,
+            6182
+          ],
+          "text": "New Jersey"
+        }
+      ]
+    },
+    {
+      "score": 0.578192,
+      "sentence": "The serial numbers on the drum led investigators to a chemical company based in New Jersey I went there with the detective from our lab who has some knowledge of chemicals.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6228,
+            6231
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "newspaper",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6224,
+            6227
+          ],
+          "text": "lab"
+        }
+      ]
+    },
+    {
+      "score": 0.503469,
+      "sentence": "Before leaving that day Ronald Koeman noticed that the sanitation workers hadn't picked up all this trash a note on the large steel drum said it wasn't removed because of its weight.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "workers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            446,
+            453
+          ],
+          "text": "workers"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            517,
+            521
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.998369,
+      "sentence": "The local newspaper coverage of the unidentified woman in the steel drum led to an anonymous telephone call to the Nassau County police it tells us about the drum where it comes from tells us that that that was the chemicals that they use when they were mixing the basis for the use of artificial trees so he puts all this together it puts everything in perspective for us the caller did not know the identity of the dead woman but said that Howard Elkins was having an affair in the nineteen sixties with an Hispanic woman who worked for him in his plastic factory so we now have things to talk about other than the fact that there was a barrel found under his house.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police station",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6838,
+            6844
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "Nassau County",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6824,
+            6837
+          ],
+          "text": "Nassau County"
+        }
+      ]
+    },
+    {
+      "score": 0.991237,
+      "sentence": "The local newspaper coverage of the unidentified woman in the steel drum led to an anonymous telephone call to the Nassau County police it tells us about the drum where it comes from tells us that that that was the chemicals that they use when they were mixing the basis for the use of artificial trees so he puts all this together it puts everything in perspective for us the caller did not know the identity of the dead woman but said that Howard Elkins was having an affair in the nineteen sixties with an Hispanic woman who worked for him in his plastic factory so we now have things to talk about other than the fact that there was a barrel found under his house.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "newspaper",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6845,
+            6847
+          ],
+          "text": "it"
+        },
+        {
+          "entities": [
+            {
+              "text": "tells",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6848,
+            6853
+          ],
+          "text": "tells"
+        }
+      ]
+    },
+    {
+      "score": 0.945858,
+      "sentence": "The local newspaper coverage of the unidentified woman in the steel drum led to an anonymous telephone call to the Nassau County police it tells us about the drum where it comes from tells us that that that was the chemicals that they use when they were mixing the basis for the use of artificial trees so he puts all this together it puts everything in perspective for us the caller did not know the identity of the dead woman but said that Howard Elkins was having an affair in the nineteen sixties with an Hispanic woman who worked for him in his plastic factory so we now have things to talk about other than the fact that there was a barrel found under his house.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6854,
+            6856
+          ],
+          "text": "us"
+        },
+        {
+          "entities": [
+            {
+              "text": "tells",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6848,
+            6853
+          ],
+          "text": "tells"
+        }
+      ]
+    },
+    {
+      "score": 0.751907,
+      "sentence": "The local newspaper coverage of the unidentified woman in the steel drum led to an anonymous telephone call to the Nassau County police it tells us about the drum where it comes from tells us that that that was the chemicals that they use when they were mixing the basis for the use of artificial trees so he puts all this together it puts everything in perspective for us the caller did not know the identity of the dead woman but said that Howard Elkins was having an affair in the nineteen sixties with an Hispanic woman who worked for him in his plastic factory so we now have things to talk about other than the fact that there was a barrel found under his house.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7227,
+            7232
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "Hispanic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7218,
+            7226
+          ],
+          "text": "Hispanic"
+        }
+      ]
+    },
+    {
+      "score": 0.236376,
+      "sentence": "The local newspaper coverage of the unidentified woman in the steel drum led to an anonymous telephone call to the Nassau County police it tells us about the drum where it comes from tells us that that that was the chemicals that they use when they were mixing the basis for the use of artificial trees so he puts all this together it puts everything in perspective for us the caller did not know the identity of the dead woman but said that Howard Elkins was having an affair in the nineteen sixties with an Hispanic woman who worked for him in his plastic factory so we now have things to talk about other than the fact that there was a barrel found under his house.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7233,
+            7236
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7248,
+            7251
+          ],
+          "text": "him"
+        }
+      ]
+    },
+    {
+      "score": 0.726356,
+      "sentence": "The local newspaper coverage of the unidentified woman in the steel drum led to an anonymous telephone call to the Nassau County police it tells us about the drum where it comes from tells us that that that was the chemicals that they use when they were mixing the basis for the use of artificial trees so he puts all this together it puts everything in perspective for us the caller did not know the identity of the dead woman but said that Howard Elkins was having an affair in the nineteen sixties with an Hispanic woman who worked for him in his plastic factory so we now have things to talk about other than the fact that there was a barrel found under his house.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7233,
+            7236
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7278,
+            7280
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.650594,
+      "sentence": "The local newspaper coverage of the unidentified woman in the steel drum led to an anonymous telephone call to the Nassau County police it tells us about the drum where it comes from tells us that that that was the chemicals that they use when they were mixing the basis for the use of artificial trees so he puts all this together it puts everything in perspective for us the caller did not know the identity of the dead woman but said that Howard Elkins was having an affair in the nineteen sixties with an Hispanic woman who worked for him in his plastic factory so we now have things to talk about other than the fact that there was a barrel found under his house.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7255,
+            7258
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7278,
+            7280
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.495671,
+      "sentence": "Did you ever use this type of the barrel in your business now we never had any doubt.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7521,
+            7525
+          ],
+          "text": "your"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7539,
+            7541
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.639937,
+      "sentence": "Any kind of surprises me said yes but then we went into what was her name I don't know.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7914,
+            7916
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7935,
+            7937
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.670545,
+      "sentence": "The local newspaper coverage of the unidentified woman in the steel drum led to an anonymous telephone call to the Nassau County police it tells us about the drum where it comes from tells us that that that was the chemicals that they use when they were mixing the basis for the use of artificial trees so he puts all this together it puts everything in perspective for us the caller did not know the identity of the dead woman but said that Howard Elkins was having an affair in the nineteen sixties with an Hispanic woman who worked for him in his plastic factory so we now have things to talk about other than the fact that there was a barrel found under his house.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7278,
+            7280
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "talk",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7300,
+            7304
+          ],
+          "text": "talk"
+        }
+      ]
+    },
+    {
+      "score": 0.377607,
+      "sentence": "The local newspaper coverage of the unidentified woman in the steel drum led to an anonymous telephone call to the Nassau County police it tells us about the drum where it comes from tells us that that that was the chemicals that they use when they were mixing the basis for the use of artificial trees so he puts all this together it puts everything in perspective for us the caller did not know the identity of the dead woman but said that Howard Elkins was having an affair in the nineteen sixties with an Hispanic woman who worked for him in his plastic factory so we now have things to talk about other than the fact that there was a barrel found under his house.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7367,
+            7370
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7371,
+            7376
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.64205,
+      "sentence": "When police flew to Boca Raton Florida to speak with Howard Elkins he wasn't entirely cooperative.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Boca Raton Florida",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7398,
+            7416
+          ],
+          "text": "Boca Raton Florida"
+        },
+        {
+          "entities": [
+            {
+              "text": "speak",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7420,
+            7425
+          ],
+          "text": "speak"
+        }
+      ]
+    },
+    {
+      "score": 0.68166,
+      "sentence": "No one had no idea what was inside since it had been full space in his home since the day he moved in nine years earlier.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ronald Koeman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            630,
+            633
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            634,
+            638
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.997146,
+      "sentence": "He lied to us we knew he was lying to us within five minutes of the interview I estimate one point if it.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7746,
+            7748
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "lied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7749,
+            7753
+          ],
+          "text": "lied"
+        }
+      ]
+    },
+    {
+      "score": 0.678519,
+      "sentence": "He lied to us we knew he was lying to us within five minutes of the interview I estimate one point if it.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7757,
+            7759
+          ],
+          "text": "us"
+        },
+        {
+          "entities": [
+            {
+              "text": "lied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7749,
+            7753
+          ],
+          "text": "lied"
+        }
+      ]
+    },
+    {
+      "score": 0.974061,
+      "sentence": "He lied to us we knew he was lying to us within five minutes of the interview I estimate one point if it.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7768,
+            7770
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7775,
+            7780
+          ],
+          "text": "lying"
+        }
+      ]
+    },
+    {
+      "score": 0.763041,
+      "sentence": "I never as well because she never said who he was but Reina told Kathy that her boyfriend was married with three other children and rain it was beginning to question whether he had any intention of leaving his wife and children to marry her so she got very angry she called the house.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11732,
+            11734
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11749,
+            11753
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.765634,
+      "sentence": "He lied to us we knew he was lying to us within five minutes of the interview I estimate one point if it.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7784,
+            7786
+          ],
+          "text": "us"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7775,
+            7780
+          ],
+          "text": "lying"
+        }
+      ]
+    },
+    {
+      "score": 0.811174,
+      "sentence": "He lied to us we knew he was lying to us within five minutes of the interview I estimate one point if it.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7784,
+            7786
+          ],
+          "text": "us"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            7814,
+            7823
+          ],
+          "text": "interview"
+        }
+      ]
+    },
+    {
+      "score": 0.784897,
+      "sentence": "He lied to us we knew he was lying to us within five minutes of the interview I estimate one point if it.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "five minutes",
+              "type": "Duration"
+            }
+          ],
+          "location": [
+            7794,
+            7806
+          ],
+          "text": "five minutes"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            7814,
+            7823
+          ],
+          "text": "interview"
+        }
+      ]
+    },
+    {
+      "score": 0.99336,
+      "sentence": "Any kind of surprises me said yes but then we went into what was her name I don't know.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7914,
+            7916
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7917,
+            7921
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.998215,
+      "sentence": "Can you describe it was thirty years ago should you can't even describe what she told me she short she fad wishy skinny which is Spanish I don't remember.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8057,
+            8060
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8061,
+            8065
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.880679,
+      "sentence": "Can you describe it was thirty years ago should you can't even describe what she told me she short she fad wishy skinny which is Spanish I don't remember.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8066,
+            8068
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8061,
+            8065
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.996405,
+      "sentence": "From my briefcase a kid and I asked him if he would give me permission for me to take a swab from the inside of his mouth.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8217,
+            8218
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8219,
+            8224
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.946118,
+      "sentence": "Local police transported the drum to the Nassau County morgue where all of its contents were carefully removed for forensic examination inside with the mummified remains of a young woman.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "morgue",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            848,
+            854
+          ],
+          "text": "morgue"
+        },
+        {
+          "entities": [
+            {
+              "text": "Nassau County",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            834,
+            847
+          ],
+          "text": "Nassau County"
+        }
+      ]
+    },
+    {
+      "score": 0.583504,
+      "sentence": "From my briefcase a kid and I asked him if he would give me permission for me to take a swab from the inside of his mouth.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8225,
+            8228
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8219,
+            8224
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.703808,
+      "sentence": "To see if in fact was the father of that baby he told us now he said he didn't think you would allow that.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8356,
+            8362
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8379,
+            8383
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.917553,
+      "sentence": "To see if in fact was the father of that baby he told us now he said he didn't think you would allow that.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8376,
+            8378
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8379,
+            8383
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.986854,
+      "sentence": "To see if in fact was the father of that baby he told us now he said he didn't think you would allow that.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8391,
+            8393
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8394,
+            8398
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.996945,
+      "sentence": "I said that there's not a doubt in my mind that he was involved in.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8611,
+            8612
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8613,
+            8617
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.749958,
+      "sentence": "To see if in fact was the father of that baby he told us now he said he didn't think you would allow that.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "us",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8384,
+            8386
+          ],
+          "text": "us"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8379,
+            8383
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.471917,
+      "sentence": "The interview was interrupted by a phone call from Elkins wife Elkins asked the police to leave saying he wanted to speak with her privately this is prime you're gonna have.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8488,
+            8494
+          ],
+          "text": "Elkins"
+        },
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8495,
+            8499
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.996281,
+      "sentence": "The interview was interrupted by a phone call from Elkins wife Elkins asked the police to leave saying he wanted to speak with her privately this is prime you're gonna have.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8500,
+            8506
+          ],
+          "text": "Elkins"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8507,
+            8512
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.96052,
+      "sentence": "The interview was interrupted by a phone call from Elkins wife Elkins asked the police to leave saying he wanted to speak with her privately this is prime you're gonna have.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police station",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8517,
+            8523
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8507,
+            8512
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.75458,
+      "sentence": "The interview was interrupted by a phone call from Elkins wife Elkins asked the police to leave saying he wanted to speak with her privately this is prime you're gonna have.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police station",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8517,
+            8523
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "saying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8533,
+            8539
+          ],
+          "text": "saying"
+        }
+      ]
+    },
+    {
+      "score": 0.803733,
+      "sentence": "The interview was interrupted by a phone call from Elkins wife Elkins asked the police to leave saying he wanted to speak with her privately this is prime you're gonna have.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8540,
+            8542
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "speak",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8553,
+            8558
+          ],
+          "text": "speak"
+        }
+      ]
+    },
+    {
+      "score": 0.762696,
+      "sentence": "The interview was interrupted by a phone call from Elkins wife Elkins asked the police to leave saying he wanted to speak with her privately this is prime you're gonna have.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8564,
+            8567
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "speak",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8553,
+            8558
+          ],
+          "text": "speak"
+        }
+      ]
+    },
+    {
+      "score": 0.958637,
+      "sentence": "As police left to get a court order Howard Elkins left to go shopping.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "court",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8703,
+            8708
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "text": "order",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8709,
+            8714
+          ],
+          "text": "order"
+        }
+      ]
+    },
+    {
+      "score": 0.742136,
+      "sentence": "The cause of death appeared to be blunt force trauma to the head was most noteworthy to the body and the cause of death was that there were ten different injuries called lacerations to the back and upper part of her head there are multiple fractures to the skull in some areas the skull was broken into small pieces there also was blood staining to these areas of injuries indicating that they occurred while she was alive but who was this merger woman the medical examiner determined that the woman was either white or Hispanic between twenty and thirty years of age she stood approximately five feet tall she also had some unusual dental work but didn't appear to be dental work that was performed in the United States have led me to believe it was from the south American country.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1767,
+            1772
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "twenty",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1810,
+            1816
+          ],
+          "text": "twenty"
+        }
+      ]
+    },
+    {
+      "score": 0.608659,
+      "sentence": "The cause of death appeared to be blunt force trauma to the head was most noteworthy to the body and the cause of death was that there were ten different injuries called lacerations to the back and upper part of her head there are multiple fractures to the skull in some areas the skull was broken into small pieces there also was blood staining to these areas of injuries indicating that they occurred while she was alive but who was this merger woman the medical examiner determined that the woman was either white or Hispanic between twenty and thirty years of age she stood approximately five feet tall she also had some unusual dental work but didn't appear to be dental work that was performed in the United States have led me to believe it was from the south American country.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1841,
+            1844
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "twenty",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1810,
+            1816
+          ],
+          "text": "twenty"
+        }
+      ]
+    },
+    {
+      "score": 0.829702,
+      "sentence": "As police left to get a court order Howard Elkins left to go shopping.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8715,
+            8728
+          ],
+          "text": "Howard Elkins"
+        },
+        {
+          "entities": [
+            {
+              "text": "order",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8709,
+            8714
+          ],
+          "text": "order"
+        }
+      ]
+    },
+    {
+      "score": 0.518669,
+      "sentence": "Howard Elkins was found inside a neighbor's garage by police and his own son.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8771,
+            8784
+          ],
+          "text": "Howard Elkins"
+        },
+        {
+          "entities": [
+            {
+              "text": "garage",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8815,
+            8821
+          ],
+          "text": "garage"
+        }
+      ]
+    },
+    {
+      "score": 0.642148,
+      "sentence": "Howard Elkins was found inside a neighbor's garage by police and his own son.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8804,
+            8812
+          ],
+          "text": "neighbor"
+        },
+        {
+          "entities": [
+            {
+              "text": "garage",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8815,
+            8821
+          ],
+          "text": "garage"
+        }
+      ]
+    },
+    {
+      "score": 0.643487,
+      "sentence": "After his suicide investigators took a sample of Howard Elkins block and sent it to the lab Corp a North Carolina D. N. A. testing facility planned for testing for paternity we look for shared DNA bands between the child or the fetus and the alleged father in the case of the fetus found in the drum there were obstacles to overcome.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9005,
+            9008
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "suicide",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            9009,
+            9016
+          ],
+          "text": "suicide"
+        }
+      ]
+    },
+    {
+      "score": 0.388985,
+      "sentence": "After his suicide investigators took a sample of Howard Elkins block and sent it to the lab Corp a North Carolina D. N. A. testing facility planned for testing for paternity we look for shared DNA bands between the child or the fetus and the alleged father in the case of the fetus found in the drum there were obstacles to overcome.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9017,
+            9030
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "suicide",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            9009,
+            9016
+          ],
+          "text": "suicide"
+        }
+      ]
+    },
+    {
+      "score": 0.677843,
+      "sentence": "After his suicide investigators took a sample of Howard Elkins block and sent it to the lab Corp a North Carolina D. N. A. testing facility planned for testing for paternity we look for shared DNA bands between the child or the fetus and the alleged father in the case of the fetus found in the drum there were obstacles to overcome.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Corp",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9091,
+            9095
+          ],
+          "text": "Corp"
+        },
+        {
+          "entities": [
+            {
+              "text": "North Carolina",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9098,
+            9112
+          ],
+          "text": "North Carolina"
+        }
+      ]
+    },
+    {
+      "score": 0.517133,
+      "sentence": "After his suicide investigators took a sample of Howard Elkins block and sent it to the lab Corp a North Carolina D. N. A. testing facility planned for testing for paternity we look for shared DNA bands between the child or the fetus and the alleged father in the case of the fetus found in the drum there were obstacles to overcome.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "D. N. A.",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9113,
+            9121
+          ],
+          "text": "D. N. A."
+        },
+        {
+          "entities": [
+            {
+              "text": "North Carolina",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9098,
+            9112
+          ],
+          "text": "North Carolina"
+        }
+      ]
+    },
+    {
+      "score": 0.639346,
+      "sentence": "After his suicide investigators took a sample of Howard Elkins block and sent it to the lab Corp a North Carolina D. N. A. testing facility planned for testing for paternity we look for shared DNA bands between the child or the fetus and the alleged father in the case of the fetus found in the drum there were obstacles to overcome.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "D. N. A.",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9113,
+            9121
+          ],
+          "text": "D. N. A."
+        },
+        {
+          "entities": [
+            {
+              "text": "facility",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9130,
+            9138
+          ],
+          "text": "facility"
+        }
+      ]
+    },
+    {
+      "score": 0.743566,
+      "sentence": "After his suicide investigators took a sample of Howard Elkins block and sent it to the lab Corp a North Carolina D. N. A. testing facility planned for testing for paternity we look for shared DNA bands between the child or the fetus and the alleged father in the case of the fetus found in the drum there were obstacles to overcome.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "D. N. A.",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9113,
+            9121
+          ],
+          "text": "D. N. A."
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9173,
+            9175
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.824731,
+      "sentence": "After his suicide investigators took a sample of Howard Elkins block and sent it to the lab Corp a North Carolina D. N. A. testing facility planned for testing for paternity we look for shared DNA bands between the child or the fetus and the alleged father in the case of the fetus found in the drum there were obstacles to overcome.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9249,
+            9255
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            9263,
+            9267
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.801095,
+      "sentence": "The cause of death appeared to be blunt force trauma to the head was most noteworthy to the body and the cause of death was that there were ten different injuries called lacerations to the back and upper part of her head there are multiple fractures to the skull in some areas the skull was broken into small pieces there also was blood staining to these areas of injuries indicating that they occurred while she was alive but who was this merger woman the medical examiner determined that the woman was either white or Hispanic between twenty and thirty years of age she stood approximately five feet tall she also had some unusual dental work but didn't appear to be dental work that was performed in the United States have led me to believe it was from the south American country.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hispanic",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1793,
+            1801
+          ],
+          "text": "Hispanic"
+        },
+        {
+          "entities": [
+            {
+              "text": "twenty",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1810,
+            1816
+          ],
+          "text": "twenty"
+        }
+      ]
+    },
+    {
+      "score": 0.438826,
+      "sentence": "The cells the DNA banding pattern from the fetus this is the DNA banding pattern from Mr Elkins at every region of the DNA that we tested the fetus and Mr Elkins have abandoned common Mr options could not be excluded with a ninety nine point nine three percent probability of paternity.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9627,
+            9633
+          ],
+          "text": "Elkins"
+        },
+        {
+          "entities": [
+            {
+              "text": "region",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9643,
+            9649
+          ],
+          "text": "region"
+        }
+      ]
+    },
+    {
+      "score": 0.389985,
+      "sentence": "And the address and telephone number of someone named Kathy and dry day investigators were surprised to learn that after thirty years she was still living in the same apartment with the same telephone number.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kathy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10483,
+            10486
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10516,
+            10525
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.423465,
+      "sentence": "When Kathie Andrade went to reign as apartment she found the door unlocked there was no sign of rain.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kathy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12355,
+            12358
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12345,
+            12354
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.98405,
+      "sentence": "She told us that she knew angelic American that she was the one of the more lovely people that you have no.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kathy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10774,
+            10777
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10778,
+            10782
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.998262,
+      "sentence": "And that she disappeared thirty years ago Kathie Andrade never knew what happened to our friend ray not a keen although she feared she had met with foul play and I was in shock and I said oh my god.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kathy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11063,
+            11064
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11065,
+            11069
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.971324,
+      "sentence": "I never as well because she never said who he was but Reina told Kathy that her boyfriend was married with three other children and rain it was beginning to question whether he had any intention of leaving his wife and children to marry her so she got very angry she called the house.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kathy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11713,
+            11716
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11723,
+            11727
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.996556,
+      "sentence": "And she told his wife that she was expecting a baby.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kathy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12016,
+            12019
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12020,
+            12024
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.968481,
+      "sentence": "Investigators believe that Howard Elkins lowered rain into the factory one night shortly after she told elle Ken's wife about their affair and.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kathy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12944,
+            12947
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12948,
+            12952
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.950699,
+      "sentence": "She told us that she knew angelic American that she was the one of the more lovely people that you have no.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "seventeen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10783,
+            10785
+          ],
+          "text": "us"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10778,
+            10782
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.707284,
+      "sentence": "She told us that she knew angelic American that she was the one of the more lovely people that you have no.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            10834,
+            10837
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "seventeen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10857,
+            10863
+          ],
+          "text": "people"
+        }
+      ]
+    },
+    {
+      "score": 0.936657,
+      "sentence": "And that she disappeared thirty years ago Kathie Andrade never knew what happened to our friend ray not a keen although she feared she had met with foul play and I was in shock and I said oh my god.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11013,
+            11016
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            11021,
+            11024
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.803629,
+      "sentence": "Bring americain came to the United States in nineteen sixty six and lived here in a modest room in a Catholic home for single women.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11172,
+            11176
+          ],
+          "text": "room"
+        },
+        {
+          "entities": [
+            {
+              "text": "here",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11155,
+            11159
+          ],
+          "text": "here"
+        }
+      ]
+    },
+    {
+      "score": 0.783978,
+      "sentence": "Bring americain came to the United States in nineteen sixty six and lived here in a modest room in a Catholic home for single women.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11172,
+            11176
+          ],
+          "text": "room"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11191,
+            11195
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.578522,
+      "sentence": "Bring americain came to the United States in nineteen sixty six and lived here in a modest room in a Catholic home for single women.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "seventeen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11182,
+            11190
+          ],
+          "text": "Catholic"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11191,
+            11195
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.321274,
+      "sentence": "Bring americain came to the United States in nineteen sixty six and lived here in a modest room in a Catholic home for single women.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "women",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11207,
+            11212
+          ],
+          "text": "women"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11191,
+            11195
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.827309,
+      "sentence": "The cause of death appeared to be blunt force trauma to the head was most noteworthy to the body and the cause of death was that there were ten different injuries called lacerations to the back and upper part of her head there are multiple fractures to the skull in some areas the skull was broken into small pieces there also was blood staining to these areas of injuries indicating that they occurred while she was alive but who was this merger woman the medical examiner determined that the woman was either white or Hispanic between twenty and thirty years of age she stood approximately five feet tall she also had some unusual dental work but didn't appear to be dental work that was performed in the United States have led me to believe it was from the south American country.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "south",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            2033,
+            2038
+          ],
+          "text": "south"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2039,
+            2047
+          ],
+          "text": "American"
+        }
+      ]
+    },
+    {
+      "score": 0.786194,
+      "sentence": "She attended classes at the high school of fashion industry and got a job at the Melrose plastic company making artificial flowers she had a beautiful personality the service took about her family and she was in touch with the family how much you love New York I had dream was to become an American citizen shortly before she disappeared Reina told Kathy she was pregnant but she did not tell her who the father is is he going to marry you she said eventually will marry me.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11214,
+            11217
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "attended",
+              "type": "EventEducation"
+            }
+          ],
+          "location": [
+            11218,
+            11226
+          ],
+          "text": "attended"
+        }
+      ]
+    },
+    {
+      "score": 0.656261,
+      "sentence": "She attended classes at the high school of fashion industry and got a job at the Melrose plastic company making artificial flowers she had a beautiful personality the service took about her family and she was in touch with the family how much you love New York I had dream was to become an American citizen shortly before she disappeared Reina told Kathy she was pregnant but she did not tell her who the father is is he going to marry you she said eventually will marry me.",
+      "type": "educatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11214,
+            11217
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "high school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11242,
+            11253
+          ],
+          "text": "high school"
+        }
+      ]
+    },
+    {
+      "score": 0.695248,
+      "sentence": "She attended classes at the high school of fashion industry and got a job at the Melrose plastic company making artificial flowers she had a beautiful personality the service took about her family and she was in touch with the family how much you love New York I had dream was to become an American citizen shortly before she disappeared Reina told Kathy she was pregnant but she did not tell her who the father is is he going to marry you she said eventually will marry me.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "chemical company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11311,
+            11318
+          ],
+          "text": "company"
+        },
+        {
+          "entities": [
+            {
+              "text": "Melrose",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11295,
+            11302
+          ],
+          "text": "Melrose"
+        }
+      ]
+    },
+    {
+      "score": 0.420746,
+      "sentence": "She attended classes at the high school of fashion industry and got a job at the Melrose plastic company making artificial flowers she had a beautiful personality the service took about her family and she was in touch with the family how much you love New York I had dream was to become an American citizen shortly before she disappeared Reina told Kathy she was pregnant but she did not tell her who the father is is he going to marry you she said eventually will marry me.",
+      "type": "relative",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11400,
+            11403
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Cullen family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11404,
+            11410
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.599669,
+      "sentence": "She attended classes at the high school of fashion industry and got a job at the Melrose plastic company making artificial flowers she had a beautiful personality the service took about her family and she was in touch with the family how much you love New York I had dream was to become an American citizen shortly before she disappeared Reina told Kathy she was pregnant but she did not tell her who the father is is he going to marry you she said eventually will marry me.",
+      "type": "citizenOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kathy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11513,
+            11520
+          ],
+          "text": "citizen"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11504,
+            11512
+          ],
+          "text": "American"
+        }
+      ]
+    },
+    {
+      "score": 0.967854,
+      "sentence": "She attended classes at the high school of fashion industry and got a job at the Melrose plastic company making artificial flowers she had a beautiful personality the service took about her family and she was in touch with the family how much you love New York I had dream was to become an American citizen shortly before she disappeared Reina told Kathy she was pregnant but she did not tell her who the father is is he going to marry you she said eventually will marry me.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Reina Angelica mata ki",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11552,
+            11557
+          ],
+          "text": "Reina"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11558,
+            11562
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.781744,
+      "sentence": "She attended classes at the high school of fashion industry and got a job at the Melrose plastic company making artificial flowers she had a beautiful personality the service took about her family and she was in touch with the family how much you love New York I had dream was to become an American citizen shortly before she disappeared Reina told Kathy she was pregnant but she did not tell her who the father is is he going to marry you she said eventually will marry me.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kathy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11563,
+            11568
+          ],
+          "text": "Kathy"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11558,
+            11562
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.944034,
+      "sentence": "She attended classes at the high school of fashion industry and got a job at the Melrose plastic company making artificial flowers she had a beautiful personality the service took about her family and she was in touch with the family how much you love New York I had dream was to become an American citizen shortly before she disappeared Reina told Kathy she was pregnant but she did not tell her who the father is is he going to marry you she said eventually will marry me.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kathy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11654,
+            11657
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11658,
+            11662
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.84573,
+      "sentence": "I never as well because she never said who he was but Reina told Kathy that her boyfriend was married with three other children and rain it was beginning to question whether he had any intention of leaving his wife and children to marry her so she got very angry she called the house.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Reina Angelica mata ki",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11743,
+            11748
+          ],
+          "text": "Reina"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11749,
+            11753
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.888692,
+      "sentence": "I never as well because she never said who he was but Reina told Kathy that her boyfriend was married with three other children and rain it was beginning to question whether he had any intention of leaving his wife and children to marry her so she got very angry she called the house.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kathy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11754,
+            11759
+          ],
+          "text": "Kathy"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11749,
+            11753
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.92362,
+      "sentence": "The cause of death appeared to be blunt force trauma to the head was most noteworthy to the body and the cause of death was that there were ten different injuries called lacerations to the back and upper part of her head there are multiple fractures to the skull in some areas the skull was broken into small pieces there also was blood staining to these areas of injuries indicating that they occurred while she was alive but who was this merger woman the medical examiner determined that the woman was either white or Hispanic between twenty and thirty years of age she stood approximately five feet tall she also had some unusual dental work but didn't appear to be dental work that was performed in the United States have led me to believe it was from the south American country.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "south",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            2033,
+            2038
+          ],
+          "text": "south"
+        },
+        {
+          "entities": [
+            {
+              "text": "El Salvador",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2048,
+            2055
+          ],
+          "text": "country"
+        }
+      ]
+    },
+    {
+      "score": 0.727571,
+      "sentence": "I never as well because she never said who he was but Reina told Kathy that her boyfriend was married with three other children and rain it was beginning to question whether he had any intention of leaving his wife and children to marry her so she got very angry she called the house.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11895,
+            11898
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11899,
+            11903
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.590616,
+      "sentence": "And the ones the phone with his wife.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12002,
+            12005
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12006,
+            12010
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.783224,
+      "sentence": "And she told his wife that she was expecting a baby.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12025,
+            12028
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12029,
+            12033
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.991644,
+      "sentence": "I never as well because she never said who he was but Reina told Kathy that her boyfriend was married with three other children and rain it was beginning to question whether he had any intention of leaving his wife and children to marry her so she got very angry she called the house.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kathy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11952,
+            11955
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11956,
+            11962
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.390322,
+      "sentence": "I never as well because she never said who he was but Reina told Kathy that her boyfriend was married with three other children and rain it was beginning to question whether he had any intention of leaving his wife and children to marry her so she got very angry she called the house.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kathy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11952,
+            11955
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11967,
+            11972
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.888539,
+      "sentence": "And she told his wife that she was expecting a baby.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12029,
+            12033
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12020,
+            12024
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.996085,
+      "sentence": "Then he called her back and he says I am going to kill you.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12070,
+            12072
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12073,
+            12079
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.84598,
+      "sentence": "Then he called her back and he says I am going to kill you.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kathy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12080,
+            12083
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12073,
+            12079
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.998291,
+      "sentence": "Then he called her back and he says I am going to kill you.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12093,
+            12095
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "spoke",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12096,
+            12100
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.992684,
+      "sentence": "I will never forgive you she was great she was starting price is going to give me is going to kill me I said why do you choose I don't know I don't know I just made a stupid mistake.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12227,
+            12228
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "spoke",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12229,
+            12233
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.956471,
+      "sentence": "And he said you a relative of the lady I said normally a friend.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Howard Elkins",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12576,
+            12578
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "spoke",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12579,
+            12583
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.392802,
+      "sentence": "Then he called her back and he says I am going to kill you.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12120,
+            12123
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            12115,
+            12119
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.591133,
+      "sentence": "I will never forgive you she was great she was starting price is going to give me is going to kill me I said why do you choose I don't know I don't know I just made a stupid mistake.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kathy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12204,
+            12206
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            12219,
+            12223
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.381376,
+      "sentence": "I will never forgive you she was great she was starting price is going to give me is going to kill me I said why do you choose I don't know I don't know I just made a stupid mistake.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kathy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12224,
+            12226
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            12219,
+            12223
+          ],
+          "text": "kill"
+        }
+      ]
+    }
+  ]
+}

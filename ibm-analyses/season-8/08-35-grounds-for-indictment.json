@@ -1,0 +1,5069 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 15457,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Joe Kovaleski",
+      "relevance": 0.951023,
+      "confidence": 1,
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Kevin Kinsey",
+      "relevance": 0.666067,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Julie grubs",
+      "relevance": 0.662898,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Kovaleski",
+      "relevance": 0.385099,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Annandale",
+      "relevance": 0.284678,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty year",
+      "relevance": 0.27758,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Vehicle",
+      "text": "jeep",
+      "relevance": 0.272384,
+      "confidence": 0.969377,
+      "count": 4
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Shenandoah river",
+      "relevance": 0.255593,
+      "confidence": 0.971966,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "J. Mason",
+      "relevance": 0.250198,
+      "confidence": 0.787698,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Virginia division of forensic science",
+      "relevance": 0.249311,
+      "confidence": 0.505815,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "nine feet",
+      "relevance": 0.23514,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Julie Grubbs",
+      "relevance": 0.233834,
+      "confidence": 1,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Joe Coveleski",
+      "relevance": 0.211198,
+      "confidence": 0.999999,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Mason",
+      "relevance": 0.202822,
+      "confidence": 0.999999,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Tyler Layton Coveleski",
+      "relevance": 0.191919,
+      "confidence": 0.965943,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kyleigh",
+      "relevance": 0.189341,
+      "confidence": 0.998594,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Phelps",
+      "relevance": 0.176772,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Virginia",
+      "relevance": 0.174013,
+      "confidence": 0.999598,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "Five day",
+      "relevance": 0.173706,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Leeson",
+      "relevance": 0.172689,
+      "confidence": 0.996811,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Julie drops",
+      "relevance": 0.162262,
+      "confidence": 0.995891,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twelve hundred dollars",
+      "relevance": 0.160003,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dolson grubs",
+      "relevance": 0.157655,
+      "confidence": 0.801544,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr John",
+      "relevance": 0.153391,
+      "confidence": 0.999943,
+      "count": 2,
+      "disambiguation": {
+        "name": "Dr._John",
+        "dbpedia_resource": "http://dbpedia.org/resource/Dr._John",
+        "subtype": [
+          "MusicalArtist",
+          "AwardWinner",
+          "BroadcastArtist",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "G. supposedly",
+      "relevance": 0.152505,
+      "confidence": 0.478898,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Eric Jonker",
+      "relevance": 0.148169,
+      "confidence": 0.978419,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two inch",
+      "relevance": 0.146693,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty feet",
+      "relevance": 0.137424,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "coma",
+      "relevance": 0.128644,
+      "confidence": 0.996226,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three feet",
+      "relevance": 0.128069,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Layton",
+      "relevance": 0.12711,
+      "confidence": 0.998773,
+      "count": 2
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "the Shenandoah river",
+      "relevance": 0.121702,
+      "confidence": 0.45464,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Tyree",
+      "relevance": 0.11967,
+      "confidence": 0.974102,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Lewis felt G.",
+      "relevance": 0.107709,
+      "confidence": 0.480262,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mr felt",
+      "relevance": 0.105934,
+      "confidence": 0.667354,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "hundred yards",
+      "relevance": 0.10357,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr John Kerr",
+      "relevance": 0.101623,
+      "confidence": 0.981937,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Finn",
+      "relevance": 0.092554,
+      "confidence": 0.822379,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Julie Grundy",
+      "relevance": 0.091502,
+      "confidence": 0.939968,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Louis felt C.",
+      "relevance": 0.0909,
+      "confidence": 0.797862,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "cold",
+      "relevance": 0.086802,
+      "confidence": 0.992521,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Lisa",
+      "relevance": 0.079493,
+      "confidence": 0.987613,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Winchester towers",
+      "relevance": 0.075839,
+      "confidence": 0.256465,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Julie",
+      "relevance": 0.072232,
+      "confidence": 0.999892,
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "the times",
+      "relevance": 0.070558,
+      "confidence": 0.232916,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Warren County",
+      "relevance": 0.069912,
+      "confidence": 0.999995,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Lois dammit",
+      "relevance": 0.067172,
+      "confidence": 0.996962,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Louis Stokes",
+      "relevance": 0.058904,
+      "confidence": 0.99469,
+      "count": 1,
+      "disambiguation": {
+        "name": "Louis_Stokes",
+        "dbpedia_resource": "http://dbpedia.org/resource/Louis_Stokes",
+        "subtype": [
+          "Politician",
+          "U.S.Congressperson",
+          "MilitaryPerson"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Jane Mason",
+      "relevance": 0.047484,
+      "confidence": 0.999177,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kennedy",
+      "relevance": 0.042062,
+      "confidence": 1,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Mike Kennedy",
+      "relevance": 0.041602,
+      "confidence": 0.999333,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Fredericksburg",
+      "relevance": 0.039792,
+      "confidence": 0.22712,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Fells",
+      "relevance": 0.036252,
+      "confidence": 0.999617,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Fairfax",
+      "relevance": 0.035268,
+      "confidence": 0.356199,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Ty",
+      "relevance": 0.032424,
+      "confidence": 0.869588,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Michael Kennedy",
+      "relevance": 0.031722,
+      "confidence": 0.99961,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two hours",
+      "relevance": 0.028537,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three weeks",
+      "relevance": 0.024003,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Washington",
+      "relevance": 0.02399,
+      "confidence": 0.570195,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "fourteen months",
+      "relevance": 0.013275,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Lewis",
+      "relevance": 0.013256,
+      "confidence": 0.998296,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty five years",
+      "relevance": 0.012281,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "felt",
+      "relevance": 0.008598,
+      "confidence": 0.519921,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kevin",
+      "relevance": 0.005694,
+      "confidence": 0.999725,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kinsey",
+      "relevance": 0.005674,
+      "confidence": 0.989304,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.977132
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.794032
+    },
+    {
+      "label": "/law, govt and politics/law enforcement",
+      "score": 0.738848
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.666176
+    },
+    {
+      "label": "/society/crime/property crime/robbery",
+      "score": 0.651017
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.570262
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.98799,
+      "sentence": "A witness said the perpetrator was driving a red jeep.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "perpetrator",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            83,
+            90
+          ],
+          "text": "witness"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            91,
+            95
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.511094,
+      "sentence": "Investigators hoped that forensic evidence could help find the driver of the mysterious red G.. Investigators found two shotgun shells at the scene of a double shooting that wounded Joe Kovaleski and killed his co worker tightly from.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2263,
+            2269
+          ],
+          "text": "driver"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2296,
+            2309
+          ],
+          "text": "Investigators"
+        }
+      ]
+    },
+    {
+      "score": 0.683256,
+      "sentence": "The forensic evidence shows that Lewis felt cold high late then while driving towards front royal and asked him to meet at low water bridge.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mike Kennedy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13830,
+            13833
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13824,
+            13829
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.515322,
+      "sentence": "And moving Kovaleski the trajectory analysis shows that fired from his G.. Two shell casings fell to the ground.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joe Kovaleski",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13995,
+            13998
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "fired",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            13984,
+            13989
+          ],
+          "text": "fired"
+        }
+      ]
+    },
+    {
+      "score": 0.439415,
+      "sentence": "When felt saw the amount of forensic evidence against him he accepted a plea bargain and pleaded guilty to one count of capital murder one count of attempted murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mike Kennedy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14247,
+            14249
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "pleaded guilty",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14278,
+            14292
+          ],
+          "text": "pleaded guilty"
+        }
+      ]
+    },
+    {
+      "score": 0.673582,
+      "sentence": "Phelps was sentenced to twenty five years in prison I think our case show that lose files.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Phelps",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14355,
+            14361
+          ],
+          "text": "Phelps"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14366,
+            14375
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.579967,
+      "sentence": "Phelps was sentenced to twenty five years in prison I think our case show that lose files.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Phelps",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14355,
+            14361
+          ],
+          "text": "Phelps"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14400,
+            14406
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.90329,
+      "sentence": "Phelps was sentenced to twenty five years in prison I think our case show that lose files.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Phelps",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14355,
+            14361
+          ],
+          "text": "Phelps"
+        },
+        {
+          "entities": [
+            {
+              "text": "our",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14415,
+            14418
+          ],
+          "text": "our"
+        }
+      ]
+    },
+    {
+      "score": 0.784294,
+      "sentence": "Phelps was sentenced to twenty five years in prison I think our case show that lose files.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mike Kennedy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14407,
+            14408
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "our",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14415,
+            14418
+          ],
+          "text": "our"
+        }
+      ]
+    },
+    {
+      "score": 0.989146,
+      "sentence": "Prosecutors say there is no evidence to suggest that Julie Grubbs was involved in the shooting.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14511,
+            14522
+          ],
+          "text": "Prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14523,
+            14526
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.490121,
+      "sentence": "Kevin can see the sheriff's deputy implicated in drug dealing was later convicted of distribution of crack cocaine and sentenced to fourteen months in prison there was no evidence he was involved in life and smarter let me tell you something I'll be the first man of Kinsey had anything to do with the death of Thai relates and he'd be in jail for right this second I can guarantee you that the science and technology really came into play in this case and in a tremendous way we could not complete this prosecution without it your witnesses will change your story victims will change story there's just too many other.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kevin Kinsey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14684,
+            14689
+          ],
+          "text": "Kevin"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14835,
+            14841
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.461959,
+      "sentence": "Kevin can see the sheriff's deputy implicated in drug dealing was later convicted of distribution of crack cocaine and sentenced to fourteen months in prison there was no evidence he was involved in life and smarter let me tell you something I'll be the first man of Kinsey had anything to do with the death of Thai relates and he'd be in jail for right this second I can guarantee you that the science and technology really came into play in this case and in a tremendous way we could not complete this prosecution without it your witnesses will change your story victims will change story there's just too many other.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kevin Kinsey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14712,
+            14718
+          ],
+          "text": "deputy"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14835,
+            14841
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.451917,
+      "sentence": "Kevin can see the sheriff's deputy implicated in drug dealing was later convicted of distribution of crack cocaine and sentenced to fourteen months in prison there was no evidence he was involved in life and smarter let me tell you something I'll be the first man of Kinsey had anything to do with the death of Thai relates and he'd be in jail for right this second I can guarantee you that the science and technology really came into play in this case and in a tremendous way we could not complete this prosecution without it your witnesses will change your story victims will change story there's just too many other.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kevin Kinsey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14712,
+            14718
+          ],
+          "text": "deputy"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14756,
+            14765
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.985968,
+      "sentence": "J. Mason a firearms expert with the Virginia division of forensic science examined the evidence.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "division",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2480,
+            2488
+          ],
+          "text": "division"
+        },
+        {
+          "entities": [
+            {
+              "text": "Virginia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2471,
+            2479
+          ],
+          "text": "Virginia"
+        }
+      ]
+    },
+    {
+      "score": 0.543433,
+      "sentence": "Kevin can see the sheriff's deputy implicated in drug dealing was later convicted of distribution of crack cocaine and sentenced to fourteen months in prison there was no evidence he was involved in life and smarter let me tell you something I'll be the first man of Kinsey had anything to do with the death of Thai relates and he'd be in jail for right this second I can guarantee you that the science and technology really came into play in this case and in a tremendous way we could not complete this prosecution without it your witnesses will change your story victims will change story there's just too many other.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kevin Kinsey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14712,
+            14718
+          ],
+          "text": "deputy"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14803,
+            14812
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.784069,
+      "sentence": "Kevin can see the sheriff's deputy implicated in drug dealing was later convicted of distribution of crack cocaine and sentenced to fourteen months in prison there was no evidence he was involved in life and smarter let me tell you something I'll be the first man of Kinsey had anything to do with the death of Thai relates and he'd be in jail for right this second I can guarantee you that the science and technology really came into play in this case and in a tremendous way we could not complete this prosecution without it your witnesses will change your story victims will change story there's just too many other.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15012,
+            15014
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "jail",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            15023,
+            15027
+          ],
+          "text": "jail"
+        }
+      ]
+    },
+    {
+      "score": 0.524741,
+      "sentence": "Kevin can see the sheriff's deputy implicated in drug dealing was later convicted of distribution of crack cocaine and sentenced to fourteen months in prison there was no evidence he was involved in life and smarter let me tell you something I'll be the first man of Kinsey had anything to do with the death of Thai relates and he'd be in jail for right this second I can guarantee you that the science and technology really came into play in this case and in a tremendous way we could not complete this prosecution without it your witnesses will change your story victims will change story there's just too many other.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kevin Kinsey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15050,
+            15051
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "jail",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            15023,
+            15027
+          ],
+          "text": "jail"
+        }
+      ]
+    },
+    {
+      "score": 0.935278,
+      "sentence": "I was asked to make any determination I could as to the number of shots that were fired and the direction angle which they were fired from from the evidence Mason concluded that at least four shots were fired during the attack.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joe Kovaleski",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2532,
+            2533
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2538,
+            2543
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.94726,
+      "sentence": "I was asked to make any determination I could as to the number of shots that were fired and the direction angle which they were fired from from the evidence Mason concluded that at least four shots were fired during the attack.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "J. Mason",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2689,
+            2694
+          ],
+          "text": "Mason"
+        },
+        {
+          "entities": [
+            {
+              "text": "concluded",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2695,
+            2704
+          ],
+          "text": "concluded"
+        }
+      ]
+    },
+    {
+      "score": 0.207119,
+      "sentence": "Mason also wanted to determine how far away the shooter was from his victim so he fired the same type of shotgun shells at varying distances to analyze the dispersion of the pallets then compared them to the shot gun holes in the victim's truck there is a rule of thumb that we can use which states that we expect to find an inch diameter pattern.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2829,
+            2835
+          ],
+          "text": "victim"
+        },
+        {
+          "entities": [
+            {
+              "text": "J. Mason",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2825,
+            2828
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.831004,
+      "sentence": "Mason also wanted to determine how far away the shooter was from his victim so he fired the same type of shotgun shells at varying distances to analyze the dispersion of the pallets then compared them to the shot gun holes in the victim's truck there is a rule of thumb that we can use which states that we expect to find an inch diameter pattern.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "J. Mason",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2839,
+            2841
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "fired",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            2842,
+            2847
+          ],
+          "text": "fired"
+        }
+      ]
+    },
+    {
+      "score": 0.636529,
+      "sentence": "The trajectory revealed the gun was pointed upwards this would be consistent with someone firing from a vehicle pulled up alongside the victim's vehicle and firing from the window of the vehicle.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "someone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3385,
+            3392
+          ],
+          "text": "someone"
+        },
+        {
+          "entities": [
+            {
+              "text": "firing",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            3393,
+            3399
+          ],
+          "text": "firing"
+        }
+      ]
+    },
+    {
+      "score": 0.43186,
+      "sentence": "The ballistic evidence suggested that the skid marks near the victim's truck were most likely those of the killer.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3561,
+            3567
+          ],
+          "text": "victim"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            3570,
+            3575
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.604377,
+      "sentence": "Mr felt his vehicle was at the crime scene when the murder took place no question it stands but it's about it's not a hundred yards up the road her yards down the road down or whatever he puts his vehicle right there.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10238,
+            10241
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10242,
+            10249
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.560984,
+      "sentence": "Mr felt his vehicle was at the crime scene when the murder took place no question it stands but it's about it's not a hundred yards up the road her yards down the road down or whatever he puts his vehicle right there.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10423,
+            10426
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10427,
+            10434
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.791316,
+      "sentence": "The ballistic evidence suggested that the skid marks near the victim's truck were most likely those of the killer.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "those",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3593,
+            3598
+          ],
+          "text": "those"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            3606,
+            3612
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.512148,
+      "sentence": "She lived in Annandale Virginia about an hour's drive away I knew that she was heavily into drugs I had heard that she was in two different ways of obtaining money.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Julie Grubbs",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4115,
+            4118
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "Annandale Virginia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4128,
+            4146
+          ],
+          "text": "Annandale Virginia"
+        }
+      ]
+    },
+    {
+      "score": 0.855963,
+      "sentence": "And the nearby Shenandoah river makes this a popular destination for outdoor enthusiasts from hundreds of miles away.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "river",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            362,
+            367
+          ],
+          "text": "river"
+        },
+        {
+          "entities": [
+            {
+              "text": "Shenandoah",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            351,
+            361
+          ],
+          "text": "Shenandoah"
+        }
+      ]
+    },
+    {
+      "score": 0.474853,
+      "sentence": "A second cell phone registered to Julie Grubbs was used to call tie late then twenty two times in the hours leading up to the shooting.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Julie Grubbs",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4416,
+            4428
+          ],
+          "text": "Julie Grubbs"
+        },
+        {
+          "entities": [
+            {
+              "text": "call",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4441,
+            4445
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.806373,
+      "sentence": "Investigators were about to interview Julie grubs when they developed another leading.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Julie Grubbs",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4968,
+            4979
+          ],
+          "text": "Julie grubs"
+        },
+        {
+          "entities": [
+            {
+              "text": "interview",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            4958,
+            4967
+          ],
+          "text": "interview"
+        }
+      ]
+    },
+    {
+      "score": 0.928239,
+      "sentence": "Hi Lisa had told friends that he was involved in drug trafficking with the sheriff's deputy Kevin Kinsey who is a supervisor at the work release center we're late and was living.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Hi Lisa",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5017,
+            5024
+          ],
+          "text": "Hi Lisa"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5029,
+            5033
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.828146,
+      "sentence": "Hi Lisa had told friends that he was involved in drug trafficking with the sheriff's deputy Kevin Kinsey who is a supervisor at the work release center we're late and was living.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5034,
+            5041
+          ],
+          "text": "friends"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5029,
+            5033
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.234174,
+      "sentence": "Hi Lisa had told friends that he was involved in drug trafficking with the sheriff's deputy Kevin Kinsey who is a supervisor at the work release center we're late and was living.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sheriff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5092,
+            5099
+          ],
+          "text": "sheriff"
+        },
+        {
+          "entities": [
+            {
+              "text": "Kevin Kinsey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5102,
+            5108
+          ],
+          "text": "deputy"
+        }
+      ]
+    },
+    {
+      "score": 0.302493,
+      "sentence": "But the sheriff's deputy Kevin Kinsey didn't own a red jeep can see had been implicated in dealing in illegal drugs with the dead victim tie lace and.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sheriff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6169,
+            6176
+          ],
+          "text": "sheriff"
+        },
+        {
+          "entities": [
+            {
+              "text": "Kevin Kinsey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6179,
+            6185
+          ],
+          "text": "deputy"
+        }
+      ]
+    },
+    {
+      "score": 0.200576,
+      "sentence": "Kevin can see the sheriff's deputy implicated in drug dealing was later convicted of distribution of crack cocaine and sentenced to fourteen months in prison there was no evidence he was involved in life and smarter let me tell you something I'll be the first man of Kinsey had anything to do with the death of Thai relates and he'd be in jail for right this second I can guarantee you that the science and technology really came into play in this case and in a tremendous way we could not complete this prosecution without it your witnesses will change your story victims will change story there's just too many other.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sheriff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14702,
+            14709
+          ],
+          "text": "sheriff"
+        },
+        {
+          "entities": [
+            {
+              "text": "Kevin Kinsey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14712,
+            14718
+          ],
+          "text": "deputy"
+        }
+      ]
+    },
+    {
+      "score": 0.517861,
+      "sentence": "Skews my language but they'd have all our prostitutes come up and they're all kind of stuff we deal with like two investigations at the same time because Kevin Kinsey did no Tyree life and.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kevin Kinsey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5350,
+            5362
+          ],
+          "text": "Kevin Kinsey"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigations",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            5310,
+            5324
+          ],
+          "text": "investigations"
+        }
+      ]
+    },
+    {
+      "score": 0.78962,
+      "sentence": "And then now you have the possibility or the theory was Kevin Kinsey involved in shooting himself.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kevin Kinsey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5442,
+            5454
+          ],
+          "text": "Kevin Kinsey"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5467,
+            5475
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.451812,
+      "sentence": "And then now you have the possibility or the theory was Kevin Kinsey involved in shooting himself.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kevin Kinsey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5476,
+            5483
+          ],
+          "text": "himself"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5467,
+            5475
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.214499,
+      "sentence": "With the allegation that a sheriff's deputy might somehow be involved the F. B. I. was brought in to assist the investigation.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sheriff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5512,
+            5519
+          ],
+          "text": "sheriff"
+        },
+        {
+          "entities": [
+            {
+              "text": "deputy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5522,
+            5528
+          ],
+          "text": "deputy"
+        }
+      ]
+    },
+    {
+      "score": 0.640729,
+      "sentence": "Also Joe Coveleski survived the shooting that killed his friend Tyler Layton Coveleski wasn't immediately forthcoming in his interviews with police.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joe Coveleski",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5617,
+            5630
+          ],
+          "text": "Joe Coveleski"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5644,
+            5652
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.82593,
+      "sentence": "A motorist driving by the low water bridge sought to man on the ground bleeding next to a truck he immediately called police.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            697,
+            700
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            734,
+            739
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.558948,
+      "sentence": "A motorist driving by the low water bridge sought to man on the ground bleeding next to a truck he immediately called police.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            740,
+            742
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            734,
+            739
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.421814,
+      "sentence": "Investigators found drug paraphernalia in the victim's car and they were circular tire tracks nearby a possible indication the man had been ambushed.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1398,
+            1404
+          ],
+          "text": "victim"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1407,
+            1410
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.602854,
+      "sentence": "Mason also wanted to determine how far away the shooter was from his victim so he fired the same type of shotgun shells at varying distances to analyze the dispersion of the pallets then compared them to the shot gun holes in the victim's truck there is a rule of thumb that we can use which states that we expect to find an inch diameter pattern.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2990,
+            2996
+          ],
+          "text": "victim"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2999,
+            3004
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.435369,
+      "sentence": "The trajectory revealed the gun was pointed upwards this would be consistent with someone firing from a vehicle pulled up alongside the victim's vehicle and firing from the window of the vehicle.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3439,
+            3445
+          ],
+          "text": "victim"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            3448,
+            3455
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.463644,
+      "sentence": "Mr felt his vehicle was at the crime scene when the murder took place no question it stands but it's about it's not a hundred yards up the road her yards down the road down or whatever he puts his vehicle right there.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10415,
+            10417
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10427,
+            10434
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.957397,
+      "sentence": "Also Joe Coveleski survived the shooting that killed his friend Tyler Layton Coveleski wasn't immediately forthcoming in his interviews with police.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kevin Kinsey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5733,
+            5736
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviews",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            5737,
+            5747
+          ],
+          "text": "interviews"
+        }
+      ]
+    },
+    {
+      "score": 0.937797,
+      "sentence": "Also Joe Coveleski survived the shooting that killed his friend Tyler Layton Coveleski wasn't immediately forthcoming in his interviews with police.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5753,
+            5759
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviews",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            5737,
+            5747
+          ],
+          "text": "interviews"
+        }
+      ]
+    },
+    {
+      "score": 0.289509,
+      "sentence": "Kovaleski was also suspicious of law enforcement since he knew Kyleigh Finn was involved in drug trafficking with a sheriff's deputy.",
+      "type": "clientOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sheriff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5877,
+            5884
+          ],
+          "text": "sheriff"
+        },
+        {
+          "entities": [
+            {
+              "text": "deputy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5887,
+            5893
+          ],
+          "text": "deputy"
+        }
+      ]
+    },
+    {
+      "score": 0.510606,
+      "sentence": "The killer is still out there on the loose I was defenses in hospital I can get away.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joe Kovaleski",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5938,
+            5939
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            5899,
+            5905
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.592861,
+      "sentence": "The killer is still out there on the loose I was defenses in hospital I can get away.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joe Kovaleski",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5938,
+            5939
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5956,
+            5964
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.178079,
+      "sentence": "The killer is still out there on the loose I was defenses in hospital I can get away.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joe Kovaleski",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5965,
+            5966
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5956,
+            5964
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.995438,
+      "sentence": "Kovaleski said he went with the tide of the low water bridge to buy drugs then a red jeep approached and someone inside opened fire.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joe Kovaleski",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5992,
+            6001
+          ],
+          "text": "Kovaleski"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6002,
+            6006
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.598706,
+      "sentence": "But the sheriff's deputy Kevin Kinsey didn't own a red jeep can see had been implicated in dealing in illegal drugs with the dead victim tie lace and.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6291,
+            6297
+          ],
+          "text": "victim"
+        },
+        {
+          "entities": [
+            {
+              "text": "dead victims",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6286,
+            6290
+          ],
+          "text": "dead"
+        }
+      ]
+    },
+    {
+      "score": 0.574119,
+      "sentence": "There are other suspects Julie grubs didn't own a red jeep either.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Julie Grubbs",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6337,
+            6348
+          ],
+          "text": "Julie grubs"
+        },
+        {
+          "entities": [
+            {
+              "text": "suspects",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6328,
+            6336
+          ],
+          "text": "suspects"
+        }
+      ]
+    },
+    {
+      "score": 0.204849,
+      "sentence": "But when police visited rubs apartment they noticed a red jeep in the parking lot.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6388,
+            6394
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6408,
+            6417
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.788321,
+      "sentence": "A motorist driving by the low water bridge sought to man on the ground bleeding next to a truck he immediately called police.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            697,
+            700
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            755,
+            761
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.383543,
+      "sentence": "But when police visited rubs apartment they noticed a red jeep in the parking lot.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6408,
+            6417
+          ],
+          "text": "apartment"
+        },
+        {
+          "entities": [
+            {
+              "text": "parking lot",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6449,
+            6460
+          ],
+          "text": "parking lot"
+        }
+      ]
+    },
+    {
+      "score": 0.311277,
+      "sentence": "A check of motor vehicles revealed a jeep belonging to Julie's boyfriend.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Julie Grubbs",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6517,
+            6522
+          ],
+          "text": "Julie"
+        },
+        {
+          "entities": [
+            {
+              "text": "Phelps",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6525,
+            6534
+          ],
+          "text": "boyfriend"
+        }
+      ]
+    },
+    {
+      "score": 0.374816,
+      "sentence": "Talking about how much life hurts literally talking about how much of a rush would be to kill somebody.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "somebody",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6811,
+            6819
+          ],
+          "text": "somebody"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            6806,
+            6810
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.521533,
+      "sentence": "During the surveillance of Phelps red jeep investigators soft belts walked towards his vehicle with some cleaning materials if you've been given an opportunity to wash away any blood or DNA evidence that had been transferred from the homicide scene to the jeep and it doesn't take much to war seven things away so ultimately we we had to act it was it was that important that we could not let him clean that G.. After confiscating the jeep investigators search Julie drops apartment and found the cell phone used to call tie late on the night of the shooting.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Julie Grubbs",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6948,
+            6951
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            6908,
+            6915
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.565026,
+      "sentence": "During the surveillance of Phelps red jeep investigators soft belts walked towards his vehicle with some cleaning materials if you've been given an opportunity to wash away any blood or DNA evidence that had been transferred from the homicide scene to the jeep and it doesn't take much to war seven things away so ultimately we we had to act it was it was that important that we could not let him clean that G.. After confiscating the jeep investigators search Julie drops apartment and found the cell phone used to call tie late on the night of the shooting.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "transferred",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            7034,
+            7045
+          ],
+          "text": "transferred"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            7064,
+            7069
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.843412,
+      "sentence": "During the surveillance of Phelps red jeep investigators soft belts walked towards his vehicle with some cleaning materials if you've been given an opportunity to wash away any blood or DNA evidence that had been transferred from the homicide scene to the jeep and it doesn't take much to war seven things away so ultimately we we had to act it was it was that important that we could not let him clean that G.. After confiscating the jeep investigators search Julie drops apartment and found the cell phone used to call tie late on the night of the shooting.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Julie Grubbs",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7282,
+            7287
+          ],
+          "text": "Julie"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7294,
+            7303
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.947207,
+      "sentence": "During the surveillance of Phelps red jeep investigators soft belts walked towards his vehicle with some cleaning materials if you've been given an opportunity to wash away any blood or DNA evidence that had been transferred from the homicide scene to the jeep and it doesn't take much to war seven things away so ultimately we we had to act it was it was that important that we could not let him clean that G.. After confiscating the jeep investigators search Julie drops apartment and found the cell phone used to call tie late on the night of the shooting.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            7358,
+            7363
+          ],
+          "text": "night"
+        },
+        {
+          "entities": [
+            {
+              "text": "call",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7337,
+            7341
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.920019,
+      "sentence": "Dolson grubs both denied any involvement in the murder they claimed they were both in crops apartment in Annandale more than sixty miles away from the crime scene.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dolson grubs",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7527,
+            7539
+          ],
+          "text": "Dolson grubs"
+        },
+        {
+          "entities": [
+            {
+              "text": "denied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7545,
+            7551
+          ],
+          "text": "denied"
+        }
+      ]
+    },
+    {
+      "score": 0.806211,
+      "sentence": "Dolson grubs both denied any involvement in the murder they claimed they were both in crops apartment in Annandale more than sixty miles away from the crime scene.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            7540,
+            7544
+          ],
+          "text": "both"
+        },
+        {
+          "entities": [
+            {
+              "text": "denied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7545,
+            7551
+          ],
+          "text": "denied"
+        }
+      ]
+    },
+    {
+      "score": 0.356478,
+      "sentence": "Dolson grubs both denied any involvement in the murder they claimed they were both in crops apartment in Annandale more than sixty miles away from the crime scene.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7582,
+            7586
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7575,
+            7581
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.883348,
+      "sentence": "A motorist driving by the low water bridge sought to man on the ground bleeding next to a truck he immediately called police.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            762,
+            768
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            755,
+            761
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.975336,
+      "sentence": "Dolson grubs both denied any involvement in the murder they claimed they were both in crops apartment in Annandale more than sixty miles away from the crime scene.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7582,
+            7586
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "claimed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7587,
+            7594
+          ],
+          "text": "claimed"
+        }
+      ]
+    },
+    {
+      "score": 0.990546,
+      "sentence": "Dolson grubs both denied any involvement in the murder they claimed they were both in crops apartment in Annandale more than sixty miles away from the crime scene.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7619,
+            7628
+          ],
+          "text": "apartment"
+        },
+        {
+          "entities": [
+            {
+              "text": "Annandale Virginia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7632,
+            7641
+          ],
+          "text": "Annandale"
+        }
+      ]
+    },
+    {
+      "score": 0.513323,
+      "sentence": "Dolson grubs both denied any involvement in the murder they claimed they were both in crops apartment in Annandale more than sixty miles away from the crime scene.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7678,
+            7683
+          ],
+          "text": "crime"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            7684,
+            7689
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.407453,
+      "sentence": "To see if this dirt could link it to the murder scene investigators contacted forensic geologist Dr Eric Jonker.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7973,
+            7979
+          ],
+          "text": "murder"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            7980,
+            7985
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.622956,
+      "sentence": "One of the most important things that we do within forensic science try to solve what we call a forensic triad and this is where we link the victim suspect in crime scene together that triangle if we can make that work is crucial to most of our investigations.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            8204,
+            8209
+          ],
+          "text": "crime"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            8210,
+            8215
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.518054,
+      "sentence": "Soil samples were collected from the murder scene in the area where police noticed the circular tire tracks next to low water bridge if we think the suspect came in one direction left in a different way we take samples along those tracks because again the social change the samples from the parking area were analyzed in the same way as the soil samples from Lewis felt G.. In both samples with the same mineral components of Asher right and malachite.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            9814,
+            9820
+          ],
+          "text": "murder"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            9821,
+            9826
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.379107,
+      "sentence": "It'S so it's vital to our case to be able to put him here in Warren County put him near the crime scene and we're able to do that through the cell phone records.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12443,
+            12448
+          ],
+          "text": "crime"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            12449,
+            12454
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.529683,
+      "sentence": "Firearms expert Jane Mason compared the shell casings from Michael Kennedy to the shells found at the crime scene.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13246,
+            13251
+          ],
+          "text": "crime"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            13252,
+            13257
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.858036,
+      "sentence": "Here you have G. supposedly is in Annandale you don't have reporter you don't have so much to her personally if you would ask for or or concrete.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "your",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7898,
+            7901
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "ask",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7908,
+            7911
+          ],
+          "text": "ask"
+        }
+      ]
+    },
+    {
+      "score": 0.523984,
+      "sentence": "To see if this dirt could link it to the murder scene investigators contacted forensic geologist Dr Eric Jonker.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7986,
+            7999
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            7980,
+            7985
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.796888,
+      "sentence": "To see if this dirt could link it to the murder scene investigators contacted forensic geologist Dr Eric Jonker.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7986,
+            7999
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "contacted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8000,
+            8009
+          ],
+          "text": "contacted"
+        }
+      ]
+    },
+    {
+      "score": 0.692899,
+      "sentence": "To see if this dirt could link it to the murder scene investigators contacted forensic geologist Dr Eric Jonker.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Eric Jonker",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8010,
+            8028
+          ],
+          "text": "forensic geologist"
+        },
+        {
+          "entities": [
+            {
+              "text": "contacted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8000,
+            8009
+          ],
+          "text": "contacted"
+        }
+      ]
+    },
+    {
+      "score": 0.558589,
+      "sentence": "One of the most important things that we do within forensic science try to solve what we call a forensic triad and this is where we link the victim suspect in crime scene together that triangle if we can make that work is crucial to most of our investigations.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "our",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8174,
+            8176
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            8204,
+            8209
+          ],
+          "text": "crime"
+        }
+      ]
+    },
+    {
+      "score": 0.585497,
+      "sentence": "One of the most important things that we do within forensic science try to solve what we call a forensic triad and this is where we link the victim suspect in crime scene together that triangle if we can make that work is crucial to most of our investigations.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8186,
+            8200
+          ],
+          "text": "victim suspect"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            8210,
+            8215
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.523579,
+      "sentence": "Mr felt his vehicle was at the crime scene when the murder took place no question it stands but it's about it's not a hundred yards up the road her yards down the road down or whatever he puts his vehicle right there.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10238,
+            10241
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            10267,
+            10272
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.489319,
+      "sentence": "Mr felt his vehicle was at the crime scene when the murder took place no question it stands but it's about it's not a hundred yards up the road her yards down the road down or whatever he puts his vehicle right there.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10423,
+            10426
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            10441,
+            10446
+          ],
+          "text": "there"
+        }
+      ]
+    },
+    {
+      "score": 0.819439,
+      "sentence": "It'S so it's vital to our case to be able to put him here in Warren County put him near the crime scene and we're able to do that through the cell phone records.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12430,
+            12433
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            12449,
+            12454
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.808921,
+      "sentence": "One of the most important things that we do within forensic science try to solve what we call a forensic triad and this is where we link the victim suspect in crime scene together that triangle if we can make that work is crucial to most of our investigations.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "our",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8286,
+            8289
+          ],
+          "text": "our"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigations",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8290,
+            8304
+          ],
+          "text": "investigations"
+        }
+      ]
+    },
+    {
+      "score": 0.963799,
+      "sentence": "The man on the driver's side of the truck twenty year old Joe Kovaleski was still alive but just barely.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joe Kovaleski",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            875,
+            888
+          ],
+          "text": "Joe Kovaleski"
+        },
+        {
+          "entities": [
+            {
+              "text": "twenty year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            859,
+            874
+          ],
+          "text": "twenty year old"
+        }
+      ]
+    },
+    {
+      "score": 0.999255,
+      "sentence": "Dr John says that mineral ratios erosion and other environmental factors can often distinguish one soil sample from another that makes everything unique so that basically the idea that the soil is dirt is dirt no matter where you go and it doesn't change for miles around dirt is different thirty feet apart from each other.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Kerr",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8309,
+            8313
+          ],
+          "text": "John"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8314,
+            8318
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.672126,
+      "sentence": "It told me that there had to be a source for these minerals nearby because these are not going to be transported twenty or thirty miles downstream.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Kerr",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9203,
+            9205
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9198,
+            9202
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.900186,
+      "sentence": "The murder took place at low water bridge just a few feet away from the Shenandoah river.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "river",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            9426,
+            9431
+          ],
+          "text": "river"
+        },
+        {
+          "entities": [
+            {
+              "text": "Shenandoah",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9415,
+            9425
+          ],
+          "text": "Shenandoah"
+        }
+      ]
+    },
+    {
+      "score": 0.729729,
+      "sentence": "Soil samples were collected from the murder scene in the area where police noticed the circular tire tracks next to low water bridge if we think the suspect came in one direction left in a different way we take samples along those tracks because again the social change the samples from the parking area were analyzed in the same way as the soil samples from Lewis felt G.. In both samples with the same mineral components of Asher right and malachite.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            9821,
+            9826
+          ],
+          "text": "scene"
+        },
+        {
+          "entities": [
+            {
+              "text": "parking area",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            9834,
+            9838
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.445797,
+      "sentence": "Soil samples were collected from the murder scene in the area where police noticed the circular tire tracks next to low water bridge if we think the suspect came in one direction left in a different way we take samples along those tracks because again the social change the samples from the parking area were analyzed in the same way as the soil samples from Lewis felt G.. In both samples with the same mineral components of Asher right and malachite.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            9821,
+            9826
+          ],
+          "text": "scene"
+        },
+        {
+          "entities": [
+            {
+              "text": "parking area",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            9839,
+            9844
+          ],
+          "text": "where"
+        }
+      ]
+    },
+    {
+      "score": 0.550279,
+      "sentence": "Mr felt his vehicle was at the crime scene when the murder took place no question it stands but it's about it's not a hundred yards up the road her yards down the road down or whatever he puts his vehicle right there.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10238,
+            10241
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10282,
+            10288
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.93247,
+      "sentence": "Julie Grundy center boyfriend Louis felt C. merged as the prime suspect in the double shooting at low water bridge.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11027,
+            11034
+          ],
+          "text": "suspect"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11049,
+            11057
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.865687,
+      "sentence": "It'S so it's vital to our case to be able to put him here in Warren County put him near the crime scene and we're able to do that through the cell phone records.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12430,
+            12433
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12443,
+            12448
+          ],
+          "text": "crime"
+        }
+      ]
+    },
+    {
+      "score": 0.750559,
+      "sentence": "Mr felt his vehicle was at the crime scene when the murder took place no question it stands but it's about it's not a hundred yards up the road her yards down the road down or whatever he puts his vehicle right there.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10242,
+            10249
+          ],
+          "text": "vehicle"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            10267,
+            10272
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.823365,
+      "sentence": "Mr felt his vehicle was at the crime scene when the murder took place no question it stands but it's about it's not a hundred yards up the road her yards down the road down or whatever he puts his vehicle right there.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10374,
+            10377
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "yards",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10378,
+            10383
+          ],
+          "text": "yards"
+        }
+      ]
+    },
+    {
+      "score": 0.499362,
+      "sentence": "Dr John Kerr believes that the minerals from the quarry got into the Shenandoah river traveled a mile downstream and were washed ashore into the parking lot at low water bridge around the time of the murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Kerr",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10451,
+            10460
+          ],
+          "text": "John Kerr"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10648,
+            10654
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.534352,
+      "sentence": "Now investigators had to prove who was in the G. on the night of the murders we're in the position of being able to convict the vehicle of the homicide but we were much weaker on food and actually pulled the trigger.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "murders",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10815,
+            10822
+          ],
+          "text": "murders"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10823,
+            10825
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.810444,
+      "sentence": "Now investigators had to prove who was in the G. on the night of the murders we're in the position of being able to convict the vehicle of the homicide but we were much weaker on food and actually pulled the trigger.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "homicide",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10889,
+            10897
+          ],
+          "text": "homicide"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10874,
+            10881
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.894512,
+      "sentence": "Leeson was no stranger to law enforcement always been trouble I've actually charged him with robbery before and salute to a lan and picked him up.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1028,
+            1031
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            1020,
+            1027
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.869069,
+      "sentence": "Witnesses placed Julie grubs at her apartment around the time of the murder but someone using her cell phone call tie late then twenty two times in the hours leading up to the murder every time you push that send button you hit the tower and that information's being logged in and kept.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11079,
+            11088
+          ],
+          "text": "Witnesses"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11115,
+            11124
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.560587,
+      "sentence": "Witnesses placed Julie grubs at her apartment around the time of the murder but someone using her cell phone call tie late then twenty two times in the hours leading up to the murder every time you push that send button you hit the tower and that information's being logged in and kept.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Julie Grubbs",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11111,
+            11114
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11115,
+            11124
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.458929,
+      "sentence": "Witnesses placed Julie grubs at her apartment around the time of the murder but someone using her cell phone call tie late then twenty two times in the hours leading up to the murder every time you push that send button you hit the tower and that information's being logged in and kept.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11148,
+            11154
+          ],
+          "text": "murder"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11115,
+            11124
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.533173,
+      "sentence": "Witnesses placed Julie grubs at her apartment around the time of the murder but someone using her cell phone call tie late then twenty two times in the hours leading up to the murder every time you push that send button you hit the tower and that information's being logged in and kept.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11159,
+            11166
+          ],
+          "text": "someone"
+        },
+        {
+          "entities": [
+            {
+              "text": "twenty",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11207,
+            11213
+          ],
+          "text": "twenty"
+        }
+      ]
+    },
+    {
+      "score": 0.583459,
+      "sentence": "Witnesses placed Julie grubs at her apartment around the time of the murder but someone using her cell phone call tie late then twenty two times in the hours leading up to the murder every time you push that send button you hit the tower and that information's being logged in and kept.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Julie Grubbs",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11173,
+            11176
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "twenty",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11207,
+            11213
+          ],
+          "text": "twenty"
+        }
+      ]
+    },
+    {
+      "score": 0.672081,
+      "sentence": "A check of cell tower records showed that Julie grubs cell phone use many different cell towers during those calls the cell phone started making phone calls at three thirty three PM on the twenty six today the murder and they were using Washington DC cell site towers around between the six to seven o'clock hour they roll over in the Fredericksburg towers and then ultimately in the Winchester towers which is straight down from Fairfax so we're actually able to show that that cellphone traveled west on on fifty and ended up in the sand or valid that nine was used.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Julie Grubbs",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11545,
+            11547
+          ],
+          "text": "PM"
+        },
+        {
+          "entities": [
+            {
+              "text": "twenty",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11555,
+            11561
+          ],
+          "text": "twenty"
+        }
+      ]
+    },
+    {
+      "score": 0.866327,
+      "sentence": "A check of cell tower records showed that Julie grubs cell phone use many different cell towers during those calls the cell phone started making phone calls at three thirty three PM on the twenty six today the murder and they were using Washington DC cell site towers around between the six to seven o'clock hour they roll over in the Fredericksburg towers and then ultimately in the Winchester towers which is straight down from Fairfax so we're actually able to show that that cellphone traveled west on on fifty and ended up in the sand or valid that nine was used.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Julie Grubbs",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11545,
+            11547
+          ],
+          "text": "PM"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11576,
+            11582
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.704529,
+      "sentence": "Prosecutors say there is no evidence to suggest that Julie Grubbs was involved in the shooting.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Julie Grubbs",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14564,
+            14576
+          ],
+          "text": "Julie Grubbs"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            14597,
+            14605
+          ],
+          "text": "shooting"
+        }
+      ]
+    },
+    {
+      "score": 0.484144,
+      "sentence": "A check of cell tower records showed that Julie grubs cell phone use many different cell towers during those calls the cell phone started making phone calls at three thirty three PM on the twenty six today the murder and they were using Washington DC cell site towers around between the six to seven o'clock hour they roll over in the Fredericksburg towers and then ultimately in the Winchester towers which is straight down from Fairfax so we're actually able to show that that cellphone traveled west on on fifty and ended up in the sand or valid that nine was used.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11587,
+            11591
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "Washington DC",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11603,
+            11616
+          ],
+          "text": "Washington DC"
+        }
+      ]
+    },
+    {
+      "score": 0.913144,
+      "sentence": "A check of cell tower records showed that Julie grubs cell phone use many different cell towers during those calls the cell phone started making phone calls at three thirty three PM on the twenty six today the murder and they were using Washington DC cell site towers around between the six to seven o'clock hour they roll over in the Fredericksburg towers and then ultimately in the Winchester towers which is straight down from Fairfax so we're actually able to show that that cellphone traveled west on on fifty and ended up in the sand or valid that nine was used.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "towers",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11716,
+            11722
+          ],
+          "text": "towers"
+        },
+        {
+          "entities": [
+            {
+              "text": "Fredericksburg",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11701,
+            11715
+          ],
+          "text": "Fredericksburg"
+        }
+      ]
+    },
+    {
+      "score": 0.436014,
+      "sentence": "Hi Layton step mother was with Ty about two hours before the merger when he received a cell phone call early said Lois dammit I told you I'll meet you at near light and slammed the finding.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Julie Grubbs",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12087,
+            12093
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Hi Layton",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12072,
+            12081
+          ],
+          "text": "Hi Layton"
+        }
+      ]
+    },
+    {
+      "score": 0.965083,
+      "sentence": "Hi Layton step mother was with Ty about two hours before the merger when he received a cell phone call early said Lois dammit I told you I'll meet you at near light and slammed the finding.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12145,
+            12147
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12181,
+            12185
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.560139,
+      "sentence": "Joe Kovaleski was in a coma for several days when he finally regained consciousness he said very little about the incident except that the shooter was driving a red jeep.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joe Kovaleski",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1878,
+            1891
+          ],
+          "text": "Joe Kovaleski"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1965,
+            1969
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.933511,
+      "sentence": "Joe Kovaleski was in a coma for several days when he finally regained consciousness he said very little about the incident except that the shooter was driving a red jeep.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joe Kovaleski",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1962,
+            1964
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1965,
+            1969
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.43807,
+      "sentence": "Hi Layton step mother was with Ty about two hours before the merger when he received a cell phone call early said Lois dammit I told you I'll meet you at near light and slammed the finding.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lois dammit",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12186,
+            12197
+          ],
+          "text": "Lois dammit"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12181,
+            12185
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.993962,
+      "sentence": "Hi Layton step mother was with Ty about two hours before the merger when he received a cell phone call early said Lois dammit I told you I'll meet you at near light and slammed the finding.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lois dammit",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12198,
+            12199
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12200,
+            12204
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.907043,
+      "sentence": "Hi Layton step mother was with Ty about two hours before the merger when he received a cell phone call early said Lois dammit I told you I'll meet you at near light and slammed the finding.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12205,
+            12208
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12200,
+            12204
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.510828,
+      "sentence": "Fells consistently denied being in Warren County for a number years prior to the murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Fells",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12262,
+            12267
+          ],
+          "text": "Fells"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12343,
+            12349
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.520033,
+      "sentence": "It'S so it's vital to our case to be able to put him here in Warren County put him near the crime scene and we're able to do that through the cell phone records.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12400,
+            12403
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "Warren County",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12412,
+            12425
+          ],
+          "text": "Warren County"
+        }
+      ]
+    },
+    {
+      "score": 0.544036,
+      "sentence": "It'S so it's vital to our case to be able to put him here in Warren County put him near the crime scene and we're able to do that through the cell phone records.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Warren County",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12412,
+            12425
+          ],
+          "text": "Warren County"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            12449,
+            12454
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.930676,
+      "sentence": "Mike Kennedy a friend of Louis Stokes came forward with the startling revelation that he had sold felt's a shotgun three weeks before the murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mike Kennedy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12657,
+            12659
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12709,
+            12715
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.693211,
+      "sentence": "Kennedy also said he had several spent shells from that shot gun still in his possession they might never believe me or whatever but I told them that I fired the gun they won no where.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mike Kennedy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12735,
+            12737
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12773,
+            12777
+          ],
+          "text": "shot"
+        }
+      ]
+    },
+    {
+      "score": 0.890414,
+      "sentence": "Kennedy also said he had several spent shells from that shot gun still in his possession they might never believe me or whatever but I told them that I fired the gun they won no where.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mike Kennedy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12717,
+            12724
+          ],
+          "text": "Kennedy"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12730,
+            12734
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.993556,
+      "sentence": "Kennedy also said he had several spent shells from that shot gun still in his possession they might never believe me or whatever but I told them that I fired the gun they won no where.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mike Kennedy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12850,
+            12851
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12852,
+            12856
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.964891,
+      "sentence": "Kennedy also said he had several spent shells from that shot gun still in his possession they might never believe me or whatever but I told them that I fired the gun they won no where.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12857,
+            12861
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12852,
+            12856
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.452305,
+      "sentence": "I saw it coming around to the right side of my truck and fishtail stop.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joe Kovaleski",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2093,
+            2095
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2096,
+            2101
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.786086,
+      "sentence": "During the surveillance of Phelps red jeep investigators soft belts walked towards his vehicle with some cleaning materials if you've been given an opportunity to wash away any blood or DNA evidence that had been transferred from the homicide scene to the jeep and it doesn't take much to war seven things away so ultimately we we had to act it was it was that important that we could not let him clean that G.. After confiscating the jeep investigators search Julie drops apartment and found the cell phone used to call tie late on the night of the shooting.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joe Kovaleski",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6904,
+            6907
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            6908,
+            6915
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.609138,
+      "sentence": "Kennedy also said he had several spent shells from that shot gun still in his possession they might never believe me or whatever but I told them that I fired the gun they won no where.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12857,
+            12861
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "fired",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            12869,
+            12874
+          ],
+          "text": "fired"
+        }
+      ]
+    },
+    {
+      "score": 0.648803,
+      "sentence": "Kennedy also said he had several spent shells from that shot gun still in his possession they might never believe me or whatever but I told them that I fired the gun they won no where.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mike Kennedy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12867,
+            12868
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "fired",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            12869,
+            12874
+          ],
+          "text": "fired"
+        }
+      ]
+    },
+    {
+      "score": 0.347863,
+      "sentence": "Kennedy also said he had several spent shells from that shot gun still in his possession they might never believe me or whatever but I told them that I fired the gun they won no where.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mike Kennedy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12867,
+            12868
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "gun",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            12879,
+            12882
+          ],
+          "text": "gun"
+        }
+      ]
+    },
+    {
+      "score": 0.533912,
+      "sentence": "Investigators recovered nine shell casings in Kennedy's yard.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12902,
+            12915
+          ],
+          "text": "Investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "yard",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12958,
+            12962
+          ],
+          "text": "yard"
+        }
+      ]
+    },
+    {
+      "score": 0.463342,
+      "sentence": "Investigators recovered nine shell casings in Kennedy's yard.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mike Kennedy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12948,
+            12955
+          ],
+          "text": "Kennedy"
+        },
+        {
+          "entities": [
+            {
+              "text": "yard",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12958,
+            12962
+          ],
+          "text": "yard"
+        }
+      ]
+    },
+    {
+      "score": 0.43358,
+      "sentence": "Firearms expert Jane Mason compared the shell casings from Michael Kennedy to the shells found at the crime scene.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jane Mason",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13153,
+            13159
+          ],
+          "text": "expert"
+        },
+        {
+          "entities": [
+            {
+              "text": "Firearms",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13144,
+            13152
+          ],
+          "text": "Firearms"
+        }
+      ]
+    },
+    {
+      "score": 0.455449,
+      "sentence": "The fact that I was able to identify the shot showcases all having been fired from the same farm with the the murder weapon in the hands of the suspect.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mike Kennedy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13342,
+            13343
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "fired",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            13400,
+            13405
+          ],
+          "text": "fired"
+        }
+      ]
+    },
+    {
+      "score": 0.054506,
+      "sentence": "The fact that I was able to identify the shot showcases all having been fired from the same farm with the the murder weapon in the hands of the suspect.",
+      "type": "instrumentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "weapon",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            13445,
+            13451
+          ],
+          "text": "weapon"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13438,
+            13444
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.393333,
+      "sentence": "The fact that I was able to identify the shot showcases all having been fired from the same farm with the the murder weapon in the hands of the suspect.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victim suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13472,
+            13479
+          ],
+          "text": "suspect"
+        },
+        {
+          "entities": [
+            {
+              "text": "shooting",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13438,
+            13444
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.864708,
+      "sentence": "The forensic evidence shows that Lewis felt cold high late then while driving towards front royal and asked him to meet at low water bridge.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Lewis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13755,
+            13760
+          ],
+          "text": "Lewis"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13824,
+            13829
+          ],
+          "text": "asked"
+        }
+      ]
+    }
+  ]
+}

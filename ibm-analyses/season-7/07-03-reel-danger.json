@@ -1,0 +1,4373 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 15012,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Bobby",
+      "relevance": 0.954649,
+      "confidence": 1,
+      "count": 10
+    },
+    {
+      "type": "Person",
+      "text": "Christopher green",
+      "relevance": 0.920166,
+      "confidence": 1,
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Steven",
+      "relevance": 0.849778,
+      "confidence": 1,
+      "count": 9
+    },
+    {
+      "type": "Organization",
+      "text": "Waterford police",
+      "relevance": 0.498385,
+      "confidence": 0.835884,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Mrs Bacardi",
+      "relevance": 0.49702,
+      "confidence": 0.989586,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "Thirteen year",
+      "relevance": 0.488277,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Facility",
+      "text": "stingers pond",
+      "relevance": 0.486734,
+      "confidence": 0.454291,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Susan Bacardi",
+      "relevance": 0.479398,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Stephen",
+      "relevance": 0.462585,
+      "confidence": 1,
+      "count": 4,
+      "disambiguation": {
+        "name": "Sheamus",
+        "dbpedia_resource": "http://dbpedia.org/resource/Sheamus"
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "seventeen year",
+      "relevance": 0.4323,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Connecticut",
+      "relevance": 0.34987,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Brian Davis",
+      "relevance": 0.343106,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Organization",
+      "text": "Lawrence and Memorial Hospital",
+      "relevance": 0.327745,
+      "confidence": 0.374164,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr John urban Nettie",
+      "relevance": 0.327146,
+      "confidence": 0.713932,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Watford police",
+      "relevance": 0.31942,
+      "confidence": 0.633872,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Donald McCarthy",
+      "relevance": 0.318851,
+      "confidence": 0.821403,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jason",
+      "relevance": 0.265884,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Susan",
+      "relevance": 0.249766,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Sport",
+      "text": "baseball",
+      "relevance": 0.217495,
+      "confidence": 1,
+      "count": 2,
+      "disambiguation": {
+        "name": "Baseball",
+        "dbpedia_resource": "http://dbpedia.org/resource/Baseball"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Tom",
+      "relevance": 0.189227,
+      "confidence": 1,
+      "count": 6
+    },
+    {
+      "type": "Company",
+      "text": "Waterford",
+      "relevance": 0.18648,
+      "confidence": 0.261177,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Peter Siver",
+      "relevance": 0.174949,
+      "confidence": 0.852752,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "drowning",
+      "relevance": 0.154549,
+      "confidence": 0.460733,
+      "count": 1,
+      "disambiguation": {
+        "name": "Drowning",
+        "dbpedia_resource": "http://dbpedia.org/resource/Drowning",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Stanger",
+      "relevance": 0.153835,
+      "confidence": 0.541468,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Stephens",
+      "relevance": 0.152351,
+      "confidence": 0.733338,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Stevens",
+      "relevance": 0.14831,
+      "confidence": 0.888533,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Ryan Davis",
+      "relevance": 0.137967,
+      "confidence": 0.997939,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Siver",
+      "relevance": 0.133141,
+      "confidence": 0.981412,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Connecticut college",
+      "relevance": 0.11471,
+      "confidence": 0.469794,
+      "count": 1,
+      "disambiguation": {
+        "name": "Connecticut_College",
+        "dbpedia_resource": "http://dbpedia.org/resource/Connecticut_College",
+        "subtype": [
+          "Location",
+          "CollegeUniversity",
+          "University"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Christopher Greene Brian Davis",
+      "relevance": 0.114507,
+      "confidence": 0.795896,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "scar",
+      "relevance": 0.109461,
+      "confidence": 0.781978,
+      "count": 1,
+      "disambiguation": {
+        "name": "Scar",
+        "dbpedia_resource": "http://dbpedia.org/resource/Scar",
+        "subtype": [
+          "DiseaseCause"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Davis",
+      "relevance": 0.087988,
+      "confidence": 0.998935,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three minutes",
+      "relevance": 0.087157,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Europe",
+      "relevance": 0.079782,
+      "confidence": 0.998776,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "five minutes",
+      "relevance": 0.076774,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "FBI",
+      "relevance": 0.076521,
+      "confidence": 0.999921,
+      "count": 1,
+      "disambiguation": {
+        "name": "Federal_Bureau_of_Investigation",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation",
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "relevance": 0.052041,
+      "confidence": 0.927007,
+      "count": 1,
+      "disambiguation": {
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Thomas",
+      "relevance": 0.049996,
+      "confidence": 0.688426,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "sixteen year",
+      "relevance": 0.042253,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Evans",
+      "relevance": 0.041742,
+      "confidence": 0.782325,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Thompson",
+      "relevance": 0.040563,
+      "confidence": 0.967609,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Iran",
+      "relevance": 0.04027,
+      "confidence": 0.997086,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "diabetes",
+      "relevance": 0.027183,
+      "confidence": 0.998728,
+      "count": 1,
+      "disambiguation": {
+        "name": "Diabetes_mellitus",
+        "dbpedia_resource": "http://dbpedia.org/resource/Diabetes_mellitus",
+        "subtype": [
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "eighteen years",
+      "relevance": 0.022374,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two weeks",
+      "relevance": 0.015237,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Switzerland",
+      "relevance": 0.007464,
+      "confidence": 0.999926,
+      "count": 1,
+      "disambiguation": {
+        "name": "Switzerland",
+        "dbpedia_resource": "http://dbpedia.org/resource/Switzerland"
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "eight percent",
+      "relevance": 0.001001,
+      "confidence": 0.8,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.920528
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.784171
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.749833
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.694743
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.658505
+    },
+    {
+      "label": "/society/unrest and war",
+      "score": 0.62093
+    },
+    {
+      "label": "/family and parenting/parenting teens",
+      "score": 0.60462
+    },
+    {
+      "label": "/society/senior living",
+      "score": 0.601923
+    },
+    {
+      "label": "/sports/go kart",
+      "score": 0.592441
+    },
+    {
+      "label": "/society/crime/sexual offence/rape",
+      "score": 0.576013
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.739891,
+      "sentence": "In nineteen ninety one this tranquil pond in rural Connecticut was the scene of a horrific crime.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            71,
+            76
+          ],
+          "text": "scene"
+        },
+        {
+          "entities": [
+            {
+              "text": "Connecticut",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            51,
+            62
+          ],
+          "text": "Connecticut"
+        }
+      ]
+    },
+    {
+      "score": 0.997467,
+      "sentence": "And Waterford police had questions of their own.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2167,
+            2173
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "Waterford",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2157,
+            2166
+          ],
+          "text": "Waterford"
+        }
+      ]
+    },
+    {
+      "score": 0.997405,
+      "sentence": "Waterford police spent weeks calling around the country looking for someone who might be able to help.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8091,
+            8097
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "Waterford",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8081,
+            8090
+          ],
+          "text": "Waterford"
+        }
+      ]
+    },
+    {
+      "score": 0.99767,
+      "sentence": "For Waterford police and for law enforcement around the world the case set a precedent.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13898,
+            13904
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "Waterford",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13888,
+            13897
+          ],
+          "text": "Waterford"
+        }
+      ]
+    },
+    {
+      "score": 0.452999,
+      "sentence": "Police determined that Christopher green the only one of the defendants with a history of violence instigated the attacks.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            13034,
+            13037
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "attacks",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            13098,
+            13105
+          ],
+          "text": "attacks"
+        }
+      ]
+    },
+    {
+      "score": 0.65217,
+      "sentence": "Brian Davis and Christopher green were both tried as adults and were sentenced to a minimum of eighteen years in prison.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Christopher Greene Brian Davis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13356,
+            13367
+          ],
+          "text": "Brian Davis"
+        },
+        {
+          "entities": [
+            {
+              "text": "adults",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13409,
+            13415
+          ],
+          "text": "adults"
+        }
+      ]
+    },
+    {
+      "score": 0.666482,
+      "sentence": "Brian Davis and Christopher green were both tried as adults and were sentenced to a minimum of eighteen years in prison.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ryan Davis Christopher",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13372,
+            13383
+          ],
+          "text": "Christopher"
+        },
+        {
+          "entities": [
+            {
+              "text": "adults",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13409,
+            13415
+          ],
+          "text": "adults"
+        }
+      ]
+    },
+    {
+      "score": 0.795461,
+      "sentence": "Brian Davis and Christopher green were both tried as adults and were sentenced to a minimum of eighteen years in prison.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "eighteen years",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            13451,
+            13465
+          ],
+          "text": "eighteen years"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13425,
+            13434
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.690188,
+      "sentence": "Their sixteen year old accomplice Jason was only two weeks shy of his seventeenth birthday when he committed the crime as a result he was tried and convicted as a juvenile and was sentenced to spend time in the facility for young offenders he has since been released.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jason",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13608,
+            13610
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13625,
+            13634
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.53554,
+      "sentence": "Their sixteen year old accomplice Jason was only two weeks shy of his seventeenth birthday when he committed the crime as a result he was tried and convicted as a juvenile and was sentenced to spend time in the facility for young offenders he has since been released.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jason",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13608,
+            13610
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "facility",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13640,
+            13648
+          ],
+          "text": "juvenile"
+        }
+      ]
+    },
+    {
+      "score": 0.440795,
+      "sentence": "Their sixteen year old accomplice Jason was only two weeks shy of his seventeenth birthday when he committed the crime as a result he was tried and convicted as a juvenile and was sentenced to spend time in the facility for young offenders he has since been released.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jason",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13608,
+            13610
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13657,
+            13666
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.230902,
+      "sentence": "Their sixteen year old accomplice Jason was only two weeks shy of his seventeenth birthday when he committed the crime as a result he was tried and convicted as a juvenile and was sentenced to spend time in the facility for young offenders he has since been released.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "offenders",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13707,
+            13716
+          ],
+          "text": "offenders"
+        },
+        {
+          "entities": [
+            {
+              "text": "facility",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13688,
+            13696
+          ],
+          "text": "facility"
+        }
+      ]
+    },
+    {
+      "score": 0.593109,
+      "sentence": "Shortly after this case law enforcement in Switzerland solve the murder of a young boy using diet Tom evidence the boy had drowned and the species of diet toms in the victim's lungs match the species of diet Tom's found on the gas pedal of the suspects automobiles.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14309,
+            14313
+          ],
+          "text": "case"
+        },
+        {
+          "entities": [
+            {
+              "text": "Switzerland",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14333,
+            14344
+          ],
+          "text": "Switzerland"
+        }
+      ]
+    },
+    {
+      "score": 0.342724,
+      "sentence": "Shortly after this case law enforcement in Switzerland solve the murder of a young boy using diet Tom evidence the boy had drowned and the species of diet toms in the victim's lungs match the species of diet Tom's found on the gas pedal of the suspects automobiles.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bacardi",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14373,
+            14376
+          ],
+          "text": "boy"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            14355,
+            14361
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.625596,
+      "sentence": "Who had tried to murder Steven and Bobby.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Who",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2202,
+            2205
+          ],
+          "text": "Who"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            2219,
+            2225
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.734414,
+      "sentence": "Both cases were solved because a group of Connecticut detectives had a hunch that some mud on the bottom of the issue my tie a suspect to a crime.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14610,
+            14620
+          ],
+          "text": "detectives"
+        },
+        {
+          "entities": [
+            {
+              "text": "Connecticut",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14598,
+            14609
+          ],
+          "text": "Connecticut"
+        }
+      ]
+    },
+    {
+      "score": 0.76842,
+      "sentence": "But you got to be aware of the sciences that are there to help you if you don't you're giving yourself a lot of thoughts that would kind of across the came up with we always thought were unusual but nine of the ten times he was right I have to say ninety nine point eight percent of the time he was right for.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14937,
+            14938
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14947,
+            14950
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.392476,
+      "sentence": "Who had tried to murder Steven and Bobby.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stevens",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2226,
+            2232
+          ],
+          "text": "Steven"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            2219,
+            2225
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.557161,
+      "sentence": "Even though Steven and Bobby's bicycles were stolen after the assault police and prosecutors do not believe robbery was the motive.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stevens",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11795,
+            11801
+          ],
+          "text": "Steven"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11828,
+            11834
+          ],
+          "text": "stolen"
+        }
+      ]
+    },
+    {
+      "score": 0.993548,
+      "sentence": "Watford police detective Donald McCarthy was assigned to investigate the assault and attempted murder of the two young boys at stingers pond.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2252,
+            2258
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "Watford",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2244,
+            2251
+          ],
+          "text": "Watford"
+        }
+      ]
+    },
+    {
+      "score": 0.949567,
+      "sentence": "Watford police detective Donald McCarthy was assigned to investigate the assault and attempted murder of the two young boys at stingers pond.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detective",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2259,
+            2268
+          ],
+          "text": "detective"
+        },
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2252,
+            2258
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.936973,
+      "sentence": "Watford police detective Donald McCarthy was assigned to investigate the assault and attempted murder of the two young boys at stingers pond.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald McCarthy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2269,
+            2284
+          ],
+          "text": "Donald McCarthy"
+        },
+        {
+          "entities": [
+            {
+              "text": "detective",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2259,
+            2268
+          ],
+          "text": "detective"
+        }
+      ]
+    },
+    {
+      "score": 0.503009,
+      "sentence": "Watford police detective Donald McCarthy was assigned to investigate the assault and attempted murder of the two young boys at stingers pond.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Donald McCarthy",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2269,
+            2284
+          ],
+          "text": "Donald McCarthy"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            2339,
+            2345
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.458303,
+      "sentence": "Watford police detective Donald McCarthy was assigned to investigate the assault and attempted murder of the two young boys at stingers pond.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "perpetrators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2363,
+            2367
+          ],
+          "text": "boys"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            2339,
+            2345
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.711009,
+      "sentence": "Thirteen year old Steven was fighting for his life the victim not only of an attempted drowning but of massive head wounds.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stevens",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2404,
+            2410
+          ],
+          "text": "Steven"
+        },
+        {
+          "entities": [
+            {
+              "text": "violence",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            2415,
+            2423
+          ],
+          "text": "fighting"
+        }
+      ]
+    },
+    {
+      "score": 0.661582,
+      "sentence": "One of the doctors had told one of my detectives at the time that was the closest he had ever seen anybody come to drowning in not being dead.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2521,
+            2528
+          ],
+          "text": "doctors"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2533,
+            2537
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.524607,
+      "sentence": "Waterford a small Connecticut town where the water table is so high homes are built around numerous small ponds and lakes.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "homes",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            350,
+            355
+          ],
+          "text": "where"
+        },
+        {
+          "entities": [
+            {
+              "text": "Connecticut",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            345,
+            349
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.493228,
+      "sentence": "One of the doctors had told one of my detectives at the time that was the closest he had ever seen anybody come to drowning in not being dead.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stevens",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2545,
+            2547
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2548,
+            2558
+          ],
+          "text": "detectives"
+        }
+      ]
+    },
+    {
+      "score": 0.393985,
+      "sentence": "I think the remarkable thing is yet the presence of mind to immediately go to his friend it had pulled his friend from the water there's no doubt in our minds if he did not.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bobby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2916,
+            2922
+          ],
+          "text": "friend"
+        },
+        {
+          "entities": [
+            {
+              "text": "it",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2923,
+            2925
+          ],
+          "text": "it"
+        }
+      ]
+    },
+    {
+      "score": 0.980146,
+      "sentence": "Police talked to residents of the neighborhood closest to stingers pond to see if they had seen anything unusual.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3851,
+            3857
+          ],
+          "text": "Police"
+        },
+        {
+          "entities": [
+            {
+              "text": "talked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3858,
+            3864
+          ],
+          "text": "talked"
+        }
+      ]
+    },
+    {
+      "score": 0.883991,
+      "sentence": "Police talked to residents of the neighborhood closest to stingers pond to see if they had seen anything unusual.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "residents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3868,
+            3877
+          ],
+          "text": "residents"
+        },
+        {
+          "entities": [
+            {
+              "text": "talked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3858,
+            3864
+          ],
+          "text": "talked"
+        }
+      ]
+    },
+    {
+      "score": 0.44271,
+      "sentence": "Police talked to residents of the neighborhood closest to stingers pond to see if they had seen anything unusual.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "residents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3868,
+            3877
+          ],
+          "text": "residents"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            3885,
+            3897
+          ],
+          "text": "neighborhood"
+        }
+      ]
+    },
+    {
+      "score": 0.553833,
+      "sentence": "Susan the card came forward to say that earlier on the day of the attack.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "the day",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            4016,
+            4023
+          ],
+          "text": "the day"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            4031,
+            4037
+          ],
+          "text": "attack"
+        }
+      ]
+    },
+    {
+      "score": 0.5061,
+      "sentence": "Yeah I was walking down the street.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "teenager",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4121,
+            4122
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "street",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4144,
+            4150
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.995878,
+      "sentence": "When I began to feel like heading home we may I come in and get something to eat he said he wasn't feeling well he was a diabetic and was in need of something whether it was sugar or.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "him",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4233,
+            4235
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4236,
+            4240
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.998729,
+      "sentence": "A few minutes later he said he was feeling better thanked her and left because I can call the doctor no no I'm fine thanks.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "him",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4513,
+            4515
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4516,
+            4520
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.627716,
+      "sentence": "A few minutes later he said he was feeling better thanked her and left because I can call the doctor no no I'm fine thanks.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "few minutes later",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            4495,
+            4512
+          ],
+          "text": "few minutes later"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4516,
+            4520
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.964659,
+      "sentence": "A few minutes later he said he was feeling better thanked her and left because I can call the doctor no no I'm fine thanks.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "teenager",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4572,
+            4573
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "call",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4578,
+            4582
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.965391,
+      "sentence": "In nineteen ninety one two boys will call Steven and Bobby decided to spend their afternoon fishing at their favorite spot stingers pond.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "perpetrators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            465,
+            469
+          ],
+          "text": "boys"
+        },
+        {
+          "entities": [
+            {
+              "text": "call",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            475,
+            479
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.900856,
+      "sentence": "A few minutes later he said he was feeling better thanked her and left because I can call the doctor no no I'm fine thanks.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4587,
+            4593
+          ],
+          "text": "doctor"
+        },
+        {
+          "entities": [
+            {
+              "text": "call",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4578,
+            4582
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.361668,
+      "sentence": "She saw something unusual in her bathroom mirror.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "teenager",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4695,
+            4698
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "bathroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4699,
+            4707
+          ],
+          "text": "bathroom"
+        }
+      ]
+    },
+    {
+      "score": 0.811678,
+      "sentence": "a red headed boy and another half American young man.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4931,
+            4934
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "American",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4916,
+            4924
+          ],
+          "text": "American"
+        }
+      ]
+    },
+    {
+      "score": 0.218122,
+      "sentence": "And they were later joined by the young man who just left Mrs the card is home she gave me orange juice futures.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "teenager",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5015,
+            5018
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5010,
+            5014
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.326894,
+      "sentence": "I automatically panicked in new whatever the F. plan was not going to happen in my house so I yelled out the window to them.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "teenager",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5210,
+            5212
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5213,
+            5218
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.969774,
+      "sentence": "I think you believe it's obvious that you're planning something or Europe to travel or and I'm calling the police so if you know what's good for you then you better get going.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "teenager",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5346,
+            5347
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "calling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5350,
+            5357
+          ],
+          "text": "calling"
+        }
+      ]
+    },
+    {
+      "score": 0.873399,
+      "sentence": "I think you believe it's obvious that you're planning something or Europe to travel or and I'm calling the police so if you know what's good for you then you better get going.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5362,
+            5368
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "calling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5350,
+            5357
+          ],
+          "text": "calling"
+        }
+      ]
+    },
+    {
+      "score": 0.866336,
+      "sentence": "The card told us two things that that stood out one he was wearing eye glasses and describe those eye glasses to us the other was hit on an usual shaped scar a U.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "youngsters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5533,
+            5535
+          ],
+          "text": "us"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5528,
+            5532
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.338004,
+      "sentence": "Since the perpetrators were apparently on foot police check the neighborhoods nearest to Stanger spawned.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5761,
+            5767
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhoods",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5778,
+            5791
+          ],
+          "text": "neighborhoods"
+        }
+      ]
+    },
+    {
+      "score": 0.798936,
+      "sentence": "He put officers in that neighborhood and started doing neighborhood campuses and that based on the description of the three suspects as a result we were able to identify the suspect immediately.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5827,
+            5835
+          ],
+          "text": "officers"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5844,
+            5856
+          ],
+          "text": "neighborhood"
+        }
+      ]
+    },
+    {
+      "score": 0.860686,
+      "sentence": "Stephen was rushed to the emergency room at Lawrence and Memorial Hospital.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephens",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1818,
+            1825
+          ],
+          "text": "Stephen"
+        },
+        {
+          "entities": [
+            {
+              "text": "emergency room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1844,
+            1858
+          ],
+          "text": "emergency room"
+        }
+      ]
+    },
+    {
+      "score": 0.467844,
+      "sentence": "Our neighborhood informants identified the two friends Davis spent the most time with.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspects sneakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6131,
+            6141
+          ],
+          "text": "informants"
+        },
+        {
+          "entities": [
+            {
+              "text": "Our",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6114,
+            6117
+          ],
+          "text": "Our"
+        }
+      ]
+    },
+    {
+      "score": 0.543196,
+      "sentence": "Our neighborhood informants identified the two friends Davis spent the most time with.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspects sneakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6131,
+            6141
+          ],
+          "text": "informants"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            6118,
+            6130
+          ],
+          "text": "neighborhood"
+        }
+      ]
+    },
+    {
+      "score": 0.788109,
+      "sentence": "One was seventeen year old Christopher green the other was an African American juvenile whom we'll call Jason.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "American",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6271,
+            6279
+          ],
+          "text": "American"
+        },
+        {
+          "entities": [
+            {
+              "text": "suspects sneakers",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6263,
+            6270
+          ],
+          "text": "African"
+        }
+      ]
+    },
+    {
+      "score": 0.841663,
+      "sentence": "One was seventeen year old Christopher green the other was an African American juvenile whom we'll call Jason.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspects sneakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6294,
+            6296
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "calling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6300,
+            6304
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.644749,
+      "sentence": "One was seventeen year old Christopher green the other was an African American juvenile whom we'll call Jason.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jason",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6305,
+            6310
+          ],
+          "text": "Jason"
+        },
+        {
+          "entities": [
+            {
+              "text": "calling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6300,
+            6304
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.485924,
+      "sentence": "In Christopher green's house.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ryan Davis Christopher",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6427,
+            6438
+          ],
+          "text": "Christopher"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6447,
+            6452
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.786546,
+      "sentence": "He'S found a knife like the one Bobby had told them about.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ryan Davis Christopher",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6454,
+            6456
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "suspects sneakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6501,
+            6505
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.476793,
+      "sentence": "The microscopic diet Tom evidence on Christopher green sneakers so simple and purpose so magnificent and design and so potent as evidence.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ryan Davis Christopher",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13782,
+            13793
+          ],
+          "text": "Christopher"
+        },
+        {
+          "entities": [
+            {
+              "text": "suspects sneakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13800,
+            13808
+          ],
+          "text": "sneakers"
+        }
+      ]
+    },
+    {
+      "score": 0.722878,
+      "sentence": "He'S found a knife like the one Bobby had told them about.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bobby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6486,
+            6491
+          ],
+          "text": "Bobby"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6496,
+            6500
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.827768,
+      "sentence": "He'S found a knife like the one Bobby had told them about.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bobby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6486,
+            6491
+          ],
+          "text": "Bobby"
+        },
+        {
+          "entities": [
+            {
+              "text": "suspects sneakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6501,
+            6505
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.965708,
+      "sentence": "He'S found a knife like the one Bobby had told them about.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspects sneakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6501,
+            6505
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6496,
+            6500
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.552442,
+      "sentence": "Stephen was rushed to the emergency room at Lawrence and Memorial Hospital.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stephens",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1818,
+            1825
+          ],
+          "text": "Stephen"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lawrence",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1862,
+            1870
+          ],
+          "text": "Lawrence"
+        }
+      ]
+    },
+    {
+      "score": 0.605858,
+      "sentence": "We inquired of the suspect why are these things what he was trying to tell us that it was as a result of walking through mud puddles and things like that as soon as he said that we started working on the theory that how do we attack that she's coming up with the defense this is how my clothes got wet I was playing in mud puddles and things like this.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6628,
+            6630
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "suspects sneakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6650,
+            6652
+          ],
+          "text": "us"
+        }
+      ]
+    },
+    {
+      "score": 0.996217,
+      "sentence": "We inquired of the suspect why are these things what he was trying to tell us that it was as a result of walking through mud puddles and things like that as soon as he said that we started working on the theory that how do we attack that she's coming up with the defense this is how my clothes got wet I was playing in mud puddles and things like this.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspect",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6740,
+            6742
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6743,
+            6747
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.426754,
+      "sentence": "But the answer is police turned to a new type of forensic science one that had never before been used in a criminal case anywhere in the world.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            7085,
+            7089
+          ],
+          "text": "case"
+        },
+        {
+          "entities": [
+            {
+              "text": "world",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7106,
+            7111
+          ],
+          "text": "world"
+        }
+      ]
+    },
+    {
+      "score": 0.831188,
+      "sentence": "Thirteen year old Steven the oldest of the two boys who were assaulted and left for dead in stingers pond was in intensive care for a week.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "perpetrators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7165,
+            7168
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7174,
+            7183
+          ],
+          "text": "assaulted"
+        }
+      ]
+    },
+    {
+      "score": 0.745907,
+      "sentence": "Iran six scientists found a way to prove that one of the suspects sneakers had been in the water it's stingers pond where the two young boys had been assaulted and left for dead.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "perpetrators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11123,
+            11127
+          ],
+          "text": "boys"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11137,
+            11146
+          ],
+          "text": "assaulted"
+        }
+      ]
+    },
+    {
+      "score": 0.83413,
+      "sentence": "Police have three suspects in custody.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspects",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7565,
+            7573
+          ],
+          "text": "suspects"
+        },
+        {
+          "entities": [
+            {
+              "text": "custody",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            7577,
+            7584
+          ],
+          "text": "custody"
+        }
+      ]
+    },
+    {
+      "score": 0.75017,
+      "sentence": "Ryan Davis Christopher green and the juvenile we'll call Jason.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ryan Davis Christopher",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7586,
+            7608
+          ],
+          "text": "Ryan Davis Christopher"
+        },
+        {
+          "entities": [
+            {
+              "text": "them",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7632,
+            7634
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.493427,
+      "sentence": "Police took the sneakers from green's basement but no one was sure if the mud on the soles could be used as evidence we had the shoes how do we find out now find someone who's gonna tell us what to do with this.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ryan Davis Christopher",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8003,
+            8006
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "them",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8020,
+            8022
+          ],
+          "text": "us"
+        }
+      ]
+    },
+    {
+      "score": 0.608644,
+      "sentence": "Ryan Davis Christopher green and the juvenile we'll call Jason.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ryan Davis Christopher",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7586,
+            7608
+          ],
+          "text": "Ryan Davis Christopher"
+        },
+        {
+          "entities": [
+            {
+              "text": "call",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7638,
+            7642
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.571766,
+      "sentence": "Ryan Davis Christopher green and the juvenile we'll call Jason.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "them",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7632,
+            7634
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "call",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7638,
+            7642
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.740618,
+      "sentence": "Ryan Davis Christopher green and the juvenile we'll call Jason.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jason",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7643,
+            7648
+          ],
+          "text": "Jason"
+        },
+        {
+          "entities": [
+            {
+              "text": "call",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7638,
+            7642
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.736589,
+      "sentence": "Police took the sneakers from green's basement but no one was sure if the mud on the soles could be used as evidence we had the shoes how do we find out now find someone who's gonna tell us what to do with this.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspects sneakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7849,
+            7857
+          ],
+          "text": "sneakers"
+        },
+        {
+          "entities": [
+            {
+              "text": "basement",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            7871,
+            7879
+          ],
+          "text": "basement"
+        }
+      ]
+    },
+    {
+      "score": 0.613158,
+      "sentence": "Stephen was rushed to the emergency room at Lawrence and Memorial Hospital.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "emergency room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1844,
+            1858
+          ],
+          "text": "emergency room"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lawrence",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1862,
+            1870
+          ],
+          "text": "Lawrence"
+        }
+      ]
+    },
+    {
+      "score": 0.963301,
+      "sentence": "The FBI told them of the scientist at nearby Connecticut college.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "FBI",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8188,
+            8191
+          ],
+          "text": "FBI"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8192,
+            8196
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.929782,
+      "sentence": "The FBI told them of the scientist at nearby Connecticut college.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "them",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8197,
+            8201
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8192,
+            8196
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.575605,
+      "sentence": "The FBI told them of the scientist at nearby Connecticut college.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peter Siver",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8209,
+            8218
+          ],
+          "text": "scientist"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8192,
+            8196
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.511097,
+      "sentence": "The FBI told them of the scientist at nearby Connecticut college.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peter Siver",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8209,
+            8218
+          ],
+          "text": "scientist"
+        },
+        {
+          "entities": [
+            {
+              "text": "them",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8197,
+            8201
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.531635,
+      "sentence": "The FBI told them of the scientist at nearby Connecticut college.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Peter Siver",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8209,
+            8218
+          ],
+          "text": "scientist"
+        },
+        {
+          "entities": [
+            {
+              "text": "Waterford",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8241,
+            8248
+          ],
+          "text": "college"
+        }
+      ]
+    },
+    {
+      "score": 0.928235,
+      "sentence": "The FBI told them of the scientist at nearby Connecticut college.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Waterford",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8241,
+            8248
+          ],
+          "text": "college"
+        },
+        {
+          "entities": [
+            {
+              "text": "Connecticut",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8229,
+            8240
+          ],
+          "text": "Connecticut"
+        }
+      ]
+    },
+    {
+      "score": 0.623866,
+      "sentence": "We are all going all over the United States Connecticut colleges three minutes five minutes from our police station.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8280,
+            8293
+          ],
+          "text": "United States"
+        },
+        {
+          "entities": [
+            {
+              "text": "Connecticut",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8294,
+            8305
+          ],
+          "text": "Connecticut"
+        }
+      ]
+    },
+    {
+      "score": 0.579409,
+      "sentence": "We are all going all over the United States Connecticut colleges three minutes five minutes from our police station.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "colleges",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8306,
+            8314
+          ],
+          "text": "colleges"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8280,
+            8293
+          ],
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "score": 0.698267,
+      "sentence": "We are all going all over the United States Connecticut colleges three minutes five minutes from our police station.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "colleges",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8306,
+            8314
+          ],
+          "text": "colleges"
+        },
+        {
+          "entities": [
+            {
+              "text": "Connecticut",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8294,
+            8305
+          ],
+          "text": "Connecticut"
+        }
+      ]
+    },
+    {
+      "score": 0.275182,
+      "sentence": "We are all going all over the United States Connecticut colleges three minutes five minutes from our police station.",
+      "type": "memberOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "them",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8347,
+            8350
+          ],
+          "text": "our"
+        },
+        {
+          "entities": [
+            {
+              "text": "Waterford",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8351,
+            8365
+          ],
+          "text": "police station"
+        }
+      ]
+    },
+    {
+      "score": 0.467188,
+      "sentence": "Stephen was rushed to the emergency room at Lawrence and Memorial Hospital.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "emergency room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1844,
+            1858
+          ],
+          "text": "emergency room"
+        },
+        {
+          "entities": [
+            {
+              "text": "Memorial Hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1875,
+            1892
+          ],
+          "text": "Memorial Hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.920647,
+      "sentence": "I would say that die times are pieces of art they're pieces of art because the H. di Tom can make exactly the same pattern each time it makes the missile and these patterns are very ornate they're highly artistic in their look.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tom",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9135,
+            9136
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9143,
+            9146
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.798621,
+      "sentence": "While diet Tom's may be art they can also be pieces of evidence.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tom",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9374,
+            9377
+          ],
+          "text": "Tom"
+        },
+        {
+          "entities": [
+            {
+              "text": "suspects sneakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9391,
+            9395
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.571989,
+      "sentence": "The microscopic diet Tom evidence on Christopher green sneakers so simple and purpose so magnificent and design and so potent as evidence.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tom",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13766,
+            13769
+          ],
+          "text": "Tom"
+        },
+        {
+          "entities": [
+            {
+              "text": "suspects sneakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13800,
+            13808
+          ],
+          "text": "sneakers"
+        }
+      ]
+    },
+    {
+      "score": 0.49154,
+      "sentence": "Shown here you know show are characterized by the crescent shapes of their glass shelves.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "your",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9837,
+            9840
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "characterized",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9855,
+            9868
+          ],
+          "text": "characterized"
+        }
+      ]
+    },
+    {
+      "score": 0.544767,
+      "sentence": "Christopher Greene Brian Davis and Jason were arrested and charged with assault and attempted murder.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Christopher Greene Brian Davis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10760,
+            10790
+          ],
+          "text": "Christopher Greene Brian Davis"
+        },
+        {
+          "entities": [
+            {
+              "text": "custody",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            10806,
+            10814
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.562815,
+      "sentence": "Christopher Greene Brian Davis and Jason were arrested and charged with assault and attempted murder.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Christopher Greene Brian Davis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10760,
+            10790
+          ],
+          "text": "Christopher Greene Brian Davis"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10819,
+            10826
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.832144,
+      "sentence": "Christopher Greene Brian Davis and Jason were arrested and charged with assault and attempted murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Christopher Greene Brian Davis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10760,
+            10790
+          ],
+          "text": "Christopher Greene Brian Davis"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10832,
+            10839
+          ],
+          "text": "assault"
+        }
+      ]
+    },
+    {
+      "score": 0.926005,
+      "sentence": "Christopher Greene Brian Davis and Jason were arrested and charged with assault and attempted murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Christopher Greene Brian Davis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10760,
+            10790
+          ],
+          "text": "Christopher Greene Brian Davis"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10854,
+            10860
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.910541,
+      "sentence": "Christopher Greene Brian Davis and Jason were arrested and charged with assault and attempted murder.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jason",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10795,
+            10800
+          ],
+          "text": "Jason"
+        },
+        {
+          "entities": [
+            {
+              "text": "custody",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            10806,
+            10814
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.511565,
+      "sentence": "Christopher Greene Brian Davis and Jason were arrested and charged with assault and attempted murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jason",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10795,
+            10800
+          ],
+          "text": "Jason"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10832,
+            10839
+          ],
+          "text": "assault"
+        }
+      ]
+    },
+    {
+      "score": 0.844073,
+      "sentence": "Christopher Greene Brian Davis and Jason were arrested and charged with assault and attempted murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jason",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10795,
+            10800
+          ],
+          "text": "Jason"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10854,
+            10860
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.50068,
+      "sentence": "Dr John urban Nettie was Stevens Dr. Despite the number of people that I've seen with this kind of circumstance he came as close as I've ever seen anyone come to not surviving.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stevens",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1919,
+            1926
+          ],
+          "text": "Stevens"
+        },
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1953,
+            1959
+          ],
+          "text": "people"
+        }
+      ]
+    },
+    {
+      "score": 0.498102,
+      "sentence": "But the question now turned to motive why did they attack the two young boys and was there another intended victim that day.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "perpetrators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10908,
+            10912
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            10913,
+            10919
+          ],
+          "text": "attack"
+        }
+      ]
+    },
+    {
+      "score": 0.763986,
+      "sentence": "But the question now turned to motive why did they attack the two young boys and was there another intended victim that day.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "perpetrators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10934,
+            10938
+          ],
+          "text": "boys"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            10913,
+            10919
+          ],
+          "text": "attack"
+        }
+      ]
+    },
+    {
+      "score": 0.523199,
+      "sentence": "Iran six scientists found a way to prove that one of the suspects sneakers had been in the water it's stingers pond where the two young boys had been assaulted and left for dead.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspects sneakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10996,
+            11006
+          ],
+          "text": "scientists"
+        },
+        {
+          "entities": [
+            {
+              "text": "Iran",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10987,
+            10991
+          ],
+          "text": "Iran"
+        }
+      ]
+    },
+    {
+      "score": 0.860744,
+      "sentence": "Iran six scientists found a way to prove that one of the suspects sneakers had been in the water it's stingers pond where the two young boys had been assaulted and left for dead.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            11033,
+            11036
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "suspects sneakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11044,
+            11061
+          ],
+          "text": "suspects sneakers"
+        }
+      ]
+    },
+    {
+      "score": 0.457944,
+      "sentence": "The forensic analysis showed that when Christopher green went into the water to strike his victims he got mud on his shoes mod that contained the microscopic finger print of the water in stingers pond.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ryan Davis Christopher",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11440,
+            11451
+          ],
+          "text": "Christopher"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            11481,
+            11487
+          ],
+          "text": "strike"
+        }
+      ]
+    },
+    {
+      "score": 0.855149,
+      "sentence": "The forensic analysis showed that when Christopher green went into the water to strike his victims he got mud on his shoes mod that contained the microscopic finger print of the water in stingers pond.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "victims",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11492,
+            11499
+          ],
+          "text": "victims"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            11481,
+            11487
+          ],
+          "text": "strike"
+        }
+      ]
+    },
+    {
+      "score": 0.720342,
+      "sentence": "The diet Tom's in that much clearly tied him to the crime scene.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ryan Davis Christopher",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11644,
+            11647
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            11661,
+            11666
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.618162,
+      "sentence": "Even though Steven and Bobby's bicycles were stolen after the assault police and prosecutors do not believe robbery was the motive.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bobby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11806,
+            11811
+          ],
+          "text": "Bobby"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11828,
+            11834
+          ],
+          "text": "stolen"
+        }
+      ]
+    },
+    {
+      "score": 0.505994,
+      "sentence": "Even though Steven and Bobby's bicycles were stolen after the assault police and prosecutors do not believe robbery was the motive.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11864,
+            11875
+          ],
+          "text": "prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11828,
+            11834
+          ],
+          "text": "stolen"
+        }
+      ]
+    },
+    {
+      "score": 0.368095,
+      "sentence": "Even though Steven and Bobby's bicycles were stolen after the assault police and prosecutors do not believe robbery was the motive.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11853,
+            11859
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            11845,
+            11852
+          ],
+          "text": "assault"
+        }
+      ]
+    },
+    {
+      "score": 0.965945,
+      "sentence": "As Stephen lay in intensive care doctors questioned whether he would live or die.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2104,
+            2111
+          ],
+          "text": "doctors"
+        },
+        {
+          "entities": [
+            {
+              "text": "questioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2112,
+            2122
+          ],
+          "text": "questioned"
+        }
+      ]
+    },
+    {
+      "score": 0.434384,
+      "sentence": "As a result of interviewing in the the three after their arrest.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspects sneakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12035,
+            12040
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "custody",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            12041,
+            12047
+          ],
+          "text": "arrest"
+        }
+      ]
+    },
+    {
+      "score": 0.374539,
+      "sentence": "They went out that day to look to kill somebody there's no doubt in my mind.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "somebody",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12088,
+            12096
+          ],
+          "text": "somebody"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            12083,
+            12087
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.899734,
+      "sentence": "Brian Davis did not have diabetes as he claimed but only used it as an excuse to gain entry to her home.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Christopher Greene Brian Davis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12205,
+            12216
+          ],
+          "text": "Brian Davis"
+        },
+        {
+          "entities": [
+            {
+              "text": "diabetes",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            12230,
+            12238
+          ],
+          "text": "diabetes"
+        }
+      ]
+    },
+    {
+      "score": 0.995397,
+      "sentence": "Brian Davis did not have diabetes as he claimed but only used it as an excuse to gain entry to her home.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Christopher Greene Brian Davis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12242,
+            12244
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "claimed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12245,
+            12252
+          ],
+          "text": "claimed"
+        }
+      ]
+    },
+    {
+      "score": 0.427119,
+      "sentence": "Brian Davis did not have diabetes as he claimed but only used it as an excuse to gain entry to her home.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Susan Bacardi",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12300,
+            12303
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12304,
+            12308
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.814563,
+      "sentence": "When he rejoined his accomplices in Susan's backyard they may have been planning how to get into the house the real warm bells went off when I went upstairs and I sought to poison the former yard and then I sort of all put it together and then I started feeling like I was just set up.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stevens",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12327,
+            12330
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "suspects sneakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12363,
+            12367
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.844398,
+      "sentence": "When he rejoined his accomplices in Susan's backyard they may have been planning how to get into the house the real warm bells went off when I went upstairs and I sought to poison the former yard and then I sort of all put it together and then I started feeling like I was just set up.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Susan Bacardi",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12346,
+            12351
+          ],
+          "text": "Susan"
+        },
+        {
+          "entities": [
+            {
+              "text": "suspects sneakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12363,
+            12367
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.455984,
+      "sentence": "When he rejoined his accomplices in Susan's backyard they may have been planning how to get into the house the real warm bells went off when I went upstairs and I sought to poison the former yard and then I sort of all put it together and then I started feeling like I was just set up.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Stevens",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12471,
+            12472
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "yard",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12501,
+            12505
+          ],
+          "text": "yard"
+        }
+      ]
+    },
+    {
+      "score": 0.73235,
+      "sentence": "Unfortunately Susan Bacardi saw them into a bathroom mirror and called the police.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "suspects sneakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12628,
+            12632
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "bathroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12640,
+            12648
+          ],
+          "text": "bathroom"
+        }
+      ]
+    },
+    {
+      "score": 0.94836,
+      "sentence": "Police determined that Christopher green the only one of the defendants with a history of violence instigated the attacks.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            13034,
+            13037
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "suspects sneakers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13045,
+            13055
+          ],
+          "text": "defendants"
+        }
+      ]
+    }
+  ]
+}

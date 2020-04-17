@@ -1,0 +1,5471 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 16601,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Denise Johnson",
+      "relevance": 0.965891,
+      "confidence": 1,
+      "count": 17
+    },
+    {
+      "type": "Person",
+      "text": "Mark Bogan",
+      "relevance": 0.62436,
+      "confidence": 1,
+      "count": 13
+    },
+    {
+      "type": "Person",
+      "text": "Bogan",
+      "relevance": 0.370802,
+      "confidence": 1,
+      "count": 15
+    },
+    {
+      "type": "Person",
+      "text": "Charlie Norton",
+      "relevance": 0.271283,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Phoenix",
+      "relevance": 0.223169,
+      "confidence": 1,
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Dr Helen Jarris",
+      "relevance": 0.192051,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Location",
+      "text": "Palo Verde",
+      "relevance": 0.147193,
+      "confidence": 0.942287,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Helen Jarris",
+      "relevance": 0.143828,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "sheriff's department",
+      "relevance": 0.12511,
+      "confidence": 0.439705,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "30 year",
+      "relevance": 0.119098,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Alan Jeffries",
+      "relevance": 0.077801,
+      "confidence": 0.725448,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Denise",
+      "relevance": 0.075508,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Arizona sheriff's department",
+      "relevance": 0.071047,
+      "confidence": 0.457758,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Maricopa county",
+      "relevance": 0.052489,
+      "confidence": 0.993084,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "relevance": 0.048215,
+      "confidence": 0.999952,
+      "count": 2,
+      "disambiguation": {
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Arizona",
+      "relevance": 0.047223,
+      "confidence": 1,
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "University of Arizona",
+      "relevance": 0.042972,
+      "confidence": 0.833598,
+      "count": 1,
+      "disambiguation": {
+        "name": "University_of_Arizona",
+        "dbpedia_resource": "http://dbpedia.org/resource/University_of_Arizona",
+        "subtype": [
+          "Location",
+          "CollegeUniversity",
+          "University"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Norton",
+      "relevance": 0.037256,
+      "confidence": 0.993321,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Tucson",
+      "relevance": 0.035462,
+      "confidence": 0.99363,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Charlie",
+      "relevance": 0.033299,
+      "confidence": 0.998278,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Judge Bolton",
+      "relevance": 0.032856,
+      "confidence": 0.776737,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jeffrey",
+      "relevance": 0.032809,
+      "confidence": 0.999069,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Johnson",
+      "relevance": 0.015596,
+      "confidence": 0.999996,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "3 days",
+      "relevance": 0.015028,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bolton",
+      "relevance": 0.014426,
+      "confidence": 0.539746,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "18 minutes",
+      "relevance": 0.009884,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mark",
+      "relevance": 0.007488,
+      "confidence": 0.99974,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "25 years",
+      "relevance": 0.001902,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one day",
+      "relevance": 0.000054,
+      "confidence": 0.8,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.964264
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.731766
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.664452
+    },
+    {
+      "label": "/society/crime/sexual offence/rape",
+      "score": 0.629415
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.625669
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.846462,
+      "sentence": "She had been beaten, bound, strangled, and possibly raped.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            112,
+            115
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "beaten",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            125,
+            131
+          ],
+          "text": "beaten"
+        }
+      ]
+    },
+    {
+      "score": 0.994135,
+      "sentence": "Denise made her living on the streets of Phoenix.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1604,
+            1610
+          ],
+          "text": "Denise"
+        },
+        {
+          "entities": [
+            {
+              "text": "made",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1611,
+            1615
+          ],
+          "text": "made"
+        }
+      ]
+    },
+    {
+      "score": 0.963217,
+      "sentence": "Bogan lived 18 minutes from the area, and his wife told police she awoke as Mark returned home just after 2:00 in the morning.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14384,
+            14390
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14379,
+            14383
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.418252,
+      "sentence": "Bogan lived 18 minutes from the area, and his wife told police she awoke as Mark returned home just after 2:00 in the morning.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14391,
+            14394
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14418,
+            14422
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.661234,
+      "sentence": "Bogan lived 18 minutes from the area, and his wife told police she awoke as Mark returned home just after 2:00 in the morning.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14404,
+            14408
+          ],
+          "text": "Mark"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14418,
+            14422
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.718885,
+      "sentence": "The lost beeper, the picture frame wire, his interest in bondage, and the witness who saw a white truck in the vicinity of the crime scene the night of the murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "eyewitness",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14597,
+            14600
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            14671,
+            14677
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.694162,
+      "sentence": "There were none of those things that anybody could say were part of the victim's body found, must have been left by the victim on the defendant or on the defendant's property or vice versa.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14858,
+            14865
+          ],
+          "text": "anybody"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14872,
+            14875
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.298416,
+      "sentence": "There were none of those things that anybody could say were part of the victim's body found, must have been left by the victim on the defendant or on the defendant's property or vice versa.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14975,
+            14984
+          ],
+          "text": "defendant"
+        },
+        {
+          "entities": [
+            {
+              "text": "property",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14987,
+            14995
+          ],
+          "text": "property"
+        }
+      ]
+    },
+    {
+      "score": 0.888291,
+      "sentence": "He had admitted to the detectives that he washed his truck the next morning.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15034,
+            15044
+          ],
+          "text": "detectives"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            15018,
+            15026
+          ],
+          "text": "admitted"
+        }
+      ]
+    },
+    {
+      "score": 0.505007,
+      "sentence": "He had admitted to the detectives that he washed his truck the next morning.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "morning",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            15079,
+            15086
+          ],
+          "text": "morning"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            15018,
+            15026
+          ],
+          "text": "admitted"
+        }
+      ]
+    },
+    {
+      "score": 0.709141,
+      "sentence": "They needed evidence to place Mark at the scene, because he did have a credible story.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15164,
+            15168
+          ],
+          "text": "They"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            15206,
+            15211
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.569695,
+      "sentence": "Unable to challenge Dr Helen Jarris's findings themselves, the defense challenged the evidence, implying the pods were planted in the back of Mark's truck.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Helen Jarris pods",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15464,
+            15476
+          ],
+          "text": "Helen Jarris"
+        },
+        {
+          "entities": [
+            {
+              "text": "scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15488,
+            15498
+          ],
+          "text": "themselves"
+        }
+      ]
+    },
+    {
+      "score": 0.859999,
+      "sentence": "Denise made her living on the streets of Phoenix.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "streets",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1634,
+            1641
+          ],
+          "text": "streets"
+        },
+        {
+          "entities": [
+            {
+              "text": "Phoenix",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1645,
+            1652
+          ],
+          "text": "Phoenix"
+        }
+      ]
+    },
+    {
+      "score": 0.972404,
+      "sentence": "But investigators said the seed pods were found in Bogan's truck before samples were taken from the crime scene.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15601,
+            15614
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            15615,
+            15619
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.426094,
+      "sentence": "If I was going to plant evidence I would plant something that I know that I could match later on and and probably be a little bit more assured of a conviction.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Helen Jarris pods",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15743,
+            15744
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "plant",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            15751,
+            15756
+          ],
+          "text": "plant"
+        }
+      ]
+    },
+    {
+      "score": 0.47284,
+      "sentence": "He was sentenced to life in prison without parole for at least 25 years.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15934,
+            15936
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            15941,
+            15950
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.853888,
+      "sentence": "He was sentenced to life in prison without parole for at least 25 years.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15934,
+            15936
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            15962,
+            15968
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.522437,
+      "sentence": "He was sentenced to life in prison without parole for at least 25 years.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            15962,
+            15968
+          ],
+          "text": "prison"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            15941,
+            15950
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.667936,
+      "sentence": "He was sentenced to life in prison without parole for at least 25 years.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "at least 25 years",
+              "type": "Duration"
+            }
+          ],
+          "location": [
+            15988,
+            16005
+          ],
+          "text": "at least 25 years"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            15941,
+            15950
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.989988,
+      "sentence": "The appellate court upheld the verdict.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "appellate court",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            16011,
+            16026
+          ],
+          "text": "appellate court"
+        },
+        {
+          "entities": [
+            {
+              "text": "upheld",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            16027,
+            16033
+          ],
+          "text": "upheld"
+        }
+      ]
+    },
+    {
+      "score": 0.999157,
+      "sentence": "Mark Bogan claims he is innocent and the appeal process is continued.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16047,
+            16057
+          ],
+          "text": "Mark Bogan"
+        },
+        {
+          "entities": [
+            {
+              "text": "claims",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            16058,
+            16064
+          ],
+          "text": "claims"
+        }
+      ]
+    },
+    {
+      "score": 0.442248,
+      "sentence": "I'm trying to forget this case because I'm the only person on the planet that lost to a plant.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16156,
+            16157
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            16143,
+            16147
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.530741,
+      "sentence": "I'm trying to forget this case because I'm the only person on the planet that lost to a plant.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16169,
+            16175
+          ],
+          "text": "person"
+        },
+        {
+          "entities": [
+            {
+              "text": "Phoenix",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            16183,
+            16189
+          ],
+          "text": "planet"
+        }
+      ]
+    },
+    {
+      "score": 0.753545,
+      "sentence": "She had a history of shortchanging truck drivers in various drug deals at local truck stops, which earned her the nickname twist mama.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1654,
+            1657
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1734,
+            1739
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.486583,
+      "sentence": "I'm trying to forget this case because I'm the only person on the planet that lost to a plant.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16169,
+            16175
+          ],
+          "text": "person"
+        },
+        {
+          "entities": [
+            {
+              "text": "plant",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            16205,
+            16210
+          ],
+          "text": "plant"
+        }
+      ]
+    },
+    {
+      "score": 0.748843,
+      "sentence": "I'm trying to forget this case because I'm the only person on the planet that lost to a plant.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "plant",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            16205,
+            16210
+          ],
+          "text": "plant"
+        },
+        {
+          "entities": [
+            {
+              "text": "Phoenix",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            16183,
+            16189
+          ],
+          "text": "planet"
+        }
+      ]
+    },
+    {
+      "score": 0.792287,
+      "sentence": "But I love my daughter very much I love all my children.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16370,
+            16372
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16373,
+            16381
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.551807,
+      "sentence": "But I love my daughter very much I love all my children.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16403,
+            16405
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16406,
+            16414
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.981656,
+      "sentence": "Her friends cautioned her that her lifestyle was probably going to find her in a lot of trouble someday, and eventually it did.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1793,
+            1800
+          ],
+          "text": "friends"
+        },
+        {
+          "entities": [
+            {
+              "text": "cautioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1801,
+            1810
+          ],
+          "text": "cautioned"
+        }
+      ]
+    },
+    {
+      "score": 0.815201,
+      "sentence": "Her friends cautioned her that her lifestyle was probably going to find her in a lot of trouble someday, and eventually it did.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1811,
+            1814
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "cautioned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1801,
+            1810
+          ],
+          "text": "cautioned"
+        }
+      ]
+    },
+    {
+      "score": 0.669789,
+      "sentence": "The investigation began with the pager found lying near the body.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2014,
+            2018
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1999,
+            2004
+          ],
+          "text": "lying"
+        }
+      ]
+    },
+    {
+      "score": 0.989784,
+      "sentence": "Bogan lived 18 minutes from the area, and his wife told police she awoke as Mark returned home just after 2:00 in the morning.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14374,
+            14378
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14379,
+            14383
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.996072,
+      "sentence": "He said that on his way home from work the night before he stopped to make a phone call.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2079,
+            2081
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2082,
+            2086
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.993985,
+      "sentence": "Bogan said she asked for a ride to the interstate.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2222,
+            2227
+          ],
+          "text": "Bogan"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2228,
+            2232
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.996805,
+      "sentence": "Afterwards, as he was dropping her off, he said she attempted to steal some of his things off the dashboard.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2440,
+            2442
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2443,
+            2447
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.515879,
+      "sentence": "After a brief scuffle, he retrieved his wallet she got out and left on foot Bogan said that was the last he saw of her.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2629,
+            2634
+          ],
+          "text": "Bogan"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2635,
+            2639
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.969232,
+      "sentence": "He had admitted to the detectives that he washed his truck the next morning.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15011,
+            15013
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            15018,
+            15026
+          ],
+          "text": "admitted"
+        }
+      ]
+    },
+    {
+      "score": 0.369891,
+      "sentence": "He said that on his way home from work the night before he stopped to make a phone call.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2095,
+            2098
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2103,
+            2107
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.764279,
+      "sentence": "That's when he met Denise Johnson for the first time.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2180,
+            2182
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "interrogation",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            2183,
+            2186
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.83614,
+      "sentence": "During the interrogation of Mark Bogan, investigators noticed scratch marks on the side of his face.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2827,
+            2837
+          ],
+          "text": "Mark Bogan"
+        },
+        {
+          "entities": [
+            {
+              "text": "interrogation",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            2810,
+            2823
+          ],
+          "text": "interrogation"
+        }
+      ]
+    },
+    {
+      "score": 0.940616,
+      "sentence": "The prosecution believes that Mark Bogan met Denise Johnson at a phone booth.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13027,
+            13037
+          ],
+          "text": "Mark Bogan"
+        },
+        {
+          "entities": [
+            {
+              "text": "interrogation",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            13038,
+            13041
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.949,
+      "sentence": "That's when he met Denise Johnson for the first time.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2187,
+            2201
+          ],
+          "text": "Denise Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "interrogation",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            2183,
+            2186
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.9176,
+      "sentence": "The prosecution believes that Mark Bogan met Denise Johnson at a phone booth.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13042,
+            13056
+          ],
+          "text": "Denise Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "interrogation",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            13038,
+            13041
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.946714,
+      "sentence": "The surrounding plants would tell more about her killer than any other single piece of evidence.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "plants",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            187,
+            193
+          ],
+          "text": "plants"
+        },
+        {
+          "entities": [
+            {
+              "text": "tell",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            200,
+            204
+          ],
+          "text": "tell"
+        }
+      ]
+    },
+    {
+      "score": 0.968706,
+      "sentence": "Bogan said she asked for a ride to the interstate.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2233,
+            2236
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2237,
+            2242
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.438972,
+      "sentence": "Once inside the truck, she made some sexual advances.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2296,
+            2299
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2289,
+            2294
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.683331,
+      "sentence": "And another witness told investigators that she saw the same type of wire in the cab of his truck just a few days earlier.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13462,
+            13465
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            13510,
+            13515
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.495756,
+      "sentence": "They pulled off the road and had consensual sex in the cab of his truck.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "They",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2327,
+            2331
+          ],
+          "text": "They"
+        },
+        {
+          "entities": [
+            {
+              "text": "road",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2347,
+            2351
+          ],
+          "text": "road"
+        }
+      ]
+    },
+    {
+      "score": 0.765811,
+      "sentence": "They pulled off the road and had consensual sex in the cab of his truck.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2389,
+            2392
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2393,
+            2398
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.608626,
+      "sentence": "Meanwhile, investigators confiscated Mark Bogan's truck to look for possible evidence linking him or his truck to the crime scene.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4651,
+            4661
+          ],
+          "text": "Mark Bogan"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            4664,
+            4669
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.769941,
+      "sentence": "Meanwhile, investigators confiscated Mark Bogan's truck to look for possible evidence linking him or his truck to the crime scene.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4715,
+            4718
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            4719,
+            4724
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.675056,
+      "sentence": "Was it possible that Bogan's truck brushed against the Palo Verde tree at the crime scene, causing two beans to drop into the back of the truck?",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5081,
+            5086
+          ],
+          "text": "Bogan"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            5089,
+            5094
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.708884,
+      "sentence": "And another witness told investigators that she saw the same type of wire in the cab of his truck just a few days earlier.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13506,
+            13509
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            13510,
+            13515
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.841899,
+      "sentence": "As Bogan drove away, his truck brushed against the Palo Verde tree, leaving the abrasion.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13971,
+            13974
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            13975,
+            13980
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.808934,
+      "sentence": "Two seed pods dropped into the back of his truck.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14079,
+            14082
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            14083,
+            14088
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.804825,
+      "sentence": "He had admitted to the detectives that he washed his truck the next morning.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15060,
+            15063
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            15064,
+            15069
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.435898,
+      "sentence": "Afterwards, as he was dropping her off, he said she attempted to steal some of his things off the dashboard.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2448,
+            2451
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2443,
+            2447
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.564302,
+      "sentence": "After a brief scuffle, he retrieved his wallet she got out and left on foot Bogan said that was the last he saw of her.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2600,
+            2603
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2635,
+            2639
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.60795,
+      "sentence": "During the interrogation of Mark Bogan, investigators noticed scratch marks on the side of his face.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2839,
+            2852
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "interrogation",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            2810,
+            2823
+          ],
+          "text": "interrogation"
+        }
+      ]
+    },
+    {
+      "score": 0.958723,
+      "sentence": "The autopsy told investigators how Denise Johnson died, but provided no clues about her killer.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3548,
+            3561
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3543,
+            3547
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.984464,
+      "sentence": "And another witness told investigators that she saw the same type of wire in the cab of his truck just a few days earlier.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13443,
+            13456
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13438,
+            13442
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.898099,
+      "sentence": "The sheriff's office had not only a murder, but a mystery.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sheriff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3689,
+            3696
+          ],
+          "text": "sheriff"
+        },
+        {
+          "entities": [
+            {
+              "text": "office",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3699,
+            3705
+          ],
+          "text": "office"
+        }
+      ]
+    },
+    {
+      "score": 0.508159,
+      "sentence": "The sheriff's office had not only a murder, but a mystery.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "office",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3699,
+            3705
+          ],
+          "text": "office"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            3721,
+            3727
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.895481,
+      "sentence": "The surrounding plants would tell more about her killer than any other single piece of evidence.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            216,
+            219
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            220,
+            226
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.723246,
+      "sentence": "The autopsy told investigators how Denise Johnson died, but provided no clues about her killer.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3615,
+            3618
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            3619,
+            3625
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.711259,
+      "sentence": "On the day after police discovered Denise Johnson's body, homicide detective Charlie Norton was assigned to the case.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Charlie Norton",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3821,
+            3835
+          ],
+          "text": "Charlie Norton"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            3856,
+            3860
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.825788,
+      "sentence": "I decided that it would help me as the investigator to go out and familiarize myself with the scene where the body was found.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3940,
+            3946
+          ],
+          "text": "myself"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            3956,
+            3961
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.380374,
+      "sentence": "Denise Johnson's body was discovered in a remote part of Maricopa county, about a half an hour away from downtown Phoenix.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Maricopa county",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4045,
+            4060
+          ],
+          "text": "Maricopa county"
+        },
+        {
+          "entities": [
+            {
+              "text": "downtown",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            4093,
+            4101
+          ],
+          "text": "downtown"
+        }
+      ]
+    },
+    {
+      "score": 0.93882,
+      "sentence": "Denise Johnson's body was discovered in a remote part of Maricopa county, about a half an hour away from downtown Phoenix.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "downtown",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            4093,
+            4101
+          ],
+          "text": "downtown"
+        },
+        {
+          "entities": [
+            {
+              "text": "Phoenix",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4102,
+            4109
+          ],
+          "text": "Phoenix"
+        }
+      ]
+    },
+    {
+      "score": 0.85084,
+      "sentence": "I had parked my car on the pavement.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Charlie Norton",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4346,
+            4348
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            4349,
+            4352
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.706739,
+      "sentence": "I noticed that there is a branch that was hanging over, and when I looked at that branch I noticed that there is a fresh abrasion and I had no idea what it might mean.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Charlie Norton",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4435,
+            4436
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "branch",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4452,
+            4458
+          ],
+          "text": "branch"
+        }
+      ]
+    },
+    {
+      "score": 0.651539,
+      "sentence": "Meanwhile, investigators confiscated Mark Bogan's truck to look for possible evidence linking him or his truck to the crime scene.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            4719,
+            4724
+          ],
+          "text": "truck"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            4738,
+            4743
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.433362,
+      "sentence": "Was it possible that Bogan's truck brushed against the Palo Verde tree at the crime scene, causing two beans to drop into the back of the truck?",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            5089,
+            5094
+          ],
+          "text": "truck"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5144,
+            5149
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.694559,
+      "sentence": "The lost beeper, the picture frame wire, his interest in bondage, and the witness who saw a white truck in the vicinity of the crime scene the night of the murder.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            14613,
+            14618
+          ],
+          "text": "truck"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            14648,
+            14653
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.530685,
+      "sentence": "But investigators said the seed pods were found in Bogan's truck before samples were taken from the crime scene.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            15656,
+            15661
+          ],
+          "text": "truck"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            15703,
+            15708
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.895297,
+      "sentence": "But when investigators and police photographers looked in the back of the truck they made an interesting discovery.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "photographers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4931,
+            4944
+          ],
+          "text": "photographers"
+        },
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4924,
+            4930
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.629724,
+      "sentence": "But when investigators and police photographers looked in the back of the truck they made an interesting discovery.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4977,
+            4981
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            4971,
+            4976
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.50042,
+      "sentence": "They found two beans from the Palo Verde tree.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5013,
+            5017
+          ],
+          "text": "They"
+        },
+        {
+          "entities": [
+            {
+              "text": "Palo Verde",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5043,
+            5053
+          ],
+          "text": "Palo Verde"
+        }
+      ]
+    },
+    {
+      "score": 0.781772,
+      "sentence": "When investigators from the sheriff's department arrived at the crime scene they gathered every possible piece of evidence.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            273,
+            286
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            306,
+            316
+          ],
+          "text": "department"
+        }
+      ]
+    },
+    {
+      "score": 0.54857,
+      "sentence": "Was it possible that Bogan's truck brushed against the Palo Verde tree at the crime scene, causing two beans to drop into the back of the truck?",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            5089,
+            5094
+          ],
+          "text": "truck"
+        },
+        {
+          "entities": [
+            {
+              "text": "Palo Verde",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5115,
+            5125
+          ],
+          "text": "Palo Verde"
+        }
+      ]
+    },
+    {
+      "score": 0.663612,
+      "sentence": "The Arizona sheriff's department wanted to know if there was any way scientists could match the two seed pods found in the back of Mark Bogan's truck to the Palo Verde tree next to where they discovered Denise Johnson's body.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            7656,
+            7661
+          ],
+          "text": "truck"
+        },
+        {
+          "entities": [
+            {
+              "text": "Palo Verde",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7669,
+            7679
+          ],
+          "text": "Palo Verde"
+        }
+      ]
+    },
+    {
+      "score": 0.872921,
+      "sentence": "Was it possible that Bogan's truck brushed against the Palo Verde tree at the crime scene, causing two beans to drop into the back of the truck?",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Palo Verde",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5115,
+            5125
+          ],
+          "text": "Palo Verde"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5144,
+            5149
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.546367,
+      "sentence": "There were thousands of Palo Verde trees in the Phoenix area alone and there has never been a DNA test on this type of tree.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Palo Verde",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7762,
+            7772
+          ],
+          "text": "Palo Verde"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            7794,
+            7798
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.487022,
+      "sentence": "The problem was Palo Verde trees are very common in Arizona, there are tens of thousands of them in the Phoenix area alone.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5297,
+            5301
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5317,
+            5321
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.858473,
+      "sentence": "The problem was Palo Verde trees are very common in Arizona, there are tens of thousands of them in the Phoenix area alone.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            5317,
+            5321
+          ],
+          "text": "area"
+        },
+        {
+          "entities": [
+            {
+              "text": "Phoenix",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5309,
+            5316
+          ],
+          "text": "Phoenix"
+        }
+      ]
+    },
+    {
+      "score": 0.858473,
+      "sentence": "There were thousands of Palo Verde trees in the Phoenix area alone and there has never been a DNA test on this type of tree.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            7794,
+            7798
+          ],
+          "text": "area"
+        },
+        {
+          "entities": [
+            {
+              "text": "Phoenix",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7786,
+            7793
+          ],
+          "text": "Phoenix"
+        }
+      ]
+    },
+    {
+      "score": 0.258643,
+      "sentence": "Charlie Norton's boss had an idea.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Charlie Norton",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5329,
+            5343
+          ],
+          "text": "Charlie Norton"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigator",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5346,
+            5350
+          ],
+          "text": "boss"
+        }
+      ]
+    },
+    {
+      "score": 0.53113,
+      "sentence": "To see if DNA testing could match the bean pods from Bogan's truck to the tree with the abrasion at the crime scene.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5417,
+            5422
+          ],
+          "text": "Bogan"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            5425,
+            5430
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.615283,
+      "sentence": "The Arizona sheriff's department wanted to know if there was any way scientists could match the two seed pods found in the back of Mark Bogan's truck to the Palo Verde tree next to where they discovered Denise Johnson's body.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7643,
+            7653
+          ],
+          "text": "Mark Bogan"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            7656,
+            7661
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.534826,
+      "sentence": "The two pods found in Mark Bogan's truck matched each other.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9717,
+            9727
+          ],
+          "text": "Mark Bogan"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9730,
+            9735
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.738255,
+      "sentence": "He had admitted to the detectives that he washed his truck the next morning.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15050,
+            15052
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            15064,
+            15069
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.857407,
+      "sentence": "He got rid of all the evidence in the truck except for two Palo Verde pods.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15088,
+            15090
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            15126,
+            15131
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.497127,
+      "sentence": "Unable to challenge Dr Helen Jarris's findings themselves, the defense challenged the evidence, implying the pods were planted in the back of Mark's truck.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15583,
+            15587
+          ],
+          "text": "Mark"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            15590,
+            15595
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.688278,
+      "sentence": "But investigators said the seed pods were found in Bogan's truck before samples were taken from the crime scene.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15648,
+            15653
+          ],
+          "text": "Bogan"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            15656,
+            15661
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.994945,
+      "sentence": "I suggested to Charlie at the time I said you know this will be a real good idea if we could find someone somewhere in the United States that is involved in DNA testing plants.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5481,
+            5482
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "suggested",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5483,
+            5492
+          ],
+          "text": "suggested"
+        }
+      ]
+    },
+    {
+      "score": 0.598912,
+      "sentence": "I suggested to Charlie at the time I said you know this will be a real good idea if we could find someone somewhere in the United States that is involved in DNA testing plants.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Charlie Norton",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5496,
+            5503
+          ],
+          "text": "Charlie"
+        },
+        {
+          "entities": [
+            {
+              "text": "suggested",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5483,
+            5492
+          ],
+          "text": "suggested"
+        }
+      ]
+    },
+    {
+      "score": 0.991398,
+      "sentence": "I suggested to Charlie at the time I said you know this will be a real good idea if we could find someone somewhere in the United States that is involved in DNA testing plants.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5516,
+            5517
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5518,
+            5522
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.658718,
+      "sentence": "I suggested to Charlie at the time I said you know this will be a real good idea if we could find someone somewhere in the United States that is involved in DNA testing plants.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "someone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5579,
+            5586
+          ],
+          "text": "someone"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5604,
+            5617
+          ],
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "score": 0.838606,
+      "sentence": "When investigators from the sheriff's department arrived at the crime scene they gathered every possible piece of evidence.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sheriff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            296,
+            303
+          ],
+          "text": "sheriff"
+        },
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            306,
+            316
+          ],
+          "text": "department"
+        }
+      ]
+    },
+    {
+      "score": 0.827833,
+      "sentence": "The Arizona sheriff's department wanted to know if there was any way scientists could match the two seed pods found in the back of Mark Bogan's truck to the Palo Verde tree next to where they discovered Denise Johnson's body.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sheriff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7524,
+            7531
+          ],
+          "text": "sheriff"
+        },
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7534,
+            7544
+          ],
+          "text": "department"
+        }
+      ]
+    },
+    {
+      "score": 0.615852,
+      "sentence": "Norton started working the phones, calling scientists all over the United States.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Charlie Norton",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5724,
+            5730
+          ],
+          "text": "Norton"
+        },
+        {
+          "entities": [
+            {
+              "text": "calling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5759,
+            5766
+          ],
+          "text": "calling"
+        }
+      ]
+    },
+    {
+      "score": 0.953164,
+      "sentence": "Norton started working the phones, calling scientists all over the United States.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5767,
+            5777
+          ],
+          "text": "scientists"
+        },
+        {
+          "entities": [
+            {
+              "text": "calling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5759,
+            5766
+          ],
+          "text": "calling"
+        }
+      ]
+    },
+    {
+      "score": 0.817843,
+      "sentence": "Ironically just a hundred miles away at the University of Arizona in Tucson.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "University of Arizona",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6047,
+            6068
+          ],
+          "text": "University of Arizona"
+        },
+        {
+          "entities": [
+            {
+              "text": "Tucson",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6072,
+            6078
+          ],
+          "text": "Tucson"
+        }
+      ]
+    },
+    {
+      "score": 0.86588,
+      "sentence": "In the early 1980's, Dr Alan Jeffries, a British scientist discovered a test that made it possible to identify an individual's DNA profile.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Alan Jeffries",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6663,
+            6672
+          ],
+          "text": "scientist"
+        },
+        {
+          "entities": [
+            {
+              "text": "British",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6655,
+            6662
+          ],
+          "text": "British"
+        }
+      ]
+    },
+    {
+      "score": 0.489844,
+      "sentence": "Jeffrey's breakthrough technique was first used in a criminal case in 1986.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jeffrey",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6754,
+            6761
+          ],
+          "text": "Jeffrey"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6816,
+            6820
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.823429,
+      "sentence": "Jeffrey's breakthrough technique was first used in a criminal case in 1986.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "1986",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            6824,
+            6828
+          ],
+          "text": "1986"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6816,
+            6820
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.543024,
+      "sentence": "Prosecutors had circumstantial evidence linking Mark Bogan to Denise Johnson's murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7234,
+            7248
+          ],
+          "text": "Denise Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7251,
+            7257
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.822092,
+      "sentence": "The scientists had no idea that their research would be the cornerstone of the murder case.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7452,
+            7457
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7499,
+            7505
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.789704,
+      "sentence": "The Arizona sheriff's department wanted to know if there was any way scientists could match the two seed pods found in the back of Mark Bogan's truck to the Palo Verde tree next to where they discovered Denise Johnson's body.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sheriff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7524,
+            7531
+          ],
+          "text": "sheriff"
+        },
+        {
+          "entities": [
+            {
+              "text": "Arizona",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7516,
+            7523
+          ],
+          "text": "Arizona"
+        }
+      ]
+    },
+    {
+      "score": 0.897997,
+      "sentence": "We had to learn how to do the analysis so that we could say do trees look different from each other in the species?",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7910,
+            7912
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7919,
+            7922
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.603289,
+      "sentence": "A fingerprint search identified the victim as 30 year old Denise Johnson, a single mother of two young children.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1110,
+            1116
+          ],
+          "text": "victim"
+        },
+        {
+          "entities": [
+            {
+              "text": "30 year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            1120,
+            1131
+          ],
+          "text": "30 year old"
+        }
+      ]
+    },
+    {
+      "score": 0.275992,
+      "sentence": "And they also match the pods taken from the tree at the crime scene, the tree next to where Denise Johnson's body was discovered.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9848,
+            9862
+          ],
+          "text": "Denise Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9865,
+            9869
+          ],
+          "text": "body"
+        }
+      ]
+    },
+    {
+      "score": 0.547645,
+      "sentence": "He was able to take the original samples take a part of the samples from the pick up truck, determined that those two pods came from the very same tree.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "him",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10177,
+            10179
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10262,
+            10267
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.354032,
+      "sentence": "They needed to show a potential judge and jury that all of the Palo Verde trees in Arizona had a different DNA profile.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "jury",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10660,
+            10664
+          ],
+          "text": "jury"
+        },
+        {
+          "entities": [
+            {
+              "text": "Palo Verde",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10681,
+            10691
+          ],
+          "text": "Palo Verde"
+        }
+      ]
+    },
+    {
+      "score": 0.601747,
+      "sentence": "They needed to show a potential judge and jury that all of the Palo Verde trees in Arizona had a different DNA profile.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Palo Verde",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10681,
+            10691
+          ],
+          "text": "Palo Verde"
+        },
+        {
+          "entities": [
+            {
+              "text": "Arizona",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10701,
+            10708
+          ],
+          "text": "Arizona"
+        }
+      ]
+    },
+    {
+      "score": 0.752901,
+      "sentence": "So the district attorney sent Helen Jarris pods from 100 different trees asking her to prove that each had a separate and distinct DNA profile.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "attorney",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10754,
+            10762
+          ],
+          "text": "attorney"
+        },
+        {
+          "entities": [
+            {
+              "text": "district",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10745,
+            10753
+          ],
+          "text": "district"
+        }
+      ]
+    },
+    {
+      "score": 0.519012,
+      "sentence": "So the district attorney sent Helen Jarris pods from 100 different trees asking her to prove that each had a separate and distinct DNA profile.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Helen Jarris pods",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10818,
+            10821
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "asking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10811,
+            10817
+          ],
+          "text": "asking"
+        }
+      ]
+    },
+    {
+      "score": 0.576544,
+      "sentence": "I did not tell Dr Helen Jarris that I had gone back out to the scene, had a deputy take a sample from the same tree.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Helen Jarris pods",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10954,
+            10955
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            10981,
+            10986
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.352372,
+      "sentence": "Dr Helen Jarris proved that each of the pods had a different DNA profile, and he also discovered the prosecution's trick.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "him",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11141,
+            11143
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "prosecution",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11164,
+            11175
+          ],
+          "text": "prosecution"
+        }
+      ]
+    },
+    {
+      "score": 0.979584,
+      "sentence": "I called him and I was a little concerned because you know well we could tell all these trees apart and so forth.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Helen Jarris pods",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11185,
+            11186
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11187,
+            11193
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.858324,
+      "sentence": "I called him and I was a little concerned because you know well we could tell all these trees apart and so forth.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "him",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11194,
+            11197
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11187,
+            11193
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.866645,
+      "sentence": "A fingerprint search identified the victim as 30 year old Denise Johnson, a single mother of two young children.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1132,
+            1146
+          ],
+          "text": "Denise Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "30 year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            1120,
+            1131
+          ],
+          "text": "30 year old"
+        }
+      ]
+    },
+    {
+      "score": 0.788316,
+      "sentence": "I called him and I was a little concerned because you know well we could tell all these trees apart and so forth.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Helen Jarris pods",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11202,
+            11203
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11249,
+            11251
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.966548,
+      "sentence": "Police arrested Mark Bogan and charged him for the murder of Denise Johnson.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11591,
+            11597
+          ],
+          "text": "Police"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrested",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            11598,
+            11606
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.741169,
+      "sentence": "Police arrested Mark Bogan and charged him for the murder of Denise Johnson.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11591,
+            11597
+          ],
+          "text": "Police"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11622,
+            11629
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.992853,
+      "sentence": "Police arrested Mark Bogan and charged him for the murder of Denise Johnson.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11607,
+            11617
+          ],
+          "text": "Mark Bogan"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrested",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            11598,
+            11606
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.892632,
+      "sentence": "Police arrested Mark Bogan and charged him for the murder of Denise Johnson.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "him",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11630,
+            11633
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11622,
+            11629
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.689489,
+      "sentence": "Police arrested Mark Bogan and charged him for the murder of Denise Johnson.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "him",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11630,
+            11633
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11642,
+            11648
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.511364,
+      "sentence": "Police arrested Mark Bogan and charged him for the murder of Denise Johnson.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11652,
+            11666
+          ],
+          "text": "Denise Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11642,
+            11648
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.603845,
+      "sentence": "For 3 days, without a jury on hand, lawyers and scientists argued whether plant DNA should be admitted into a criminal trial for the first time ever.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "jury",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12090,
+            12094
+          ],
+          "text": "jury"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12127,
+            12133
+          ],
+          "text": "argued"
+        }
+      ]
+    },
+    {
+      "score": 0.953896,
+      "sentence": "For 3 days, without a jury on hand, lawyers and scientists argued whether plant DNA should be admitted into a criminal trial for the first time ever.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12116,
+            12126
+          ],
+          "text": "scientists"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12127,
+            12133
+          ],
+          "text": "argued"
+        }
+      ]
+    },
+    {
+      "score": 0.990543,
+      "sentence": "They spoke briefly and Denise asked for a ride.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13075,
+            13079
+          ],
+          "text": "They"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13080,
+            13085
+          ],
+          "text": "spoke"
+        }
+      ]
+    },
+    {
+      "score": 0.997409,
+      "sentence": "Judge Bolton denied the defense motion to prohibit Dr Helen Jarris's testimony, thereby allowing the DNA evidence to be admitted at the trial.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bolton",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12464,
+            12470
+          ],
+          "text": "Bolton"
+        },
+        {
+          "entities": [
+            {
+              "text": "denied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12471,
+            12477
+          ],
+          "text": "denied"
+        }
+      ]
+    },
+    {
+      "score": 0.467275,
+      "sentence": "A fingerprint search identified the victim as 30 year old Denise Johnson, a single mother of two young children.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1157,
+            1163
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1177,
+            1185
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.931605,
+      "sentence": "Judge Bolton denied the defense motion to prohibit Dr Helen Jarris's testimony, thereby allowing the DNA evidence to be admitted at the trial.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Helen Jarris pods",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12512,
+            12524
+          ],
+          "text": "Helen Jarris"
+        },
+        {
+          "entities": [
+            {
+              "text": "testimony",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12527,
+            12536
+          ],
+          "text": "testimony"
+        }
+      ]
+    },
+    {
+      "score": 0.488974,
+      "sentence": "We were the first criminal case in the country that used a DNA comparison of plant material as a piece of evidence.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12687,
+            12691
+          ],
+          "text": "case"
+        },
+        {
+          "entities": [
+            {
+              "text": "country",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12699,
+            12706
+          ],
+          "text": "country"
+        }
+      ]
+    },
+    {
+      "score": 0.980714,
+      "sentence": "Now, armed with the potent weapon of a DNA fingerprint, the prosecution went to trial, attempting to prove to a jury that Mark Bogan murdered Denise Johnson.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12898,
+            12908
+          ],
+          "text": "Mark Bogan"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12909,
+            12917
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.551822,
+      "sentence": "The jury found Mark Bogan guilty of murder in the first degree.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15885,
+            15895
+          ],
+          "text": "Mark Bogan"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            15906,
+            15912
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.404256,
+      "sentence": "Now, armed with the potent weapon of a DNA fingerprint, the prosecution went to trial, attempting to prove to a jury that Mark Bogan murdered Denise Johnson.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12918,
+            12932
+          ],
+          "text": "Denise Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12909,
+            12917
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.996204,
+      "sentence": "They spoke briefly and Denise asked for a ride.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13098,
+            13104
+          ],
+          "text": "Denise"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13105,
+            13110
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.976196,
+      "sentence": "Bogan asked Denise if she would agree to some light bondage and tied her wrists and ankles with some picture frame wire and shoelaces.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13213,
+            13218
+          ],
+          "text": "Bogan"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13219,
+            13224
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.778714,
+      "sentence": "Bogan asked Denise if she would agree to some light bondage and tied her wrists and ankles with some picture frame wire and shoelaces.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13225,
+            13231
+          ],
+          "text": "Denise"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13219,
+            13224
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.615112,
+      "sentence": "Some of Bogan's ex girlfriends would testify that he enjoyed bondage.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Some",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            13348,
+            13352
+          ],
+          "text": "Some"
+        },
+        {
+          "entities": [
+            {
+              "text": "testify",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13385,
+            13392
+          ],
+          "text": "testify"
+        }
+      ]
+    },
+    {
+      "score": 0.553897,
+      "sentence": "Some of Bogan's ex girlfriends would testify that he enjoyed bondage.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13398,
+            13400
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "testify",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13385,
+            13392
+          ],
+          "text": "testify"
+        }
+      ]
+    },
+    {
+      "score": 0.994003,
+      "sentence": "And another witness told investigators that she saw the same type of wire in the cab of his truck just a few days earlier.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witness",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13430,
+            13437
+          ],
+          "text": "witness"
+        },
+        {
+          "entities": [
+            {
+              "text": "lying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13438,
+            13442
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.548871,
+      "sentence": "I ain't going to say they made her do these things now.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1319,
+            1320
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1336,
+            1339
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.97328,
+      "sentence": "At some point, Denise Johnson objected to what was happening and asked Bogan to stop.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Denise Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13556,
+            13570
+          ],
+          "text": "Denise Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13606,
+            13611
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.592965,
+      "sentence": "At some point, Denise Johnson objected to what was happening and asked Bogan to stop.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13612,
+            13617
+          ],
+          "text": "Bogan"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13606,
+            13611
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.587618,
+      "sentence": "Johnson got out of the truck and tried to run, with Bogan fast behind.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bogan strangled Johnson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13627,
+            13634
+          ],
+          "text": "Johnson"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            13650,
+            13655
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.562784,
+      "sentence": "As Bogan drove away, his truck brushed against the Palo Verde tree, leaving the abrasion.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13971,
+            13974
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Palo Verde",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14001,
+            14011
+          ],
+          "text": "Palo Verde"
+        }
+      ]
+    },
+    {
+      "score": 0.501252,
+      "sentence": "An eyewitness saw a white truck similar to the one Bogan owned coming out of the road leading from the crime scene going through a stop sign and speeding off in the direction of Phoenix.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "eyewitness",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14093,
+            14103
+          ],
+          "text": "eyewitness"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            14116,
+            14121
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.659682,
+      "sentence": "The lost beeper, the picture frame wire, his interest in bondage, and the witness who saw a white truck in the vicinity of the crime scene the night of the murder.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "eyewitness",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14597,
+            14600
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            14613,
+            14618
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.615621,
+      "sentence": "An eyewitness saw a white truck similar to the one Bogan owned coming out of the road leading from the crime scene going through a stop sign and speeding off in the direction of Phoenix.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "truck",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            14116,
+            14121
+          ],
+          "text": "truck"
+        },
+        {
+          "entities": [
+            {
+              "text": "road",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14171,
+            14175
+          ],
+          "text": "road"
+        }
+      ]
+    },
+    {
+      "score": 0.605424,
+      "sentence": "An eyewitness saw a white truck similar to the one Bogan owned coming out of the road leading from the crime scene going through a stop sign and speeding off in the direction of Phoenix.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "road",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14171,
+            14175
+          ],
+          "text": "road"
+        },
+        {
+          "entities": [
+            {
+              "text": "Phoenix",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            14268,
+            14275
+          ],
+          "text": "Phoenix"
+        }
+      ]
+    },
+    {
+      "score": 0.982178,
+      "sentence": "The witness said it was about 1:30 in the morning.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "eyewitness",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14281,
+            14288
+          ],
+          "text": "witness"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14289,
+            14293
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.792118,
+      "sentence": "Bogan lived 18 minutes from the area, and his wife told police she awoke as Mark returned home just after 2:00 in the morning.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14328,
+            14333
+          ],
+          "text": "Bogan"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            14360,
+            14364
+          ],
+          "text": "area"
+        }
+      ]
+    },
+    {
+      "score": 0.953273,
+      "sentence": "They needed evidence to place Mark at the scene, because he did have a credible story.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15194,
+            15198
+          ],
+          "text": "Mark"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            15206,
+            15211
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.738936,
+      "sentence": "Bogan lived 18 minutes from the area, and his wife told police she awoke as Mark returned home just after 2:00 in the morning.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mark Bogan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14370,
+            14373
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14374,
+            14378
+          ],
+          "text": "wife"
+        }
+      ]
+    }
+  ]
+}

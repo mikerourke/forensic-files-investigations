@@ -1,0 +1,5417 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 14588,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Janice",
+      "relevance": 0.965952,
+      "confidence": 1,
+      "count": 30
+    },
+    {
+      "type": "Person",
+      "text": "Dr Schmidt",
+      "relevance": 0.616727,
+      "confidence": 1,
+      "count": 10
+    },
+    {
+      "type": "HealthCondition",
+      "text": "HIV",
+      "relevance": 0.54185,
+      "confidence": 1,
+      "count": 21
+    },
+    {
+      "type": "Person",
+      "text": "Richard Schmidt",
+      "relevance": 0.283156,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Schmidt",
+      "relevance": 0.242355,
+      "confidence": 1,
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Dr Richard Schmidt",
+      "relevance": 0.210692,
+      "confidence": 0.999541,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Dr Schmitz",
+      "relevance": 0.201099,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Jim craft",
+      "relevance": 0.199916,
+      "confidence": 0.999938,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "don McClellan",
+      "relevance": 0.144866,
+      "confidence": 0.999883,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Janet straw",
+      "relevance": 0.141254,
+      "confidence": 0.933062,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Lafayette",
+      "relevance": 0.137765,
+      "confidence": 0.999988,
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Lafayette police department",
+      "relevance": 0.124222,
+      "confidence": 0.57189,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Janice troll Han",
+      "relevance": 0.123818,
+      "confidence": 0.880837,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "aids",
+      "relevance": 0.115331,
+      "confidence": 1,
+      "count": 3,
+      "disambiguation": {
+        "name": "AIDS",
+        "dbpedia_resource": "http://dbpedia.org/resource/AIDS",
+        "subtype": [
+          "Organization",
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "DiseaseCause",
+          "RiskFactor",
+          "Disease",
+          "OrganizationSector"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Jennison Schmidt",
+      "relevance": 0.10646,
+      "confidence": 0.710583,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jeffrey Schmidt",
+      "relevance": 0.1053,
+      "confidence": 0.997774,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Metzger",
+      "relevance": 0.102717,
+      "confidence": 0.999982,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Richard",
+      "relevance": 0.101401,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Richard fail",
+      "relevance": 0.09511,
+      "confidence": 0.975016,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "M. S. R. Dr.",
+      "relevance": 0.094266,
+      "confidence": 0.671008,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Janice strong",
+      "relevance": 0.08459,
+      "confidence": 0.688729,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twelve hour",
+      "relevance": 0.074712,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Louisiana",
+      "relevance": 0.073278,
+      "confidence": 0.99992,
+      "count": 2
+    },
+    {
+      "type": "HealthCondition",
+      "text": "hepatitis",
+      "relevance": 0.072887,
+      "confidence": 1,
+      "count": 5,
+      "disambiguation": {
+        "name": "Viral_hepatitis",
+        "dbpedia_resource": "http://dbpedia.org/resource/Viral_hepatitis",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "DiseaseCause",
+          "RiskFactor",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Sorenson",
+      "relevance": 0.067223,
+      "confidence": 0.993534,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Han",
+      "relevance": 0.067166,
+      "confidence": 0.977318,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr rice",
+      "relevance": 0.063035,
+      "confidence": 0.980254,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Five months",
+      "relevance": 0.059301,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Janice Paul Hahn",
+      "relevance": 0.058117,
+      "confidence": 0.977066,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Janice Strom",
+      "relevance": 0.056342,
+      "confidence": 0.994137,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Carson",
+      "relevance": 0.054897,
+      "confidence": 0.909027,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Michael Metzger",
+      "relevance": 0.053625,
+      "confidence": 0.993284,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Schmitz HIV",
+      "relevance": 0.04976,
+      "confidence": 0.643557,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ten years",
+      "relevance": 0.049644,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "don McLoud",
+      "relevance": 0.04954,
+      "confidence": 0.995701,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Mr",
+      "relevance": 0.046463,
+      "confidence": 0.988856,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Janice straw",
+      "relevance": 0.045201,
+      "confidence": 0.999057,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Schmid",
+      "relevance": 0.040682,
+      "confidence": 0.971622,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Smith",
+      "relevance": 0.03551,
+      "confidence": 0.999997,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Clemons",
+      "relevance": 0.035439,
+      "confidence": 0.998917,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Baylor college of medicine",
+      "relevance": 0.031695,
+      "confidence": 0.633418,
+      "count": 1,
+      "disambiguation": {
+        "name": "Baylor_College_of_Medicine",
+        "dbpedia_resource": "http://dbpedia.org/resource/Baylor_College_of_Medicine",
+        "subtype": [
+          "CollegeUniversity",
+          "University"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "seventeen minutes",
+      "relevance": 0.029555,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "don McLean",
+      "relevance": 0.029306,
+      "confidence": 0.96284,
+      "count": 1,
+      "disambiguation": {
+        "name": "Don_McLean",
+        "dbpedia_resource": "http://dbpedia.org/resource/Don_McLean",
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "BroadcastArtist",
+          "FilmMusicContributor",
+          "Lyricist",
+          "MusicalGroupMember",
+          "TVActor"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Janice trough",
+      "relevance": 0.025428,
+      "confidence": 0.975014,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Texas",
+      "relevance": 0.016253,
+      "confidence": 0.998501,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty minutes",
+      "relevance": 0.014878,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two days",
+      "relevance": 0.013984,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Janice Troy Hahn",
+      "relevance": 0.010306,
+      "confidence": 0.988231,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "fifteen years",
+      "relevance": 0.007264,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Sport",
+      "text": "baseball",
+      "relevance": 0.004734,
+      "confidence": 0.999657,
+      "count": 1,
+      "disambiguation": {
+        "name": "Baseball",
+        "dbpedia_resource": "http://dbpedia.org/resource/Baseball"
+      }
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "relevance": 0.001606,
+      "confidence": 0.995615,
+      "count": 1,
+      "disambiguation": {
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    }
+  ],
+  "categories": [
+    {
+      "label": "/health and fitness/disease/aids and hiv",
+      "score": 0.991378
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.978968,
+      "sentence": "A young nurse develops a fatal illness and doctors wonder if she was infected by one of her patients.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            81,
+            84
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "patients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            92,
+            100
+          ],
+          "text": "patients"
+        }
+      ]
+    },
+    {
+      "score": 0.848172,
+      "sentence": "Genesis primary care physician at the time Dr Richard Schmidt told colleagues his theory as to how Janice became infected he said Janice is a slut she sleeps around she's in the bars at night.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "colleagues",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1337,
+            1347
+          ],
+          "text": "colleagues"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1332,
+            1336
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.847535,
+      "sentence": "That patient's medical record showed she had hepatitis C. the doctor not only.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11217,
+            11220
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "hepatitis",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            11225,
+            11234
+          ],
+          "text": "hepatitis"
+        }
+      ]
+    },
+    {
+      "score": 0.918905,
+      "sentence": "That patient's medical record showed she had hepatitis C. the doctor not only.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11235,
+            11237
+          ],
+          "text": "C."
+        },
+        {
+          "entities": [
+            {
+              "text": "hepatitis",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            11225,
+            11234
+          ],
+          "text": "hepatitis"
+        }
+      ]
+    },
+    {
+      "score": 0.923586,
+      "sentence": "Combined it with hepatitis C. from eight yet another patient to create this this even more lethal cocktail that he injected with that night.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11334,
+            11336
+          ],
+          "text": "C."
+        },
+        {
+          "entities": [
+            {
+              "text": "hepatitis",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            11324,
+            11333
+          ],
+          "text": "hepatitis"
+        }
+      ]
+    },
+    {
+      "score": 0.889832,
+      "sentence": "He did it by injecting the HIV and hepatitis C. tainted blood into genesis arm and did it on the same day the HIV sample making sure maintained its potency.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12395,
+            12397
+          ],
+          "text": "C."
+        },
+        {
+          "entities": [
+            {
+              "text": "hepatitis",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            12385,
+            12394
+          ],
+          "text": "hepatitis"
+        }
+      ]
+    },
+    {
+      "score": 0.217657,
+      "sentence": "Here'S to have infected his lover with HIV but.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11283,
+            11286
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "lover",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11287,
+            11292
+          ],
+          "text": "lover"
+        }
+      ]
+    },
+    {
+      "score": 0.730993,
+      "sentence": "Here'S to have infected his lover with HIV but.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "lover",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11287,
+            11292
+          ],
+          "text": "lover"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            11298,
+            11301
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.994987,
+      "sentence": "Dr Smith maintained his innocence he said he had an alibi for the night of August fourth.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Smith",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11482,
+            11484
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11485,
+            11489
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.995989,
+      "sentence": "He said he was home with his wife except for twenty minutes when she was taking a bath.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Smith",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11538,
+            11540
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11541,
+            11545
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.789889,
+      "sentence": "He said he was home with his wife except for twenty minutes when she was taking a bath.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Smith",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11546,
+            11548
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11553,
+            11557
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.330752,
+      "sentence": "He said he was home with his wife except for twenty minutes when she was taking a bath.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11567,
+            11571
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11553,
+            11557
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.684135,
+      "sentence": "He said he was home with his wife except for twenty minutes when she was taking a bath.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Smith",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11563,
+            11566
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11567,
+            11571
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.851339,
+      "sentence": "But the police officer drove from Dr Schmitz home to genesis and back in about seventeen minutes even allowing time for the injection.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Schmitz HIV",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11641,
+            11648
+          ],
+          "text": "officer"
+        },
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11634,
+            11640
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.405839,
+      "sentence": "But the police officer drove from Dr Schmitz home to genesis and back in about seventeen minutes even allowing time for the injection.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Schmitz HIV",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11663,
+            11670
+          ],
+          "text": "Schmitz"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11671,
+            11675
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.996591,
+      "sentence": "Genesis primary care physician at the time Dr Richard Schmidt told colleagues his theory as to how Janice became infected he said Janice is a slut she sleeps around she's in the bars at night.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1392,
+            1394
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1395,
+            1399
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.493814,
+      "sentence": "Why did Dr Schmidt keep his medical records from nineteen ninety four rather than throw them away.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11802,
+            11809
+          ],
+          "text": "Schmidt"
+        },
+        {
+          "entities": [
+            {
+              "text": "them",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11879,
+            11883
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.500587,
+      "sentence": "Along with the scientific and circumstantial evidence it was the words of Janice trough on that echoed in the jury's mind during Dr Schmidt stride which made a lot of promises to me that he did not keep but he did keep one and that would be that he would kill me.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12284,
+            12286
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            12293,
+            12297
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.371767,
+      "sentence": "Along with the scientific and circumstantial evidence it was the words of Janice trough on that echoed in the jury's mind during Dr Schmidt stride which made a lot of promises to me that he did not keep but he did keep one and that would be that he would kill me.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12298,
+            12300
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            12293,
+            12297
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.673873,
+      "sentence": "And I feel like that's a death sentence I have.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12342,
+            12343
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "death sentence",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12327,
+            12341
+          ],
+          "text": "death sentence"
+        }
+      ]
+    },
+    {
+      "score": 0.636214,
+      "sentence": "Despite his medical degree Dr Smith never realized that forensic DNA testing could compare the mutations of the HIV anticipation don McClellan and match them to the HIV and Janice.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Smith",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12537,
+            12542
+          ],
+          "text": "Smith"
+        },
+        {
+          "entities": [
+            {
+              "text": "them",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12660,
+            12664
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.759692,
+      "sentence": "Despite his medical degree Dr Smith never realized that forensic DNA testing could compare the mutations of the HIV anticipation don McClellan and match them to the HIV and Janice.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "McClellan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12640,
+            12649
+          ],
+          "text": "McClellan"
+        },
+        {
+          "entities": [
+            {
+              "text": "them",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12660,
+            12664
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.489394,
+      "sentence": "Despite his medical degree Dr Smith never realized that forensic DNA testing could compare the mutations of the HIV anticipation don McClellan and match them to the HIV and Janice.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "them",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12660,
+            12664
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            12672,
+            12675
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.460269,
+      "sentence": "On October twenty third nineteen ninety eight he was convicted of attempted second degree murder and sentenced to fifteen years hard labor.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Smith",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12995,
+            12997
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13002,
+            13011
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.817405,
+      "sentence": "On October twenty third nineteen ninety eight he was convicted of attempted second degree murder and sentenced to fifteen years hard labor.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Smith",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12995,
+            12997
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13039,
+            13045
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.809964,
+      "sentence": "On October twenty third nineteen ninety eight he was convicted of attempted second degree murder and sentenced to fifteen years hard labor.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Smith",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12995,
+            12997
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            13050,
+            13059
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.505161,
+      "sentence": "Genesis primary care physician at the time Dr Richard Schmidt told colleagues his theory as to how Janice became infected he said Janice is a slut she sleeps around she's in the bars at night.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1400,
+            1406
+          ],
+          "text": "Janice"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1395,
+            1399
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.538654,
+      "sentence": "Janice Troy Hahn is remarried and lives with their two sons in the same house where she was infected that August night.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13584,
+            13600
+          ],
+          "text": "Janice Troy Hahn"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13629,
+            13634
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.316688,
+      "sentence": "Janice Troy Hahn is remarried and lives with their two sons in the same house where she was infected that August night.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13629,
+            13634
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "sons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13639,
+            13643
+          ],
+          "text": "sons"
+        }
+      ]
+    },
+    {
+      "score": 0.591193,
+      "sentence": "Janice Troy Hahn is remarried and lives with their two sons in the same house where she was infected that August night.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "sons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13639,
+            13643
+          ],
+          "text": "sons"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13656,
+            13661
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.362662,
+      "sentence": "I appreciate life more and stop and look at the flowers and treasure each day that I do have with my family and my husband.",
+      "type": "relative",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13914,
+            13916
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13917,
+            13923
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.519794,
+      "sentence": "Genesis primary care physician at the time Dr Richard Schmidt told colleagues his theory as to how Janice became infected he said Janice is a slut she sleeps around she's in the bars at night.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1400,
+            1406
+          ],
+          "text": "Janice"
+        },
+        {
+          "entities": [
+            {
+              "text": "bars",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1448,
+            1452
+          ],
+          "text": "bars"
+        }
+      ]
+    },
+    {
+      "score": 0.844106,
+      "sentence": "Genesis primary care physician at the time Dr Richard Schmidt told colleagues his theory as to how Janice became infected he said Janice is a slut she sleeps around she's in the bars at night.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1435,
+            1438
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "bars",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1448,
+            1452
+          ],
+          "text": "bars"
+        }
+      ]
+    },
+    {
+      "score": 0.656947,
+      "sentence": "She goes to bars during the day she goes home with strange men.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1463,
+            1466
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "bars",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1475,
+            1479
+          ],
+          "text": "bars"
+        }
+      ]
+    },
+    {
+      "score": 0.512573,
+      "sentence": "She goes to bars during the day she goes home with strange men.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bars",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1475,
+            1479
+          ],
+          "text": "bars"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1504,
+            1508
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.649589,
+      "sentence": "She goes to bars during the day she goes home with strange men.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1495,
+            1498
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1504,
+            1508
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.540562,
+      "sentence": "Knowing her unborn child could be infected with HIV as well Janice decided to end her pregnancy.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1602,
+            1605
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Carson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1613,
+            1618
+          ],
+          "text": "child"
+        }
+      ]
+    },
+    {
+      "score": 0.69057,
+      "sentence": "Knowing her unborn child could be infected with HIV as well Janice decided to end her pregnancy.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1613,
+            1618
+          ],
+          "text": "child"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            1642,
+            1645
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.998109,
+      "sentence": "Including the Lafayette police department.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2077,
+            2094
+          ],
+          "text": "police department"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lafayette",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2067,
+            2076
+          ],
+          "text": "Lafayette"
+        }
+      ]
+    },
+    {
+      "score": 0.980528,
+      "sentence": "While Sorenson was skeptical he told Lafayette police detective Jim craft check out her story was she said that S. O.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2602,
+            2608
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lafayette",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2592,
+            2601
+          ],
+          "text": "Lafayette"
+        }
+      ]
+    },
+    {
+      "score": 0.239746,
+      "sentence": "A small town nurse Janice troll Han learned she had been diagnosed HIV positive in January nineteen ninety five.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2109,
+            2114
+          ],
+          "text": "nurse"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lafayette Louisiana",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2104,
+            2108
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.340296,
+      "sentence": "A young nurse develops a fatal illness and doctors wonder if she was infected by one of her patients.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "she",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            88,
+            91
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "patients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            92,
+            100
+          ],
+          "text": "patients"
+        }
+      ]
+    },
+    {
+      "score": 0.515349,
+      "sentence": "Five months later she walked into district attorney my Carson's office and told an improbable story about her own doctor Richard Schmidt.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2227,
+            2230
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2284,
+            2288
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.468213,
+      "sentence": "While Sorenson was skeptical he told Lafayette police detective Jim craft check out her story was she said that S. O.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2639,
+            2642
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2657,
+            2661
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.966857,
+      "sentence": "While Sorenson was skeptical he told Lafayette police detective Jim craft check out her story was she said that S. O.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2653,
+            2656
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2657,
+            2661
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.984858,
+      "sentence": "Janice told police she tried to end the relationship many times but said Schmidt made threats against her.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4150,
+            4156
+          ],
+          "text": "Janice"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4157,
+            4161
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.762172,
+      "sentence": "Janice told police she tried to end the relationship many times but said Schmidt made threats against her.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4169,
+            4172
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4218,
+            4222
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.974169,
+      "sentence": "She told Richard.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5032,
+            5035
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5036,
+            5040
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.983927,
+      "sentence": "And justice Janice had told.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6529,
+            6535
+          ],
+          "text": "Janice"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6540,
+            6544
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.76265,
+      "sentence": "Five months later she walked into district attorney my Carson's office and told an improbable story about her own doctor Richard Schmidt.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2252,
+            2260
+          ],
+          "text": "attorney"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital bulletin board",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2243,
+            2251
+          ],
+          "text": "district"
+        }
+      ]
+    },
+    {
+      "score": 0.744687,
+      "sentence": "Five months later she walked into district attorney my Carson's office and told an improbable story about her own doctor Richard Schmidt.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "office",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2273,
+            2279
+          ],
+          "text": "office"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital bulletin board",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2243,
+            2251
+          ],
+          "text": "district"
+        }
+      ]
+    },
+    {
+      "score": 0.366186,
+      "sentence": "Five months later she walked into district attorney my Carson's office and told an improbable story about her own doctor Richard Schmidt.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2261,
+            2263
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "office",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2273,
+            2279
+          ],
+          "text": "office"
+        }
+      ]
+    },
+    {
+      "score": 0.713897,
+      "sentence": "Five months later she walked into district attorney my Carson's office and told an improbable story about her own doctor Richard Schmidt.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Carson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2264,
+            2270
+          ],
+          "text": "Carson"
+        },
+        {
+          "entities": [
+            {
+              "text": "office",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2273,
+            2279
+          ],
+          "text": "office"
+        }
+      ]
+    },
+    {
+      "score": 0.729723,
+      "sentence": "While Sorenson was skeptical he told Lafayette police detective Jim craft check out her story was she said that S. O.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "detective",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2609,
+            2618
+          ],
+          "text": "detective"
+        },
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2602,
+            2608
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.812516,
+      "sentence": "While Sorenson was skeptical he told Lafayette police detective Jim craft check out her story was she said that S. O.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2619,
+            2622
+          ],
+          "text": "Jim"
+        },
+        {
+          "entities": [
+            {
+              "text": "detective",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2609,
+            2618
+          ],
+          "text": "detective"
+        }
+      ]
+    },
+    {
+      "score": 0.801803,
+      "sentence": "Probably one of the best positions and most respected physicians in this community as forces medical capabilities.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            2856,
+            2859
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "physicians",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2901,
+            2911
+          ],
+          "text": "physicians"
+        }
+      ]
+    },
+    {
+      "score": 0.997777,
+      "sentence": "Janice said she first met Dr Schmidt years earlier when they both worked at the same hospital.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2962,
+            2968
+          ],
+          "text": "Janice"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2969,
+            2973
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.813268,
+      "sentence": "Janice said she first met Dr Schmidt years earlier when they both worked at the same hospital.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2974,
+            2977
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "met",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            2984,
+            2987
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.419619,
+      "sentence": "In nineteen ninety four Janet straw Han was a single mother of two young children working as a nurse in the small town of Lafayette Louisiana.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janet straw Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            299,
+            305
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            319,
+            327
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.834275,
+      "sentence": "Janice said she first met Dr Schmidt years earlier when they both worked at the same hospital.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2988,
+            2990
+          ],
+          "text": "Dr"
+        },
+        {
+          "entities": [
+            {
+              "text": "met",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            2984,
+            2987
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.938215,
+      "sentence": "Janice said she first met Dr Schmidt years earlier when they both worked at the same hospital.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "years earlier",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            2999,
+            3012
+          ],
+          "text": "years earlier"
+        },
+        {
+          "entities": [
+            {
+              "text": "met",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            2984,
+            2987
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.766772,
+      "sentence": "Janice said she first met Dr Schmidt years earlier when they both worked at the same hospital.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2991,
+            2998
+          ],
+          "text": "Schmidt"
+        },
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3018,
+            3022
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.659541,
+      "sentence": "Basically his promise to her at that time was that as soon as I'm able I'm going to leave my wife and children and you and I will be married we can be together.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3671,
+            3673
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3674,
+            3678
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.682533,
+      "sentence": "Either leave your wife and marry me our way through.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5063,
+            5067
+          ],
+          "text": "your"
+        },
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5068,
+            5072
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.795465,
+      "sentence": "Janice did leave her husband for the doctor assuming that the doctor was going to leave his wife and family for her she left hers he never left his.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3799,
+            3802
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3803,
+            3810
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.520103,
+      "sentence": "I appreciate life more and stop and look at the flowers and treasure each day that I do have with my family and my husband.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13928,
+            13930
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13931,
+            13938
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.78341,
+      "sentence": "Janice did leave her husband for the doctor assuming that the doctor was going to leave his wife and family for her she left hers he never left his.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3870,
+            3873
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3874,
+            3878
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.69809,
+      "sentence": "Janice did leave her husband for the doctor assuming that the doctor was going to leave his wife and family for her she left hers he never left his.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3870,
+            3873
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3883,
+            3889
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.624166,
+      "sentence": "In nineteen ninety one Janice became pregnant and gave birth to their son Jeffrey Schmidt paid child support and continued to promise he'd leave his wife but he never did.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4042,
+            4047
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "Jeffrey Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4048,
+            4051
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.689283,
+      "sentence": "In nineteen ninety one Janice became pregnant and gave birth to their son Jeffrey Schmidt paid child support and continued to promise he'd leave his wife but he never did.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jeffrey Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4123,
+            4126
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4127,
+            4131
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.688389,
+      "sentence": "Janice told police she tried to end the relationship many times but said Schmidt made threats against her.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4162,
+            4168
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4157,
+            4161
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.756536,
+      "sentence": "In nineteen ninety four Janet straw Han was a single mother of two young children working as a nurse in the small town of Lafayette Louisiana.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "nurse",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            341,
+            346
+          ],
+          "text": "nurse"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lafayette Louisiana",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            360,
+            364
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.995811,
+      "sentence": "Several times he threatened to put sexually revealing pictures he had taken of her on the hospital bulletin board where she worked.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jeffrey Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4271,
+            4273
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "threatened",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4274,
+            4284
+          ],
+          "text": "threatened"
+        }
+      ]
+    },
+    {
+      "score": 0.2548,
+      "sentence": "Several times he threatened to put sexually revealing pictures he had taken of her on the hospital bulletin board where she worked.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospital bulletin board",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4347,
+            4370
+          ],
+          "text": "hospital bulletin board"
+        },
+        {
+          "entities": [
+            {
+              "text": "where",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4371,
+            4376
+          ],
+          "text": "where"
+        }
+      ]
+    },
+    {
+      "score": 0.986598,
+      "sentence": "Another time he threatened to tell the dean of the nursing school that Janice had plagiarized some of our assignments.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jeffrey Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4402,
+            4404
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "threatened",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4405,
+            4415
+          ],
+          "text": "threatened"
+        }
+      ]
+    },
+    {
+      "score": 0.700724,
+      "sentence": "Another time he threatened to tell the dean of the nursing school that Janice had plagiarized some of our assignments.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jeffrey Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4402,
+            4404
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4491,
+            4494
+          ],
+          "text": "our"
+        }
+      ]
+    },
+    {
+      "score": 0.739325,
+      "sentence": "Another time he threatened to tell the dean of the nursing school that Janice had plagiarized some of our assignments.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "tell",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4419,
+            4423
+          ],
+          "text": "tell"
+        },
+        {
+          "entities": [
+            {
+              "text": "threatened",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4405,
+            4415
+          ],
+          "text": "threatened"
+        }
+      ]
+    },
+    {
+      "score": 0.833551,
+      "sentence": "Another time he threatened to tell the dean of the nursing school that Janice had plagiarized some of our assignments.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4428,
+            4432
+          ],
+          "text": "dean"
+        },
+        {
+          "entities": [
+            {
+              "text": "tell",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4419,
+            4423
+          ],
+          "text": "tell"
+        }
+      ]
+    },
+    {
+      "score": 0.467576,
+      "sentence": "Another time he threatened to tell the dean of the nursing school that Janice had plagiarized some of our assignments.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4428,
+            4432
+          ],
+          "text": "dean"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital bulletin board",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4440,
+            4454
+          ],
+          "text": "nursing school"
+        }
+      ]
+    },
+    {
+      "score": 0.883848,
+      "sentence": "Another time he threatened to tell the dean of the nursing school that Janice had plagiarized some of our assignments.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4428,
+            4432
+          ],
+          "text": "dean"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4491,
+            4494
+          ],
+          "text": "our"
+        }
+      ]
+    },
+    {
+      "score": 0.284248,
+      "sentence": "Another time he threatened to tell the dean of the nursing school that Janice had plagiarized some of our assignments.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4460,
+            4466
+          ],
+          "text": "Janice"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital bulletin board",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4440,
+            4454
+          ],
+          "text": "nursing school"
+        }
+      ]
+    },
+    {
+      "score": 0.927261,
+      "sentence": "Another time he threatened to tell the dean of the nursing school that Janice had plagiarized some of our assignments.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4460,
+            4466
+          ],
+          "text": "Janice"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4491,
+            4494
+          ],
+          "text": "our"
+        }
+      ]
+    },
+    {
+      "score": 0.701666,
+      "sentence": "The problem was that each time she attempted to establish a relationship outside of their relationship Richard would intervene and that he followed her on dates that she had with the other men even threatened a couple of the guys that she had dated one he threatened to kill pointers home and threatened killer.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4600,
+            4603
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4653,
+            4658
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.899599,
+      "sentence": "The dishes not only did she find out she was pregnant but she found out she was HIV positive.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janet straw Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            995,
+            998
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            1003,
+            1006
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.984298,
+      "sentence": "The problem was that each time she attempted to establish a relationship outside of their relationship Richard would intervene and that he followed her on dates that she had with the other men even threatened a couple of the guys that she had dated one he threatened to kill pointers home and threatened killer.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4822,
+            4824
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "threatened",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4825,
+            4835
+          ],
+          "text": "threatened"
+        }
+      ]
+    },
+    {
+      "score": 0.512626,
+      "sentence": "The problem was that each time she attempted to establish a relationship outside of their relationship Richard would intervene and that he followed her on dates that she had with the other men even threatened a couple of the guys that she had dated one he threatened to kill pointers home and threatened killer.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4822,
+            4824
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4853,
+            4857
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.862859,
+      "sentence": "She told Richard.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5041,
+            5048
+          ],
+          "text": "Richard"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5036,
+            5040
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.560905,
+      "sentence": "When Richard fail to respond Janice ended their personal relationship and she stopped using M. S. R. Dr. Schmidt had been treating her with vitamin B. twelve shots for her lethargy.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5108,
+            5115
+          ],
+          "text": "Richard"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5145,
+            5150
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.802579,
+      "sentence": "When Richard fail to respond Janice ended their personal relationship and she stopped using M. S. R. Dr. Schmidt had been treating her with vitamin B. twelve shots for her lethargy.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5132,
+            5138
+          ],
+          "text": "Janice"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5145,
+            5150
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.514467,
+      "sentence": "Janice was fast asleep when the phone rang between ten and eleven o'clock.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5365,
+            5371
+          ],
+          "text": "Janice"
+        },
+        {
+          "entities": [
+            {
+              "text": "eleven",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5424,
+            5430
+          ],
+          "text": "eleven"
+        }
+      ]
+    },
+    {
+      "score": 0.829249,
+      "sentence": "It was doctor Schmidt saying he was coming over right away.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5454,
+            5461
+          ],
+          "text": "Schmidt"
+        },
+        {
+          "entities": [
+            {
+              "text": "saying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5462,
+            5468
+          ],
+          "text": "saying"
+        }
+      ]
+    },
+    {
+      "score": 0.508648,
+      "sentence": "A few minutes later he was standing over her with the syringe injections very painful on write it down more might never had an injection of.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5541,
+            5544
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "saying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5589,
+            5594
+          ],
+          "text": "write"
+        }
+      ]
+    },
+    {
+      "score": 0.996241,
+      "sentence": "Unlike other visits Janice said Dr Schmidt didn't state talk he left quickly after the injection he was nervous Rasht just.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5694,
+            5700
+          ],
+          "text": "Janice"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5701,
+            5705
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.581498,
+      "sentence": "Detectives Jim craft wanted to find some way to tell whether Janice strong's incredible story was true.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Jim",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6138,
+            6141
+          ],
+          "text": "Jim"
+        },
+        {
+          "entities": [
+            {
+              "text": "Detectives",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6127,
+            6137
+          ],
+          "text": "Detectives"
+        }
+      ]
+    },
+    {
+      "score": 0.828487,
+      "sentence": "There were several possible explanations for how Janice had been infected with HIV.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1066,
+            1072
+          ],
+          "text": "Janice"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            1096,
+            1099
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.919552,
+      "sentence": "And she's most likely contracted the disease from sleeping around.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1531,
+            1534
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            1564,
+            1571
+          ],
+          "text": "disease"
+        }
+      ]
+    },
+    {
+      "score": 0.682916,
+      "sentence": "My prognosis is I know it's in certain I know that HIV is a terminal disease and there is no cure.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1750,
+            1751
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            1762,
+            1765
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.772937,
+      "sentence": "A small town nurse Janice troll Han learned she had been diagnosed HIV positive in January nineteen ninety five.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2140,
+            2143
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            2163,
+            2166
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.471777,
+      "sentence": "She began relating a story to me how she had had this relationship with doctor Schmidt for a number of years and that she recently found out that she had aids or HIV and she felt that he was responsible for.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2493,
+            2496
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            2509,
+            2512
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.843332,
+      "sentence": "Janice was convinced that shot which men gave her was contaminated with HIV.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5862,
+            5865
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            5888,
+            5891
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.836134,
+      "sentence": "Her former lover Dr Richard Schmidt had injected her with deadly HIV.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6280,
+            6283
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            6296,
+            6299
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.868123,
+      "sentence": "But investigators needed proof that the injection Dr Schmidt gave Janice contained HIV.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6681,
+            6687
+          ],
+          "text": "Janice"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            6698,
+            6701
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.585852,
+      "sentence": "Investigators would discover early on in this case that HIV tainted blood is not the easiest thing on earth to obtain you do not just walk into a blood plasma unit or a clinic and say you know give me those three vials of labeled HIV and take them out.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6901,
+            6903
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            6933,
+            6936
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.617199,
+      "sentence": "But prosecutors were faced with another scientific rental ultimately Janice was diagnosed she was also diagnosed not only HIV positive but with hepatitis C. the patient whose blood been drawn on August fourth was HIV positive but not did not have hepatitis C.. When investigators look again Dr Schmitz medical records they noticed one more patient listed with the old lab sticker next to her name.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10760,
+            10763
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            10792,
+            10795
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.627125,
+      "sentence": "Her former lover Dr Richard Schmidt had injected her with deadly HIV.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6251,
+            6266
+          ],
+          "text": "Richard Schmidt"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            6296,
+            6299
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.606828,
+      "sentence": "But investigators needed proof that the injection Dr Schmidt gave Janice contained HIV.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6668,
+            6675
+          ],
+          "text": "Schmidt"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            6698,
+            6701
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.778796,
+      "sentence": "But if Dr Schmidt took blood from one of his HIV patients the virus wouldn't stay potent for very long you have about a twelve hour window before you have to inject it.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7117,
+            7120
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            7121,
+            7124
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.682008,
+      "sentence": "Prosecutors want to know whether doctor Richard Schmidt took HIV infected blood from one of his patients and injected it into his former lover Janice Strom on.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8946,
+            8961
+          ],
+          "text": "Richard Schmidt"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            8967,
+            8970
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.988534,
+      "sentence": "Dr Schmidt had called her at ten twenty six PM on August the fourth.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6549,
+            6556
+          ],
+          "text": "Schmidt"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6561,
+            6567
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.873833,
+      "sentence": "Dr Schmidt had called her at ten twenty six PM on August the fourth.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6568,
+            6571
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6561,
+            6567
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.393193,
+      "sentence": "Investigators would discover early on in this case that HIV tainted blood is not the easiest thing on earth to obtain you do not just walk into a blood plasma unit or a clinic and say you know give me those three vials of labeled HIV and take them out.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6887,
+            6890
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6883,
+            6886
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.614468,
+      "sentence": "Investigators would discover early on in this case that HIV tainted blood is not the easiest thing on earth to obtain you do not just walk into a blood plasma unit or a clinic and say you know give me those three vials of labeled HIV and take them out.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "vials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6916,
+            6921
+          ],
+          "text": "vials"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            6933,
+            6936
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.896405,
+      "sentence": "But if Dr Schmidt took blood from one of his HIV patients the virus wouldn't stay potent for very long you have about a twelve hour window before you have to inject it.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            7110,
+            7113
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "patients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7125,
+            7133
+          ],
+          "text": "patients"
+        }
+      ]
+    },
+    {
+      "score": 0.853693,
+      "sentence": "But if Dr Schmidt took blood from one of his HIV patients the virus wouldn't stay potent for very long you have about a twelve hour window before you have to inject it.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7125,
+            7133
+          ],
+          "text": "patients"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            7121,
+            7124
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.56739,
+      "sentence": "Investigators wanted to see doctor Schmidt's office records for August fourth nineteen ninety four the date Janice said Schmidt and gave her the injection.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7321,
+            7328
+          ],
+          "text": "Schmidt"
+        },
+        {
+          "entities": [
+            {
+              "text": "office",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7331,
+            7337
+          ],
+          "text": "office"
+        }
+      ]
+    },
+    {
+      "score": 0.996457,
+      "sentence": "Investigators wanted to see doctor Schmidt's office records for August fourth nineteen ninety four the date Janice said Schmidt and gave her the injection.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7394,
+            7400
+          ],
+          "text": "Janice"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7401,
+            7405
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.993005,
+      "sentence": "Police found the sexually revealing photos he had taken a Janice that he threatened to distribute.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7599,
+            7601
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "threatened",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7602,
+            7612
+          ],
+          "text": "threatened"
+        }
+      ]
+    },
+    {
+      "score": 0.553663,
+      "sentence": "Janice worked as a hospital nurse she may have been infected from one of the aids patients there.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1101,
+            1107
+          ],
+          "text": "Janice"
+        },
+        {
+          "entities": [
+            {
+              "text": "patients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1183,
+            1191
+          ],
+          "text": "patients"
+        }
+      ]
+    },
+    {
+      "score": 0.850425,
+      "sentence": "In the very bottom of that box was a notebook nothing through it real quickly and it's only halfway full god I don't know fifty sixty pages in it but only about twenty or thirty or more full.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7967,
+            7968
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "twenty",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            8019,
+            8025
+          ],
+          "text": "twenty"
+        }
+      ]
+    },
+    {
+      "score": 0.680185,
+      "sentence": "In the very bottom of that box was a notebook nothing through it real quickly and it's only halfway full god I don't know fifty sixty pages in it but only about twenty or thirty or more full.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7967,
+            7968
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "thirty",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            8029,
+            8035
+          ],
+          "text": "thirty"
+        }
+      ]
+    },
+    {
+      "score": 0.769943,
+      "sentence": "Named don McClellan beside his name was a notation that said lavender's stopper for Dr rice.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "McClellan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8322,
+            8325
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8351,
+            8355
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.371018,
+      "sentence": "Police went to see don McClellan and they asked him a very important question are you HIV positive the guy stares at Mrs HIV positive hello I've got full blown aids.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "McClellan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8407,
+            8410
+          ],
+          "text": "don"
+        },
+        {
+          "entities": [
+            {
+              "text": "police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8388,
+            8394
+          ],
+          "text": "Police"
+        }
+      ]
+    },
+    {
+      "score": 0.742272,
+      "sentence": "Police went to see don McClellan and they asked him a very important question are you HIV positive the guy stares at Mrs HIV positive hello I've got full blown aids.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "them",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8425,
+            8429
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8430,
+            8435
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.807254,
+      "sentence": "Police went to see don McClellan and they asked him a very important question are you HIV positive the guy stares at Mrs HIV positive hello I've got full blown aids.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "McClellan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8436,
+            8439
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8430,
+            8435
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.614383,
+      "sentence": "Police went to see don McClellan and they asked him a very important question are you HIV positive the guy stares at Mrs HIV positive hello I've got full blown aids.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8470,
+            8473
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            8474,
+            8477
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.764544,
+      "sentence": "Police went to see don McClellan and they asked him a very important question are you HIV positive the guy stares at Mrs HIV positive hello I've got full blown aids.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Mrs",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8505,
+            8508
+          ],
+          "text": "Mrs"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            8509,
+            8512
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.972622,
+      "sentence": "And the Clemons said he never called Dr Schmidt to make an appointment on August fourth he said Dr Schmidt called him to come in for a blood test give this insidious it was beyond diabolical it's one of the strangest cruelest crimes I've ever heard of.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clemons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8562,
+            8569
+          ],
+          "text": "Clemons"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8570,
+            8574
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.752224,
+      "sentence": "And the Clemons said he never called Dr Schmidt to make an appointment on August fourth he said Dr Schmidt called him to come in for a blood test give this insidious it was beyond diabolical it's one of the strangest cruelest crimes I've ever heard of.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "August",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            8628,
+            8634
+          ],
+          "text": "August"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8645,
+            8649
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.446759,
+      "sentence": "Janice worked as a hospital nurse she may have been infected from one of the aids patients there.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janet straw Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1135,
+            1138
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital bulletin board",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1120,
+            1134
+          ],
+          "text": "hospital nurse"
+        }
+      ]
+    },
+    {
+      "score": 0.996398,
+      "sentence": "And the Clemons said he never called Dr Schmidt to make an appointment on August fourth he said Dr Schmidt called him to come in for a blood test give this insidious it was beyond diabolical it's one of the strangest cruelest crimes I've ever heard of.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8642,
+            8644
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8645,
+            8649
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.97927,
+      "sentence": "And the Clemons said he never called Dr Schmidt to make an appointment on August fourth he said Dr Schmidt called him to come in for a blood test give this insidious it was beyond diabolical it's one of the strangest cruelest crimes I've ever heard of.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8653,
+            8660
+          ],
+          "text": "Schmidt"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8661,
+            8667
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.932051,
+      "sentence": "And the Clemons said he never called Dr Schmidt to make an appointment on August fourth he said Dr Schmidt called him to come in for a blood test give this insidious it was beyond diabolical it's one of the strangest cruelest crimes I've ever heard of.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Clemons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8668,
+            8671
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8661,
+            8667
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.857528,
+      "sentence": "Prosecutors want to know whether doctor Richard Schmidt took HIV infected blood from one of his patients and injected it into his former lover Janice Strom on.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9002,
+            9010
+          ],
+          "text": "patients"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            8967,
+            8970
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.926341,
+      "sentence": "Prosecutors want to know whether doctor Richard Schmidt took HIV infected blood from one of his patients and injected it into his former lover Janice Strom on.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            8991,
+            8994
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "patients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9002,
+            9010
+          ],
+          "text": "patients"
+        }
+      ]
+    },
+    {
+      "score": 0.505562,
+      "sentence": "They turned to genetic researcher Dr Michael Metzger at Baylor college of medicine in Texas one of the world's most renowned centers of human genome studies.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael Metzger",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9321,
+            9336
+          ],
+          "text": "Michael Metzger"
+        },
+        {
+          "entities": [
+            {
+              "text": "college",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9347,
+            9354
+          ],
+          "text": "college"
+        }
+      ]
+    },
+    {
+      "score": 0.921098,
+      "sentence": "They turned to genetic researcher Dr Michael Metzger at Baylor college of medicine in Texas one of the world's most renowned centers of human genome studies.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "college",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9347,
+            9354
+          ],
+          "text": "college"
+        },
+        {
+          "entities": [
+            {
+              "text": "Baylor",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9340,
+            9346
+          ],
+          "text": "Baylor"
+        }
+      ]
+    },
+    {
+      "score": 0.445503,
+      "sentence": "They turned to genetic researcher Dr Michael Metzger at Baylor college of medicine in Texas one of the world's most renowned centers of human genome studies.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "college",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9347,
+            9354
+          ],
+          "text": "college"
+        },
+        {
+          "entities": [
+            {
+              "text": "Texas",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9370,
+            9375
+          ],
+          "text": "Texas"
+        }
+      ]
+    },
+    {
+      "score": 0.634279,
+      "sentence": "They turned to genetic researcher Dr Michael Metzger at Baylor college of medicine in Texas one of the world's most renowned centers of human genome studies.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Texas",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9370,
+            9375
+          ],
+          "text": "Texas"
+        },
+        {
+          "entities": [
+            {
+              "text": "world",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9387,
+            9392
+          ],
+          "text": "world"
+        }
+      ]
+    },
+    {
+      "score": 0.994345,
+      "sentence": "Dr Metzger told them the DNA test of a virus are not the same as comparing DNA from individuals.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael Metzger",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9445,
+            9452
+          ],
+          "text": "Metzger"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9453,
+            9457
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.996814,
+      "sentence": "Genesis primary care physician at the time Dr Richard Schmidt told colleagues his theory as to how Janice became infected he said Janice is a slut she sleeps around she's in the bars at night.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1316,
+            1331
+          ],
+          "text": "Richard Schmidt"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1332,
+            1336
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.934322,
+      "sentence": "While Sorenson was skeptical he told Lafayette police detective Jim craft check out her story was she said that S. O.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2584,
+            2586
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2587,
+            2591
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.477893,
+      "sentence": "Dr Metzger told them the DNA test of a virus are not the same as comparing DNA from individuals.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael Metzger",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9445,
+            9452
+          ],
+          "text": "Metzger"
+        },
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9458,
+            9462
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.925018,
+      "sentence": "Dr Metzger told them the DNA test of a virus are not the same as comparing DNA from individuals.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9458,
+            9462
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9453,
+            9457
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.509466,
+      "sentence": "But Dr Metzger was willing to conduct an experiment to see if the HIV in genesis body was similar to Dr Schmitz HIV patients don McLoud.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Michael Metzger",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9612,
+            9619
+          ],
+          "text": "Metzger"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            9671,
+            9674
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.635171,
+      "sentence": "But Dr Metzger was willing to conduct an experiment to see if the HIV in genesis body was similar to Dr Schmitz HIV patients don McLoud.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "patients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9721,
+            9729
+          ],
+          "text": "patients"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            9671,
+            9674
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.420803,
+      "sentence": "But Dr Metzger was willing to conduct an experiment to see if the HIV in genesis body was similar to Dr Schmitz HIV patients don McLoud.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Schmitz HIV",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9709,
+            9720
+          ],
+          "text": "Schmitz HIV"
+        },
+        {
+          "entities": [
+            {
+              "text": "patients",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9721,
+            9729
+          ],
+          "text": "patients"
+        }
+      ]
+    },
+    {
+      "score": 0.742778,
+      "sentence": "Dr Mr looked at blood samples from thirty individuals infected with HIV in Lafayette Louisiana including the samples from Janice straw Han and don McLean.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individuals",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10081,
+            10092
+          ],
+          "text": "individuals"
+        },
+        {
+          "entities": [
+            {
+              "text": "HIV",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            10107,
+            10110
+          ],
+          "text": "HIV"
+        }
+      ]
+    },
+    {
+      "score": 0.556042,
+      "sentence": "In July of nineteen ninety six Dr Schmid was charged with attempted second degree murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10614,
+            10620
+          ],
+          "text": "Schmid"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10625,
+            10632
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.733033,
+      "sentence": "In July of nineteen ninety six Dr Schmid was charged with attempted second degree murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard Schmidt",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10614,
+            10620
+          ],
+          "text": "Schmid"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10662,
+            10668
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.752647,
+      "sentence": "But prosecutors were faced with another scientific rental ultimately Janice was diagnosed she was also diagnosed not only HIV positive but with hepatitis C. the patient whose blood been drawn on August fourth was HIV positive but not did not have hepatitis C.. When investigators look again Dr Schmitz medical records they noticed one more patient listed with the old lab sticker next to her name.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Schmitz HIV",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10964,
+            10971
+          ],
+          "text": "Schmitz"
+        },
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10988,
+            10992
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.366881,
+      "sentence": "But prosecutors were faced with another scientific rental ultimately Janice was diagnosed she was also diagnosed not only HIV positive but with hepatitis C. the patient whose blood been drawn on August fourth was HIV positive but not did not have hepatitis C.. When investigators look again Dr Schmitz medical records they noticed one more patient listed with the old lab sticker next to her name.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Janice troll Han",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11058,
+            11061
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "lab sticker",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11038,
+            11049
+          ],
+          "text": "lab sticker"
+        }
+      ]
+    }
+  ]
+}

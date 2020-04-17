@@ -1,0 +1,4196 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 15695,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Spokane",
+      "relevance": 0.956321,
+      "confidence": 1,
+      "count": 11
+    },
+    {
+      "type": "Facility",
+      "text": "Parenthood clinic",
+      "relevance": 0.615367,
+      "confidence": 0.876318,
+      "count": 4
+    },
+    {
+      "type": "Facility",
+      "text": "U. S. bank",
+      "relevance": 0.55418,
+      "confidence": 0.549865,
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Planned Parenthood",
+      "relevance": 0.535418,
+      "confidence": 0.965992,
+      "count": 7,
+      "disambiguation": {
+        "name": "Planned_Parenthood",
+        "dbpedia_resource": "http://dbpedia.org/resource/Planned_Parenthood",
+        "subtype": [
+          "Person"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Washington",
+      "relevance": 0.463595,
+      "confidence": 1,
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Phineas",
+      "relevance": 0.407801,
+      "confidence": 0.999724,
+      "count": 4,
+      "disambiguation": {
+        "name": "Phinehas",
+        "dbpedia_resource": "http://dbpedia.org/resource/Phinehas",
+        "subtype": [
+          "ReligiousLeader"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "fifty thousand dollars",
+      "relevance": 0.34923,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "FBI",
+      "relevance": 0.347724,
+      "confidence": 1,
+      "count": 6,
+      "disambiguation": {
+        "name": "FBi_Radio",
+        "dbpedia_resource": "http://dbpedia.org/resource/FBi_Radio",
+        "subtype": [
+          "Broadcast",
+          "RadioStation"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "relevance": 0.319043,
+      "confidence": 1,
+      "count": 4,
+      "disambiguation": {
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Idaho",
+      "relevance": 0.259742,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Charles Barkley",
+      "relevance": 0.239765,
+      "confidence": 1,
+      "count": 4,
+      "disambiguation": {
+        "name": "Charles_Barkley",
+        "dbpedia_resource": "http://dbpedia.org/resource/Charles_Barkley",
+        "subtype": [
+          "Athlete",
+          "AwardWinner",
+          "BasketballPlayer",
+          "HallOfFameInductee",
+          "OlympicAthlete",
+          "SportsLeagueAwardWinner",
+          "FilmActor",
+          "TVActor"
+        ]
+      }
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Spokane river",
+      "relevance": 0.235882,
+      "confidence": 0.65115,
+      "count": 1,
+      "disambiguation": {
+        "name": "Spokane_River",
+        "dbpedia_resource": "http://dbpedia.org/resource/Spokane_River",
+        "subtype": [
+          "Location",
+          "BodyOfWater",
+          "River"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "four inch",
+      "relevance": 0.220528,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eleven minutes",
+      "relevance": 0.219698,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty five pound",
+      "relevance": 0.213042,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty five thousand dollars",
+      "relevance": 0.208953,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "five feet",
+      "relevance": 0.199927,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "one hundred thirty thousand dollar",
+      "relevance": 0.194751,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "David knight",
+      "relevance": 0.187172,
+      "confidence": 0.998195,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Oregon",
+      "relevance": 0.183505,
+      "confidence": 0.999991,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "S. Priester",
+      "relevance": 0.163422,
+      "confidence": 0.559429,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "J. Morell",
+      "relevance": 0.158621,
+      "confidence": 0.99813,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Robert Barry",
+      "relevance": 0.158357,
+      "confidence": 0.959968,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Portland",
+      "relevance": 0.155609,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "United States government",
+      "relevance": 0.153301,
+      "confidence": 0.48154,
+      "count": 1,
+      "disambiguation": {
+        "name": "Federal_government_of_the_United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_government_of_the_United_States"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Berry forty",
+      "relevance": 0.147952,
+      "confidence": 0.490609,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Montana",
+      "relevance": 0.144452,
+      "confidence": 0.998719,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Robert Parry",
+      "relevance": 0.143941,
+      "confidence": 0.999967,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "fifteen minutes",
+      "relevance": 0.109678,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three months",
+      "relevance": 0.106642,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Charles Barbie",
+      "relevance": 0.093381,
+      "confidence": 0.99997,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Sandpoint",
+      "relevance": 0.092575,
+      "confidence": 0.999737,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kathleen",
+      "relevance": 0.082297,
+      "confidence": 0.873601,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Morales",
+      "relevance": 0.077344,
+      "confidence": 0.986885,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Richard border",
+      "relevance": 0.073935,
+      "confidence": 0.92295,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Barbie",
+      "relevance": 0.066042,
+      "confidence": 0.738608,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "New York",
+      "relevance": 0.053802,
+      "confidence": 0.993611,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Charles Bobby",
+      "relevance": 0.039879,
+      "confidence": 0.953675,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Connor",
+      "relevance": 0.022444,
+      "confidence": 0.654092,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Robert berry",
+      "relevance": 0.020725,
+      "confidence": 0.997441,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bobby",
+      "relevance": 0.013536,
+      "confidence": 0.987369,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/law, govt and politics",
+      "score": 0.888307
+    },
+    {
+      "label": "/society/crime/property crime/robbery",
+      "score": 0.805234
+    },
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.785376
+    },
+    {
+      "label": "/society/unrest and war",
+      "score": 0.769929
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.713702
+    },
+    {
+      "label": "/business and industrial/business operations",
+      "score": 0.682593
+    },
+    {
+      "label": "/law, govt and politics/law enforcement",
+      "score": 0.660489
+    },
+    {
+      "label": "/business and industrial/business operations/business plans",
+      "score": 0.60801
+    },
+    {
+      "label": "/society/senior living",
+      "score": 0.554064
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.549263
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.389332,
+      "sentence": "First a bomb went off outside the office of a local newspaper then another inside a bank two armed men entered and robbed the bank of fifty thousand dollars it was apparently the work of well trained criminals but one of the bombers made a crucial mistake.",
+      "type": "populationOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "fifty thousand",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            214,
+            228
+          ],
+          "text": "fifty thousand"
+        },
+        {
+          "entities": [
+            {
+              "text": "Bank",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            206,
+            210
+          ],
+          "text": "bank"
+        }
+      ]
+    },
+    {
+      "score": 0.442557,
+      "sentence": "As employees fled the building police rushed to the scene they found extensive damage but no one was injured.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "employees",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1180,
+            1189
+          ],
+          "text": "employees"
+        },
+        {
+          "entities": [
+            {
+              "text": "building",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1199,
+            1207
+          ],
+          "text": "building"
+        }
+      ]
+    },
+    {
+      "score": 0.607649,
+      "sentence": "But at the second trial three months later the jury returned guilty verdicts and burn morale.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "three months later",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            14787,
+            14805
+          ],
+          "text": "three months later"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14781,
+            14786
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.393476,
+      "sentence": "But at the second trial three months later the jury returned guilty verdicts and burn morale.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "jury",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14810,
+            14814
+          ],
+          "text": "jury"
+        },
+        {
+          "entities": [
+            {
+              "text": "verdicts",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14831,
+            14839
+          ],
+          "text": "verdicts"
+        }
+      ]
+    },
+    {
+      "score": 0.990909,
+      "sentence": "They claim to the end but the trial was political but investigators disagreed and to prove it they were able to present a well worn pair of blue jeans.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "jeans",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14922,
+            14926
+          ],
+          "text": "They"
+        },
+        {
+          "entities": [
+            {
+              "text": "claim",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14927,
+            14932
+          ],
+          "text": "claim"
+        }
+      ]
+    },
+    {
+      "score": 0.96909,
+      "sentence": "They claim to the end but the trial was political but investigators disagreed and to prove it they were able to present a well worn pair of blue jeans.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14976,
+            14989
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "disagreed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14990,
+            14999
+          ],
+          "text": "disagreed"
+        }
+      ]
+    },
+    {
+      "score": 0.53612,
+      "sentence": "They were basically robbers they wanted the money the criminals they didn't believe in our government that's true they didn't believe in abortion and that's true in believing banks that's true but the common criminals they did these two get money.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "jeans",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15476,
+            15480
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "robbers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15468,
+            15475
+          ],
+          "text": "robbers"
+        }
+      ]
+    },
+    {
+      "score": 0.558383,
+      "sentence": "As employees fled the building police rushed to the scene they found extensive damage but no one was injured.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1208,
+            1214
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "border",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1229,
+            1234
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.638231,
+      "sentence": "As employees fled the building police rushed to the scene they found extensive damage but no one was injured.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "employees",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1235,
+            1239
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "border",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1229,
+            1234
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.458537,
+      "sentence": "At two forty seven just eleven minutes after the spokesman review bombing police got another call.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "spokesman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1336,
+            1345
+          ],
+          "text": "spokesman"
+        },
+        {
+          "entities": [
+            {
+              "text": "authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1361,
+            1367
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.577563,
+      "sentence": "At two forty seven just eleven minutes after the spokesman review bombing police got another call.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1361,
+            1367
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "bombing",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            1353,
+            1360
+          ],
+          "text": "bombing"
+        }
+      ]
+    },
+    {
+      "score": 0.505628,
+      "sentence": "Bank surveillance camera showed two men entering the bank witnesses said a third man waited outside in a getaway van the man inside the bank for Parkers and ski masks to hide their identities.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1517,
+            1520
+          ],
+          "text": "men"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1549,
+            1553
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.97386,
+      "sentence": "After that occurred and they got apparently the money that they believed was available one of the robbers left a pipe bomb on the counter the bank and let it and then I told everybody to evacuate the bank that it I think the comment was made by one of the witnesses that they said get out it's going to blow or something similar to that.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2025,
+            2029
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2030,
+            2034
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.425204,
+      "sentence": "Bank surveillance camera showed two men entering the bank witnesses said a third man waited outside in a getaway van the man inside the bank for Parkers and ski masks to hide their identities.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1539,
+            1548
+          ],
+          "text": "witnesses"
+        },
+        {
+          "entities": [
+            {
+              "text": "Bank",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1534,
+            1538
+          ],
+          "text": "bank"
+        }
+      ]
+    },
+    {
+      "score": 0.710869,
+      "sentence": "Bank surveillance camera showed two men entering the bank witnesses said a third man waited outside in a getaway van the man inside the bank for Parkers and ski masks to hide their identities.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1539,
+            1548
+          ],
+          "text": "witnesses"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1549,
+            1553
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.658993,
+      "sentence": "Bank surveillance camera showed two men entering the bank witnesses said a third man waited outside in a getaway van the man inside the bank for Parkers and ski masks to hide their identities.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "informant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1562,
+            1565
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "van",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1594,
+            1597
+          ],
+          "text": "van"
+        }
+      ]
+    },
+    {
+      "score": 0.43582,
+      "sentence": "Bank surveillance camera showed two men entering the bank witnesses said a third man waited outside in a getaway van the man inside the bank for Parkers and ski masks to hide their identities.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "informant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1602,
+            1605
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "van",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1594,
+            1597
+          ],
+          "text": "van"
+        }
+      ]
+    },
+    {
+      "score": 0.669148,
+      "sentence": "Bank surveillance camera showed two men entering the bank witnesses said a third man waited outside in a getaway van the man inside the bank for Parkers and ski masks to hide their identities.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "informant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1602,
+            1605
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "Bank",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1617,
+            1621
+          ],
+          "text": "bank"
+        }
+      ]
+    },
+    {
+      "score": 0.858934,
+      "sentence": "Nestled in the fault of the Spokane river the city of Spokane Washington is the cultural and economic center of an area known as the inland northwest which includes parts of Washington Idaho Montana and Oregon.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "river",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            453,
+            458
+          ],
+          "text": "river"
+        },
+        {
+          "entities": [
+            {
+              "text": "Spokane Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            445,
+            452
+          ],
+          "text": "Spokane"
+        }
+      ]
+    },
+    {
+      "score": 0.482455,
+      "sentence": "Nestled in the fault of the Spokane river the city of Spokane Washington is the cultural and economic center of an area known as the inland northwest which includes parts of Washington Idaho Montana and Oregon.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "river",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            453,
+            458
+          ],
+          "text": "river"
+        },
+        {
+          "entities": [
+            {
+              "text": "Spokane Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            463,
+            467
+          ],
+          "text": "city"
+        }
+      ]
+    },
+    {
+      "score": 0.990548,
+      "sentence": "They were heavily armed at gun point they ordered tellers to put money in bags.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1711,
+            1715
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "ordered",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1716,
+            1723
+          ],
+          "text": "ordered"
+        }
+      ]
+    },
+    {
+      "score": 0.817055,
+      "sentence": "They were heavily armed at gun point they ordered tellers to put money in bags.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "tellers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1724,
+            1731
+          ],
+          "text": "tellers"
+        },
+        {
+          "entities": [
+            {
+              "text": "ordered",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1716,
+            1723
+          ],
+          "text": "ordered"
+        }
+      ]
+    },
+    {
+      "score": 0.498154,
+      "sentence": "After that occurred and they got apparently the money that they believed was available one of the robbers left a pipe bomb on the counter the bank and let it and then I told everybody to evacuate the bank that it I think the comment was made by one of the witnesses that they said get out it's going to blow or something similar to that.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1813,
+            1817
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "robbers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1852,
+            1859
+          ],
+          "text": "robbers"
+        }
+      ]
+    },
+    {
+      "score": 0.985224,
+      "sentence": "After that occurred and they got apparently the money that they believed was available one of the robbers left a pipe bomb on the counter the bank and let it and then I told everybody to evacuate the bank that it I think the comment was made by one of the witnesses that they said get out it's going to blow or something similar to that.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "she",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1921,
+            1922
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1923,
+            1927
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.556764,
+      "sentence": "After that occurred and they got apparently the money that they believed was available one of the robbers left a pipe bomb on the counter the bank and let it and then I told everybody to evacuate the bank that it I think the comment was made by one of the witnesses that they said get out it's going to blow or something similar to that.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "everybody",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1928,
+            1937
+          ],
+          "text": "everybody"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1923,
+            1927
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.229632,
+      "sentence": "The bomb scene in this surveillance shot exploded.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bomb",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            2096,
+            2100
+          ],
+          "text": "bomb"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2101,
+            2106
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.423535,
+      "sentence": "and people inside the bank could been severely injured from the shrapnel as it flew.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "People",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2330,
+            2336
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "Bank",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2348,
+            2352
+          ],
+          "text": "bank"
+        }
+      ]
+    },
+    {
+      "score": 0.889617,
+      "sentence": "It was a symbol of the Phineas priesthood a highly armed extremely violent right wing terrorist group that had declared a holy war against the United States government.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Planned Parenthood it",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3117,
+            3121
+          ],
+          "text": "that"
+        },
+        {
+          "entities": [
+            {
+              "text": "declared",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3126,
+            3134
+          ],
+          "text": "declared"
+        }
+      ]
+    },
+    {
+      "score": 0.936505,
+      "sentence": "Two bombings on the same day in Spokane Washington left massive damage and the community that feared there would be more violence to come.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "same day",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            3204,
+            3212
+          ],
+          "text": "same day"
+        },
+        {
+          "entities": [
+            {
+              "text": "bombings",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            3188,
+            3196
+          ],
+          "text": "bombings"
+        }
+      ]
+    },
+    {
+      "score": 0.977806,
+      "sentence": "He says the group takes its name from an Old Testament story about a man named Phineas kills an interracial couple.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David knight",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4110,
+            4112
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4113,
+            4117
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.303572,
+      "sentence": "The region is known for its beautiful countryside and for being home to many right wing groups openly hostile to the government of the United States.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bank",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            652,
+            655
+          ],
+          "text": "its"
+        },
+        {
+          "entities": [
+            {
+              "text": "countryside",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            666,
+            677
+          ],
+          "text": "countryside"
+        }
+      ]
+    },
+    {
+      "score": 0.536775,
+      "sentence": "He says the group takes its name from an Old Testament story about a man named Phineas kills an interracial couple.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Planned Parenthood it",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4122,
+            4127
+          ],
+          "text": "group"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4113,
+            4117
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.792794,
+      "sentence": "This was the most serious crime probably that's ever happened in Spokane from a danger to the entire community obviously you have serial murders and a lot of murder cases and so on but this case head you know people in fear they were terrorized.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4579,
+            4582
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4616,
+            4622
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.764394,
+      "sentence": "Police now knew the name of the group but not the names of the bombers.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bombers",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4767,
+            4774
+          ],
+          "text": "bombers"
+        },
+        {
+          "entities": [
+            {
+              "text": "Planned Parenthood it",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4736,
+            4741
+          ],
+          "text": "group"
+        }
+      ]
+    },
+    {
+      "score": 0.729764,
+      "sentence": "FBI analyst went over images from the bank surveillance cameras.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "analyst",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4780,
+            4787
+          ],
+          "text": "analyst"
+        },
+        {
+          "entities": [
+            {
+              "text": "FBI",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4776,
+            4779
+          ],
+          "text": "FBI"
+        }
+      ]
+    },
+    {
+      "score": 0.592136,
+      "sentence": "Were some of the best that I've ever seen in the laboratory because they were high quality thirty five millimeter black and white photographs and the individual in question was standing so close to the camera that he filled a large part of the frame.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "He",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5021,
+            5022
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "laboratory",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5043,
+            5053
+          ],
+          "text": "laboratory"
+        }
+      ]
+    },
+    {
+      "score": 0.976143,
+      "sentence": "Analysts concluded the robber was approximately five feet six and a half inches tall.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "analysts",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5475,
+            5483
+          ],
+          "text": "Analysts"
+        },
+        {
+          "entities": [
+            {
+              "text": "concluded",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5484,
+            5493
+          ],
+          "text": "concluded"
+        }
+      ]
+    },
+    {
+      "score": 0.616274,
+      "sentence": "This information was relayed to officers in Spokane.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5593,
+            5601
+          ],
+          "text": "officers"
+        },
+        {
+          "entities": [
+            {
+              "text": "Spokane Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5605,
+            5612
+          ],
+          "text": "Spokane"
+        }
+      ]
+    },
+    {
+      "score": 0.986841,
+      "sentence": "Witnesses said they saw two men in ponchos throw a lighted pipe bomb in the clinic's front door before driving away.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5761,
+            5770
+          ],
+          "text": "Witnesses"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5771,
+            5775
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.434266,
+      "sentence": "Witnesses said they saw two men in ponchos throw a lighted pipe bomb in the clinic's front door before driving away.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bomb",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            5825,
+            5829
+          ],
+          "text": "bomb"
+        },
+        {
+          "entities": [
+            {
+              "text": "clinic",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5837,
+            5843
+          ],
+          "text": "clinic"
+        }
+      ]
+    },
+    {
+      "score": 0.506071,
+      "sentence": "The bomb tore through the clinic and was clearly designed to kill only luck kept it from claiming lives nobody was hurt it was.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bomb",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            6067,
+            6071
+          ],
+          "text": "bomb"
+        },
+        {
+          "entities": [
+            {
+              "text": "clinic",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6089,
+            6095
+          ],
+          "text": "clinic"
+        }
+      ]
+    },
+    {
+      "score": 0.954416,
+      "sentence": "S. bank branch office robbed on April fools day was hit again almost a carbon copy of the first robbery and bombing after the bomb went off at a Planned Parenthood van pulls up again at the same U.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bank",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6458,
+            6476
+          ],
+          "text": "bank branch office"
+        },
+        {
+          "entities": [
+            {
+              "text": "robbed",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            6477,
+            6483
+          ],
+          "text": "robbed"
+        }
+      ]
+    },
+    {
+      "score": 0.45148,
+      "sentence": "The region is known for its beautiful countryside and for being home to many right wing groups openly hostile to the government of the United States.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "groups",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            716,
+            722
+          ],
+          "text": "groups"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            692,
+            696
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.986717,
+      "sentence": "S. bank branch office robbed on April fools day was hit again almost a carbon copy of the first robbery and bombing after the bomb went off at a Planned Parenthood van pulls up again at the same U.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "April fools day",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            6487,
+            6502
+          ],
+          "text": "April fools day"
+        },
+        {
+          "entities": [
+            {
+              "text": "robbed",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            6477,
+            6483
+          ],
+          "text": "robbed"
+        }
+      ]
+    },
+    {
+      "score": 0.676169,
+      "sentence": "S. bank branch office robbed on April fools day was hit again almost a carbon copy of the first robbery and bombing after the bomb went off at a Planned Parenthood van pulls up again at the same U.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Planned Parenthood it",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6600,
+            6618
+          ],
+          "text": "Planned Parenthood"
+        },
+        {
+          "entities": [
+            {
+              "text": "van",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            6619,
+            6622
+          ],
+          "text": "van"
+        }
+      ]
+    },
+    {
+      "score": 0.985359,
+      "sentence": "S. bank on Sprague Avenue two robbers wrote though in one's carrying twenty five pound propane tank the kind that we use for our barbecues with something on top they're both armed as in the first robbery the man took over the bank and made off with thirty five thousand dollars in cash.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "robbers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6683,
+            6690
+          ],
+          "text": "robbers"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6691,
+            6696
+          ],
+          "text": "wrote"
+        }
+      ]
+    },
+    {
+      "score": 0.58705,
+      "sentence": "They left the propane tank bomb on the floor and fled in a white van but this mom which was rigged with an electric taser detonating device failed to go off.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "People",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6940,
+            6944
+          ],
+          "text": "They"
+        },
+        {
+          "entities": [
+            {
+              "text": "van",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            7005,
+            7008
+          ],
+          "text": "van"
+        }
+      ]
+    },
+    {
+      "score": 0.404472,
+      "sentence": "They left the propane tank bomb on the floor and fled in a white van but this mom which was rigged with an electric taser detonating device failed to go off.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mom",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7018,
+            7021
+          ],
+          "text": "mom"
+        },
+        {
+          "entities": [
+            {
+              "text": "van",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            7005,
+            7008
+          ],
+          "text": "van"
+        }
+      ]
+    },
+    {
+      "score": 0.940144,
+      "sentence": "A matchbook left behind at the Planned Parenthood bombing contained the priesthood logo it cited to biblical passages one psalm one thirty nine contains the verse killed the wicked.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Planned Parenthood it",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7129,
+            7147
+          ],
+          "text": "Planned Parenthood"
+        },
+        {
+          "entities": [
+            {
+              "text": "bombing",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            7148,
+            7155
+          ],
+          "text": "bombing"
+        }
+      ]
+    },
+    {
+      "score": 0.834816,
+      "sentence": "In Robert Parry's truck repair business they found what appeared to be the same buckshot used in the Planned Parenthood bombing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Planned Parenthood it",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11261,
+            11279
+          ],
+          "text": "Planned Parenthood"
+        },
+        {
+          "entities": [
+            {
+              "text": "bombing",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            11280,
+            11287
+          ],
+          "text": "bombing"
+        }
+      ]
+    },
+    {
+      "score": 0.987367,
+      "sentence": "A few days later the bombers sent this letter to Planned Parenthood it's sad sorry we missed you on July twelfth will do better next time.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bombers",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7301,
+            7308
+          ],
+          "text": "bombers"
+        },
+        {
+          "entities": [
+            {
+              "text": "sent",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7309,
+            7313
+          ],
+          "text": "sent"
+        }
+      ]
+    },
+    {
+      "score": 0.597104,
+      "sentence": "After their branch office in Spokane Washington was targeted in two separate bomb attacks U.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Planned Parenthood it",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7431,
+            7444
+          ],
+          "text": "branch office"
+        },
+        {
+          "entities": [
+            {
+              "text": "Spokane Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7448,
+            7466
+          ],
+          "text": "Spokane Washington"
+        }
+      ]
+    },
+    {
+      "score": 0.808622,
+      "sentence": "After their branch office in Spokane Washington was targeted in two separate bomb attacks U.",
+      "type": "instrumentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bomb",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            7496,
+            7500
+          ],
+          "text": "bomb"
+        },
+        {
+          "entities": [
+            {
+              "text": "attacks",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            7501,
+            7508
+          ],
+          "text": "attacks"
+        }
+      ]
+    },
+    {
+      "score": 0.479851,
+      "sentence": "After their branch office in Spokane Washington was targeted in two separate bomb attacks U.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "U",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7509,
+            7510
+          ],
+          "text": "U"
+        },
+        {
+          "entities": [
+            {
+              "text": "attacks",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            7501,
+            7508
+          ],
+          "text": "attacks"
+        }
+      ]
+    },
+    {
+      "score": 0.336758,
+      "sentence": "The region is known for its beautiful countryside and for being home to many right wing groups openly hostile to the government of the United States.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bank",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            745,
+            755
+          ],
+          "text": "government"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States government",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            763,
+            776
+          ],
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "score": 0.861116,
+      "sentence": "S. bank officials put up a one hundred thirty thousand dollar reward for any information on members of the Phineas priesthood the group that claimed responsibility for the attacks.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7520,
+            7529
+          ],
+          "text": "officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "Bank",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7515,
+            7519
+          ],
+          "text": "bank"
+        }
+      ]
+    },
+    {
+      "score": 0.927485,
+      "sentence": "S. bank officials put up a one hundred thirty thousand dollar reward for any information on members of the Phineas priesthood the group that claimed responsibility for the attacks.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Planned Parenthood it",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7648,
+            7652
+          ],
+          "text": "that"
+        },
+        {
+          "entities": [
+            {
+              "text": "claimed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7653,
+            7660
+          ],
+          "text": "claimed"
+        }
+      ]
+    },
+    {
+      "score": 0.540299,
+      "sentence": "Meanwhile analysts examine the pipe bomb that nearly destroyed Spokane's Planned Parenthood clinic.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Planned Parenthood it",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7766,
+            7784
+          ],
+          "text": "Planned Parenthood"
+        },
+        {
+          "entities": [
+            {
+              "text": "Spokane Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7756,
+            7763
+          ],
+          "text": "Spokane"
+        }
+      ]
+    },
+    {
+      "score": 0.593359,
+      "sentence": "Meanwhile analysts examine the pipe bomb that nearly destroyed Spokane's Planned Parenthood clinic.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Planned Parenthood it",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7785,
+            7791
+          ],
+          "text": "clinic"
+        },
+        {
+          "entities": [
+            {
+              "text": "Spokane Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7756,
+            7763
+          ],
+          "text": "Spokane"
+        }
+      ]
+    },
+    {
+      "score": 0.450572,
+      "sentence": "The buckshot found in Robert Parry's truck repair business was subjected to the same analysis as buckshot attached to the bomb that destroyed Spokane's Planned Parenthood clinic.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Planned Parenthood it",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11782,
+            11800
+          ],
+          "text": "Planned Parenthood"
+        },
+        {
+          "entities": [
+            {
+              "text": "Spokane Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11772,
+            11779
+          ],
+          "text": "Spokane"
+        }
+      ]
+    },
+    {
+      "score": 0.482388,
+      "sentence": "The buckshot found in Robert Parry's truck repair business was subjected to the same analysis as buckshot attached to the bomb that destroyed Spokane's Planned Parenthood clinic.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Planned Parenthood it",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11801,
+            11807
+          ],
+          "text": "clinic"
+        },
+        {
+          "entities": [
+            {
+              "text": "Spokane Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11772,
+            11779
+          ],
+          "text": "Spokane"
+        }
+      ]
+    },
+    {
+      "score": 0.390132,
+      "sentence": "That bomb caused unbelievable damage to the Planned Parenthood the director Planned Parenthood from New York came out said this was the worst bombing that it ever happened a Planned Parenthood clinic.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "director",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7860,
+            7868
+          ],
+          "text": "director"
+        },
+        {
+          "entities": [
+            {
+              "text": "Planned Parenthood it",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7837,
+            7855
+          ],
+          "text": "Planned Parenthood"
+        }
+      ]
+    },
+    {
+      "score": 0.659455,
+      "sentence": "That bomb caused unbelievable damage to the Planned Parenthood the director Planned Parenthood from New York came out said this was the worst bombing that it ever happened a Planned Parenthood clinic.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "director",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7860,
+            7868
+          ],
+          "text": "director"
+        },
+        {
+          "entities": [
+            {
+              "text": "Planned Parenthood it",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7869,
+            7887
+          ],
+          "text": "Planned Parenthood"
+        }
+      ]
+    },
+    {
+      "score": 0.481383,
+      "sentence": "That bomb caused unbelievable damage to the Planned Parenthood the director Planned Parenthood from New York came out said this was the worst bombing that it ever happened a Planned Parenthood clinic.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Planned Parenthood it",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7869,
+            7887
+          ],
+          "text": "Planned Parenthood"
+        },
+        {
+          "entities": [
+            {
+              "text": "New York",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7893,
+            7901
+          ],
+          "text": "New York"
+        }
+      ]
+    },
+    {
+      "score": 0.697272,
+      "sentence": "FBI analyst Kathleen Monday took shavings from the buckshot found at the bomb site.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kathleen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8205,
+            8212
+          ],
+          "text": "analyst"
+        },
+        {
+          "entities": [
+            {
+              "text": "FBI",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8201,
+            8204
+          ],
+          "text": "FBI"
+        }
+      ]
+    },
+    {
+      "score": 0.584123,
+      "sentence": "Compared to my years of experience the buckshot in this case had extremely high levels of these impurities and the chemical or elemental makeup of this buckshot was I'd say distinctive compared to others that I've analyzed.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kathleen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8530,
+            8532
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "proceedings",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8574,
+            8578
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.608883,
+      "sentence": "Compared to my years of experience the buckshot in this case had extremely high levels of these impurities and the chemical or elemental makeup of this buckshot was I'd say distinctive compared to others that I've analyzed.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kathleen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8683,
+            8684
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8687,
+            8690
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.587956,
+      "sentence": "Any S. Priester that this gang of people had tried to recruit into their gang decided that he wanted that money and contacted authorities and and pointed out the man to them.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "informant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9097,
+            9100
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "People",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9104,
+            9108
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.553076,
+      "sentence": "The informant had one more piece of information the trio was planning their next banquette for October eighth the target a U.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "informant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9228,
+            9237
+          ],
+          "text": "informant"
+        },
+        {
+          "entities": [
+            {
+              "text": "People",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9294,
+            9299
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.534737,
+      "sentence": "At two thirty six on the afternoon of April first nineteen ninety six one of these groups made its presence known in Spokane.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "groups",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            861,
+            867
+          ],
+          "text": "groups"
+        },
+        {
+          "entities": [
+            {
+              "text": "Spokane Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            895,
+            902
+          ],
+          "text": "Spokane"
+        }
+      ]
+    },
+    {
+      "score": 0.515055,
+      "sentence": "S. bank branch in Portland Oregon.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bank",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9353,
+            9364
+          ],
+          "text": "bank branch"
+        },
+        {
+          "entities": [
+            {
+              "text": "Portland Oregon",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9368,
+            9383
+          ],
+          "text": "Portland Oregon"
+        }
+      ]
+    },
+    {
+      "score": 0.197455,
+      "sentence": "The FBI immediately began background checks and surveillance on the three men.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9459,
+            9462
+          ],
+          "text": "men"
+        },
+        {
+          "entities": [
+            {
+              "text": "FBI",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9389,
+            9392
+          ],
+          "text": "FBI"
+        }
+      ]
+    },
+    {
+      "score": 0.632917,
+      "sentence": "They found that Morales fifty one trained as a nuclear engineer left his career and moved to Idaho to devote all his time to the Phineas priesthood.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "nuclear engineer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9533,
+            9536
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Sandpoint Idaho",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            9557,
+            9562
+          ],
+          "text": "Idaho"
+        }
+      ]
+    },
+    {
+      "score": 0.570472,
+      "sentence": "On October eighth the man who were being watched by investigators using long distance surveillance equipment look at their vehicle with automatic rifles and grenade launchers and left for Portland.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "informant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10040,
+            10043
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10137,
+            10144
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.68513,
+      "sentence": "On October eighth the man who were being watched by investigators using long distance surveillance equipment look at their vehicle with automatic rifles and grenade launchers and left for Portland.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10066,
+            10079
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10131,
+            10136
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.65906,
+      "sentence": "On October eighth the man who were being watched by investigators using long distance surveillance equipment look at their vehicle with automatic rifles and grenade launchers and left for Portland.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10131,
+            10136
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10137,
+            10144
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.590217,
+      "sentence": "Before the trio arrived in Portland FBI officials called the U.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "FBI",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10248,
+            10251
+          ],
+          "text": "FBI"
+        },
+        {
+          "entities": [
+            {
+              "text": "Portland Oregon",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10239,
+            10247
+          ],
+          "text": "Portland"
+        }
+      ]
+    },
+    {
+      "score": 0.869485,
+      "sentence": "Before the trio arrived in Portland FBI officials called the U.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10252,
+            10261
+          ],
+          "text": "officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "FBI",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10248,
+            10251
+          ],
+          "text": "FBI"
+        }
+      ]
+    },
+    {
+      "score": 0.986624,
+      "sentence": "Before the trio arrived in Portland FBI officials called the U.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10252,
+            10261
+          ],
+          "text": "officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10262,
+            10268
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.590067,
+      "sentence": "S. bank branch and told them to lock their doors.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bank",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10279,
+            10290
+          ],
+          "text": "bank branch"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10295,
+            10299
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.483044,
+      "sentence": "At two thirty six on the afternoon of April first nineteen ninety six one of these groups made its presence known in Spokane.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bank",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            873,
+            876
+          ],
+          "text": "its"
+        },
+        {
+          "entities": [
+            {
+              "text": "Spokane Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            895,
+            902
+          ],
+          "text": "Spokane"
+        }
+      ]
+    },
+    {
+      "score": 0.931338,
+      "sentence": "S. bank branch and told them to lock their doors.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10300,
+            10304
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10295,
+            10299
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.696387,
+      "sentence": "Agents watched as the trio waited outside the bank in their van.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Agents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10380,
+            10385
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "van",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            10386,
+            10389
+          ],
+          "text": "van"
+        }
+      ]
+    },
+    {
+      "score": 0.638972,
+      "sentence": "But nobody was getting and so that the bank got a phone call that said are you open and they said no.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10524,
+            10527
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10515,
+            10519
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.991806,
+      "sentence": "But nobody was getting and so that the bank got a phone call that said are you open and they said no.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Agents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10537,
+            10541
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10542,
+            10546
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.284159,
+      "sentence": "Stymied in their plans the man drove away.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "informant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10633,
+            10636
+          ],
+          "text": "man"
+        },
+        {
+          "entities": [
+            {
+              "text": "Agents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10617,
+            10622
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.591303,
+      "sentence": "Agents followed them in the air and on the ground and when the man stopped for gas and Yakama Washington police swooped in for the arrest.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Yakama",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10736,
+            10742
+          ],
+          "text": "Yakama"
+        },
+        {
+          "entities": [
+            {
+              "text": "Planned Parenthood it",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10743,
+            10753
+          ],
+          "text": "Washington"
+        }
+      ]
+    },
+    {
+      "score": 0.568765,
+      "sentence": "Agents followed them in the air and on the ground and when the man stopped for gas and Yakama Washington police swooped in for the arrest.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Yakama",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10736,
+            10742
+          ],
+          "text": "Yakama"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrest",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            10780,
+            10786
+          ],
+          "text": "arrest"
+        }
+      ]
+    },
+    {
+      "score": 0.997144,
+      "sentence": "Agents followed them in the air and on the ground and when the man stopped for gas and Yakama Washington police swooped in for the arrest.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10754,
+            10760
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "Planned Parenthood it",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10743,
+            10753
+          ],
+          "text": "Washington"
+        }
+      ]
+    },
+    {
+      "score": 0.61693,
+      "sentence": "They would have been prepared for anything had we tried to stop them on the highway and they were gonna have a shoot out.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Agents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10835,
+            10837
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "highway",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10864,
+            10871
+          ],
+          "text": "highway"
+        }
+      ]
+    },
+    {
+      "score": 0.566987,
+      "sentence": "Agents searched the suspect's home.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "informant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10985,
+            10992
+          ],
+          "text": "suspect"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10995,
+            10999
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.456024,
+      "sentence": "An employee at a branch office of the local newspaper the spokesman review.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Kathleen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            907,
+            915
+          ],
+          "text": "employee"
+        },
+        {
+          "entities": [
+            {
+              "text": "Planned Parenthood it",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            921,
+            934
+          ],
+          "text": "branch office"
+        }
+      ]
+    },
+    {
+      "score": 0.832245,
+      "sentence": "In Robert Parry's truck repair business they found what appeared to be the same buckshot used in the Planned Parenthood bombing.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Parry",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11163,
+            11175
+          ],
+          "text": "Robert Parry"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11178,
+            11183
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.825486,
+      "sentence": "The buckshot found in Robert Parry's truck repair business was subjected to the same analysis as buckshot attached to the bomb that destroyed Spokane's Planned Parenthood clinic.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Parry",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11652,
+            11664
+          ],
+          "text": "Robert Parry"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11667,
+            11672
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.574933,
+      "sentence": "In Robert Parry's truck repair business they found what appeared to be the same buckshot used in the Planned Parenthood bombing.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Parry",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11163,
+            11175
+          ],
+          "text": "Robert Parry"
+        },
+        {
+          "entities": [
+            {
+              "text": "Agents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11200,
+            11204
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.534508,
+      "sentence": "In Robert Parry's truck repair business they found what appeared to be the same buckshot used in the Planned Parenthood bombing.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Agents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11200,
+            11204
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11178,
+            11183
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.228769,
+      "sentence": "And in the home of the third suspect Charles Barkley investigators found something that the FBI analyst told them to be on the lookout for an unusual piece of evidence.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Charles Barkley",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11326,
+            11341
+          ],
+          "text": "Charles Barkley"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11342,
+            11355
+          ],
+          "text": "investigators"
+        }
+      ]
+    },
+    {
+      "score": 0.717922,
+      "sentence": "And in the home of the third suspect Charles Barkley investigators found something that the FBI analyst told them to be on the lookout for an unusual piece of evidence.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Parry",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11385,
+            11392
+          ],
+          "text": "analyst"
+        },
+        {
+          "entities": [
+            {
+              "text": "FBI",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11381,
+            11384
+          ],
+          "text": "FBI"
+        }
+      ]
+    },
+    {
+      "score": 0.955756,
+      "sentence": "And in the home of the third suspect Charles Barkley investigators found something that the FBI analyst told them to be on the lookout for an unusual piece of evidence.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Robert Parry",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11385,
+            11392
+          ],
+          "text": "analyst"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11393,
+            11397
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.660993,
+      "sentence": "And in the home of the third suspect Charles Barkley investigators found something that the FBI analyst told them to be on the lookout for an unusual piece of evidence.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11398,
+            11402
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11393,
+            11397
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.814124,
+      "sentence": "After the arrest of three men in the Spokane bombings and robberies investigators look for conclusive evidence to tie them to the crimes.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11518,
+            11521
+          ],
+          "text": "men"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrest",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            11502,
+            11508
+          ],
+          "text": "arrest"
+        }
+      ]
+    },
+    {
+      "score": 0.327529,
+      "sentence": "After the arrest of three men in the Spokane bombings and robberies investigators look for conclusive evidence to tie them to the crimes.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bombings",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            11537,
+            11545
+          ],
+          "text": "bombings"
+        },
+        {
+          "entities": [
+            {
+              "text": "Spokane Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11529,
+            11536
+          ],
+          "text": "Spokane"
+        }
+      ]
+    },
+    {
+      "score": 0.934956,
+      "sentence": "After the arrest of three men in the Spokane bombings and robberies investigators look for conclusive evidence to tie them to the crimes.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11610,
+            11614
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "crimes",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11622,
+            11628
+          ],
+          "text": "crimes"
+        }
+      ]
+    },
+    {
+      "score": 0.814491,
+      "sentence": "An employee at a branch office of the local newspaper the spokesman review.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Planned Parenthood it",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            921,
+            934
+          ],
+          "text": "branch office"
+        },
+        {
+          "entities": [
+            {
+              "text": "newspaper",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            948,
+            957
+          ],
+          "text": "newspaper"
+        }
+      ]
+    },
+    {
+      "score": 0.73088,
+      "sentence": "The buckshot found in Robert Parry's truck repair business was subjected to the same analysis as buckshot attached to the bomb that destroyed Spokane's Planned Parenthood clinic.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bomb site",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11757,
+            11761
+          ],
+          "text": "that"
+        },
+        {
+          "entities": [
+            {
+              "text": "Spokane Washington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11772,
+            11779
+          ],
+          "text": "Spokane"
+        }
+      ]
+    },
+    {
+      "score": 0.889711,
+      "sentence": "FBI photograph analyst Richard border brew gate had an agent of Barbies hide where the genes taken from Charles Barbie's home.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12765,
+            12770
+          ],
+          "text": "agent"
+        },
+        {
+          "entities": [
+            {
+              "text": "Barbies",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12774,
+            12781
+          ],
+          "text": "Barbies"
+        }
+      ]
+    },
+    {
+      "score": 0.405811,
+      "sentence": "FBI photograph analyst Richard border brew gate had an agent of Barbies hide where the genes taken from Charles Barbie's home.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Richard",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12765,
+            12770
+          ],
+          "text": "agent"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12831,
+            12835
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.438456,
+      "sentence": "FBI photograph analyst Richard border brew gate had an agent of Barbies hide where the genes taken from Charles Barbie's home.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Charles Barbie",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12814,
+            12828
+          ],
+          "text": "Charles Barbie"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12831,
+            12835
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.838209,
+      "sentence": "This man was photographed from the same distance and in the same position as the bank's surveillance photo of the man thought to be Charles Barkley it enables me to get them positioned in a way that most closely approximates what the bank robbers posture was it also enables me to to try and replicate the draping of the clothing as closely as possible in a process called point by point analysis the photos are broken down into sections and each section is analyzed for distinctive features.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Charles Barkley",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12969,
+            12984
+          ],
+          "text": "Charles Barkley"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13006,
+            13010
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.764689,
+      "sentence": "This man was photographed from the same distance and in the same position as the bank's surveillance photo of the man thought to be Charles Barkley it enables me to get them positioned in a way that most closely approximates what the bank robbers posture was it also enables me to to try and replicate the draping of the clothing as closely as possible in a process called point by point analysis the photos are broken down into sections and each section is analyzed for distinctive features.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "informant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12996,
+            12998
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13006,
+            13010
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.437515,
+      "sentence": "This man was photographed from the same distance and in the same position as the bank's surveillance photo of the man thought to be Charles Barkley it enables me to get them positioned in a way that most closely approximates what the bank robbers posture was it also enables me to to try and replicate the draping of the clothing as closely as possible in a process called point by point analysis the photos are broken down into sections and each section is analyzed for distinctive features.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "robbers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13076,
+            13083
+          ],
+          "text": "robbers"
+        },
+        {
+          "entities": [
+            {
+              "text": "Bank",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13071,
+            13075
+          ],
+          "text": "bank"
+        }
+      ]
+    },
+    {
+      "score": 0.63556,
+      "sentence": "The same pair of blue jeans that were worn during the bank robbers.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "robbers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15133,
+            15140
+          ],
+          "text": "robbers"
+        },
+        {
+          "entities": [
+            {
+              "text": "Bank",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            15128,
+            15132
+          ],
+          "text": "bank"
+        }
+      ]
+    },
+    {
+      "score": 0.620985,
+      "sentence": "Then the two sets of photos those showing the jeans worn by the bank robber and those taken from the suspect's home.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "informant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13431,
+            13438
+          ],
+          "text": "suspect"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13441,
+            13445
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.341838,
+      "sentence": "The same age pattern can be seen in genes taken from Charles Bobby's home in this case because I was able to positively identify those pants I could get on the stand and say those pants were the ones worn by the bank robber I can't tell you who the bank robber was.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Charles Bobby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14114,
+            14127
+          ],
+          "text": "Charles Bobby"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14130,
+            14134
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.933372,
+      "sentence": "It was later found that one of the jurors was sympathetic to the Phineas priesthood to anti government beliefs.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            14675,
+            14678
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "jurors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14686,
+            14692
+          ],
+          "text": "jurors"
+        }
+      ]
+    }
+  ]
+}

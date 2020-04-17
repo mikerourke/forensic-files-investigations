@@ -1,0 +1,4690 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 14816,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Brad",
+      "relevance": 0.980354,
+      "confidence": 1,
+      "count": 32
+    },
+    {
+      "type": "Person",
+      "text": "Larry Moore",
+      "relevance": 0.864313,
+      "confidence": 1,
+      "count": 12,
+      "disambiguation": {
+        "name": "Larry_Moore",
+        "dbpedia_resource": "http://dbpedia.org/resource/Larry_Moore",
+        "subtype": [
+          "Athlete",
+          "FootballPlayer"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Brad Brisbane",
+      "relevance": 0.778311,
+      "confidence": 1,
+      "count": 12
+    },
+    {
+      "type": "Person",
+      "text": "Larry",
+      "relevance": 0.33187,
+      "confidence": 1,
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "Moore",
+      "relevance": 0.18915,
+      "confidence": 1,
+      "count": 7
+    },
+    {
+      "type": "Organization",
+      "text": "Popular high school",
+      "relevance": 0.185887,
+      "confidence": 0.246065,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "National Forest lands and Yellowstone National Park",
+      "relevance": 0.180759,
+      "confidence": 0.430012,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Shelly",
+      "relevance": 0.163726,
+      "confidence": 0.999867,
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Brisbane",
+      "relevance": 0.159348,
+      "confidence": 0.999938,
+      "count": 5
+    },
+    {
+      "type": "Location",
+      "text": "Washington",
+      "relevance": 0.155741,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Renate",
+      "relevance": 0.149792,
+      "confidence": 0.999033,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Brad Bridgeman",
+      "relevance": 0.143337,
+      "confidence": 0.998566,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Shelley",
+      "relevance": 0.141776,
+      "confidence": 1,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Larry Morris",
+      "relevance": 0.116628,
+      "confidence": 0.95181,
+      "count": 1,
+      "disambiguation": {
+        "name": "Larry_Morris",
+        "dbpedia_resource": "http://dbpedia.org/resource/Larry_Morris",
+        "subtype": [
+          "Athlete",
+          "FootballPlayer"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Spokane",
+      "relevance": 0.101849,
+      "confidence": 0.998312,
+      "count": 2
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Yellowstone National Park",
+      "relevance": 0.10053,
+      "confidence": 0.273,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Yellowstone",
+      "relevance": 0.088739,
+      "confidence": 0.207783,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Belgrade",
+      "relevance": 0.085868,
+      "confidence": 0.99979,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Montana",
+      "relevance": 0.084737,
+      "confidence": 0.999998,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Darby",
+      "relevance": 0.084039,
+      "confidence": 0.796905,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Chile",
+      "relevance": 0.067002,
+      "confidence": 0.997738,
+      "count": 1,
+      "disambiguation": {
+        "name": "Chile",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chile",
+        "subtype": [
+          "Country",
+          "GovernmentalJurisdiction"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "two days",
+      "relevance": 0.060237,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "tremor",
+      "relevance": 0.059481,
+      "confidence": 0.598284,
+      "count": 1,
+      "disambiguation": {
+        "name": "Tremor",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tremor",
+        "subtype": [
+          "Symptom"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Charlie",
+      "relevance": 0.058537,
+      "confidence": 0.999881,
+      "count": 1
+    },
+    {
+      "type": "Sport",
+      "text": "basketball",
+      "relevance": 0.05618,
+      "confidence": 0.995018,
+      "count": 1,
+      "disambiguation": {
+        "name": "Basketball",
+        "dbpedia_resource": "http://dbpedia.org/resource/Basketball",
+        "subtype": [
+          "Invention",
+          "FieldOfStudy",
+          "AwardDiscipline",
+          "OlympicEventCompetition"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Larry Morse",
+      "relevance": 0.054912,
+      "confidence": 0.979193,
+      "count": 1,
+      "disambiguation": {
+        "name": "M._Laurance_Morse",
+        "dbpedia_resource": "http://dbpedia.org/resource/M._Laurance_Morse"
+      }
+    },
+    {
+      "type": "Location",
+      "text": "west Yellowstone",
+      "relevance": 0.036822,
+      "confidence": 0.863819,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Brett",
+      "relevance": 0.027478,
+      "confidence": 0.999897,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "sixty years",
+      "relevance": 0.014457,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two years",
+      "relevance": 0.013408,
+      "confidence": 0.96,
+      "count": 2
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.949613
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.752588
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.737375
+    },
+    {
+      "label": "/sports/hunting and shooting",
+      "score": 0.697547
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.696845
+    },
+    {
+      "label": "/society/dating",
+      "score": 0.639507
+    },
+    {
+      "label": "/sports/go kart",
+      "score": 0.611826
+    },
+    {
+      "label": "/family and parenting/parenting teens",
+      "score": 0.601665
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.824353,
+      "sentence": "Popular high school gym teacher mysteriously left town without saying goodbye to anyone.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "gym teacher",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            20,
+            31
+          ],
+          "text": "gym teacher"
+        },
+        {
+          "entities": [
+            {
+              "text": "National Forest lands and Yellowstone National Park",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8,
+            19
+          ],
+          "text": "high school"
+        }
+      ]
+    },
+    {
+      "score": 0.481978,
+      "sentence": "Friday November ninth nineteen ninety started like most days until Brad got a telephone call at work and left class unexpectedly I actually met in the hall and his jacket on he was getting ready to leave I asked where he was going he just said to help out a friend and I had brought in the substitute for the P. class he said he would see me at dinner later on that night.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "met",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            1114,
+            1117
+          ],
+          "text": "met"
+        },
+        {
+          "entities": [
+            {
+              "text": "hall",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1125,
+            1129
+          ],
+          "text": "hall"
+        }
+      ]
+    },
+    {
+      "score": 0.731137,
+      "sentence": "Just two years after his conviction Larry Moore made headlines again.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12942,
+            12953
+          ],
+          "text": "Larry Moore"
+        },
+        {
+          "entities": [
+            {
+              "text": "conviction",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12931,
+            12941
+          ],
+          "text": "conviction"
+        }
+      ]
+    },
+    {
+      "score": 0.475508,
+      "sentence": "He was charged with conspiring to build a bomb in prison.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12976,
+            12978
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12983,
+            12990
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.498692,
+      "sentence": "He was charged with conspiring to build a bomb in prison.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12996,
+            13006
+          ],
+          "text": "conspiring"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13026,
+            13032
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.339065,
+      "sentence": "To avoid federal charges more agreed to lead authorities to Brad Brisbane's body.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13094,
+            13107
+          ],
+          "text": "Brad Brisbane"
+        },
+        {
+          "entities": [
+            {
+              "text": "defendant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13110,
+            13114
+          ],
+          "text": "body"
+        }
+      ]
+    },
+    {
+      "score": 0.60561,
+      "sentence": "More directed officials to a campground where he hit the three fifty seven magnum pistol he used in the murder.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13130,
+            13139
+          ],
+          "text": "officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "campground",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13145,
+            13155
+          ],
+          "text": "campground"
+        }
+      ]
+    },
+    {
+      "score": 0.483101,
+      "sentence": "Moore also led police to a gravel a few miles outside of west Yellowstone where they on earth to Brad's body.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13312,
+            13317
+          ],
+          "text": "Moore"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13392,
+            13396
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.956255,
+      "sentence": "Larry did turn a little pale and go and sit in a vehicle but he never did tell us the real reason or the story behind how it actually happened.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13497,
+            13502
+          ],
+          "text": "Larry"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            13546,
+            13553
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.527075,
+      "sentence": "Larry did turn a little pale and go and sit in a vehicle but he never did tell us the real reason or the story behind how it actually happened.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13558,
+            13560
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "vehicle",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            13546,
+            13553
+          ],
+          "text": "vehicle"
+        }
+      ]
+    },
+    {
+      "score": 0.338706,
+      "sentence": "A forensic examination of Brad's body confirmed what forensic scientist told the jury in court two years earlier.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13667,
+            13671
+          ],
+          "text": "Brad"
+        },
+        {
+          "entities": [
+            {
+              "text": "defendant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13674,
+            13678
+          ],
+          "text": "body"
+        }
+      ]
+    },
+    {
+      "score": 0.979472,
+      "sentence": "A forensic examination of Brad's body confirmed what forensic scientist told the jury in court two years earlier.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13703,
+            13712
+          ],
+          "text": "scientist"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13713,
+            13717
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.48855,
+      "sentence": "A forensic examination of Brad's body confirmed what forensic scientist told the jury in court two years earlier.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13703,
+            13712
+          ],
+          "text": "scientist"
+        },
+        {
+          "entities": [
+            {
+              "text": "jury",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13722,
+            13726
+          ],
+          "text": "jury"
+        }
+      ]
+    },
+    {
+      "score": 0.996062,
+      "sentence": "Friday November ninth nineteen ninety started like most days until Brad got a telephone call at work and left class unexpectedly I actually met in the hall and his jacket on he was getting ready to leave I asked where he was going he just said to help out a friend and I had brought in the substitute for the P. class he said he would see me at dinner later on that night.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1178,
+            1179
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1180,
+            1185
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.925948,
+      "sentence": "A forensic examination of Brad's body confirmed what forensic scientist told the jury in court two years earlier.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "jury",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13722,
+            13726
+          ],
+          "text": "jury"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13713,
+            13717
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.880825,
+      "sentence": "A forensic examination of Brad's body confirmed what forensic scientist told the jury in court two years earlier.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "court",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13730,
+            13735
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13713,
+            13717
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.980844,
+      "sentence": "A forensic examination of Brad's body confirmed what forensic scientist told the jury in court two years earlier.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "two years earlier",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            13736,
+            13753
+          ],
+          "text": "two years earlier"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13713,
+            13717
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.05513,
+      "sentence": "Even though Moore led police to the body and the murder weapon he never confessed until now.",
+      "type": "instrumentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "weapon",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            13948,
+            13954
+          ],
+          "text": "weapon"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13941,
+            13947
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.935562,
+      "sentence": "Even though Moore led police to the body and the murder weapon he never confessed until now.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13955,
+            13957
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "confessed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13964,
+            13973
+          ],
+          "text": "confessed"
+        }
+      ]
+    },
+    {
+      "score": 0.511062,
+      "sentence": "In an exclusive letter to the producers of this program he admitted his guilt I am guilty as charged and I'm thankful that the truth finally came out with the help from modern technology I have learned to tell me the truth is the only answer.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "producers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14015,
+            14024
+          ],
+          "text": "producers"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14044,
+            14052
+          ],
+          "text": "admitted"
+        }
+      ]
+    },
+    {
+      "score": 0.886937,
+      "sentence": "In an exclusive letter to the producers of this program he admitted his guilt I am guilty as charged and I'm thankful that the truth finally came out with the help from modern technology I have learned to tell me the truth is the only answer.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14041,
+            14043
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "admitted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14044,
+            14052
+          ],
+          "text": "admitted"
+        }
+      ]
+    },
+    {
+      "score": 0.574168,
+      "sentence": "And asking me why and get a straight honest answer about why he killed my dad.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14441,
+            14443
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "asking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14434,
+            14440
+          ],
+          "text": "asking"
+        }
+      ]
+    },
+    {
+      "score": 0.286792,
+      "sentence": "And asking me why and get a straight honest answer about why he killed my dad.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14501,
+            14503
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "dad",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14504,
+            14507
+          ],
+          "text": "dad"
+        }
+      ]
+    },
+    {
+      "score": 0.988467,
+      "sentence": "Friday November ninth nineteen ninety started like most days until Brad got a telephone call at work and left class unexpectedly I actually met in the hall and his jacket on he was getting ready to leave I asked where he was going he just said to help out a friend and I had brought in the substitute for the P. class he said he would see me at dinner later on that night.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1205,
+            1207
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "argued",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1213,
+            1217
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.995662,
+      "sentence": "Friday November ninth nineteen ninety started like most days until Brad got a telephone call at work and left class unexpectedly I actually met in the hall and his jacket on he was getting ready to leave I asked where he was going he just said to help out a friend and I had brought in the substitute for the P. class he said he would see me at dinner later on that night.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1292,
+            1294
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "argued",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1295,
+            1299
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.997625,
+      "sentence": "Brad said he was going to Belgrade about ninety miles away to pick up his friend Larry Moore who needed a ride it was I mean he doesn't leave them be honest you shop for very much.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1347,
+            1351
+          ],
+          "text": "Brad"
+        },
+        {
+          "entities": [
+            {
+              "text": "argued",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1352,
+            1356
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.529446,
+      "sentence": "Friday November ninth nineteen ninety started like most days until Brad got a telephone call at work and left class unexpectedly I actually met in the hall and his jacket on he was getting ready to leave I asked where he was going he just said to help out a friend and I had brought in the substitute for the P. class he said he would see me at dinner later on that night.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "that night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            1335,
+            1345
+          ],
+          "text": "that night"
+        },
+        {
+          "entities": [
+            {
+              "text": "argued",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1295,
+            1299
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.749356,
+      "sentence": "Brad said he was going to Belgrade about ninety miles away to pick up his friend Larry Moore who needed a ride it was I mean he doesn't leave them be honest you shop for very much.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1357,
+            1359
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "Belgrade",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1373,
+            1381
+          ],
+          "text": "Belgrade"
+        }
+      ]
+    },
+    {
+      "score": 0.43586,
+      "sentence": "I had never returned home.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1560,
+            1561
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1581,
+            1585
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.677897,
+      "sentence": "That'S when we knew something I mean we knew something was already wrong because Brad and come home and that wasn't his nature that wasn't the way Brad Brisbane was.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1668,
+            1672
+          ],
+          "text": "Brad"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1682,
+            1686
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.560212,
+      "sentence": "When police interviewed Larry Moore he said he met Brad at the diner as planned.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1758,
+            1764
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviewed",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            1765,
+            1776
+          ],
+          "text": "interviewed"
+        }
+      ]
+    },
+    {
+      "score": 0.759601,
+      "sentence": "When police interviewed Larry Moore he said he met Brad at the diner as planned.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1777,
+            1788
+          ],
+          "text": "Larry Moore"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviewed",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            1765,
+            1776
+          ],
+          "text": "interviewed"
+        }
+      ]
+    },
+    {
+      "score": 0.998358,
+      "sentence": "When police interviewed Larry Moore he said he met Brad at the diner as planned.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1789,
+            1791
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1792,
+            1796
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.997399,
+      "sentence": "But he said Brad was depressed and inebriated.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1838,
+            1840
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1841,
+            1845
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.51795,
+      "sentence": "West Yellowstone Montana is primarily a resort town only one thousand residents live here year round.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "West Yellowstone Montana",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            286,
+            310
+          ],
+          "text": "West Yellowstone Montana"
+        },
+        {
+          "entities": [
+            {
+              "text": "region",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            333,
+            337
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.869401,
+      "sentence": "When police interviewed Larry Moore he said he met Brad at the diner as planned.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1797,
+            1799
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "met",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            1800,
+            1803
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.662678,
+      "sentence": "When police interviewed Larry Moore he said he met Brad at the diner as planned.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1804,
+            1808
+          ],
+          "text": "Brad"
+        },
+        {
+          "entities": [
+            {
+              "text": "met",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            1800,
+            1803
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.412641,
+      "sentence": "Read to learn that he was tired of life Darby's wife turned to the restaurant was going to leave borrow some money from him.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1900,
+            1902
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "restaurant",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1948,
+            1958
+          ],
+          "text": "restaurant"
+        }
+      ]
+    },
+    {
+      "score": 0.451742,
+      "sentence": "Read to learn that he was tired of life Darby's wife turned to the restaurant was going to leave borrow some money from him.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Darby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1921,
+            1926
+          ],
+          "text": "Darby"
+        },
+        {
+          "entities": [
+            {
+              "text": "Shelly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1929,
+            1933
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.470533,
+      "sentence": "Read to learn that he was tired of life Darby's wife turned to the restaurant was going to leave borrow some money from him.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Darby",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1921,
+            1926
+          ],
+          "text": "Darby"
+        },
+        {
+          "entities": [
+            {
+              "text": "restaurant",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1948,
+            1958
+          ],
+          "text": "restaurant"
+        }
+      ]
+    },
+    {
+      "score": 0.322425,
+      "sentence": "Read to learn that he was tired of life Darby's wife turned to the restaurant was going to leave borrow some money from him.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Shelly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1929,
+            1933
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "restaurant",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1948,
+            1958
+          ],
+          "text": "restaurant"
+        }
+      ]
+    },
+    {
+      "score": 0.993557,
+      "sentence": "Moore said Brad left the diner got into a red car with Washington plates and drove off.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2027,
+            2032
+          ],
+          "text": "Moore"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2033,
+            2037
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.997759,
+      "sentence": "Moore said the driver was a woman and that he didn't recognize her.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2115,
+            2120
+          ],
+          "text": "Moore"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2121,
+            2125
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.775459,
+      "sentence": "Moore said Brad left the diner got into a red car with Washington plates and drove off.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2052,
+            2057
+          ],
+          "text": "diner"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            2073,
+            2076
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.27172,
+      "sentence": "And there were no signs of foul play he loved his family there was no problem you were never really any indication that it was anything in his name mine will remotely related to leaving his family.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2229,
+            2232
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Brisbane family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2233,
+            2239
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.318451,
+      "sentence": "And there were no signs of foul play he loved his family there was no problem you were never really any indication that it was anything in his name mine will remotely related to leaving his family.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2369,
+            2372
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Brisbane family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2373,
+            2379
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.850338,
+      "sentence": "Just to hear people saying well you know maybe he did just run off they didn't know.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2501,
+            2503
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "Brisbane family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2521,
+            2525
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.963653,
+      "sentence": "Just to hear people saying well you know maybe he did just run off they didn't know.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2467,
+            2473
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "saying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2474,
+            2480
+          ],
+          "text": "saying"
+        }
+      ]
+    },
+    {
+      "score": 0.486042,
+      "sentence": "West Yellowstone Montana is primarily a resort town only one thousand residents live here year round.",
+      "type": "populationOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one thousand",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            343,
+            355
+          ],
+          "text": "one thousand"
+        },
+        {
+          "entities": [
+            {
+              "text": "region",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            333,
+            337
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.797521,
+      "sentence": "Just to hear people saying well you know maybe he did just run off they didn't know.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "defendant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2486,
+            2489
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "Brisbane family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2521,
+            2525
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.33231,
+      "sentence": "Larry'S wife Shelly worked with Brad.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2599,
+            2604
+          ],
+          "text": "Larry"
+        },
+        {
+          "entities": [
+            {
+              "text": "Shelly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2607,
+            2611
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.693867,
+      "sentence": "Chile coach the girls high school basketball team and brand coached the boys.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Shelly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2643,
+            2648
+          ],
+          "text": "coach"
+        },
+        {
+          "entities": [
+            {
+              "text": "Chile",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2637,
+            2642
+          ],
+          "text": "Chile"
+        }
+      ]
+    },
+    {
+      "score": 0.993294,
+      "sentence": "Investigators heard rumors that Brad and Shelley were having an affair I don't believe so we talked to rainy she didn't think there were some of her we talked to Shelly and she denied one of the only other person that could really save was missing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2805,
+            2807
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "talked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2808,
+            2814
+          ],
+          "text": "talked"
+        }
+      ]
+    },
+    {
+      "score": 0.715888,
+      "sentence": "Investigators heard rumors that Brad and Shelley were having an affair I don't believe so we talked to rainy she didn't think there were some of her we talked to Shelly and she denied one of the only other person that could really save was missing.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Shelley",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2824,
+            2827
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "talked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2808,
+            2814
+          ],
+          "text": "talked"
+        }
+      ]
+    },
+    {
+      "score": 0.991067,
+      "sentence": "Investigators heard rumors that Brad and Shelley were having an affair I don't believe so we talked to rainy she didn't think there were some of her we talked to Shelly and she denied one of the only other person that could really save was missing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2864,
+            2866
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "talked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2867,
+            2873
+          ],
+          "text": "talked"
+        }
+      ]
+    },
+    {
+      "score": 0.762449,
+      "sentence": "Investigators heard rumors that Brad and Shelley were having an affair I don't believe so we talked to rainy she didn't think there were some of her we talked to Shelly and she denied one of the only other person that could really save was missing.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Shelly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2877,
+            2883
+          ],
+          "text": "Shelly"
+        },
+        {
+          "entities": [
+            {
+              "text": "talked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2867,
+            2873
+          ],
+          "text": "talked"
+        }
+      ]
+    },
+    {
+      "score": 0.995018,
+      "sentence": "Charlie said her alleged affair with Brad was a figment of Larry's imagination I truly believe he thought we were having an affair she actually pointed to Larry as as possibly having done something to read because of some of the domestic violence against terror and the fact that he had accused her of having an affair with.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Charlie",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3036,
+            3043
+          ],
+          "text": "Charlie"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3044,
+            3048
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.73367,
+      "sentence": "Charlie said her alleged affair with Brad was a figment of Larry's imagination I truly believe he thought we were having an affair she actually pointed to Larry as as possibly having done something to read because of some of the domestic violence against terror and the fact that he had accused her of having an affair with.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Charlie",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3036,
+            3043
+          ],
+          "text": "Charlie"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3142,
+            3144
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.605119,
+      "sentence": "Charlie said her alleged affair with Brad was a figment of Larry's imagination I truly believe he thought we were having an affair she actually pointed to Larry as as possibly having done something to read because of some of the domestic violence against terror and the fact that he had accused her of having an affair with.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3073,
+            3077
+          ],
+          "text": "Brad"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3142,
+            3144
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.765687,
+      "sentence": "Charlie said her alleged affair with Brad was a figment of Larry's imagination I truly believe he thought we were having an affair she actually pointed to Larry as as possibly having done something to read because of some of the domestic violence against terror and the fact that he had accused her of having an affair with.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3115,
+            3116
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3142,
+            3144
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.66177,
+      "sentence": "West Yellowstone Montana is primarily a resort town only one thousand residents live here year round.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "residents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            356,
+            365
+          ],
+          "text": "residents"
+        },
+        {
+          "entities": [
+            {
+              "text": "region",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            333,
+            337
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.655805,
+      "sentence": "Charlie said her alleged affair with Brad was a figment of Larry's imagination I truly believe he thought we were having an affair she actually pointed to Larry as as possibly having done something to read because of some of the domestic violence against terror and the fact that he had accused her of having an affair with.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3095,
+            3100
+          ],
+          "text": "Larry"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3142,
+            3144
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.5773,
+      "sentence": "Charlie said her alleged affair with Brad was a figment of Larry's imagination I truly believe he thought we were having an affair she actually pointed to Larry as as possibly having done something to read because of some of the domestic violence against terror and the fact that he had accused her of having an affair with.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3131,
+            3133
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3142,
+            3144
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.919432,
+      "sentence": "Charlie said her alleged affair with Brad was a figment of Larry's imagination I truly believe he thought we were having an affair she actually pointed to Larry as as possibly having done something to read because of some of the domestic violence against terror and the fact that he had accused her of having an affair with.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3316,
+            3318
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "accused",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3323,
+            3330
+          ],
+          "text": "accused"
+        }
+      ]
+    },
+    {
+      "score": 0.898351,
+      "sentence": "Charlie said her alleged affair with Brad was a figment of Larry's imagination I truly believe he thought we were having an affair she actually pointed to Larry as as possibly having done something to read because of some of the domestic violence against terror and the fact that he had accused her of having an affair with.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Shelley",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3331,
+            3334
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "accused",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3323,
+            3330
+          ],
+          "text": "accused"
+        }
+      ]
+    },
+    {
+      "score": 0.485705,
+      "sentence": "A few weeks after Brad's disappearance a letter from Brad arrived at police headquarters.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3430,
+            3436
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "headquarters",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3437,
+            3449
+          ],
+          "text": "headquarters"
+        }
+      ]
+    },
+    {
+      "score": 0.997486,
+      "sentence": "He said he was alive and well and living in Washington state.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3451,
+            3453
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3454,
+            3458
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.368913,
+      "sentence": "He said he was alive and well and living in Washington state.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3459,
+            3461
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "Washington state",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3495,
+            3511
+          ],
+          "text": "Washington state"
+        }
+      ]
+    },
+    {
+      "score": 0.869021,
+      "sentence": "Police started their investigation by carefully examining Larry Moore struck.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3635,
+            3640
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            3641,
+            3654
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.622796,
+      "sentence": "Police started their investigation by carefully examining Larry Moore struck.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3678,
+            3689
+          ],
+          "text": "Larry Moore"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            3641,
+            3654
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.997404,
+      "sentence": "Larry told police he once tried shooting a mouse in the camper while on a hunting trip.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3865,
+            3870
+          ],
+          "text": "Larry"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3871,
+            3875
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.960948,
+      "sentence": "Larry told police he once tried shooting a mouse in the camper while on a hunting trip.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3876,
+            3882
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3871,
+            3875
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.282219,
+      "sentence": "But in season the beauty of the National Forest lands and Yellowstone National Park are the main draw.",
+      "type": "memberOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            406,
+            412
+          ],
+          "text": "beauty"
+        },
+        {
+          "entities": [
+            {
+              "text": "National Forest lands and Yellowstone National Park",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            420,
+            471
+          ],
+          "text": "National Forest lands and Yellowstone National Park"
+        }
+      ]
+    },
+    {
+      "score": 0.63534,
+      "sentence": "The entire curtain what did the tissue on it and we got it set up to the missile a state crime lab.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "lab",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4328,
+            4331
+          ],
+          "text": "lab"
+        },
+        {
+          "entities": [
+            {
+              "text": "high school basketball team",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4316,
+            4321
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.528475,
+      "sentence": "But that doesn't show you that the person's debt we can all deposit muscle tissue and still be very much a lot.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4446,
+            4449
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4473,
+            4475
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.521253,
+      "sentence": "But that doesn't show you that the person's debt we can all deposit muscle tissue and still be very much a lot.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "person",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4459,
+            4465
+          ],
+          "text": "person"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4473,
+            4475
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.996781,
+      "sentence": "In it he apologized for creating what he called a real strain on everyone involved.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4696,
+            4698
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "apologized",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4699,
+            4709
+          ],
+          "text": "apologized"
+        }
+      ]
+    },
+    {
+      "score": 0.612628,
+      "sentence": "In it he apologized for creating what he called a real strain on everyone involved.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "apologized",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4699,
+            4709
+          ],
+          "text": "apologized"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4731,
+            4737
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.852899,
+      "sentence": "In it he apologized for creating what he called a real strain on everyone involved.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4728,
+            4730
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4731,
+            4737
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.561075,
+      "sentence": "In it he apologized for creating what he called a real strain on everyone involved.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "everyone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4755,
+            4763
+          ],
+          "text": "everyone"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4731,
+            4737
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.843026,
+      "sentence": "I'Ve decided to start a new life for myself I had to make a clean break from everyone and everything to make this work it just seemed to be the only way out.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ve",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4776,
+            4778
+          ],
+          "text": "Ve"
+        },
+        {
+          "entities": [
+            {
+              "text": "everyone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4851,
+            4859
+          ],
+          "text": "everyone"
+        }
+      ]
+    },
+    {
+      "score": 0.78814,
+      "sentence": "I'Ve decided to start a new life for myself I had to make a clean break from everyone and everything to make this work it just seemed to be the only way out.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4818,
+            4819
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "everyone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4851,
+            4859
+          ],
+          "text": "everyone"
+        }
+      ]
+    },
+    {
+      "score": 0.697434,
+      "sentence": "In this one Brad wanted to make sure his wife Renate was taken care off.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5074,
+            5077
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Renate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5078,
+            5082
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.464902,
+      "sentence": "The name of Brad's wife Renate was misspelled.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5269,
+            5273
+          ],
+          "text": "Brad"
+        },
+        {
+          "entities": [
+            {
+              "text": "Renate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5276,
+            5280
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.39539,
+      "sentence": "Rainy and Brad Brisbane owned a restaurant in town.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "restaurant",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            687,
+            697
+          ],
+          "text": "restaurant"
+        },
+        {
+          "entities": [
+            {
+              "text": "region",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            701,
+            705
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.757285,
+      "sentence": "The letter to the shaft and congratulated him to his appointment and the sheriff is an elected position so they were huge mistakes they were they were just huge red flags.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5353,
+            5356
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "appointment",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            5357,
+            5368
+          ],
+          "text": "appointment"
+        }
+      ]
+    },
+    {
+      "score": 0.496031,
+      "sentence": "Scientists found numerous fingerprints on the two documents but none match Brad Brisbane they weren't Larry Morris fingerprints either.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5729,
+            5742
+          ],
+          "text": "Brad Brisbane"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5743,
+            5747
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.370331,
+      "sentence": "Both letters were type with the same type writer the paper was inexpensive the kind often used in high schools.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "writer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5896,
+            5902
+          ],
+          "text": "writer"
+        },
+        {
+          "entities": [
+            {
+              "text": "high schools",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5952,
+            5964
+          ],
+          "text": "high schools"
+        }
+      ]
+    },
+    {
+      "score": 0.73724,
+      "sentence": "The disease could be drugs could even be stress and you get that tremor when somebody sits down and tries to duplicate the handwriting of another person.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6333,
+            6336
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "disease",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            6285,
+            6292
+          ],
+          "text": "disease"
+        }
+      ]
+    },
+    {
+      "score": 0.977642,
+      "sentence": "Experts compared this question signature to several documents Brad signed shortly before his disappearance.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "experts",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6435,
+            6442
+          ],
+          "text": "Experts"
+        },
+        {
+          "entities": [
+            {
+              "text": "compared",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6443,
+            6451
+          ],
+          "text": "compared"
+        }
+      ]
+    },
+    {
+      "score": 0.495318,
+      "sentence": "Experts compared this question signature to several documents Brad signed shortly before his disappearance.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6497,
+            6501
+          ],
+          "text": "Brad"
+        },
+        {
+          "entities": [
+            {
+              "text": "compared",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6443,
+            6451
+          ],
+          "text": "compared"
+        }
+      ]
+    },
+    {
+      "score": 0.99728,
+      "sentence": "The handwriting sample I saw for bread Brisbane was a greeting card and he wrote a short note at the bottom and signed Brad is hand writing was done all in upper case.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6615,
+            6617
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "wrote",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6618,
+            6623
+          ],
+          "text": "wrote"
+        }
+      ]
+    },
+    {
+      "score": 0.610351,
+      "sentence": "The handwriting sample I saw for bread Brisbane was a greeting card and he wrote a short note at the bottom and signed Brad is hand writing was done all in upper case.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6662,
+            6666
+          ],
+          "text": "Brad"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6705,
+            6709
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.697772,
+      "sentence": "The upper case B. in the name Brad was actually constructed in three pieces there is a a break it has the up and down spine on the left side of the letter but between the top in the bottom of the letter there's a break interesting at the break is in a place where you would naturally stop if you wanted to look to see how you were doing and continue writing.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7008,
+            7010
+          ],
+          "text": "B."
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            7003,
+            7007
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.78152,
+      "sentence": "Police suspected Larry Moore may have written the letters but it was difficult to tell since the question signature wasn't actually hand writing.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7369,
+            7380
+          ],
+          "text": "Larry Moore"
+        },
+        {
+          "entities": [
+            {
+              "text": "written",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7390,
+            7397
+          ],
+          "text": "written"
+        }
+      ]
+    },
+    {
+      "score": 0.742169,
+      "sentence": "And that my father was.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7868,
+            7874
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7865,
+            7867
+          ],
+          "text": "my"
+        }
+      ]
+    },
+    {
+      "score": 0.740937,
+      "sentence": "Read also worked as a gym teacher at the local high school.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "gym teacher",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            729,
+            740
+          ],
+          "text": "gym teacher"
+        },
+        {
+          "entities": [
+            {
+              "text": "National Forest lands and Yellowstone National Park",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            754,
+            765
+          ],
+          "text": "high school"
+        }
+      ]
+    },
+    {
+      "score": 0.651364,
+      "sentence": "We'Ve only got a few feet to deal with so it can't be upstanding man for example.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ve",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9052,
+            9054
+          ],
+          "text": "Ve"
+        },
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9049,
+            9051
+          ],
+          "text": "We"
+        }
+      ]
+    },
+    {
+      "score": 0.800475,
+      "sentence": "To find out who's brain tissue was in the camper investigators sent the samples for DNA testing but they didn't have the body to compare it to we can help you to determine whether this tissue is from the missing person by comparing the DNA from the tissue to the family members and the children and the mother of the person is missing.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9788,
+            9795
+          ],
+          "text": "members"
+        },
+        {
+          "entities": [
+            {
+              "text": "Brisbane family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9781,
+            9787
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.635813,
+      "sentence": "Children get half of their DNA from the mother and half from the father by taking a DNA sample from Brett's wife his four children and his mother scientists could isolate Brad's DNA profile through a process of elimination.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Shelly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9894,
+            9900
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9919,
+            9925
+          ],
+          "text": "father"
+        }
+      ]
+    },
+    {
+      "score": 0.445319,
+      "sentence": "Children get half of their DNA from the mother and half from the father by taking a DNA sample from Brett's wife his four children and his mother scientists could isolate Brad's DNA profile through a process of elimination.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9954,
+            9959
+          ],
+          "text": "Brett"
+        },
+        {
+          "entities": [
+            {
+              "text": "defendant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9962,
+            9966
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.614244,
+      "sentence": "Prosecutors believe that the motive for Brad Brisbane's murder was jealousy Larry more suspected Brad was having an affair with his wife.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11146,
+            11149
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "defendant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11150,
+            11154
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.618202,
+      "sentence": "Children get half of their DNA from the mother and half from the father by taking a DNA sample from Brett's wife his four children and his mother scientists could isolate Brad's DNA profile through a process of elimination.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9967,
+            9970
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9976,
+            9984
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.492514,
+      "sentence": "Children get half of their DNA from the mother and half from the father by taking a DNA sample from Brett's wife his four children and his mother scientists could isolate Brad's DNA profile through a process of elimination.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Shelly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9993,
+            9999
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9989,
+            9992
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.212895,
+      "sentence": "Children get half of their DNA from the mother and half from the father by taking a DNA sample from Brett's wife his four children and his mother scientists could isolate Brad's DNA profile through a process of elimination.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Shelly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9993,
+            9999
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "scientists",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10000,
+            10010
+          ],
+          "text": "scientists"
+        }
+      ]
+    },
+    {
+      "score": 0.43613,
+      "sentence": "Who'S ever tissue sample that was was completely consistent with being the father of both sets of children.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10246,
+            10252
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "Children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10269,
+            10277
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.882613,
+      "sentence": "And consistent with being the son of the mother of the missing person.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "person",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10309,
+            10312
+          ],
+          "text": "son"
+        },
+        {
+          "entities": [
+            {
+              "text": "Shelly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10320,
+            10326
+          ],
+          "text": "mother"
+        }
+      ]
+    },
+    {
+      "score": 0.965865,
+      "sentence": "With this discovery the medical examiner ruled Brad Brisbane's death a homicide.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "medical examiner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10839,
+            10855
+          ],
+          "text": "medical examiner"
+        },
+        {
+          "entities": [
+            {
+              "text": "ruled",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10856,
+            10861
+          ],
+          "text": "ruled"
+        }
+      ]
+    },
+    {
+      "score": 0.534222,
+      "sentence": "Brad was fun loving and enjoying life he loved to play practical jokes on people Brad was a very loyal.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            848,
+            852
+          ],
+          "text": "Brad"
+        },
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            841,
+            847
+          ],
+          "text": "people"
+        }
+      ]
+    },
+    {
+      "score": 0.967012,
+      "sentence": "With this discovery the medical examiner ruled Brad Brisbane's death a homicide.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10862,
+            10875
+          ],
+          "text": "Brad Brisbane"
+        },
+        {
+          "entities": [
+            {
+              "text": "ruled",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10856,
+            10861
+          ],
+          "text": "ruled"
+        }
+      ]
+    },
+    {
+      "score": 0.936604,
+      "sentence": "Larry Moore was arrested and charged with murder.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10896,
+            10907
+          ],
+          "text": "Larry Moore"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrested",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            10912,
+            10920
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.577252,
+      "sentence": "Larry Moore was arrested and charged with murder.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10896,
+            10907
+          ],
+          "text": "Larry Moore"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10925,
+            10932
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.792385,
+      "sentence": "Larry Moore was arrested and charged with murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10896,
+            10907
+          ],
+          "text": "Larry Moore"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            10938,
+            10944
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.524856,
+      "sentence": "Is a prosecutor clearly you want to make damn sure that this is the right guy in there has been a murder I can't think of anything worse than being in a position of finding out you've convicted the wrong person.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12153,
+            12154
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12146,
+            12152
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.828783,
+      "sentence": "Prosecutors knew their case would be difficult to prove without a body.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10963,
+            10968
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10969,
+            10973
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.54023,
+      "sentence": "Prosecutors believe that the motive for Brad Brisbane's murder was jealousy Larry more suspected Brad was having an affair with his wife.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11058,
+            11071
+          ],
+          "text": "Brad Brisbane"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            11074,
+            11080
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.948122,
+      "sentence": "He was charged with conspiring to build a bomb in prison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12976,
+            12978
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12996,
+            13006
+          ],
+          "text": "conspiring"
+        }
+      ]
+    },
+    {
+      "score": 0.915806,
+      "sentence": "More directed officials to a campground where he hit the three fifty seven magnum pistol he used in the murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13205,
+            13207
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13220,
+            13226
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.704626,
+      "sentence": "The forensic evidence suggests the two met at the diner and more it somehow lord Brad into the back of his camper.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "two",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            11191,
+            11194
+          ],
+          "text": "two"
+        },
+        {
+          "entities": [
+            {
+              "text": "met",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            11195,
+            11198
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.559928,
+      "sentence": "The forensic evidence suggests the two met at the diner and more it somehow lord Brad into the back of his camper.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11206,
+            11211
+          ],
+          "text": "diner"
+        },
+        {
+          "entities": [
+            {
+              "text": "met",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            11195,
+            11198
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.299043,
+      "sentence": "He knows that he's got equipment west Yellowstone he owned an excavating company swept back because that kind of thing so he could get rid of the body pretty easy.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11670,
+            11672
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "National Forest lands and Yellowstone National Park",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11658,
+            11669
+          ],
+          "text": "Yellowstone"
+        }
+      ]
+    },
+    {
+      "score": 0.690862,
+      "sentence": "Is a prosecutor clearly you want to make damn sure that this is the right guy in there has been a murder I can't think of anything worse than being in a position of finding out you've convicted the wrong person.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12225,
+            12228
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12232,
+            12241
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.891327,
+      "sentence": "Friday November ninth nineteen ninety started like most days until Brad got a telephone call at work and left class unexpectedly I actually met in the hall and his jacket on he was getting ready to leave I asked where he was going he just said to help out a friend and I had brought in the substitute for the P. class he said he would see me at dinner later on that night.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1103,
+            1104
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "met",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            1114,
+            1117
+          ],
+          "text": "met"
+        }
+      ]
+    },
+    {
+      "score": 0.973887,
+      "sentence": "Is a prosecutor clearly you want to make damn sure that this is the right guy in there has been a murder I can't think of anything worse than being in a position of finding out you've convicted the wrong person.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "person",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12252,
+            12258
+          ],
+          "text": "person"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12232,
+            12241
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.988909,
+      "sentence": "Larry Moore denied killing Brad Brisbane and pleaded not guilty.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12260,
+            12271
+          ],
+          "text": "Larry Moore"
+        },
+        {
+          "entities": [
+            {
+              "text": "denied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12272,
+            12278
+          ],
+          "text": "denied"
+        }
+      ]
+    },
+    {
+      "score": 0.977655,
+      "sentence": "Prosecutors argued that Larry Moore killed Brad Brisbane in a jealous rage convince Brad was sleeping with his wife Shelly.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12325,
+            12336
+          ],
+          "text": "Prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "argued",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12337,
+            12343
+          ],
+          "text": "argued"
+        }
+      ]
+    },
+    {
+      "score": 0.737573,
+      "sentence": "Prosecutors argued that Larry Moore killed Brad Brisbane in a jealous rage convince Brad was sleeping with his wife Shelly.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12432,
+            12435
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Shelly",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12436,
+            12440
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.565181,
+      "sentence": "To throw investigators off the trail more forage Brad's name on several measures.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12498,
+            12502
+          ],
+          "text": "Brad"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12458,
+            12471
+          ],
+          "text": "investigators"
+        }
+      ]
+    },
+    {
+      "score": 0.917683,
+      "sentence": "And to that Larry Moore was his killer.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12645,
+            12648
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "disease",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            12649,
+            12655
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.671637,
+      "sentence": "Moore was sentenced to sixty years in prison.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12711,
+            12716
+          ],
+          "text": "Moore"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12721,
+            12730
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.604715,
+      "sentence": "Moore was sentenced to sixty years in prison.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Larry Moore",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12711,
+            12716
+          ],
+          "text": "Moore"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12749,
+            12755
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.725784,
+      "sentence": "It was the first murder case in Montana to be tried without a body.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12781,
+            12785
+          ],
+          "text": "case"
+        },
+        {
+          "entities": [
+            {
+              "text": "West Yellowstone Montana",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            12789,
+            12796
+          ],
+          "text": "Montana"
+        }
+      ]
+    },
+    {
+      "score": 0.697939,
+      "sentence": "Just two years after his conviction Larry Moore made headlines again.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brad Brisbane",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12927,
+            12930
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "conviction",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12931,
+            12941
+          ],
+          "text": "conviction"
+        }
+      ]
+    }
+  ]
+}

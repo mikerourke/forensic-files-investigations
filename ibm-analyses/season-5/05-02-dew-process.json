@@ -1,0 +1,6457 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 16865,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Neil",
+      "relevance": 0.960595,
+      "confidence": 1,
+      "count": 16
+    },
+    {
+      "type": "Person",
+      "text": "Betty",
+      "relevance": 0.886836,
+      "confidence": 1,
+      "count": 10
+    },
+    {
+      "type": "Person",
+      "text": "Glenn",
+      "relevance": 0.77439,
+      "confidence": 1,
+      "count": 13
+    },
+    {
+      "type": "Person",
+      "text": "Betty Wilson",
+      "relevance": 0.740469,
+      "confidence": 1,
+      "count": 5,
+      "disambiguation": {
+        "name": "Betty_Wilson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Betty_Wilson",
+        "subtype": [
+          "CricketPlayer"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Dr Glenn",
+      "relevance": 0.610857,
+      "confidence": 0.999999,
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "thirteen hundred dollars",
+      "relevance": 0.485496,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "five year",
+      "relevance": 0.424344,
+      "confidence": 0.992,
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty two year",
+      "relevance": 0.330361,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "fifty degrees",
+      "relevance": 0.29588,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Wilkes Barre",
+      "relevance": 0.272476,
+      "confidence": 0.385095,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Wilkes Barre",
+      "relevance": 0.260671,
+      "confidence": 0.439494,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Lucerne county",
+      "relevance": 0.24304,
+      "confidence": 0.929624,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr George",
+      "relevance": 0.242659,
+      "confidence": 0.823339,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Pennsylvania",
+      "relevance": 0.212573,
+      "confidence": 0.999998,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Danielle",
+      "relevance": 0.207883,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Neil sale",
+      "relevance": 0.185166,
+      "confidence": 0.925864,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Barre",
+      "relevance": 0.175185,
+      "confidence": 0.148355,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Wilkes",
+      "relevance": 0.171762,
+      "confidence": 0.993041,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Glenn Wilson",
+      "relevance": 0.169548,
+      "confidence": 0.999594,
+      "count": 1,
+      "disambiguation": {
+        "name": "Glenn_Wilson_%28psychologist%29",
+        "dbpedia_resource": "http://dbpedia.org/resource/Glenn_Wilson_%28psychologist%29"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Dr Joseph Sobel",
+      "relevance": 0.166273,
+      "confidence": 0.978947,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "seventy degrees",
+      "relevance": 0.159837,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "nine years",
+      "relevance": 0.156747,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty years",
+      "relevance": 0.151623,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Susquehanna River",
+      "relevance": 0.138184,
+      "confidence": 0.876631,
+      "count": 1,
+      "disambiguation": {
+        "name": "Susquehanna_River",
+        "dbpedia_resource": "http://dbpedia.org/resource/Susquehanna_River",
+        "subtype": [
+          "Location",
+          "BodyOfWater",
+          "River"
+        ]
+      }
+    },
+    {
+      "type": "Organization",
+      "text": "mercy hospital",
+      "relevance": 0.13081,
+      "confidence": 0.477864,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Neil Boyle",
+      "relevance": 0.124452,
+      "confidence": 0.999335,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "five minutes",
+      "relevance": 0.105966,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "four hours",
+      "relevance": 0.102544,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Neil Wilson",
+      "relevance": 0.094658,
+      "confidence": 0.998355,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "dew",
+      "relevance": 0.082118,
+      "confidence": 0.365428,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Doug Dietrich",
+      "relevance": 0.076821,
+      "confidence": 0.995055,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "five years",
+      "relevance": 0.073769,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "land",
+      "relevance": 0.063749,
+      "confidence": 0.493713,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Colin",
+      "relevance": 0.049672,
+      "confidence": 0.99769,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Gary",
+      "relevance": 0.041191,
+      "confidence": 0.993066,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dietrich",
+      "relevance": 0.039481,
+      "confidence": 0.843114,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "FBI",
+      "relevance": 0.032109,
+      "confidence": 0.998906,
+      "count": 1,
+      "disambiguation": {
+        "name": "FBi_Radio",
+        "dbpedia_resource": "http://dbpedia.org/resource/FBi_Radio",
+        "subtype": [
+          "Broadcast",
+          "RadioStation"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Brian",
+      "relevance": 0.017386,
+      "confidence": 0.999831,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Benjamin Franklin",
+      "relevance": 0.006814,
+      "confidence": 0.995389,
+      "count": 1,
+      "disambiguation": {
+        "name": "Benjamin_Franklin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Benjamin_Franklin",
+        "subtype": [
+          "Politician",
+          "AwardWinner",
+          "Governor",
+          "HonoraryDegreeRecipient",
+          "Inventor",
+          "U.S.Congressperson",
+          "TVCharacter"
+        ]
+      }
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.969895
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.742706
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.710523
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.694304
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.667541
+    },
+    {
+      "label": "/sports/go kart",
+      "score": 0.615393
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.672793,
+      "sentence": "In August of nineteen eighty six but he will suffer a thirty two year old housewife and mother was strangled and murdered by an assailant who had broken into her home her husband Dr Glenn will suffer was also strangled and knocked unconscious but survived the attack.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            88,
+            94
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            113,
+            121
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.908058,
+      "sentence": "My father had told me that that body was murdered and they were the specific words.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2468,
+            2472
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            2477,
+            2485
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.592441,
+      "sentence": "The news of Betty Wilson for his murder and the assault on her husband gland stunned the small industrial community of Wilkes Barre Pennsylvania.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3838,
+            3850
+          ],
+          "text": "Betty Wilson"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            3859,
+            3865
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.76983,
+      "sentence": "Police search for her bloody clothing in the house the surrounding neighborhood and the nearby Susquehanna River without success since the body was lying in front of the fans time of death was difficult to gauge doctor who doc estimated that Betty will suffer had been murdered between two thirty and four thirty in the morning.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6201,
+            6206
+          ],
+          "text": "Betty"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6228,
+            6236
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.895025,
+      "sentence": "That type of force would damage the spleen is capita's muscles too long muscles which support the head the same injury emergency room doctors diagnosed in gland will suffer after his wife's murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7150,
+            7154
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            7157,
+            7163
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.878099,
+      "sentence": "With Dr Glenn will suffer as the prime suspect in his wife's murder police discovered that the all American image he presented to the public was just that an image before her death that he will suffer told friends that she knew all about her husband's affairs with the aerobics instructor and his dental assistant and that she had had enough we found out from some of Betty's girlfriend said she was very annoyed with some of these things that were happening very annoyed with him going out at nights and not coming in until all hours of the morning and some of the girlfriends even made comments to her well maybe you should confront him maybe should ask him what's going on to see if there was any evidence of a physical confrontation between clan and his wife FBI analyst Doug Dietrich analyze the debris under",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12583,
+            12587
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12590,
+            12596
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.773344,
+      "sentence": "There he found a number of blue cotton denim fibers using micro spectro photometry Dietrich analyzes a spectrum of color in the diet those fibers and concluded that the die was consistent with the dye used in the denim shirt and jeans that plan will suffer was seen wearing at the nightclub just hours before his wife's murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13687,
+            13691
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            13694,
+            13700
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.509104,
+      "sentence": "The world suffers bought a home on First Street just a few houses away from the glands younger brother Neil.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "courthouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1021,
+            1025
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "world",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            998,
+            1003
+          ],
+          "text": "world"
+        }
+      ]
+    },
+    {
+      "score": 0.993753,
+      "sentence": "Neil Boyle suffered denied any involvement in the crime but when asked to take a lie detector test you refuse a lot of people think that Neil knew everything that when he came in the house that Glenn told him what happened he said you have to help me we have to concoct a story if there's people that even think the deal may have been the one they knock Colin on the head then there's the other school that think that meal suspected.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11194,
+            11199
+          ],
+          "text": "Glenn"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11200,
+            11204
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.635536,
+      "sentence": "With Dr Glenn will suffer as the prime suspect in his wife's murder police discovered that the all American image he presented to the public was just that an image before her death that he will suffer told friends that she knew all about her husband's affairs with the aerobics instructor and his dental assistant and that she had had enough we found out from some of Betty's girlfriend said she was very annoyed with some of these things that were happening very annoyed with him going out at nights and not coming in until all hours of the morning and some of the girlfriends even made comments to her well maybe you should confront him maybe should ask him what's going on to see if there was any evidence of a physical confrontation between clan and his wife FBI analyst Doug Dietrich analyze the debris under",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12715,
+            12717
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12730,
+            12734
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.93253,
+      "sentence": "Neil Boyle suffered denied any involvement in the crime but when asked to take a lie detector test you refuse a lot of people think that Neil knew everything that when he came in the house that Glenn told him what happened he said you have to help me we have to concoct a story if there's people that even think the deal may have been the one they knock Colin on the head then there's the other school that think that meal suspected.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11205,
+            11208
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11200,
+            11204
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.996064,
+      "sentence": "Neil Boyle suffered denied any involvement in the crime but when asked to take a lie detector test you refuse a lot of people think that Neil knew everything that when he came in the house that Glenn told him what happened he said you have to help me we have to concoct a story if there's people that even think the deal may have been the one they knock Colin on the head then there's the other school that think that meal suspected.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11223,
+            11225
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11226,
+            11230
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.688434,
+      "sentence": "Neil Boyle suffered denied any involvement in the crime but when asked to take a lie detector test you refuse a lot of people think that Neil knew everything that when he came in the house that Glenn told him what happened he said you have to help me we have to concoct a story if there's people that even think the deal may have been the one they knock Colin on the head then there's the other school that think that meal suspected.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11231,
+            11234
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11251,
+            11253
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.87305,
+      "sentence": "Glenn may have said to him and just just the very thought was too much for me to bear.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11497,
+            11502
+          ],
+          "text": "Glenn"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11512,
+            11516
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.720076,
+      "sentence": "Glenn may have said to him and just just the very thought was too much for me to bear.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11520,
+            11523
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11512,
+            11516
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.955418,
+      "sentence": "Neil was asked to report to the district attorney's office for an interview.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11584,
+            11588
+          ],
+          "text": "Neil"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11593,
+            11598
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.691687,
+      "sentence": "Neil was asked to report to the district attorney's office for an interview.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11584,
+            11588
+          ],
+          "text": "Neil"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11602,
+            11608
+          ],
+          "text": "report"
+        }
+      ]
+    },
+    {
+      "score": 0.806074,
+      "sentence": "Neil was asked to report to the district attorney's office for an interview.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "office",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11636,
+            11642
+          ],
+          "text": "office"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11602,
+            11608
+          ],
+          "text": "report"
+        }
+      ]
+    },
+    {
+      "score": 0.782934,
+      "sentence": "Neil was asked to report to the district attorney's office for an interview.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11625,
+            11633
+          ],
+          "text": "attorney"
+        },
+        {
+          "entities": [
+            {
+              "text": "district",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11616,
+            11624
+          ],
+          "text": "district"
+        }
+      ]
+    },
+    {
+      "score": 0.927388,
+      "sentence": "The world suffers bought a home on First Street just a few houses away from the glands younger brother Neil.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "courthouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1021,
+            1025
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "First Street",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1029,
+            1041
+          ],
+          "text": "First Street"
+        }
+      ]
+    },
+    {
+      "score": 0.830481,
+      "sentence": "Neil was asked to report to the district attorney's office for an interview.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11625,
+            11633
+          ],
+          "text": "attorney"
+        },
+        {
+          "entities": [
+            {
+              "text": "office",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11636,
+            11642
+          ],
+          "text": "office"
+        }
+      ]
+    },
+    {
+      "score": 0.571032,
+      "sentence": "And Gary sworn left the room he came back in and he says.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11715,
+            11719
+          ],
+          "text": "Gary"
+        },
+        {
+          "entities": [
+            {
+              "text": "sworn",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            11720,
+            11725
+          ],
+          "text": "sworn"
+        }
+      ]
+    },
+    {
+      "score": 0.556245,
+      "sentence": "And Gary sworn left the room he came back in and he says.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11715,
+            11719
+          ],
+          "text": "Gary"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11735,
+            11739
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.426263,
+      "sentence": "And Gary sworn left the room he came back in and he says.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11735,
+            11739
+          ],
+          "text": "room"
+        },
+        {
+          "entities": [
+            {
+              "text": "sworn",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            11720,
+            11725
+          ],
+          "text": "sworn"
+        }
+      ]
+    },
+    {
+      "score": 0.992991,
+      "sentence": "And Gary sworn left the room he came back in and he says.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11760,
+            11762
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "report",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11763,
+            11767
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.234008,
+      "sentence": "With Dr Glenn will suffer as the prime suspect in his wife's murder police discovered that the all American image he presented to the public was just that an image before her death that he will suffer told friends that she knew all about her husband's affairs with the aerobics instructor and his dental assistant and that she had had enough we found out from some of Betty's girlfriend said she was very annoyed with some of these things that were happening very annoyed with him going out at nights and not coming in until all hours of the morning and some of the girlfriends even made comments to her well maybe you should confront him maybe should ask him what's going on to see if there was any evidence of a physical confrontation between clan and his wife FBI analyst Doug Dietrich analyze the debris under",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12597,
+            12603
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            12590,
+            12596
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.63464,
+      "sentence": "With Dr Glenn will suffer as the prime suspect in his wife's murder police discovered that the all American image he presented to the public was just that an image before her death that he will suffer told friends that she knew all about her husband's affairs with the aerobics instructor and his dental assistant and that she had had enough we found out from some of Betty's girlfriend said she was very annoyed with some of these things that were happening very annoyed with him going out at nights and not coming in until all hours of the morning and some of the girlfriends even made comments to her well maybe you should confront him maybe should ask him what's going on to see if there was any evidence of a physical confrontation between clan and his wife FBI analyst Doug Dietrich analyze the debris under",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "girlfriends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12735,
+            12742
+          ],
+          "text": "friends"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12730,
+            12734
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.746176,
+      "sentence": "With Dr Glenn will suffer as the prime suspect in his wife's murder police discovered that the all American image he presented to the public was just that an image before her death that he will suffer told friends that she knew all about her husband's affairs with the aerobics instructor and his dental assistant and that she had had enough we found out from some of Betty's girlfriend said she was very annoyed with some of these things that were happening very annoyed with him going out at nights and not coming in until all hours of the morning and some of the girlfriends even made comments to her well maybe you should confront him maybe should ask him what's going on to see if there was any evidence of a physical confrontation between clan and his wife FBI analyst Doug Dietrich analyze the debris under",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12822,
+            12825
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12871,
+            12873
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.83833,
+      "sentence": "With Dr Glenn will suffer as the prime suspect in his wife's murder police discovered that the all American image he presented to the public was just that an image before her death that he will suffer told friends that she knew all about her husband's affairs with the aerobics instructor and his dental assistant and that she had had enough we found out from some of Betty's girlfriend said she was very annoyed with some of these things that were happening very annoyed with him going out at nights and not coming in until all hours of the morning and some of the girlfriends even made comments to her well maybe you should confront him maybe should ask him what's going on to see if there was any evidence of a physical confrontation between clan and his wife FBI analyst Doug Dietrich analyze the debris under",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12852,
+            12855
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12871,
+            12873
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.538018,
+      "sentence": "With Dr Glenn will suffer as the prime suspect in his wife's murder police discovered that the all American image he presented to the public was just that an image before her death that he will suffer told friends that she knew all about her husband's affairs with the aerobics instructor and his dental assistant and that she had had enough we found out from some of Betty's girlfriend said she was very annoyed with some of these things that were happening very annoyed with him going out at nights and not coming in until all hours of the morning and some of the girlfriends even made comments to her well maybe you should confront him maybe should ask him what's going on to see if there was any evidence of a physical confrontation between clan and his wife FBI analyst Doug Dietrich analyze the debris under",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "some",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            12889,
+            12893
+          ],
+          "text": "some"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12916,
+            12920
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.425054,
+      "sentence": "The world suffers bought a home on First Street just a few houses away from the glands younger brother Neil.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "courthouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1021,
+            1025
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "houses",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1053,
+            1059
+          ],
+          "text": "houses"
+        }
+      ]
+    },
+    {
+      "score": 0.349682,
+      "sentence": "With Dr Glenn will suffer as the prime suspect in his wife's murder police discovered that the all American image he presented to the public was just that an image before her death that he will suffer told friends that she knew all about her husband's affairs with the aerobics instructor and his dental assistant and that she had had enough we found out from some of Betty's girlfriend said she was very annoyed with some of these things that were happening very annoyed with him going out at nights and not coming in until all hours of the morning and some of the girlfriends even made comments to her well maybe you should confront him maybe should ask him what's going on to see if there was any evidence of a physical confrontation between clan and his wife FBI analyst Doug Dietrich analyze the debris under",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12897,
+            12902
+          ],
+          "text": "Betty"
+        },
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12905,
+            12915
+          ],
+          "text": "girlfriend"
+        }
+      ]
+    },
+    {
+      "score": 0.929063,
+      "sentence": "With Dr Glenn will suffer as the prime suspect in his wife's murder police discovered that the all American image he presented to the public was just that an image before her death that he will suffer told friends that she knew all about her husband's affairs with the aerobics instructor and his dental assistant and that she had had enough we found out from some of Betty's girlfriend said she was very annoyed with some of these things that were happening very annoyed with him going out at nights and not coming in until all hours of the morning and some of the girlfriends even made comments to her well maybe you should confront him maybe should ask him what's going on to see if there was any evidence of a physical confrontation between clan and his wife FBI analyst Doug Dietrich analyze the debris under",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12905,
+            12915
+          ],
+          "text": "girlfriend"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12916,
+            12920
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.594304,
+      "sentence": "With Dr Glenn will suffer as the prime suspect in his wife's murder police discovered that the all American image he presented to the public was just that an image before her death that he will suffer told friends that she knew all about her husband's affairs with the aerobics instructor and his dental assistant and that she had had enough we found out from some of Betty's girlfriend said she was very annoyed with some of these things that were happening very annoyed with him going out at nights and not coming in until all hours of the morning and some of the girlfriends even made comments to her well maybe you should confront him maybe should ask him what's going on to see if there was any evidence of a physical confrontation between clan and his wife FBI analyst Doug Dietrich analyze the debris under",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12921,
+            12924
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "some",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            12947,
+            12951
+          ],
+          "text": "some"
+        }
+      ]
+    },
+    {
+      "score": 0.922828,
+      "sentence": "With Dr Glenn will suffer as the prime suspect in his wife's murder police discovered that the all American image he presented to the public was just that an image before her death that he will suffer told friends that she knew all about her husband's affairs with the aerobics instructor and his dental assistant and that she had had enough we found out from some of Betty's girlfriend said she was very annoyed with some of these things that were happening very annoyed with him going out at nights and not coming in until all hours of the morning and some of the girlfriends even made comments to her well maybe you should confront him maybe should ask him what's going on to see if there was any evidence of a physical confrontation between clan and his wife FBI analyst Doug Dietrich analyze the debris under",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "some",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            13083,
+            13087
+          ],
+          "text": "some"
+        },
+        {
+          "entities": [
+            {
+              "text": "girlfriends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13095,
+            13106
+          ],
+          "text": "girlfriends"
+        }
+      ]
+    },
+    {
+      "score": 0.971195,
+      "sentence": "With Dr Glenn will suffer as the prime suspect in his wife's murder police discovered that the all American image he presented to the public was just that an image before her death that he will suffer told friends that she knew all about her husband's affairs with the aerobics instructor and his dental assistant and that she had had enough we found out from some of Betty's girlfriend said she was very annoyed with some of these things that were happening very annoyed with him going out at nights and not coming in until all hours of the morning and some of the girlfriends even made comments to her well maybe you should confront him maybe should ask him what's going on to see if there was any evidence of a physical confrontation between clan and his wife FBI analyst Doug Dietrich analyze the debris under",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13164,
+            13167
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "ask",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13181,
+            13184
+          ],
+          "text": "ask"
+        }
+      ]
+    },
+    {
+      "score": 0.814091,
+      "sentence": "With Dr Glenn will suffer as the prime suspect in his wife's murder police discovered that the all American image he presented to the public was just that an image before her death that he will suffer told friends that she knew all about her husband's affairs with the aerobics instructor and his dental assistant and that she had had enough we found out from some of Betty's girlfriend said she was very annoyed with some of these things that were happening very annoyed with him going out at nights and not coming in until all hours of the morning and some of the girlfriends even made comments to her well maybe you should confront him maybe should ask him what's going on to see if there was any evidence of a physical confrontation between clan and his wife FBI analyst Doug Dietrich analyze the debris under",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13185,
+            13188
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "ask",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            13181,
+            13184
+          ],
+          "text": "ask"
+        }
+      ]
+    },
+    {
+      "score": 0.929431,
+      "sentence": "With Dr Glenn will suffer as the prime suspect in his wife's murder police discovered that the all American image he presented to the public was just that an image before her death that he will suffer told friends that she knew all about her husband's affairs with the aerobics instructor and his dental assistant and that she had had enough we found out from some of Betty's girlfriend said she was very annoyed with some of these things that were happening very annoyed with him going out at nights and not coming in until all hours of the morning and some of the girlfriends even made comments to her well maybe you should confront him maybe should ask him what's going on to see if there was any evidence of a physical confrontation between clan and his wife FBI analyst Doug Dietrich analyze the debris under",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Doug Dietrich",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13296,
+            13303
+          ],
+          "text": "analyst"
+        },
+        {
+          "entities": [
+            {
+              "text": "FBI",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13292,
+            13295
+          ],
+          "text": "FBI"
+        }
+      ]
+    },
+    {
+      "score": 0.584953,
+      "sentence": "Finally do you drink analyze several head hairs on the bed spread next to Betty Wilson first body the hairs had been forcibly removed and were compared to hear samples from the planet will suffer from the laboratory standpoint the hairs that were forcibly removed on the betting were consistent with the husband I looked at other hairs that were recovered from the bedding and from the towers and there were no hairs out of place I mean the hairs that I found were consistent with people that lived in that house.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "laboratory",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            13907,
+            13917
+          ],
+          "text": "laboratory"
+        },
+        {
+          "entities": [
+            {
+              "text": "planet",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13879,
+            13885
+          ],
+          "text": "planet"
+        }
+      ]
+    },
+    {
+      "score": 0.486653,
+      "sentence": "Finally do you drink analyze several head hairs on the bed spread next to Betty Wilson first body the hairs had been forcibly removed and were compared to hear samples from the planet will suffer from the laboratory standpoint the hairs that were forcibly removed on the betting were consistent with the husband I looked at other hairs that were recovered from the bedding and from the towers and there were no hairs out of place I mean the hairs that I found were consistent with people that lived in that house.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14183,
+            14189
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "courthouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14209,
+            14214
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.726549,
+      "sentence": "On November fifth nineteen ninety plan will suffer was charged with first degree murder.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "November",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            14219,
+            14227
+          ],
+          "text": "November"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            14271,
+            14278
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.584792,
+      "sentence": "The world suffers bought a home on First Street just a few houses away from the glands younger brother Neil.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "houses",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1053,
+            1059
+          ],
+          "text": "houses"
+        },
+        {
+          "entities": [
+            {
+              "text": "First Street",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1029,
+            1041
+          ],
+          "text": "First Street"
+        }
+      ]
+    },
+    {
+      "score": 0.969889,
+      "sentence": "Prosecutors stated that on the afternoon before the merger plan met his dental assistant for a sexual encounter.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14324,
+            14335
+          ],
+          "text": "Prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "stated",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            14336,
+            14342
+          ],
+          "text": "stated"
+        }
+      ]
+    },
+    {
+      "score": 0.219846,
+      "sentence": "A few hours later plans saw his other mistress at a local nightclub he may have been hoping to have sex with her too but her husband was there.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14505,
+            14507
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "nightclub",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14495,
+            14504
+          ],
+          "text": "nightclub"
+        }
+      ]
+    },
+    {
+      "score": 0.727418,
+      "sentence": "A few hours later plans saw his other mistress at a local nightclub he may have been hoping to have sex with her too but her husband was there.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14558,
+            14561
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Brian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14562,
+            14569
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.556116,
+      "sentence": "Brian drove home around two thirty in the morning.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14581,
+            14586
+          ],
+          "text": "Brian"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            14593,
+            14597
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.720203,
+      "sentence": "When he returned he staged the crime scene by placing the ladder up to the back of his house but he made a mistake and propped it up backwards he also remove the window screen and ransacked some of the rooms.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14980,
+            14982
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            15000,
+            15005
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.699267,
+      "sentence": "When he returned he staged the crime scene by placing the ladder up to the back of his house but he made a mistake and propped it up backwards he also remove the window screen and ransacked some of the rooms.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            15000,
+            15005
+          ],
+          "text": "scene"
+        },
+        {
+          "entities": [
+            {
+              "text": "courthouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            15050,
+            15055
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.64652,
+      "sentence": "When he returned he staged the crime scene by placing the ladder up to the back of his house but he made a mistake and propped it up backwards he also remove the window screen and ransacked some of the rooms.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15106,
+            15108
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "some",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            15153,
+            15157
+          ],
+          "text": "some"
+        }
+      ]
+    },
+    {
+      "score": 0.199689,
+      "sentence": "When he returned he staged the crime scene by placing the ladder up to the back of his house but he made a mistake and propped it up backwards he also remove the window screen and ransacked some of the rooms.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "some",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            15153,
+            15157
+          ],
+          "text": "some"
+        },
+        {
+          "entities": [
+            {
+              "text": "rooms",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            15165,
+            15170
+          ],
+          "text": "rooms"
+        }
+      ]
+    },
+    {
+      "score": 0.425713,
+      "sentence": "The jury had to choose between clan will suffers intruder story and the circumstantial case put forward by prosecutors and amid the discrepancies in the plan will suffer story one fact stood out after an alleged a life and death struggle with an intruder neither plan or his brother Neil ever went upstairs to check on that he will suffer or five year old Danielle before the police arrive.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            15363,
+            15367
+          ],
+          "text": "jury"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            15446,
+            15450
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.591223,
+      "sentence": "The jury had to choose between clan will suffers intruder story and the circumstantial case put forward by prosecutors and amid the discrepancies in the plan will suffer story one fact stood out after an alleged a life and death struggle with an intruder neither plan or his brother Neil ever went upstairs to check on that he will suffer or five year old Danielle before the police arrive.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15466,
+            15477
+          ],
+          "text": "prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            15446,
+            15450
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.294668,
+      "sentence": "Two brothers were unusually close they were almost like twins it's a very rarely did things apart they were really big into sports and they and they they just grew up together like that and they live near each other and they were inseparable he and his brother and when Glenn and Betty gave birth to a daughter Danielle their life together seemed perfect but tragedy struck on Saturday morning August thirtieth nineteen eighty six just after dawn plan will support called his younger brother Neil telling him that an intruder had broken into his home.",
+      "type": "siblingOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1352,
+            1355
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1356,
+            1363
+          ],
+          "text": "brother"
+        }
+      ]
+    },
+    {
+      "score": 0.384618,
+      "sentence": "The jury had to choose between clan will suffers intruder story and the circumstantial case put forward by prosecutors and amid the discrepancies in the plan will suffer story one fact stood out after an alleged a life and death struggle with an intruder neither plan or his brother Neil ever went upstairs to check on that he will suffer or five year old Danielle before the police arrive.",
+      "type": "siblingOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15630,
+            15633
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15634,
+            15641
+          ],
+          "text": "brother"
+        }
+      ]
+    },
+    {
+      "score": 0.766189,
+      "sentence": "Glenn will suffer was found guilty of third degree murder and was sentenced to eight to twenty years in prison for the death of my sister it's the hurt on behalf of both families.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15750,
+            15755
+          ],
+          "text": "Glenn"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            15801,
+            15807
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.531946,
+      "sentence": "Glenn will suffer was found guilty of third degree murder and was sentenced to eight to twenty years in prison for the death of my sister it's the hurt on behalf of both families.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15750,
+            15755
+          ],
+          "text": "Glenn"
+        },
+        {
+          "entities": [
+            {
+              "text": "sentenced",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            15816,
+            15825
+          ],
+          "text": "sentenced"
+        }
+      ]
+    },
+    {
+      "score": 0.257322,
+      "sentence": "Glenn will suffer was found guilty of third degree murder and was sentenced to eight to twenty years in prison for the death of my sister it's the hurt on behalf of both families.",
+      "type": "siblingOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15878,
+            15880
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15881,
+            15887
+          ],
+          "text": "sister"
+        }
+      ]
+    },
+    {
+      "score": 0.753078,
+      "sentence": "Here'S a guy who just cared about himself the only person that he ever cared about was himself Glenn was worried about the land and no one else and I think that was shown by the verdict in this case.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16206,
+            16207
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            16252,
+            16256
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.949782,
+      "sentence": "Benjamin Franklin once said three may keep a secret if two of them are dead.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Benjamin Franklin",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16258,
+            16275
+          ],
+          "text": "Benjamin Franklin"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            16281,
+            16285
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.923822,
+      "sentence": "Benjamin Franklin once said three may keep a secret if two of them are dead.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "two",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            16313,
+            16316
+          ],
+          "text": "two"
+        },
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16320,
+            16324
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.796324,
+      "sentence": "When I go out to talk to people about forensic meteorology I always talk about this case and I go through the whole scenario in the set up and.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16420,
+            16421
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "talk",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            16432,
+            16436
+          ],
+          "text": "talk"
+        }
+      ]
+    },
+    {
+      "score": 0.956387,
+      "sentence": "When I go out to talk to people about forensic meteorology I always talk about this case and I go through the whole scenario in the set up and.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16440,
+            16446
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "talk",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            16432,
+            16436
+          ],
+          "text": "talk"
+        }
+      ]
+    },
+    {
+      "score": 0.896239,
+      "sentence": "When I go out to talk to people about forensic meteorology I always talk about this case and I go through the whole scenario in the set up and.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16474,
+            16475
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "talk",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            16483,
+            16487
+          ],
+          "text": "talk"
+        }
+      ]
+    },
+    {
+      "score": 0.974322,
+      "sentence": "And then I asked people okay so where's the weather connection you know where it is whether become involved and usually all I get is a set of blank stares so to think about that and to tie it in and then to go get expert corroboration I think was really a very very good piece of police and detective work.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16568,
+            16569
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            16570,
+            16575
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.532843,
+      "sentence": "Two brothers were unusually close they were almost like twins it's a very rarely did things apart they were really big into sports and they and they they just grew up together like that and they live near each other and they were inseparable he and his brother and when Glenn and Betty gave birth to a daughter Danielle their life together seemed perfect but tragedy struck on Saturday morning August thirtieth nineteen eighty six just after dawn plan will support called his younger brother Neil telling him that an intruder had broken into his home.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1356,
+            1363
+          ],
+          "text": "brother"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1568,
+            1574
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.709852,
+      "sentence": "And then I asked people okay so where's the weather connection you know where it is whether become involved and usually all I get is a set of blank stares so to think about that and to tie it in and then to go get expert corroboration I think was really a very very good piece of police and detective work.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16576,
+            16582
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            16570,
+            16575
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.514351,
+      "sentence": "Two brothers were unusually close they were almost like twins it's a very rarely did things apart they were really big into sports and they and they they just grew up together like that and they live near each other and they were inseparable he and his brother and when Glenn and Betty gave birth to a daughter Danielle their life together seemed perfect but tragedy struck on Saturday morning August thirtieth nineteen eighty six just after dawn plan will support called his younger brother Neil telling him that an intruder had broken into his home.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1383,
+            1388
+          ],
+          "text": "Betty"
+        },
+        {
+          "entities": [
+            {
+              "text": "brothers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1423,
+            1428
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.617886,
+      "sentence": "Two brothers were unusually close they were almost like twins it's a very rarely did things apart they were really big into sports and they and they they just grew up together like that and they live near each other and they were inseparable he and his brother and when Glenn and Betty gave birth to a daughter Danielle their life together seemed perfect but tragedy struck on Saturday morning August thirtieth nineteen eighty six just after dawn plan will support called his younger brother Neil telling him that an intruder had broken into his home.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Danielle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1414,
+            1422
+          ],
+          "text": "Danielle"
+        },
+        {
+          "entities": [
+            {
+              "text": "brothers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1423,
+            1428
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.493873,
+      "sentence": "Two brothers were unusually close they were almost like twins it's a very rarely did things apart they were really big into sports and they and they they just grew up together like that and they live near each other and they were inseparable he and his brother and when Glenn and Betty gave birth to a daughter Danielle their life together seemed perfect but tragedy struck on Saturday morning August thirtieth nineteen eighty six just after dawn plan will support called his younger brother Neil telling him that an intruder had broken into his home.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1575,
+            1578
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1568,
+            1574
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.712989,
+      "sentence": "Two brothers were unusually close they were almost like twins it's a very rarely did things apart they were really big into sports and they and they they just grew up together like that and they live near each other and they were inseparable he and his brother and when Glenn and Betty gave birth to a daughter Danielle their life together seemed perfect but tragedy struck on Saturday morning August thirtieth nineteen eighty six just after dawn plan will support called his younger brother Neil telling him that an intruder had broken into his home.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "telling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1600,
+            1607
+          ],
+          "text": "telling"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1568,
+            1574
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.764407,
+      "sentence": "In August of nineteen eighty six but he will suffer a thirty two year old housewife and mother was strangled and murdered by an assailant who had broken into her home her husband Dr Glenn will suffer was also strangled and knocked unconscious but survived the attack.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "assailant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            128,
+            137
+          ],
+          "text": "assailant"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            113,
+            121
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.911478,
+      "sentence": "Two brothers were unusually close they were almost like twins it's a very rarely did things apart they were really big into sports and they and they they just grew up together like that and they live near each other and they were inseparable he and his brother and when Glenn and Betty gave birth to a daughter Danielle their life together seemed perfect but tragedy struck on Saturday morning August thirtieth nineteen eighty six just after dawn plan will support called his younger brother Neil telling him that an intruder had broken into his home.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1595,
+            1599
+          ],
+          "text": "Neil"
+        },
+        {
+          "entities": [
+            {
+              "text": "telling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1600,
+            1607
+          ],
+          "text": "telling"
+        }
+      ]
+    },
+    {
+      "score": 0.791536,
+      "sentence": "Two brothers were unusually close they were almost like twins it's a very rarely did things apart they were really big into sports and they and they they just grew up together like that and they live near each other and they were inseparable he and his brother and when Glenn and Betty gave birth to a daughter Danielle their life together seemed perfect but tragedy struck on Saturday morning August thirtieth nineteen eighty six just after dawn plan will support called his younger brother Neil telling him that an intruder had broken into his home.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1608,
+            1611
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "telling",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1600,
+            1607
+          ],
+          "text": "telling"
+        }
+      ]
+    },
+    {
+      "score": 0.546443,
+      "sentence": "Two brothers were unusually close they were almost like twins it's a very rarely did things apart they were really big into sports and they and they they just grew up together like that and they live near each other and they were inseparable he and his brother and when Glenn and Betty gave birth to a daughter Danielle their life together seemed perfect but tragedy struck on Saturday morning August thirtieth nineteen eighty six just after dawn plan will support called his younger brother Neil telling him that an intruder had broken into his home.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1645,
+            1648
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "courthouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1649,
+            1653
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.263201,
+      "sentence": "When will suffer told police that he was asleep when he heard a loud noise in the back of his house around six AM he said he grabbed his gun and saw a masked intruder running down the stairs and the public.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2960,
+            2963
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "courthouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2964,
+            2969
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.642561,
+      "sentence": "Neil ran across the street to glance home and when he saw the plane had been assaulted Neil phoned police.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "First Street",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1675,
+            1681
+          ],
+          "text": "street"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1692,
+            1696
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.948207,
+      "sentence": "Neil ran across the street to glance home and when he saw the plane had been assaulted Neil phoned police.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1706,
+            1708
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "plane",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            1717,
+            1722
+          ],
+          "text": "plane"
+        }
+      ]
+    },
+    {
+      "score": 0.485743,
+      "sentence": "Investigators could find no skid marks it appeared that Neil will suffer intentionally turned in front of an oncoming truck.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12039,
+            12043
+          ],
+          "text": "Neil"
+        },
+        {
+          "entities": [
+            {
+              "text": "plane",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            12101,
+            12106
+          ],
+          "text": "truck"
+        }
+      ]
+    },
+    {
+      "score": 0.816386,
+      "sentence": "Neil ran across the street to glance home and when he saw the plane had been assaulted Neil phoned police.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1706,
+            1708
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            1732,
+            1741
+          ],
+          "text": "assaulted"
+        }
+      ]
+    },
+    {
+      "score": 0.693866,
+      "sentence": "The news of Betty Wilson for his murder and the assault on her husband gland stunned the small industrial community of Wilkes Barre Pennsylvania.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3855,
+            3858
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            3859,
+            3865
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.894003,
+      "sentence": "Up steers had been ransacked furniture was overturned desk drawers emptied one of the officers and went up stairs father's daughter was still sleeping in her bedroom five year old and then went into the.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1977,
+            1983
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "Danielle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1986,
+            1994
+          ],
+          "text": "daughter"
+        }
+      ]
+    },
+    {
+      "score": 0.488328,
+      "sentence": "Up steers had been ransacked furniture was overturned desk drawers emptied one of the officers and went up stairs father's daughter was still sleeping in her bedroom five year old and then went into the.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2017,
+            2020
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2021,
+            2028
+          ],
+          "text": "bedroom"
+        }
+      ]
+    },
+    {
+      "score": 0.959106,
+      "sentence": "Up steers had been ransacked furniture was overturned desk drawers emptied one of the officers and went up stairs father's daughter was still sleeping in her bedroom five year old and then went into the.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2017,
+            2020
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "five year old",
+              "type": "Age"
+            }
+          ],
+          "location": [
+            2029,
+            2042
+          ],
+          "text": "five year old"
+        }
+      ]
+    },
+    {
+      "score": 0.840022,
+      "sentence": "The world's first bedroom and found Betty laying on the floor she was dedicated to.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2085,
+            2092
+          ],
+          "text": "bedroom"
+        },
+        {
+          "entities": [
+            {
+              "text": "world",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2071,
+            2076
+          ],
+          "text": "world"
+        }
+      ]
+    },
+    {
+      "score": 0.494169,
+      "sentence": "In August of nineteen eighty six but he will suffer a thirty two year old housewife and mother was strangled and murdered by an assailant who had broken into her home her husband Dr Glenn will suffer was also strangled and knocked unconscious but survived the attack.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "assailant",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            138,
+            141
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            162,
+            166
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.512365,
+      "sentence": "Because he was a vicious attack upon this woman.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2429,
+            2434
+          ],
+          "text": "woman"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            2412,
+            2418
+          ],
+          "text": "attack"
+        }
+      ]
+    },
+    {
+      "score": 0.703684,
+      "sentence": "My father had told me that that body was murdered and they were the specific words.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2439,
+            2445
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2436,
+            2438
+          ],
+          "text": "My"
+        }
+      ]
+    },
+    {
+      "score": 0.667117,
+      "sentence": "My father had told me that that body was murdered and they were the specific words.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2436,
+            2438
+          ],
+          "text": "My"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2490,
+            2494
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.822242,
+      "sentence": "My father had told me that that body was murdered and they were the specific words.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2439,
+            2445
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2490,
+            2494
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.832281,
+      "sentence": "My father had told me that that body was murdered and they were the specific words.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2455,
+            2457
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2450,
+            2454
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.676602,
+      "sentence": "My father had told me that that body was murdered and they were the specific words.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2468,
+            2472
+          ],
+          "text": "body"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2490,
+            2494
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.835862,
+      "sentence": "When will suffer told police that he was asleep when he heard a loud noise in the back of his house around six AM he said he grabbed his gun and saw a masked intruder running down the stairs and the public.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2892,
+            2898
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2887,
+            2891
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.931968,
+      "sentence": "And will suffer told police that thirteen hundred dollars in cash was missing from his desk in the study and some gold and diamond jewellery and a house key were also missing.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3421,
+            3427
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3416,
+            3420
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.978454,
+      "sentence": "When will suffer told police that he was asleep when he heard a loud noise in the back of his house around six AM he said he grabbed his gun and saw a masked intruder running down the stairs and the public.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2984,
+            2986
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2987,
+            2991
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.254864,
+      "sentence": "Some time later when plan regained consciousness he phoned his brother.",
+      "type": "siblingOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3248,
+            3251
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3252,
+            3259
+          ],
+          "text": "brother"
+        }
+      ]
+    },
+    {
+      "score": 0.439979,
+      "sentence": "Very nice woman getting killed in her own home did not make sense to a lot of people.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3348,
+            3351
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3356,
+            3360
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.397778,
+      "sentence": "In August of nineteen eighty six but he will suffer a thirty two year old housewife and mother was strangled and murdered by an assailant who had broken into her home her husband Dr Glenn will suffer was also strangled and knocked unconscious but survived the attack.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            158,
+            161
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            162,
+            166
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.40262,
+      "sentence": "And will suffer told police that thirteen hundred dollars in cash was missing from his desk in the study and some gold and diamond jewellery and a house key were also missing.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "thirteen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3433,
+            3441
+          ],
+          "text": "thirteen"
+        },
+        {
+          "entities": [
+            {
+              "text": "hundred dollars",
+              "type": "Money"
+            }
+          ],
+          "location": [
+            3442,
+            3457
+          ],
+          "text": "hundred dollars"
+        }
+      ]
+    },
+    {
+      "score": 0.695254,
+      "sentence": "The news of Betty Wilson for his murder and the assault on her husband gland stunned the small industrial community of Wilkes Barre Pennsylvania.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3889,
+            3896
+          ],
+          "text": "husband"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            3874,
+            3881
+          ],
+          "text": "assault"
+        }
+      ]
+    },
+    {
+      "score": 0.428709,
+      "sentence": "The news of Betty Wilson for his murder and the assault on her husband gland stunned the small industrial community of Wilkes Barre Pennsylvania.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3889,
+            3896
+          ],
+          "text": "husband"
+        },
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3932,
+            3941
+          ],
+          "text": "community"
+        }
+      ]
+    },
+    {
+      "score": 0.399461,
+      "sentence": "Dr Glenn will suffer was a successful dentist in town his wife an active volunteer for many local charities neither had any known and.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4030,
+            4034
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "planet",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4021,
+            4025
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.805596,
+      "sentence": "Dr Glenn will suffer was a successful dentist in town his wife an active volunteer for many local charities neither had any known and.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4026,
+            4029
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4030,
+            4034
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.786617,
+      "sentence": "But the police video taken on the morning of the murder shows that Glenn Wilson first car in the driveway was not covered with dew yet his wife's car while.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8809,
+            8812
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8813,
+            8817
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.805945,
+      "sentence": "If he had driven home at two thirty in the morning Glenn's car would have had the same amount of do as his wife's car.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9913,
+            9916
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9917,
+            9921
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.546043,
+      "sentence": "Police were also suspicious of Neil's behavior it made it that he did not go upstairs to check on Glenn's wife and five year old daughter Danielle before police arrived.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10928,
+            10933
+          ],
+          "text": "Glenn"
+        },
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10936,
+            10940
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.745159,
+      "sentence": "With Dr Glenn will suffer as the prime suspect in his wife's murder police discovered that the all American image he presented to the public was just that an image before her death that he will suffer told friends that she knew all about her husband's affairs with the aerobics instructor and his dental assistant and that she had had enough we found out from some of Betty's girlfriend said she was very annoyed with some of these things that were happening very annoyed with him going out at nights and not coming in until all hours of the morning and some of the girlfriends even made comments to her well maybe you should confront him maybe should ask him what's going on to see if there was any evidence of a physical confrontation between clan and his wife FBI analyst Doug Dietrich analyze the debris under",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12579,
+            12582
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12583,
+            12587
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.719012,
+      "sentence": "With Dr Glenn will suffer as the prime suspect in his wife's murder police discovered that the all American image he presented to the public was just that an image before her death that he will suffer told friends that she knew all about her husband's affairs with the aerobics instructor and his dental assistant and that she had had enough we found out from some of Betty's girlfriend said she was very annoyed with some of these things that were happening very annoyed with him going out at nights and not coming in until all hours of the morning and some of the girlfriends even made comments to her well maybe you should confront him maybe should ask him what's going on to see if there was any evidence of a physical confrontation between clan and his wife FBI analyst Doug Dietrich analyze the debris under",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13283,
+            13286
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13287,
+            13291
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.782806,
+      "sentence": "There he found a number of blue cotton denim fibers using micro spectro photometry Dietrich analyzes a spectrum of color in the diet those fibers and concluded that the die was consistent with the dye used in the denim shirt and jeans that plan will suffer was seen wearing at the nightclub just hours before his wife's murder.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13683,
+            13686
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13687,
+            13691
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.84222,
+      "sentence": "They were very popular couple everybody knew them mom they were the pretty couple Betty was very popular he was kind of quiet type but still he was a jock good looking and so for those reasons everybody knew both of them were.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4189,
+            4194
+          ],
+          "text": "Betty"
+        },
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4182,
+            4188
+          ],
+          "text": "couple"
+        }
+      ]
+    },
+    {
+      "score": 0.453934,
+      "sentence": "Since thirteen hundred dollars in cash and some jewellery was missing from the world suffers home robbery was a possible motive.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "thirteen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4446,
+            4454
+          ],
+          "text": "thirteen"
+        },
+        {
+          "entities": [
+            {
+              "text": "hundred dollars",
+              "type": "Money"
+            }
+          ],
+          "location": [
+            4455,
+            4470
+          ],
+          "text": "hundred dollars"
+        }
+      ]
+    },
+    {
+      "score": 0.642703,
+      "sentence": "It appeared that the intruder used a ladder the world suffers stored on the side of their house to gain entrance through an open second story window.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4653,
+            4658
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "courthouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4659,
+            4664
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.511996,
+      "sentence": "A partial palm print was discovered on the inside of the window sill which did not match anyone in the family or the police.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "anyone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4808,
+            4814
+          ],
+          "text": "anyone"
+        },
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4836,
+            4842
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.866012,
+      "sentence": "The autopsy on the body will suffer was performed by Lucerne county coroner Dr George who died who found no evidence of sexual assault.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "coroner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4912,
+            4919
+          ],
+          "text": "coroner"
+        },
+        {
+          "entities": [
+            {
+              "text": "Lucerne county",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4897,
+            4911
+          ],
+          "text": "Lucerne county"
+        }
+      ]
+    },
+    {
+      "score": 0.822737,
+      "sentence": "In August of nineteen eighty six but he will suffer a thirty two year old housewife and mother was strangled and murdered by an assailant who had broken into her home her husband Dr Glenn will suffer was also strangled and knocked unconscious but survived the attack.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            167,
+            170
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            171,
+            178
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.745135,
+      "sentence": "The news of Betty Wilson for his murder and the assault on her husband gland stunned the small industrial community of Wilkes Barre Pennsylvania.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3885,
+            3888
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3889,
+            3896
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.835951,
+      "sentence": "With Dr Glenn will suffer as the prime suspect in his wife's murder police discovered that the all American image he presented to the public was just that an image before her death that he will suffer told friends that she knew all about her husband's affairs with the aerobics instructor and his dental assistant and that she had had enough we found out from some of Betty's girlfriend said she was very annoyed with some of these things that were happening very annoyed with him going out at nights and not coming in until all hours of the morning and some of the girlfriends even made comments to her well maybe you should confront him maybe should ask him what's going on to see if there was any evidence of a physical confrontation between clan and his wife FBI analyst Doug Dietrich analyze the debris under",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12767,
+            12770
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12771,
+            12778
+          ],
+          "text": "husband"
+        }
+      ]
+    },
+    {
+      "score": 0.510324,
+      "sentence": "The autopsy on the body will suffer was performed by Lucerne county coroner Dr George who died who found no evidence of sexual assault.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4939,
+            4942
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "assault",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            4971,
+            4978
+          ],
+          "text": "assault"
+        }
+      ]
+    },
+    {
+      "score": 0.925325,
+      "sentence": "Some injuries on whoever is sailor blue fibers and a small speck of blood found under Betty's fingernails confirmed she had been in close contact with her killer.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5385,
+            5388
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            5389,
+            5395
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.450782,
+      "sentence": "It appears that after killing that he will suffer the killer had washed her face and changed her nightgown.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5923,
+            5926
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            5905,
+            5911
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.706538,
+      "sentence": "It appears that after killing that he will suffer the killer had washed her face and changed her nightgown.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5886,
+            5888
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "killer",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            5905,
+            5911
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.57368,
+      "sentence": "Police search for her bloody clothing in the house the surrounding neighborhood and the nearby Susquehanna River without success since the body was lying in front of the fans time of death was difficult to gauge doctor who doc estimated that Betty will suffer had been murdered between two thirty and four thirty in the morning.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5977,
+            5980
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "courthouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6004,
+            6009
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.441069,
+      "sentence": "Police search for her bloody clothing in the house the surrounding neighborhood and the nearby Susquehanna River without success since the body was lying in front of the fans time of death was difficult to gauge doctor who doc estimated that Betty will suffer had been murdered between two thirty and four thirty in the morning.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "courthouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6004,
+            6009
+          ],
+          "text": "house"
+        },
+        {
+          "entities": [
+            {
+              "text": "neighborhood",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            6026,
+            6038
+          ],
+          "text": "neighborhood"
+        }
+      ]
+    },
+    {
+      "score": 0.86179,
+      "sentence": "Police search for her bloody clothing in the house the surrounding neighborhood and the nearby Susquehanna River without success since the body was lying in front of the fans time of death was difficult to gauge doctor who doc estimated that Betty will suffer had been murdered between two thirty and four thirty in the morning.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "morning",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            6279,
+            6286
+          ],
+          "text": "morning"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            6228,
+            6236
+          ],
+          "text": "murdered"
+        }
+      ]
+    },
+    {
+      "score": 0.67192,
+      "sentence": "Two to four hours before land said he heard the intruder and there was another inconsistency.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hours before",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            6300,
+            6312
+          ],
+          "text": "hours before"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6318,
+            6322
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.494941,
+      "sentence": "Two to four hours before land said he heard the intruder and there was another inconsistency.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "planet",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6313,
+            6317
+          ],
+          "text": "land"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6318,
+            6322
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.417791,
+      "sentence": "Doctors at mercy hospital noticed injuries on the back up plan will suffers neck even though he said he was strangled from behind.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6382,
+            6389
+          ],
+          "text": "Doctors"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6399,
+            6407
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.998501,
+      "sentence": "Doctors at mercy hospital noticed injuries on the back up plan will suffers neck even though he said he was strangled from behind.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6475,
+            6477
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6478,
+            6482
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.387274,
+      "sentence": "His younger brother Neil lived right across the street and was the first to arrive at the scene.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            268,
+            271
+          ],
+          "text": "His"
+        },
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            280,
+            287
+          ],
+          "text": "brother"
+        }
+      ]
+    },
+    {
+      "score": 0.921105,
+      "sentence": "Friends told investigators that gland often wore a gold chain around his neck if he was involved with a fight with his wife or his wife would have been saying the bed underneath him and he was on top of her in that position he would sustain those type of injuries from that piece of jewelry.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6675,
+            6682
+          ],
+          "text": "Friends"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6683,
+            6687
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.946254,
+      "sentence": "Friends told investigators that gland often wore a gold chain around his neck if he was involved with a fight with his wife or his wife would have been saying the bed underneath him and he was on top of her in that position he would sustain those type of injuries from that piece of jewelry.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6688,
+            6701
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6683,
+            6687
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.961071,
+      "sentence": "When investigators dug a little deeper into gland will serve for his dental practice they discovered his relationship with his dental assistant was more personal than business the two had been carrying on an affair for five years she told investigators that she expected plan to leave his wife for her but she realized that wouldn't happen when she discovered that gland was carrying on another affair with an aerobics instructor in town.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7404,
+            7417
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7399,
+            7403
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.777551,
+      "sentence": "Friends told investigators that gland often wore a gold chain around his neck if he was involved with a fight with his wife or his wife would have been saying the bed underneath him and he was on top of her in that position he would sustain those type of injuries from that piece of jewelry.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6790,
+            6793
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6794,
+            6798
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.694409,
+      "sentence": "Friends told investigators that gland often wore a gold chain around his neck if he was involved with a fight with his wife or his wife would have been saying the bed underneath him and he was on top of her in that position he would sustain those type of injuries from that piece of jewelry.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6802,
+            6805
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6806,
+            6810
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.748814,
+      "sentence": "That type of force would damage the spleen is capita's muscles too long muscles which support the head the same injury emergency room doctors diagnosed in gland will suffer after his wife's murder.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7146,
+            7149
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7150,
+            7154
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.727287,
+      "sentence": "When investigators dug a little deeper into gland will serve for his dental practice they discovered his relationship with his dental assistant was more personal than business the two had been carrying on an affair for five years she told investigators that she expected plan to leave his wife for her but she realized that wouldn't happen when she discovered that gland was carrying on another affair with an aerobics instructor in town.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7450,
+            7453
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7454,
+            7458
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.784389,
+      "sentence": "From motel receipts police learned that land would sometimes have trysts with both women on the same day before going home to his wife there was a a man who not only.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7730,
+            7733
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7734,
+            7738
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.996746,
+      "sentence": "When investigators dug a little deeper into gland will serve for his dental practice they discovered his relationship with his dental assistant was more personal than business the two had been carrying on an affair for five years she told investigators that she expected plan to leave his wife for her but she realized that wouldn't happen when she discovered that gland was carrying on another affair with an aerobics instructor in town.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7395,
+            7398
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7399,
+            7403
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.31138,
+      "sentence": "When investigators dug a little deeper into gland will serve for his dental practice they discovered his relationship with his dental assistant was more personal than business the two had been carrying on an affair for five years she told investigators that she expected plan to leave his wife for her but she realized that wouldn't happen when she discovered that gland was carrying on another affair with an aerobics instructor in town.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7510,
+            7513
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "town",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7598,
+            7602
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.666121,
+      "sentence": "Have an affair he cheated on his wife but here was a man who had an affair cheated on his girlfriend at the same time and police wanted to know why Glenn's younger brother Neil sale to go upstairs to check on his brother's wife and child while he waited for the police to arrive.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7800,
+            7803
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7804,
+            7808
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.388954,
+      "sentence": "Have an affair he cheated on his wife but here was a man who had an affair cheated on his girlfriend at the same time and police wanted to know why Glenn's younger brother Neil sale to go upstairs to check on his brother's wife and child while he waited for the police to arrive.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7984,
+            7991
+          ],
+          "text": "brother"
+        },
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7994,
+            7998
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.423769,
+      "sentence": "Have an affair he cheated on his wife but here was a man who had an affair cheated on his girlfriend at the same time and police wanted to know why Glenn's younger brother Neil sale to go upstairs to check on his brother's wife and child while he waited for the police to arrive.",
+      "type": "siblingOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7980,
+            7983
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7984,
+            7991
+          ],
+          "text": "brother"
+        }
+      ]
+    },
+    {
+      "score": 0.334661,
+      "sentence": "When homicide investigators learned that Betty Wilson for his body had been washed enter clothes changed after the merger they looked a little closer at the statements gland and his younger brother Neil both gave to police.",
+      "type": "siblingOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8381,
+            8384
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8393,
+            8400
+          ],
+          "text": "brother"
+        }
+      ]
+    },
+    {
+      "score": 0.392959,
+      "sentence": "Have an affair he cheated on his wife but here was a man who had an affair cheated on his girlfriend at the same time and police wanted to know why Glenn's younger brother Neil sale to go upstairs to check on his brother's wife and child while he waited for the police to arrive.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8015,
+            8017
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8033,
+            8039
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.594137,
+      "sentence": "While on his way to the district attorney's office to answer that very question Neil made a decision that would change the course of the investigation.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8060,
+            8063
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "office",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8095,
+            8101
+          ],
+          "text": "office"
+        }
+      ]
+    },
+    {
+      "score": 0.830295,
+      "sentence": "While on his way to the district attorney's office to answer that very question Neil made a decision that would change the course of the investigation.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "attorney",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8084,
+            8092
+          ],
+          "text": "attorney"
+        },
+        {
+          "entities": [
+            {
+              "text": "district",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8075,
+            8083
+          ],
+          "text": "district"
+        }
+      ]
+    },
+    {
+      "score": 0.534275,
+      "sentence": "His younger brother Neil lived right across the street and was the first to arrive at the scene.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            288,
+            292
+          ],
+          "text": "Neil"
+        },
+        {
+          "entities": [
+            {
+              "text": "First Street",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            316,
+            322
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.781905,
+      "sentence": "Neil ran across the street to glance home and when he saw the plane had been assaulted Neil phoned police.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1655,
+            1659
+          ],
+          "text": "Neil"
+        },
+        {
+          "entities": [
+            {
+              "text": "First Street",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1675,
+            1681
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.908435,
+      "sentence": "While on his way to the district attorney's office to answer that very question Neil made a decision that would change the course of the investigation.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "office",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8095,
+            8101
+          ],
+          "text": "office"
+        },
+        {
+          "entities": [
+            {
+              "text": "district",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8075,
+            8083
+          ],
+          "text": "district"
+        }
+      ]
+    },
+    {
+      "score": 0.89298,
+      "sentence": "Neil was asked to report to the district attorney's office for an interview.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "office",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11636,
+            11642
+          ],
+          "text": "office"
+        },
+        {
+          "entities": [
+            {
+              "text": "district",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11616,
+            11624
+          ],
+          "text": "district"
+        }
+      ]
+    },
+    {
+      "score": 0.863911,
+      "sentence": "While on his way to the district attorney's office to answer that very question Neil made a decision that would change the course of the investigation.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "attorney",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8084,
+            8092
+          ],
+          "text": "attorney"
+        },
+        {
+          "entities": [
+            {
+              "text": "office",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8095,
+            8101
+          ],
+          "text": "office"
+        }
+      ]
+    },
+    {
+      "score": 0.710521,
+      "sentence": "While on his way to the district attorney's office to answer that very question Neil made a decision that would change the course of the investigation.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "office",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8095,
+            8101
+          ],
+          "text": "office"
+        },
+        {
+          "entities": [
+            {
+              "text": "answer",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8105,
+            8111
+          ],
+          "text": "answer"
+        }
+      ]
+    },
+    {
+      "score": 0.396766,
+      "sentence": "While on his way to the district attorney's office to answer that very question Neil made a decision that would change the course of the investigation.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8131,
+            8135
+          ],
+          "text": "Neil"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8188,
+            8201
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.465861,
+      "sentence": "When homicide investigators learned that Betty Wilson for his body had been washed enter clothes changed after the merger they looked a little closer at the statements gland and his younger brother Neil both gave to police.",
+      "type": "affiliatedWith",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8217,
+            8230
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "homicide",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8208,
+            8216
+          ],
+          "text": "homicide"
+        }
+      ]
+    },
+    {
+      "score": 0.497758,
+      "sentence": "When homicide investigators learned that Betty Wilson for his body had been washed enter clothes changed after the merger they looked a little closer at the statements gland and his younger brother Neil both gave to police.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8244,
+            8256
+          ],
+          "text": "Betty Wilson"
+        },
+        {
+          "entities": [
+            {
+              "text": "doctors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8325,
+            8329
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.525279,
+      "sentence": "When will suffer said he was out with friends at a local nightclub and drove home around two thirty.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8477,
+            8479
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8472,
+            8476
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.997832,
+      "sentence": "He said that he went right to bed and slept until dawn when he heard the intruder and went downstairs to investigate.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8556,
+            8558
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8559,
+            8563
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.428106,
+      "sentence": "When will suffer said he was out with friends at a local nightclub and drove home around two thirty.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "George",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8477,
+            8479
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8532,
+            8536
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.853009,
+      "sentence": "When will suffer said he was out with friends at a local nightclub and drove home around two thirty.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "girlfriends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8493,
+            8500
+          ],
+          "text": "friends"
+        },
+        {
+          "entities": [
+            {
+              "text": "nightclub",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8512,
+            8521
+          ],
+          "text": "nightclub"
+        }
+      ]
+    },
+    {
+      "score": 0.393475,
+      "sentence": "When will suffer said he was out with friends at a local nightclub and drove home around two thirty.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "nightclub",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8512,
+            8521
+          ],
+          "text": "nightclub"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8532,
+            8536
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.82414,
+      "sentence": "Some say because of what he learned about the intruder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Some",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            414,
+            418
+          ],
+          "text": "Some"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            419,
+            422
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.609549,
+      "sentence": "But the police video taken on the morning of the murder shows that Glenn Wilson first car in the driveway was not covered with dew yet his wife's car while.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8741,
+            8753
+          ],
+          "text": "Glenn Wilson"
+        },
+        {
+          "entities": [
+            {
+              "text": "plane",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            8760,
+            8763
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.842119,
+      "sentence": "The temperature hits fifty degrees at eleven PM Glenn will suffer said he drove home at two thirty in the morning yet there was no do on his car when police arrived at seven AM.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9769,
+            9772
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "plane",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9773,
+            9776
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.737272,
+      "sentence": "If he had driven home at two thirty in the morning Glenn's car would have had the same amount of do as his wife's car.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9861,
+            9866
+          ],
+          "text": "Glenn"
+        },
+        {
+          "entities": [
+            {
+              "text": "plane",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9869,
+            9872
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.885402,
+      "sentence": "And it was gruesome past the courthouse he drove about another five miles and that his car swerved in front of the dump truck was killed instantly.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11918,
+            11921
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "plane",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            11922,
+            11925
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.34101,
+      "sentence": "But the police video taken on the morning of the murder shows that Glenn Wilson first car in the driveway was not covered with dew yet his wife's car while.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8813,
+            8817
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "plane",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            8820,
+            8823
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.980704,
+      "sentence": "To help sort out the discrepancy police called in a forensic meteorologist Dr Joseph Sobel who studied the weather patterns on the night of the murder do is moisture it's condensation that actually forms on the object we're talking about whether it be a blade of grass or rooftop or car top or any object that happens to be outside during that time.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8864,
+            8870
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8871,
+            8877
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.91427,
+      "sentence": "To help sort out the discrepancy police called in a forensic meteorologist Dr Joseph Sobel who studied the weather patterns on the night of the murder do is moisture it's condensation that actually forms on the object we're talking about whether it be a blade of grass or rooftop or car top or any object that happens to be outside during that time.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph Sobel",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8922,
+            8925
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            8975,
+            8981
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.960552,
+      "sentence": "To help sort out the discrepancy police called in a forensic meteorologist Dr Joseph Sobel who studied the weather patterns on the night of the murder do is moisture it's condensation that actually forms on the object we're talking about whether it be a blade of grass or rooftop or car top or any object that happens to be outside during that time.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "we",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9049,
+            9051
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "talking",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9055,
+            9062
+          ],
+          "text": "talking"
+        }
+      ]
+    },
+    {
+      "score": 0.591355,
+      "sentence": "The temperature hits fifty degrees at eleven PM Glenn will suffer said he drove home at two thirty in the morning yet there was no do on his car when police arrived at seven AM.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9680,
+            9685
+          ],
+          "text": "Glenn"
+        },
+        {
+          "entities": [
+            {
+              "text": "eleven PM",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9670,
+            9679
+          ],
+          "text": "eleven PM"
+        }
+      ]
+    },
+    {
+      "score": 0.506698,
+      "sentence": "The temperature hits fifty degrees at eleven PM Glenn will suffer said he drove home at two thirty in the morning yet there was no do on his car when police arrived at seven AM.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9703,
+            9705
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9698,
+            9702
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.785279,
+      "sentence": "The temperature hits fifty degrees at eleven PM Glenn will suffer said he drove home at two thirty in the morning yet there was no do on his car when police arrived at seven AM.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9703,
+            9705
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9712,
+            9716
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.674235,
+      "sentence": "If he had driven home at two thirty in the morning Glenn's car would have had the same amount of do as his wife's car.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9813,
+            9815
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9827,
+            9831
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.499125,
+      "sentence": "If he had driven home at two thirty in the morning Glenn's car would have had the same amount of do as his wife's car.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9917,
+            9921
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "plane",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9924,
+            9927
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.471414,
+      "sentence": "Betty and Glenn were childhood sweethearts they went to high school together Glenn will suffer went on to dental school later married Betty and after graduation the couple returned to their home town of Wilkes Barre Pennsylvania to set up practice.",
+      "type": "educatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            788,
+            792
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "high school",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            801,
+            812
+          ],
+          "text": "high school"
+        }
+      ]
+    },
+    {
+      "score": 0.71907,
+      "sentence": "The lack of doom and someone had driven plan was the first car some time after Glenn returned home from the light two thirty and before police arrived at seven AM evaporating the dude that had been present and the same due points produced due on the world suffers roof yet there were no foot or hand prints in the deal on the roof when police arrived.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "someone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9950,
+            9957
+          ],
+          "text": "someone"
+        },
+        {
+          "entities": [
+            {
+              "text": "plane",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9988,
+            9991
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.59738,
+      "sentence": "The lack of doom and someone had driven plan was the first car some time after Glenn returned home from the light two thirty and before police arrived at seven AM evaporating the dude that had been present and the same due points produced due on the world suffers roof yet there were no foot or hand prints in the deal on the roof when police arrived.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "plane",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            9988,
+            9991
+          ],
+          "text": "car"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10023,
+            10027
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.551975,
+      "sentence": "The lack of doom and someone had driven plan was the first car some time after Glenn returned home from the light two thirty and before police arrived at seven AM evaporating the dude that had been present and the same due points produced due on the world suffers roof yet there were no foot or hand prints in the deal on the roof when police arrived.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10023,
+            10027
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "world",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10179,
+            10184
+          ],
+          "text": "world"
+        }
+      ]
+    },
+    {
+      "score": 0.877116,
+      "sentence": "Police were also investigating what connection if any glands younger brother Neil may have had to the merger he was the first one to arrive at the scene and was the one that called the police.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10558,
+            10564
+          ],
+          "text": "Police"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigating",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10575,
+            10588
+          ],
+          "text": "investigating"
+        }
+      ]
+    },
+    {
+      "score": 0.516266,
+      "sentence": "Police were also investigating what connection if any glands younger brother Neil may have had to the merger he was the first one to arrive at the scene and was the one that called the police.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10667,
+            10669
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "scene",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10705,
+            10710
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.748943,
+      "sentence": "Police were also investigating what connection if any glands younger brother Neil may have had to the merger he was the first one to arrive at the scene and was the one that called the police.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            10723,
+            10726
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10732,
+            10738
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.911312,
+      "sentence": "Police were also investigating what connection if any glands younger brother Neil may have had to the merger he was the first one to arrive at the scene and was the one that called the police.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "police",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10743,
+            10749
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "called",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10732,
+            10738
+          ],
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "score": 0.977373,
+      "sentence": "Neil Boyle suffered denied any involvement in the crime but when asked to take a lie detector test you refuse a lot of people think that Neil knew everything that when he came in the house that Glenn told him what happened he said you have to help me we have to concoct a story if there's people that even think the deal may have been the one they knock Colin on the head then there's the other school that think that meal suspected.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11000,
+            11010
+          ],
+          "text": "Neil Boyle"
+        },
+        {
+          "entities": [
+            {
+              "text": "denied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11020,
+            11026
+          ],
+          "text": "denied"
+        }
+      ]
+    },
+    {
+      "score": 0.825164,
+      "sentence": "Neil Boyle suffered denied any involvement in the crime but when asked to take a lie detector test you refuse a lot of people think that Neil knew everything that when he came in the house that Glenn told him what happened he said you have to help me we have to concoct a story if there's people that even think the deal may have been the one they knock Colin on the head then there's the other school that think that meal suspected.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Neil Boyle",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11168,
+            11170
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "courthouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11183,
+            11188
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.536613,
+      "sentence": "Neil Boyle suffered denied any involvement in the crime but when asked to take a lie detector test you refuse a lot of people think that Neil knew everything that when he came in the house that Glenn told him what happened he said you have to help me we have to concoct a story if there's people that even think the deal may have been the one they knock Colin on the head then there's the other school that think that meal suspected.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11194,
+            11199
+          ],
+          "text": "Glenn"
+        },
+        {
+          "entities": [
+            {
+              "text": "courthouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11183,
+            11188
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.316353,
+      "sentence": "When he returned he staged the crime scene by placing the ladder up to the back of his house but he made a mistake and propped it up backwards he also remove the window screen and ransacked some of the rooms.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Glenn Wilson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15046,
+            15049
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "courthouse",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            15050,
+            15055
+          ],
+          "text": "house"
+        }
+      ]
+    }
+  ]
+}

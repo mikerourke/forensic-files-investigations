@@ -1,0 +1,4463 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 12873,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Monica",
+      "relevance": 0.978348,
+      "confidence": 1,
+      "count": 34
+    },
+    {
+      "type": "Person",
+      "text": "Paul",
+      "relevance": 0.240397,
+      "confidence": 1,
+      "count": 8
+    },
+    {
+      "type": "Quantity",
+      "text": "two feet",
+      "relevance": 0.173231,
+      "confidence": 0.99968,
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Monica Sanchez don",
+      "relevance": 0.165618,
+      "confidence": 0.636261,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Farmington",
+      "relevance": 0.159937,
+      "confidence": 0.995333,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Monica don",
+      "relevance": 0.155989,
+      "confidence": 0.998903,
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "New Mexico state police",
+      "relevance": 0.14512,
+      "confidence": 0.199035,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Paul Dunne",
+      "relevance": 0.130023,
+      "confidence": 1,
+      "count": 2,
+      "disambiguation": {
+        "name": "Paul_Dunne",
+        "dbpedia_resource": "http://dbpedia.org/resource/Paul_Dunne"
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty nine inches",
+      "relevance": 0.123854,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty four inches",
+      "relevance": 0.123142,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ten minutes",
+      "relevance": 0.11673,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Victor Titus",
+      "relevance": 0.113004,
+      "confidence": 0.998681,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "New Mexico",
+      "relevance": 0.104655,
+      "confidence": 0.945126,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Mr Sanchez",
+      "relevance": 0.104575,
+      "confidence": 0.998786,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Paul Ferris",
+      "relevance": 0.101311,
+      "confidence": 0.994362,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dave Pfeffer",
+      "relevance": 0.092638,
+      "confidence": 0.999947,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Nelson Welch",
+      "relevance": 0.085629,
+      "confidence": 0.999244,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Fulham",
+      "relevance": 0.083334,
+      "confidence": 0.985588,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "bruise",
+      "relevance": 0.073271,
+      "confidence": 0.906829,
+      "count": 1,
+      "disambiguation": {
+        "name": "Bruise",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bruise",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "Symptom",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Fackler",
+      "relevance": 0.072068,
+      "confidence": 0.999939,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three feet",
+      "relevance": 0.065867,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Titus",
+      "relevance": 0.055204,
+      "confidence": 0.996695,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Snelson Welch",
+      "relevance": 0.052211,
+      "confidence": 0.954614,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "seven days",
+      "relevance": 0.051755,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Police department",
+      "relevance": 0.05043,
+      "confidence": 0.109139,
+      "count": 1,
+      "disambiguation": {
+        "name": "Police",
+        "dbpedia_resource": "http://dbpedia.org/resource/Police"
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "ninety degrees",
+      "relevance": 0.045804,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty years",
+      "relevance": 0.039063,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Welsh",
+      "relevance": 0.03612,
+      "confidence": 0.984545,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Don",
+      "relevance": 0.033689,
+      "confidence": 0.998515,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Alex",
+      "relevance": 0.033128,
+      "confidence": 0.998657,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Monaco",
+      "relevance": 0.021657,
+      "confidence": 0.593647,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "government",
+      "relevance": 0.016306,
+      "confidence": 0.54846,
+      "count": 1,
+      "disambiguation": {
+        "name": "Government",
+        "dbpedia_resource": "http://dbpedia.org/resource/Government",
+        "subtype": [
+          "FieldOfStudy",
+          "BuildingFunction"
+        ]
+      }
+    },
+    {
+      "type": "Organization",
+      "text": "Latin church",
+      "relevance": 0.012325,
+      "confidence": 0.135731,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "'s",
+      "relevance": 0.00862,
+      "confidence": 0.303299,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.95606
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.831727
+    },
+    {
+      "label": "/sports/hunting and shooting",
+      "score": 0.721422
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.666874
+    },
+    {
+      "label": "/law, govt and politics/law enforcement",
+      "score": 0.652862
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.640128
+    },
+    {
+      "label": "/society/crime/property crime/robbery",
+      "score": 0.618735
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.760833,
+      "sentence": "Police officer and his estranged wife have a fight in their bedroom.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7,
+            14
+          ],
+          "text": "officer"
+        },
+        {
+          "entities": [
+            {
+              "text": "Police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            0,
+            6
+          ],
+          "text": "Police"
+        }
+      ]
+    },
+    {
+      "score": 0.813112,
+      "sentence": "It was a good motor officer good police officer took his job you know real serious.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            822,
+            829
+          ],
+          "text": "officer"
+        },
+        {
+          "entities": [
+            {
+              "text": "Police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            815,
+            821
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.88026,
+      "sentence": "Since it's all done with the Farmington police officer his wife suspicious death was assigned to another department the New Mexico state police.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2370,
+            2377
+          ],
+          "text": "officer"
+        },
+        {
+          "entities": [
+            {
+              "text": "Police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2363,
+            2369
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.867965,
+      "sentence": "Since he was a police officer he was separated from the rest of the prison population.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4513,
+            4520
+          ],
+          "text": "officer"
+        },
+        {
+          "entities": [
+            {
+              "text": "Police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4506,
+            4512
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.970223,
+      "sentence": "I love my job always you say there's only two things I was good at it's been a traffic cop.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "person",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            555,
+            558
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            559,
+            562
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.524735,
+      "sentence": "Did Monica commit suicide.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11727,
+            11733
+          ],
+          "text": "Monica"
+        },
+        {
+          "entities": [
+            {
+              "text": "suicide",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            11741,
+            11748
+          ],
+          "text": "suicide"
+        }
+      ]
+    },
+    {
+      "score": 0.997288,
+      "sentence": "Recess on me will show she writes about a month before her death.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12091,
+            12094
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "writes",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12095,
+            12101
+          ],
+          "text": "writes"
+        }
+      ]
+    },
+    {
+      "score": 0.316841,
+      "sentence": "How do you know a month before you die that you're gonna have bruises on your body.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12207,
+            12211
+          ],
+          "text": "your"
+        },
+        {
+          "entities": [
+            {
+              "text": "Paul Ferris",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12212,
+            12216
+          ],
+          "text": "body"
+        }
+      ]
+    },
+    {
+      "score": 0.538764,
+      "sentence": "Statements like that just make it look like not only did she plan to kill herself but she planned to set him up.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12275,
+            12278
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            12287,
+            12291
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.507736,
+      "sentence": "Statements like that just make it look like not only did she plan to kill herself but she planned to set him up.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12292,
+            12299
+          ],
+          "text": "herself"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            12287,
+            12291
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.367282,
+      "sentence": "Scared to death because their Big Brother my pockets were tapped in my.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Brother",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12490,
+            12497
+          ],
+          "text": "Brother"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12480,
+            12485
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.440064,
+      "sentence": "Scared to death because their Big Brother my pockets were tapped in my.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Ferris",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12498,
+            12500
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "tapped",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            12514,
+            12520
+          ],
+          "text": "tapped"
+        }
+      ]
+    },
+    {
+      "score": 0.583732,
+      "sentence": "Scared to death because their Big Brother my pockets were tapped in my.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Ferris",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12524,
+            12526
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "tapped",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            12514,
+            12520
+          ],
+          "text": "tapped"
+        }
+      ]
+    },
+    {
+      "score": 0.573256,
+      "sentence": "They were crying they want to put me in prison for the rest of my life.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12545,
+            12549
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12568,
+            12574
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.944343,
+      "sentence": "They were crying they want to put me in prison for the rest of my life.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Ferris",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12562,
+            12564
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12568,
+            12574
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.629196,
+      "sentence": "I was married to Monica Sanchez don and together the couple had to show.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            883,
+            901
+          ],
+          "text": "Monica Sanchez don"
+        },
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            919,
+            925
+          ],
+          "text": "couple"
+        }
+      ]
+    },
+    {
+      "score": 0.531006,
+      "sentence": "Make it easier for me to sit through the trial.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Ferris",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12648,
+            12650
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12670,
+            12675
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.479714,
+      "sentence": "And I just never I don't know that they will do it today.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Ferris",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12788,
+            12789
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12806,
+            12810
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.888461,
+      "sentence": "Monica discovered Paul was having an affair with another woman and the couple separated.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Ferris",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1074,
+            1078
+          ],
+          "text": "Paul"
+        },
+        {
+          "entities": [
+            {
+              "text": "couple",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1127,
+            1133
+          ],
+          "text": "couple"
+        }
+      ]
+    },
+    {
+      "score": 0.69614,
+      "sentence": "Early on the morning of April fourth nineteen ninety four with Fulham was on duty and heard a police radio call about a shooting at old and Monica's house.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "morning",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            1158,
+            1165
+          ],
+          "text": "morning"
+        },
+        {
+          "entities": [
+            {
+              "text": "call",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1252,
+            1256
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.564657,
+      "sentence": "Early on the morning of April fourth nineteen ninety four with Fulham was on duty and heard a police radio call about a shooting at old and Monica's house.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Fulham",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1208,
+            1214
+          ],
+          "text": "Fulham"
+        },
+        {
+          "entities": [
+            {
+              "text": "call",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1252,
+            1256
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.863387,
+      "sentence": "Early on the morning of April fourth nineteen ninety four with Fulham was on duty and heard a police radio call about a shooting at old and Monica's house.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1239,
+            1251
+          ],
+          "text": "police radio"
+        },
+        {
+          "entities": [
+            {
+              "text": "call",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1252,
+            1256
+          ],
+          "text": "call"
+        }
+      ]
+    },
+    {
+      "score": 0.360026,
+      "sentence": "Early on the morning of April fourth nineteen ninety four with Fulham was on duty and heard a police radio call about a shooting at old and Monica's house.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1285,
+            1291
+          ],
+          "text": "Monica"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1294,
+            1299
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.819235,
+      "sentence": "The girl was rushed to the hospital.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1375,
+            1379
+          ],
+          "text": "girl"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1398,
+            1406
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.662886,
+      "sentence": "But it was too late she was pronounced dead on arrival with a gunshot wound to our app.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1428,
+            1431
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "pronounced",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1436,
+            1446
+          ],
+          "text": "pronounced"
+        }
+      ]
+    },
+    {
+      "score": 0.721052,
+      "sentence": "But it was too late she was pronounced dead on arrival with a gunshot wound to our app.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1428,
+            1431
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1487,
+            1490
+          ],
+          "text": "our"
+        }
+      ]
+    },
+    {
+      "score": 0.997339,
+      "sentence": "Paul told police he went to the house to have breakfast with his daughters.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Ferris",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1496,
+            1500
+          ],
+          "text": "Paul"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1501,
+            1505
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.925491,
+      "sentence": "She said and filing charges on and I said.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Ferris",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1681,
+            1682
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1683,
+            1687
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.873744,
+      "sentence": "Police officer and his estranged wife have a fight in their bedroom.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            19,
+            22
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            54,
+            59
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.960078,
+      "sentence": "Paul told police he went to the house to have breakfast with his daughters.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1506,
+            1512
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1501,
+            1505
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.886623,
+      "sentence": "Paul told police he went to the house to have breakfast with his daughters.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Ferris",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1513,
+            1515
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1528,
+            1533
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.343669,
+      "sentence": "Paul told police he went to the house to have breakfast with his daughters.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1561,
+            1570
+          ],
+          "text": "daughters"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1528,
+            1533
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.933523,
+      "sentence": "She said and filing charges on and I said.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1646,
+            1649
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1650,
+            1654
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.979651,
+      "sentence": "She said I'm filing charges on you for battery.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1689,
+            1692
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1693,
+            1697
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.81236,
+      "sentence": "All followed Monica to the bedroom.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1864,
+            1870
+          ],
+          "text": "Monica"
+        },
+        {
+          "entities": [
+            {
+              "text": "courtroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1878,
+            1885
+          ],
+          "text": "bedroom"
+        }
+      ]
+    },
+    {
+      "score": 0.577516,
+      "sentence": "They would have a woman officer coming to take the photos and he didn't do that and she didn't have anybody in the room with them it's just him and Monica.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3255,
+            3258
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "courtroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3286,
+            3290
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.80169,
+      "sentence": "Said he picked her up ran to the garage for the driver to the hospital but he wasn't sure there was enough.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "driver",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1892,
+            1894
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "Said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1887,
+            1891
+          ],
+          "text": "Said"
+        }
+      ]
+    },
+    {
+      "score": 0.792454,
+      "sentence": "Said he picked her up ran to the garage for the driver to the hospital but he wasn't sure there was enough.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "garage",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1920,
+            1926
+          ],
+          "text": "garage"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1949,
+            1957
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.81211,
+      "sentence": "Said he picked her up ran to the garage for the driver to the hospital but he wasn't sure there was enough.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "driver",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1935,
+            1941
+          ],
+          "text": "driver"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1949,
+            1957
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.469119,
+      "sentence": "His friends on the police force.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "driver",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1995,
+            1998
+          ],
+          "text": "His"
+        },
+        {
+          "entities": [
+            {
+              "text": "Police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2014,
+            2026
+          ],
+          "text": "police force"
+        }
+      ]
+    },
+    {
+      "score": 0.959838,
+      "sentence": "Since it's all done with the Farmington police officer his wife suspicious death was assigned to another department the New Mexico state police.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2363,
+            2369
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "Farmington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2352,
+            2362
+          ],
+          "text": "Farmington"
+        }
+      ]
+    },
+    {
+      "score": 0.776807,
+      "sentence": "Police officer and his estranged wife have a fight in their bedroom.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            33,
+            37
+          ],
+          "text": "wife"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            54,
+            59
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.545232,
+      "sentence": "Since it's all done with the Farmington police officer his wife suspicious death was assigned to another department the New Mexico state police.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2378,
+            2381
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2382,
+            2386
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.990013,
+      "sentence": "Since it's all done with the Farmington police officer his wife suspicious death was assigned to another department the New Mexico state police.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2454,
+            2466
+          ],
+          "text": "state police"
+        },
+        {
+          "entities": [
+            {
+              "text": "New Mexico",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2443,
+            2453
+          ],
+          "text": "New Mexico"
+        }
+      ]
+    },
+    {
+      "score": 0.531905,
+      "sentence": "Just the day before her death Monica had gone into police headquarters to have photographs taken of injury she said inflicted during upbeat.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2702,
+            2708
+          ],
+          "text": "Monica"
+        },
+        {
+          "entities": [
+            {
+              "text": "headquarters",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2730,
+            2742
+          ],
+          "text": "headquarters"
+        }
+      ]
+    },
+    {
+      "score": 0.437288,
+      "sentence": "Just the day before her death Monica had gone into police headquarters to have photographs taken of injury she said inflicted during upbeat.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            2723,
+            2729
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "headquarters",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2730,
+            2742
+          ],
+          "text": "headquarters"
+        }
+      ]
+    },
+    {
+      "score": 0.987832,
+      "sentence": "Just the day before her death Monica had gone into police headquarters to have photographs taken of injury she said inflicted during upbeat.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2779,
+            2782
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "noted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2783,
+            2787
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.861621,
+      "sentence": "Monica'S autopsy the path although just noted to abrasions near the entrance wound identical to those call shot gun.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3464,
+            3470
+          ],
+          "text": "Monica"
+        },
+        {
+          "entities": [
+            {
+              "text": "noted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3504,
+            3509
+          ],
+          "text": "noted"
+        }
+      ]
+    },
+    {
+      "score": 0.960641,
+      "sentence": "A witness said a male officer photograph Monica's injuries alone in his office with the blinds closed.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "witness",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3070,
+            3077
+          ],
+          "text": "witness"
+        },
+        {
+          "entities": [
+            {
+              "text": "noted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3078,
+            3082
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.47664,
+      "sentence": "A witness said a male officer photograph Monica's injuries alone in his office with the blinds closed.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3090,
+            3097
+          ],
+          "text": "officer"
+        },
+        {
+          "entities": [
+            {
+              "text": "noted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3078,
+            3082
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.361261,
+      "sentence": "Since the shop opened before entering Monica's body this meant that the muscle was one to three feet away from Monica's body.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3919,
+            3925
+          ],
+          "text": "Monica"
+        },
+        {
+          "entities": [
+            {
+              "text": "Paul Ferris",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3928,
+            3932
+          ],
+          "text": "body"
+        }
+      ]
+    },
+    {
+      "score": 0.313254,
+      "sentence": "Since the shop opened before entering Monica's body this meant that the muscle was one to three feet away from Monica's body.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3992,
+            3998
+          ],
+          "text": "Monica"
+        },
+        {
+          "entities": [
+            {
+              "text": "Paul Ferris",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4001,
+            4005
+          ],
+          "text": "body"
+        }
+      ]
+    },
+    {
+      "score": 0.844473,
+      "sentence": "If the muscle was twelve to twenty four inches away from her abdomen Monica's arms would have to be almost twice as long to pull the trigger.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4136,
+            4142
+          ],
+          "text": "Monica"
+        },
+        {
+          "entities": [
+            {
+              "text": "arms",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            4145,
+            4149
+          ],
+          "text": "arms"
+        }
+      ]
+    },
+    {
+      "score": 0.476826,
+      "sentence": "Vehemently denied killing his wife and offered to take a lie detector test.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "him",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4235,
+            4238
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "denied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4220,
+            4226
+          ],
+          "text": "denied"
+        }
+      ]
+    },
+    {
+      "score": 0.685828,
+      "sentence": "Police officer and his estranged wife have a fight in their bedroom.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            54,
+            59
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "courtroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            60,
+            67
+          ],
+          "text": "bedroom"
+        }
+      ]
+    },
+    {
+      "score": 0.741742,
+      "sentence": "Vehemently denied killing his wife and offered to take a lie detector test.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "denied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4220,
+            4226
+          ],
+          "text": "denied"
+        },
+        {
+          "entities": [
+            {
+              "text": "offered",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4248,
+            4255
+          ],
+          "text": "offered"
+        }
+      ]
+    },
+    {
+      "score": 0.722293,
+      "sentence": "Vehemently denied killing his wife and offered to take a lie detector test.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "him",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4235,
+            4238
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4239,
+            4243
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.873661,
+      "sentence": "Based on the forensic evidence he was arrested and charged with murder.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "him",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4316,
+            4318
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrested",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            4323,
+            4331
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.711497,
+      "sentence": "Based on the forensic evidence he was arrested and charged with murder.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "him",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4316,
+            4318
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "filing charges",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            4336,
+            4343
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.751589,
+      "sentence": "Based on the forensic evidence he was arrested and charged with murder.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "him",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4316,
+            4318
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4349,
+            4355
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.875325,
+      "sentence": "Police officers take an oath to protect and serve the public comments very disheartening please also engages in this kind of conduct.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4364,
+            4372
+          ],
+          "text": "officers"
+        },
+        {
+          "entities": [
+            {
+              "text": "Police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4357,
+            4363
+          ],
+          "text": "Police"
+        }
+      ]
+    },
+    {
+      "score": 0.960183,
+      "sentence": "It'S the mentality police officers assumed by the nature of the beast.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11678,
+            11686
+          ],
+          "text": "officers"
+        },
+        {
+          "entities": [
+            {
+              "text": "Police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11671,
+            11677
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.457643,
+      "sentence": "Since he was a police officer he was separated from the rest of the prison population.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "him",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4521,
+            4523
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison population",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4559,
+            4576
+          ],
+          "text": "prison population"
+        }
+      ]
+    },
+    {
+      "score": 0.443348,
+      "sentence": "All the family friend Victor Titus to defend.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Victor Titus",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4843,
+            4849
+          ],
+          "text": "friend"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4836,
+            4842
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.486345,
+      "sentence": "Ironically Titus had been a pallbearer and Monica's funeral and he couldn't understand why the family asked him.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Victor Titus",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4885,
+            4890
+          ],
+          "text": "Titus"
+        },
+        {
+          "entities": [
+            {
+              "text": "funeral",
+              "type": "EventPerformance"
+            }
+          ],
+          "location": [
+            4926,
+            4933
+          ],
+          "text": "funeral"
+        }
+      ]
+    },
+    {
+      "score": 0.553945,
+      "sentence": "Ironically Titus had been a pallbearer and Monica's funeral and he couldn't understand why the family asked him.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4917,
+            4923
+          ],
+          "text": "Monica"
+        },
+        {
+          "entities": [
+            {
+              "text": "funeral",
+              "type": "EventPerformance"
+            }
+          ],
+          "location": [
+            4926,
+            4933
+          ],
+          "text": "funeral"
+        }
+      ]
+    },
+    {
+      "score": 0.935829,
+      "sentence": "It named Paul Ferris for her funeral and designated who should get her belongings when she died.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5727,
+            5730
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "funeral",
+              "type": "EventPerformance"
+            }
+          ],
+          "location": [
+            5731,
+            5738
+          ],
+          "text": "funeral"
+        }
+      ]
+    },
+    {
+      "score": 0.986831,
+      "sentence": "He says it was suicide investigators said it was murder there's only two people that know and one can't speak with us.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            69,
+            71
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            72,
+            76
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.929964,
+      "sentence": "Ironically Titus had been a pallbearer and Monica's funeral and he couldn't understand why the family asked him.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4969,
+            4975
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4976,
+            4981
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.724643,
+      "sentence": "Ironically Titus had been a pallbearer and Monica's funeral and he couldn't understand why the family asked him.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Victor Titus",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4982,
+            4985
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4976,
+            4981
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.465406,
+      "sentence": "They'Re very very family oriented and they would pick folks solely within the family and it wasn't just me but the other folks that were in the is as pallbearers as well let me know that those are hand chosen by Monica some.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "folks",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5041,
+            5046
+          ],
+          "text": "folks"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5065,
+            5071
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.827188,
+      "sentence": "Mr Sanchez among his father was in the courtroom in judging rich ask him directly he stood up and said yes I have something at home in my file cabinet.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "father",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5493,
+            5499
+          ],
+          "text": "father"
+        },
+        {
+          "entities": [
+            {
+              "text": "Sanchez",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5489,
+            5492
+          ],
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "score": 0.707102,
+      "sentence": "Mr Sanchez among his father was in the courtroom in judging rich ask him directly he stood up and said yes I have something at home in my file cabinet.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sanchez",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5541,
+            5544
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "ask",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5537,
+            5540
+          ],
+          "text": "ask"
+        }
+      ]
+    },
+    {
+      "score": 0.778871,
+      "sentence": "Mr Sanchez among his father was in the courtroom in judging rich ask him directly he stood up and said yes I have something at home in my file cabinet.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Sanchez",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5554,
+            5556
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5570,
+            5574
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.502372,
+      "sentence": "Mr Sanchez among his father was in the courtroom in judging rich ask him directly he stood up and said yes I have something at home in my file cabinet.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5579,
+            5580
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5599,
+            5603
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.493397,
+      "sentence": "Mr Sanchez among his father was in the courtroom in judging rich ask him directly he stood up and said yes I have something at home in my file cabinet.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5607,
+            5609
+          ],
+          "text": "my"
+        },
+        {
+          "entities": [
+            {
+              "text": "cabinet",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5615,
+            5622
+          ],
+          "text": "cabinet"
+        }
+      ]
+    },
+    {
+      "score": 0.717829,
+      "sentence": "Monica had given the note to a family member almost a month before her death.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5662,
+            5668
+          ],
+          "text": "member"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5655,
+            5661
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.350639,
+      "sentence": "Monica don's family insisted that their son in law Paul be held in prison without bail until the murder trial.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8422,
+            8432
+          ],
+          "text": "Monica don"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8435,
+            8441
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.655404,
+      "sentence": "It named Paul Ferris for her funeral and designated who should get her belongings when she died.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Ferris",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5711,
+            5722
+          ],
+          "text": "Paul Ferris"
+        },
+        {
+          "entities": [
+            {
+              "text": "funeral",
+              "type": "EventPerformance"
+            }
+          ],
+          "location": [
+            5731,
+            5738
+          ],
+          "text": "funeral"
+        }
+      ]
+    },
+    {
+      "score": 0.927022,
+      "sentence": "He says it was suicide investigators said it was murder there's only two people that know and one can't speak with us.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            92,
+            105
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            106,
+            110
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.9741,
+      "sentence": "Prosecutors said the no didn't say anything about suicide it was Monica's last will and testament.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6019,
+            6030
+          ],
+          "text": "Prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6031,
+            6035
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.977765,
+      "sentence": "Prosecutors refused to drop the case based on the forensic evidence.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6118,
+            6129
+          ],
+          "text": "Prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "refused",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6130,
+            6137
+          ],
+          "text": "refused"
+        }
+      ]
+    },
+    {
+      "score": 0.57305,
+      "sentence": "Don'S defense team hired Dave Pfeffer a private investigator with twenty years of police experience to examine the crime scene.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6319,
+            6322
+          ],
+          "text": "Don"
+        },
+        {
+          "entities": [
+            {
+              "text": "hired",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            6338,
+            6343
+          ],
+          "text": "hired"
+        }
+      ]
+    },
+    {
+      "score": 0.967931,
+      "sentence": "Don'S defense team hired Dave Pfeffer a private investigator with twenty years of police experience to examine the crime scene.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Dave Pfeffer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6344,
+            6356
+          ],
+          "text": "Dave Pfeffer"
+        },
+        {
+          "entities": [
+            {
+              "text": "hired",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            6338,
+            6343
+          ],
+          "text": "hired"
+        }
+      ]
+    },
+    {
+      "score": 0.98778,
+      "sentence": "Fired a shotgun into ballistic gelatin covered with a cloth about two feet away which is where prosecutors say Paul was standing with the shotgun.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7126,
+            7137
+          ],
+          "text": "prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7138,
+            7141
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.49621,
+      "sentence": "Fired a shotgun into ballistic gelatin covered with a cloth about two feet away which is where prosecutors say Paul was standing with the shotgun.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Ferris",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7142,
+            7146
+          ],
+          "text": "Paul"
+        },
+        {
+          "entities": [
+            {
+              "text": "shotgun",
+              "type": "Weapon"
+            }
+          ],
+          "location": [
+            7169,
+            7176
+          ],
+          "text": "shotgun"
+        }
+      ]
+    },
+    {
+      "score": 0.464112,
+      "sentence": "A career army surgeon who had been the military's expert on gunshot wounds also examined the autopsy photographs.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "surgeon",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7610,
+            7617
+          ],
+          "text": "surgeon"
+        },
+        {
+          "entities": [
+            {
+              "text": "army",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7605,
+            7609
+          ],
+          "text": "army"
+        }
+      ]
+    },
+    {
+      "score": 0.98501,
+      "sentence": "Russians on Monica skin proving they say that the gun was two feet away.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Prosecution experts",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7792,
+            7796
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7797,
+            7800
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.992799,
+      "sentence": "Fackler says if the gun was two feet away.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Fackler",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7833,
+            7840
+          ],
+          "text": "Fackler"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7841,
+            7845
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.2858,
+      "sentence": "Paul Dunne's defense experts were convinced that the gun was against Monica stomach when it went off.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Paul Dunne",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8203,
+            8213
+          ],
+          "text": "Paul Dunne"
+        },
+        {
+          "entities": [
+            {
+              "text": "defense team",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8216,
+            8223
+          ],
+          "text": "defense"
+        }
+      ]
+    },
+    {
+      "score": 0.870924,
+      "sentence": "In the desolate beauty of northwest New Mexico the city of Farmington is one of the few green spots.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "northwest",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            321,
+            330
+          ],
+          "text": "northwest"
+        },
+        {
+          "entities": [
+            {
+              "text": "New Mexico",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            331,
+            341
+          ],
+          "text": "New Mexico"
+        }
+      ]
+    },
+    {
+      "score": 0.624164,
+      "sentence": "Paul Dunne's defense experts were convinced that the gun was against Monica stomach when it went off.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Prosecution experts",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8224,
+            8231
+          ],
+          "text": "experts"
+        },
+        {
+          "entities": [
+            {
+              "text": "defense team",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8216,
+            8223
+          ],
+          "text": "defense"
+        }
+      ]
+    },
+    {
+      "score": 0.958576,
+      "sentence": "Monica don's family insisted that their son in law Paul be held in prison without bail until the murder trial.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8435,
+            8441
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "insisted",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8442,
+            8450
+          ],
+          "text": "insisted"
+        }
+      ]
+    },
+    {
+      "score": 0.695732,
+      "sentence": "Monica don's family insisted that their son in law Paul be held in prison without bail until the murder trial.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8456,
+            8461
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "person",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8462,
+            8465
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.817546,
+      "sentence": "Monica don's family insisted that their son in law Paul be held in prison without bail until the murder trial.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "person",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8462,
+            8465
+          ],
+          "text": "son"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8489,
+            8495
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.779993,
+      "sentence": "He did keep part of a plastic razor he got rid of the plastic part of the razor and just kept you know the little tiny razor and he just decided you know he was not going to go to prison because what no inmates due to cops in prison.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "person",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8910,
+            8912
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8936,
+            8942
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.848246,
+      "sentence": "As a cop he used to believe everyone in prison was guilty and although he denied ever hitting his wife.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "person",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11382,
+            11384
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11413,
+            11419
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.542699,
+      "sentence": "He didn't see his daughters and he was fired from the police force they broke they broke a map once a solitary confinement break anybody.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "person",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8565,
+            8567
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "fired",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            8572,
+            8577
+          ],
+          "text": "fired"
+        }
+      ]
+    },
+    {
+      "score": 0.491849,
+      "sentence": "He didn't see his daughters and he was fired from the police force they broke they broke a map once a solitary confinement break anybody.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8587,
+            8599
+          ],
+          "text": "police force"
+        },
+        {
+          "entities": [
+            {
+              "text": "fired",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            8572,
+            8577
+          ],
+          "text": "fired"
+        }
+      ]
+    },
+    {
+      "score": 0.521437,
+      "sentence": "He didn't see his daughters and he was fired from the police force they broke they broke a map once a solitary confinement break anybody.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "daughters",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8600,
+            8604
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "Police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8587,
+            8599
+          ],
+          "text": "police force"
+        }
+      ]
+    },
+    {
+      "score": 0.604042,
+      "sentence": "He decided that if he were convicted he would kill himself rather than do hard time.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "person",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8690,
+            8692
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8698,
+            8707
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.522009,
+      "sentence": "He decided that if he were convicted he would kill himself rather than do hard time.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "person",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8708,
+            8710
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "convicted",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8698,
+            8707
+          ],
+          "text": "convicted"
+        }
+      ]
+    },
+    {
+      "score": 0.659583,
+      "sentence": "He decided that if he were convicted he would kill himself rather than do hard time.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "person",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8708,
+            8710
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            8717,
+            8721
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.316933,
+      "sentence": "He decided that if he were convicted he would kill himself rather than do hard time.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "person",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8722,
+            8729
+          ],
+          "text": "himself"
+        },
+        {
+          "entities": [
+            {
+              "text": "kill",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            8717,
+            8721
+          ],
+          "text": "kill"
+        }
+      ]
+    },
+    {
+      "score": 0.648569,
+      "sentence": "In the desolate beauty of northwest New Mexico the city of Farmington is one of the few green spots.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "New Mexico",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            331,
+            341
+          ],
+          "text": "New Mexico"
+        },
+        {
+          "entities": [
+            {
+              "text": "city of Farmington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            346,
+            364
+          ],
+          "text": "city of Farmington"
+        }
+      ]
+    },
+    {
+      "score": 0.750608,
+      "sentence": "He did keep part of a plastic razor he got rid of the plastic part of the razor and just kept you know the little tiny razor and he just decided you know he was not going to go to prison because what no inmates due to cops in prison.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "cops",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8974,
+            8978
+          ],
+          "text": "cops"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8982,
+            8988
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.589603,
+      "sentence": "At the trial prosecutors presented their theory that Paul shot Monica from two feet away.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9003,
+            9014
+          ],
+          "text": "prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "trial",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8997,
+            9002
+          ],
+          "text": "trial"
+        }
+      ]
+    },
+    {
+      "score": 0.641761,
+      "sentence": "In the court room they recreated bonkers bedroom using the actual bed and wall.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "court",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9171,
+            9176
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "text": "courtroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9177,
+            9181
+          ],
+          "text": "room"
+        }
+      ]
+    },
+    {
+      "score": 0.987273,
+      "sentence": "The lines converge much lower than prosecutors say.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "prosecutors",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9584,
+            9595
+          ],
+          "text": "prosecutors"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9596,
+            9599
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.472922,
+      "sentence": "Using a model the same size as Monica the defense showed that Monica could easily arrange the trigger by leaning the evidence showed that the gun was upside down and pointed up toward.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9889,
+            9895
+          ],
+          "text": "Monica"
+        },
+        {
+          "entities": [
+            {
+              "text": "defense team",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9900,
+            9907
+          ],
+          "text": "defense"
+        }
+      ]
+    },
+    {
+      "score": 0.617709,
+      "sentence": "I made a comment to her if I was wrong in this case I would never work another farms case in my life they overlook all the evidence that absolutely contradicted the distance of fire being anything but a contact.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10368,
+            10369
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10388,
+            10392
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.444437,
+      "sentence": "First wife and girlfriend both testified in court that he had never been physically abuse.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10568,
+            10578
+          ],
+          "text": "girlfriend"
+        },
+        {
+          "entities": [
+            {
+              "text": "testified",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10584,
+            10593
+          ],
+          "text": "testified"
+        }
+      ]
+    },
+    {
+      "score": 0.821482,
+      "sentence": "First wife and girlfriend both testified in court that he had never been physically abuse.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            10579,
+            10583
+          ],
+          "text": "both"
+        },
+        {
+          "entities": [
+            {
+              "text": "testified",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10584,
+            10593
+          ],
+          "text": "testified"
+        }
+      ]
+    },
+    {
+      "score": 0.468288,
+      "sentence": "First wife and girlfriend both testified in court that he had never been physically abuse.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "court",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10597,
+            10602
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "text": "testified",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10584,
+            10593
+          ],
+          "text": "testified"
+        }
+      ]
+    },
+    {
+      "score": 0.460664,
+      "sentence": "The jury reached a verdict within minutes.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "within minutes",
+              "type": "Duration"
+            }
+          ],
+          "location": [
+            10757,
+            10771
+          ],
+          "text": "within minutes"
+        },
+        {
+          "entities": [
+            {
+              "text": "verdict",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            10749,
+            10756
+          ],
+          "text": "verdict"
+        }
+      ]
+    },
+    {
+      "score": 0.706996,
+      "sentence": "In the desolate beauty of northwest New Mexico the city of Farmington is one of the few green spots.",
+      "type": "populationOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "one",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            368,
+            371
+          ],
+          "text": "one"
+        },
+        {
+          "entities": [
+            {
+              "text": "city of Farmington",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            346,
+            364
+          ],
+          "text": "city of Farmington"
+        }
+      ]
+    },
+    {
+      "score": 0.479937,
+      "sentence": "Took an initial vote they all agreed it was a not guilty and everybody went to the bathroom colder here in basically kill time because they're afraid that the judges for me madam if they didn't take a little time.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10973,
+            10975
+          ],
+          "text": "me"
+        },
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10985,
+            10989
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.506776,
+      "sentence": "Hold on didn't return to his job on the police force and he now works as a foreman for an oil company.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11238,
+            11241
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Police department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11253,
+            11265
+          ],
+          "text": "police force"
+        }
+      ]
+    },
+    {
+      "score": 0.475249,
+      "sentence": "Hold on didn't return to his job on the police force and he now works as a foreman for an oil company.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "foreman",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11288,
+            11295
+          ],
+          "text": "foreman"
+        },
+        {
+          "entities": [
+            {
+              "text": "oil company",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11303,
+            11314
+          ],
+          "text": "oil company"
+        }
+      ]
+    },
+    {
+      "score": 0.996631,
+      "sentence": "He says this case changed many of his long held beliefs.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11316,
+            11318
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "says",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11319,
+            11323
+          ],
+          "text": "says"
+        }
+      ]
+    },
+    {
+      "score": 0.609854,
+      "sentence": "He says this case changed many of his long held beliefs.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "his",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11316,
+            11318
+          ],
+          "text": "He"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11329,
+            11333
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.626369,
+      "sentence": "As a cop he used to believe everyone in prison was guilty and although he denied ever hitting his wife.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "person",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11382,
+            11384
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "everyone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11401,
+            11409
+          ],
+          "text": "everyone"
+        }
+      ]
+    },
+    {
+      "score": 0.925217,
+      "sentence": "As a cop he used to believe everyone in prison was guilty and although he denied ever hitting his wife.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "everyone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11401,
+            11409
+          ],
+          "text": "everyone"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11413,
+            11419
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.993398,
+      "sentence": "As a cop he used to believe everyone in prison was guilty and although he denied ever hitting his wife.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "person",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11444,
+            11446
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "denied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11447,
+            11453
+          ],
+          "text": "denied"
+        }
+      ]
+    },
+    {
+      "score": 0.748923,
+      "sentence": "As a cop he used to believe everyone in prison was guilty and although he denied ever hitting his wife.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "person",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11467,
+            11470
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Monica Sanchez don",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11471,
+            11475
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.932004,
+      "sentence": "He concedes his infidelity brought some of these problems on himself you don't go to jail for sing into Latin church.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "church",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11587,
+            11593
+          ],
+          "text": "church"
+        },
+        {
+          "entities": [
+            {
+              "text": "Latin",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11581,
+            11586
+          ],
+          "text": "Latin"
+        }
+      ]
+    }
+  ]
+}

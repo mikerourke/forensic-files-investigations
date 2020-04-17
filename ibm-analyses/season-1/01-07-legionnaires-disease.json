@@ -1,0 +1,4928 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 16979,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Philadelphia",
+      "relevance": 0.952844,
+      "confidence": 1,
+      "count": 11
+    },
+    {
+      "type": "Facility",
+      "text": "Bellevue Stratford hotel",
+      "relevance": 0.810561,
+      "confidence": 0.97529,
+      "count": 5,
+      "disambiguation": {
+        "name": "The_Bellevue-Stratford_Hotel",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Bellevue-Stratford_Hotel",
+        "subtype": [
+          "Location",
+          "Accommodation"
+        ]
+      }
+    },
+    {
+      "type": "HealthCondition",
+      "text": "legionnaires disease",
+      "relevance": 0.710545,
+      "confidence": 0.990724,
+      "count": 7,
+      "disambiguation": {
+        "name": "Legionellosis",
+        "dbpedia_resource": "http://dbpedia.org/resource/Legionellosis",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "InfectiousDisease"
+        ]
+      }
+    },
+    {
+      "type": "Organization",
+      "text": "CDC",
+      "relevance": 0.592429,
+      "confidence": 1,
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "Dr David Frazier",
+      "relevance": 0.577755,
+      "confidence": 0.998278,
+      "count": 2
+    },
+    {
+      "type": "HealthCondition",
+      "text": "pneumonia",
+      "relevance": 0.499277,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Location",
+      "text": "Pennsylvania",
+      "relevance": 0.444395,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Frazier",
+      "relevance": 0.409464,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Dr Frazier",
+      "relevance": 0.363035,
+      "confidence": 0.999882,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "jolly jovial",
+      "relevance": 0.354263,
+      "confidence": 0.520082,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "John Ralph",
+      "relevance": 0.344568,
+      "confidence": 0.990168,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one hundred seven degrees",
+      "relevance": 0.330928,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Harrisburg",
+      "relevance": 0.32809,
+      "confidence": 0.999999,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Andrew horn",
+      "relevance": 0.291713,
+      "confidence": 0.997108,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "bugle corps",
+      "relevance": 0.290448,
+      "confidence": 0.475095,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Louis pope",
+      "relevance": 0.282642,
+      "confidence": 0.932714,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Bellevue",
+      "relevance": 0.277916,
+      "confidence": 0.408526,
+      "count": 4
+    },
+    {
+      "type": "Location",
+      "text": "Stratford",
+      "relevance": 0.271769,
+      "confidence": 0.999984,
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "American Legion",
+      "relevance": 0.261332,
+      "confidence": 0.937203,
+      "count": 2,
+      "disambiguation": {
+        "name": "American_Legion",
+        "dbpedia_resource": "http://dbpedia.org/resource/American_Legion"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Frasier",
+      "relevance": 0.253522,
+      "confidence": 0.841577,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "James Dolan",
+      "relevance": 0.249579,
+      "confidence": 0.984926,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "fever",
+      "relevance": 0.238925,
+      "confidence": 0.999991,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Bob McGarity",
+      "relevance": 0.236912,
+      "confidence": 0.994462,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "forty eight hours",
+      "relevance": 0.220458,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Joseph McDade",
+      "relevance": 0.218737,
+      "confidence": 0.999927,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "mark Berg",
+      "relevance": 0.218267,
+      "confidence": 0.662323,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "relevance": 0.207404,
+      "confidence": 0.999998,
+      "count": 2,
+      "disambiguation": {
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Williamstown",
+      "relevance": 0.203448,
+      "confidence": 0.936582,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bobby stat",
+      "relevance": 0.195233,
+      "confidence": 0.481822,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Eight days",
+      "relevance": 0.18885,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "daily press",
+      "relevance": 0.180409,
+      "confidence": 0.391019,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Atlanta",
+      "relevance": 0.179495,
+      "confidence": 1,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Berg",
+      "relevance": 0.178321,
+      "confidence": 0.991223,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty percent",
+      "relevance": 0.174498,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Nicole",
+      "relevance": 0.174482,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "university of Connecticut",
+      "relevance": 0.165536,
+      "confidence": 0.93788,
+      "count": 2
+    },
+    {
+      "type": "Facility",
+      "text": "hotel Frazier",
+      "relevance": 0.164419,
+      "confidence": 0.176656,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Trentino",
+      "relevance": 0.160092,
+      "confidence": 0.82703,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "William Sunderland",
+      "relevance": 0.1588,
+      "confidence": 0.986378,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three weeks",
+      "relevance": 0.15349,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "criss",
+      "relevance": 0.153436,
+      "confidence": 0.968762,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Sunderland",
+      "relevance": 0.150339,
+      "confidence": 0.959346,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "three days",
+      "relevance": 0.150052,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "headache",
+      "relevance": 0.145132,
+      "confidence": 0.946845,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr William Sullivan",
+      "relevance": 0.144096,
+      "confidence": 0.904321,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "gonorrhea",
+      "relevance": 0.14112,
+      "confidence": 0.612327,
+      "count": 1,
+      "disambiguation": {
+        "name": "Gonorrhea",
+        "dbpedia_resource": "http://dbpedia.org/resource/Gonorrhea",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "DiseaseCause",
+          "InfectiousDisease",
+          "RiskFactor",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "two days",
+      "relevance": 0.140549,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "McDade",
+      "relevance": 0.124279,
+      "confidence": 0.999987,
+      "count": 2
+    },
+    {
+      "type": "HealthCondition",
+      "text": "mumps",
+      "relevance": 0.123867,
+      "confidence": 0.814826,
+      "count": 1,
+      "disambiguation": {
+        "name": "Mumps",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mumps",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "InfectiousDisease",
+          "RiskFactor"
+        ]
+      }
+    },
+    {
+      "type": "HealthCondition",
+      "text": "cough",
+      "relevance": 0.122964,
+      "confidence": 0.997686,
+      "count": 1,
+      "disambiguation": {
+        "name": "Cough",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cough",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "RiskFactor",
+          "Symptom"
+        ]
+      }
+    },
+    {
+      "type": "HealthCondition",
+      "text": "measles",
+      "relevance": 0.113425,
+      "confidence": 0.885407,
+      "count": 1,
+      "disambiguation": {
+        "name": "Measles",
+        "dbpedia_resource": "http://dbpedia.org/resource/Measles",
+        "subtype": [
+          "OrganismClassification",
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "DiseaseCause",
+          "InfectiousDisease",
+          "RiskFactor",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "HealthCondition",
+      "text": "flu",
+      "relevance": 0.105677,
+      "confidence": 0.984396,
+      "count": 1,
+      "disambiguation": {
+        "name": "Influenza",
+        "dbpedia_resource": "http://dbpedia.org/resource/Influenza",
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "InfectiousDisease",
+          "RiskFactor",
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Dr McDaid",
+      "relevance": 0.10471,
+      "confidence": 0.971069,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "pain",
+      "relevance": 0.10433,
+      "confidence": 0.446278,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "herpes",
+      "relevance": 0.101308,
+      "confidence": 0.983007,
+      "count": 1,
+      "disambiguation": {
+        "name": "Herpes_simplex",
+        "dbpedia_resource": "http://dbpedia.org/resource/Herpes_simplex",
+        "subtype": [
+          "Disease"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "five days",
+      "relevance": 0.100506,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Guinea",
+      "relevance": 0.093093,
+      "confidence": 0.994169,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Georgia",
+      "relevance": 0.083464,
+      "confidence": 0.996166,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one hundred forty seven days",
+      "relevance": 0.08114,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ten years",
+      "relevance": 0.073751,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "FBI",
+      "relevance": 0.065583,
+      "confidence": 0.99993,
+      "count": 1,
+      "disambiguation": {
+        "name": "Federal_Bureau_of_Investigation",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation",
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "six months",
+      "relevance": 0.045622,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two years",
+      "relevance": 0.044642,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Charlie Davis",
+      "relevance": 0.039671,
+      "confidence": 0.999971,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Bob McGarry",
+      "relevance": 0.037684,
+      "confidence": 0.999988,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Strafford",
+      "relevance": 0.020588,
+      "confidence": 0.893564,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Austin",
+      "relevance": 0.009144,
+      "confidence": 0.940207,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Minnesota",
+      "relevance": 0.009106,
+      "confidence": 0.996641,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "DC",
+      "relevance": 0.008081,
+      "confidence": 0.904219,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Washington",
+      "relevance": 0.006995,
+      "confidence": 0.974304,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Charlie",
+      "relevance": 0.005461,
+      "confidence": 0.990392,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bob",
+      "relevance": 0.004634,
+      "confidence": 0.99859,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/health and fitness/disease",
+      "score": 0.939434
+    },
+    {
+      "label": "/health and fitness/disease/epidemic",
+      "score": 0.845402
+    },
+    {
+      "label": "/health and fitness/disease/cold and flu",
+      "score": 0.741548
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.636224
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.625187
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.748859,
+      "sentence": "As America celebrated its two hundredth birthday as an independent nation its birth place Philadelphia played host to millions of tourists and hundreds of business gatherings Philadelphia made history that summer not for the bicentennial it was the mysterious death of thirty four people that left a tragic legacy and launched the most extensive medical investigation in history.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "its",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            74,
+            77
+          ],
+          "text": "its"
+        },
+        {
+          "entities": [
+            {
+              "text": "United States",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            67,
+            73
+          ],
+          "text": "nation"
+        }
+      ]
+    },
+    {
+      "score": 0.626747,
+      "sentence": "Eight days later in Williamstown Pennsylvania legion air's James Dolan and John Ralph died suddenly under mysterious circumstances both had attended the convention in Philadelphia I don't think we've had two Korean veterans die in the same year and alone two days apart from each other the official cause of death pneumonia the coroner described their lawns as resembling Brillo pads within days other legionnaires fell ill I live around the house for about two days and I think I just get the worst the worst.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "James Dolan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2178,
+            2189
+          ],
+          "text": "James Dolan"
+        },
+        {
+          "entities": [
+            {
+              "text": "convention",
+              "type": "EventPerformance"
+            }
+          ],
+          "location": [
+            2272,
+            2282
+          ],
+          "text": "convention"
+        }
+      ]
+    },
+    {
+      "score": 0.565595,
+      "sentence": "And how is it spread by the time researchers knew what they were looking for they couldn't find it in any of the samples from the hotel the bacteria had long since died but researchers quickly discovered its properties it multiplied in warm watery conditions and to travel through the air in contaminated water droplets or mist since some of the victims never set foot inside the Bellevue Stratford hotel but were on the sidewalk in front of the hotel.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "researchers",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            14517,
+            14521
+          ],
+          "text": "some"
+        },
+        {
+          "entities": [
+            {
+              "text": "legionnaires",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14529,
+            14536
+          ],
+          "text": "victims"
+        }
+      ]
+    },
+    {
+      "score": 0.49671,
+      "sentence": "Inside the cooling towers warm water is cooled as it cascades over wooden louvers the excess water falls into a collection pan at the bottom where it stagnates if it fails to drain properly investigators believe it was here inside these water cooling units with the deadly Legionella bacteria grew and multiplied it was drawn up into the air by the unit's powerful fans now airborne the deadly mist of bacteria and warm water flew up into the atmosphere and floated down the side of the building making its way to the street hello it landed on pedestrians walking by the hotel and was also drawn into the hotel lobby by intake fans on the south side of the building hotel employees probably developed an immunity to the bacteria or weren't susceptible because they were younger and healthier than those who contracted the disease the cooling tower theory was",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "fans",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15392,
+            15396
+          ],
+          "text": "fans"
+        },
+        {
+          "entities": [
+            {
+              "text": "south side",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            15404,
+            15414
+          ],
+          "text": "south side"
+        }
+      ]
+    },
+    {
+      "score": 0.682263,
+      "sentence": "Inside the cooling towers warm water is cooled as it cascades over wooden louvers the excess water falls into a collection pan at the bottom where it stagnates if it fails to drain properly investigators believe it was here inside these water cooling units with the deadly Legionella bacteria grew and multiplied it was drawn up into the air by the unit's powerful fans now airborne the deadly mist of bacteria and warm water flew up into the atmosphere and floated down the side of the building making its way to the street hello it landed on pedestrians walking by the hotel and was also drawn into the hotel lobby by intake fans on the south side of the building hotel employees probably developed an immunity to the bacteria or weren't susceptible because they were younger and healthier than those who contracted the disease the cooling tower theory was",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "south side",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            15404,
+            15414
+          ],
+          "text": "south side"
+        },
+        {
+          "entities": [
+            {
+              "text": "building hotel",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            15422,
+            15436
+          ],
+          "text": "building hotel"
+        }
+      ]
+    },
+    {
+      "score": 0.598414,
+      "sentence": "Inside the cooling towers warm water is cooled as it cascades over wooden louvers the excess water falls into a collection pan at the bottom where it stagnates if it fails to drain properly investigators believe it was here inside these water cooling units with the deadly Legionella bacteria grew and multiplied it was drawn up into the air by the unit's powerful fans now airborne the deadly mist of bacteria and warm water flew up into the atmosphere and floated down the side of the building making its way to the street hello it landed on pedestrians walking by the hotel and was also drawn into the hotel lobby by intake fans on the south side of the building hotel employees probably developed an immunity to the bacteria or weren't susceptible because they were younger and healthier than those who contracted the disease the cooling tower theory was",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "employees",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15437,
+            15446
+          ],
+          "text": "employees"
+        },
+        {
+          "entities": [
+            {
+              "text": "south side",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            15404,
+            15414
+          ],
+          "text": "south side"
+        }
+      ]
+    },
+    {
+      "score": 0.816997,
+      "sentence": "Inside the cooling towers warm water is cooled as it cascades over wooden louvers the excess water falls into a collection pan at the bottom where it stagnates if it fails to drain properly investigators believe it was here inside these water cooling units with the deadly Legionella bacteria grew and multiplied it was drawn up into the air by the unit's powerful fans now airborne the deadly mist of bacteria and warm water flew up into the atmosphere and floated down the side of the building making its way to the street hello it landed on pedestrians walking by the hotel and was also drawn into the hotel lobby by intake fans on the south side of the building hotel employees probably developed an immunity to the bacteria or weren't susceptible because they were younger and healthier than those who contracted the disease the cooling tower theory was",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "researchers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15568,
+            15571
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "pneumonia",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            15587,
+            15594
+          ],
+          "text": "disease"
+        }
+      ]
+    },
+    {
+      "score": 0.423028,
+      "sentence": "never proven probably because the bacteria in the Bellevue Strafford's cooling towers had already died but investigators discovered the same bacteria in similar cooling towers in other parts of the country scientists believe legion ally has been killing for thousands of years and when blood samples from earlier unexplained outbreaks were examined they discovered the Legionella bacteria.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "researchers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15830,
+            15840
+          ],
+          "text": "scientists"
+        },
+        {
+          "entities": [
+            {
+              "text": "America",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            15822,
+            15829
+          ],
+          "text": "country"
+        }
+      ]
+    },
+    {
+      "score": 0.417353,
+      "sentence": "never proven probably because the bacteria in the Bellevue Strafford's cooling towers had already died but investigators discovered the same bacteria in similar cooling towers in other parts of the country scientists believe legion ally has been killing for thousands of years and when blood samples from earlier unexplained outbreaks were examined they discovered the Legionella bacteria.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bob McGarity",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            15856,
+            15860
+          ],
+          "text": "ally"
+        },
+        {
+          "entities": [
+            {
+              "text": "killing",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            15870,
+            15877
+          ],
+          "text": "killing"
+        }
+      ]
+    },
+    {
+      "score": 0.696781,
+      "sentence": "never proven probably because the bacteria in the Bellevue Strafford's cooling towers had already died but investigators discovered the same bacteria in similar cooling towers in other parts of the country scientists believe legion ally has been killing for thousands of years and when blood samples from earlier unexplained outbreaks were examined they discovered the Legionella bacteria.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "thousands of years",
+              "type": "Duration"
+            }
+          ],
+          "location": [
+            15882,
+            15900
+          ],
+          "text": "thousands of years"
+        },
+        {
+          "entities": [
+            {
+              "text": "killing",
+              "type": "EventViolence"
+            }
+          ],
+          "location": [
+            15870,
+            15877
+          ],
+          "text": "killing"
+        }
+      ]
+    },
+    {
+      "score": 0.541518,
+      "sentence": "Austin Minnesota nineteen fifty seven the earliest documented outbreak.",
+      "type": "populationOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "fifty seven",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            16040,
+            16051
+          ],
+          "text": "fifty seven"
+        },
+        {
+          "entities": [
+            {
+              "text": "Austin Minnesota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            16014,
+            16030
+          ],
+          "text": "Austin Minnesota"
+        }
+      ]
+    },
+    {
+      "score": 0.347713,
+      "sentence": "Austin Minnesota nineteen fifty seven the earliest documented outbreak.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Austin Minnesota",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            16014,
+            16030
+          ],
+          "text": "Austin Minnesota"
+        },
+        {
+          "entities": [
+            {
+              "text": "earthquake",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            16076,
+            16084
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.83608,
+      "sentence": "Eight days later in Williamstown Pennsylvania legion air's James Dolan and John Ralph died suddenly under mysterious circumstances both had attended the convention in Philadelphia I don't think we've had two Korean veterans die in the same year and alone two days apart from each other the official cause of death pneumonia the coroner described their lawns as resembling Brillo pads within days other legionnaires fell ill I live around the house for about two days and I think I just get the worst the worst.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "John Ralph",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2194,
+            2204
+          ],
+          "text": "John Ralph"
+        },
+        {
+          "entities": [
+            {
+              "text": "convention",
+              "type": "EventPerformance"
+            }
+          ],
+          "location": [
+            2272,
+            2282
+          ],
+          "text": "convention"
+        }
+      ]
+    },
+    {
+      "score": 0.615769,
+      "sentence": "Washington DC nineteen sixty five where Legionella killed sixteen people Bob McGarry and Charlie Davis we're two of the more fortunately juniors from the nineteen seventy six convention Charlie Davis developed legionnaire's disease spent three weeks in the hospital but recovered Bob McGarry escaped the disease altogether even though he and Charlie room together Bob was younger didn't smoke or have any previous respiratory ailments but the outbreak had a lasting effect on these two lifelong friends.",
+      "type": "populationOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "five",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            16115,
+            16119
+          ],
+          "text": "five"
+        },
+        {
+          "entities": [
+            {
+              "text": "Washington DC",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            16086,
+            16099
+          ],
+          "text": "Washington DC"
+        }
+      ]
+    },
+    {
+      "score": 0.761902,
+      "sentence": "Washington DC nineteen sixty five where Legionella killed sixteen people Bob McGarry and Charlie Davis we're two of the more fortunately juniors from the nineteen seventy six convention Charlie Davis developed legionnaire's disease spent three weeks in the hospital but recovered Bob McGarry escaped the disease altogether even though he and Charlie room together Bob was younger didn't smoke or have any previous respiratory ailments but the outbreak had a lasting effect on these two lifelong friends.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Legionella pneumophila",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16126,
+            16136
+          ],
+          "text": "Legionella"
+        },
+        {
+          "entities": [
+            {
+              "text": "researchers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16189,
+            16191
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.74192,
+      "sentence": "Washington DC nineteen sixty five where Legionella killed sixteen people Bob McGarry and Charlie Davis we're two of the more fortunately juniors from the nineteen seventy six convention Charlie Davis developed legionnaire's disease spent three weeks in the hospital but recovered Bob McGarry escaped the disease altogether even though he and Charlie room together Bob was younger didn't smoke or have any previous respiratory ailments but the outbreak had a lasting effect on these two lifelong friends.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bob McGarry",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16159,
+            16170
+          ],
+          "text": "Bob McGarry"
+        },
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16152,
+            16158
+          ],
+          "text": "people"
+        }
+      ]
+    },
+    {
+      "score": 0.509386,
+      "sentence": "Washington DC nineteen sixty five where Legionella killed sixteen people Bob McGarry and Charlie Davis we're two of the more fortunately juniors from the nineteen seventy six convention Charlie Davis developed legionnaire's disease spent three weeks in the hospital but recovered Bob McGarry escaped the disease altogether even though he and Charlie room together Bob was younger didn't smoke or have any previous respiratory ailments but the outbreak had a lasting effect on these two lifelong friends.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Charlie Davis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16175,
+            16188
+          ],
+          "text": "Charlie Davis"
+        },
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16152,
+            16158
+          ],
+          "text": "people"
+        }
+      ]
+    },
+    {
+      "score": 0.928793,
+      "sentence": "Washington DC nineteen sixty five where Legionella killed sixteen people Bob McGarry and Charlie Davis we're two of the more fortunately juniors from the nineteen seventy six convention Charlie Davis developed legionnaire's disease spent three weeks in the hospital but recovered Bob McGarry escaped the disease altogether even though he and Charlie room together Bob was younger didn't smoke or have any previous respiratory ailments but the outbreak had a lasting effect on these two lifelong friends.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bob McGarry",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16159,
+            16170
+          ],
+          "text": "Bob McGarry"
+        },
+        {
+          "entities": [
+            {
+              "text": "researchers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16189,
+            16191
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.722031,
+      "sentence": "Washington DC nineteen sixty five where Legionella killed sixteen people Bob McGarry and Charlie Davis we're two of the more fortunately juniors from the nineteen seventy six convention Charlie Davis developed legionnaire's disease spent three weeks in the hospital but recovered Bob McGarry escaped the disease altogether even though he and Charlie room together Bob was younger didn't smoke or have any previous respiratory ailments but the outbreak had a lasting effect on these two lifelong friends.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Charlie Davis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16175,
+            16188
+          ],
+          "text": "Charlie Davis"
+        },
+        {
+          "entities": [
+            {
+              "text": "researchers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16189,
+            16191
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.385594,
+      "sentence": "Washington DC nineteen sixty five where Legionella killed sixteen people Bob McGarry and Charlie Davis we're two of the more fortunately juniors from the nineteen seventy six convention Charlie Davis developed legionnaire's disease spent three weeks in the hospital but recovered Bob McGarry escaped the disease altogether even though he and Charlie room together Bob was younger didn't smoke or have any previous respiratory ailments but the outbreak had a lasting effect on these two lifelong friends.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Charlie Davis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16272,
+            16285
+          ],
+          "text": "Charlie Davis"
+        },
+        {
+          "entities": [
+            {
+              "text": "convention",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            16261,
+            16271
+          ],
+          "text": "convention"
+        }
+      ]
+    },
+    {
+      "score": 0.837516,
+      "sentence": "Washington DC nineteen sixty five where Legionella killed sixteen people Bob McGarry and Charlie Davis we're two of the more fortunately juniors from the nineteen seventy six convention Charlie Davis developed legionnaire's disease spent three weeks in the hospital but recovered Bob McGarry escaped the disease altogether even though he and Charlie room together Bob was younger didn't smoke or have any previous respiratory ailments but the outbreak had a lasting effect on these two lifelong friends.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Charlie Davis",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16272,
+            16285
+          ],
+          "text": "Charlie Davis"
+        },
+        {
+          "entities": [
+            {
+              "text": "pneumonia",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            16310,
+            16317
+          ],
+          "text": "disease"
+        }
+      ]
+    },
+    {
+      "score": 0.65701,
+      "sentence": "Washington DC nineteen sixty five where Legionella killed sixteen people Bob McGarry and Charlie Davis we're two of the more fortunately juniors from the nineteen seventy six convention Charlie Davis developed legionnaire's disease spent three weeks in the hospital but recovered Bob McGarry escaped the disease altogether even though he and Charlie room together Bob was younger didn't smoke or have any previous respiratory ailments but the outbreak had a lasting effect on these two lifelong friends.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bob McGarry",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16366,
+            16377
+          ],
+          "text": "Bob McGarry"
+        },
+        {
+          "entities": [
+            {
+              "text": "pneumonia",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            16390,
+            16397
+          ],
+          "text": "disease"
+        }
+      ]
+    },
+    {
+      "score": 0.909427,
+      "sentence": "I could say today it was a great time.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "you",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            16859,
+            16860
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            16867,
+            16870
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.897585,
+      "sentence": "Eight days later in Williamstown Pennsylvania legion air's James Dolan and John Ralph died suddenly under mysterious circumstances both had attended the convention in Philadelphia I don't think we've had two Korean veterans die in the same year and alone two days apart from each other the official cause of death pneumonia the coroner described their lawns as resembling Brillo pads within days other legionnaires fell ill I live around the house for about two days and I think I just get the worst the worst.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "convention",
+              "type": "EventPerformance"
+            }
+          ],
+          "location": [
+            2272,
+            2282
+          ],
+          "text": "convention"
+        },
+        {
+          "entities": [
+            {
+              "text": "Philadelphia Sunderland",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2286,
+            2298
+          ],
+          "text": "Philadelphia"
+        }
+      ]
+    },
+    {
+      "score": 0.951502,
+      "sentence": "I could say today it was a great time.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "today",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            16871,
+            16876
+          ],
+          "text": "today"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            16867,
+            16870
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.820399,
+      "sentence": "Eight days later in Williamstown Pennsylvania legion air's James Dolan and John Ralph died suddenly under mysterious circumstances both had attended the convention in Philadelphia I don't think we've had two Korean veterans die in the same year and alone two days apart from each other the official cause of death pneumonia the coroner described their lawns as resembling Brillo pads within days other legionnaires fell ill I live around the house for about two days and I think I just get the worst the worst.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "veterans",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2334,
+            2342
+          ],
+          "text": "veterans"
+        },
+        {
+          "entities": [
+            {
+              "text": "Korean",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2327,
+            2333
+          ],
+          "text": "Korean"
+        }
+      ]
+    },
+    {
+      "score": 0.577575,
+      "sentence": "Eight days later in Williamstown Pennsylvania legion air's James Dolan and John Ralph died suddenly under mysterious circumstances both had attended the convention in Philadelphia I don't think we've had two Korean veterans die in the same year and alone two days apart from each other the official cause of death pneumonia the coroner described their lawns as resembling Brillo pads within days other legionnaires fell ill I live around the house for about two days and I think I just get the worst the worst.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "coroner",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2447,
+            2454
+          ],
+          "text": "coroner"
+        },
+        {
+          "entities": [
+            {
+              "text": "described",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2455,
+            2464
+          ],
+          "text": "described"
+        }
+      ]
+    },
+    {
+      "score": 0.766387,
+      "sentence": "Eight days later in Williamstown Pennsylvania legion air's James Dolan and John Ralph died suddenly under mysterious circumstances both had attended the convention in Philadelphia I don't think we've had two Korean veterans die in the same year and alone two days apart from each other the official cause of death pneumonia the coroner described their lawns as resembling Brillo pads within days other legionnaires fell ill I live around the house for about two days and I think I just get the worst the worst.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "My",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2543,
+            2544
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2561,
+            2566
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.513016,
+      "sentence": "Authorities in the state capital of Harrisburg feared an epidemic and quickly called in the centers for disease control to investigate Dr David Frazier led the investigation we had a situation which when we first heard about the the problem there have been four deaths quickly thereafter we heard of eleven deaths and and then the increased from that point so this was occurring from unknown because in a major city in in the United States and had to have everybody's attention.",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Authorities",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            3034,
+            3045
+          ],
+          "text": "Authorities"
+        },
+        {
+          "entities": [
+            {
+              "text": "Williamstown Pennsylvania",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3053,
+            3058
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.909794,
+      "sentence": "Authorities in the state capital of Harrisburg feared an epidemic and quickly called in the centers for disease control to investigate Dr David Frazier led the investigation we had a situation which when we first heard about the the problem there have been four deaths quickly thereafter we heard of eleven deaths and and then the increased from that point so this was occurring from unknown because in a major city in in the United States and had to have everybody's attention.",
+      "type": "capitalOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Harrisburg",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3059,
+            3066
+          ],
+          "text": "capital"
+        },
+        {
+          "entities": [
+            {
+              "text": "Williamstown Pennsylvania",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3053,
+            3058
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.788726,
+      "sentence": "Authorities in the state capital of Harrisburg feared an epidemic and quickly called in the centers for disease control to investigate Dr David Frazier led the investigation we had a situation which when we first heard about the the problem there have been four deaths quickly thereafter we heard of eleven deaths and and then the increased from that point so this was occurring from unknown because in a major city in in the United States and had to have everybody's attention.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David Frazier",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3169,
+            3171
+          ],
+          "text": "Dr"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigate",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            3157,
+            3168
+          ],
+          "text": "investigate"
+        }
+      ]
+    },
+    {
+      "score": 0.555782,
+      "sentence": "Authorities in the state capital of Harrisburg feared an epidemic and quickly called in the centers for disease control to investigate Dr David Frazier led the investigation we had a situation which when we first heard about the the problem there have been four deaths quickly thereafter we heard of eleven deaths and and then the increased from that point so this was occurring from unknown because in a major city in in the United States and had to have everybody's attention.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David Frazier",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3172,
+            3185
+          ],
+          "text": "David Frazier"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            3194,
+            3207
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.865265,
+      "sentence": "The summer of nineteen seventy six was a busy time for the city of Philadelphia filled with bicentennial celebrations tourist activities and business conventions it should have been a time of celebration for city officials as well but they faced a number of unexpected difficulties sanitation workers staged a work slowdown over a wage dispute and the mountains of uncollected garbage created serious health concerns then there was a terrorist threat an anonymous tip warning of possible violence at the upcoming American Legion airs convention in protest against recent U.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            593,
+            602
+          ],
+          "text": "officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "American Legion convention",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            588,
+            592
+          ],
+          "text": "city"
+        }
+      ]
+    },
+    {
+      "score": 0.666618,
+      "sentence": "Authorities in the state capital of Harrisburg feared an epidemic and quickly called in the centers for disease control to investigate Dr David Frazier led the investigation we had a situation which when we first heard about the the problem there have been four deaths quickly thereafter we heard of eleven deaths and and then the increased from that point so this was occurring from unknown because in a major city in in the United States and had to have everybody's attention.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David Frazier",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3172,
+            3185
+          ],
+          "text": "David Frazier"
+        },
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3208,
+            3210
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.581009,
+      "sentence": "Authorities in the state capital of Harrisburg feared an epidemic and quickly called in the centers for disease control to investigate Dr David Frazier led the investigation we had a situation which when we first heard about the the problem there have been four deaths quickly thereafter we heard of eleven deaths and and then the increased from that point so this was occurring from unknown because in a major city in in the United States and had to have everybody's attention.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3208,
+            3210
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            3194,
+            3207
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.582488,
+      "sentence": "Frazier'S first task to find out why some legionnaires were getting sick and others weren't which at its most basic.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3555,
+            3567
+          ],
+          "text": "legionnaires"
+        },
+        {
+          "entities": [
+            {
+              "text": "others",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3590,
+            3596
+          ],
+          "text": "others"
+        }
+      ]
+    },
+    {
+      "score": 0.517012,
+      "sentence": "With what people did to stay well the investigation would be complicated the legionnaires were spread throughout the state and gathering information would be difficult Dr Frazier had some.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3759,
+            3771
+          ],
+          "text": "legionnaires"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            3720,
+            3733
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.687483,
+      "sentence": "With what people did to stay well the investigation would be complicated the legionnaires were spread throughout the state and gathering information would be difficult Dr Frazier had some.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3759,
+            3771
+          ],
+          "text": "legionnaires"
+        },
+        {
+          "entities": [
+            {
+              "text": "Williamstown Pennsylvania",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            3799,
+            3804
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.542286,
+      "sentence": "centers for disease control needed to gather information investigators criss crossed the state do interviews sect legion air's breakfast on Friday did you know that calm thank you just a cough in the row they sent detailed questionnaires to everyone who attended the convention hello.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5583,
+            5596
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "Williamstown Pennsylvania",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5615,
+            5620
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.294228,
+      "sentence": "By the time Dr David Frazier and his team arrived in Philadelphia the death rates among the infected legion air's was twenty percent and rising eleven legionnaires were dead and thirty nine more were seriously ill all of the legionnaires who died had a form of pneumonia but investigators had no idea what was causing it.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David Frazier",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4061,
+            4064
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "team",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4065,
+            4069
+          ],
+          "text": "team"
+        }
+      ]
+    },
+    {
+      "score": 0.501695,
+      "sentence": "By the time Dr David Frazier and his team arrived in Philadelphia the death rates among the infected legion air's was twenty percent and rising eleven legionnaires were dead and thirty nine more were seriously ill all of the legionnaires who died had a form of pneumonia but investigators had no idea what was causing it.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4179,
+            4191
+          ],
+          "text": "legionnaires"
+        },
+        {
+          "entities": [
+            {
+              "text": "eleven",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4172,
+            4178
+          ],
+          "text": "eleven"
+        }
+      ]
+    },
+    {
+      "score": 0.682436,
+      "sentence": "By the time Dr David Frazier and his team arrived in Philadelphia the death rates among the infected legion air's was twenty percent and rising eleven legionnaires were dead and thirty nine more were seriously ill all of the legionnaires who died had a form of pneumonia but investigators had no idea what was causing it.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4266,
+            4269
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "pneumonia",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            4289,
+            4298
+          ],
+          "text": "pneumonia"
+        }
+      ]
+    },
+    {
+      "score": 0.802029,
+      "sentence": "Andrew horn act was a bus driver who had driven a drum and bugle corps to the legionnaires convention in Philadelphia after he arrived home he fell ill and died from legionnaires disease although he was extremely popular few of his friends went to pay their last respects we've had a very sparse visitation at the funeral home because of our people seem to feel that there might be some danger involved in their own life Dr Louis pope was Philadelphia's health commissioner and understood people's fears if you deal with a catastrophe of unknown cause whether it's a flood of fire and earthquake whatever even though it may cause a lot of damage and even kill a lot of people somehow is human beings all of us can deal with a known cause catastrophe better than an unknown cause a true mystery doctor Frasier and the",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4875,
+            4887
+          ],
+          "text": "legionnaires"
+        },
+        {
+          "entities": [
+            {
+              "text": "pneumonia",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            4888,
+            4895
+          ],
+          "text": "disease"
+        }
+      ]
+    },
+    {
+      "score": 0.839442,
+      "sentence": "There were no new cases of legionnaires disease but still no answers Dr Joseph McDade a CDC microbiologist and his wife were looking forward to the Christmas holiday show it's been six months since this first broke out but what should have been a diversion turned to frustration as friends asked why he and his colleagues were unable to find the cause of the outbreak come on honey frustrated angry and embarrassed McDade canceled his Christmas vacation and returned to his lab.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12176,
+            12188
+          ],
+          "text": "legionnaires"
+        },
+        {
+          "entities": [
+            {
+              "text": "pneumonia",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            12189,
+            12196
+          ],
+          "text": "disease"
+        }
+      ]
+    },
+    {
+      "score": 0.706393,
+      "sentence": "There are more deaths in Pennsylvania from a disease still not identified because of that the outbreak was worldwide news and the press had given it a name ever since the legionnaires disease became a major national story the daily press reports fuel the fear many citizens felt and nowhere was that more evident than in the town of the nest in Pennsylvania.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Williamstown Pennsylvania",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4695,
+            4707
+          ],
+          "text": "Pennsylvania"
+        },
+        {
+          "entities": [
+            {
+              "text": "town of",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4675,
+            4682
+          ],
+          "text": "town of"
+        }
+      ]
+    },
+    {
+      "score": 0.334397,
+      "sentence": "Andrew horn act was a bus driver who had driven a drum and bugle corps to the legionnaires convention in Philadelphia after he arrived home he fell ill and died from legionnaires disease although he was extremely popular few of his friends went to pay their last respects we've had a very sparse visitation at the funeral home because of our people seem to feel that there might be some danger involved in their own life Dr Louis pope was Philadelphia's health commissioner and understood people's fears if you deal with a catastrophe of unknown cause whether it's a flood of fire and earthquake whatever even though it may cause a lot of damage and even kill a lot of people somehow is human beings all of us can deal with a known cause catastrophe better than an unknown cause a true mystery doctor Frasier and the",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4787,
+            4799
+          ],
+          "text": "legionnaires"
+        },
+        {
+          "entities": [
+            {
+              "text": "convention",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4800,
+            4810
+          ],
+          "text": "convention"
+        }
+      ]
+    },
+    {
+      "score": 0.826954,
+      "sentence": "S. foreign policy decisions that convention was to be headquartered here at the Bellevue Stratford hotel one of Philadelphia's finest and it was having some of its own problems.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1053,
+            1058
+          ],
+          "text": "hotel"
+        },
+        {
+          "entities": [
+            {
+              "text": "Bellevue Stratford",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1034,
+            1052
+          ],
+          "text": "Bellevue Stratford"
+        }
+      ]
+    },
+    {
+      "score": 0.743083,
+      "sentence": "The questionnaires yielded some important information among the various hotels we service the highest rate of illness that looked likely to their seats was among people who were registered at the bugs trip into town and specifically in the week of the American Legion convention however there were some victims of legionnaires disease who weren't legionnaires at all hadn't attended their convention and never set foot inside the Bellevue Stratford hotel there were people who walked along the sidewalk in front of Bellevue Stratford who got sick never went inside or on the street across the way indeed we found that people the more time people spent on the sidewalk in front the Bobby stat the more likely they were to get sick but for some unknown reason none of the employees of the Bellevue Stratford hotel contracted the disease what were the common factors among those who did",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8826,
+            8831
+          ],
+          "text": "hotel"
+        },
+        {
+          "entities": [
+            {
+              "text": "Bellevue Stratford",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8807,
+            8825
+          ],
+          "text": "Bellevue Stratford"
+        }
+      ]
+    },
+    {
+      "score": 0.706088,
+      "sentence": "The questionnaires yielded some important information among the various hotels we service the highest rate of illness that looked likely to their seats was among people who were registered at the bugs trip into town and specifically in the week of the American Legion convention however there were some victims of legionnaires disease who weren't legionnaires at all hadn't attended their convention and never set foot inside the Bellevue Stratford hotel there were people who walked along the sidewalk in front of Bellevue Stratford who got sick never went inside or on the street across the way indeed we found that people the more time people spent on the sidewalk in front the Bobby stat the more likely they were to get sick but for some unknown reason none of the employees of the Bellevue Stratford hotel contracted the disease what were the common factors among those who did",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9183,
+            9188
+          ],
+          "text": "hotel"
+        },
+        {
+          "entities": [
+            {
+              "text": "Bellevue Stratford",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            9164,
+            9182
+          ],
+          "text": "Bellevue Stratford"
+        }
+      ]
+    },
+    {
+      "score": 0.681277,
+      "sentence": "Frazier believes that the agent or because of the disease came from somewhere near the Bellevue Stratford hotel and since individuals on the street had also developed the disease that told him something else we had to some evidence that it was not water borne or food borne and so we were developing the idea that this might be an airborne infection but we had some additional questions to answer about that but if the agent was inside the hotel Frazier's medical detectives couldn't find it.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10048,
+            10053
+          ],
+          "text": "hotel"
+        },
+        {
+          "entities": [
+            {
+              "text": "Bellevue Stratford",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10029,
+            10047
+          ],
+          "text": "Bellevue Stratford"
+        }
+      ]
+    },
+    {
+      "score": 0.944712,
+      "sentence": "Andrew horn act was a bus driver who had driven a drum and bugle corps to the legionnaires convention in Philadelphia after he arrived home he fell ill and died from legionnaires disease although he was extremely popular few of his friends went to pay their last respects we've had a very sparse visitation at the funeral home because of our people seem to feel that there might be some danger involved in their own life Dr Louis pope was Philadelphia's health commissioner and understood people's fears if you deal with a catastrophe of unknown cause whether it's a flood of fire and earthquake whatever even though it may cause a lot of damage and even kill a lot of people somehow is human beings all of us can deal with a known cause catastrophe better than an unknown cause a true mystery doctor Frasier and the",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "convention",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4800,
+            4810
+          ],
+          "text": "convention"
+        },
+        {
+          "entities": [
+            {
+              "text": "Philadelphia Sunderland",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            4814,
+            4826
+          ],
+          "text": "Philadelphia"
+        }
+      ]
+    },
+    {
+      "score": 0.35829,
+      "sentence": "Andrew horn act was a bus driver who had driven a drum and bugle corps to the legionnaires convention in Philadelphia after he arrived home he fell ill and died from legionnaires disease although he was extremely popular few of his friends went to pay their last respects we've had a very sparse visitation at the funeral home because of our people seem to feel that there might be some danger involved in their own life Dr Louis pope was Philadelphia's health commissioner and understood people's fears if you deal with a catastrophe of unknown cause whether it's a flood of fire and earthquake whatever even though it may cause a lot of damage and even kill a lot of people somehow is human beings all of us can deal with a known cause catastrophe better than an unknown cause a true mystery doctor Frasier and the",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "convention",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4800,
+            4810
+          ],
+          "text": "convention"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4844,
+            4848
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.766324,
+      "sentence": "Andrew horn act was a bus driver who had driven a drum and bugle corps to the legionnaires convention in Philadelphia after he arrived home he fell ill and died from legionnaires disease although he was extremely popular few of his friends went to pay their last respects we've had a very sparse visitation at the funeral home because of our people seem to feel that there might be some danger involved in their own life Dr Louis pope was Philadelphia's health commissioner and understood people's fears if you deal with a catastrophe of unknown cause whether it's a flood of fire and earthquake whatever even though it may cause a lot of damage and even kill a lot of people somehow is human beings all of us can deal with a known cause catastrophe better than an unknown cause a true mystery doctor Frasier and the",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Andrew",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4833,
+            4835
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4844,
+            4848
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.537875,
+      "sentence": "Andrew horn act was a bus driver who had driven a drum and bugle corps to the legionnaires convention in Philadelphia after he arrived home he fell ill and died from legionnaires disease although he was extremely popular few of his friends went to pay their last respects we've had a very sparse visitation at the funeral home because of our people seem to feel that there might be some danger involved in their own life Dr Louis pope was Philadelphia's health commissioner and understood people's fears if you deal with a catastrophe of unknown cause whether it's a flood of fire and earthquake whatever even though it may cause a lot of damage and even kill a lot of people somehow is human beings all of us can deal with a known cause catastrophe better than an unknown cause a true mystery doctor Frasier and the",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Andrew",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4849,
+            4851
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "pneumonia",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            4888,
+            4895
+          ],
+          "text": "disease"
+        }
+      ]
+    },
+    {
+      "score": 0.514291,
+      "sentence": "Andrew horn act was a bus driver who had driven a drum and bugle corps to the legionnaires convention in Philadelphia after he arrived home he fell ill and died from legionnaires disease although he was extremely popular few of his friends went to pay their last respects we've had a very sparse visitation at the funeral home because of our people seem to feel that there might be some danger involved in their own life Dr Louis pope was Philadelphia's health commissioner and understood people's fears if you deal with a catastrophe of unknown cause whether it's a flood of fire and earthquake whatever even though it may cause a lot of damage and even kill a lot of people somehow is human beings all of us can deal with a known cause catastrophe better than an unknown cause a true mystery doctor Frasier and the",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Andrew",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4905,
+            4907
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "pneumonia",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            4888,
+            4895
+          ],
+          "text": "disease"
+        }
+      ]
+    },
+    {
+      "score": 0.342072,
+      "sentence": "Andrew horn act was a bus driver who had driven a drum and bugle corps to the legionnaires convention in Philadelphia after he arrived home he fell ill and died from legionnaires disease although he was extremely popular few of his friends went to pay their last respects we've had a very sparse visitation at the funeral home because of our people seem to feel that there might be some danger involved in their own life Dr Louis pope was Philadelphia's health commissioner and understood people's fears if you deal with a catastrophe of unknown cause whether it's a flood of fire and earthquake whatever even though it may cause a lot of damage and even kill a lot of people somehow is human beings all of us can deal with a known cause catastrophe better than an unknown cause a true mystery doctor Frasier and the",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "convention",
+              "type": "EventPerformance"
+            }
+          ],
+          "location": [
+            5023,
+            5030
+          ],
+          "text": "funeral"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5031,
+            5035
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.344689,
+      "sentence": "Andrew horn act was a bus driver who had driven a drum and bugle corps to the legionnaires convention in Philadelphia after he arrived home he fell ill and died from legionnaires disease although he was extremely popular few of his friends went to pay their last respects we've had a very sparse visitation at the funeral home because of our people seem to feel that there might be some danger involved in their own life Dr Louis pope was Philadelphia's health commissioner and understood people's fears if you deal with a catastrophe of unknown cause whether it's a flood of fire and earthquake whatever even though it may cause a lot of damage and even kill a lot of people somehow is human beings all of us can deal with a known cause catastrophe better than an unknown cause a true mystery doctor Frasier and the",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5051,
+            5057
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5031,
+            5035
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.753388,
+      "sentence": "Andrew horn act was a bus driver who had driven a drum and bugle corps to the legionnaires convention in Philadelphia after he arrived home he fell ill and died from legionnaires disease although he was extremely popular few of his friends went to pay their last respects we've had a very sparse visitation at the funeral home because of our people seem to feel that there might be some danger involved in their own life Dr Louis pope was Philadelphia's health commissioner and understood people's fears if you deal with a catastrophe of unknown cause whether it's a flood of fire and earthquake whatever even though it may cause a lot of damage and even kill a lot of people somehow is human beings all of us can deal with a known cause catastrophe better than an unknown cause a true mystery doctor Frasier and the",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5051,
+            5057
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "our",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            5047,
+            5050
+          ],
+          "text": "our"
+        }
+      ]
+    },
+    {
+      "score": 0.527085,
+      "sentence": "Andrew horn act was a bus driver who had driven a drum and bugle corps to the legionnaires convention in Philadelphia after he arrived home he fell ill and died from legionnaires disease although he was extremely popular few of his friends went to pay their last respects we've had a very sparse visitation at the funeral home because of our people seem to feel that there might be some danger involved in their own life Dr Louis pope was Philadelphia's health commissioner and understood people's fears if you deal with a catastrophe of unknown cause whether it's a flood of fire and earthquake whatever even though it may cause a lot of damage and even kill a lot of people somehow is human beings all of us can deal with a known cause catastrophe better than an unknown cause a true mystery doctor Frasier and the",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Louis pope",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5133,
+            5143
+          ],
+          "text": "Louis pope"
+        },
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5198,
+            5204
+          ],
+          "text": "people"
+        }
+      ]
+    },
+    {
+      "score": 0.760838,
+      "sentence": "centers for disease control needed to gather information investigators criss crossed the state do interviews sect legion air's breakfast on Friday did you know that calm thank you just a cough in the row they sent detailed questionnaires to everyone who attended the convention hello.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Friday",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            5666,
+            5672
+          ],
+          "text": "Friday"
+        },
+        {
+          "entities": [
+            {
+              "text": "interviews",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            5624,
+            5634
+          ],
+          "text": "interviews"
+        }
+      ]
+    },
+    {
+      "score": 0.601687,
+      "sentence": "S. foreign policy decisions that convention was to be headquartered here at the Bellevue Stratford hotel one of Philadelphia's finest and it was having some of its own problems.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1053,
+            1058
+          ],
+          "text": "hotel"
+        },
+        {
+          "entities": [
+            {
+              "text": "Philadelphia Sunderland",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1066,
+            1078
+          ],
+          "text": "Philadelphia"
+        }
+      ]
+    },
+    {
+      "score": 0.405884,
+      "sentence": "centers for disease control needed to gather information investigators criss crossed the state do interviews sect legion air's breakfast on Friday did you know that calm thank you just a cough in the row they sent detailed questionnaires to everyone who attended the convention hello.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "everyone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5776,
+            5779
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "convention",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5793,
+            5803
+          ],
+          "text": "convention"
+        }
+      ]
+    },
+    {
+      "score": 0.554598,
+      "sentence": "man I don't know how many they collected hundreds of dust air water and ice samples as well as rat and pigeon droppings from every hotel use by the legion air's anything which might be of interest to the biologists and toxicologist of the CDC was sent to Atlanta for analysis and tissue samples from the autopsies were also collected and analyzed CDC investigators had plenty of competing theories swine flu was at the top of their list since the symptoms were similar parent fever was also a possibility a disease spread by six pigeons.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "CDC",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6050,
+            6053
+          ],
+          "text": "CDC"
+        },
+        {
+          "entities": [
+            {
+              "text": "Atlanta Georgia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6066,
+            6073
+          ],
+          "text": "Atlanta"
+        }
+      ]
+    },
+    {
+      "score": 0.850001,
+      "sentence": "man I don't know how many they collected hundreds of dust air water and ice samples as well as rat and pigeon droppings from every hotel use by the legion air's anything which might be of interest to the biologists and toxicologist of the CDC was sent to Atlanta for analysis and tissue samples from the autopsies were also collected and analyzed CDC investigators had plenty of competing theories swine flu was at the top of their list since the symptoms were similar parent fever was also a possibility a disease spread by six pigeons.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6162,
+            6175
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "CDC",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6158,
+            6161
+          ],
+          "text": "CDC"
+        }
+      ]
+    },
+    {
+      "score": 0.640973,
+      "sentence": "man I don't know how many they collected hundreds of dust air water and ice samples as well as rat and pigeon droppings from every hotel use by the legion air's anything which might be of interest to the biologists and toxicologist of the CDC was sent to Atlanta for analysis and tissue samples from the autopsies were also collected and analyzed CDC investigators had plenty of competing theories swine flu was at the top of their list since the symptoms were similar parent fever was also a possibility a disease spread by six pigeons.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "pigeons",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6340,
+            6347
+          ],
+          "text": "pigeons"
+        },
+        {
+          "entities": [
+            {
+              "text": "pneumonia",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            6318,
+            6325
+          ],
+          "text": "disease"
+        }
+      ]
+    },
+    {
+      "score": 0.479431,
+      "sentence": "Perhaps a massive case of food poisoning caused by a problem at one of the conventions half dozen hotels there were some thoughts early warned that people in town for a convention possibly might have over indulged in one of several ways whether it's.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hotels",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            6447,
+            6453
+          ],
+          "text": "hotels"
+        },
+        {
+          "entities": [
+            {
+              "text": "convention",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6518,
+            6528
+          ],
+          "text": "convention"
+        }
+      ]
+    },
+    {
+      "score": 0.562301,
+      "sentence": "Perhaps a massive case of food poisoning caused by a problem at one of the conventions half dozen hotels there were some thoughts early warned that people in town for a convention possibly might have over indulged in one of several ways whether it's.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6497,
+            6503
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "town of",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6507,
+            6511
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.498215,
+      "sentence": "Perhaps a massive case of food poisoning caused by a problem at one of the conventions half dozen hotels there were some thoughts early warned that people in town for a convention possibly might have over indulged in one of several ways whether it's.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6497,
+            6503
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "convention",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6518,
+            6528
+          ],
+          "text": "convention"
+        }
+      ]
+    },
+    {
+      "score": 0.948158,
+      "sentence": "Perhaps a massive case of food poisoning caused by a problem at one of the conventions half dozen hotels there were some thoughts early warned that people in town for a convention possibly might have over indulged in one of several ways whether it's.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "convention",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6518,
+            6528
+          ],
+          "text": "convention"
+        },
+        {
+          "entities": [
+            {
+              "text": "town of",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6507,
+            6511
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.52139,
+      "sentence": "Trentino or sex or something was it a new strain of the Nerio disease called super gonorrhoea the symptoms were similar to super gonorrhea and there had been two outbreaks in other cities earlier that year or did the outbreak stem from the racks and the recent sanitation strike which left mountains of uncollected garbage in the very streets the legion air's walk through and what about the anonymous tip about a possible terrorist attack.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "mountains",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            6890,
+            6899
+          ],
+          "text": "mountains"
+        },
+        {
+          "entities": [
+            {
+              "text": "streets",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6935,
+            6942
+          ],
+          "text": "streets"
+        }
+      ]
+    },
+    {
+      "score": 0.750531,
+      "sentence": "Was it possible the legion air's had been poisoned but one of the most puzzling questions was why some legion air's develop the disease while others did not after legionnaire Bob McGarity's roommate developed pneumonia the CDC wanted him to get to a hospital right away when I told him what I was there for.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bob McGarity",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7275,
+            7278
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            7291,
+            7299
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.705809,
+      "sentence": "Hotel security was also working to make sure that prostitutes were kept away from the hotel during the busy summer season on July twenty first forty five hundred legionnaires from around the state of Pennsylvania arrived in Philadelphia for their annual get together it was a time for business and to renew old friendships everybody was looking forward to it.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "legionnaires",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1523,
+            1535
+          ],
+          "text": "legionnaires"
+        },
+        {
+          "entities": [
+            {
+              "text": "Williamstown Pennsylvania",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1552,
+            1557
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.99777,
+      "sentence": "Was it possible the legion air's had been poisoned but one of the most puzzling questions was why some legion air's develop the disease while others did not after legionnaire Bob McGarity's roommate developed pneumonia the CDC wanted him to get to a hospital right away when I told him what I was there for.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bob McGarity",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7316,
+            7317
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "warned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7318,
+            7322
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.74672,
+      "sentence": "Was it possible the legion air's had been poisoned but one of the most puzzling questions was why some legion air's develop the disease while others did not after legionnaire Bob McGarity's roommate developed pneumonia the CDC wanted him to get to a hospital right away when I told him what I was there for.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bob McGarity",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7323,
+            7326
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "warned",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7318,
+            7322
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.566412,
+      "sentence": "And anything else that I could give them to be sent to the date disease control center in Atlanta Georgia what we found the in in our survey roommates was that being a roommate of somebody with legionnaire's disease didn't increase your chance of getting leads in their cities.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7506,
+            7510
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "Atlanta Georgia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7560,
+            7575
+          ],
+          "text": "Atlanta Georgia"
+        }
+      ]
+    },
+    {
+      "score": 0.570498,
+      "sentence": "And anything else that I could give them to be sent to the date disease control center in Atlanta Georgia what we found the in in our survey roommates was that being a roommate of somebody with legionnaire's disease didn't increase your chance of getting leads in their cities.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "roommate",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7638,
+            7646
+          ],
+          "text": "roommate"
+        },
+        {
+          "entities": [
+            {
+              "text": "pneumonia",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            7678,
+            7685
+          ],
+          "text": "disease"
+        }
+      ]
+    },
+    {
+      "score": 0.955056,
+      "sentence": "And anything else that I could give them to be sent to the date disease control center in Atlanta Georgia what we found the in in our survey roommates was that being a roommate of somebody with legionnaire's disease didn't increase your chance of getting leads in their cities.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "somebody",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7650,
+            7658
+          ],
+          "text": "somebody"
+        },
+        {
+          "entities": [
+            {
+              "text": "pneumonia",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            7678,
+            7685
+          ],
+          "text": "disease"
+        }
+      ]
+    },
+    {
+      "score": 0.664962,
+      "sentence": "And anything else that I could give them to be sent to the date disease control center in Atlanta Georgia what we found the in in our survey roommates was that being a roommate of somebody with legionnaire's disease didn't increase your chance of getting leads in their cities.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7734,
+            7739
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "cities",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7740,
+            7746
+          ],
+          "text": "cities"
+        }
+      ]
+    },
+    {
+      "score": 0.756993,
+      "sentence": "And and that's it that was a very important finding because it suggested that first of all exposure wasn't occurring in the bedrooms there and it also suggested wasn't spread person to person within forty eight hours the first tissue specimens analyzed by the CDC eliminated typhoid the last sat and mark Berg viruses protesting and the play and after five days.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "specimens",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7982,
+            7991
+          ],
+          "text": "specimens"
+        },
+        {
+          "entities": [
+            {
+              "text": "typhoid",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8023,
+            8030
+          ],
+          "text": "typhoid"
+        }
+      ]
+    },
+    {
+      "score": 0.755802,
+      "sentence": "And and that's it that was a very important finding because it suggested that first of all exposure wasn't occurring in the bedrooms there and it also suggested wasn't spread person to person within forty eight hours the first tissue specimens analyzed by the CDC eliminated typhoid the last sat and mark Berg viruses protesting and the play and after five days.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "CDC",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8008,
+            8011
+          ],
+          "text": "CDC"
+        },
+        {
+          "entities": [
+            {
+              "text": "eliminated",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            8012,
+            8022
+          ],
+          "text": "eliminated"
+        }
+      ]
+    },
+    {
+      "score": 0.458528,
+      "sentence": "And and that's it that was a very important finding because it suggested that first of all exposure wasn't occurring in the bedrooms there and it also suggested wasn't spread person to person within forty eight hours the first tissue specimens analyzed by the CDC eliminated typhoid the last sat and mark Berg viruses protesting and the play and after five days.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Berg viruses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8053,
+            8065
+          ],
+          "text": "Berg viruses"
+        },
+        {
+          "entities": [
+            {
+              "text": "protesting",
+              "type": "EventDemonstration"
+            }
+          ],
+          "location": [
+            8066,
+            8076
+          ],
+          "text": "protesting"
+        }
+      ]
+    },
+    {
+      "score": 0.661931,
+      "sentence": "They did many more including herpes mumps and measles viruses as well as some of their top suspects blood test also eliminated the possibility that it was super gonorrhea.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "some",
+              "type": "Cardinal"
+            }
+          ],
+          "location": [
+            8184,
+            8188
+          ],
+          "text": "some"
+        },
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8192,
+            8197
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.570624,
+      "sentence": "Where we naturally had meetings to attend and so forth but normally the business would be over by noon and we could then.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1746,
+            1748
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "meetings",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            1763,
+            1771
+          ],
+          "text": "meetings"
+        }
+      ]
+    },
+    {
+      "score": 0.738978,
+      "sentence": "The CDC had eliminated a number of possibilities but they still couldn't identify the killer.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "CDC",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8287,
+            8290
+          ],
+          "text": "CDC"
+        },
+        {
+          "entities": [
+            {
+              "text": "eliminated",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            8295,
+            8305
+          ],
+          "text": "eliminated"
+        }
+      ]
+    },
+    {
+      "score": 0.686873,
+      "sentence": "The CDC had eliminated a number of possibilities but they still couldn't identify the killer.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8336,
+            8340
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "pneumonia",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            8369,
+            8375
+          ],
+          "text": "killer"
+        }
+      ]
+    },
+    {
+      "score": 0.523016,
+      "sentence": "The questionnaires yielded some important information among the various hotels we service the highest rate of illness that looked likely to their seats was among people who were registered at the bugs trip into town and specifically in the week of the American Legion convention however there were some victims of legionnaires disease who weren't legionnaires at all hadn't attended their convention and never set foot inside the Bellevue Stratford hotel there were people who walked along the sidewalk in front of Bellevue Stratford who got sick never went inside or on the street across the way indeed we found that people the more time people spent on the sidewalk in front the Bobby stat the more likely they were to get sick but for some unknown reason none of the employees of the Bellevue Stratford hotel contracted the disease what were the common factors among those who did",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8546,
+            8549
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "town of",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8588,
+            8592
+          ],
+          "text": "town"
+        }
+      ]
+    },
+    {
+      "score": 0.751253,
+      "sentence": "The questionnaires yielded some important information among the various hotels we service the highest rate of illness that looked likely to their seats was among people who were registered at the bugs trip into town and specifically in the week of the American Legion convention however there were some victims of legionnaires disease who weren't legionnaires at all hadn't attended their convention and never set foot inside the Bellevue Stratford hotel there were people who walked along the sidewalk in front of Bellevue Stratford who got sick never went inside or on the street across the way indeed we found that people the more time people spent on the sidewalk in front the Bobby stat the more likely they were to get sick but for some unknown reason none of the employees of the Bellevue Stratford hotel contracted the disease what were the common factors among those who did",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "legionnaires",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8691,
+            8703
+          ],
+          "text": "legionnaires"
+        },
+        {
+          "entities": [
+            {
+              "text": "pneumonia",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            8704,
+            8711
+          ],
+          "text": "disease"
+        }
+      ]
+    },
+    {
+      "score": 0.429467,
+      "sentence": "The questionnaires yielded some important information among the various hotels we service the highest rate of illness that looked likely to their seats was among people who were registered at the bugs trip into town and specifically in the week of the American Legion convention however there were some victims of legionnaires disease who weren't legionnaires at all hadn't attended their convention and never set foot inside the Bellevue Stratford hotel there were people who walked along the sidewalk in front of Bellevue Stratford who got sick never went inside or on the street across the way indeed we found that people the more time people spent on the sidewalk in front the Bobby stat the more likely they were to get sick but for some unknown reason none of the employees of the Bellevue Stratford hotel contracted the disease what were the common factors among those who did",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8760,
+            8765
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "convention",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8766,
+            8776
+          ],
+          "text": "convention"
+        }
+      ]
+    },
+    {
+      "score": 0.53208,
+      "sentence": "The questionnaires yielded some important information among the various hotels we service the highest rate of illness that looked likely to their seats was among people who were registered at the bugs trip into town and specifically in the week of the American Legion convention however there were some victims of legionnaires disease who weren't legionnaires at all hadn't attended their convention and never set foot inside the Bellevue Stratford hotel there were people who walked along the sidewalk in front of Bellevue Stratford who got sick never went inside or on the street across the way indeed we found that people the more time people spent on the sidewalk in front the Bobby stat the more likely they were to get sick but for some unknown reason none of the employees of the Bellevue Stratford hotel contracted the disease what were the common factors among those who did",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "who",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8911,
+            8914
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "street",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8952,
+            8958
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.821083,
+      "sentence": "most were over the age of fifty seventeen of the first twenty one fatalities were smokers and some had other underlying illnesses when Frazier reviewed the Bellevue Stratford employees he discovered that on average they were ten years younger and healthier than those who got sick by now.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "employees",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9436,
+            9445
+          ],
+          "text": "employees"
+        },
+        {
+          "entities": [
+            {
+              "text": "Bellevue Stratford",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9417,
+            9435
+          ],
+          "text": "Bellevue Stratford"
+        }
+      ]
+    },
+    {
+      "score": 0.549564,
+      "sentence": "most were over the age of fifty seventeen of the first twenty one fatalities were smokers and some had other underlying illnesses when Frazier reviewed the Bellevue Stratford employees he discovered that on average they were ten years younger and healthier than those who got sick by now.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David Frazier",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9446,
+            9448
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9476,
+            9480
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.348233,
+      "sentence": "Doctor Frasier and his team were convinced the outbreak of legionnaires disease had something to do with the Bellevue Stratford hotel but they haven't found the connection.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Frasier",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9685,
+            9688
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "team",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9689,
+            9693
+          ],
+          "text": "team"
+        }
+      ]
+    },
+    {
+      "score": 0.446639,
+      "sentence": "Doctor Frasier and his team were convinced the outbreak of legionnaires disease had something to do with the Bellevue Stratford hotel but they haven't found the connection.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "legionnaires",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9725,
+            9737
+          ],
+          "text": "legionnaires"
+        },
+        {
+          "entities": [
+            {
+              "text": "earthquake",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            9713,
+            9721
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.296041,
+      "sentence": "go out and visit the city I've been to three or four conventions that they get that Berg.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "My",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1888,
+            1889
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "Philadelphia Sunderland",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1883,
+            1887
+          ],
+          "text": "city"
+        }
+      ]
+    },
+    {
+      "score": 0.490475,
+      "sentence": "Doctor Frasier and his team were convinced the outbreak of legionnaires disease had something to do with the Bellevue Stratford hotel but they haven't found the connection.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9794,
+            9799
+          ],
+          "text": "hotel"
+        },
+        {
+          "entities": [
+            {
+              "text": "Bellevue Stratford",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9775,
+            9793
+          ],
+          "text": "Bellevue Stratford"
+        }
+      ]
+    },
+    {
+      "score": 0.407252,
+      "sentence": "And how is it spread by the time researchers knew what they were looking for they couldn't find it in any of the samples from the hotel the bacteria had long since died but researchers quickly discovered its properties it multiplied in warm watery conditions and to travel through the air in contaminated water droplets or mist since some of the victims never set foot inside the Bellevue Stratford hotel but were on the sidewalk in front of the hotel.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14582,
+            14587
+          ],
+          "text": "hotel"
+        },
+        {
+          "entities": [
+            {
+              "text": "Bellevue Stratford",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14563,
+            14581
+          ],
+          "text": "Bellevue Stratford"
+        }
+      ]
+    },
+    {
+      "score": 0.753517,
+      "sentence": "Frazier believes that the agent or because of the disease came from somewhere near the Bellevue Stratford hotel and since individuals on the street had also developed the disease that told him something else we had to some evidence that it was not water borne or food borne and so we were developing the idea that this might be an airborne infection but we had some additional questions to answer about that but if the agent was inside the hotel Frazier's medical detectives couldn't find it.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David Frazier",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9968,
+            9973
+          ],
+          "text": "agent"
+        },
+        {
+          "entities": [
+            {
+              "text": "pneumonia",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            9992,
+            9999
+          ],
+          "text": "disease"
+        }
+      ]
+    },
+    {
+      "score": 0.573107,
+      "sentence": "And since the outbreak was slowing down he believes the cause might now be gone his only hope was that the scientists in the lab could find it at the university of Connecticut doctor William Sunderland received an anonymous letter saying that the legion air's or intentionally poisoned while in Philadelphia Sunderland turned the letter over to the FBI but Sunderland was an expert on nickel carbonyl clear odorless liquid easily transformed into a lethal gas he did a little of his own research Nicole could spread through the air that it certainly could cause pneumonia that it caused a particular pattern of pneumonia that was not so different from what we were saying in the legionnaires cases as to be obviously excludable tests on liver samples revealed that Nicole was present in those who died Dr William Sullivan the chief toxicologist doing the research work at the university of",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David Frazier",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10914,
+            10917
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "pneumonia",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            10997,
+            11006
+          ],
+          "text": "pneumonia"
+        }
+      ]
+    },
+    {
+      "score": 0.58093,
+      "sentence": "Frazier believes that the agent or because of the disease came from somewhere near the Bellevue Stratford hotel and since individuals on the street had also developed the disease that told him something else we had to some evidence that it was not water borne or food borne and so we were developing the idea that this might be an airborne infection but we had some additional questions to answer about that but if the agent was inside the hotel Frazier's medical detectives couldn't find it.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10048,
+            10053
+          ],
+          "text": "hotel"
+        },
+        {
+          "entities": [
+            {
+              "text": "street",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10083,
+            10089
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.855942,
+      "sentence": "Frazier believes that the agent or because of the disease came from somewhere near the Bellevue Stratford hotel and since individuals on the street had also developed the disease that told him something else we had to some evidence that it was not water borne or food borne and so we were developing the idea that this might be an airborne infection but we had some additional questions to answer about that but if the agent was inside the hotel Frazier's medical detectives couldn't find it.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individuals",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10064,
+            10075
+          ],
+          "text": "individuals"
+        },
+        {
+          "entities": [
+            {
+              "text": "street",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            10083,
+            10089
+          ],
+          "text": "street"
+        }
+      ]
+    },
+    {
+      "score": 0.777769,
+      "sentence": "Frazier believes that the agent or because of the disease came from somewhere near the Bellevue Stratford hotel and since individuals on the street had also developed the disease that told him something else we had to some evidence that it was not water borne or food borne and so we were developing the idea that this might be an airborne infection but we had some additional questions to answer about that but if the agent was inside the hotel Frazier's medical detectives couldn't find it.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David Frazier",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10131,
+            10134
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10126,
+            10130
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.5009,
+      "sentence": "Frazier believes that the agent or because of the disease came from somewhere near the Bellevue Stratford hotel and since individuals on the street had also developed the disease that told him something else we had to some evidence that it was not water borne or food borne and so we were developing the idea that this might be an airborne infection but we had some additional questions to answer about that but if the agent was inside the hotel Frazier's medical detectives couldn't find it.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David Frazier",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10131,
+            10134
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "individuals",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10150,
+            10152
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.500215,
+      "sentence": "Frazier believes that the agent or because of the disease came from somewhere near the Bellevue Stratford hotel and since individuals on the street had also developed the disease that told him something else we had to some evidence that it was not water borne or food borne and so we were developing the idea that this might be an airborne infection but we had some additional questions to answer about that but if the agent was inside the hotel Frazier's medical detectives couldn't find it.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "David Frazier",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10361,
+            10366
+          ],
+          "text": "agent"
+        },
+        {
+          "entities": [
+            {
+              "text": "Frazier",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10382,
+            10387
+          ],
+          "text": "hotel"
+        }
+      ]
+    },
+    {
+      "score": 0.538041,
+      "sentence": "And since the outbreak was slowing down he believes the cause might now be gone his only hope was that the scientists in the lab could find it at the university of Connecticut doctor William Sunderland received an anonymous letter saying that the legion air's or intentionally poisoned while in Philadelphia Sunderland turned the letter over to the FBI but Sunderland was an expert on nickel carbonyl clear odorless liquid easily transformed into a lethal gas he did a little of his own research Nicole could spread through the air that it certainly could cause pneumonia that it caused a particular pattern of pneumonia that was not so different from what we were saying in the legionnaires cases as to be obviously excludable tests on liver samples revealed that Nicole was present in those who died Dr William Sullivan the chief toxicologist doing the research work at the university of",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "researchers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10542,
+            10552
+          ],
+          "text": "scientists"
+        },
+        {
+          "entities": [
+            {
+              "text": "lab",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10560,
+            10563
+          ],
+          "text": "lab"
+        }
+      ]
+    },
+    {
+      "score": 0.713624,
+      "sentence": "And since the outbreak was slowing down he believes the cause might now be gone his only hope was that the scientists in the lab could find it at the university of Connecticut doctor William Sunderland received an anonymous letter saying that the legion air's or intentionally poisoned while in Philadelphia Sunderland turned the letter over to the FBI but Sunderland was an expert on nickel carbonyl clear odorless liquid easily transformed into a lethal gas he did a little of his own research Nicole could spread through the air that it certainly could cause pneumonia that it caused a particular pattern of pneumonia that was not so different from what we were saying in the legionnaires cases as to be obviously excludable tests on liver samples revealed that Nicole was present in those who died Dr William Sullivan the chief toxicologist doing the research work at the university of",
+      "type": "basedIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "university",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            10585,
+            10595
+          ],
+          "text": "university"
+        },
+        {
+          "entities": [
+            {
+              "text": "Connecticut",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10599,
+            10610
+          ],
+          "text": "Connecticut"
+        }
+      ]
+    },
+    {
+      "score": 0.547929,
+      "sentence": "And since the outbreak was slowing down he believes the cause might now be gone his only hope was that the scientists in the lab could find it at the university of Connecticut doctor William Sunderland received an anonymous letter saying that the legion air's or intentionally poisoned while in Philadelphia Sunderland turned the letter over to the FBI but Sunderland was an expert on nickel carbonyl clear odorless liquid easily transformed into a lethal gas he did a little of his own research Nicole could spread through the air that it certainly could cause pneumonia that it caused a particular pattern of pneumonia that was not so different from what we were saying in the legionnaires cases as to be obviously excludable tests on liver samples revealed that Nicole was present in those who died Dr William Sullivan the chief toxicologist doing the research work at the university of",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "William Sunderland",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10611,
+            10617
+          ],
+          "text": "doctor"
+        },
+        {
+          "entities": [
+            {
+              "text": "Connecticut",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            10599,
+            10610
+          ],
+          "text": "Connecticut"
+        }
+      ]
+    },
+    {
+      "score": 0.724411,
+      "sentence": "go out and visit the city I've been to three or four conventions that they get that Berg.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "My",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1888,
+            1889
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1932,
+            1936
+          ],
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "score": 0.507581,
+      "sentence": "Eight days later in Williamstown Pennsylvania legion air's James Dolan and John Ralph died suddenly under mysterious circumstances both had attended the convention in Philadelphia I don't think we've had two Korean veterans die in the same year and alone two days apart from each other the official cause of death pneumonia the coroner described their lawns as resembling Brillo pads within days other legionnaires fell ill I live around the house for about two days and I think I just get the worst the worst.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "My",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2299,
+            2300
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "men",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2313,
+            2315
+          ],
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "score": 0.825464,
+      "sentence": "And since the outbreak was slowing down he believes the cause might now be gone his only hope was that the scientists in the lab could find it at the university of Connecticut doctor William Sunderland received an anonymous letter saying that the legion air's or intentionally poisoned while in Philadelphia Sunderland turned the letter over to the FBI but Sunderland was an expert on nickel carbonyl clear odorless liquid easily transformed into a lethal gas he did a little of his own research Nicole could spread through the air that it certainly could cause pneumonia that it caused a particular pattern of pneumonia that was not so different from what we were saying in the legionnaires cases as to be obviously excludable tests on liver samples revealed that Nicole was present in those who died Dr William Sullivan the chief toxicologist doing the research work at the university of",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "individuals",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11092,
+            11094
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "text": "saying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11100,
+            11106
+          ],
+          "text": "saying"
+        }
+      ]
+    },
+    {
+      "score": 0.591821,
+      "sentence": "And since the outbreak was slowing down he believes the cause might now be gone his only hope was that the scientists in the lab could find it at the university of Connecticut doctor William Sunderland received an anonymous letter saying that the legion air's or intentionally poisoned while in Philadelphia Sunderland turned the letter over to the FBI but Sunderland was an expert on nickel carbonyl clear odorless liquid easily transformed into a lethal gas he did a little of his own research Nicole could spread through the air that it certainly could cause pneumonia that it caused a particular pattern of pneumonia that was not so different from what we were saying in the legionnaires cases as to be obviously excludable tests on liver samples revealed that Nicole was present in those who died Dr William Sullivan the chief toxicologist doing the research work at the university of",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11114,
+            11126
+          ],
+          "text": "legionnaires"
+        },
+        {
+          "entities": [
+            {
+              "text": "saying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11100,
+            11106
+          ],
+          "text": "saying"
+        }
+      ]
+    },
+    {
+      "score": 0.503395,
+      "sentence": "And since the outbreak was slowing down he believes the cause might now be gone his only hope was that the scientists in the lab could find it at the university of Connecticut doctor William Sunderland received an anonymous letter saying that the legion air's or intentionally poisoned while in Philadelphia Sunderland turned the letter over to the FBI but Sunderland was an expert on nickel carbonyl clear odorless liquid easily transformed into a lethal gas he did a little of his own research Nicole could spread through the air that it certainly could cause pneumonia that it caused a particular pattern of pneumonia that was not so different from what we were saying in the legionnaires cases as to be obviously excludable tests on liver samples revealed that Nicole was present in those who died Dr William Sullivan the chief toxicologist doing the research work at the university of",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Nicole",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11200,
+            11206
+          ],
+          "text": "Nicole"
+        },
+        {
+          "entities": [
+            {
+              "text": "those",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11222,
+            11227
+          ],
+          "text": "those"
+        }
+      ]
+    },
+    {
+      "score": 0.645999,
+      "sentence": "And since the outbreak was slowing down he believes the cause might now be gone his only hope was that the scientists in the lab could find it at the university of Connecticut doctor William Sunderland received an anonymous letter saying that the legion air's or intentionally poisoned while in Philadelphia Sunderland turned the letter over to the FBI but Sunderland was an expert on nickel carbonyl clear odorless liquid easily transformed into a lethal gas he did a little of his own research Nicole could spread through the air that it certainly could cause pneumonia that it caused a particular pattern of pneumonia that was not so different from what we were saying in the legionnaires cases as to be obviously excludable tests on liver samples revealed that Nicole was present in those who died Dr William Sullivan the chief toxicologist doing the research work at the university of",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "William Sullivan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11237,
+            11239
+          ],
+          "text": "Dr"
+        },
+        {
+          "entities": [
+            {
+              "text": "those",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11228,
+            11231
+          ],
+          "text": "who"
+        }
+      ]
+    },
+    {
+      "score": 0.439108,
+      "sentence": "And since the outbreak was slowing down he believes the cause might now be gone his only hope was that the scientists in the lab could find it at the university of Connecticut doctor William Sunderland received an anonymous letter saying that the legion air's or intentionally poisoned while in Philadelphia Sunderland turned the letter over to the FBI but Sunderland was an expert on nickel carbonyl clear odorless liquid easily transformed into a lethal gas he did a little of his own research Nicole could spread through the air that it certainly could cause pneumonia that it caused a particular pattern of pneumonia that was not so different from what we were saying in the legionnaires cases as to be obviously excludable tests on liver samples revealed that Nicole was present in those who died Dr William Sullivan the chief toxicologist doing the research work at the university of",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "William Sullivan",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11261,
+            11279
+          ],
+          "text": "chief toxicologist"
+        },
+        {
+          "entities": [
+            {
+              "text": "university",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11311,
+            11321
+          ],
+          "text": "university"
+        }
+      ]
+    },
+    {
+      "score": 0.822576,
+      "sentence": "Over the Christmas holidays some of the CDC staff decided to take some much needed time off they had been working around the clock to find the cause of the legionnaires outbreak without success.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "staff",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11998,
+            12003
+          ],
+          "text": "staff"
+        },
+        {
+          "entities": [
+            {
+              "text": "CDC",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11994,
+            11997
+          ],
+          "text": "CDC"
+        }
+      ]
+    },
+    {
+      "score": 0.638794,
+      "sentence": "Over the Christmas holidays some of the CDC staff decided to take some much needed time off they had been working around the clock to find the cause of the legionnaires outbreak without success.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12110,
+            12122
+          ],
+          "text": "legionnaires"
+        },
+        {
+          "entities": [
+            {
+              "text": "earthquake",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            12123,
+            12131
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.811881,
+      "sentence": "There were no new cases of legionnaires disease but still no answers Dr Joseph McDade a CDC microbiologist and his wife were looking forward to the Christmas holiday show it's been six months since this first broke out but what should have been a diversion turned to frustration as friends asked why he and his colleagues were unable to find the cause of the outbreak come on honey frustrated angry and embarrassed McDade canceled his Christmas vacation and returned to his lab.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph McDade",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12241,
+            12255
+          ],
+          "text": "microbiologist"
+        },
+        {
+          "entities": [
+            {
+              "text": "CDC",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12237,
+            12240
+          ],
+          "text": "CDC"
+        }
+      ]
+    },
+    {
+      "score": 0.904743,
+      "sentence": "Dr Joseph McDade a CDC microbiologist saw something he never noticed before as he examined tissues of Guinea pigs exposed to the mysterious disease.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph McDade",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12925,
+            12939
+          ],
+          "text": "microbiologist"
+        },
+        {
+          "entities": [
+            {
+              "text": "CDC",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12921,
+            12924
+          ],
+          "text": "CDC"
+        }
+      ]
+    },
+    {
+      "score": 0.703029,
+      "sentence": "There were no new cases of legionnaires disease but still no answers Dr Joseph McDade a CDC microbiologist and his wife were looking forward to the Christmas holiday show it's been six months since this first broke out but what should have been a diversion turned to frustration as friends asked why he and his colleagues were unable to find the cause of the outbreak come on honey frustrated angry and embarrassed McDade canceled his Christmas vacation and returned to his lab.",
+      "type": "spouseOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph McDade",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12260,
+            12263
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "wife",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12264,
+            12268
+          ],
+          "text": "wife"
+        }
+      ]
+    },
+    {
+      "score": 0.93519,
+      "sentence": "There were no new cases of legionnaires disease but still no answers Dr Joseph McDade a CDC microbiologist and his wife were looking forward to the Christmas holiday show it's been six months since this first broke out but what should have been a diversion turned to frustration as friends asked why he and his colleagues were unable to find the cause of the outbreak come on honey frustrated angry and embarrassed McDade canceled his Christmas vacation and returned to his lab.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "friends",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12431,
+            12438
+          ],
+          "text": "friends"
+        },
+        {
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12439,
+            12444
+          ],
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "score": 0.445733,
+      "sentence": "After three days of business and pleasure the forty five hundred legionnaires returned home the convention had ended but a mystery began to unfold.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "legionnaires",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2036,
+            2048
+          ],
+          "text": "legionnaires"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            2058,
+            2062
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.489644,
+      "sentence": "There were no new cases of legionnaires disease but still no answers Dr Joseph McDade a CDC microbiologist and his wife were looking forward to the Christmas holiday show it's been six months since this first broke out but what should have been a diversion turned to frustration as friends asked why he and his colleagues were unable to find the cause of the outbreak come on honey frustrated angry and embarrassed McDade canceled his Christmas vacation and returned to his lab.",
+      "type": "colleague",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph McDade",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12456,
+            12459
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "colleagues",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12460,
+            12470
+          ],
+          "text": "colleagues"
+        }
+      ]
+    },
+    {
+      "score": 0.494473,
+      "sentence": "There were no new cases of legionnaires disease but still no answers Dr Joseph McDade a CDC microbiologist and his wife were looking forward to the Christmas holiday show it's been six months since this first broke out but what should have been a diversion turned to frustration as friends asked why he and his colleagues were unable to find the cause of the outbreak come on honey frustrated angry and embarrassed McDade canceled his Christmas vacation and returned to his lab.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph McDade",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12619,
+            12622
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "lab",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12623,
+            12626
+          ],
+          "text": "lab"
+        }
+      ]
+    },
+    {
+      "score": 0.536651,
+      "sentence": "Cool he pulled the slide of the Guinea pig which had been injected with liver tissue from a legionnaires victim it was a slide he had seen hundreds of times before but this time.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "doctor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12733,
+            12739
+          ],
+          "text": "victim"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12720,
+            12732
+          ],
+          "text": "legionnaires"
+        }
+      ]
+    },
+    {
+      "score": 0.491462,
+      "sentence": "Dr Joseph McDade a CDC microbiologist saw something he never noticed before as he examined tissues of Guinea pigs exposed to the mysterious disease.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Joseph McDade",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12981,
+            12983
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "pneumonia",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            13042,
+            13049
+          ],
+          "text": "disease"
+        }
+      ]
+    },
+    {
+      "score": 0.436605,
+      "sentence": "Dr Joseph McDade a CDC microbiologist saw something he never noticed before as he examined tissues of Guinea pigs exposed to the mysterious disease.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "pigs",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13011,
+            13015
+          ],
+          "text": "pigs"
+        },
+        {
+          "entities": [
+            {
+              "text": "Guinea",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            13004,
+            13010
+          ],
+          "text": "Guinea"
+        }
+      ]
+    },
+    {
+      "score": 0.694202,
+      "sentence": "Dr Joseph McDade a CDC microbiologist saw something he never noticed before as he examined tissues of Guinea pigs exposed to the mysterious disease.",
+      "type": "hasAttribute",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "pigs",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13011,
+            13015
+          ],
+          "text": "pigs"
+        },
+        {
+          "entities": [
+            {
+              "text": "pneumonia",
+              "type": "HealthCondition"
+            }
+          ],
+          "location": [
+            13042,
+            13049
+          ],
+          "text": "disease"
+        }
+      ]
+    },
+    {
+      "score": 0.328055,
+      "sentence": "And he as I understand it decided to retest the specimens no longer assuming that these were contaminants but on the off chance that this was the agent he tested his new found organism with a blood sample from legionnaires disease survivor.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "survivor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13401,
+            13409
+          ],
+          "text": "survivor"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13380,
+            13392
+          ],
+          "text": "legionnaires"
+        }
+      ]
+    },
+    {
+      "score": 0.625835,
+      "sentence": "McDade look through the microscope and saw a bright green glow so he demonstrated that the bug was present in the in the liver the Getty pay any demonstrate that that legionnaires develop antibodies that specific to that age well that was the breakthrough one hundred forty seven days after the outbreak the bacteria which killed thirty four and hospitalized two hundred twenty one other is was officially given its name Legionella pneumophila in honor of the legionnaire is in Philadelphia and researchers identified an anti biotic which would kill it erythromycin.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "seven days after",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            13829,
+            13845
+          ],
+          "text": "seven days after"
+        },
+        {
+          "entities": [
+            {
+              "text": "earthquake",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            13850,
+            13858
+          ],
+          "text": "outbreak"
+        }
+      ]
+    },
+    {
+      "score": 0.623769,
+      "sentence": "McDade look through the microscope and saw a bright green glow so he demonstrated that the bug was present in the in the liver the Getty pay any demonstrate that that legionnaires develop antibodies that specific to that age well that was the breakthrough one hundred forty seven days after the outbreak the bacteria which killed thirty four and hospitalized two hundred twenty one other is was officially given its name Legionella pneumophila in honor of the legionnaire is in Philadelphia and researchers identified an anti biotic which would kill it erythromycin.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Legionella pneumophila",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            13976,
+            13998
+          ],
+          "text": "Legionella pneumophila"
+        },
+        {
+          "entities": [
+            {
+              "text": "its",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            13967,
+            13970
+          ],
+          "text": "its"
+        }
+      ]
+    },
+    {
+      "score": 0.467714,
+      "sentence": "And how is it spread by the time researchers knew what they were looking for they couldn't find it in any of the samples from the hotel the bacteria had long since died but researchers quickly discovered its properties it multiplied in warm watery conditions and to travel through the air in contaminated water droplets or mist since some of the victims never set foot inside the Bellevue Stratford hotel but were on the sidewalk in front of the hotel.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "researchers",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            14356,
+            14367
+          ],
+          "text": "researchers"
+        },
+        {
+          "entities": [
+            {
+              "text": "its",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            14387,
+            14390
+          ],
+          "text": "its"
+        }
+      ]
+    }
+  ]
+}

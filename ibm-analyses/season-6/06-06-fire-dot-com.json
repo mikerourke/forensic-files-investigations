@@ -1,0 +1,5466 @@
+{
+  "language": "en",
+  "usage": {
+    "features": 3,
+    "text_characters": 13151,
+    "text_units": 2
+  },
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Terry",
+      "relevance": 0.966033,
+      "confidence": 1,
+      "count": 26
+    },
+    {
+      "type": "Person",
+      "text": "Dr Hurst",
+      "relevance": 0.722846,
+      "confidence": 1,
+      "count": 11
+    },
+    {
+      "type": "Person",
+      "text": "Joshua",
+      "relevance": 0.390367,
+      "confidence": 1,
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Terry Henson",
+      "relevance": 0.350162,
+      "confidence": 1,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Britney",
+      "relevance": 0.345518,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Rodney",
+      "relevance": 0.333189,
+      "confidence": 1,
+      "count": 4
+    },
+    {
+      "type": "Location",
+      "text": "Tabor city",
+      "relevance": 0.324167,
+      "confidence": 0.833888,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "North Carolina",
+      "relevance": 0.285309,
+      "confidence": 1,
+      "count": 5
+    },
+    {
+      "type": "Quantity",
+      "text": "seventeen month",
+      "relevance": 0.284491,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "bureau of alcohol tobacco and firearms",
+      "relevance": 0.258086,
+      "confidence": 0.931312,
+      "count": 2,
+      "disambiguation": {
+        "name": "Bureau_of_Alcohol%2C_Tobacco%2C_Firearms_and_Explosives",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bureau_of_Alcohol%2C_Tobacco%2C_Firearms_and_Explosives",
+        "subtype": [
+          "GovernmentAgency"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Terry Hanson",
+      "relevance": 0.239984,
+      "confidence": 1,
+      "count": 3,
+      "disambiguation": {
+        "name": "Terry_Hanson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Terry_Hanson"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Bernice",
+      "relevance": 0.235095,
+      "confidence": 0.999998,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Betty Joshua Hanson",
+      "relevance": 0.226286,
+      "confidence": 0.994723,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Rodney Strickland",
+      "relevance": 0.224819,
+      "confidence": 0.999824,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "seventeen months",
+      "relevance": 0.195556,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "North Carolina state bureau of investigation",
+      "relevance": 0.182911,
+      "confidence": 0.589193,
+      "count": 1,
+      "disambiguation": {
+        "name": "North_Carolina_State_Bureau_of_Investigation",
+        "dbpedia_resource": "http://dbpedia.org/resource/North_Carolina_State_Bureau_of_Investigation"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Josh",
+      "relevance": 0.172198,
+      "confidence": 0.999993,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "fifty year",
+      "relevance": 0.151467,
+      "confidence": 0.96,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "sixty one days",
+      "relevance": 0.145969,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two hundred thousand dollar",
+      "relevance": 0.143454,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Toni K.",
+      "relevance": 0.120696,
+      "confidence": 0.871032,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Gerald Hurst",
+      "relevance": 0.11935,
+      "confidence": 0.90946,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Hanson",
+      "relevance": 0.110558,
+      "confidence": 0.95799,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Terri",
+      "relevance": 0.109208,
+      "confidence": 0.991347,
+      "count": 1
+    },
+    {
+      "type": "NaturalEvent",
+      "text": "hurricane Fran",
+      "relevance": 0.107895,
+      "confidence": 0.560909,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Ken Gibson",
+      "relevance": 0.0938,
+      "confidence": 0.977171,
+      "count": 1,
+      "disambiguation": {
+        "name": "Ken_Gibson_%28loyalist%29",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ken_Gibson_%28loyalist%29"
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "eight years",
+      "relevance": 0.08783,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "bureau of investigation",
+      "relevance": 0.083512,
+      "confidence": 0.834028,
+      "count": 1,
+      "disambiguation": {
+        "name": "Federal_Bureau_of_Investigation",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation",
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "four years",
+      "relevance": 0.07828,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Australia",
+      "relevance": 0.077371,
+      "confidence": 0.999791,
+      "count": 2,
+      "disambiguation": {
+        "name": "Australia",
+        "dbpedia_resource": "http://dbpedia.org/resource/Australia",
+        "subtype": [
+          "Country",
+          "GovernmentalJurisdiction",
+          "Kingdom"
+        ]
+      }
+    },
+    {
+      "type": "Quantity",
+      "text": "fifteen amps",
+      "relevance": 0.068733,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "thirty amp",
+      "relevance": 0.068111,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "America",
+      "relevance": 0.066668,
+      "confidence": 0.991471,
+      "count": 1,
+      "disambiguation": {
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States",
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ]
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Anna",
+      "relevance": 0.063069,
+      "confidence": 0.999386,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Britain",
+      "relevance": 0.056056,
+      "confidence": 0.999619,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Sydney",
+      "relevance": 0.049366,
+      "confidence": 0.998027,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "six weeks",
+      "relevance": 0.048338,
+      "confidence": 0.8,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Cambridge",
+      "relevance": 0.047323,
+      "confidence": 0.965074,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Austin",
+      "relevance": 0.044101,
+      "confidence": 0.999789,
+      "count": 1
+    },
+    {
+      "type": "NaturalEvent",
+      "text": "hurricane",
+      "relevance": 0.042698,
+      "confidence": 0.896388,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bob Joshua",
+      "relevance": 0.040329,
+      "confidence": 0.904358,
+      "count": 1,
+      "disambiguation": {
+        "name": "Bob_Joshua",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bob_Joshua"
+      }
+    },
+    {
+      "type": "Location",
+      "text": "Texas",
+      "relevance": 0.03699,
+      "confidence": 0.963574,
+      "count": 1,
+      "disambiguation": {
+        "name": "Republic_of_Texas",
+        "dbpedia_resource": "http://dbpedia.org/resource/Republic_of_Texas"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Jerry",
+      "relevance": 0.033457,
+      "confidence": 0.995729,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Gibson",
+      "relevance": 0.014302,
+      "confidence": 0.993769,
+      "count": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "/society/crime/personal offense/homicide",
+      "score": 0.838778
+    },
+    {
+      "label": "/law, govt and politics",
+      "score": 0.833453
+    },
+    {
+      "label": "/family and parenting/children",
+      "score": 0.772059
+    },
+    {
+      "label": "/society/crime/property crime/arson",
+      "score": 0.712794
+    },
+    {
+      "label": "/family and parenting/babies and toddlers/baby clothes",
+      "score": 0.610983
+    },
+    {
+      "label": "/society/crime/personal offense/assault",
+      "score": 0.6043
+    },
+    {
+      "label": "/society/dating",
+      "score": 0.595138
+    },
+    {
+      "label": "/business and industrial/business operations/business plans",
+      "score": 0.588567
+    },
+    {
+      "label": "/society/unrest and war",
+      "score": 0.557426
+    },
+    {
+      "label": "/style and fashion/body art",
+      "score": 0.54381
+    }
+  ],
+  "relations": [
+    {
+      "score": 0.978215,
+      "sentence": "In nineteen ninety six a fire broke out in a rental home in North Carolina.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            52,
+            56
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "North Carolina",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            60,
+            74
+          ],
+          "text": "North Carolina"
+        }
+      ]
+    },
+    {
+      "score": 0.329516,
+      "sentence": "This is Betty Joshua Hanson and his sister Britney lived with their mother Terri and her boyfriend Rodney Strickland.",
+      "type": "siblingOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Rodney Strickland",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            353,
+            356
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Britney",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            357,
+            363
+          ],
+          "text": "sister"
+        }
+      ]
+    },
+    {
+      "score": 0.388705,
+      "sentence": "Dr Hurst check local weather conditions and he discovered that hurricane Fran had passed through Tabor city North Carolina just six weeks before the fire.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "city",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7338,
+            7342
+          ],
+          "text": "city"
+        },
+        {
+          "entities": [
+            {
+              "text": "North Carolina",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7343,
+            7357
+          ],
+          "text": "North Carolina"
+        }
+      ]
+    },
+    {
+      "score": 0.998362,
+      "sentence": "Terry said the torrential rains from that hurricane leaked through the roof and caused water damage in the ceilings.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7390,
+            7395
+          ],
+          "text": "Terry"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7396,
+            7400
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.991765,
+      "sentence": "Terry told her is there in been some electrical problems on the night of the fire.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7592,
+            7597
+          ],
+          "text": "Terry"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7598,
+            7602
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.882437,
+      "sentence": "Terry told her is there in been some electrical problems on the night of the fire.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Fran",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7603,
+            7606
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7598,
+            7602
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.645298,
+      "sentence": "Terry told her is there in been some electrical problems on the night of the fire.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            7656,
+            7661
+          ],
+          "text": "night"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7598,
+            7602
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.450348,
+      "sentence": "Terry told her is there in been some electrical problems on the night of the fire.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            7656,
+            7661
+          ],
+          "text": "night"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            7669,
+            7673
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.397458,
+      "sentence": "Before she became aware of the fire.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Fran",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8030,
+            8033
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            8054,
+            8058
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.439017,
+      "sentence": "Dr Hurst in fire investigator Ken Gibson flew to North Carolina to inspect Terry's home first hand.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ken Gibson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8077,
+            8089
+          ],
+          "text": "investigator"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            8072,
+            8076
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.452882,
+      "sentence": "Dr Hurst in fire investigator Ken Gibson flew to North Carolina to inspect Terry's home first hand.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Ken Gibson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8090,
+            8100
+          ],
+          "text": "Ken Gibson"
+        },
+        {
+          "entities": [
+            {
+              "text": "North Carolina",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8109,
+            8123
+          ],
+          "text": "North Carolina"
+        }
+      ]
+    },
+    {
+      "score": 0.940382,
+      "sentence": "Dr Hurst in fire investigator Ken Gibson flew to North Carolina to inspect Terry's home first hand.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8143,
+            8147
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "North Carolina",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8109,
+            8123
+          ],
+          "text": "North Carolina"
+        }
+      ]
+    },
+    {
+      "score": 0.787286,
+      "sentence": "This is Betty Joshua Hanson and his sister Britney lived with their mother Terri and her boyfriend Rodney Strickland.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Rodney Strickland",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            353,
+            356
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            383,
+            388
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.346925,
+      "sentence": "Dr Hurst in fire investigator Ken Gibson flew to North Carolina to inspect Terry's home first hand.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8135,
+            8140
+          ],
+          "text": "Terry"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8143,
+            8147
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.961302,
+      "sentence": "They did not believe the fire started the way the government investigators said.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8221,
+            8234
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "Britain",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8210,
+            8220
+          ],
+          "text": "government"
+        }
+      ]
+    },
+    {
+      "score": 0.983917,
+      "sentence": "They did not believe the fire started the way the government investigators said.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8221,
+            8234
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8235,
+            8239
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.659821,
+      "sentence": "It'S really very simple innocent people are being put in prison.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8274,
+            8280
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8298,
+            8304
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.608839,
+      "sentence": "After Terry Hanson was charged with arson and murder in the death of a seventeen month old son Joshua.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8371,
+            8383
+          ],
+          "text": "Terry Hanson"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8388,
+            8395
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.883781,
+      "sentence": "After Terry Hanson was charged with arson and murder in the death of a seventeen month old son Joshua.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8371,
+            8383
+          ],
+          "text": "Terry Hanson"
+        },
+        {
+          "entities": [
+            {
+              "text": "arson",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            8401,
+            8406
+          ],
+          "text": "arson"
+        }
+      ]
+    },
+    {
+      "score": 0.84874,
+      "sentence": "After Terry Hanson was charged with arson and murder in the death of a seventeen month old son Joshua.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8371,
+            8383
+          ],
+          "text": "Terry Hanson"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            8411,
+            8417
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.297354,
+      "sentence": "After Terry Hanson was charged with arson and murder in the death of a seventeen month old son Joshua.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bob Joshua",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8456,
+            8459
+          ],
+          "text": "son"
+        },
+        {
+          "entities": [
+            {
+              "text": "seventeen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8436,
+            8445
+          ],
+          "text": "seventeen"
+        }
+      ]
+    },
+    {
+      "score": 0.969106,
+      "sentence": "Jerry first is one of these guys who kind of comes out of left field and actually save the day K.. The findings of the state bureau of investigation and the bureau of alcohol tobacco and firearms rested on the theory that the fire started on the floor of the bedroom closet.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bureau",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8655,
+            8661
+          ],
+          "text": "bureau"
+        },
+        {
+          "entities": [
+            {
+              "text": "state",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            8649,
+            8654
+          ],
+          "text": "state"
+        }
+      ]
+    },
+    {
+      "score": 0.482238,
+      "sentence": "Jerry first is one of these guys who kind of comes out of left field and actually save the day K.. The findings of the state bureau of investigation and the bureau of alcohol tobacco and firearms rested on the theory that the fire started on the floor of the bedroom closet.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bureau",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8655,
+            8661
+          ],
+          "text": "bureau"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8665,
+            8678
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.529496,
+      "sentence": "This is Betty Joshua Hanson and his sister Britney lived with their mother Terri and her boyfriend Rodney Strickland.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Britney",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            357,
+            363
+          ],
+          "text": "sister"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            383,
+            388
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.853121,
+      "sentence": "This is Betty Joshua Hanson and his sister Britney lived with their mother Terri and her boyfriend Rodney Strickland.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Britney",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            364,
+            371
+          ],
+          "text": "Britney"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            383,
+            388
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.390341,
+      "sentence": "Jerry first is one of these guys who kind of comes out of left field and actually save the day K.. The findings of the state bureau of investigation and the bureau of alcohol tobacco and firearms rested on the theory that the fire started on the floor of the bedroom closet.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bureau",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            8687,
+            8693
+          ],
+          "text": "bureau"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            8665,
+            8678
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.495302,
+      "sentence": "Jerry first is one of these guys who kind of comes out of left field and actually save the day K.. The findings of the state bureau of investigation and the bureau of alcohol tobacco and firearms rested on the theory that the fire started on the floor of the bedroom closet.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            8789,
+            8796
+          ],
+          "text": "bedroom"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            8756,
+            8760
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.990536,
+      "sentence": "And when the call is couldn't be found they concluded the fire had been deliberately set.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8844,
+            8848
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "concluded",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            8849,
+            8858
+          ],
+          "text": "concluded"
+        }
+      ]
+    },
+    {
+      "score": 0.604264,
+      "sentence": "What you own is fire investigator.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigator",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            8916,
+            8928
+          ],
+          "text": "investigator"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            8911,
+            8915
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.908596,
+      "sentence": "The cable in the attic fed the outlet used by the fifteen hundred what space heater and the curling iron.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "outlet",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            9954,
+            9960
+          ],
+          "text": "outlet"
+        },
+        {
+          "entities": [
+            {
+              "text": "hundred",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9981,
+            9988
+          ],
+          "text": "hundred"
+        }
+      ]
+    },
+    {
+      "score": 0.873078,
+      "sentence": "The cable in the attic fed the outlet used by the fifteen hundred what space heater and the curling iron.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "fifteen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            9973,
+            9980
+          ],
+          "text": "fifteen"
+        },
+        {
+          "entities": [
+            {
+              "text": "hundred",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            9981,
+            9988
+          ],
+          "text": "hundred"
+        }
+      ]
+    },
+    {
+      "score": 0.269608,
+      "sentence": "An origin there because it could not be disproven scientifically and we had a connection between the differences in what was done that night what had been done before that gives you a very strong presumptive case for an accidental fire Dr Hurst believes several factors created the chain of events that culminated with the fatal fire.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Gerald Hurst",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10309,
+            10311
+          ],
+          "text": "Dr"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            10304,
+            10308
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.514425,
+      "sentence": "Dr Hurst believes that when Terry plugged in the fifteen hundred watch space heater that night it heated the electrical wires in the attic which are.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Gerald Hurst",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10787,
+            10792
+          ],
+          "text": "Hurst"
+        },
+        {
+          "entities": [
+            {
+              "text": "hundred",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10841,
+            10848
+          ],
+          "text": "hundred"
+        }
+      ]
+    },
+    {
+      "score": 0.893104,
+      "sentence": "Dr Hurst believes that when Terry plugged in the fifteen hundred watch space heater that night it heated the electrical wires in the attic which are.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "fifteen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            10833,
+            10840
+          ],
+          "text": "fifteen"
+        },
+        {
+          "entities": [
+            {
+              "text": "hundred",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10841,
+            10848
+          ],
+          "text": "hundred"
+        }
+      ]
+    },
+    {
+      "score": 0.822277,
+      "sentence": "Dr Hurst believes that when Terry plugged in the fifteen hundred watch space heater that night it heated the electrical wires in the attic which are.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "night it",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            10873,
+            10881
+          ],
+          "text": "night it"
+        },
+        {
+          "entities": [
+            {
+              "text": "hundred",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            10841,
+            10848
+          ],
+          "text": "hundred"
+        }
+      ]
+    },
+    {
+      "score": 0.631443,
+      "sentence": "This is Betty Joshua Hanson and his sister Britney lived with their mother Terri and her boyfriend Rodney Strickland.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            389,
+            395
+          ],
+          "text": "mother"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            383,
+            388
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.898501,
+      "sentence": "I wouldn't say away with a an already well built fire that suddenly breaks through produces a Holocaust no time at all the fiery debris from the attic fell through the hole in the ceiling on to the floor of the closet and did not start on the floor and burned up words as local investigators suspected.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Gerald Hurst",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11045,
+            11046
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11056,
+            11059
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.531953,
+      "sentence": "Can Gibson believes that the fire officials rush to judgment so anything that doesn't fall into the theory that that this was part of LRC started the fire to them it's not evidence it's just something that Sir.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11382,
+            11391
+          ],
+          "text": "officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            11377,
+            11381
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.31361,
+      "sentence": "Can Gibson believes that the fire officials rush to judgment so anything that doesn't fall into the theory that that this was part of LRC started the fire to them it's not evidence it's just something that Sir.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11506,
+            11510
+          ],
+          "text": "them"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            11498,
+            11502
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.960739,
+      "sentence": "Dr Hurst sent the local prosecutor his critique of the government's investigation which said their conclusions were based on junk science.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Britain",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            11614,
+            11624
+          ],
+          "text": "government"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11627,
+            11640
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.714713,
+      "sentence": "Dr Hurst sent the local prosecutor his critique of the government's investigation which said their conclusions were based on junk science.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            11647,
+            11651
+          ],
+          "text": "said"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11627,
+            11640
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.784782,
+      "sentence": "To his credit the district attorney study Dr Hurst's report conducted his own investigation and dropped the charges against Terry Henson.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "attorney",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11976,
+            11984
+          ],
+          "text": "attorney"
+        },
+        {
+          "entities": [
+            {
+              "text": "district",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            11967,
+            11975
+          ],
+          "text": "district"
+        }
+      ]
+    },
+    {
+      "score": 0.726338,
+      "sentence": "To his credit the district attorney study Dr Hurst's report conducted his own investigation and dropped the charges against Terry Henson.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12073,
+            12085
+          ],
+          "text": "Terry Henson"
+        },
+        {
+          "entities": [
+            {
+              "text": "charges",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12057,
+            12064
+          ],
+          "text": "charges"
+        }
+      ]
+    },
+    {
+      "score": 0.533891,
+      "sentence": "She had lost her home her child and nearly her freedom because of an inaccurate conclusion drawn from faulty science.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "child",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12133,
+            12136
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12137,
+            12141
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.50373,
+      "sentence": "She had lost her home her child and nearly her freedom because of an inaccurate conclusion drawn from faulty science.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "her",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12142,
+            12145
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "child",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12146,
+            12151
+          ],
+          "text": "child"
+        }
+      ]
+    },
+    {
+      "score": 0.030529,
+      "sentence": "The fire investigation in general is the swamp of forensic science in fact many forensic scientist refused to recognize arson investigation as a sub field of forensic science I think Terry story in many respects is heroic she was not a very well educated women although she's extremely intelligent and she had just enough computer studies at a community college to know that if she was going to be under house arrest she needed some way where she could put herself out into the world even if it was only through her computer and email there's people sitting in prison that have gone through what I've gone through but they didn't have the help they don't know how to get it.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12247,
+            12260
+          ],
+          "text": "investigation"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            12242,
+            12246
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.995653,
+      "sentence": "The fire investigation in general is the swamp of forensic science in fact many forensic scientist refused to recognize arson investigation as a sub field of forensic science I think Terry story in many respects is heroic she was not a very well educated women although she's extremely intelligent and she had just enough computer studies at a community college to know that if she was going to be under house arrest she needed some way where she could put herself out into the world even if it was only through her computer and email there's people sitting in prison that have gone through what I've gone through but they didn't have the help they don't know how to get it.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "scientist",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12327,
+            12336
+          ],
+          "text": "scientist"
+        },
+        {
+          "entities": [
+            {
+              "text": "refused",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            12337,
+            12344
+          ],
+          "text": "refused"
+        }
+      ]
+    },
+    {
+      "score": 0.77489,
+      "sentence": "Terry'S mother Bernice came over to the house that night for dinner I was there when she took Britney and Josh upstairs to bed.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bernice",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            611,
+            618
+          ],
+          "text": "Bernice"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            636,
+            641
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.719684,
+      "sentence": "After Bernice left Terry plugged in a space heater to heat the home since it was the first cold night to fall.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bernice",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            852,
+            859
+          ],
+          "text": "Bernice"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            909,
+            913
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.356279,
+      "sentence": "The fire investigation in general is the swamp of forensic science in fact many forensic scientist refused to recognize arson investigation as a sub field of forensic science I think Terry story in many respects is heroic she was not a very well educated women although she's extremely intelligent and she had just enough computer studies at a community college to know that if she was going to be under house arrest she needed some way where she could put herself out into the world even if it was only through her computer and email there's people sitting in prison that have gone through what I've gone through but they didn't have the help they don't know how to get it.",
+      "type": "affiliatedWith",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "district",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            12592,
+            12599
+          ],
+          "text": "college"
+        },
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12582,
+            12591
+          ],
+          "text": "community"
+        }
+      ]
+    },
+    {
+      "score": 0.628062,
+      "sentence": "The fire investigation in general is the swamp of forensic science in fact many forensic scientist refused to recognize arson investigation as a sub field of forensic science I think Terry story in many respects is heroic she was not a very well educated women although she's extremely intelligent and she had just enough computer studies at a community college to know that if she was going to be under house arrest she needed some way where she could put herself out into the world even if it was only through her computer and email there's people sitting in prison that have gone through what I've gone through but they didn't have the help they don't know how to get it.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "child",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12616,
+            12619
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "house arrest",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            12642,
+            12654
+          ],
+          "text": "house arrest"
+        }
+      ]
+    },
+    {
+      "score": 0.90917,
+      "sentence": "The fire investigation in general is the swamp of forensic science in fact many forensic scientist refused to recognize arson investigation as a sub field of forensic science I think Terry story in many respects is heroic she was not a very well educated women although she's extremely intelligent and she had just enough computer studies at a community college to know that if she was going to be under house arrest she needed some way where she could put herself out into the world even if it was only through her computer and email there's people sitting in prison that have gone through what I've gone through but they didn't have the help they don't know how to get it.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "people",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12781,
+            12787
+          ],
+          "text": "people"
+        },
+        {
+          "entities": [
+            {
+              "text": "prison",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            12799,
+            12805
+          ],
+          "text": "prison"
+        }
+      ]
+    },
+    {
+      "score": 0.9816,
+      "sentence": "And as it was going upstairs to bed the last words I heard Josh say is I love you.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bob Joshua",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            783,
+            787
+          ],
+          "text": "Josh"
+        },
+        {
+          "entities": [
+            {
+              "text": "say",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            788,
+            791
+          ],
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "score": 0.541105,
+      "sentence": "After Bernice left Terry plugged in a space heater to heat the home since it was the first cold night to fall.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            865,
+            870
+          ],
+          "text": "Terry"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            909,
+            913
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.725587,
+      "sentence": "She fell asleep on the sofa in the living room around midnight.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terri",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            957,
+            960
+          ],
+          "text": "She"
+        },
+        {
+          "entities": [
+            {
+              "text": "living room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            992,
+            1003
+          ],
+          "text": "living room"
+        }
+      ]
+    },
+    {
+      "score": 0.811814,
+      "sentence": "At four AM Terry was awakened by screams from our children.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1071,
+            1079
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "our",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1067,
+            1070
+          ],
+          "text": "our"
+        }
+      ]
+    },
+    {
+      "score": 0.385757,
+      "sentence": "The police arrived first and an officer also tried to rescue the children he too was unsuccessful.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officer",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1254,
+            1261
+          ],
+          "text": "officer"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1226,
+            1232
+          ],
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "score": 0.494271,
+      "sentence": "Tabor city North Carolina small rolls sweet potato farming community in the western part of the state and home to the Hanson family.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tabor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            188,
+            193
+          ],
+          "text": "Tabor"
+        },
+        {
+          "entities": [
+            {
+              "text": "state",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            194,
+            198
+          ],
+          "text": "city"
+        }
+      ]
+    },
+    {
+      "score": 0.495705,
+      "sentence": "By the time firemen arrive the up stairs was almost entirely in flames the children were rushed to the hospital both in critical condition.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1469,
+            1477
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "hospital",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            1497,
+            1505
+          ],
+          "text": "hospital"
+        }
+      ]
+    },
+    {
+      "score": 0.480434,
+      "sentence": "When the fire was extinguished local authorities found evidence that the fire started in the children's bedroom closet.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1751,
+            1759
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            1731,
+            1735
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.894961,
+      "sentence": "When the fire was extinguished local authorities found evidence that the fire started in the children's bedroom closet.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            1762,
+            1769
+          ],
+          "text": "bedroom"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            1731,
+            1735
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.502496,
+      "sentence": "But investigators were most suspicious of Terry saying she was sleeping on the sofa downstairs when the fire broke out instead of in her bedroom upstairs.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3782,
+            3789
+          ],
+          "text": "bedroom"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            3749,
+            3753
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.717031,
+      "sentence": "At first they thought the Britney might have been playing with matches but when they looked into Terry Henson's background they uncovered information which made them suspect it might have been murdered.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Britney",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1804,
+            1811
+          ],
+          "text": "Britney"
+        },
+        {
+          "entities": [
+            {
+              "text": "matches",
+              "type": "SportingEvent"
+            }
+          ],
+          "location": [
+            1841,
+            1848
+          ],
+          "text": "matches"
+        }
+      ]
+    },
+    {
+      "score": 0.760997,
+      "sentence": "In center now eight years old remembers the horrible fire that burned through her home four years earlier.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2063,
+            2067
+          ],
+          "text": "home"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            2034,
+            2038
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.898663,
+      "sentence": "In center now eight years old remembers the horrible fire that burned through her home four years earlier.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "four years earlier",
+              "type": "Date"
+            }
+          ],
+          "location": [
+            2068,
+            2086
+          ],
+          "text": "four years earlier"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            2034,
+            2038
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.695044,
+      "sentence": "In center now eight years old remembers the horrible fire that burned through her home four years earlier.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Britney",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2059,
+            2062
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2063,
+            2067
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.532275,
+      "sentence": "For younger brother Joshua just seventeen months old died in the fire.",
+      "type": "diedOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bob Joshua",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2185,
+            2191
+          ],
+          "text": "Joshua"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            2230,
+            2234
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.940511,
+      "sentence": "For younger brother Joshua just seventeen months old died in the fire.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "seventeen",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2197,
+            2206
+          ],
+          "text": "seventeen"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            2230,
+            2234
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.617332,
+      "sentence": "With any kind of house fire officials tried to identify the calls.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2253,
+            2258
+          ],
+          "text": "house"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            2259,
+            2263
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.357835,
+      "sentence": "Tabor city North Carolina small rolls sweet potato farming community in the western part of the state and home to the Hanson family.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "state",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            194,
+            198
+          ],
+          "text": "city"
+        },
+        {
+          "entities": [
+            {
+              "text": "North Carolina",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            199,
+            213
+          ],
+          "text": "North Carolina"
+        }
+      ]
+    },
+    {
+      "score": 0.38773,
+      "sentence": "With any kind of house fire officials tried to identify the calls.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2264,
+            2273
+          ],
+          "text": "officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2253,
+            2258
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.616541,
+      "sentence": "With any kind of house fire officials tried to identify the calls.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "officials",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2264,
+            2273
+          ],
+          "text": "officials"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            2259,
+            2263
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.813216,
+      "sentence": "Generally a fire burns longest at or near its point of origin so the room with the most damage is usually where the fire started.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "living room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2372,
+            2376
+          ],
+          "text": "room"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            2315,
+            2319
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.659759,
+      "sentence": "Generally a fire burns longest at or near its point of origin so the room with the most damage is usually where the fire started.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "living room",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2372,
+            2376
+          ],
+          "text": "room"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            2419,
+            2423
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.494354,
+      "sentence": "Most of the damage was in Joshua's bedroom which was at the top of the stairs.",
+      "type": "ownerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bob Joshua",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2459,
+            2465
+          ],
+          "text": "Joshua"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2468,
+            2475
+          ],
+          "text": "bedroom"
+        }
+      ]
+    },
+    {
+      "score": 0.666344,
+      "sentence": "Investigators found a V. shaped pattern on the wall in Joshua's bedroom closet.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bob Joshua",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2567,
+            2573
+          ],
+          "text": "Joshua"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            2576,
+            2583
+          ],
+          "text": "bedroom"
+        }
+      ]
+    },
+    {
+      "score": 0.639785,
+      "sentence": "Those sparks touch the carbon track which ignited the paper insulation just the Bob Joshua was bedroom closet.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bob Joshua",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11014,
+            11024
+          ],
+          "text": "Bob Joshua"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            11029,
+            11036
+          ],
+          "text": "bedroom"
+        }
+      ]
+    },
+    {
+      "score": 0.950126,
+      "sentence": "This discovery told investigators that the fire started on the closet floor and traveled up to the attic.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2687,
+            2700
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2682,
+            2686
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.635711,
+      "sentence": "A melted compara lexical wire was hanging from the attic which investigators concluded had been burned in the fire and was not because of it.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2836,
+            2849
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            2883,
+            2887
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.462021,
+      "sentence": "Special agents from the North Carolina state bureau of investigation and the federal bureau of alcohol tobacco and firearms assisted in the investigation they eliminated the nearby electrical outlet as the cause.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "North Carolina",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2939,
+            2953
+          ],
+          "text": "North Carolina"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            2970,
+            2983
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.750769,
+      "sentence": "Special agents from the North Carolina state bureau of investigation and the federal bureau of alcohol tobacco and firearms assisted in the investigation they eliminated the nearby electrical outlet as the cause.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Special agents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3069,
+            3073
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "eliminated",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            3074,
+            3084
+          ],
+          "text": "eliminated"
+        }
+      ]
+    },
+    {
+      "score": 0.664663,
+      "sentence": "And when they couldn't determine how the fire started they concluded that someone had set it intentionally with a match or lighter.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Special agents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3137,
+            3141
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            3169,
+            3173
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.58537,
+      "sentence": "Tabor city North Carolina small rolls sweet potato farming community in the western part of the state and home to the Hanson family.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            247,
+            256
+          ],
+          "text": "community"
+        },
+        {
+          "entities": [
+            {
+              "text": "western part",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            264,
+            276
+          ],
+          "text": "western part"
+        }
+      ]
+    },
+    {
+      "score": 0.995765,
+      "sentence": "And when they couldn't determine how the fire started they concluded that someone had set it intentionally with a match or lighter.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Special agents",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3182,
+            3186
+          ],
+          "text": "they"
+        },
+        {
+          "entities": [
+            {
+              "text": "concluded",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3187,
+            3196
+          ],
+          "text": "concluded"
+        }
+      ]
+    },
+    {
+      "score": 0.59412,
+      "sentence": "And when they couldn't determine how the fire started they concluded that someone had set it intentionally with a match or lighter.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "someone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3202,
+            3209
+          ],
+          "text": "someone"
+        },
+        {
+          "entities": [
+            {
+              "text": "match",
+              "type": "SportingEvent"
+            }
+          ],
+          "location": [
+            3242,
+            3247
+          ],
+          "text": "match"
+        }
+      ]
+    },
+    {
+      "score": 0.777368,
+      "sentence": "I was told.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "I",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3260,
+            3261
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3266,
+            3270
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.866388,
+      "sentence": "Anyone who had been in the house that evening what happened.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Anyone",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3279,
+            3282
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3299,
+            3304
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.909939,
+      "sentence": "Investigators first talk to bridge to see if she had been playing with matches that night they were satisfied she had not.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3333,
+            3346
+          ],
+          "text": "Investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "talk",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            3353,
+            3357
+          ],
+          "text": "talk"
+        }
+      ]
+    },
+    {
+      "score": 0.519716,
+      "sentence": "Investigators first talk to bridge to see if she had been playing with matches that night they were satisfied she had not.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "she",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3378,
+            3381
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "talk",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            3353,
+            3357
+          ],
+          "text": "talk"
+        }
+      ]
+    },
+    {
+      "score": 0.793911,
+      "sentence": "Investigators first talk to bridge to see if she had been playing with matches that night they were satisfied she had not.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "that night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            3412,
+            3422
+          ],
+          "text": "that night"
+        },
+        {
+          "entities": [
+            {
+              "text": "talk",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            3353,
+            3357
+          ],
+          "text": "talk"
+        }
+      ]
+    },
+    {
+      "score": 0.948222,
+      "sentence": "Investigators first talk to bridge to see if she had been playing with matches that night they were satisfied she had not.",
+      "type": "participantIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "she",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3378,
+            3381
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "matches",
+              "type": "SportingEvent"
+            }
+          ],
+          "location": [
+            3404,
+            3411
+          ],
+          "text": "matches"
+        }
+      ]
+    },
+    {
+      "score": 0.477992,
+      "sentence": "Investigators first talk to bridge to see if she had been playing with matches that night they were satisfied she had not.",
+      "type": "timeOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "that night",
+              "type": "Time"
+            }
+          ],
+          "location": [
+            3412,
+            3422
+          ],
+          "text": "that night"
+        },
+        {
+          "entities": [
+            {
+              "text": "matches",
+              "type": "SportingEvent"
+            }
+          ],
+          "location": [
+            3404,
+            3411
+          ],
+          "text": "matches"
+        }
+      ]
+    },
+    {
+      "score": 0.838131,
+      "sentence": "Rodney had plenty of alibis he was back in fair bluff with his son but in the night all the people saw.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Rodney Strickland",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3600,
+            3603
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3604,
+            3607
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.498056,
+      "sentence": "Tabor city North Carolina small rolls sweet potato farming community in the western part of the state and home to the Hanson family.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            247,
+            256
+          ],
+          "text": "community"
+        },
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            313,
+            319
+          ],
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "score": 0.507712,
+      "sentence": "But investigators were most suspicious of Terry saying she was sleeping on the sofa downstairs when the fire broke out instead of in her bedroom upstairs.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3649,
+            3662
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "saying",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            3693,
+            3699
+          ],
+          "text": "saying"
+        }
+      ]
+    },
+    {
+      "score": 0.389028,
+      "sentence": "But investigators were most suspicious of Terry saying she was sleeping on the sofa downstairs when the fire broke out instead of in her bedroom upstairs.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "she",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            3778,
+            3781
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "bedroom",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            3782,
+            3789
+          ],
+          "text": "bedroom"
+        }
+      ]
+    },
+    {
+      "score": 0.261228,
+      "sentence": "The only reason Terry let those children though was because she did a lot of an active well the best form and at that time she could not give them anything not even a home.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "she",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4025,
+            4028
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "home",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            4069,
+            4073
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.595534,
+      "sentence": "She didn't have a job she didn't have a car she didn't have no money should have anything.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "she",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4097,
+            4100
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            4115,
+            4118
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.499906,
+      "sentence": "She didn't have a job she didn't have a car she didn't have no money should have anything.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "she",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4119,
+            4122
+          ],
+          "text": "she"
+        },
+        {
+          "entities": [
+            {
+              "text": "car",
+              "type": "Vehicle"
+            }
+          ],
+          "location": [
+            4115,
+            4118
+          ],
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "score": 0.658895,
+      "sentence": "Witnesses also told police that at the fire scene Terry behaved suspiciously.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Witnesses",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4273,
+            4282
+          ],
+          "text": "Witnesses"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4288,
+            4292
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.978406,
+      "sentence": "Witnesses also told police that at the fire scene Terry behaved suspiciously.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "fire department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4293,
+            4299
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4288,
+            4292
+          ],
+          "text": "told"
+        }
+      ]
+    },
+    {
+      "score": 0.450061,
+      "sentence": "Witnesses also told police that at the fire scene Terry behaved suspiciously.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "fire department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4293,
+            4299
+          ],
+          "text": "police"
+        },
+        {
+          "entities": [
+            {
+              "text": "western part",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            4317,
+            4322
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.303983,
+      "sentence": "Witnesses also told police that at the fire scene Terry behaved suspiciously.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            4312,
+            4316
+          ],
+          "text": "fire"
+        },
+        {
+          "entities": [
+            {
+              "text": "western part",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            4317,
+            4322
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.390883,
+      "sentence": "Witnesses also told police that at the fire scene Terry behaved suspiciously.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4323,
+            4328
+          ],
+          "text": "Terry"
+        },
+        {
+          "entities": [
+            {
+              "text": "western part",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            4317,
+            4322
+          ],
+          "text": "scene"
+        }
+      ]
+    },
+    {
+      "score": 0.835817,
+      "sentence": "Anna and her boyfriend said that she would sleep on the couch it just didn't think Terry was acting the way a mother would act if there if a child had been killed in a fire was just something wrong to them about it.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "boyfriend",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4364,
+            4373
+          ],
+          "text": "boyfriend"
+        },
+        {
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4374,
+            4378
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.78495,
+      "sentence": "Tabor city North Carolina small rolls sweet potato farming community in the western part of the state and home to the Hanson family.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "western part",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            264,
+            276
+          ],
+          "text": "western part"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            294,
+            298
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.593311,
+      "sentence": "Anna and her boyfriend said that she would sleep on the couch it just didn't think Terry was acting the way a mother would act if there if a child had been killed in a fire was just something wrong to them about it.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4434,
+            4439
+          ],
+          "text": "Terry"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4552,
+            4556
+          ],
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "score": 0.608785,
+      "sentence": "Anna and her boyfriend said that she would sleep on the couch it just didn't think Terry was acting the way a mother would act if there if a child had been killed in a fire was just something wrong to them about it.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "child",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4492,
+            4497
+          ],
+          "text": "child"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            4519,
+            4523
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.997603,
+      "sentence": "Terry denied having anything to do with setting the fire.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4567,
+            4572
+          ],
+          "text": "Terry"
+        },
+        {
+          "entities": [
+            {
+              "text": "denied",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            4573,
+            4579
+          ],
+          "text": "denied"
+        }
+      ]
+    },
+    {
+      "score": 0.966548,
+      "sentence": "Police arrested Terry Hanson and charged her with murder attempted murder and arson.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "fire department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4718,
+            4724
+          ],
+          "text": "Police"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrested",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            4725,
+            4733
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.73981,
+      "sentence": "Police arrested Terry Hanson and charged her with murder attempted murder and arson.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "fire department",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            4718,
+            4724
+          ],
+          "text": "Police"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            4751,
+            4758
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.992971,
+      "sentence": "Police arrested Terry Hanson and charged her with murder attempted murder and arson.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4734,
+            4746
+          ],
+          "text": "Terry Hanson"
+        },
+        {
+          "entities": [
+            {
+              "text": "arrested",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            4725,
+            4733
+          ],
+          "text": "arrested"
+        }
+      ]
+    },
+    {
+      "score": 0.909501,
+      "sentence": "Police arrested Terry Hanson and charged her with murder attempted murder and arson.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Anna",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4759,
+            4762
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "charged",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            4751,
+            4758
+          ],
+          "text": "charged"
+        }
+      ]
+    },
+    {
+      "score": 0.488679,
+      "sentence": "Police arrested Terry Hanson and charged her with murder attempted murder and arson.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Anna",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4759,
+            4762
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4768,
+            4774
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.691585,
+      "sentence": "Police arrested Terry Hanson and charged her with murder attempted murder and arson.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Anna",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4759,
+            4762
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "arson",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            4796,
+            4801
+          ],
+          "text": "arson"
+        }
+      ]
+    },
+    {
+      "score": 0.568747,
+      "sentence": "And her nightmare continued when her own lawyer hired an independent investigator who agreed with the prosecution that the fire had been intentionally set.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "independent investigator",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4844,
+            4850
+          ],
+          "text": "lawyer"
+        },
+        {
+          "entities": [
+            {
+              "text": "hired",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            4851,
+            4856
+          ],
+          "text": "hired"
+        }
+      ]
+    },
+    {
+      "score": 0.431576,
+      "sentence": "Tabor city North Carolina small rolls sweet potato farming community in the western part of the state and home to the Hanson family.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            313,
+            319
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            294,
+            298
+          ],
+          "text": "home"
+        }
+      ]
+    },
+    {
+      "score": 0.629664,
+      "sentence": "And her nightmare continued when her own lawyer hired an independent investigator who agreed with the prosecution that the fire had been intentionally set.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "independent investigator",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4860,
+            4884
+          ],
+          "text": "independent investigator"
+        },
+        {
+          "entities": [
+            {
+              "text": "hired",
+              "type": "EventPersonnel"
+            }
+          ],
+          "location": [
+            4851,
+            4856
+          ],
+          "text": "hired"
+        }
+      ]
+    },
+    {
+      "score": 0.635707,
+      "sentence": "And her nightmare continued when her own lawyer hired an independent investigator who agreed with the prosecution that the fire had been intentionally set.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "independent investigator",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            4885,
+            4888
+          ],
+          "text": "who"
+        },
+        {
+          "entities": [
+            {
+              "text": "prosecution",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            4905,
+            4916
+          ],
+          "text": "prosecution"
+        }
+      ]
+    },
+    {
+      "score": 0.470093,
+      "sentence": "Terry could face the death penalty.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5083,
+            5088
+          ],
+          "text": "Terry"
+        },
+        {
+          "entities": [
+            {
+              "text": "death penalty",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            5104,
+            5117
+          ],
+          "text": "death penalty"
+        }
+      ]
+    },
+    {
+      "score": 0.575396,
+      "sentence": "For sixty one days Terry Henson sat in a North Carolina jail cell waiting to be tried for murder and arson.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5138,
+            5150
+          ],
+          "text": "Terry Henson"
+        },
+        {
+          "entities": [
+            {
+              "text": "jail",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5175,
+            5179
+          ],
+          "text": "jail"
+        }
+      ]
+    },
+    {
+      "score": 0.746826,
+      "sentence": "For sixty one days Terry Henson sat in a North Carolina jail cell waiting to be tried for murder and arson.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5138,
+            5150
+          ],
+          "text": "Terry Henson"
+        },
+        {
+          "entities": [
+            {
+              "text": "murder",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5209,
+            5215
+          ],
+          "text": "murder"
+        }
+      ]
+    },
+    {
+      "score": 0.716324,
+      "sentence": "For sixty one days Terry Henson sat in a North Carolina jail cell waiting to be tried for murder and arson.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5138,
+            5150
+          ],
+          "text": "Terry Henson"
+        },
+        {
+          "entities": [
+            {
+              "text": "arson",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            5220,
+            5225
+          ],
+          "text": "arson"
+        }
+      ]
+    },
+    {
+      "score": 0.968678,
+      "sentence": "For sixty one days Terry Henson sat in a North Carolina jail cell waiting to be tried for murder and arson.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "jail",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            5175,
+            5179
+          ],
+          "text": "jail"
+        },
+        {
+          "entities": [
+            {
+              "text": "North Carolina",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5160,
+            5174
+          ],
+          "text": "North Carolina"
+        }
+      ]
+    },
+    {
+      "score": 0.820164,
+      "sentence": "Eventually Terry was released on a two hundred thousand dollar bond but remained under house arrest and with no one else to turn to.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5238,
+            5243
+          ],
+          "text": "Terry"
+        },
+        {
+          "entities": [
+            {
+              "text": "released",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            5248,
+            5256
+          ],
+          "text": "released"
+        }
+      ]
+    },
+    {
+      "score": 0.76751,
+      "sentence": "Eventually Terry was released on a two hundred thousand dollar bond but remained under house arrest and with no one else to turn to.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5238,
+            5243
+          ],
+          "text": "Terry"
+        },
+        {
+          "entities": [
+            {
+              "text": "house arrest",
+              "type": "EventCustody"
+            }
+          ],
+          "location": [
+            5314,
+            5326
+          ],
+          "text": "house arrest"
+        }
+      ]
+    },
+    {
+      "score": 0.761331,
+      "sentence": "Terry conducted her own research into the fire that killed her son Joshua.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Anna",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5419,
+            5422
+          ],
+          "text": "her"
+        },
+        {
+          "entities": [
+            {
+              "text": "Bob Joshua",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5423,
+            5426
+          ],
+          "text": "son"
+        }
+      ]
+    },
+    {
+      "score": 0.598258,
+      "sentence": "Tabor city North Carolina small rolls sweet potato farming community in the western part of the state and home to the Hanson family.",
+      "type": "employedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "family",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            313,
+            319
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "text": "Hanson",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            306,
+            312
+          ],
+          "text": "Hanson"
+        }
+      ]
+    },
+    {
+      "score": 0.737459,
+      "sentence": "Something that would help my case I didn't understand the internet as far as there being actually people out there that you can talk to wasn't sure how to talk to him about it no.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bob Joshua",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5710,
+            5713
+          ],
+          "text": "you"
+        },
+        {
+          "entities": [
+            {
+              "text": "talk",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5718,
+            5722
+          ],
+          "text": "talk"
+        }
+      ]
+    },
+    {
+      "score": 0.715302,
+      "sentence": "Something that would help my case I didn't understand the internet as far as there being actually people out there that you can talk to wasn't sure how to talk to him about it no.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Bob Joshua",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5753,
+            5756
+          ],
+          "text": "him"
+        },
+        {
+          "entities": [
+            {
+              "text": "talk",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            5745,
+            5749
+          ],
+          "text": "talk"
+        }
+      ]
+    },
+    {
+      "score": 0.499197,
+      "sentence": "It was slow going until Terry found an article written by a fire investigator in Sydney Australia.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5835,
+            5847
+          ],
+          "text": "investigator"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            5830,
+            5834
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.711815,
+      "sentence": "It was slow going until Terry found an article written by a fire investigator in Sydney Australia.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5835,
+            5847
+          ],
+          "text": "investigator"
+        },
+        {
+          "entities": [
+            {
+              "text": "Sydney Australia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            5851,
+            5867
+          ],
+          "text": "Sydney Australia"
+        }
+      ]
+    },
+    {
+      "score": 0.504218,
+      "sentence": "Okay the article describes common mistakes investigators make when determining the cause of a suspicious fire.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            5912,
+            5925
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            5974,
+            5978
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.574937,
+      "sentence": "The article recommends that fire investigators have a scientific or chemical background.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "investigators",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6193,
+            6206
+          ],
+          "text": "investigators"
+        },
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            6188,
+            6192
+          ],
+          "text": "fire"
+        }
+      ]
+    },
+    {
+      "score": 0.050551,
+      "sentence": "Specifically discussed the role of bias in fire investigation.",
+      "type": "partOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "fire",
+              "type": "NaturalDisaster"
+            }
+          ],
+          "location": [
+            6023,
+            6027
+          ],
+          "text": "fire"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6028,
+            6041
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.438805,
+      "sentence": "I clicked on it and it's you know like a blank page pops up read apartment so I just assumed okay well I can send this to him and I still don't understand how he would get back to me.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6460,
+            6461
+          ],
+          "text": "I"
+        },
+        {
+          "entities": [
+            {
+              "text": "apartment",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6447,
+            6456
+          ],
+          "text": "apartment"
+        }
+      ]
+    },
+    {
+      "score": 0.643215,
+      "sentence": "The author Toni K. did respond but since he lived in Australia he recommended doctor Gerald Hurst in Austin Texas Dr Hurst earned his PhD in chemistry from Cambridge and he agreed to look into Terry's case.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6607,
+            6609
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "Australia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6619,
+            6628
+          ],
+          "text": "Australia"
+        }
+      ]
+    },
+    {
+      "score": 0.559018,
+      "sentence": "The author Toni K. did respond but since he lived in Australia he recommended doctor Gerald Hurst in Austin Texas Dr Hurst earned his PhD in chemistry from Cambridge and he agreed to look into Terry's case.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6607,
+            6609
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "recommended",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6632,
+            6643
+          ],
+          "text": "recommended"
+        }
+      ]
+    },
+    {
+      "score": 0.994902,
+      "sentence": "The author Toni K. did respond but since he lived in Australia he recommended doctor Gerald Hurst in Austin Texas Dr Hurst earned his PhD in chemistry from Cambridge and he agreed to look into Terry's case.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6629,
+            6631
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "recommended",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6632,
+            6643
+          ],
+          "text": "recommended"
+        }
+      ]
+    },
+    {
+      "score": 0.632772,
+      "sentence": "The author Toni K. did respond but since he lived in Australia he recommended doctor Gerald Hurst in Austin Texas Dr Hurst earned his PhD in chemistry from Cambridge and he agreed to look into Terry's case.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Gerald Hurst",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6644,
+            6650
+          ],
+          "text": "doctor"
+        },
+        {
+          "entities": [
+            {
+              "text": "recommended",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6632,
+            6643
+          ],
+          "text": "recommended"
+        }
+      ]
+    },
+    {
+      "score": 0.875493,
+      "sentence": "This is Betty Joshua Hanson and his sister Britney lived with their mother Terri and her boyfriend Rodney Strickland.",
+      "type": "partOfMany",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Betty Joshua Hanson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            329,
+            348
+          ],
+          "text": "Betty Joshua Hanson"
+        },
+        {
+          "entities": [
+            {
+              "text": "their",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            383,
+            388
+          ],
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "score": 0.553324,
+      "sentence": "The author Toni K. did respond but since he lived in Australia he recommended doctor Gerald Hurst in Austin Texas Dr Hurst earned his PhD in chemistry from Cambridge and he agreed to look into Terry's case.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Gerald Hurst",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6680,
+            6682
+          ],
+          "text": "Dr"
+        },
+        {
+          "entities": [
+            {
+              "text": "Austin Texas",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6667,
+            6679
+          ],
+          "text": "Austin Texas"
+        }
+      ]
+    },
+    {
+      "score": 0.474718,
+      "sentence": "The author Toni K. did respond but since he lived in Australia he recommended doctor Gerald Hurst in Austin Texas Dr Hurst earned his PhD in chemistry from Cambridge and he agreed to look into Terry's case.",
+      "type": "residesIn",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6696,
+            6699
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "Cambridge",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            6722,
+            6731
+          ],
+          "text": "Cambridge"
+        }
+      ]
+    },
+    {
+      "score": 0.99771,
+      "sentence": "The author Toni K. did respond but since he lived in Australia he recommended doctor Gerald Hurst in Austin Texas Dr Hurst earned his PhD in chemistry from Cambridge and he agreed to look into Terry's case.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6736,
+            6738
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "text": "agreed",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            6739,
+            6745
+          ],
+          "text": "agreed"
+        }
+      ]
+    },
+    {
+      "score": 0.699248,
+      "sentence": "The author Toni K. did respond but since he lived in Australia he recommended doctor Gerald Hurst in Austin Texas Dr Hurst earned his PhD in chemistry from Cambridge and he agreed to look into Terry's case.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Terry Henson",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6759,
+            6764
+          ],
+          "text": "Terry"
+        },
+        {
+          "entities": [
+            {
+              "text": "case",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6767,
+            6771
+          ],
+          "text": "case"
+        }
+      ]
+    },
+    {
+      "score": 0.684991,
+      "sentence": "Homeowners burning house down to kill their children pretty rare.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Homeowners",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6773,
+            6783
+          ],
+          "text": "Homeowners"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6792,
+            6797
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.346939,
+      "sentence": "Homeowners burning house down to kill their children pretty rare.",
+      "type": "locatedAt",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6817,
+            6825
+          ],
+          "text": "children"
+        },
+        {
+          "entities": [
+            {
+              "text": "house",
+              "type": "Facility"
+            }
+          ],
+          "location": [
+            6792,
+            6797
+          ],
+          "text": "house"
+        }
+      ]
+    },
+    {
+      "score": 0.468569,
+      "sentence": "Homeowners burning house down to kill their children pretty rare.",
+      "type": "parentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Homeowners",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6811,
+            6816
+          ],
+          "text": "their"
+        },
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6817,
+            6825
+          ],
+          "text": "children"
+        }
+      ]
+    },
+    {
+      "score": 0.543584,
+      "sentence": "Terry sent Dr Hurst every piece of information she had about the fire after reading through it Dr Hurst was struck by how incomplete the local investigation had been.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Gerald Hurst",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            6853,
+            6858
+          ],
+          "text": "Hurst"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            6982,
+            6995
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.429667,
+      "sentence": "Dr Hurst sent the local prosecutor his critique of the government's investigation which said their conclusions were based on junk science.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Gerald Hurst",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11594,
+            11597
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            11627,
+            11640
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.34759,
+      "sentence": "To his credit the district attorney study Dr Hurst's report conducted his own investigation and dropped the charges against Terry Henson.",
+      "type": "affectedBy",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Gerald Hurst",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            12019,
+            12022
+          ],
+          "text": "his"
+        },
+        {
+          "entities": [
+            {
+              "text": "investigation",
+              "type": "EventLegal"
+            }
+          ],
+          "location": [
+            12027,
+            12040
+          ],
+          "text": "investigation"
+        }
+      ]
+    },
+    {
+      "score": 0.971056,
+      "sentence": "They have said almost nothing about the attic in the investigation.",
+      "type": "agentOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "children",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7063,
+            7067
+          ],
+          "text": "They"
+        },
+        {
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            7073,
+            7077
+          ],
+          "text": "said"
+        }
+      ]
+    },
+    {
+      "score": 0.976248,
+      "sentence": "Dr Hurst check local weather conditions and he discovered that hurricane Fran had passed through Tabor city North Carolina just six weeks before the fire.",
+      "type": "managerOf",
+      "arguments": [
+        {
+          "entities": [
+            {
+              "text": "Tabor",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            7332,
+            7337
+          ],
+          "text": "Tabor"
+        },
+        {
+          "entities": [
+            {
+              "text": "city",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            7338,
+            7342
+          ],
+          "text": "city"
+        }
+      ]
+    }
+  ]
+}
